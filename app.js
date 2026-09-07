@@ -559,10 +559,24 @@
     setupAddForm();
     setupToolbar();
 
-    const [sites, articles] = await Promise.all([
-      fetch("data/sites.json").then((r) => r.json()),
-      fetch("data/articles-cache.json").then((r) => r.json()),
-    ]);
+    if (location.protocol === "file:") {
+      document.getElementById("content-body").innerHTML =
+        '<p class="empty">이 페이지는 파일을 직접 열면(file://) 브라우저 보안 정책 때문에 데이터를 불러올 수 없습니다.<br>' +
+        "터미널에서 <code>npm run preview</code>를 실행한 뒤 http://localhost:8811 로 접속해주세요.</p>";
+      return;
+    }
+
+    let sites, articles;
+    try {
+      [sites, articles] = await Promise.all([
+        fetch("data/sites.json").then((r) => r.json()),
+        fetch("data/articles-cache.json").then((r) => r.json()),
+      ]);
+    } catch (err) {
+      document.getElementById("content-body").innerHTML =
+        '<p class="empty">데이터를 불러오지 못했습니다: ' + escapeHtml(err.message) + "</p>";
+      return;
+    }
     BASE_SITES = sites;
     ARTICLE_CACHE = articles;
     render();
