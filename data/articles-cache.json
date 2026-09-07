@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T16:10:35.727Z",
+  "collectedAt": "2026-09-07T18:12:23.583Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:27.973Z",
+      "fetchedAt": "2026-09-07T18:12:15.018Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:28.075Z",
+      "fetchedAt": "2026-09-07T18:12:15.080Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:28.966Z",
+      "fetchedAt": "2026-09-07T18:12:16.326Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:29.137Z",
+      "fetchedAt": "2026-09-07T18:12:16.478Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,22 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "브레인롯에서 벗어나기 위한 휴가",
+          "link": "https://news.hada.io/topic?id=33327",
+          "pubDate": "2026-09-07T16:33:54.000Z",
+          "image": null,
+          "summary": "소프트웨어 엔지니어로서 업무에 익숙해지고 AI로 생산성도 높아졌지만 사고는 느리고 얕아졌다고 느껴, 2주간의 휴가를 독서와 새로운 학습에 사용함 숏폼·게임·만화·TV 프로그램으로 지루할 틈이 없어지고 취침 전 둠스크롤링에 독서가 밀려나자, 지난 1년간 손...",
+          "keywords": [
+            "브레인롯에서",
+            "벗어나기",
+            "위한",
+            "휴가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Terence Tao: “AI만으로 수학 문제를 성급하게 푸는 것”의 위험",
           "link": "https://news.hada.io/topic?id=33326",
@@ -423,25 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "단순함을 쉽게 만들기 (2011)",
-          "link": "https://news.hada.io/topic?id=33320",
-          "pubDate": "2026-09-07T12:06:42.000Z",
-          "image": null,
-          "summary": "단순함은 요소가 서로 얽히지 않은 상태이고, 쉬움은 접근성·익숙함·개인의 역량에 따라 달라짐 — 기술을 선택할 때는 작성 편의보다 실행하고 유지보수할 소프트웨어의 구조를 평가해야 함 인간이 동시에 이해할 수 있는 요소는 제한적이므로 복잡성은 이해·변경·디버깅 ...",
-          "keywords": [
-            "단순함을",
-            "쉽게",
-            "만들기",
-            "(2011)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:29.812Z",
+      "fetchedAt": "2026-09-07T18:12:17.317Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +532,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:30.029Z",
+      "fetchedAt": "2026-09-07T18:12:17.535Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:30.241Z",
+      "fetchedAt": "2026-09-07T18:12:17.704Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:30.326Z",
+      "fetchedAt": "2026-09-07T18:12:17.763Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:33.203Z",
+      "fetchedAt": "2026-09-07T18:12:21.064Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -872,7 +872,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:33.550Z",
+      "fetchedAt": "2026-09-07T18:12:21.350Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -964,7 +964,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:33.619Z",
+      "fetchedAt": "2026-09-07T18:12:21.412Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1063,7 +1063,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:35.114Z",
+      "fetchedAt": "2026-09-07T18:12:23.109Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1140,24 +1140,24 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 - 동행일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bTVaLW1XazRocWgxemlMNDNTNG85V3NWM3NhQ1RkYW1wWmRtLXcwT2tINmJnRm9FNUN4cTlIUXdXTFpRUnhYTXFHQzM1YTB4TnQtemRMcHM1U1l1aDBXUU5zVjNNOE5n?oc=5",
-          "pubDate": "2026-09-07T00:33:00.000Z",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
+          "pubDate": "2026-09-06T22:27:22.000Z",
           "image": null,
-          "summary": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 동행일보",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
-            "중기부",
-            "스마트서비스",
-            "A/S지원",
-            "기업",
-            "모집"
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T16:10:35.718Z",
+      "fetchedAt": "2026-09-07T18:12:23.574Z",
       "error": null
     }
   },
