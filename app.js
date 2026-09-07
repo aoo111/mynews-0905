@@ -240,6 +240,8 @@
       btn.innerHTML = `<span>${entry.icon} ${escapeHtml(entry.label)}</span><span class="count">${entry.count}</span>`;
       btn.addEventListener("click", () => {
         selectedCategory = entry.key;
+        searchQuery = "";
+        document.getElementById("search-input").value = "";
         render();
       });
       sidebar.appendChild(btn);
