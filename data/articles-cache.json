@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T10:39:59.885Z",
+  "collectedAt": "2026-09-07T12:14:18.799Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,24 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "'대미투자 1호' 텍사스 복합화력발전소 확정",
+          "title": "한미 '원전동맹' 업그레이드 … 대미펀드 70% 발전사업 투자",
+          "link": "https://www.mk.co.kr/news/economy/12146530",
+          "pubDate": "2026-09-07T10:55:51.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01160110000003_L00.jpg",
+          "summary": "한국이 2000억달러 규모로 조성하는 대미투자펀드의 70% 이상을 미국 내 복합화력발전, 대형 원전 등 에너지 분야에 투자하는 방안을 미국 측과 논의하고 있다. 미국 텍사스주 엔시..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "'대미투자 1호' 텍사스 발전소… 원전 8기 건설도 논의",
           "link": "https://www.mk.co.kr/news/economy/12146468",
           "pubDate": "2026-09-07T09:04:44.000Z",
           "image": null,
-          "summary": "대미투자펀드 1호 프로젝트로 한미 양국이 미국 텍사스주 엔시날 가스복합화력발전 사업을 낙점했다. 전체 투자 규모는 223억달러(약 29조9200억원)로 결정된 것으로 전해졌다. 7..",
+          "summary": "대미투자펀드 1호 프로젝트로 한미 양국이 미국 텍사스주 엔시날 가스복합화력발전 사업을 낙점했다. 전체 투자 규모는 223억달러(약 29조9200억원)로 결정된 것으로 전해졌다. ..",
           "keywords": [
             "경제"
           ],
@@ -57,7 +70,7 @@
           "title": "원화값 두 달새 200원 치솟자 … 국민연금 환헤지 중단",
           "link": "https://www.mk.co.kr/news/economy/12146455",
           "pubDate": "2026-09-07T09:01:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110102000004_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01160102000001_L00.jpg",
           "summary": "달러당 원화값이 23개월 만에 1330원대까지 오르며 가파른 상승세를 이어가고 있다. 한때는 지나친 원화 약세를 우려했지만 불과 두 달 만에 상황이 뒤집힌 것이다. 일각에서는 단기..",
           "keywords": [
             "경제"
@@ -67,10 +80,10 @@
           "summaryKo": null
         },
         {
-          "title": "AI 데이터센터 신청 60%, 수도권에 몰렸다",
+          "title": "AI 데이터센터 신청 60%, 서울·경기 등 수도권에 몰려",
           "link": "https://www.mk.co.kr/news/economy/12146407",
           "pubDate": "2026-09-07T08:55:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110110000006_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01160110000001_M00.jpg",
           "summary": "인공지능(AI) 데이터센터 신청 건수 가운데 60%는 수도권에 쏠린 것으로 나타났다. 이에 송전망 여유가 있는 비수도권에 데이터센터를 지을 수 있도록 직접전력거래(PPA) 허용 범..",
           "keywords": [
             "경제"
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "6.3GW 가스복합발전 건설… 생산 전력은 데이터센터로",
-          "link": "https://www.mk.co.kr/news/economy/12146406",
-          "pubDate": "2026-09-07T08:55:51.000Z",
-          "image": null,
-          "summary": "대미투자 1호로 유력한 '엔시날 프로젝트'는 미국 텍사스주 엔시날에 총 6.3GW 규모의 가스복합화력발전소를 조성하는 사업이다. 통상적 가스복합발전 사업보다 상당히 큰 프로젝트로 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:38:25.152Z",
+      "fetchedAt": "2026-09-07T12:13:46.244Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:38:33.232Z",
+      "fetchedAt": "2026-09-07T12:13:46.296Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -191,7 +191,7 @@
         {
           "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
-          "pubDate": "2026-09-07T09:13:18.000Z",
+          "pubDate": "2026-09-07T18:13:18.000Z",
           "image": null,
           "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
           "keywords": [
@@ -208,7 +208,7 @@
         {
           "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
-          "pubDate": "2026-09-07T09:12:43.000Z",
+          "pubDate": "2026-09-07T18:12:43.000Z",
           "image": null,
           "summary": "앤트로픽이 AI 서비스 수요 폭증에 대응하기 위해 최근 1년간 최대 5170억달러(약 695조원) 규모의 클라우드 컴퓨팅과 데이터센터 계약을 확보한 것으로 나타났다. 5일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 지난해 10월 이후 앞으로 수년간 사용할 수 있는 최소 14.8기가와트(GW) 규모의 컴퓨팅 용량 확보 계약을 체결했다. 이는 기존에 확보했던 1~2GW를 훌쩍 웃도는 수준이다. 공격적인 인프라 확보는 올해 예상보다 빠르게 증가한 ‘클로드 코드’와 ‘코워크’ 수요에 따른 것이다. AI 코딩과 업무 자동화 서비스 이용자",
           "keywords": [
@@ -225,7 +225,7 @@
         {
           "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
-          "pubDate": "2026-09-07T09:05:18.000Z",
+          "pubDate": "2026-09-07T18:05:18.000Z",
           "image": null,
           "summary": "AI가 사용자의 요구에 맞춰 글을 작성하는 것을 넘어, 사용자가 평소 쓰는 말투와 표현 방식까지 학습해 '나만의 문체'로 글을 만들어주는 방향으로 진화하고 있다. AI가 작성한 티가 나는 문제를 줄여줄 것으로 보인다.5일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 사용자의 고유한 글쓰기 습관을 학습해 개인의 어조와 문체를 그대로 반영한 글을 작성하는 새로운 '글쓰기 스타일(Writing Style)' 기능을 챗GPT에서 테스트하고 있는 것으로 알려졌다.이메일이나 문서, 메시지 등 사용자가 실제로 작성한 텍스트를 참고해 챗GPT가",
           "keywords": [
@@ -242,7 +242,7 @@
         {
           "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
-          "pubDate": "2026-09-07T08:59:13.000Z",
+          "pubDate": "2026-09-07T17:59:13.000Z",
           "image": null,
           "summary": "미국 캘리포니아주에서 등산객 3명이 구글의 '제미나이' 등을 이용해 산행 계획을 세웠다가 정상에 오르는 데 예상보다 훨씬 긴 시간이 걸리고 하산 중 길을 잃으면서 고립되는 사고가 발생했다. 이들은 충분한 식량과 물, 장비를 준비하지 않은 채 산행을 강행했고, 결국 이튿날 산림청 레인저와 자원봉사 구조대에 의해 구조됐다.5일(현지시간) 비즈니스인사이더에 따르면, 사고는 캘리포니아주 북부 캐스케이드산맥에 위치한 해발 1만4179피트(약 4322m)의 샤스타산에서 발생했다.20세 남성 3명으로 구성된 일행은 샤스타산의 클리어 크릭 루트",
           "keywords": [
@@ -259,7 +259,7 @@
         {
           "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
-          "pubDate": "2026-09-07T08:51:30.000Z",
+          "pubDate": "2026-09-07T17:51:30.000Z",
           "image": null,
           "summary": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존 영상 생성 모델이 프롬프트를 입력하면 일정 길이의 완성된 영상을 만들어내는 방식이었다면, GWM 월드 2는 사용자가 키보드와 마우스, 텍스트 등으로 세계에 개입하는 동안 초당 24프레",
           "keywords": [
@@ -274,8 +274,8 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:25.156Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-07T12:13:47.771Z",
+      "error": null
     },
     "https://openai.com/news/rss.xml": {
       "name": "OpenAI News RSS",
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:38:48.868Z",
+      "fetchedAt": "2026-09-07T12:13:47.948Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,54 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "단순함을 쉽게 만들기 (2011)",
+          "link": "https://news.hada.io/topic?id=33320",
+          "pubDate": "2026-09-07T12:06:42.000Z",
+          "image": null,
+          "summary": "단순함은 요소가 서로 얽히지 않은 상태이고, 쉬움은 접근성·익숙함·개인의 역량에 따라 달라짐 — 기술을 선택할 때는 작성 편의보다 실행하고 유지보수할 소프트웨어의 구조를 평가해야 함 인간이 동시에 이해할 수 있는 요소는 제한적이므로 복잡성은 이해·변경·디버깅 ...",
+          "keywords": [
+            "단순함을",
+            "쉽게",
+            "만들기",
+            "(2011)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OCaml로 프로그래밍 배우기",
+          "link": "https://news.hada.io/topic?id=33319",
+          "pubDate": "2026-09-07T11:32:27.000Z",
+          "image": null,
+          "summary": "프랑스어 OCaml 책의 영어 번역본으로, PDF와 EPUB 형식으로 공개되어 있음 영어 번역은 The OCaml Software Foundation의 자금 지원으로 이루어짐 책에는 CC BY SA 4.0 공개 라이선스가 적용됨 PDF 1.9MB·EPUB 2.3MB...",
+          "keywords": [
+            "OCaml로",
+            "프로그래밍",
+            "배우기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "LG TV 화면을 끈 상태에서 오디오 녹음, 주변 기기 탐색 적발",
+          "link": "https://news.hada.io/topic?id=33318",
+          "pubDate": "2026-09-07T11:24:18.000Z",
+          "image": null,
+          "summary": "Gamers Nexus가 Level1Techs 및 독립 보안 연구자들과 함께 LG G5 등 OLED TV를 테스트한 결과를 135분 분량 영상으로 공개 Wireshark 패킷 분석 결과, TV가 가정 네트워크를 지속적으로 스캔해 휴대폰·스마트워치 등 무관한 기기를 매핑하고, 주변 Wi-Fi 이름·신호 세기·위치 정보까지 수집",
+          "keywords": [
+            "LG",
+            "TV",
+            "화면을",
+            "상태에서",
+            "오디오"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Show GN: PolyView - 폴리마켓 공개 데이터를 한국어로 보는 한국 폴리마켓 뷰어",
           "link": "https://news.hada.io/topic?id=33317",
@@ -389,60 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: yukari-rubi : 일본어 사이트 한자 히라가나 브라우저 확장기능",
-          "link": "https://news.hada.io/topic?id=33315",
-          "pubDate": "2026-09-07T07:35:46.000Z",
-          "image": null,
-          "summary": "이번에 Chrome 또한 지원하게 되어 글을 올립니다. 일본어 사이트 한자에, 히라가나로 읽기를 달아주는 브라우저 확장기능입니다. 좋",
-          "keywords": [
-            "Show",
-            "GN:",
-            "yukari",
-            "rubi",
-            "일본어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: VIBE-GAME ( AI 에게 일 시키고 기다리면서 하기에 좋은 게임 )",
-          "link": "https://news.hada.io/topic?id=33311",
-          "pubDate": "2026-09-07T02:26:56.000Z",
-          "image": null,
-          "summary": "요즘 AI 로 개발을 진행하다 보니 작업 시켜두고 기다리기에 지루한 시간들이 자주 생기더라구요. 앱을 다운로드 해서 하자니 뭔가 번거롭기도 하고 광고에 시달리기도 귀찮고 구형 폰이라서 최신 게임도 잘 안 돌아가고 해서 심심풀이로 Codex Sol Max 로 그냥 개발해보라고 했는데 퀄리티가 나름 괜찮아서 틈...",
-          "keywords": [
-            "Show",
-            "GN:",
-            "VIBE",
-            "GAME",
-            "AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Alien Mind: 인간과는 다른, 낯선 지성",
-          "link": "https://news.hada.io/topic?id=33309",
-          "pubDate": "2026-09-07T01:37:17.000Z",
-          "image": null,
-          "summary": "OpenAI는 추론 모델의 발전이 재귀적 자기개선(RSI) 으로 이어질 수 있다고 예상하며, 정렬과 감시 역량이 지능 향상을 따라가지 못하는 만큼 개발 속도를 안전성에 맞춰 제한해야 한다고 강조함 AI는 사람이 설계한 규칙보다 대규모 최적화로 성장하는 시스템에 가...",
-          "keywords": [
-            "Alien",
-            "Mind:",
-            "인간과는",
-            "다른",
-            "낯선"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:38:49.483Z",
+      "fetchedAt": "2026-09-07T12:13:48.736Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +530,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:38:58.945Z",
+      "fetchedAt": "2026-09-07T12:13:48.856Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +604,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:39:06.372Z",
+      "fetchedAt": "2026-09-07T12:13:48.929Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +685,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:39:13.808Z",
+      "fetchedAt": "2026-09-07T12:13:48.977Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -873,7 +870,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:39:29.066Z",
+      "fetchedAt": "2026-09-07T12:14:04.135Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -965,7 +962,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:39:37.762Z",
+      "fetchedAt": "2026-09-07T12:14:04.189Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,6 +970,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "제주 원물과 브랜드 스토리, 홍콩 바이어 움직였다…로컬기업 50억 원 수출의향서 확보",
+          "link": "https://www.venturesquare.net/1111395/",
+          "pubDate": "2026-09-07T10:28:53.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/JEJU-3-696x522.jpg",
+          "summary": "제주 로컬기업 11개사가 홍콩 글로벌 세일즈 프로그램에 참여해 현지 투자자·바이어와 제품 경쟁력과 수출 조건을 논의했다. 메달스, 유동커피팩토리, 카카오패밀리, 성산과자점 등 4개사는 총 3,000만 원 규모의 수출계약을 체결했고 참가기업들은 50억 원 규모의 수출의향... The post 제주 원물과 브랜드 스토리, 홍콩 바이어 움직였다…로컬기업 50억 원 수출의향서 확보 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "THE제주크리에이터",
+            "글로벌세일즈",
+            "로컬브랜드",
+            "수출계약",
+            "수출의향서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "로봇이 움직이고 AI가 판단한다…중소 제조현장으로 내려온 ‘피지컬 AI’",
           "link": "https://www.venturesquare.net/1111372/",
@@ -1044,28 +1059,10 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[김지현의 스케일업 노트] AI도 결국 전략이다…스케일업 성패 가르는 ‘문제 정의’",
-          "link": "https://www.venturesquare.net/1111069/",
-          "pubDate": "2026-09-05T08:05:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-NOTE-1536x806-1-789x414.jpg",
-          "summary": "기업의 AI 활용은 빠르게 늘고 있지만 개인의 생산성 향상이 기업 전체의 재무 성과로 이어지는 비율은 아직 제한적이다. AI 도입의 성패는 최신 기술이나 모델의 보유 여부보다 기업이 해결하려는 비즈니스 문제를 얼마나 명확히 정의했는지에 달려 있다. AI를 통해 줄이려는... The post [김지현의 스케일업 노트] AI도 결국 전략이다…스케일업 성패 가르는 ‘문제 정의’ appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "AI도입",
-            "AI전략",
-            "경영전략",
-            "기업생산성"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:37:13.288Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-07T12:14:18.417Z",
+      "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
       "name": "Google News 지원사업 RSS",
@@ -1158,7 +1155,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:39:53.236Z",
+      "fetchedAt": "2026-09-07T12:14:18.786Z",
       "error": null
     }
   },
@@ -1166,72 +1163,72 @@
     {
       "key": "special post",
       "label": "Special Post",
-      "count": 3,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
       "count": 2,
-      "rank": 2,
+      "rank": 1,
       "change": "same"
     },
     {
       "key": "esg",
       "label": "ESG",
       "count": 5,
-      "rank": 3,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 8,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "중소기업",
       "label": "중소기업",
       "count": 4,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "수자원공사",
+      "label": "수자원공사",
+      "count": 3,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
