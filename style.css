@@ -208,12 +208,6 @@ a {
   transform: translateX(16px);
 }
 
-.status-bar {
-  font-size: 12px;
-  color: var(--muted);
-  margin-bottom: 14px;
-}
-
 .view-layout {
   display: flex;
   gap: 24px;

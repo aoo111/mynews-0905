@@ -502,14 +502,6 @@
     }[c]));
   }
 
-  function renderStatusBar() {
-    const bar = document.getElementById("status-bar");
-    const collectedAt = ARTICLE_CACHE.collectedAt
-      ? new Date(ARTICLE_CACHE.collectedAt).toLocaleString("ko-KR")
-      : "아직 없음";
-    bar.textContent = `마지막 수집(GitHub Actions): ${collectedAt} · 2시간 간격 자동 수집 · 매일 오전 9시 디스코드 전송`;
-  }
-
   function render() {
     const tree = buildTree(getAllSites());
     updateCategoryOptions(tree);
@@ -525,7 +517,6 @@
     } else {
       renderSitesView(tree);
     }
-    renderStatusBar();
   }
 
   function setupAddForm() {
