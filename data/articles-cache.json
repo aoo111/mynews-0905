@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T08:45:01.617Z",
+  "collectedAt": "2026-09-07T08:49:32.142Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -66,7 +66,7 @@
           "pubDate": "2026-09-07T08:38:32.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:44.579Z",
+      "fetchedAt": "2026-09-07T08:49:06.480Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -100,7 +100,7 @@
           "pubDate": "2026-08-20T15:00:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:44.669Z",
+      "fetchedAt": "2026-09-07T08:49:06.647Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -111,30 +111,30 @@
         {
           "title": "오픈AI 수석 과학자의 경고...\"외계인 같은 AI, 자기개선에 대비해야\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214932",
-          "pubDate": "2026-09-07T08:40:23.000Z"
+          "pubDate": "2026-09-07T17:40:23.000Z"
         },
         {
           "title": "\"인간처럼 기만하고 공모\"...통제 벗어난 'AI 스웜'의 경고",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214938",
-          "pubDate": "2026-09-07T08:30:00.000Z"
+          "pubDate": "2026-09-07T17:30:00.000Z"
         },
         {
           "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214945",
-          "pubDate": "2026-09-07T08:19:08.000Z"
+          "pubDate": "2026-09-07T17:19:08.000Z"
         },
         {
           "title": "화웨이 ‘타우 법칙’ 칩 과열 우려 일축...“트랜지스터 밀도 55% 높이고 전력 낮췄다”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214960",
-          "pubDate": "2026-09-07T08:10:07.000Z"
+          "pubDate": "2026-09-07T17:10:07.000Z"
         },
         {
           "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214939",
-          "pubDate": "2026-09-07T08:05:06.000Z"
+          "pubDate": "2026-09-07T17:05:06.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:44.819Z",
+      "fetchedAt": "2026-09-07T08:49:07.841Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -168,7 +168,7 @@
           "pubDate": "2026-09-03T12:00:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:44.976Z",
+      "fetchedAt": "2026-09-07T08:49:08.101Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -176,6 +176,11 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Show GN: PolyView - 폴리마켓 공개 데이터를 한국어로 보는 한국 폴리마켓 뷰어",
+          "link": "https://news.hada.io/topic?id=33317",
+          "pubDate": "2026-09-07T08:47:49.000Z"
+        },
         {
           "title": "우리 서버가 계속 운영될 수 있도록 도와주세요",
           "link": "https://news.hada.io/topic?id=33316",
@@ -195,14 +200,9 @@
           "title": "Alien Mind: 인간과는 다른, 낯선 지성",
           "link": "https://news.hada.io/topic?id=33309",
           "pubDate": "2026-09-07T01:37:17.000Z"
-        },
-        {
-          "title": "티빙 3,954만 계정 정보 유출…보상은 직접 신청해야 함",
-          "link": "https://news.hada.io/topic?id=33308",
-          "pubDate": "2026-09-07T01:15:02.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:45.076Z",
+      "fetchedAt": "2026-09-07T08:49:08.902Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -236,7 +236,7 @@
           "pubDate": "2026-09-03T22:32:32.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:45.291Z",
+      "fetchedAt": "2026-09-07T08:49:09.203Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -270,7 +270,7 @@
           "pubDate": "2022-03-16T17:30:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:46.176Z",
+      "fetchedAt": "2026-09-07T08:49:09.422Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -304,7 +304,7 @@
           "pubDate": "2025-01-30T15:00:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:46.467Z",
+      "fetchedAt": "2026-09-07T08:49:09.527Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -339,7 +339,7 @@
         }
       ],
       "fetchedAt": "2026-09-07T08:44:59.016Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -372,7 +372,7 @@
           "pubDate": "2026-09-06T23:33:29.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:59.187Z",
+      "fetchedAt": "2026-09-07T08:49:24.845Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -406,7 +406,7 @@
           "pubDate": "2026-09-03T20:59:23.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:59.388Z",
+      "fetchedAt": "2026-09-07T08:49:24.938Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -440,7 +440,7 @@
           "pubDate": "2026-09-03T13:48:05.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:45:00.529Z",
+      "fetchedAt": "2026-09-07T08:49:31.480Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -469,12 +469,12 @@
           "pubDate": "2026-09-07T06:08:00.000Z"
         },
         {
-          "title": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 - 동행일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bTVaLW1XazRocWgxemlMNDNTNG85V3NWM3NhQ1RkYW1wWmRtLXcwT2tINmJnRm9FNUN4cTlIUXdXTFpRUnhYTXFHQzM1YTB4TnQtemRMcHM1U1l1aDBXUU5zVjNNOE5n?oc=5",
-          "pubDate": "2026-09-07T00:33:00.000Z"
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
+          "pubDate": "2026-09-06T22:27:22.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:45:01.616Z",
+      "fetchedAt": "2026-09-07T08:49:32.142Z",
       "error": null
     }
   }
