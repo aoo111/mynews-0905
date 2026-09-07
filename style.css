@@ -112,27 +112,6 @@ a {
   border-color: var(--accent);
 }
 
-.type-filter {
-  display: flex;
-  gap: 6px;
-}
-
-.chip {
-  border: 1px solid var(--border);
-  background: var(--panel-alt);
-  border-radius: 999px;
-  padding: 8px 14px;
-  font-size: 12px;
-  color: var(--muted);
-  cursor: pointer;
-}
-
-.chip.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
-}
-
 .switch-label {
   display: flex;
   align-items: center;

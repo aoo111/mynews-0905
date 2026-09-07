@@ -40,7 +40,6 @@
   let selectedCategory = ALL_CATEGORY;
   let activeView = "feed"; // 'sites' | 'feed'
   let searchQuery = "";
-  let typeFilter = "ALL"; // 'ALL' | 'RSS' | 'WEBSITE'
   let translateEnabled = false;
   let selectedDate = null; // "YYYY-MM-DD" | null
   let trendingScope = "domestic"; // 'domestic' | 'global'
@@ -103,7 +102,6 @@
   }
 
   function siteMatchesFilters(site) {
-    if (typeFilter !== "ALL" && site.type !== typeFilter) return false;
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       return (
@@ -659,8 +657,6 @@
     document.querySelectorAll(".category-nav-btn[data-view]").forEach((btn) => {
       btn.classList.toggle("active", btn.dataset.view === activeView);
     });
-    document.getElementById("type-filter").hidden = activeView === "feed";
-
     const panelOpen = !document.getElementById("add-form-panel").hidden;
     const showFeedExtras = activeView === "feed" && !panelOpen;
 
@@ -735,14 +731,6 @@
     searchInput.addEventListener("input", () => {
       searchQuery = searchInput.value.trim();
       render();
-    });
-
-    document.querySelectorAll(".chip[data-type]").forEach((chip) => {
-      chip.addEventListener("click", () => {
-        typeFilter = chip.dataset.type;
-        document.querySelectorAll(".chip[data-type]").forEach((c) => c.classList.toggle("active", c === chip));
-        render();
-      });
     });
 
     document.getElementById("translate-toggle").addEventListener("change", (e) => {
