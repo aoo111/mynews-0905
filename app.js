@@ -41,6 +41,7 @@
   let activeView = "feed"; // 'sites' | 'feed'
   let searchQuery = "";
   let typeFilter = "ALL"; // 'ALL' | 'RSS' | 'WEBSITE'
+  let translateEnabled = false;
   let BASE_SITES = [];
   let ARTICLE_CACHE = { collectedAt: null, feeds: {} };
 
@@ -295,6 +296,9 @@
           image: item.image || null,
           summary: item.summary || "",
           keywords: item.keywords || [],
+          isForeign: !!item.isForeign,
+          titleKo: item.titleKo || null,
+          summaryKo: item.summaryKo || null,
           siteName: feed.name,
           category: feed.category,
           subcategory: feed.subcategory,
@@ -326,6 +330,14 @@
     body.appendChild(grid);
   }
 
+  function getDisplayTitle(article) {
+    return translateEnabled && article.titleKo ? article.titleKo : article.title;
+  }
+
+  function getDisplaySummary(article) {
+    return translateEnabled && article.summaryKo ? article.summaryKo : article.summary;
+  }
+
   function renderNewsCard(article) {
     const card = document.createElement("div");
     card.className = "news-card";
@@ -347,13 +359,15 @@
       ? `<img src="${escapeHtml(article.image)}" alt="" loading="lazy" onerror="this.remove()" />`
       : "";
 
+    const foreignBadge = article.isForeign ? '<span class="lang-badge">EN</span>' : "";
+
     card.innerHTML = `
       <div class="news-card-meta">
         <span>${escapeHtml(dateStr || "")}</span>
-        <span>${escapeHtml(article.siteName)}</span>
+        <span>${foreignBadge}${escapeHtml(article.siteName)}</span>
       </div>
       <div class="news-card-photo" style="background:${tone}">${img}<span class="news-card-icon">${icon}</span></div>
-      <h3 class="news-card-title">${escapeHtml(article.title)}</h3>
+      <h3 class="news-card-title">${escapeHtml(getDisplayTitle(article))}</h3>
       <div class="news-card-footer">
         <span>${escapeHtml(article.subcategory || "")}</span>
         <span class="news-card-link">자세히 보기 →</span>
@@ -375,10 +389,12 @@
       ? `<img src="${escapeHtml(article.image)}" alt="" onerror="this.parentElement.innerHTML=''" />`
       : "";
 
-    document.getElementById("modal-title").textContent = article.title;
+    document.getElementById("modal-title").textContent = getDisplayTitle(article);
+
+    const summaryText = getDisplaySummary(article);
     document.getElementById("modal-summary").textContent =
-      article.summary && article.summary.trim()
-        ? article.summary
+      summaryText && summaryText.trim()
+        ? summaryText
         : "이 기사는 요약 정보를 제공하지 않습니다. 아래 원문 링크에서 전체 내용을 확인해주세요.";
 
     document.getElementById("modal-link").href = article.link;
@@ -604,6 +620,11 @@
         document.querySelectorAll(".chip[data-type]").forEach((c) => c.classList.toggle("active", c === chip));
         render();
       });
+    });
+
+    document.getElementById("translate-toggle").addEventListener("change", (e) => {
+      translateEnabled = e.target.checked;
+      render();
     });
   }
 

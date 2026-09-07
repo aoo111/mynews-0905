@@ -62,6 +62,37 @@ function stripHtml(html) {
   return String(html).replace(/<[^>]+>/g, " ");
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// 한글이 거의 없으면 외국어 기사로 간주한다 (번역 대상 판단용).
+function looksKorean(text) {
+  if (!text) return true;
+  const hangul = (text.match(/[가-힣]/g) || []).length;
+  return hangul >= 2;
+}
+
+// 무료 번역 API(MyMemory)로 영어 등 외국어 텍스트를 한국어로 번역한다.
+// 실패하거나 응답이 이상하면 null을 반환하고, 화면에서는 원문을 보여준다.
+async function translateToKorean(text) {
+  if (!text) return null;
+  const trimmed = text.slice(0, 480);
+  try {
+    const res = await fetch(
+      `https://api.mymemory.translated.net/get?q=${encodeURIComponent(trimmed)}&langpair=en|ko`,
+      { signal: AbortSignal.timeout(10000) }
+    );
+    if (!res.ok) return null;
+    const data = await res.json();
+    const translated = data && data.responseData && data.responseData.translatedText;
+    if (!translated || /MYMEMORY WARNING/i.test(translated)) return null;
+    return translated;
+  } catch (e) {
+    return null;
+  }
+}
+
 // 기사 요약: RSS가 제공하는 본문 스니펫을 최대한 활용한다 (자체 AI 요약이
 // 아니라 RSS 원문의 설명/요약 필드를 정리해서 보여주는 것).
 function extractSummary(item) {
@@ -138,14 +169,35 @@ async function fetchText(url) {
 async function fetchFeed(site) {
   const xml = await fetchText(site.url);
   const feed = await parser.parseString(xml);
-  return (feed.items || []).slice(0, ARTICLES_PER_FEED).map((item) => ({
-    title: (item.title || "(제목 없음)").trim(),
-    link: item.link || site.url,
-    pubDate: item.isoDate || item.pubDate || null,
-    image: extractImage(item),
-    summary: extractSummary(item),
-    keywords: extractKeywords(item),
-  }));
+  const rawItems = (feed.items || []).slice(0, ARTICLES_PER_FEED);
+
+  const items = [];
+  for (const item of rawItems) {
+    const title = (item.title || "(제목 없음)").trim();
+    const summary = extractSummary(item);
+    const isForeign = !looksKorean(title);
+
+    let titleKo = null;
+    let summaryKo = null;
+    if (isForeign) {
+      titleKo = await translateToKorean(title);
+      if (summary) summaryKo = await translateToKorean(summary);
+      await sleep(200); // 무료 번역 API에 과도한 연속 요청을 보내지 않기 위한 텀
+    }
+
+    items.push({
+      title,
+      link: item.link || site.url,
+      pubDate: item.isoDate || item.pubDate || null,
+      image: extractImage(item),
+      summary,
+      keywords: extractKeywords(item),
+      isForeign,
+      titleKo,
+      summaryKo,
+    });
+  }
+  return items;
 }
 
 async function collectAllFeeds() {
