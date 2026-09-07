@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T20:10:38.321Z",
+  "collectedAt": "2026-09-07T22:10:37.145Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“이번달도 월급이 통장을 스치운다”…금리 1%P 오르면 연체율 무려",
+          "link": "https://www.mk.co.kr/news/economy/12146587",
+          "pubDate": "2026-09-07T21:09:34.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260612.296f329bc173407db9101b5fb2e7b0a2_R.jpg",
+          "summary": "한은 ‘가계부채 리스크 평가’ DSR 46% 넘는 가구 11% 상환 부담커져 소비도 위축가계빚 부담이 소득의 절반에 가까워지면 소비가 줄어들기 시작한다는 연구 결과가 나왔다. 많은..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "우리금융 외국인 지분율, 사상 첫 50% 돌파…꾸준히 사들이는 이유는",
           "link": "https://www.mk.co.kr/news/economy/12146570",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "AI 데이터센터 신청 60%, 서울·경기 등 수도권에 몰려",
-          "link": "https://www.mk.co.kr/news/economy/12146407",
-          "pubDate": "2026-09-07T08:55:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01160110000001_M00.jpg",
-          "summary": "인공지능(AI) 데이터센터 신청 건수 가운데 60%는 수도권에 쏠린 것으로 나타났다. 이에 송전망 여유가 있는 비수도권에 데이터센터를 지을 수 있도록 직접전력거래(PPA) 허용 범..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:29.069Z",
+      "fetchedAt": "2026-09-07T22:10:18.385Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:29.189Z",
+      "fetchedAt": "2026-09-07T22:10:18.508Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:29.984Z",
+      "fetchedAt": "2026-09-07T22:10:19.507Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:30.130Z",
+      "fetchedAt": "2026-09-07T22:10:19.687Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "2억 1,600만 대의 감시 TV — LG 스마트 TV의 문제 [영상]",
+          "link": "https://news.hada.io/topic?id=33332",
+          "pubDate": "2026-09-07T21:51:47.000Z",
+          "image": null,
+          "summary": "Gamers Nexus와 보안 연구진이 LG TV에서 주변 기기 탐색·음성 전사 로그 저장을 확인하고, 침해 후에는 몰래 녹음·촬영할 수 있음을 시연함 — 기본 데이터 수집과 공격자가 제어권을 확보한 뒤의 동작은 구분해야 함 자동 콘텐츠 인식(ACR) 은 화면·오디오를 지문...",
+          "keywords": [
+            "2억",
+            "600만",
+            "대의",
+            "감시",
+            "TV"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "BZip3 - BZip2의 더 낫고, 더 빠르고, 더 강력한 정신적 후속작",
+          "link": "https://news.hada.io/topic?id=33330",
+          "pubDate": "2026-09-07T20:32:39.000Z",
+          "image": null,
+          "summary": "BZip3는 BZip2의 정신적 후속 압축 도구로, 특히 텍스트와 코드 압축에 강점을 가지며 더 높은 압축률과 성능을 목표로 함 0차 문맥 혼합 엔트로피 코더, 접미사 배열 기반 Burrows-Wheeler 변환, RLE 및 Lempel Ziv+Prediction 처리를 결합함 Perl5의 역...",
+          "keywords": [
+            "BZip3",
+            "BZip2의",
+            "낫고",
+            "빠르고",
+            "강력한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "1024바이트로 Python 인터프리터 만들기",
           "link": "https://news.hada.io/topic?id=33329",
@@ -404,43 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Terence Tao: “AI만으로 수학 문제를 성급하게 푸는 것”의 위험",
-          "link": "https://news.hada.io/topic?id=33326",
-          "pubDate": "2026-09-07T16:02:30.000Z",
-          "image": null,
-          "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를 분석하며 풀면 유체역학을...",
-          "keywords": [
-            "Terence",
-            "Tao:",
-            "AI만으로",
-            "수학",
-            "문제를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "GrapheneOS, 기본 앱과 보안 클립보드 전면 개편",
-          "link": "https://news.hada.io/topic?id=33325",
-          "pubDate": "2026-09-07T13:32:28.000Z",
-          "image": null,
-          "summary": "기본 Messaging 앱의 낡은 인터페이스를 Android Compose로 전면 재작성하고 있으며, 여러 개선과 버그 수정을 담은 새 버전을 게시 당일 늦게 출시할 예정임 장기적으로 RCS와 Messaging Layer Security(MLS) 기반 종단간 암호화",
-          "keywords": [
-            "GrapheneOS",
-            "기본",
-            "앱과",
-            "보안",
-            "클립보드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:31.138Z",
+      "fetchedAt": "2026-09-07T22:10:20.450Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -531,7 +531,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:31.387Z",
+      "fetchedAt": "2026-09-07T22:10:20.729Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:31.606Z",
+      "fetchedAt": "2026-09-07T22:10:20.961Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:31.681Z",
+      "fetchedAt": "2026-09-07T22:10:21.014Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -785,7 +785,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:34.815Z",
+      "fetchedAt": "2026-09-07T22:10:23.696Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -871,7 +871,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:35.032Z",
+      "fetchedAt": "2026-09-07T22:10:23.965Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -963,7 +963,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:36.065Z",
+      "fetchedAt": "2026-09-07T22:10:34.240Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1062,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:37.858Z",
+      "fetchedAt": "2026-09-07T22:10:36.598Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1105,17 +1105,17 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
-          "pubDate": "2026-09-06T22:27:22.000Z",
+          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
+          "pubDate": "2026-09-07T07:47:58.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 cctoday.co.kr",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "한국수자원공사",
+            "중소기업",
+            "ESG",
+            "지원사업",
+            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1139,11 +1139,11 @@
           "summaryKo": null
         },
         {
-          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
-          "pubDate": "2026-09-07T07:47:58.000Z",
+          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XVGg2dl9DUnNpS0RMYnVyR2hlNGtPWFFTZjhmN1NRQ1JIWEZQVy1IMTh1T2xvTElaZ09lTVRZN3FleXNPSW1HYVpDQ0dua0E?oc=5",
+          "pubDate": "2026-09-07T07:54:21.000Z",
           "image": null,
-          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 cctoday.co.kr",
+          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 v.daum.net",
           "keywords": [
             "한국수자원공사",
             "중소기업",
@@ -1156,80 +1156,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T20:10:38.306Z",
+      "fetchedAt": "2026-09-07T22:10:37.136Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "보안",
-      "label": "보안",
-      "count": 2,
+      "key": "esg",
+      "label": "ESG",
+      "count": 5,
       "rank": 1,
-      "change": "new"
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
-    },
-    {
-      "key": "esg",
-      "label": "ESG",
-      "count": 4,
-      "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "중소기업",
       "label": "중소기업",
+      "count": 5,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
       "count": 4,
       "rank": 8,
       "change": "up"
     },
     {
+      "key": "참여기업",
+      "label": "참여기업",
+      "count": 4,
+      "rank": 9,
+      "change": "new"
+    },
+    {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 9,
-      "change": "down"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
