@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T18:12:23.583Z",
+  "collectedAt": "2026-09-07T20:10:38.321Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:15.018Z",
+      "fetchedAt": "2026-09-07T20:10:29.069Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:15.080Z",
+      "fetchedAt": "2026-09-07T20:10:29.189Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+          "pubDate": "2026-09-07T19:20:00.000Z",
+          "image": null,
+          "summary": "에임인텔리전스가 AI 에이전트와 피지컬 AI 시대로의 전환에 맞춰 통제 불능 리스크를 방지하기 위한 지속적·실시간 보안 레이어 구축의 필요성을 강조했다.박하언 에임인텔리전스 최고 기술책임자(CTO)는 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 'AI 통제의 최전선: 모델에서 에이전트, 피지컬 AI까지'를 주제로 발표를 진행했다.박 CTO는 클라우드시큐리티얼라이언스(CSA) 통계자료를 인용해 \"기업의 82%가량이 자체적으로 파악하지 못한 그림자 AI 에이전트를 보유 중이며, 절반 이상은 AI 에이전트가 권",
+          "keywords": [
+            "에임인텔리전스",
+            "AGI급",
+            "아스트라",
+            "보안",
+            "공백"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
-          "pubDate": "2026-09-07T17:51:30.000Z",
-          "image": null,
-          "summary": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존 영상 생성 모델이 프롬프트를 입력하면 일정 길이의 완성된 영상을 만들어내는 방식이었다면, GWM 월드 2는 사용자가 키보드와 마우스, 텍스트 등으로 세계에 개입하는 동안 초당 24프레",
-          "keywords": [
-            "끝없이",
-            "펼쳐지는",
-            "가상세계",
-            "런웨이",
-            "실시간"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:16.326Z",
+      "fetchedAt": "2026-09-07T20:10:29.984Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:16.478Z",
+      "fetchedAt": "2026-09-07T20:10:30.130Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "1024바이트로 Python 인터프리터 만들기",
+          "link": "https://news.hada.io/topic?id=33329",
+          "pubDate": "2026-09-07T19:33:33.000Z",
+          "image": null,
+          "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
+          "keywords": [
+            "1024바이트로",
+            "Python",
+            "인터프리터",
+            "만들기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "스위스 연방정부, 컴퓨터 3,000대에서 Microsoft를 대체한다",
+          "link": "https://news.hada.io/topic?id=33328",
+          "pubDate": "2026-09-07T18:33:12.000Z",
+          "image": null,
+          "summary": "스위스 연방정부가 전체 인력의 약 7%인 3,000명을 대상으로 Microsoft 365를 오픈소스 대안으로 전환하는 파일럿을 시작했으며, 2027년 말 완료를 목표로 함 직원 172명이 참여한 openDesk 개념검증에서 문서 처리와 이메일은 긍정적인 평가를 받...",
+          "keywords": [
+            "스위스",
+            "연방정부",
+            "컴퓨터",
+            "000대에서",
+            "Microsoft를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "브레인롯에서 벗어나기 위한 휴가",
           "link": "https://news.hada.io/topic?id=33327",
@@ -405,43 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Anubis에 WebAssembly를 탑재하기까지 1년이 걸렸다",
-          "link": "https://news.hada.io/topic?id=33323",
-          "pubDate": "2026-09-07T13:01:08.000Z",
-          "image": null,
-          "summary": "Anubis는 AI 기업의 공격적인 웹사이트 스크래핑으로 인한 서비스 중단과 이용자의 접근 불가를 막기 위해 관리자가 설치하는 서버 보호 도구임 이메일 스팸을 줄이기 위해 제안된 Hashcash와 유사한 작업 증명(Proof-of-Work) 방식을 사용함",
-          "keywords": [
-            "Anubis에",
-            "WebAssembly를",
-            "탑재하기까지",
-            "1년이",
-            "걸렸다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
-          "link": "https://news.hada.io/topic?id=33321",
-          "pubDate": "2026-09-07T12:24:39.000Z",
-          "image": null,
-          "summary": "최근 약간 빠져버린 무협지에서 기인해, 가벼운 마음으로 무협지 문체 스킬을 만들어 보았습니다. 이 초식은 클로드가 강호의 말투로 한국어를 쓰도록 합니다. 해당 초식을 사용하셔도 좋고, 직접 유사하게 비급을 만드셔도 좋습니다. 이 초식이 유일한 길은 아니니, 원하시는 초식을 자유롭게 펼치십시오, 사",
-          "keywords": [
-            "Show",
-            "GN:",
-            "번역체를",
-            "완전히",
-            "없앤다면"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:17.317Z",
+      "fetchedAt": "2026-09-07T20:10:31.138Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +531,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:17.535Z",
+      "fetchedAt": "2026-09-07T20:10:31.387Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:17.704Z",
+      "fetchedAt": "2026-09-07T20:10:31.606Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:17.763Z",
+      "fetchedAt": "2026-09-07T20:10:31.681Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +785,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:21.064Z",
+      "fetchedAt": "2026-09-07T20:10:34.815Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -872,7 +871,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:21.350Z",
+      "fetchedAt": "2026-09-07T20:10:35.032Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -887,19 +886,19 @@
           "image": null,
           "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
           "keywords": [
+            "AI",
             "Startups",
             "Transportation",
-            "AI",
-            "Travis Kalanick",
-            "Uber",
-            "atoms"
+            "atoms",
+            "In Brief",
+            "Travis Kalanick"
           ],
           "isForeign": true,
           "titleKo": "Travis Kalanick의 Atoms가 로봇 택시 사업에 뛰어들고 있을지도 모릅니다.",
           "summaryKo": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다."
         },
         {
-          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
           "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
           "pubDate": "2026-09-04T23:36:14.000Z",
           "image": null,
@@ -911,7 +910,7 @@
             "8VC"
           ],
           "isForeign": true,
-          "titleKo": "XDOF, 스텔스에서 불과 3 개월 만에 $ 1.2B 가치의 시리즈 B에 대한 회담 중입니다.",
+          "titleKo": null,
           "summaryKo": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다."
         },
         {
@@ -964,7 +963,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:21.412Z",
+      "fetchedAt": "2026-09-07T20:10:36.065Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1063,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:23.109Z",
+      "fetchedAt": "2026-09-07T20:10:37.858Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1106,6 +1105,23 @@
           "summaryKo": null
         },
         {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
+          "pubDate": "2026-09-06T22:27:22.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
           "pubDate": "2026-09-07T01:29:30.000Z",
@@ -1123,107 +1139,90 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
-          "pubDate": "2026-09-07T06:08:00.000Z",
+          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
+          "pubDate": "2026-09-07T07:47:58.000Z",
           "image": null,
-          "summary": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 매일건설신문",
+          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 cctoday.co.kr",
           "keywords": [
-            "수자원공사",
+            "한국수자원공사",
+            "중소기업",
             "ESG",
-            "경쟁력",
-            "강화",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
-          "pubDate": "2026-09-06T22:27:22.000Z",
-          "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
-          "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "지원사업",
+            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T18:12:23.574Z",
+      "fetchedAt": "2026-09-07T20:10:38.306Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "보안",
+      "label": "보안",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "esg",
       "label": "ESG",
       "count": 4,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
-      "key": "수자원공사",
-      "label": "수자원공사",
-      "count": 3,
-      "rank": 7,
-      "change": "same"
+      "key": "중소기업",
+      "label": "중소기업",
+      "count": 4,
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "중소기업",
-      "label": "중소기업",
-      "count": 3,
       "rank": 9,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "지원사업",
