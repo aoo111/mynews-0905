@@ -1,11 +1,12 @@
 /**
  * 화면 렌더링 코드.
- * - 사이트 목록: 서버 /api/sites (data/sites.json) + localStorage에 저장된 사용자 추가 사이트
- * - RSS 최신 기사: 서버 /api/articles (2시간마다 서버가 수집해 캐시한 결과)
+ * - 사이트 목록: data/sites.json (정적 파일) + localStorage에 저장된 사용자 추가 사이트
+ * - RSS 최신 기사: data/articles-cache.json (GitHub Actions가 2시간마다 갱신)
  * 데이터 구조를 몰라도 되도록 "대분류>세부분류" tags 문자열만 이용해 트리를 만든다.
  */
 (function () {
   const CUSTOM_KEY = "mynews_custom_sites";
+  const ALL_CATEGORY = "__all__";
 
   const CATEGORY_ICONS = {
     "경제·산업": "📊",
@@ -19,12 +20,27 @@
     "생활정보": "☀️",
   };
 
+  const CATEGORY_TONES = {
+    "경제·산업": "#e7d9c0",
+    "증권·기업정보": "#d9e2d6",
+    "AI·IT": "#d8dfe8",
+    "유튜브·크리에이터": "#f0d9d9",
+    "수익화·광고": "#ece0c8",
+    "창업·스타트업": "#dbd6e8",
+    "트렌드": "#f0ded0",
+    "정부지원·정책": "#d6e0e2",
+    "생활정보": "#e5e5d5",
+  };
+
   const TYPE_PURPOSE = {
     RSS: "기사 수집용",
     WEBSITE: "원문 사이트 바로가기용",
   };
 
-  let selectedCategory = null;
+  let selectedCategory = ALL_CATEGORY;
+  let activeView = "sites"; // 'sites' | 'feed'
+  let searchQuery = "";
+  let typeFilter = "ALL"; // 'ALL' | 'RSS' | 'WEBSITE'
   let BASE_SITES = [];
   let ARTICLE_CACHE = { collectedAt: null, feeds: {} };
 
@@ -74,29 +90,60 @@
     return seen.size;
   }
 
-  function renderSidebar(tree) {
-    const list = document.getElementById("category-list");
+  function getOrderedCategories(tree) {
     const known = Object.keys(CATEGORY_ICONS).filter((c) => tree[c]);
     const extra = Object.keys(tree)
       .filter((c) => !CATEGORY_ICONS[c])
       .sort();
-    const categories = known.concat(extra);
+    return known.concat(extra);
+  }
 
-    if (!selectedCategory || !tree[selectedCategory]) {
-      selectedCategory = categories[0] || null;
+  function siteMatchesFilters(site) {
+    if (typeFilter !== "ALL" && site.type !== typeFilter) return false;
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      return (
+        site.name.toLowerCase().includes(q) || site.url.toLowerCase().includes(q)
+      );
+    }
+    return true;
+  }
+
+  function renderCategoryCircles(tree) {
+    const wrap = document.getElementById("category-circles");
+    const categories = getOrderedCategories(tree);
+
+    if (selectedCategory !== ALL_CATEGORY && !tree[selectedCategory]) {
+      selectedCategory = ALL_CATEGORY;
     }
 
-    list.innerHTML = "";
-    categories.forEach((cat) => {
+    const entries = [{ key: ALL_CATEGORY, icon: "✨", label: "전체" }].concat(
+      categories.map((c) => ({ key: c, icon: CATEGORY_ICONS[c] || "📁", label: c }))
+    );
+
+    wrap.innerHTML = "";
+    entries.forEach((entry) => {
+      const isActive = entry.key === selectedCategory;
+      const item = document.createElement("div");
+      item.className = "category-circle-wrap" + (isActive ? " active" : "");
+
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "category-btn" + (cat === selectedCategory ? " active" : "");
-      btn.innerHTML = `<span>${CATEGORY_ICONS[cat] || "📁"} ${escapeHtml(cat)}</span><span class="count">${countSites(tree[cat])}</span>`;
+      btn.className = "category-circle" + (isActive ? " active" : "");
+      btn.style.background = entry.key === ALL_CATEGORY ? "#f1ece0" : CATEGORY_TONES[entry.key] || "#eee";
+      btn.textContent = entry.icon;
       btn.addEventListener("click", () => {
-        selectedCategory = cat;
+        selectedCategory = entry.key;
         render();
       });
-      list.appendChild(btn);
+
+      const label = document.createElement("span");
+      label.className = "category-circle-label";
+      label.textContent = entry.label;
+
+      item.appendChild(btn);
+      item.appendChild(label);
+      wrap.appendChild(item);
     });
 
     const datalist = document.getElementById("category-options");
@@ -105,43 +152,146 @@
       .join("");
   }
 
-  function renderContent(tree) {
-    const header = document.getElementById("content-header");
-    const body = document.getElementById("content-body");
-
-    if (!selectedCategory) {
-      header.innerHTML = "";
-      body.innerHTML = '<p class="empty">등록된 사이트가 없습니다. 사이트를 추가해보세요.</p>';
-      return;
-    }
-
-    const subMap = tree[selectedCategory];
-    header.innerHTML = `<h2>${CATEGORY_ICONS[selectedCategory] || "📁"} ${escapeHtml(selectedCategory)}</h2><span class="meta">${countSites(subMap)}개 사이트</span>`;
-
-    body.innerHTML = "";
+  function renderSubgroups(container, subMap) {
+    let rendered = 0;
     Object.keys(subMap)
       .sort()
       .forEach((sub) => {
+        const seen = new Set();
+        const filtered = [];
+        subMap[sub].forEach((site) => {
+          if (seen.has(site.url)) return;
+          if (!siteMatchesFilters(site)) return;
+          seen.add(site.url);
+          filtered.push(site);
+        });
+        if (!filtered.length) return;
+        rendered++;
+
         const group = document.createElement("div");
         group.className = "subgroup";
-
         const h3 = document.createElement("h3");
         h3.textContent = sub;
         group.appendChild(h3);
 
         const grid = document.createElement("div");
         grid.className = "site-grid";
-
-        const seen = new Set();
-        subMap[sub].forEach((site) => {
-          if (seen.has(site.url)) return;
-          seen.add(site.url);
-          grid.appendChild(renderSiteCard(site));
-        });
-
+        filtered.forEach((site) => grid.appendChild(renderSiteCard(site)));
         group.appendChild(grid);
-        body.appendChild(group);
+
+        container.appendChild(group);
       });
+    return rendered;
+  }
+
+  function renderSitesView(tree) {
+    const header = document.getElementById("content-header");
+    const body = document.getElementById("content-body");
+    body.innerHTML = "";
+
+    if (selectedCategory === ALL_CATEGORY) {
+      header.innerHTML = `<h2>✨ 전체 사이트</h2>`;
+      let total = 0;
+      getOrderedCategories(tree).forEach((cat) => {
+        const section = document.createElement("div");
+        section.className = "category-section";
+        const title = document.createElement("h2");
+        title.className = "content-header";
+        title.style.marginTop = "8px";
+        title.innerHTML = `${CATEGORY_ICONS[cat] || "📁"} ${escapeHtml(cat)}`;
+        section.appendChild(title);
+        const count = renderSubgroups(section, tree[cat]);
+        if (count) {
+          total += count;
+          body.appendChild(section);
+        }
+      });
+      if (!body.children.length) {
+        body.innerHTML = '<p class="empty">검색 결과가 없습니다.</p>';
+      }
+      return;
+    }
+
+    const subMap = tree[selectedCategory];
+    if (!subMap) {
+      header.innerHTML = "";
+      body.innerHTML = '<p class="empty">등록된 사이트가 없습니다. 사이트를 추가해보세요.</p>';
+      return;
+    }
+    header.innerHTML = `<h2>${CATEGORY_ICONS[selectedCategory] || "📁"} ${escapeHtml(selectedCategory)}</h2><span class="meta">${countSites(subMap)}개 사이트</span>`;
+    renderSubgroups(body, subMap);
+    if (!body.children.length) {
+      body.innerHTML = '<p class="empty">검색 결과가 없습니다.</p>';
+    }
+  }
+
+  function renderFeedView() {
+    const header = document.getElementById("content-header");
+    const body = document.getElementById("content-body");
+
+    let articles = [];
+    Object.values(ARTICLE_CACHE.feeds || {}).forEach((feed) => {
+      if (selectedCategory !== ALL_CATEGORY && feed.category !== selectedCategory) return;
+      (feed.items || []).forEach((item) => {
+        articles.push({
+          title: item.title,
+          link: item.link,
+          pubDate: item.pubDate,
+          siteName: feed.name,
+          category: feed.category,
+          subcategory: feed.subcategory,
+        });
+      });
+    });
+
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      articles = articles.filter(
+        (a) => a.title.toLowerCase().includes(q) || a.siteName.toLowerCase().includes(q)
+      );
+    }
+
+    articles.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
+    articles = articles.slice(0, 60);
+
+    header.innerHTML = `<h2>📰 최신 뉴스</h2><span class="meta">${articles.length}건</span>`;
+    body.innerHTML = "";
+
+    if (!articles.length) {
+      body.innerHTML = '<p class="empty">표시할 기사가 없습니다.</p>';
+      return;
+    }
+
+    const grid = document.createElement("div");
+    grid.className = "news-grid";
+    articles.forEach((article) => grid.appendChild(renderNewsCard(article)));
+    body.appendChild(grid);
+  }
+
+  function renderNewsCard(article) {
+    const a = document.createElement("a");
+    a.className = "news-card";
+    a.href = article.link;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+
+    const tone = CATEGORY_TONES[article.category] || "#eee";
+    const icon = CATEGORY_ICONS[article.category] || "📰";
+    const dateStr = formatPubDate(article.pubDate);
+
+    a.innerHTML = `
+      <div class="news-card-meta">
+        <span>${escapeHtml(dateStr || "")}</span>
+        <span>${escapeHtml(article.siteName)}</span>
+      </div>
+      <div class="news-card-photo" style="background:${tone}">${icon}</div>
+      <h3 class="news-card-title">${escapeHtml(article.title)}</h3>
+      <div class="news-card-footer">
+        <span>${escapeHtml(article.subcategory || "")}</span>
+        <span class="news-card-link">원문 보기 →</span>
+      </div>
+    `;
+    return a;
   }
 
   function formatPubDate(iso) {
@@ -271,18 +421,28 @@
 
   function render() {
     const tree = buildTree(getAllSites());
-    renderSidebar(tree);
-    renderContent(tree);
+    renderCategoryCircles(tree);
+
+    document.querySelectorAll(".hero-nav-btn[data-view]").forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.view === activeView);
+    });
+    document.getElementById("type-filter").hidden = activeView === "feed";
+
+    if (activeView === "feed") {
+      renderFeedView();
+    } else {
+      renderSitesView(tree);
+    }
     renderStatusBar();
   }
 
   function setupAddForm() {
-    const toggleBtn = document.getElementById("toggle-add-form");
     const panel = document.getElementById("add-form-panel");
-    toggleBtn.addEventListener("click", () => {
+    const toggle = () => {
       panel.hidden = !panel.hidden;
-      toggleBtn.textContent = panel.hidden ? "+ 사이트 추가" : "− 사이트 추가 닫기";
-    });
+    };
+    document.getElementById("hero-menu-btn").addEventListener("click", toggle);
+    document.getElementById("hero-add-btn").addEventListener("click", toggle);
 
     function handleSubmit(form, type) {
       form.addEventListener("submit", (e) => {
@@ -305,6 +465,7 @@
         if (ok) {
           form.reset();
           selectedCategory = category;
+          activeView = "sites";
           render();
         }
       });
@@ -314,8 +475,32 @@
     handleSubmit(document.getElementById("website-form"), "WEBSITE");
   }
 
+  function setupToolbar() {
+    document.querySelectorAll(".hero-nav-btn[data-view]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        activeView = btn.dataset.view;
+        render();
+      });
+    });
+
+    const searchInput = document.getElementById("search-input");
+    searchInput.addEventListener("input", () => {
+      searchQuery = searchInput.value.trim();
+      render();
+    });
+
+    document.querySelectorAll(".chip[data-type]").forEach((chip) => {
+      chip.addEventListener("click", () => {
+        typeFilter = chip.dataset.type;
+        document.querySelectorAll(".chip[data-type]").forEach((c) => c.classList.toggle("active", c === chip));
+        render();
+      });
+    });
+  }
+
   async function init() {
     setupAddForm();
+    setupToolbar();
 
     const [sites, articles] = await Promise.all([
       fetch("data/sites.json").then((r) => r.json()),
