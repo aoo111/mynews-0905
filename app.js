@@ -110,43 +110,11 @@
     return true;
   }
 
-  function renderCategoryCircles(tree) {
-    const wrap = document.getElementById("category-circles");
+  function updateCategoryOptions(tree) {
     const categories = getOrderedCategories(tree);
-
     if (selectedCategory !== ALL_CATEGORY && !tree[selectedCategory]) {
       selectedCategory = ALL_CATEGORY;
     }
-
-    const entries = [{ key: ALL_CATEGORY, icon: "✨", label: "전체" }].concat(
-      categories.map((c) => ({ key: c, icon: CATEGORY_ICONS[c] || "📁", label: c }))
-    );
-
-    wrap.innerHTML = "";
-    entries.forEach((entry) => {
-      const isActive = entry.key === selectedCategory;
-      const item = document.createElement("div");
-      item.className = "category-circle-wrap" + (isActive ? " active" : "");
-
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "category-circle" + (isActive ? " active" : "");
-      btn.style.background = entry.key === ALL_CATEGORY ? "#f1ece0" : CATEGORY_TONES[entry.key] || "#eee";
-      btn.textContent = entry.icon;
-      btn.addEventListener("click", () => {
-        selectedCategory = entry.key;
-        render();
-      });
-
-      const label = document.createElement("span");
-      label.className = "category-circle-label";
-      label.textContent = entry.label;
-
-      item.appendChild(btn);
-      item.appendChild(label);
-      wrap.appendChild(item);
-    });
-
     const datalist = document.getElementById("category-options");
     datalist.innerHTML = categories
       .map((c) => `<option value="${escapeHtml(c)}"></option>`)
@@ -254,8 +222,8 @@
     return { counts, total };
   }
 
-  function renderFeedSidebar(tree) {
-    const sidebar = document.getElementById("feed-sidebar");
+  function renderCategorySidebar(tree) {
+    const sidebar = document.getElementById("category-sidebar");
     const categories = getOrderedCategories(tree);
     const { counts, total } = getCategoryArticleCounts();
 
@@ -267,7 +235,7 @@
     entries.forEach((entry) => {
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "feed-cat-btn" + (entry.key === selectedCategory ? " active" : "");
+      btn.className = "category-nav-btn" + (entry.key === selectedCategory ? " active" : "");
       btn.innerHTML = `<span>${entry.icon} ${escapeHtml(entry.label)}</span><span class="count">${entry.count}</span>`;
       btn.addEventListener("click", () => {
         selectedCategory = entry.key;
@@ -544,16 +512,15 @@
 
   function render() {
     const tree = buildTree(getAllSites());
-    renderCategoryCircles(tree);
+    updateCategoryOptions(tree);
+    renderCategorySidebar(tree);
 
     document.querySelectorAll(".hero-nav-btn[data-view]").forEach((btn) => {
       btn.classList.toggle("active", btn.dataset.view === activeView);
     });
     document.getElementById("type-filter").hidden = activeView === "feed";
-    document.getElementById("feed-sidebar").hidden = activeView !== "feed";
 
     if (activeView === "feed") {
-      renderFeedSidebar(tree);
       renderFeedView();
     } else {
       renderSitesView(tree);
