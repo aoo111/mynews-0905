@@ -1,0 +1,22 @@
+name: Send Discord Summary
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 09:00 KST (UTC 00:00)
+  workflow_dispatch: {}
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - run: node scripts/send-discord.js
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}

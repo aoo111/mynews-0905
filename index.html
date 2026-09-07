@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>MyNews 사이트 모음</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar">
+    <h1>MyNews 사이트 모음</h1>
+    <p class="subtitle">대분류를 선택하면 세부분류와 사이트가 표시됩니다.</p>
+    <div id="category-list" class="category-list"></div>
+    <button id="toggle-add-form" class="toggle-add-form" type="button">+ 사이트 추가</button>
+  </aside>
+
+  <main class="content">
+    <div id="add-form-panel" class="add-form-panel" hidden>
+      <div>
+        <h4>RSS 피드 추가</h4>
+        <p class="hint">기사 자동 수집 대상입니다.</p>
+        <form id="rss-form" class="add-form">
+          <label>사이트명
+            <input type="text" name="name" placeholder="예: 한국경제 경제" required />
+          </label>
+          <label>대분류
+            <input type="text" name="category" list="category-options" placeholder="예: 경제·산업" required />
+          </label>
+          <label>세부분류
+            <input type="text" name="subcategory" placeholder="예: 경제뉴스" required />
+          </label>
+          <label>RSS 피드 주소
+            <input type="url" name="url" placeholder="https://example.com/rss" required />
+          </label>
+          <button type="submit">RSS 추가</button>
+        </form>
+      </div>
+
+      <div>
+        <h4>일반 웹사이트 추가</h4>
+        <p class="hint">자동 수집하지 않습니다. 바로가기 / 추후 크롤링 대상으로만 저장됩니다.</p>
+        <form id="website-form" class="add-form website">
+          <label>사이트명
+            <input type="text" name="name" placeholder="예: DART 전자공시시스템" required />
+          </label>
+          <label>대분류
+            <input type="text" name="category" list="category-options" placeholder="예: 증권·기업정보" required />
+          </label>
+          <label>세부분류
+            <input type="text" name="subcategory" placeholder="예: 기업공시" required />
+          </label>
+          <label>웹사이트 주소
+            <input type="url" name="url" placeholder="https://example.com" required />
+          </label>
+          <button type="submit">웹사이트 추가</button>
+        </form>
+      </div>
+    </div>
+
+    <datalist id="category-options"></datalist>
+
+    <div id="status-bar" class="status-bar"></div>
+    <div id="content-header" class="content-header"></div>
+    <div id="content-body"></div>
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

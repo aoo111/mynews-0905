@@ -1,0 +1,15 @@
+{
+  "name": "mynews-0905",
+  "version": "1.0.0",
+  "description": "RSS 뉴스 2시간 간격 수집(GitHub Actions) + 매일 오전 9시 디스코드 요약 전송 + GitHub Pages 화면",
+  "private": true,
+  "scripts": {
+    "collect": "node scripts/collect.js",
+    "send-discord": "node scripts/send-discord.js",
+    "preview": "node scripts/serve.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}

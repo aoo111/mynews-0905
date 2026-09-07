@@ -1,0 +1,481 @@
+{
+  "collectedAt": "2026-09-07T08:45:01.617Z",
+  "feeds": {
+    "https://www.hankyung.com/feed/economy": {
+      "name": "한국경제 경제",
+      "category": "경제·산업",
+      "subcategory": "경제뉴스",
+      "items": [
+        {
+          "title": "스타트업 발굴 '우리금융 디노랩', 맥주와 음악의 '카스쿨 페스티벌'…",
+          "link": "https://www.hankyung.com/article/2026090779821",
+          "pubDate": "2026-09-07T07:36:59.000Z"
+        },
+        {
+          "title": "소비자 77만명 투표 참여…상위 1% '올해의 캠페인' 선정",
+          "link": "https://www.hankyung.com/article/2026090779831",
+          "pubDate": "2026-09-07T07:34:19.000Z"
+        },
+        {
+          "title": "넥슨 메이플 어택! 위드 롯데, 게임 속 세상이 롯데월드 곳곳에 펼쳐져",
+          "link": "https://www.hankyung.com/article/2026090779931",
+          "pubDate": "2026-09-07T07:31:56.000Z"
+        },
+        {
+          "title": "디노랩, 10년간 스타트업 도약 이끈 든든한 동반자",
+          "link": "https://www.hankyung.com/article/2026090779921",
+          "pubDate": "2026-09-07T07:30:12.000Z"
+        },
+        {
+          "title": "연천 구석기 축제, 전곡리유적 품은 구석기축제…해외로 발돋움",
+          "link": "https://www.hankyung.com/article/2026090780041",
+          "pubDate": "2026-09-07T07:22:29.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:28:01.132Z",
+      "error": "HTTP 403"
+    },
+    "https://www.mk.co.kr/rss/30100041/": {
+      "name": "매일경제 경제",
+      "category": "경제·산업",
+      "subcategory": "경제뉴스",
+      "items": [
+        {
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12146337",
+          "pubDate": "2026-09-07T08:38:33.000Z"
+        },
+        {
+          "title": "보증금 떼먹은 임대인 정보 … 보증기관 3사가 공유한다",
+          "link": "https://www.mk.co.kr/news/economy/12146336",
+          "pubDate": "2026-09-07T08:38:33.000Z"
+        },
+        {
+          "title": "[포토] NH농협銀, '보이스피싱 보상보험' 무료 가입 지원",
+          "link": "https://www.mk.co.kr/news/economy/12146338",
+          "pubDate": "2026-09-07T08:38:33.000Z"
+        },
+        {
+          "title": "국가소유였던 우리금융지주 … 외국인 지분 50% 넘어섰다",
+          "link": "https://www.mk.co.kr/news/economy/12146334",
+          "pubDate": "2026-09-07T08:38:32.000Z"
+        },
+        {
+          "title": "\"방화 조사해 보험금 누수 잡는 화재 탐정입니다\"",
+          "link": "https://www.mk.co.kr/news/economy/12146335",
+          "pubDate": "2026-09-07T08:38:32.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:44.579Z",
+      "error": null
+    },
+    "https://www.federalreserve.gov/feeds/press_all.xml": {
+      "name": "미 연준 보도자료 RSS",
+      "category": "증권·기업정보",
+      "subcategory": "중앙은행",
+      "items": [
+        {
+          "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+          "pubDate": "2026-09-04T15:00:00.000Z"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+          "pubDate": "2026-08-27T15:00:00.000Z"
+        },
+        {
+          "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+          "pubDate": "2026-08-25T18:00:00.000Z"
+        },
+        {
+          "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+          "pubDate": "2026-08-20T20:00:00.000Z"
+        },
+        {
+          "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+          "pubDate": "2026-08-20T15:00:00.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:44.669Z",
+      "error": null
+    },
+    "https://www.aitimes.com/rss/allArticle.xml": {
+      "name": "AI타임스 RSS",
+      "category": "AI·IT",
+      "subcategory": "AI",
+      "items": [
+        {
+          "title": "오픈AI 수석 과학자의 경고...\"외계인 같은 AI, 자기개선에 대비해야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214932",
+          "pubDate": "2026-09-07T08:40:23.000Z"
+        },
+        {
+          "title": "\"인간처럼 기만하고 공모\"...통제 벗어난 'AI 스웜'의 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214938",
+          "pubDate": "2026-09-07T08:30:00.000Z"
+        },
+        {
+          "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214945",
+          "pubDate": "2026-09-07T08:19:08.000Z"
+        },
+        {
+          "title": "화웨이 ‘타우 법칙’ 칩 과열 우려 일축...“트랜지스터 밀도 55% 높이고 전력 낮췄다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214960",
+          "pubDate": "2026-09-07T08:10:07.000Z"
+        },
+        {
+          "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214939",
+          "pubDate": "2026-09-07T08:05:06.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:44.819Z",
+      "error": null
+    },
+    "https://openai.com/news/rss.xml": {
+      "name": "OpenAI News RSS",
+      "category": "AI·IT",
+      "subcategory": "빅테크",
+      "items": [
+        {
+          "title": "Supporting independent journalism in Ukraine",
+          "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "pubDate": "2026-09-07T00:00:00.000Z"
+        },
+        {
+          "title": "An Alien Mind",
+          "link": "https://openai.com/index/an-alien-mind",
+          "pubDate": "2026-09-06T09:00:00.000Z"
+        },
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "pubDate": "2026-09-06T08:00:00.000Z"
+        },
+        {
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "pubDate": "2026-09-03T13:15:00.000Z"
+        },
+        {
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "pubDate": "2026-09-03T12:00:00.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:44.976Z",
+      "error": null
+    },
+    "https://news.hada.io/rss/news": {
+      "name": "긱뉴스",
+      "category": "AI·IT",
+      "subcategory": "빅테크",
+      "items": [
+        {
+          "title": "우리 서버가 계속 운영될 수 있도록 도와주세요",
+          "link": "https://news.hada.io/topic?id=33316",
+          "pubDate": "2026-09-07T08:32:08.000Z"
+        },
+        {
+          "title": "Show GN: yukari-rubi : 일본어 사이트 한자 히라가나 브라우저 확장기능",
+          "link": "https://news.hada.io/topic?id=33315",
+          "pubDate": "2026-09-07T07:35:46.000Z"
+        },
+        {
+          "title": "Show GN: VIBE-GAME ( AI 에게 일 시키고 기다리면서 하기에 좋은 게임 )",
+          "link": "https://news.hada.io/topic?id=33311",
+          "pubDate": "2026-09-07T02:26:56.000Z"
+        },
+        {
+          "title": "Alien Mind: 인간과는 다른, 낯선 지성",
+          "link": "https://news.hada.io/topic?id=33309",
+          "pubDate": "2026-09-07T01:37:17.000Z"
+        },
+        {
+          "title": "티빙 3,954만 계정 정보 유출…보상은 직접 신청해야 함",
+          "link": "https://news.hada.io/topic?id=33308",
+          "pubDate": "2026-09-07T01:15:02.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:45.076Z",
+      "error": null
+    },
+    "https://www.tubefilter.com/feed/": {
+      "name": "Tubefilter RSS",
+      "category": "유튜브·크리에이터",
+      "subcategory": "크리에이터 경제",
+      "items": [
+        {
+          "title": "YouTube’s new public viewcounts over-report actual engagement by 40%",
+          "link": "https://www.tubefilter.com/2026/09/04/youtubes-new-public-viewcounts-over-report-actual-engagement-by-40/",
+          "pubDate": "2026-09-04T23:43:35.000Z"
+        },
+        {
+          "title": "Have you heard? Another YouTuber on Netflix, Dude Perfect’s CEO shuffle, and a cow gamer.",
+          "link": "https://www.tubefilter.com/2026/09/04/have-you-heard-drew-binsky-netflix-dude-perfect-andrew-yaffe-eve-online-cow/",
+          "pubDate": "2026-09-04T23:01:17.000Z"
+        },
+        {
+          "title": "Bottoms up! Google is bringing personalization to alcohol ads on YouTube.",
+          "link": "https://www.tubefilter.com/2026/09/04/google-ads-youtube-alcohol-content-personalization/",
+          "pubDate": "2026-09-04T21:57:11.000Z"
+        },
+        {
+          "title": "TikTok has new ways to comment (that make it feel more like Instagram)",
+          "link": "https://www.tubefilter.com/2026/09/04/tiktok-polls-photo-carousel-live-comments/",
+          "pubDate": "2026-09-04T20:27:49.000Z"
+        },
+        {
+          "title": "GTA RP Week returns to Twitch, with Rockstar promoting “the next evolution of the GTA 5 roleplay community”",
+          "link": "https://www.tubefilter.com/2026/09/03/grand-theft-auto-rp-week-twitch/",
+          "pubDate": "2026-09-03T22:32:32.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:45.291Z",
+      "error": null
+    },
+    "https://blog.google/products/adsense/rss/": {
+      "name": "Google AdSense RSS",
+      "category": "수익화·광고",
+      "subcategory": "애드센스",
+      "items": [
+        {
+          "title": "Updates to how publishers monetize with AdSense",
+          "link": "https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/",
+          "pubDate": "2023-11-02T15:00:00.000Z"
+        },
+        {
+          "title": "New Consent Management Platform requirements for serving ads in the EEA and UK",
+          "link": "https://blog.google/products/adsense/new-consent-management-platform-requirements-for-serving-ads-in-the-eea-and-uk/",
+          "pubDate": "2023-05-16T13:00:00.000Z"
+        },
+        {
+          "title": "Your AdSense 2022 holiday checklist",
+          "link": "https://blog.google/products/adsense/your-adsense-2022-holiday-checklist/",
+          "pubDate": "2022-10-24T15:00:00.000Z"
+        },
+        {
+          "title": "Kickstart your monetization with the AdSense onboarding video series",
+          "link": "https://blog.google/products/adsense/kickstart-your-monetization-with-the-adsense-onboarding-video-series/",
+          "pubDate": "2022-06-29T15:00:00.000Z"
+        },
+        {
+          "title": "Introducing Related search for content pages",
+          "link": "https://blog.google/products/adsense/introducing-related-search-content-pages/",
+          "pubDate": "2022-03-16T17:30:00.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:46.176Z",
+      "error": null
+    },
+    "https://blog.google/innovation-and-ai/technology/ads/rss/": {
+      "name": "Google Ads / 광고기술 RSS",
+      "category": "수익화·광고",
+      "subcategory": "광고",
+      "items": [
+        {
+          "title": "Google's AI advisors: agentic tools to drive impact and insights",
+          "link": "https://blog.google/products/ads-commerce/ads-advisor-and-analytics-advisor/",
+          "pubDate": "2025-11-12T17:00:00.000Z"
+        },
+        {
+          "title": "Personalized advertising fuels growth and drives competitiveness for European businesses",
+          "link": "https://blog.google/innovation-and-ai/technology/ads/personalized-advertising-for-european-businesses/",
+          "pubDate": "2025-03-20T06:00:00.000Z"
+        },
+        {
+          "title": "AI, personalization and the future of shopping",
+          "link": "https://blog.google/products/ads-commerce/ai-personalization-and-the-future-of-shopping/",
+          "pubDate": "2025-03-03T14:00:00.000Z"
+        },
+        {
+          "title": "Boosting your reach and performance with Google Display Ads",
+          "link": "https://blog.google/products/ads-commerce/boosting-your-reach-and-performance-with-google-display-ads/",
+          "pubDate": "2025-02-28T17:00:00.000Z"
+        },
+        {
+          "title": "New ways to help you drive performance with Demand Gen",
+          "link": "https://blog.google/products/ads-commerce/new-demand-gen-features-2025/",
+          "pubDate": "2025-01-30T15:00:00.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:46.467Z",
+      "error": null
+    },
+    "https://www.venturesquare.net/rss/news": {
+      "name": "VentureSquare 스타트업 뉴스",
+      "category": "창업·스타트업",
+      "subcategory": "국내 스타트업",
+      "items": [
+        {
+          "title": "AI가 조향하고 병변 탐지 보조…메디인테크, 로봇내시경 상용화 채비",
+          "link": "https://www.venturesquare.net/1111271/",
+          "pubDate": "2026-09-07T03:00:48.000Z"
+        },
+        {
+          "title": "취재 데이터는 전용 인프라에, 기사 초안은 AI로…가비아, 블로터·넘버스 뉴스룸 전환",
+          "link": "https://www.venturesquare.net/1111262/",
+          "pubDate": "2026-09-07T02:07:01.000Z"
+        },
+        {
+          "title": "추론과 동작을 동시에…엑스와이지 ‘브레인엑스’, 의류 접기 시간 절반 단축",
+          "link": "https://www.venturesquare.net/1111253/",
+          "pubDate": "2026-09-07T02:03:10.000Z"
+        },
+        {
+          "title": "80개 리셀러망 연결…알서포트, 인도네시아 원격지원 유통 체계 구축",
+          "link": "https://www.venturesquare.net/1111250/",
+          "pubDate": "2026-09-07T01:56:25.000Z"
+        },
+        {
+          "title": "스타트업 성장 전주기 자문 고도화…디엘지, 법무법인(유한) 체제로 새 출발",
+          "link": "https://www.venturesquare.net/1111240/",
+          "pubDate": "2026-09-07T01:32:51.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:59.016Z",
+      "error": null
+    },
+    "https://platum.kr/feed": {
+      "name": "플래텀",
+      "category": "창업·스타트업",
+      "subcategory": "국내 스타트업",
+      "items": [
+        {
+          "title": "애니모프, AI 검색 화면에 뜬 답변과 출처 모아주는 API 내놨다",
+          "link": "https://platum.kr/archives/294070?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a0%25eb%258b%2588%25eb%25aa%25a8%25ed%2594%2584-ai-%25ea%25b2%2580%25ec%2583%2589-%25ed%2599%2594%25eb%25a9%25b4%25ec%2597%2590-%25eb%259c%25ac-%25eb%258b%25b5%25eb%25b3%2580%25ea%25b3%25bc-%25ec%25b6%259c%25ec%25b2%2598-%25eb%25aa%25a8%25ec%2595%2584%25ec%25a3%25bc%25eb%258a%2594-api-%25eb%2582%25b4",
+          "pubDate": "2026-09-07T00:13:57.000Z"
+        },
+        {
+          "title": "세계은행이 서울에 부른 19개국 교육 관계자, 한국 에듀테크가 만났다",
+          "link": "https://platum.kr/archives/294064?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8%25ea%25b3%2584%25ec%259d%2580%25ed%2596%2589%25ec%259d%25b4-%25ec%2584%259c%25ec%259a%25b8%25ec%2597%2590-%25eb%25b6%2580%25eb%25a5%25b8-19%25ea%25b0%259c%25ea%25b5%25ad-%25ea%25b5%2590%25ec%259c%25a1-%25ea%25b4%2580%25ea%25b3%2584%25ec%259e%2590-%25ed%2595%259c%25ea%25b5%25ad-%25ec%2597%2590",
+          "pubDate": "2026-09-07T00:04:57.000Z"
+        },
+        {
+          "title": "독일 재계 800명 서울 온다, 10월 APK 2026 개최",
+          "link": "https://platum.kr/archives/294061?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258f%2585%25ec%259d%25bc-%25ec%259e%25ac%25ea%25b3%2584-800%25eb%25aa%2585-%25ec%2584%259c%25ec%259a%25b8-%25ec%2598%25a8%25eb%258b%25a4-10%25ec%259b%2594-apk-2026-%25ea%25b0%259c%25ec%25b5%259c",
+          "pubDate": "2026-09-06T23:54:58.000Z"
+        },
+        {
+          "title": "포티투닷, 현대차 인포테인먼트에 멜론·카카오내비 들어온다",
+          "link": "https://platum.kr/archives/294060?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258f%25ac%25ed%258b%25b0%25ed%2588%25ac%25eb%258b%25b7-%25ed%2598%2584%25eb%258c%2580%25ec%25b0%25a8-%25ec%259d%25b8%25ed%258f%25ac%25ed%2585%258c%25ec%259d%25b8%25eb%25a8%25bc%25ed%258a%25b8%25ec%2597%2590-%25eb%25a9%259c%25eb%25a1%25a0%25c2%25b7%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%2582%25b4%25eb%25b9%2584",
+          "pubDate": "2026-09-06T23:50:47.000Z"
+        },
+        {
+          "title": "벤처투자 역대 최대에도…AI 쏠림·미국행·회수 병목은 여전",
+          "link": "https://platum.kr/archives/294053?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%2596%25bc%25eb%259d%25bc%25ec%259d%25b4%25ec%2596%25b8%25ec%258a%25a4-%25ea%25b5%25ad%25ec%25a0%2595%25ea%25b0%2590%25ec%2582%25ac-%25ec%2595%259e%25eb%2591%2590%25ea%25b3%25a0-%25ec%25a0%2595%25ec%25b1%2585%25ea%25b3%25bc%25ec%25a0%259c-12%25ea%25b0%259c",
+          "pubDate": "2026-09-06T23:33:29.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:59.187Z",
+      "error": null
+    },
+    "https://techcrunch.com/category/startups/feed/": {
+      "name": "TechCrunch Startups RSS",
+      "category": "창업·스타트업",
+      "subcategory": "글로벌 스타트업",
+      "items": [
+        {
+          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+          "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "pubDate": "2026-09-06T16:45:00.000Z"
+        },
+        {
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "pubDate": "2026-09-04T23:36:14.000Z"
+        },
+        {
+          "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+          "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+          "pubDate": "2026-09-04T14:47:20.000Z"
+        },
+        {
+          "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+          "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+          "pubDate": "2026-09-04T14:00:00.000Z"
+        },
+        {
+          "title": "Startup ARR is less secure than ever, new research shows",
+          "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+          "pubDate": "2026-09-03T20:59:23.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:44:59.388Z",
+      "error": null
+    },
+    "https://www.venturesquare.net/rss/startup-guide": {
+      "name": "VentureSquare Startup Guide",
+      "category": "창업·스타트업",
+      "subcategory": "창업 노하우",
+      "items": [
+        {
+          "title": "6만3000명의 창업 아이디어, 1100개 사업으로 좁혀졌다…‘모두의 창업’ 2라운드가 보여준 것",
+          "link": "https://www.venturesquare.net/1111088/",
+          "pubDate": "2026-09-05T22:14:40.000Z"
+        },
+        {
+          "title": "[김지현의 스케일업 노트] AI도 결국 전략이다…스케일업 성패 가르는 ‘문제 정의’",
+          "link": "https://www.venturesquare.net/1111069/",
+          "pubDate": "2026-09-05T08:05:15.000Z"
+        },
+        {
+          "title": "양대 앱마켓 정상 오른 ‘제우스’…에이버튼, 크릿벤처스 후속 투자 유치",
+          "link": "https://www.venturesquare.net/1110962/",
+          "pubDate": "2026-09-04T03:13:04.000Z"
+        },
+        {
+          "title": "사업계획서부터 1대1 상담까지…대전 예비창업자 ‘첫걸음’ 지원",
+          "link": "https://www.venturesquare.net/1110946/",
+          "pubDate": "2026-09-04T03:03:42.000Z"
+        },
+        {
+          "title": "기술특례상장, 산업별 사례로 짚는다…서울창업허브 스케일업센터 IPO 세미나",
+          "link": "https://www.venturesquare.net/1110839/",
+          "pubDate": "2026-09-03T13:48:05.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:45:00.529Z",
+      "error": null
+    },
+    "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
+      "name": "Google News 지원사업 RSS",
+      "category": "정부지원·정책",
+      "subcategory": "지원사업",
+      "items": [
+        {
+          "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sUF9OUjVoN09sc0h5b25RUnhVOVFGM3hEcW03Z0NXUDFZUVdpVTVZRE5DaENValBSdnM0dkZ0cm84eDRRUEUzOGZ2cGdoRWN2Tk4xbUNuSnZuNnhaMDhNeW9wY9IBaEFVX3lxTFBSRTBZLTNqM3U5RW1feWUtNmw5MU9JWFZFSXlfeFRrUGQ0c1BMMHZoZ1Rya3pBZTBha1dhUkFpM293TUZBU2pnVVd2eUhCSWxFM21wQUNzRTlJN3JjSFBSb0dFa1laRE1G?oc=5",
+          "pubDate": "2026-09-07T08:16:23.000Z"
+        },
+        {
+          "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
+          "pubDate": "2026-09-07T03:50:46.000Z"
+        },
+        {
+          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
+          "pubDate": "2026-09-07T01:29:30.000Z"
+        },
+        {
+          "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
+          "pubDate": "2026-09-07T06:08:00.000Z"
+        },
+        {
+          "title": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 - 동행일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bTVaLW1XazRocWgxemlMNDNTNG85V3NWM3NhQ1RkYW1wWmRtLXcwT2tINmJnRm9FNUN4cTlIUXdXTFpRUnhYTXFHQzM1YTB4TnQtemRMcHM1U1l1aDBXUU5zVjNNOE5n?oc=5",
+          "pubDate": "2026-09-07T00:33:00.000Z"
+        }
+      ],
+      "fetchedAt": "2026-09-07T08:45:01.616Z",
+      "error": null
+    }
+  }
+}

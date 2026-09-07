@@ -1,0 +1,199 @@
+[
+  {
+    "name": "한국경제 경제",
+    "url": "https://www.hankyung.com/feed/economy",
+    "type": "RSS",
+    "category": "경제·산업",
+    "subcategory": "경제뉴스",
+    "tags": ["경제·산업>경제뉴스"]
+  },
+  {
+    "name": "매일경제 경제",
+    "url": "https://www.mk.co.kr/rss/30100041/",
+    "type": "RSS",
+    "category": "경제·산업",
+    "subcategory": "경제뉴스",
+    "tags": ["경제·산업>경제뉴스"]
+  },
+  {
+    "name": "한경닷컴 산업",
+    "url": "https://www.hankyung.com/industry",
+    "type": "WEBSITE",
+    "category": "경제·산업",
+    "subcategory": "산업뉴스",
+    "tags": ["경제·산업>산업뉴스"]
+  },
+  {
+    "name": "미국 연방준비제도(Federal Reserve)",
+    "url": "https://www.federalreserve.gov/",
+    "type": "WEBSITE",
+    "category": "경제·산업",
+    "subcategory": "글로벌경제",
+    "tags": ["경제·산업>글로벌경제", "증권·기업정보>중앙은행"]
+  },
+  {
+    "name": "DART 전자공시시스템",
+    "url": "https://dart.fss.or.kr/",
+    "type": "WEBSITE",
+    "category": "증권·기업정보",
+    "subcategory": "기업공시",
+    "tags": ["증권·기업정보>기업공시"]
+  },
+  {
+    "name": "한국신용평가",
+    "url": "https://www.kisrating.com/",
+    "type": "WEBSITE",
+    "category": "증권·기업정보",
+    "subcategory": "신용평가",
+    "tags": ["증권·기업정보>신용평가"]
+  },
+  {
+    "name": "미 연준 보도자료 RSS",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "type": "RSS",
+    "category": "증권·기업정보",
+    "subcategory": "중앙은행",
+    "tags": ["증권·기업정보>중앙은행", "증권·기업정보>금융정책"]
+  },
+  {
+    "name": "AI타임스 RSS",
+    "url": "https://www.aitimes.com/rss/allArticle.xml",
+    "type": "RSS",
+    "category": "AI·IT",
+    "subcategory": "AI",
+    "tags": ["AI·IT>AI"]
+  },
+  {
+    "name": "OpenAI News RSS",
+    "url": "https://openai.com/news/rss.xml",
+    "type": "RSS",
+    "category": "AI·IT",
+    "subcategory": "빅테크",
+    "tags": ["AI·IT>빅테크", "AI·IT>OpenAI"]
+  },
+  {
+    "name": "긱뉴스",
+    "url": "https://news.hada.io/rss/news",
+    "type": "RSS",
+    "category": "AI·IT",
+    "subcategory": "빅테크",
+    "tags": ["AI·IT>빅테크", "AI·IT>개발·IT"]
+  },
+  {
+    "name": "YouTube 공식 블로그 RSS",
+    "url": "https://blog.youtube/feed/",
+    "type": "WEBSITE",
+    "category": "유튜브·크리에이터",
+    "subcategory": "유튜브 공식",
+    "tags": [
+      "유튜브·크리에이터>유튜브 공식",
+      "수익화·광고>플랫폼 수익화",
+      "트렌드>콘텐츠 트렌드"
+    ]
+  },
+  {
+    "name": "YouTube Culture & Trends",
+    "url": "https://blog.youtube/culture-and-trends/",
+    "type": "WEBSITE",
+    "category": "유튜브·크리에이터",
+    "subcategory": "유튜브 트렌드",
+    "tags": [
+      "유튜브·크리에이터>유튜브 트렌드",
+      "유튜브·크리에이터>콘텐츠 트렌드",
+      "트렌드>콘텐츠 트렌드"
+    ]
+  },
+  {
+    "name": "Tubefilter RSS",
+    "url": "https://www.tubefilter.com/feed/",
+    "type": "RSS",
+    "category": "유튜브·크리에이터",
+    "subcategory": "크리에이터 경제",
+    "tags": [
+      "유튜브·크리에이터>크리에이터 경제",
+      "수익화·광고>크리에이터 수익화",
+      "트렌드>콘텐츠 트렌드"
+    ]
+  },
+  {
+    "name": "Google Trends",
+    "url": "https://trends.google.com/trending?geo=KR",
+    "type": "WEBSITE",
+    "category": "유튜브·크리에이터",
+    "subcategory": "콘텐츠 트렌드",
+    "tags": [
+      "유튜브·크리에이터>콘텐츠 트렌드",
+      "트렌드>실시간 검색",
+      "트렌드>급상승 키워드"
+    ]
+  },
+  {
+    "name": "Google AdSense RSS",
+    "url": "https://blog.google/products/adsense/rss/",
+    "type": "RSS",
+    "category": "수익화·광고",
+    "subcategory": "애드센스",
+    "tags": ["수익화·광고>애드센스", "수익화·광고>플랫폼 수익화"]
+  },
+  {
+    "name": "Google Ads / 광고기술 RSS",
+    "url": "https://blog.google/innovation-and-ai/technology/ads/rss/",
+    "type": "RSS",
+    "category": "수익화·광고",
+    "subcategory": "광고",
+    "tags": ["수익화·광고>광고"]
+  },
+  {
+    "name": "VentureSquare 스타트업 뉴스",
+    "url": "https://www.venturesquare.net/rss/news",
+    "type": "RSS",
+    "category": "창업·스타트업",
+    "subcategory": "국내 스타트업",
+    "tags": ["창업·스타트업>국내 스타트업", "창업·스타트업>투자·VC"]
+  },
+  {
+    "name": "플래텀",
+    "url": "https://platum.kr/feed",
+    "type": "RSS",
+    "category": "창업·스타트업",
+    "subcategory": "국내 스타트업",
+    "tags": ["창업·스타트업>국내 스타트업", "창업·스타트업>투자·VC"]
+  },
+  {
+    "name": "TechCrunch Startups RSS",
+    "url": "https://techcrunch.com/category/startups/feed/",
+    "type": "RSS",
+    "category": "창업·스타트업",
+    "subcategory": "글로벌 스타트업",
+    "tags": ["창업·스타트업>글로벌 스타트업", "창업·스타트업>투자·VC"]
+  },
+  {
+    "name": "VentureSquare Startup Guide",
+    "url": "https://www.venturesquare.net/rss/startup-guide",
+    "type": "RSS",
+    "category": "창업·스타트업",
+    "subcategory": "창업 노하우",
+    "tags": ["창업·스타트업>창업 노하우"]
+  },
+  {
+    "name": "Google News 지원사업 RSS",
+    "url": "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko",
+    "type": "RSS",
+    "category": "정부지원·정책",
+    "subcategory": "지원사업",
+    "tags": [
+      "정부지원·정책>지원사업",
+      "정부지원·정책>공고",
+      "정부지원·정책>모집",
+      "정부지원·정책>창업지원"
+    ]
+  },
+  {
+    "name": "기상청 RSS",
+    "url": "https://www.weather.go.kr/plus/rss.jsp",
+    "type": "WEBSITE",
+    "category": "생활정보",
+    "subcategory": "날씨",
+    "tags": ["생활정보>날씨"]
+  }
+]
