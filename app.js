@@ -38,7 +38,7 @@
   };
 
   let selectedCategory = ALL_CATEGORY;
-  let activeView = "sites"; // 'sites' | 'feed'
+  let activeView = "feed"; // 'sites' | 'feed'
   let searchQuery = "";
   let typeFilter = "ALL"; // 'ALL' | 'RSS' | 'WEBSITE'
   let BASE_SITES = [];
