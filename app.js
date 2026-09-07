@@ -358,14 +358,15 @@
       btn.type = "button";
       btn.className = "trending-item";
       const symbol = TRENDING_CHANGE_SYMBOL[t.change] || "–";
+      const label = translateEnabled && t.labelKo ? t.labelKo : t.label;
       btn.innerHTML = `
         <span class="trending-rank${t.rank <= 3 ? " top3" : ""}">${t.rank}</span>
-        <span class="trending-label">${escapeHtml(t.label)}</span>
+        <span class="trending-label">${escapeHtml(label)}</span>
         <span class="trending-change ${t.change}">${symbol}</span>
       `;
       btn.addEventListener("click", () => {
-        document.getElementById("search-input").value = t.label;
-        searchQuery = t.label;
+        document.getElementById("search-input").value = label;
+        searchQuery = label;
         activeView = "feed";
         render();
       });
@@ -418,7 +419,10 @@
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       articles = articles.filter(
-        (a) => a.title.toLowerCase().includes(q) || a.siteName.toLowerCase().includes(q)
+        (a) =>
+          a.title.toLowerCase().includes(q) ||
+          (a.titleKo && a.titleKo.toLowerCase().includes(q)) ||
+          a.siteName.toLowerCase().includes(q)
       );
     }
 

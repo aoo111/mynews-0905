@@ -166,28 +166,43 @@ async function fetchText(url) {
   }
 }
 
-async function fetchFeed(site) {
+async function fetchFeed(site, previousFeed) {
   const xml = await fetchText(site.url);
   const feed = await parser.parseString(xml);
   const rawItems = (feed.items || []).slice(0, ARTICLES_PER_FEED);
+
+  // 링크 기준으로 이전 수집 결과의 번역을 찾아 재사용한다. RSS의 "최신 5건"은
+  // 2시간 주기로 대부분 겹치므로, 이미 성공한 번역을 매번 다시 요청할 필요가
+  // 없고 - 번역 API가 오늘 한도를 다 썼을 때 기존 번역까지 null로 지워버리는
+  // 것도 막아준다.
+  const prevByLink = {};
+  (previousFeed && previousFeed.items ? previousFeed.items : []).forEach((it) => {
+    if (it.link) prevByLink[it.link] = it;
+  });
 
   const items = [];
   for (const item of rawItems) {
     const title = (item.title || "(제목 없음)").trim();
     const summary = extractSummary(item);
     const isForeign = !looksKorean(title);
+    const link = item.link || site.url;
+    const prev = prevByLink[link];
 
-    let titleKo = null;
-    let summaryKo = null;
-    if (isForeign) {
+    let titleKo = prev && prev.title === title ? prev.titleKo || null : null;
+    let summaryKo = prev && prev.summary === summary ? prev.summaryKo || null : null;
+
+    if (isForeign && !titleKo) {
       titleKo = await translateToKorean(title);
-      if (summary) summaryKo = await translateToKorean(summary);
       await sleep(200); // 무료 번역 API에 과도한 연속 요청을 보내지 않기 위한 텀
+    }
+    if (isForeign && summary && !summaryKo) {
+      summaryKo = await translateToKorean(summary);
+      await sleep(200);
     }
 
     items.push({
       title,
-      link: item.link || site.url,
+      link,
       pubDate: item.isoDate || item.pubDate || null,
       image: extractImage(item),
       summary,
@@ -263,6 +278,30 @@ function computeTrendingKeywords(feeds, previousRanked, filterFn) {
   });
 }
 
+// 글로벌(외국어) 인기 검색어 라벨을 한국어로 미리 번역해둔다. 이전 수집
+// 결과에 같은 키워드의 번역이 있으면 재사용해서 API 호출을 줄인다.
+async function translateTrendingLabels(ranked, previousRanked) {
+  const prevLabelKoByKey = {};
+  (previousRanked || []).forEach((t) => {
+    if (t.labelKo) prevLabelKoByKey[t.key] = t.labelKo;
+  });
+
+  const result = [];
+  for (const entry of ranked) {
+    if (looksKorean(entry.label)) {
+      result.push({ ...entry, labelKo: null });
+      continue;
+    }
+    let labelKo = prevLabelKoByKey[entry.key] || null;
+    if (!labelKo) {
+      labelKo = await translateToKorean(entry.label);
+      await sleep(150);
+    }
+    result.push({ ...entry, labelKo });
+  }
+  return result;
+}
+
 async function collectAllFeeds() {
   const sites = loadSites().filter((s) => s.type === "RSS");
   const previous = loadPreviousCache();
@@ -271,7 +310,7 @@ async function collectAllFeeds() {
   const feeds = {};
   for (const site of sites) {
     try {
-      const items = await fetchFeed(site);
+      const items = await fetchFeed(site, previous.feeds ? previous.feeds[site.url] : null);
       feeds[site.url] = {
         name: site.name,
         category: site.category,
@@ -300,10 +339,9 @@ async function collectAllFeeds() {
     previous.trendingDomestic,
     (item) => !item.isForeign
   );
-  const trendingGlobal = computeTrendingKeywords(
-    feeds,
-    previous.trendingGlobal,
-    (item) => item.isForeign
+  const trendingGlobal = await translateTrendingLabels(
+    computeTrendingKeywords(feeds, previous.trendingGlobal, (item) => item.isForeign),
+    previous.trendingGlobal
   );
 
   const cache = {

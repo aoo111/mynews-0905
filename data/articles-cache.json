@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T10:25:01.577Z",
+  "collectedAt": "2026-09-07T10:37:19.393Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:26.359Z",
+      "fetchedAt": "2026-09-07T10:36:18.116Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:33.222Z",
+      "fetchedAt": "2026-09-07T10:36:24.972Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:33.404Z",
+      "fetchedAt": "2026-09-07T10:36:25.156Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:38.170Z",
+      "fetchedAt": "2026-09-07T10:36:30.913Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -442,7 +442,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:38.397Z",
+      "fetchedAt": "2026-09-07T10:36:31.155Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +533,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:43.203Z",
+      "fetchedAt": "2026-09-07T10:36:36.957Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +607,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:48.866Z",
+      "fetchedAt": "2026-09-07T10:36:42.938Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +688,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:53.635Z",
+      "fetchedAt": "2026-09-07T10:36:49.156Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,8 +787,8 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:55.145Z",
-      "error": null
+      "fetchedAt": "2026-09-07T10:33:05.603Z",
+      "error": "This operation was aborted"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -873,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:24:55.346Z",
+      "fetchedAt": "2026-09-07T10:37:04.379Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -965,7 +965,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:25:00.057Z",
+      "fetchedAt": "2026-09-07T10:37:11.369Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,6 +973,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "로봇이 움직이고 AI가 판단한다…중소 제조현장으로 내려온 ‘피지컬 AI’",
+          "link": "https://www.venturesquare.net/1111372/",
+          "pubDate": "2026-09-07T10:06:15.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/3-1-783x522.jpg",
+          "summary": "중기부와 과기정통부가 ‘모두의 AI 공장장’과 스마트제조혁신 사업을 연계해 중소 제조기업의 피지컬 AI 도입을 지원한다. 올해 AMR·AGV를 활용한 개별 물류 자동화에서 시작해 2027년 전체 물류, 2028년 이후 생산·물류 전 공정의 통합운영으로 확대한다. 피지컬... The post 로봇이 움직이고 AI가 판단한다…중소 제조현장으로 내려온 ‘피지컬 AI’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "과학기술정보통신부",
+            "로봇스타트업",
+            "모두의AI공장장",
+            "스마트제조",
+            "스마트팩토리"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "포브스 한국 9개사 전원 벤처기업…CES 혁신상도 144개 차지",
           "link": "https://www.venturesquare.net/1111360/",
@@ -1044,27 +1062,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "양대 앱마켓 정상 오른 ‘제우스’…에이버튼, 크릿벤처스 후속 투자 유치",
-          "link": "https://www.venturesquare.net/1110962/",
-          "pubDate": "2026-09-04T03:13:04.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MMOG-789x444.jpg",
-          "summary": "크릿벤처스가 약 60억원 규모의 프로젝트 펀드를 통해 게임 개발사 에이버튼에 후속 투자했다. 에이버튼의 첫 MMORPG ‘제우스: 오만의 신’은 정식 출시 후 구글 플레이스토어와 애플 앱스토어에서 매출 1위를 기록했다. 에이버튼은 현재 개발 중인 차기작 2종을 바탕으로... The post 양대 앱마켓 정상 오른 ‘제우스’…에이버튼, 크릿벤처스 후속 투자 유치 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "mmorpg",
-            "게임스타트업",
-            "게임투자",
-            "김대훤",
-            "언리얼엔진5"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:25:01.147Z",
+      "fetchedAt": "2026-09-07T10:37:13.288Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1107,23 +1107,6 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
-          "pubDate": "2026-09-06T22:27:22.000Z",
-          "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
-          "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
           "pubDate": "2026-09-07T06:08:00.000Z",
@@ -1156,9 +1139,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
+          "pubDate": "2026-09-07T07:47:58.000Z",
+          "image": null,
+          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 cctoday.co.kr",
+          "keywords": [
+            "한국수자원공사",
+            "중소기업",
+            "ESG",
+            "지원사업",
+            "참여기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:25:01.554Z",
+      "fetchedAt": "2026-09-07T10:37:14.246Z",
       "error": null
     }
   },
@@ -1168,70 +1168,70 @@
       "label": "Special Post",
       "count": 3,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
+    },
+    {
+      "key": "esg",
+      "label": "ESG",
+      "count": 5,
+      "rank": 7,
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "esg",
-      "label": "ESG",
-      "count": 4,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "수자원공사",
-      "label": "수자원공사",
-      "count": 3,
+      "key": "중소기업",
+      "label": "중소기업",
+      "count": 4,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 3,
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 4,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1240,70 +1240,80 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 1,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
       "rank": 2,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
       "rank": 6,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
       "rank": 8,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
       "rank": 9,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "same"
+      "change": "same",
+      "labelKo": null
     }
   ]
 }
