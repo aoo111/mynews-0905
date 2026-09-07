@@ -42,6 +42,8 @@
   let searchQuery = "";
   let typeFilter = "ALL"; // 'ALL' | 'RSS' | 'WEBSITE'
   let translateEnabled = false;
+  let selectedDate = null; // "YYYY-MM-DD" | null
+  let calendarMonth = new Date(); // 달력에 표시 중인 달(일 단위는 무시)
   let BASE_SITES = [];
   let ARTICLE_CACHE = { collectedAt: null, feeds: {} };
 
@@ -245,6 +247,97 @@
     });
   }
 
+  function toDateKey(dateInput) {
+    if (!dateInput) return null;
+    const d = new Date(dateInput);
+    if (isNaN(d.getTime())) return null;
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, "0");
+    const day = String(d.getDate()).padStart(2, "0");
+    return `${y}-${m}-${day}`;
+  }
+
+  function formatDateKeyLabel(key) {
+    const [y, m, d] = key.split("-").map(Number);
+    return `${y}년 ${m}월 ${d}일`;
+  }
+
+  function getAvailableDateSet() {
+    const set = new Set();
+    Object.values(ARTICLE_CACHE.feeds || {}).forEach((feed) => {
+      (feed.items || []).forEach((item) => {
+        const key = toDateKey(item.pubDate);
+        if (key) set.add(key);
+      });
+    });
+    return set;
+  }
+
+  function renderCalendar() {
+    const grid = document.getElementById("calendar-grid");
+    const label = document.getElementById("calendar-month-label");
+    const clearBtn = document.getElementById("calendar-clear");
+
+    const year = calendarMonth.getFullYear();
+    const month = calendarMonth.getMonth();
+    label.textContent = `${year}년 ${month + 1}월`;
+    clearBtn.hidden = !selectedDate;
+
+    const availableDates = getAvailableDateSet();
+    const firstDay = new Date(year, month, 1);
+    const startWeekday = firstDay.getDay();
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    const daysInPrevMonth = new Date(year, month, 0).getDate();
+
+    const cells = [];
+    for (let i = startWeekday - 1; i >= 0; i--) {
+      cells.push({ day: daysInPrevMonth - i, otherMonth: true, key: null });
+    }
+    for (let day = 1; day <= daysInMonth; day++) {
+      const key = `${year}-${String(month + 1).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+      cells.push({ day, otherMonth: false, key });
+    }
+    while (cells.length % 7 !== 0) {
+      cells.push({ day: cells.length, otherMonth: true, key: null });
+    }
+
+    grid.innerHTML = "";
+    cells.forEach((cell) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.textContent = cell.day;
+      const classes = ["calendar-day"];
+      if (cell.otherMonth) classes.push("other-month");
+      if (cell.key && availableDates.has(cell.key)) classes.push("has-articles");
+      if (cell.key && cell.key === selectedDate) classes.push("selected");
+      btn.className = classes.join(" ");
+      if (!cell.otherMonth) {
+        btn.addEventListener("click", () => {
+          selectedDate = selectedDate === cell.key ? null : cell.key;
+          render();
+        });
+      } else {
+        btn.disabled = true;
+      }
+      grid.appendChild(btn);
+    });
+  }
+
+  function setupCalendar() {
+    document.getElementById("calendar-prev").addEventListener("click", () => {
+      calendarMonth = new Date(calendarMonth.getFullYear(), calendarMonth.getMonth() - 1, 1);
+      renderCalendar();
+    });
+    document.getElementById("calendar-next").addEventListener("click", () => {
+      calendarMonth = new Date(calendarMonth.getFullYear(), calendarMonth.getMonth() + 1, 1);
+      renderCalendar();
+    });
+    document.getElementById("calendar-clear").addEventListener("click", () => {
+      selectedDate = null;
+      render();
+    });
+  }
+
   function renderFeedView() {
     const header = document.getElementById("content-header");
     const body = document.getElementById("content-body");
@@ -281,10 +374,15 @@
       );
     }
 
+    if (selectedDate) {
+      articles = articles.filter((a) => toDateKey(a.pubDate) === selectedDate);
+    }
+
     articles.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
     articles = articles.slice(0, 60);
 
-    header.innerHTML = `<h2>📰 최신 뉴스</h2><span class="meta">${articles.length}건</span>`;
+    const title = selectedDate ? `📰 ${formatDateKeyLabel(selectedDate)} 뉴스` : "📰 최신 뉴스";
+    header.innerHTML = `<h2>${title}</h2><span class="meta">${articles.length}건</span>`;
     body.innerHTML = "";
 
     if (!articles.length) {
@@ -505,12 +603,22 @@
   function render() {
     const tree = buildTree(getAllSites());
     updateCategoryOptions(tree);
-    renderCategorySidebar(tree);
 
     document.querySelectorAll(".category-nav-btn[data-view]").forEach((btn) => {
       btn.classList.toggle("active", btn.dataset.view === activeView);
     });
     document.getElementById("type-filter").hidden = activeView === "feed";
+
+    const panelOpen = !document.getElementById("add-form-panel").hidden;
+    const showFeedExtras = activeView === "feed" && !panelOpen;
+
+    const categorySidebar = document.getElementById("category-sidebar");
+    categorySidebar.hidden = !showFeedExtras;
+    if (showFeedExtras) renderCategorySidebar(tree);
+
+    const calendarPanel = document.getElementById("calendar-panel");
+    calendarPanel.hidden = !showFeedExtras;
+    if (showFeedExtras) renderCalendar();
 
     if (activeView === "feed") {
       renderFeedView();
@@ -523,6 +631,7 @@
     const panel = document.getElementById("add-form-panel");
     const toggle = () => {
       panel.hidden = !panel.hidden;
+      render();
     };
     document.getElementById("hero-menu-btn").addEventListener("click", toggle);
     document.getElementById("hero-add-btn").addEventListener("click", toggle);
@@ -562,6 +671,7 @@
     document.querySelectorAll(".category-nav-btn[data-view]").forEach((btn) => {
       btn.addEventListener("click", () => {
         activeView = btn.dataset.view;
+        if (activeView !== "feed") selectedCategory = ALL_CATEGORY;
         render();
       });
     });
@@ -590,6 +700,7 @@
     setupAddForm();
     setupToolbar();
     setupModal();
+    setupCalendar();
 
     if (location.protocol === "file:") {
       document.getElementById("content-body").innerHTML =
