@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T14:10:54.273Z",
+  "collectedAt": "2026-09-07T16:10:35.727Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:43.591Z",
+      "fetchedAt": "2026-09-07T16:10:27.973Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:43.661Z",
+      "fetchedAt": "2026-09-07T16:10:28.075Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:45.154Z",
+      "fetchedAt": "2026-09-07T16:10:28.966Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:45.317Z",
+      "fetchedAt": "2026-09-07T16:10:29.137Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Terence Tao: “AI만으로 수학 문제를 성급하게 푸는 것”의 위험",
+          "link": "https://news.hada.io/topic?id=33326",
+          "pubDate": "2026-09-07T16:02:30.000Z",
+          "image": null,
+          "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를 분석하며 풀면 유체역학을...",
+          "keywords": [
+            "Terence",
+            "Tao:",
+            "AI만으로",
+            "수학",
+            "문제를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "GrapheneOS, 기본 앱과 보안 클립보드 전면 개편",
           "link": "https://news.hada.io/topic?id=33325",
@@ -422,24 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "OCaml로 프로그래밍 배우기",
-          "link": "https://news.hada.io/topic?id=33319",
-          "pubDate": "2026-09-07T11:32:27.000Z",
-          "image": null,
-          "summary": "프랑스어 OCaml 책의 영어 번역본으로, PDF와 EPUB 형식으로 공개되어 있음 영어 번역은 The OCaml Software Foundation의 자금 지원으로 이루어짐 책에는 CC BY SA 4.0 공개 라이선스가 적용됨 PDF 1.9MB·EPUB 2.3MB...",
-          "keywords": [
-            "OCaml로",
-            "프로그래밍",
-            "배우기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:46.341Z",
+      "fetchedAt": "2026-09-07T16:10:29.812Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -530,7 +532,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:46.455Z",
+      "fetchedAt": "2026-09-07T16:10:30.029Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:46.631Z",
+      "fetchedAt": "2026-09-07T16:10:30.241Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:46.682Z",
+      "fetchedAt": "2026-09-07T16:10:30.326Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -784,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:51.278Z",
+      "fetchedAt": "2026-09-07T16:10:33.203Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -870,7 +872,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:51.601Z",
+      "fetchedAt": "2026-09-07T16:10:33.550Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -962,7 +964,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:51.643Z",
+      "fetchedAt": "2026-09-07T16:10:33.619Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1061,7 +1063,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:53.880Z",
+      "fetchedAt": "2026-09-07T16:10:35.114Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1155,7 +1157,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T14:10:54.260Z",
+      "fetchedAt": "2026-09-07T16:10:35.718Z",
       "error": null
     }
   },
@@ -1165,70 +1167,70 @@
       "label": "경제",
       "count": 5,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "esg",
       "label": "ESG",
       "count": 4,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "수자원공사",
       "label": "수자원공사",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "중소기업",
       "label": "중소기업",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
