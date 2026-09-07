@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T08:49:32.142Z",
+  "collectedAt": "2026-09-07T09:19:34.108Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,32 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12146337",
-          "pubDate": "2026-09-07T08:38:33.000Z"
+          "title": "'대미투자 1호' 텍사스 복합화력발전소 확정",
+          "link": "https://www.mk.co.kr/news/economy/12146468",
+          "pubDate": "2026-09-07T09:04:44.000Z"
         },
         {
-          "title": "보증금 떼먹은 임대인 정보 … 보증기관 3사가 공유한다",
-          "link": "https://www.mk.co.kr/news/economy/12146336",
-          "pubDate": "2026-09-07T08:38:33.000Z"
+          "title": "원화값 두 달새 200원 치솟자 … 국민연금 환헤지 중단",
+          "link": "https://www.mk.co.kr/news/economy/12146455",
+          "pubDate": "2026-09-07T09:01:02.000Z"
         },
         {
-          "title": "[포토] NH농협銀, '보이스피싱 보상보험' 무료 가입 지원",
-          "link": "https://www.mk.co.kr/news/economy/12146338",
-          "pubDate": "2026-09-07T08:38:33.000Z"
+          "title": "AI 데이터센터 신청 60%, 수도권에 몰렸다",
+          "link": "https://www.mk.co.kr/news/economy/12146407",
+          "pubDate": "2026-09-07T08:55:52.000Z"
         },
         {
-          "title": "국가소유였던 우리금융지주 … 외국인 지분 50% 넘어섰다",
-          "link": "https://www.mk.co.kr/news/economy/12146334",
-          "pubDate": "2026-09-07T08:38:32.000Z"
+          "title": "[포토] 물가 점검하는 부총리 후보자",
+          "link": "https://www.mk.co.kr/news/economy/12146405",
+          "pubDate": "2026-09-07T08:55:51.000Z"
         },
         {
-          "title": "\"방화 조사해 보험금 누수 잡는 화재 탐정입니다\"",
-          "link": "https://www.mk.co.kr/news/economy/12146335",
-          "pubDate": "2026-09-07T08:38:32.000Z"
+          "title": "6.3GW 가스복합발전 건설… 생산 전력은 데이터센터로",
+          "link": "https://www.mk.co.kr/news/economy/12146406",
+          "pubDate": "2026-09-07T08:55:51.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:06.480Z",
+      "fetchedAt": "2026-09-07T09:19:26.967Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -100,7 +100,7 @@
           "pubDate": "2026-08-20T15:00:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:06.647Z",
+      "fetchedAt": "2026-09-07T09:19:27.011Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -109,32 +109,32 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "오픈AI 수석 과학자의 경고...\"외계인 같은 AI, 자기개선에 대비해야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214932",
-          "pubDate": "2026-09-07T17:40:23.000Z"
+          "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
+          "pubDate": "2026-09-07T18:13:18.000Z"
         },
         {
-          "title": "\"인간처럼 기만하고 공모\"...통제 벗어난 'AI 스웜'의 경고",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214938",
-          "pubDate": "2026-09-07T17:30:00.000Z"
+          "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
+          "pubDate": "2026-09-07T18:12:43.000Z"
         },
         {
-          "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214945",
-          "pubDate": "2026-09-07T17:19:08.000Z"
+          "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
+          "pubDate": "2026-09-07T18:05:18.000Z"
         },
         {
-          "title": "화웨이 ‘타우 법칙’ 칩 과열 우려 일축...“트랜지스터 밀도 55% 높이고 전력 낮췄다”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214960",
-          "pubDate": "2026-09-07T17:10:07.000Z"
+          "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
+          "pubDate": "2026-09-07T17:59:13.000Z"
         },
         {
-          "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214939",
-          "pubDate": "2026-09-07T17:05:06.000Z"
+          "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
+          "pubDate": "2026-09-07T17:51:30.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:07.841Z",
+      "fetchedAt": "2026-09-07T09:19:27.954Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -168,7 +168,7 @@
           "pubDate": "2026-09-03T12:00:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:08.101Z",
+      "fetchedAt": "2026-09-07T09:19:28.128Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -202,7 +202,7 @@
           "pubDate": "2026-09-07T01:37:17.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:08.902Z",
+      "fetchedAt": "2026-09-07T09:19:28.810Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -236,7 +236,7 @@
           "pubDate": "2026-09-03T22:32:32.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:09.203Z",
+      "fetchedAt": "2026-09-07T09:19:28.923Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -270,7 +270,7 @@
           "pubDate": "2022-03-16T17:30:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:09.422Z",
+      "fetchedAt": "2026-09-07T09:19:29.102Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -304,7 +304,7 @@
           "pubDate": "2025-01-30T15:00:00.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:09.527Z",
+      "fetchedAt": "2026-09-07T09:19:29.202Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -312,6 +312,11 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "대만 진출 10개월 만에 1만 사용자…라인웍스, 신주시 공식 협업툴로",
+          "link": "https://www.venturesquare.net/1111297/",
+          "pubDate": "2026-09-07T03:05:18.000Z"
+        },
         {
           "title": "AI가 조향하고 병변 탐지 보조…메디인테크, 로봇내시경 상용화 채비",
           "link": "https://www.venturesquare.net/1111271/",
@@ -331,15 +336,10 @@
           "title": "80개 리셀러망 연결…알서포트, 인도네시아 원격지원 유통 체계 구축",
           "link": "https://www.venturesquare.net/1111250/",
           "pubDate": "2026-09-07T01:56:25.000Z"
-        },
-        {
-          "title": "스타트업 성장 전주기 자문 고도화…디엘지, 법무법인(유한) 체제로 새 출발",
-          "link": "https://www.venturesquare.net/1111240/",
-          "pubDate": "2026-09-07T01:32:51.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:44:59.016Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-07T09:19:31.890Z",
+      "error": null
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -372,7 +372,7 @@
           "pubDate": "2026-09-06T23:33:29.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:24.845Z",
+      "fetchedAt": "2026-09-07T09:19:32.159Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -406,7 +406,7 @@
           "pubDate": "2026-09-03T20:59:23.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:24.938Z",
+      "fetchedAt": "2026-09-07T09:19:32.267Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -440,7 +440,7 @@
           "pubDate": "2026-09-03T13:48:05.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:31.480Z",
+      "fetchedAt": "2026-09-07T09:19:33.741Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -459,9 +459,9 @@
           "pubDate": "2026-09-07T03:50:46.000Z"
         },
         {
-          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
-          "pubDate": "2026-09-07T01:29:30.000Z"
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
+          "pubDate": "2026-09-06T22:27:22.000Z"
         },
         {
           "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
@@ -469,12 +469,12 @@
           "pubDate": "2026-09-07T06:08:00.000Z"
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
-          "pubDate": "2026-09-06T22:27:22.000Z"
+          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
+          "pubDate": "2026-09-07T01:29:30.000Z"
         }
       ],
-      "fetchedAt": "2026-09-07T08:49:32.142Z",
+      "fetchedAt": "2026-09-07T09:19:34.108Z",
       "error": null
     }
   }
