@@ -507,7 +507,7 @@
     updateCategoryOptions(tree);
     renderCategorySidebar(tree);
 
-    document.querySelectorAll(".hero-nav-btn[data-view]").forEach((btn) => {
+    document.querySelectorAll(".category-nav-btn[data-view]").forEach((btn) => {
       btn.classList.toggle("active", btn.dataset.view === activeView);
     });
     document.getElementById("type-filter").hidden = activeView === "feed";
@@ -559,7 +559,7 @@
   }
 
   function setupToolbar() {
-    document.querySelectorAll(".hero-nav-btn[data-view]").forEach((btn) => {
+    document.querySelectorAll(".category-nav-btn[data-view]").forEach((btn) => {
       btn.addEventListener("click", () => {
         activeView = btn.dataset.view;
         render();
