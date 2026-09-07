@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T09:43:37.777Z",
+  "collectedAt": "2026-09-07T10:11:45.621Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:42:09.924Z",
+      "fetchedAt": "2026-09-07T10:10:30.774Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T09:42:24.135Z",
+      "fetchedAt": "2026-09-07T10:10:41.237Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -191,7 +191,7 @@
         {
           "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
-          "pubDate": "2026-09-07T09:13:18.000Z",
+          "pubDate": "2026-09-07T18:13:18.000Z",
           "image": null,
           "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
           "keywords": [
@@ -208,7 +208,7 @@
         {
           "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
-          "pubDate": "2026-09-07T09:12:43.000Z",
+          "pubDate": "2026-09-07T18:12:43.000Z",
           "image": null,
           "summary": "앤트로픽이 AI 서비스 수요 폭증에 대응하기 위해 최근 1년간 최대 5170억달러(약 695조원) 규모의 클라우드 컴퓨팅과 데이터센터 계약을 확보한 것으로 나타났다. 5일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 지난해 10월 이후 앞으로 수년간 사용할 수 있는 최소 14.8기가와트(GW) 규모의 컴퓨팅 용량 확보 계약을 체결했다. 이는 기존에 확보했던 1~2GW를 훌쩍 웃도는 수준이다. 공격적인 인프라 확보는 올해 예상보다 빠르게 증가한 ‘클로드 코드’와 ‘코워크’ 수요에 따른 것이다. AI 코딩과 업무 자동화 서비스 이용자",
           "keywords": [
@@ -225,7 +225,7 @@
         {
           "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
-          "pubDate": "2026-09-07T09:05:18.000Z",
+          "pubDate": "2026-09-07T18:05:18.000Z",
           "image": null,
           "summary": "AI가 사용자의 요구에 맞춰 글을 작성하는 것을 넘어, 사용자가 평소 쓰는 말투와 표현 방식까지 학습해 '나만의 문체'로 글을 만들어주는 방향으로 진화하고 있다. AI가 작성한 티가 나는 문제를 줄여줄 것으로 보인다.5일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 사용자의 고유한 글쓰기 습관을 학습해 개인의 어조와 문체를 그대로 반영한 글을 작성하는 새로운 '글쓰기 스타일(Writing Style)' 기능을 챗GPT에서 테스트하고 있는 것으로 알려졌다.이메일이나 문서, 메시지 등 사용자가 실제로 작성한 텍스트를 참고해 챗GPT가",
           "keywords": [
@@ -242,7 +242,7 @@
         {
           "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
-          "pubDate": "2026-09-07T08:59:13.000Z",
+          "pubDate": "2026-09-07T17:59:13.000Z",
           "image": null,
           "summary": "미국 캘리포니아주에서 등산객 3명이 구글의 '제미나이' 등을 이용해 산행 계획을 세웠다가 정상에 오르는 데 예상보다 훨씬 긴 시간이 걸리고 하산 중 길을 잃으면서 고립되는 사고가 발생했다. 이들은 충분한 식량과 물, 장비를 준비하지 않은 채 산행을 강행했고, 결국 이튿날 산림청 레인저와 자원봉사 구조대에 의해 구조됐다.5일(현지시간) 비즈니스인사이더에 따르면, 사고는 캘리포니아주 북부 캐스케이드산맥에 위치한 해발 1만4179피트(약 4322m)의 샤스타산에서 발생했다.20세 남성 3명으로 구성된 일행은 샤스타산의 클리어 크릭 루트",
           "keywords": [
@@ -259,7 +259,7 @@
         {
           "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
-          "pubDate": "2026-09-07T08:51:30.000Z",
+          "pubDate": "2026-09-07T17:51:30.000Z",
           "image": null,
           "summary": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존 영상 생성 모델이 프롬프트를 입력하면 일정 길이의 완성된 영상을 만들어내는 방식이었다면, GWM 월드 2는 사용자가 키보드와 마우스, 텍스트 등으로 세계에 개입하는 동안 초당 24프레",
           "keywords": [
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:42:24.535Z",
+      "fetchedAt": "2026-09-07T10:10:42.451Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T09:42:33.433Z",
+      "fetchedAt": "2026-09-07T10:10:52.033Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -442,7 +442,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:42:33.798Z",
+      "fetchedAt": "2026-09-07T10:10:52.990Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -515,7 +515,7 @@
           ],
           "isForeign": true,
           "titleKo": "TikTok에는 댓글을 달 수 있는 새로운 방법이 있습니다 (Instagram과 비슷한 느낌).",
-          "summaryKo": "TikTok은 댓글을 대화형 형식으로 전환하려고 합니다. 이 앱은 오디오 응답, 사진 슬라이드, 투표 등 크리에이터와 대화할 수 있는 몇 가지 새로운 방법을 공개했습니다. 뉴스룸 게시물은 TikTok의 댓글 섹션에 대한 업데이트를 통해 실행됩니다. 다음 달 18세 이상 사용자에게 공개되는 음성 댓글은 최대 60초까지 재생할 수 있으며 누구나 재생할 수 있습니다. 현재 사용할 수 있는 댓글 여론조사는 최대 5개의 옵션을 가질 수 있으며 설정된 기간 동안 실행할 수 있습니다. 그리고 wi"
+          "summaryKo": null
         },
         {
           "title": "GTA RP Week returns to Twitch, with Rockstar promoting “the next evolution of the GTA 5 roleplay community”",
@@ -533,7 +533,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T09:42:45.155Z",
+      "fetchedAt": "2026-09-07T10:11:12.327Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -578,7 +578,7 @@
           ],
           "isForeign": true,
           "titleKo": "애드센스 2022 연말연시 체크리스트",
-          "summaryKo": "2022년 애드센스 연말연시 시즌 체크리스트를 통해 연중 가장 바쁜 시기를 대비하여 웹사이트와 콘텐츠를 준비하세요."
+          "summaryKo": "2022년 애드센스 휴가철 체크리스트는 연중 가장 바쁜 시기에 대비하여 사이트와 콘텐츠를 준비하는 데 도움이 됩니다."
         },
         {
           "title": "Kickstart your monetization with the AdSense onboarding video series",
@@ -607,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:02.059Z",
+      "fetchedAt": "2026-09-07T10:11:20.184Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,11 +684,11 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": "수요 창출을 통해 성과를 향상시키는 새로운 방법",
+          "titleKo": "Demand Gen으로 성과를 높이는 새로운 방법",
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:22.132Z",
+      "fetchedAt": "2026-09-07T10:11:28.933Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -696,6 +696,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "510만 개 팔린 ‘애플 립오일’, 미국 일상 유통망으로…누니, 타깃 1,778곳 입점",
+          "link": "https://www.venturesquare.net/1111341/",
+          "pubDate": "2026-09-07T09:28:01.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-3-417x522.jpeg",
+          "summary": "미미박스의 K뷰티 브랜드 누니가 대표 제품 ‘애플 립오일’을 미국 타깃 1,778개 매장과 Target.com에 출시했다. 애플 립오일은 글로벌 누적 판매량 510만 개를 넘어섰으며 미국 아마존 립 관련 3개 부문 1위와 틱톡 콘텐츠 조회수 4억5,000만 회를 기록했... The post 510만 개 팔린 ‘애플 립오일’, 미국 일상 유통망으로…누니, 타깃 1,778곳 입점 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "K뷰티",
+            "노드스트롬",
+            "누니"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AI 진단·1대1 온보딩·제품 대여 연결…다이슨, 글로벌 고객 지원 체계 개편",
           "link": "https://www.venturesquare.net/1111338/",
@@ -767,27 +785,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "취재 데이터는 전용 인프라에, 기사 초안은 AI로…가비아, 블로터·넘버스 뉴스룸 전환",
-          "link": "https://www.venturesquare.net/1111262/",
-          "pubDate": "2026-09-07T02:07:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/GABIA-748x522.png",
-          "summary": "가비아가 경제매체 블로터와 자본시장 전문매체 넘버스를 위한 전용 생성형 AI 인프라와 ‘AI 뉴스룸’을 구축했다. 아마존 베드록을 기반으로 Claude와 Amazon Nova 등을 선택해 사용할 수 있으며 기사 초안 작성, 교정·교열·윤문, 썸네일 생성 기능을 제공한다... The post 취재 데이터는 전용 인프라에, 기사 초안은 AI로…가비아, 블로터·넘버스 뉴스룸 전환 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI 뉴스룸",
-            "Amazon Nova",
-            "AWS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:23.708Z",
+      "fetchedAt": "2026-09-07T10:11:32.080Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -873,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:23.843Z",
+      "fetchedAt": "2026-09-07T10:11:32.299Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -965,7 +965,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:35.767Z",
+      "fetchedAt": "2026-09-07T10:11:41.788Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,6 +973,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "포브스 한국 9개사 전원 벤처기업…CES 혁신상도 144개 차지",
+          "link": "https://www.venturesquare.net/1111360/",
+          "pubDate": "2026-09-07T09:58:02.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/venture-3-789x444.png",
+          "summary": "포브스의 ‘2026 아시아 유망기업 100곳’에 선정된 한국 기업 9곳이 모두 벤처기업으로 확인됐다. 2025년 세계일류상품 신규 선정기업 88곳 가운데 43곳이 벤처기업이었으며, CES 2026 한국 기업 혁신상 206개 중 144개도 벤처·창업기업이 차지했다. 벤처... The post 포브스 한국 9개사 전원 벤처기업…CES 혁신상도 144개 차지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "CES 2026",
+            "Forbes Asia 100 to Watch",
+            "K벤처",
+            "모험자본",
+            "벤처기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "스마트공장부터 GPU·공공데이터까지…중기부, APEC에 ‘중소기업 AI 전환’ 청사진",
+          "link": "https://www.venturesquare.net/1111134/",
+          "pubDate": "2026-09-06T12:23:30.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/0905-789x103.png",
+          "summary": "중소벤처기업부가 중국 광저우에서 열린 제32차 APEC 중소기업 장관회의에서 한국의 중소·벤처기업 AI 정책을 20개 회원 경제체에 소개했다. 정책은 제조업 AI 전환과 지역·소상공인 지원, AI 스타트업 육성, AI 확산 인프라 구축 등 네 가지 축으로 구성됐다. A... The post 스마트공장부터 GPU·공공데이터까지…중기부, APEC에 ‘중소기업 AI 전환’ 청사진 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "APEC",
+            "GPU",
+            "딥테크AI펀드",
+            "소상공인",
+            "스마트공장"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "6만3000명의 창업 아이디어, 1100개 사업으로 좁혀졌다…‘모두의 창업’ 2라운드가 보여준 것",
           "link": "https://www.venturesquare.net/1111088/",
@@ -1026,45 +1062,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "사업계획서부터 1대1 상담까지…대전 예비창업자 ‘첫걸음’ 지원",
-          "link": "https://www.venturesquare.net/1110946/",
-          "pubDate": "2026-09-04T03:03:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/djdjdjdj-2-696x522.jpg",
-          "summary": "대전창조경제혁신센터가 일반인과 예비창업자를 대상으로 창업준비 아카데미 ‘스타트업 첫걸음’을 개최했다. 참가자들은 창업지원사업 안내와 사업계획서 작성 교육, 기관별 1대1 상담, 네트워킹에 참여했다. 행사는 2026 스타트업 코리아 투자 위크와 연계해 지역의 창업지원 정... The post 사업계획서부터 1대1 상담까지…대전 예비창업자 ‘첫걸음’ 지원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "대전스타트업파크",
-            "대전창조경제혁신센터",
-            "대전혁신센터",
-            "사업계획서",
-            "스타트업첫걸음"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "기술특례상장, 산업별 사례로 짚는다…서울창업허브 스케일업센터 IPO 세미나",
-          "link": "https://www.venturesquare.net/1110839/",
-          "pubDate": "2026-09-03T13:48:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-2-369x522.png",
-          "summary": "서울시와 서울경제진흥원이 9월 15일 서울창업허브 스케일업센터에서 IPO 준비 기업을 위한 세미나를 개최한다. 기술특례상장 제도와 준비 절차를 소개하고 AI·ICT, 의료기기·바이오, 제조·소부장 분야의 실제 상장 사례를 다룬다. 참가비는 무료이며 사전 신청을 통해 참... The post 기술특례상장, 산업별 사례로 짚는다…서울창업허브 스케일업센터 IPO 세미나 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "IPO",
-            "SBA",
-            "기술특례상장",
-            "기업공개",
-            "상장전략"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:36.951Z",
+      "fetchedAt": "2026-09-07T10:11:45.286Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1158,7 +1158,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T09:43:37.777Z",
+      "fetchedAt": "2026-09-07T10:11:45.621Z",
       "error": null
     }
   }
