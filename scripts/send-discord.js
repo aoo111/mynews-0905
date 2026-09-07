@@ -50,6 +50,53 @@ function buildEmbeds(cache) {
     });
 }
 
+// Discord 제약: 메시지 하나에 포함된 모든 임베드의 글자수 합계가 6000자를
+// 넘을 수 없고, 임베드도 최대 10개까지만 허용된다. 카테고리가 많으면
+// 한 메시지에 다 안 들어가므로, 여유 있게 여러 메시지로 나눠 보낸다.
+const MAX_TOTAL_CHARS_PER_MESSAGE = 5500;
+const MAX_EMBEDS_PER_MESSAGE = 10;
+
+function embedLength(embed) {
+  return (embed.title || "").length + (embed.description || "").length;
+}
+
+function batchEmbeds(embeds) {
+  const batches = [];
+  let current = [];
+  let currentLen = 0;
+  embeds.forEach((embed) => {
+    const len = embedLength(embed);
+    if (
+      current.length &&
+      (current.length >= MAX_EMBEDS_PER_MESSAGE || currentLen + len > MAX_TOTAL_CHARS_PER_MESSAGE)
+    ) {
+      batches.push(current);
+      current = [];
+      currentLen = 0;
+    }
+    current.push(embed);
+    currentLen += len;
+  });
+  if (current.length) batches.push(current);
+  return batches;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function postToDiscord(webhookUrl, payload) {
+  const res = await fetch(webhookUrl, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`Discord 전송 실패: HTTP ${res.status} ${text}`);
+  }
+}
+
 async function sendDiscordSummary() {
   const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
   if (!webhookUrl) {
@@ -64,21 +111,15 @@ async function sendDiscordSummary() {
   }
 
   const today = new Date().toLocaleDateString("ko-KR", { timeZone: TIMEZONE });
-  const res = await fetch(webhookUrl, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      content: `📰 **${today} 뉴스 요약**`,
-      embeds,
-    }),
-  });
+  const batches = batchEmbeds(embeds);
 
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Discord 전송 실패: HTTP ${res.status} ${text}`);
+  for (let i = 0; i < batches.length; i++) {
+    const content = i === 0 ? `📰 **${today} 뉴스 요약**` : undefined;
+    await postToDiscord(webhookUrl, { content, embeds: batches[i] });
+    console.log(`[discord] ${i + 1}/${batches.length}번째 메시지 전송 완료 (임베드 ${batches[i].length}개)`);
+    if (i < batches.length - 1) await sleep(500);
   }
 
-  console.log("[discord] 요약 전송 완료");
   return { ok: true };
 }
 
@@ -89,4 +130,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { sendDiscordSummary, buildEmbeds };
+module.exports = { sendDiscordSummary, buildEmbeds, batchEmbeds };
