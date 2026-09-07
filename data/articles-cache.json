@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T12:14:18.799Z",
+  "collectedAt": "2026-09-07T14:10:54.273Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "우리금융 외국인 지분율, 사상 첫 50% 돌파…꾸준히 사들이는 이유는",
+          "link": "https://www.mk.co.kr/news/economy/12146570",
+          "pubDate": "2026-09-07T13:19:28.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/07/news-p.v1.20260819.3ac8e8e2f7da4fcc825a5ce14a22dff6_R.jpg",
+          "summary": "2021년 민영화 이후 첫 과반 임종룡 회장 해외 곳곳서 IR 외인들 “경영 자율성 확보돼”우리금융지주의 외국인 지분율이 최근 사상 처음으로 50%를 넘어섰다. 예금보험공사가 최대..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "한미 '원전동맹' 업그레이드 … 대미펀드 70% 발전사업 투자",
           "link": "https://www.mk.co.kr/news/economy/12146530",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 물가 점검하는 부총리 후보자",
-          "link": "https://www.mk.co.kr/news/economy/12146405",
-          "pubDate": "2026-09-07T08:55:51.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110110000004_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:46.244Z",
+      "fetchedAt": "2026-09-07T14:10:43.591Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:46.296Z",
+      "fetchedAt": "2026-09-07T14:10:43.661Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:47.771Z",
+      "fetchedAt": "2026-09-07T14:10:45.154Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:47.948Z",
+      "fetchedAt": "2026-09-07T14:10:45.317Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "GrapheneOS, 기본 앱과 보안 클립보드 전면 개편",
+          "link": "https://news.hada.io/topic?id=33325",
+          "pubDate": "2026-09-07T13:32:28.000Z",
+          "image": null,
+          "summary": "기본 Messaging 앱의 낡은 인터페이스를 Android Compose로 전면 재작성하고 있으며, 여러 개선과 버그 수정을 담은 새 버전을 게시 당일 늦게 출시할 예정임 장기적으로 RCS와 Messaging Layer Security(MLS) 기반 종단간 암호화",
+          "keywords": [
+            "GrapheneOS",
+            "기본",
+            "앱과",
+            "보안",
+            "클립보드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Anubis에 WebAssembly를 탑재하기까지 1년이 걸렸다",
+          "link": "https://news.hada.io/topic?id=33323",
+          "pubDate": "2026-09-07T13:01:08.000Z",
+          "image": null,
+          "summary": "Anubis는 AI 기업의 공격적인 웹사이트 스크래핑으로 인한 서비스 중단과 이용자의 접근 불가를 막기 위해 관리자가 설치하는 서버 보호 도구임 이메일 스팸을 줄이기 위해 제안된 Hashcash와 유사한 작업 증명(Proof-of-Work) 방식을 사용함",
+          "keywords": [
+            "Anubis에",
+            "WebAssembly를",
+            "탑재하기까지",
+            "1년이",
+            "걸렸다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
+          "link": "https://news.hada.io/topic?id=33321",
+          "pubDate": "2026-09-07T12:24:39.000Z",
+          "image": null,
+          "summary": "최근 약간 빠져버린 무협지에서 기인해, 가벼운 마음으로 무협지 문체 스킬을 만들어 보았습니다. 이 초식은 클로드가 강호의 말투로 한국어를 쓰도록 합니다. 해당 초식을 사용하셔도 좋고, 직접 유사하게 비급을 만드셔도 좋습니다. 이 초식이 유일한 길은 아니니, 원하시는 초식을 자유롭게 펼치십시오, 사",
+          "keywords": [
+            "Show",
+            "GN:",
+            "번역체를",
+            "완전히",
+            "없앤다면"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "단순함을 쉽게 만들기 (2011)",
           "link": "https://news.hada.io/topic?id=33320",
@@ -386,60 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "LG TV 화면을 끈 상태에서 오디오 녹음, 주변 기기 탐색 적발",
-          "link": "https://news.hada.io/topic?id=33318",
-          "pubDate": "2026-09-07T11:24:18.000Z",
-          "image": null,
-          "summary": "Gamers Nexus가 Level1Techs 및 독립 보안 연구자들과 함께 LG G5 등 OLED TV를 테스트한 결과를 135분 분량 영상으로 공개 Wireshark 패킷 분석 결과, TV가 가정 네트워크를 지속적으로 스캔해 휴대폰·스마트워치 등 무관한 기기를 매핑하고, 주변 Wi-Fi 이름·신호 세기·위치 정보까지 수집",
-          "keywords": [
-            "LG",
-            "TV",
-            "화면을",
-            "상태에서",
-            "오디오"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: PolyView - 폴리마켓 공개 데이터를 한국어로 보는 한국 폴리마켓 뷰어",
-          "link": "https://news.hada.io/topic?id=33317",
-          "pubDate": "2026-09-07T08:47:49.000Z",
-          "image": null,
-          "summary": "폴리마켓의 국내 접속이 차단됐습니다. 그렇다면 그 안의 공개 데이터를 읽고 분석하려던 사람들은 어떻게 해야 할까요? 안녕하세요. 폴리마켓의 공개 시장 데이터를 한국어로 볼 수 있는 PolyView를 제작하였습니다. 예측시장 데이터는 여러 사건에 대한 참여자들",
-          "keywords": [
-            "Show",
-            "GN:",
-            "PolyView",
-            "폴리마켓",
-            "공개"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "우리 서버가 계속 운영될 수 있도록 도와주세요",
-          "link": "https://news.hada.io/topic?id=33316",
-          "pubDate": "2026-09-07T08:32:08.000Z",
-          "image": null,
-          "summary": "Internet Archive는 210페타바이트의 지식을 보존하고 누구나 접근할 수 있도록 자체 인프라를 유지하기 위해 정기 후원을 요청함 이용자 데이터 판매나 광고 없이 누구에게나 무료로 개방하며, 핵심 기술을 외부 기업에 맡기지 않고 자체 시스템...",
-          "keywords": [
-            "우리",
-            "서버가",
-            "계속",
-            "운영될",
-            "있도록"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:48.736Z",
+      "fetchedAt": "2026-09-07T14:10:46.341Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -530,7 +530,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:48.856Z",
+      "fetchedAt": "2026-09-07T14:10:46.455Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +604,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:48.929Z",
+      "fetchedAt": "2026-09-07T14:10:46.631Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +685,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T12:13:48.977Z",
+      "fetchedAt": "2026-09-07T14:10:46.682Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -694,98 +694,98 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "‘레벨5 완전자율 제조’ 겨냥한 SFA, 정부 M.AX 전문기업 선정",
-          "link": "https://www.venturesquare.net/1111376/",
-          "pubDate": "2026-09-07T10:09:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SFA-ci-789x443.jpg",
-          "summary": "SFA가 산업통상자원부와 한국산업기술기획평가원이 지정하는 M.AX 전문기업의 AI 솔루션 기업 부문에 선정됐다. 반도체와 이차전지, 디스플레이 등에서 축적한 로봇 물류·제어 기술과 제조현장 실증 역량을 기반으로 2028년 8월까지 정부 지원과 관련 사업 참여 기회를 확... The post ‘레벨5 완전자율 제조’ 겨냥한 SFA, 정부 M.AX 전문기업 선정 appeared first on 벤처스퀘어.",
+          "title": "관리비 자동화 넘어 주거 AI로…한국주택정보, MS ‘마중’서 2억원 지원",
+          "link": "https://www.venturesquare.net/1111533/",
+          "pubDate": "2026-09-07T13:20:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260914-789x518.png",
+          "summary": "비아파트 관리 SaaS ‘관리비책’을 운영하는 한국주택정보가 중기부·마이크로소프트의 글로벌기업 협업 프로그램 ‘마중’에 선정돼 사업화 자금 2억원과 Azure 기술 지원을 받는다. 회사는 관리비 부과·수납·정산 데이터를 기반으로 Azure AI Foundry 기반 주거... The post 관리비 자동화 넘어 주거 AI로…한국주택정보, MS ‘마중’서 2억원 지원 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI 자율제조",
-            "ART Innovation Center",
-            "KEIT"
+            "AzureAI",
+            "관리비자동화",
+            "관리비책"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "510만 개 팔린 ‘애플 립오일’, 미국 일상 유통망으로…누니, 타깃 1,778곳 입점",
-          "link": "https://www.venturesquare.net/1111341/",
-          "pubDate": "2026-09-07T09:28:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-3-417x522.jpeg",
-          "summary": "미미박스의 K뷰티 브랜드 누니가 대표 제품 ‘애플 립오일’을 미국 타깃 1,778개 매장과 Target.com에 출시했다. 애플 립오일은 글로벌 누적 판매량 510만 개를 넘어섰으며 미국 아마존 립 관련 3개 부문 1위와 틱톡 콘텐츠 조회수 4억5,000만 회를 기록했... The post 510만 개 팔린 ‘애플 립오일’, 미국 일상 유통망으로…누니, 타깃 1,778곳 입점 appeared first on 벤처스퀘어.",
+          "title": "게임스컴서 직접 플레이된 K-인디게임…인디크래프트, 투자·퍼블리싱 접점 확대",
+          "link": "https://www.venturesquare.net/1111526/",
+          "pubDate": "2026-09-07T13:11:19.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/11111-696x522.jpeg",
+          "summary": "인디크래프트가 독일 게임스컴 2026에서 지난해보다 두 배 확대된 홍보부스를 운영하고 국내 인디게임 선정작을 해외 투자사와 퍼블리셔에게 소개했다. 현장에서는 선정작 체험과 네트워킹, 퍼블리싱·투자 상담과 함께 뉴질랜드·퀘벡 게임단체와의 MOU 추진 논의가 이뤄졌다. 조... The post 게임스컴서 직접 플레이된 K-인디게임…인디크래프트, 투자·퍼블리싱 접점 확대 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "K뷰티",
-            "노드스트롬",
-            "누니"
+            "GXG2026",
+            "K인디게임",
+            "게임스컴2026"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI 진단·1대1 온보딩·제품 대여 연결…다이슨, 글로벌 고객 지원 체계 개편",
-          "link": "https://www.venturesquare.net/1111338/",
-          "pubDate": "2026-09-07T09:25:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/DYSON-2-418x522.jpg",
-          "summary": "다이슨이 한국에서 축적한 고객 지원 경험을 바탕으로 글로벌 정책 ‘네버 위드아웃 유어 다이슨’을 공개했다. AI 챗봇과 MyDyson 앱, 전문가 1대1 온보딩, 지능형 진단, 오프라인 수리를 연결해 제품 구매부터 유지관리까지 지원한다. 수리 기간에는 제품 무상 대여 ... The post AI 진단·1대1 온보딩·제품 대여 연결…다이슨, 글로벌 고객 지원 체계 개편 appeared first on 벤처스퀘어.",
+          "title": "불꽃축제에 모인 100명의 파트너…티오더, ‘소상공인 AX’ 협력망 넓힌다",
+          "link": "https://www.venturesquare.net/1111513/",
+          "pubDate": "2026-09-07T13:04:56.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-9-783x522.jpeg",
+          "summary": "티오더가 POS·VAN사와 프랜차이즈, 광고주 등 비즈니스 파트너 100여명을 본사로 초청해 서울세계불꽃축제 관람 네트워킹 행사를 열었다. 티오더는 이날 테이블오더를 넘어 AI가 매장 운영을 지원하는 ‘티오더 AI’를 중심으로 결제·유통·금융·마케팅 서비스를 연결하는 ... The post 불꽃축제에 모인 100명의 파트너…티오더, ‘소상공인 AX’ 협력망 넓힌다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI 챗봇",
-            "MyDyson",
-            "고객 지원"
+            "리테일테크",
+            "서울세계불꽃축제",
+            "소상공인"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[VS기획] 클로드·GPT·제미나이 신모델 잇따라…AI, 나올 때마다 갈아타야 할까",
-          "link": "https://www.venturesquare.net/1111173/",
-          "pubDate": "2026-09-07T09:13:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/F5.jpg",
-          "summary": "클로드와 GPT, 제미나이의 신모델 경쟁이 이어지고 있지만 높은 벤치마크 점수가 곧바로 업무 생산성 향상을 의미하지는 않는다. 토큰 단가뿐 아니라 실제 사용량과 재시도, 수정, 사람의 검수시간까지 포함한 ‘작업당 총비용’을 따져야 AI 모델의 실질적인 가치를 판단할 수... The post [VS기획] 클로드·GPT·제미나이 신모델 잇따라…AI, 나올 때마다 갈아타야 할까 appeared first on 벤처스퀘어.",
+          "title": "게임 넘어 AI·로보틱스까지…크래프톤, 모디 총리와 인도 투자 청사진 공유",
+          "link": "https://www.venturesquare.net/1111506/",
+          "pubDate": "2026-09-07T12:56:19.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CRA-716x522.jpg",
+          "summary": "장병규 크래프톤 의장이 나렌드라 모디 인도 총리와 만나 인도 게임·기술·디지털 엔터테인먼트 생태계의 성장과 협력 방안을 논의했다. 크래프톤은 기존 2억5000만달러에 이어 향후 3~4년간 같은 규모를 추가로 투자하고, 네이버·미래에셋과 조성한 6억7000만달러 규모 펀... The post 게임 넘어 AI·로보틱스까지…크래프톤, 모디 총리와 인도 투자 청사진 공유 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
+            "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI모델",
-            "AI생산성",
-            "AI에이전트"
+            "KIGI아카데미",
+            "게임스타트업",
+            "나렌드라모디"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "대만 진출 10개월 만에 1만 사용자…라인웍스, 신주시 공식 협업툴로",
-          "link": "https://www.venturesquare.net/1111297/",
-          "pubDate": "2026-09-07T03:05:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NAVER-3-789x307.jpg",
-          "summary": "네이버클라우드의 협업 플랫폼 라인웍스가 대만 신주시의 공식 협업툴로 도입됐다. 대만 진출 약 10개월 만에 150개 이상의 기업·기관과 사용자 1만 명을 확보한 가운데 처음으로 대만 행정기관과 대규모 협력 사례를 구축했다. 양측은 AI 기반 행정 애플리케이션 연구와 시... The post 대만 진출 10개월 만에 1만 사용자…라인웍스, 신주시 공식 협업툴로 appeared first on 벤처스퀘어.",
+          "title": "CCTV부터 출입통제까지 한 화면에…버카다, 현대차 사옥서 AI 물리보안 시연",
+          "link": "https://www.venturesquare.net/1111495/",
+          "pubDate": "2026-09-07T12:50:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/hy-696x522.jpg",
+          "summary": "버카다가 현대자동차의 임직원 대상 보안 캠페인에 초청돼 강남·양재 사옥에서 클라우드 기반 물리 보안 솔루션을 시연한다. 행사에서는 통합 관리 플랫폼 Verkada Command와 돔 카메라 CD63-E를 활용한 자연어 영상 검색, 통합 타임라인, 인원 점유율 분석 기능... The post CCTV부터 출입통제까지 한 화면에…버카다, 현대차 사옥서 AI 물리보안 시연 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "공공 SaaS",
-            "글로벌 진출",
-            "네이버웍스"
+            "AI보안",
+            "VerkadaCommand",
+            "물리보안"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:33:05.603Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-07T14:10:51.278Z",
+      "error": null
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -870,7 +870,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T12:14:04.135Z",
+      "fetchedAt": "2026-09-07T14:10:51.601Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -962,7 +962,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T12:14:04.189Z",
+      "fetchedAt": "2026-09-07T14:10:51.643Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -970,6 +970,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "제주 스타트업 투자에서 바이오·우주로…JDC, 베트남과 미래산업 협력 논의",
+          "link": "https://www.venturesquare.net/1111503/",
+          "pubDate": "2026-09-07T12:53:26.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/jdc-3-786x522.jpg",
+          "summary": "JDC가 쩐 타인 먼 베트남 국회의장을 비롯한 35명의 사절단을 만나 경제·투자 협력 방안을 논의했다. 양측은 탄롱그룹과의 협력으로 성사된 베트남 기업의 제주 스타트업 투자 사례를 공유하고 바이오·우주·신재생에너지 분야의 후속 협력 가능성을 살폈다. JDC는 베트남의 ... The post 제주 스타트업 투자에서 바이오·우주로…JDC, 베트남과 미래산업 협력 논의 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "JDC",
+            "바이오산업",
+            "베트남",
+            "신재생에너지",
+            "우주산업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "연구실 원천기술, 투자시장과 만난다…라플라스·ETRI 딥테크 6곳 피칭",
+          "link": "https://www.venturesquare.net/1111449/",
+          "pubDate": "2026-09-07T12:05:01.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260907_123345376-371x522.jpg",
+          "summary": "라플라스 파트너스와 ETRI가 오는 14일 서울 마루180에서 두 번째 딥테크 투자포럼을 개최한다. 탄소나노튜브, 비전 AI, 수소드론, 스포츠테크, NPU 반도체, AI 신약개발 분야 스타트업 6개사가 국내 투자기관 7곳을 대상으로 투자유치 발표를 진행한다. 양 기관... The post 연구실 원천기술, 투자시장과 만난다…라플라스·ETRI 딥테크 6곳 피칭 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI신약개발",
+            "ETRI",
+            "NPU",
+            "기술사업화",
+            "딥테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "제주 원물과 브랜드 스토리, 홍콩 바이어 움직였다…로컬기업 50억 원 수출의향서 확보",
           "link": "https://www.venturesquare.net/1111395/",
@@ -1023,45 +1059,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "스마트공장부터 GPU·공공데이터까지…중기부, APEC에 ‘중소기업 AI 전환’ 청사진",
-          "link": "https://www.venturesquare.net/1111134/",
-          "pubDate": "2026-09-06T12:23:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/0905-789x103.png",
-          "summary": "중소벤처기업부가 중국 광저우에서 열린 제32차 APEC 중소기업 장관회의에서 한국의 중소·벤처기업 AI 정책을 20개 회원 경제체에 소개했다. 정책은 제조업 AI 전환과 지역·소상공인 지원, AI 스타트업 육성, AI 확산 인프라 구축 등 네 가지 축으로 구성됐다. A... The post 스마트공장부터 GPU·공공데이터까지…중기부, APEC에 ‘중소기업 AI 전환’ 청사진 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "APEC",
-            "GPU",
-            "딥테크AI펀드",
-            "소상공인",
-            "스마트공장"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "6만3000명의 창업 아이디어, 1100개 사업으로 좁혀졌다…‘모두의 창업’ 2라운드가 보여준 것",
-          "link": "https://www.venturesquare.net/1111088/",
-          "pubDate": "2026-09-05T22:14:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260904-409x522.png",
-          "summary": "6만3000여명이 지원한 ‘모두의 창업 프로젝트’에서 5000명의 1라운드 보육·평가를 거쳐 1100명이 2라운드에 진출했다. 선정자의 80.9%가 지역에서 나왔고 15세부터 72세까지 다양한 연령층이 포함됐으며, 일반·기술 트랙 도전신청서의 43.2%에는 AI 관련 ... The post 6만3000명의 창업 아이디어, 1100개 사업으로 좁혀졌다…‘모두의 창업’ 2라운드가 보여준 것 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "AI창업",
-            "TIPS",
-            "로컬창업",
-            "모두의창업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T12:14:18.417Z",
+      "fetchedAt": "2026-09-07T14:10:53.880Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1104,23 +1104,6 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
-          "pubDate": "2026-09-07T06:08:00.000Z",
-          "image": null,
-          "summary": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 매일건설신문",
-          "keywords": [
-            "수자원공사",
-            "ESG",
-            "경쟁력",
-            "강화",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
           "pubDate": "2026-09-07T01:29:30.000Z",
@@ -1138,97 +1121,114 @@
           "summaryKo": null
         },
         {
-          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
-          "pubDate": "2026-09-07T07:47:58.000Z",
+          "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
+          "pubDate": "2026-09-07T06:08:00.000Z",
           "image": null,
-          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 cctoday.co.kr",
+          "summary": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 매일건설신문",
           "keywords": [
-            "한국수자원공사",
-            "중소기업",
+            "수자원공사",
             "ESG",
-            "지원사업",
-            "참여기업"
+            "경쟁력",
+            "강화",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 - 동행일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bTVaLW1XazRocWgxemlMNDNTNG85V3NWM3NhQ1RkYW1wWmRtLXcwT2tINmJnRm9FNUN4cTlIUXdXTFpRUnhYTXFHQzM1YTB4TnQtemRMcHM1U1l1aDBXUU5zVjNNOE5n?oc=5",
+          "pubDate": "2026-09-07T00:33:00.000Z",
+          "image": null,
+          "summary": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 동행일보",
+          "keywords": [
+            "중기부",
+            "스마트서비스",
+            "A/S지원",
+            "기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T12:14:18.786Z",
+      "fetchedAt": "2026-09-07T14:10:54.260Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "special post",
-      "label": "Special Post",
-      "count": 2,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "esg",
-      "label": "ESG",
-      "count": 5,
-      "rank": 2,
-      "change": "up"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 5,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "esg",
+      "label": "ESG",
+      "count": 4,
       "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "중소기업",
-      "label": "중소기업",
-      "count": 4,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
-      "rank": 9,
-      "change": "up"
+      "change": "down"
     },
     {
       "key": "수자원공사",
       "label": "수자원공사",
       "count": 3,
-      "rank": 10,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 3,
+      "rank": 8,
       "change": "new"
+    },
+    {
+      "key": "중소기업",
+      "label": "중소기업",
+      "count": 3,
+      "rank": 9,
+      "change": "down"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 10,
+      "change": "down"
     }
   ],
   "trendingGlobal": [
