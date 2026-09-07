@@ -15,7 +15,7 @@
   --radius: 16px;
   --radius-sm: 10px;
   --font-script: "Kaushan Script", cursive;
-  --font-display: "Black Han Sans", "Noto Sans KR", sans-serif;
+  --font-display: "Noto Sans KR", "Segoe UI", sans-serif;
   --font-body: "Noto Sans KR", "Segoe UI", -apple-system, sans-serif;
 }
 
@@ -286,7 +286,7 @@ a {
   margin: 0;
   font-size: 20px;
   font-family: var(--font-display);
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .content-header .meta {
@@ -469,18 +469,30 @@ a {
 }
 
 .news-card-photo {
+  position: relative;
   height: 120px;
   border-radius: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 38px;
+  overflow: hidden;
+}
+
+.news-card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.news-card-photo:has(img) .news-card-icon {
+  display: none;
 }
 
 .news-card-title {
   margin: 0;
   font-family: var(--font-display);
-  font-weight: 400;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.4;
   color: var(--text);

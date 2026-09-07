@@ -292,6 +292,7 @@
           title: item.title,
           link: item.link,
           pubDate: item.pubDate,
+          image: item.image || null,
           siteName: feed.name,
           category: feed.category,
           subcategory: feed.subcategory,
@@ -334,12 +335,16 @@
     const icon = CATEGORY_ICONS[article.category] || "📰";
     const dateStr = formatPubDate(article.pubDate);
 
+    const img = article.image
+      ? `<img src="${escapeHtml(article.image)}" alt="" loading="lazy" onerror="this.remove()" />`
+      : "";
+
     a.innerHTML = `
       <div class="news-card-meta">
         <span>${escapeHtml(dateStr || "")}</span>
         <span>${escapeHtml(article.siteName)}</span>
       </div>
-      <div class="news-card-photo" style="background:${tone}">${icon}</div>
+      <div class="news-card-photo" style="background:${tone}">${img}<span class="news-card-icon">${icon}</span></div>
       <h3 class="news-card-title">${escapeHtml(article.title)}</h3>
       <div class="news-card-footer">
         <span>${escapeHtml(article.subcategory || "")}</span>

@@ -14,7 +14,49 @@ const CACHE_PATH = path.join(__dirname, "..", "data", "articles-cache.json");
 const ARTICLES_PER_FEED = 5;
 const FETCH_TIMEOUT_MS = 15000;
 
-const parser = new Parser();
+const parser = new Parser({
+  customFields: {
+    item: [
+      ["media:content", "mediaContent", { keepArray: true }],
+      ["media:thumbnail", "mediaThumbnail"],
+    ],
+  },
+});
+
+// RSS 항목에서 대표 이미지를 최대한 찾아본다: enclosure -> media:thumbnail
+// -> media:content -> 본문 HTML 안의 첫 <img> 순으로 시도하고, 없으면 null.
+function extractImage(item) {
+  if (item.enclosure && item.enclosure.url) {
+    const type = item.enclosure.type || "";
+    if (!type || type.startsWith("image")) return item.enclosure.url;
+  }
+
+  const thumb = item.mediaThumbnail;
+  if (thumb) {
+    const url = (thumb.$ && thumb.$.url) || thumb.url;
+    if (url) return url;
+  }
+
+  const mediaList = item.mediaContent
+    ? Array.isArray(item.mediaContent)
+      ? item.mediaContent
+      : [item.mediaContent]
+    : [];
+  for (const media of mediaList) {
+    const attrs = media.$ || media || {};
+    const medium = attrs.medium || "";
+    const type = attrs.type || "";
+    if (attrs.url && (medium === "image" || type.startsWith("image") || (!medium && !type))) {
+      return attrs.url;
+    }
+  }
+
+  const html = item["content:encoded"] || item.content || item.summary || item.description || "";
+  const match = /<img[^>]+src=["']([^"']+)["']/i.exec(html);
+  if (match) return match[1];
+
+  return null;
+}
 
 function loadSites() {
   return JSON.parse(fs.readFileSync(SITES_PATH, "utf-8"));
@@ -67,6 +109,7 @@ async function fetchFeed(site) {
     title: (item.title || "(제목 없음)").trim(),
     link: item.link || site.url,
     pubDate: item.isoDate || item.pubDate || null,
+    image: extractImage(item),
   }));
 }
 
