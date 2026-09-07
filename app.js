@@ -293,6 +293,8 @@
           link: item.link,
           pubDate: item.pubDate,
           image: item.image || null,
+          summary: item.summary || "",
+          keywords: item.keywords || [],
           siteName: feed.name,
           category: feed.category,
           subcategory: feed.subcategory,
@@ -325,11 +327,17 @@
   }
 
   function renderNewsCard(article) {
-    const a = document.createElement("a");
-    a.className = "news-card";
-    a.href = article.link;
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
+    const card = document.createElement("div");
+    card.className = "news-card";
+    card.tabIndex = 0;
+    card.setAttribute("role", "button");
+    card.addEventListener("click", () => openArticleModal(article));
+    card.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        openArticleModal(article);
+      }
+    });
 
     const tone = CATEGORY_TONES[article.category] || "#eee";
     const icon = CATEGORY_ICONS[article.category] || "📰";
@@ -339,7 +347,7 @@
       ? `<img src="${escapeHtml(article.image)}" alt="" loading="lazy" onerror="this.remove()" />`
       : "";
 
-    a.innerHTML = `
+    card.innerHTML = `
       <div class="news-card-meta">
         <span>${escapeHtml(dateStr || "")}</span>
         <span>${escapeHtml(article.siteName)}</span>
@@ -348,10 +356,49 @@
       <h3 class="news-card-title">${escapeHtml(article.title)}</h3>
       <div class="news-card-footer">
         <span>${escapeHtml(article.subcategory || "")}</span>
-        <span class="news-card-link">원문 보기 →</span>
+        <span class="news-card-link">자세히 보기 →</span>
       </div>
     `;
-    return a;
+    return card;
+  }
+
+  function openArticleModal(article) {
+    document.getElementById("modal-date").textContent = formatPubDate(article.pubDate) || "";
+    document.getElementById("modal-source").textContent = article.siteName;
+
+    document.getElementById("modal-keywords").innerHTML = (article.keywords || [])
+      .map((k) => `<span class="keyword-chip">#${escapeHtml(k)}</span>`)
+      .join("");
+
+    const imgWrap = document.getElementById("modal-image-wrap");
+    imgWrap.innerHTML = article.image
+      ? `<img src="${escapeHtml(article.image)}" alt="" onerror="this.parentElement.innerHTML=''" />`
+      : "";
+
+    document.getElementById("modal-title").textContent = article.title;
+    document.getElementById("modal-summary").textContent =
+      article.summary && article.summary.trim()
+        ? article.summary
+        : "이 기사는 요약 정보를 제공하지 않습니다. 아래 원문 링크에서 전체 내용을 확인해주세요.";
+
+    document.getElementById("modal-link").href = article.link;
+
+    document.getElementById("article-modal").hidden = false;
+  }
+
+  function closeArticleModal() {
+    document.getElementById("article-modal").hidden = true;
+  }
+
+  function setupModal() {
+    const overlay = document.getElementById("article-modal");
+    document.getElementById("modal-close").addEventListener("click", closeArticleModal);
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) closeArticleModal();
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !overlay.hidden) closeArticleModal();
+    });
   }
 
   function formatPubDate(iso) {
@@ -563,6 +610,7 @@
   async function init() {
     setupAddForm();
     setupToolbar();
+    setupModal();
 
     if (location.protocol === "file:") {
       document.getElementById("content-body").innerHTML =

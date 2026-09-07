@@ -58,6 +58,39 @@ function extractImage(item) {
   return null;
 }
 
+function stripHtml(html) {
+  return String(html).replace(/<[^>]+>/g, " ");
+}
+
+// 기사 요약: RSS가 제공하는 본문 스니펫을 최대한 활용한다 (자체 AI 요약이
+// 아니라 RSS 원문의 설명/요약 필드를 정리해서 보여주는 것).
+function extractSummary(item) {
+  const raw =
+    item.contentSnippet ||
+    stripHtml(item["content:encoded"] || item.content || item.summary || item.description || "");
+  return raw.replace(/\s+/g, " ").trim().slice(0, 500);
+}
+
+const KEYWORD_STOPWORDS = new Set([
+  "그리고", "에서", "으로", "하는", "있다", "한다", "것으로", "대한", "위해",
+  "통해", "이번", "오늘", "기자", "이후", "관련", "에게", "까지", "부터",
+]);
+
+// 기사별 키워드: RSS의 <category> 태그가 있으면 그대로 쓰고, 없으면
+// 제목에서 의미 있어 보이는 단어를 뽑아 대신 사용한다.
+function extractKeywords(item) {
+  if (Array.isArray(item.categories) && item.categories.length) {
+    return [...new Set(item.categories.map((c) => String(c).trim()).filter(Boolean))].slice(0, 6);
+  }
+  const title = item.title || "";
+  const words = title
+    .replace(/[\[\]"'“”‘’…!?,.·\-]/g, " ")
+    .split(/\s+/)
+    .map((w) => w.trim())
+    .filter((w) => w.length >= 2 && !KEYWORD_STOPWORDS.has(w));
+  return [...new Set(words)].slice(0, 5);
+}
+
 function loadSites() {
   return JSON.parse(fs.readFileSync(SITES_PATH, "utf-8"));
 }
@@ -110,6 +143,8 @@ async function fetchFeed(site) {
     link: item.link || site.url,
     pubDate: item.isoDate || item.pubDate || null,
     image: extractImage(item),
+    summary: extractSummary(item),
+    keywords: extractKeywords(item),
   }));
 }
 

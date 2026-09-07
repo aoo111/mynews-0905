@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T09:27:48.921Z",
+  "collectedAt": "2026-09-07T09:35:06.436Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -44,34 +44,54 @@
           "title": "'대미투자 1호' 텍사스 복합화력발전소 확정",
           "link": "https://www.mk.co.kr/news/economy/12146468",
           "pubDate": "2026-09-07T09:04:44.000Z",
-          "image": null
+          "image": null,
+          "summary": "대미투자펀드 1호 프로젝트로 한미 양국이 미국 텍사스주 엔시날 가스복합화력발전 사업을 낙점했다. 전체 투자 규모는 223억달러(약 29조9200억원)로 결정된 것으로 전해졌다. 7..",
+          "keywords": [
+            "경제"
+          ]
         },
         {
           "title": "원화값 두 달새 200원 치솟자 … 국민연금 환헤지 중단",
           "link": "https://www.mk.co.kr/news/economy/12146455",
           "pubDate": "2026-09-07T09:01:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110102000004_L00.jpg"
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110102000004_L00.jpg",
+          "summary": "달러당 원화값이 23개월 만에 1330원대까지 오르며 가파른 상승세를 이어가고 있다. 한때는 지나친 원화 약세를 우려했지만 불과 두 달 만에 상황이 뒤집힌 것이다. 일각에서는 단기..",
+          "keywords": [
+            "경제"
+          ]
         },
         {
           "title": "AI 데이터센터 신청 60%, 수도권에 몰렸다",
           "link": "https://www.mk.co.kr/news/economy/12146407",
           "pubDate": "2026-09-07T08:55:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110110000006_L00.jpg"
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110110000006_L00.jpg",
+          "summary": "인공지능(AI) 데이터센터 신청 건수 가운데 60%는 수도권에 쏠린 것으로 나타났다. 이에 송전망 여유가 있는 비수도권에 데이터센터를 지을 수 있도록 직접전력거래(PPA) 허용 범..",
+          "keywords": [
+            "경제"
+          ]
         },
         {
           "title": "[포토] 물가 점검하는 부총리 후보자",
           "link": "https://www.mk.co.kr/news/economy/12146405",
           "pubDate": "2026-09-07T08:55:51.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110110000004_L00.jpg"
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01110110000004_L00.jpg",
+          "summary": "",
+          "keywords": [
+            "경제"
+          ]
         },
         {
           "title": "6.3GW 가스복합발전 건설… 생산 전력은 데이터센터로",
           "link": "https://www.mk.co.kr/news/economy/12146406",
           "pubDate": "2026-09-07T08:55:51.000Z",
-          "image": null
+          "image": null,
+          "summary": "대미투자 1호로 유력한 '엔시날 프로젝트'는 미국 텍사스주 엔시날에 총 6.3GW 규모의 가스복합화력발전소를 조성하는 사업이다. 통상적 가스복합발전 사업보다 상당히 큰 프로젝트로 ..",
+          "keywords": [
+            "경제"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:35.567Z",
+      "fetchedAt": "2026-09-07T09:34:56.947Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -83,34 +103,54 @@
           "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
           "pubDate": "2026-09-04T15:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+          "keywords": [
+            "Enforcement Actions"
+          ]
         },
         {
           "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
           "pubDate": "2026-08-27T15:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "keywords": [
+            "Enforcement Actions"
+          ]
         },
         {
           "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
           "pubDate": "2026-08-25T18:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+          "keywords": [
+            "Monetary Policy"
+          ]
         },
         {
           "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
           "pubDate": "2026-08-20T20:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "keywords": [
+            "Orders on Banking Applications"
+          ]
         },
         {
           "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
           "pubDate": "2026-08-20T15:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "keywords": [
+            "Enforcement Actions"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:35.681Z",
+      "fetchedAt": "2026-09-07T09:34:57.115Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -122,34 +162,74 @@
           "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
           "pubDate": "2026-09-07T09:13:18.000Z",
-          "image": null
+          "image": null,
+          "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+          "keywords": [
+            "9월7일",
+            "순천",
+            "AI",
+            "영상",
+            "뉴스"
+          ]
         },
         {
           "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
           "pubDate": "2026-09-07T09:12:43.000Z",
-          "image": null
+          "image": null,
+          "summary": "앤트로픽이 AI 서비스 수요 폭증에 대응하기 위해 최근 1년간 최대 5170억달러(약 695조원) 규모의 클라우드 컴퓨팅과 데이터센터 계약을 확보한 것으로 나타났다. 5일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 지난해 10월 이후 앞으로 수년간 사용할 수 있는 최소 14.8기가와트(GW) 규모의 컴퓨팅 용량 확보 계약을 체결했다. 이는 기존에 확보했던 1~2GW를 훌쩍 웃도는 수준이다. 공격적인 인프라 확보는 올해 예상보다 빠르게 증가한 ‘클로드 코드’와 ‘코워크’ 수요에 따른 것이다. AI 코딩과 업무 자동화 서비스 이용자",
+          "keywords": [
+            "앤트로픽",
+            "클로드",
+            "수요",
+            "폭증에",
+            "11개월간"
+          ]
         },
         {
           "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
           "pubDate": "2026-09-07T09:05:18.000Z",
-          "image": null
+          "image": null,
+          "summary": "AI가 사용자의 요구에 맞춰 글을 작성하는 것을 넘어, 사용자가 평소 쓰는 말투와 표현 방식까지 학습해 '나만의 문체'로 글을 만들어주는 방향으로 진화하고 있다. AI가 작성한 티가 나는 문제를 줄여줄 것으로 보인다.5일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 사용자의 고유한 글쓰기 습관을 학습해 개인의 어조와 문체를 그대로 반영한 글을 작성하는 새로운 '글쓰기 스타일(Writing Style)' 기능을 챗GPT에서 테스트하고 있는 것으로 알려졌다.이메일이나 문서, 메시지 등 사용자가 실제로 작성한 텍스트를 참고해 챗GPT가",
+          "keywords": [
+            "챗GPT",
+            "개인",
+            "문체",
+            "학습",
+            "기능"
+          ]
         },
         {
           "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
           "pubDate": "2026-09-07T08:59:13.000Z",
-          "image": null
+          "image": null,
+          "summary": "미국 캘리포니아주에서 등산객 3명이 구글의 '제미나이' 등을 이용해 산행 계획을 세웠다가 정상에 오르는 데 예상보다 훨씬 긴 시간이 걸리고 하산 중 길을 잃으면서 고립되는 사고가 발생했다. 이들은 충분한 식량과 물, 장비를 준비하지 않은 채 산행을 강행했고, 결국 이튿날 산림청 레인저와 자원봉사 구조대에 의해 구조됐다.5일(현지시간) 비즈니스인사이더에 따르면, 사고는 캘리포니아주 북부 캐스케이드산맥에 위치한 해발 1만4179피트(약 4322m)의 샤스타산에서 발생했다.20세 남성 3명으로 구성된 일행은 샤스타산의 클리어 크릭 루트",
+          "keywords": [
+            "제미나이",
+            "믿고",
+            "산에",
+            "올랐다가",
+            "고립"
+          ]
         },
         {
           "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
           "pubDate": "2026-09-07T08:51:30.000Z",
-          "image": null
+          "image": null,
+          "summary": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존 영상 생성 모델이 프롬프트를 입력하면 일정 길이의 완성된 영상을 만들어내는 방식이었다면, GWM 월드 2는 사용자가 키보드와 마우스, 텍스트 등으로 세계에 개입하는 동안 초당 24프레",
+          "keywords": [
+            "끝없이",
+            "펼쳐지는",
+            "가상세계",
+            "런웨이",
+            "실시간"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:35.805Z",
+      "fetchedAt": "2026-09-07T09:34:57.485Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -161,34 +241,54 @@
           "title": "Supporting independent journalism in Ukraine",
           "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
           "pubDate": "2026-09-07T00:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+          "keywords": [
+            "Global Affairs"
+          ]
         },
         {
           "title": "An Alien Mind",
           "link": "https://openai.com/index/an-alien-mind",
           "pubDate": "2026-09-06T09:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "keywords": [
+            "Safety"
+          ]
         },
         {
           "title": "Research acceleration: The view inside OpenAI",
           "link": "https://openai.com/index/research-acceleration-view-inside-openai",
           "pubDate": "2026-09-06T08:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "keywords": [
+            "Research"
+          ]
         },
         {
           "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
           "link": "https://openai.com/index/daybreak-for-frontline-defenders",
           "pubDate": "2026-09-03T13:15:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "keywords": [
+            "Security"
+          ]
         },
         {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "pubDate": "2026-09-03T12:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "keywords": [
+            "Startup"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:35.975Z",
+      "fetchedAt": "2026-09-07T09:34:57.678Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -200,34 +300,74 @@
           "title": "Show GN: PolyView - 폴리마켓 공개 데이터를 한국어로 보는 한국 폴리마켓 뷰어",
           "link": "https://news.hada.io/topic?id=33317",
           "pubDate": "2026-09-07T08:47:49.000Z",
-          "image": null
+          "image": null,
+          "summary": "폴리마켓의 국내 접속이 차단됐습니다. 그렇다면 그 안의 공개 데이터를 읽고 분석하려던 사람들은 어떻게 해야 할까요? 안녕하세요. 폴리마켓의 공개 시장 데이터를 한국어로 볼 수 있는 PolyView를 제작하였습니다. 예측시장 데이터는 여러 사건에 대한 참여자들",
+          "keywords": [
+            "Show",
+            "GN:",
+            "PolyView",
+            "폴리마켓",
+            "공개"
+          ]
         },
         {
           "title": "우리 서버가 계속 운영될 수 있도록 도와주세요",
           "link": "https://news.hada.io/topic?id=33316",
           "pubDate": "2026-09-07T08:32:08.000Z",
-          "image": null
+          "image": null,
+          "summary": "Internet Archive는 210페타바이트의 지식을 보존하고 누구나 접근할 수 있도록 자체 인프라를 유지하기 위해 정기 후원을 요청함 이용자 데이터 판매나 광고 없이 누구에게나 무료로 개방하며, 핵심 기술을 외부 기업에 맡기지 않고 자체 시스템...",
+          "keywords": [
+            "우리",
+            "서버가",
+            "계속",
+            "운영될",
+            "있도록"
+          ]
         },
         {
           "title": "Show GN: yukari-rubi : 일본어 사이트 한자 히라가나 브라우저 확장기능",
           "link": "https://news.hada.io/topic?id=33315",
           "pubDate": "2026-09-07T07:35:46.000Z",
-          "image": null
+          "image": null,
+          "summary": "이번에 Chrome 또한 지원하게 되어 글을 올립니다. 일본어 사이트 한자에, 히라가나로 읽기를 달아주는 브라우저 확장기능입니다. 좋",
+          "keywords": [
+            "Show",
+            "GN:",
+            "yukari",
+            "rubi",
+            "일본어"
+          ]
         },
         {
           "title": "Show GN: VIBE-GAME ( AI 에게 일 시키고 기다리면서 하기에 좋은 게임 )",
           "link": "https://news.hada.io/topic?id=33311",
           "pubDate": "2026-09-07T02:26:56.000Z",
-          "image": null
+          "image": null,
+          "summary": "요즘 AI 로 개발을 진행하다 보니 작업 시켜두고 기다리기에 지루한 시간들이 자주 생기더라구요. 앱을 다운로드 해서 하자니 뭔가 번거롭기도 하고 광고에 시달리기도 귀찮고 구형 폰이라서 최신 게임도 잘 안 돌아가고 해서 심심풀이로 Codex Sol Max 로 그냥 개발해보라고 했는데 퀄리티가 나름 괜찮아서 틈...",
+          "keywords": [
+            "Show",
+            "GN:",
+            "VIBE",
+            "GAME",
+            "AI"
+          ]
         },
         {
           "title": "Alien Mind: 인간과는 다른, 낯선 지성",
           "link": "https://news.hada.io/topic?id=33309",
           "pubDate": "2026-09-07T01:37:17.000Z",
-          "image": null
+          "image": null,
+          "summary": "OpenAI는 추론 모델의 발전이 재귀적 자기개선(RSI) 으로 이어질 수 있다고 예상하며, 정렬과 감시 역량이 지능 향상을 따라가지 못하는 만큼 개발 속도를 안전성에 맞춰 제한해야 한다고 강조함 AI는 사람이 설계한 규칙보다 대규모 최적화로 성장하는 시스템에 가...",
+          "keywords": [
+            "Alien",
+            "Mind:",
+            "인간과는",
+            "다른",
+            "낯선"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:36.115Z",
+      "fetchedAt": "2026-09-07T09:34:57.855Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -239,34 +379,71 @@
           "title": "YouTube’s new public viewcounts over-report actual engagement by 40%",
           "link": "https://www.tubefilter.com/2026/09/04/youtubes-new-public-viewcounts-over-report-actual-engagement-by-40/",
           "pubDate": "2026-09-04T23:43:35.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/zulfugar-karimov-N3MRg3Ow8qw-unsplash-scaled.jpg"
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/zulfugar-karimov-N3MRg3Ow8qw-unsplash-scaled.jpg",
+          "summary": "YouTube‘s new public viewcounts over-report engagement by 40%, according to new data from Agentio. As you probably know, YouTube last month introduced a significant change to how it counts views on long-form content. Instead of requiring people to watch for a certain length of time before considering them ‘a viewer’ (the amount has never been […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ]
         },
         {
           "title": "Have you heard? Another YouTuber on Netflix, Dude Perfect’s CEO shuffle, and a cow gamer.",
           "link": "https://www.tubefilter.com/2026/09/04/have-you-heard-drew-binsky-netflix-dude-perfect-andrew-yaffe-eve-online-cow/",
           "pubDate": "2026-09-04T23:01:17.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/drew-binsky.jpg"
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/drew-binsky.jpg",
+          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, Netflix's spending spree on creator content keeps on coming, creators are in conflict with executives, and a bovine is a l33t gamer. Creator commotion Drew Binsky is the latest YouTube star bringing videos to Netflix. Binsky, who has visited every country in the world, is one of YouTube's premier travel vloggers. Starting on September 19, ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "alex cooper",
+            "chipotle"
+          ]
         },
         {
           "title": "Bottoms up! Google is bringing personalization to alcohol ads on YouTube.",
           "link": "https://www.tubefilter.com/2026/09/04/google-ads-youtube-alcohol-content-personalization/",
           "pubDate": "2026-09-04T21:57:11.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-movement-logo.jpg"
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-movement-logo.jpg",
+          "summary": "On YouTube, ads for alcoholic beverages are few and far between -- but that's about to change. Starting on October 30, Google will implement a new policy that will enable some amount of personalization on ads for alcohol brands. Alcohol ads are currently permitted on YouTube, but significant restrictions hinder their reach. Personalized targeting is disabled for those spots (for now), users can opt out of being served alcohol ads, and there are no boozy banners permitted on the YouTube homepage.",
+          "keywords": [
+            "advertising",
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube"
+          ]
         },
         {
           "title": "TikTok has new ways to comment (that make it feel more like Instagram)",
           "link": "https://www.tubefilter.com/2026/09/04/tiktok-polls-photo-carousel-live-comments/",
           "pubDate": "2026-09-04T20:27:49.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/tiktok-comments.jpg"
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/tiktok-comments.jpg",
+          "summary": "TikTok is trying to turn its comments into an interactive format. The app has unveiled several new ways to talk back to creators, including audio responses, photo carousels, and polls. A Newsroom post runs through the updates to TikTok's comments section. Voice Comments, rolling out next month to users over 18, can be up to 60 seconds long and can be played by anyone. Comment Polls, which are currently available, can have up to five options and run for a set timeframe. And with Photo Carousels a",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "TikTok",
+            "carousels"
+          ]
         },
         {
           "title": "GTA RP Week returns to Twitch, with Rockstar promoting “the next evolution of the GTA 5 roleplay community”",
           "link": "https://www.tubefilter.com/2026/09/03/grand-theft-auto-rp-week-twitch/",
           "pubDate": "2026-09-03T22:32:32.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-80913239.jpg"
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-80913239.jpg",
+          "summary": "Rockstar doesn’t put out games very often. Grand Theft Auto VI is about to debut a full thirteen years after GTA V arrived on scene. Red Dead Redemption 2, meanwhile, followed its predecessor eight years later–a slimmer window, but still a pretty big time gap for fans to fill. (And let’s not get started on […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature",
+            "grand theft auto",
+            "twitch"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:36.330Z",
+      "fetchedAt": "2026-09-07T09:34:58.079Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -278,34 +455,54 @@
           "title": "Updates to how publishers monetize with AdSense",
           "link": "https://blog.google/products/adsense/evolving-how-publishers-monetize-with-adsense/",
           "pubDate": "2023-11-02T15:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "AdSense is updating its revenue share-structure and moving to per-impression payments for publishers.",
+          "keywords": [
+            "AdSense"
+          ]
         },
         {
           "title": "New Consent Management Platform requirements for serving ads in the EEA and UK",
           "link": "https://blog.google/products/adsense/new-consent-management-platform-requirements-for-serving-ads-in-the-eea-and-uk/",
           "pubDate": "2023-05-16T13:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Google is introducing a new requirement for CMPs working with our publisher and developer partners that serve ads in EEA and the UK.",
+          "keywords": [
+            "AdSense"
+          ]
         },
         {
           "title": "Your AdSense 2022 holiday checklist",
           "link": "https://blog.google/products/adsense/your-adsense-2022-holiday-checklist/",
           "pubDate": "2022-10-24T15:00:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_1200x500px.max-600x600.format-webp.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_1200x500px.max-600x600.format-webp.webp",
+          "summary": "The 2022 AdSense holiday season checklist is here to help you get your site and content ready for the busiest time of year.",
+          "keywords": [
+            "AdSense"
+          ]
         },
         {
           "title": "Kickstart your monetization with the AdSense onboarding video series",
           "link": "https://blog.google/products/adsense/kickstart-your-monetization-with-the-adsense-onboarding-video-series/",
           "pubDate": "2022-06-29T15:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "A new five-part video series on YouTube to onboard publishers to AdSense. The series covers ad units, sites, performance and revenue.",
+          "keywords": [
+            "AdSense"
+          ]
         },
         {
           "title": "Introducing Related search for content pages",
           "link": "https://blog.google/products/adsense/introducing-related-search-content-pages/",
           "pubDate": "2022-03-16T17:30:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_1_JbrZrZb.max-600x600.format-webp.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_1_JbrZrZb.max-600x600.format-webp.webp",
+          "summary": "Related search for content is a new navigation unit that shows your site visitors search terms related to the page they are viewing.",
+          "keywords": [
+            "AdSense"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:37.146Z",
+      "fetchedAt": "2026-09-07T09:34:58.572Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -317,34 +514,61 @@
           "title": "Google's AI advisors: agentic tools to drive impact and insights",
           "link": "https://blog.google/products/ads-commerce/ads-advisor-and-analytics-advisor/",
           "pubDate": "2025-11-12T17:00:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_share__Advisor_Zr9LxYM.max-600x600.format-webp.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_share__Advisor_Zr9LxYM.max-600x600.format-webp.webp",
+          "summary": "An overview of Ads Advisor and Analytics Advisor, two tools coming to English-language accounts this December.",
+          "keywords": [
+            "Google Ads",
+            "Analytics",
+            "Ads (DEPRECATED)"
+          ]
         },
         {
           "title": "Personalized advertising fuels growth and drives competitiveness for European businesses",
           "link": "https://blog.google/innovation-and-ai/technology/ads/personalized-advertising-for-european-businesses/",
           "pubDate": "2025-03-20T06:00:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_new.max-600x600.format-webp.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_new.max-600x600.format-webp.webp",
+          "summary": "A new report highlights the critical role personalized digital advertising plays in driving economic growth & competitiveness.",
+          "keywords": [
+            "Ads (DEPRECATED)",
+            "Google in Europe"
+          ]
         },
         {
           "title": "AI, personalization and the future of shopping",
           "link": "https://blog.google/products/ads-commerce/ai-personalization-and-the-future-of-shopping/",
           "pubDate": "2025-03-03T14:00:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vidhya_Edited_26-post_copy.max-600x600.format-webp.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vidhya_Edited_26-post_copy.max-600x600.format-webp.webp",
+          "summary": "How AI is transforming ads and shopping experiences to help people discover and connect with businesses.",
+          "keywords": [
+            "Google Ads",
+            "Ads (DEPRECATED)"
+          ]
         },
         {
           "title": "Boosting your reach and performance with Google Display Ads",
           "link": "https://blog.google/products/ads-commerce/boosting-your-reach-and-performance-with-google-display-ads/",
           "pubDate": "2025-02-28T17:00:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GDA_-_Header_Banner_-_2096x1182.max-600x600.format-webp_7Nl8KPE.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GDA_-_Header_Banner_-_2096x1182.max-600x600.format-webp_7Nl8KPE.webp",
+          "summary": "See what's new for Google Display Ads to boost performance, generate quality creative, and enhance brand safety and standards.",
+          "keywords": [
+            "Google Ads",
+            "Ads (DEPRECATED)"
+          ]
         },
         {
           "title": "New ways to help you drive performance with Demand Gen",
           "link": "https://blog.google/products/ads-commerce/new-demand-gen-features-2025/",
           "pubDate": "2025-01-30T15:00:00.000Z",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_-_Static_banner-27_J.max-600x600.format-webp.webp"
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_-_Static_banner-27_J.max-600x600.format-webp.webp",
+          "summary": "New features are coming to Demand Gen to help you create and convert demand across YouTube and Google's visual surfaces.",
+          "keywords": [
+            "AI Products",
+            "Google Ads",
+            "Ads (DEPRECATED)"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:37.446Z",
+      "fetchedAt": "2026-09-07T09:34:58.877Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -353,37 +577,82 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
+          "title": "AI 진단·1대1 온보딩·제품 대여 연결…다이슨, 글로벌 고객 지원 체계 개편",
+          "link": "https://www.venturesquare.net/1111338/",
+          "pubDate": "2026-09-07T09:25:05.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/DYSON-2-418x522.jpg",
+          "summary": "다이슨이 한국에서 축적한 고객 지원 경험을 바탕으로 글로벌 정책 ‘네버 위드아웃 유어 다이슨’을 공개했다. AI 챗봇과 MyDyson 앱, 전문가 1대1 온보딩, 지능형 진단, 오프라인 수리를 연결해 제품 구매부터 유지관리까지 지원한다. 수리 기간에는 제품 무상 대여 ... The post AI 진단·1대1 온보딩·제품 대여 연결…다이슨, 글로벌 고객 지원 체계 개편 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI 챗봇",
+            "MyDyson",
+            "고객 지원"
+          ]
+        },
+        {
           "title": "[VS기획] 클로드·GPT·제미나이 신모델 잇따라…AI, 나올 때마다 갈아타야 할까",
           "link": "https://www.venturesquare.net/1111173/",
           "pubDate": "2026-09-07T09:13:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/F5.jpg"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/F5.jpg",
+          "summary": "클로드와 GPT, 제미나이의 신모델 경쟁이 이어지고 있지만 높은 벤치마크 점수가 곧바로 업무 생산성 향상을 의미하지는 않는다. 토큰 단가뿐 아니라 실제 사용량과 재시도, 수정, 사람의 검수시간까지 포함한 ‘작업당 총비용’을 따져야 AI 모델의 실질적인 가치를 판단할 수... The post [VS기획] 클로드·GPT·제미나이 신모델 잇따라…AI, 나올 때마다 갈아타야 할까 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI모델",
+            "AI생산성",
+            "AI에이전트"
+          ]
         },
         {
           "title": "대만 진출 10개월 만에 1만 사용자…라인웍스, 신주시 공식 협업툴로",
           "link": "https://www.venturesquare.net/1111297/",
           "pubDate": "2026-09-07T03:05:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NAVER-3-789x307.jpg"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NAVER-3-789x307.jpg",
+          "summary": "네이버클라우드의 협업 플랫폼 라인웍스가 대만 신주시의 공식 협업툴로 도입됐다. 대만 진출 약 10개월 만에 150개 이상의 기업·기관과 사용자 1만 명을 확보한 가운데 처음으로 대만 행정기관과 대규모 협력 사례를 구축했다. 양측은 AI 기반 행정 애플리케이션 연구와 시... The post 대만 진출 10개월 만에 1만 사용자…라인웍스, 신주시 공식 협업툴로 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "공공 SaaS",
+            "글로벌 진출",
+            "네이버웍스"
+          ]
         },
         {
           "title": "AI가 조향하고 병변 탐지 보조…메디인테크, 로봇내시경 상용화 채비",
           "link": "https://www.venturesquare.net/1111271/",
           "pubDate": "2026-09-07T03:00:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KSGE-Days-2026-696x522.jpg"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KSGE-Days-2026-696x522.jpg",
+          "summary": "메디인테크가 KSGE Days 2026에서 AI 로봇내시경 ‘INTION S’와 이상부위 탐지 소프트웨어 ‘INTION DEEPEYE’를 선보였다. 의료진은 내시경 시뮬레이터를 이용해 전동화된 조작 방식과 AI 자율조향 기능을 직접 체험했다. 메디인테크는 DK헬스케어와... The post AI가 조향하고 병변 탐지 보조…메디인테크, 로봇내시경 상용화 채비 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI 자율조향",
+            "CADe",
+            "CADx"
+          ]
         },
         {
           "title": "취재 데이터는 전용 인프라에, 기사 초안은 AI로…가비아, 블로터·넘버스 뉴스룸 전환",
           "link": "https://www.venturesquare.net/1111262/",
           "pubDate": "2026-09-07T02:07:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/GABIA-748x522.png"
-        },
-        {
-          "title": "추론과 동작을 동시에…엑스와이지 ‘브레인엑스’, 의류 접기 시간 절반 단축",
-          "link": "https://www.venturesquare.net/1111253/",
-          "pubDate": "2026-09-07T02:03:10.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260907-2-789x511.png"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/GABIA-748x522.png",
+          "summary": "가비아가 경제매체 블로터와 자본시장 전문매체 넘버스를 위한 전용 생성형 AI 인프라와 ‘AI 뉴스룸’을 구축했다. 아마존 베드록을 기반으로 Claude와 Amazon Nova 등을 선택해 사용할 수 있으며 기사 초안 작성, 교정·교열·윤문, 썸네일 생성 기능을 제공한다... The post 취재 데이터는 전용 인프라에, 기사 초안은 AI로…가비아, 블로터·넘버스 뉴스룸 전환 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI 뉴스룸",
+            "Amazon Nova",
+            "AWS"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:45.704Z",
+      "fetchedAt": "2026-09-07T09:35:01.678Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -395,34 +664,66 @@
           "title": "애니모프, AI 검색 화면에 뜬 답변과 출처 모아주는 API 내놨다",
           "link": "https://platum.kr/archives/294070?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a0%25eb%258b%2588%25eb%25aa%25a8%25ed%2594%2584-ai-%25ea%25b2%2580%25ec%2583%2589-%25ed%2599%2594%25eb%25a9%25b4%25ec%2597%2590-%25eb%259c%25ac-%25eb%258b%25b5%25eb%25b3%2580%25ea%25b3%25bc-%25ec%25b6%259c%25ec%25b2%2598-%25eb%25aa%25a8%25ec%2595%2584%25ec%25a3%25bc%25eb%258a%2594-api-%25eb%2582%25b4",
           "pubDate": "2026-09-07T00:13:57.000Z",
-          "image": null
+          "image": null,
+          "summary": "애니모프가 AI 검색 결과를 수집해 제공하는 API ‘쿼링에이아이(querying.ai)’를 공개했다고 7일 밝혔다. 챗GPT나 구글 AI 오버뷰 같은 서비스에서 이용자가 실제로 보는 화면의 답변과 인용 출처를 그대로 가져오는 방식이다. AI가 답변을 만들 때 자사 브랜드가 어떻게 언급되는지 확인하려는 기업이 늘면서 나온 서비스다. 검색 결과 상위에 오르는 것을 목표로 하던 검색엔진 최적화가 AI 답변에 인용되는 것을 겨냥하는 방향으로 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "애니모프",
+            "쿼링에이아이"
+          ]
         },
         {
           "title": "세계은행이 서울에 부른 19개국 교육 관계자, 한국 에듀테크가 만났다",
           "link": "https://platum.kr/archives/294064?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8%25ea%25b3%2584%25ec%259d%2580%25ed%2596%2589%25ec%259d%25b4-%25ec%2584%259c%25ec%259a%25b8%25ec%2597%2590-%25eb%25b6%2580%25eb%25a5%25b8-19%25ea%25b0%259c%25ea%25b5%25ad-%25ea%25b5%2590%25ec%259c%25a1-%25ea%25b4%2580%25ea%25b3%2584%25ec%259e%2590-%25ed%2595%259c%25ea%25b5%25ad-%25ec%2597%2590",
           "pubDate": "2026-09-07T00:04:57.000Z",
-          "image": null
+          "image": null,
+          "summary": "세계은행이 개발도상국 교육 정책 담당자를 서울로 불러 연 에듀테크 행사에 국내 기업들이 참가했다. 에누마 코리아와 프리윌린 등 스타트업도 각각 자사 서비스를 선보였다. 행사는 지난달 31일부터 이달 4일까지 서울 여의도 글래드호텔에서 열렸다. 세계은행 교육·역량개발 글로벌 프랙티스가 영국 외무영연방개발부 등과 함께 연 ‘Global EdTech Policy Academy on AI’ 연수의 일환이다. 에티오피아와 캄보디아, 케냐, 키르기스스탄 등 19개국 교육 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "에누마",
+            "프리윌린"
+          ]
         },
         {
           "title": "독일 재계 800명 서울 온다, 10월 APK 2026 개최",
           "link": "https://platum.kr/archives/294061?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258f%2585%25ec%259d%25bc-%25ec%259e%25ac%25ea%25b3%2584-800%25eb%25aa%2585-%25ec%2584%259c%25ec%259a%25b8-%25ec%2598%25a8%25eb%258b%25a4-10%25ec%259b%2594-apk-2026-%25ea%25b0%259c%25ec%25b5%259c",
           "pubDate": "2026-09-06T23:54:58.000Z",
-          "image": null
+          "image": null,
+          "summary": "독일과 아시아·태평양 지역의 기업과 정부 인사가 모이는 ‘제19회 아시아·태평양 독일 비즈니스 콘퍼런스(APK 2026)’가 10월 29일부터 사흘간 서울 그랜드 인터컨티넨탈 서울 파르나스에서 열린다. 참석 규모는 약 800명이다. 프리드리히 메르츠 독일 총리가 기조연설을 맡을 예정이며, 카타리나 라이헤 독일 연방경제에너지부 장관과 롤랜드 부시 지멘스 회장 겸 최고경영자가 공동의장을 맡는다. 부시 회장은 독일경제 아시아태평양위원회(APA) 위원장을 겸하고 있다. 행사는 독일 연방경제에너지부와 APA, 독일상공회의소(AHK)가 주최하고 주한독일상공회의소가 서울 현지 공동 주최기관으로 참여한다. 연사로는 최수연 네이버 대표와 함께 요헨 하네베크 인피니언 최고경영자, 크리스티안 제빙 도이치은행 최고경영자, 마르쿠스 카미에트 바스프 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "APK",
+            "아시아·태평양 독일 비즈니스 콘퍼런스",
+            "주한독일상공회의소"
+          ]
         },
         {
           "title": "포티투닷, 현대차 인포테인먼트에 멜론·카카오내비 들어온다",
           "link": "https://platum.kr/archives/294060?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258f%25ac%25ed%258b%25b0%25ed%2588%25ac%25eb%258b%25b7-%25ed%2598%2584%25eb%258c%2580%25ec%25b0%25a8-%25ec%259d%25b8%25ed%258f%25ac%25ed%2585%258c%25ec%259d%25b8%25eb%25a8%25bc%25ed%258a%25b8%25ec%2597%2590-%25eb%25a9%259c%25eb%25a1%25a0%25c2%25b7%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%2582%25b4%25eb%25b9%2584",
           "pubDate": "2026-09-06T23:50:47.000Z",
-          "image": null
+          "image": null,
+          "summary": "포티투닷은 현대자동차그룹의 인포테인먼트 시스템 ‘플레오스 커넥트’의 앱 마켓에 앱 7종을 새로 추가했다고 7일 밝혔다. 국내에서 이용할 수 있는 앱은 모두 18종으로 늘었다. 앱 마켓은 스마트폰을 차에 연결하지 않고도 차량 화면에서 바로 앱을 내려받아 쓰는 방식이다. 차량 제조사가 기본으로 넣은 기능 외에 길 안내와 음악 감상 등 외부 서비스를 이용할 수 있다. 이번에 이름이 공개된 앱은 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "포티투닷",
+            "플레오스 커넥트",
+            "현대자동차그룹"
+          ]
         },
         {
           "title": "벤처투자 역대 최대에도…AI 쏠림·미국행·회수 병목은 여전",
           "link": "https://platum.kr/archives/294053?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%2596%25bc%25eb%259d%25bc%25ec%259d%25b4%25ec%2596%25b8%25ec%258a%25a4-%25ea%25b5%25ad%25ec%25a0%2595%25ea%25b0%2590%25ec%2582%25ac-%25ec%2595%259e%25eb%2591%2590%25ea%25b3%25a0-%25ec%25a0%2595%25ec%25b1%2585%25ea%25b3%25bc%25ec%25a0%259c-12%25ea%25b0%259c",
           "pubDate": "2026-09-06T23:33:29.000Z",
-          "image": null
+          "image": null,
+          "summary": "올해 상반기 국내 벤처투자가 역대 최대를 기록했지만 대규모 투자의 AI·딥테크 쏠림과 한국계 창업자의 미국 창업 증가, 취약한 회수시장 등 스타트업 생태계 내부의 병목은 여전하다는 진단이 나왔다. 스타트업얼라이언스는 7일 발간한 ‘2026 국정감사 정책자료집’에서 이 같은 문제를 짚고, 8대 핵심 정책과제와 4대 산업별 규제혁신 과제 등 총 12개 정책·입법 과제를 국회에 제시했다. 중소벤처기업부가 지난 8월 19일 발표한 ... 더 읽기",
+          "keywords": [
+            "트렌드",
+            "스타트업얼라이언스",
+            "정책자료집"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:45.958Z",
+      "fetchedAt": "2026-09-07T09:35:01.835Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -434,34 +735,72 @@
           "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
           "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
           "pubDate": "2026-09-06T16:45:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+          "keywords": [
+            "Startups",
+            "Transportation",
+            "AI",
+            "Travis Kalanick",
+            "Uber",
+            "atoms"
+          ]
         },
         {
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
           "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
           "pubDate": "2026-09-04T23:36:14.000Z",
-          "image": null
+          "image": null,
+          "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+          "keywords": [
+            "AI",
+            "Robotics",
+            "Startups",
+            "8VC"
+          ]
         },
         {
           "title": "Krafton doubles down on India with another $250M bet beyond gaming",
           "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
           "pubDate": "2026-09-04T14:47:20.000Z",
-          "image": null
+          "image": null,
+          "summary": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+          "keywords": [
+            "Gaming",
+            "Startups",
+            "BGMI",
+            "Krafton",
+            "pubg"
+          ]
         },
         {
           "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
           "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
           "pubDate": "2026-09-04T14:00:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+          "keywords": [
+            "Startups",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "Media & Entertainment",
+            "AI"
+          ]
         },
         {
           "title": "Startup ARR is less secure than ever, new research shows",
           "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
           "pubDate": "2026-09-03T20:59:23.000Z",
-          "image": null
+          "image": null,
+          "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+          "keywords": [
+            "Enterprise",
+            "Startups"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:46.378Z",
+      "fetchedAt": "2026-09-07T09:35:02.324Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -473,34 +812,79 @@
           "title": "6만3000명의 창업 아이디어, 1100개 사업으로 좁혀졌다…‘모두의 창업’ 2라운드가 보여준 것",
           "link": "https://www.venturesquare.net/1111088/",
           "pubDate": "2026-09-05T22:14:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260904-409x522.png"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260904-409x522.png",
+          "summary": "6만3000여명이 지원한 ‘모두의 창업 프로젝트’에서 5000명의 1라운드 보육·평가를 거쳐 1100명이 2라운드에 진출했다. 선정자의 80.9%가 지역에서 나왔고 15세부터 72세까지 다양한 연령층이 포함됐으며, 일반·기술 트랙 도전신청서의 43.2%에는 AI 관련 ... The post 6만3000명의 창업 아이디어, 1100개 사업으로 좁혀졌다…‘모두의 창업’ 2라운드가 보여준 것 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI창업",
+            "TIPS",
+            "로컬창업",
+            "모두의창업"
+          ]
         },
         {
           "title": "[김지현의 스케일업 노트] AI도 결국 전략이다…스케일업 성패 가르는 ‘문제 정의’",
           "link": "https://www.venturesquare.net/1111069/",
           "pubDate": "2026-09-05T08:05:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-NOTE-1536x806-1-789x414.jpg"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-NOTE-1536x806-1-789x414.jpg",
+          "summary": "기업의 AI 활용은 빠르게 늘고 있지만 개인의 생산성 향상이 기업 전체의 재무 성과로 이어지는 비율은 아직 제한적이다. AI 도입의 성패는 최신 기술이나 모델의 보유 여부보다 기업이 해결하려는 비즈니스 문제를 얼마나 명확히 정의했는지에 달려 있다. AI를 통해 줄이려는... The post [김지현의 스케일업 노트] AI도 결국 전략이다…스케일업 성패 가르는 ‘문제 정의’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI도입",
+            "AI전략",
+            "경영전략",
+            "기업생산성"
+          ]
         },
         {
           "title": "양대 앱마켓 정상 오른 ‘제우스’…에이버튼, 크릿벤처스 후속 투자 유치",
           "link": "https://www.venturesquare.net/1110962/",
           "pubDate": "2026-09-04T03:13:04.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MMOG-789x444.jpg"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MMOG-789x444.jpg",
+          "summary": "크릿벤처스가 약 60억원 규모의 프로젝트 펀드를 통해 게임 개발사 에이버튼에 후속 투자했다. 에이버튼의 첫 MMORPG ‘제우스: 오만의 신’은 정식 출시 후 구글 플레이스토어와 애플 앱스토어에서 매출 1위를 기록했다. 에이버튼은 현재 개발 중인 차기작 2종을 바탕으로... The post 양대 앱마켓 정상 오른 ‘제우스’…에이버튼, 크릿벤처스 후속 투자 유치 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "mmorpg",
+            "게임스타트업",
+            "게임투자",
+            "김대훤",
+            "언리얼엔진5"
+          ]
         },
         {
           "title": "사업계획서부터 1대1 상담까지…대전 예비창업자 ‘첫걸음’ 지원",
           "link": "https://www.venturesquare.net/1110946/",
           "pubDate": "2026-09-04T03:03:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/djdjdjdj-2-696x522.jpg"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/djdjdjdj-2-696x522.jpg",
+          "summary": "대전창조경제혁신센터가 일반인과 예비창업자를 대상으로 창업준비 아카데미 ‘스타트업 첫걸음’을 개최했다. 참가자들은 창업지원사업 안내와 사업계획서 작성 교육, 기관별 1대1 상담, 네트워킹에 참여했다. 행사는 2026 스타트업 코리아 투자 위크와 연계해 지역의 창업지원 정... The post 사업계획서부터 1대1 상담까지…대전 예비창업자 ‘첫걸음’ 지원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "대전스타트업파크",
+            "대전창조경제혁신센터",
+            "대전혁신센터",
+            "사업계획서",
+            "스타트업첫걸음"
+          ]
         },
         {
           "title": "기술특례상장, 산업별 사례로 짚는다…서울창업허브 스케일업센터 IPO 세미나",
           "link": "https://www.venturesquare.net/1110839/",
           "pubDate": "2026-09-03T13:48:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-2-369x522.png"
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-2-369x522.png",
+          "summary": "서울시와 서울경제진흥원이 9월 15일 서울창업허브 스케일업센터에서 IPO 준비 기업을 위한 세미나를 개최한다. 기술특례상장 제도와 준비 절차를 소개하고 AI·ICT, 의료기기·바이오, 제조·소부장 분야의 실제 상장 사례를 다룬다. 참가비는 무료이며 사전 신청을 통해 참... The post 기술특례상장, 산업별 사례로 짚는다…서울창업허브 스케일업센터 IPO 세미나 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "IPO",
+            "SBA",
+            "기술특례상장",
+            "기업공개",
+            "상장전략"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:47.608Z",
+      "fetchedAt": "2026-09-07T09:35:04.817Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -512,34 +896,74 @@
           "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sUF9OUjVoN09sc0h5b25RUnhVOVFGM3hEcW03Z0NXUDFZUVdpVTVZRE5DaENValBSdnM0dkZ0cm84eDRRUEUzOGZ2cGdoRWN2Tk4xbUNuSnZuNnhaMDhNeW9wY9IBaEFVX3lxTFBSRTBZLTNqM3U5RW1feWUtNmw5MU9JWFZFSXlfeFRrUGQ0c1BMMHZoZ1Rya3pBZTBha1dhUkFpM293TUZBU2pnVVd2eUhCSWxFM21wQUNzRTlJN3JjSFBSb0dFa1laRE1G?oc=5",
           "pubDate": "2026-09-07T08:16:23.000Z",
-          "image": null
+          "image": null,
+          "summary": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 매일일보",
+          "keywords": [
+            "수자원공사",
+            "중소기업",
+            "ESG",
+            "경쟁력",
+            "강화"
+          ]
         },
         {
           "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
           "pubDate": "2026-09-07T03:50:46.000Z",
-          "image": null
+          "image": null,
+          "summary": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 국토교통신문",
+          "keywords": [
+            "수자원공사",
+            "중소기업",
+            "ESG",
+            "지원사업",
+            "참여기업"
+          ]
         },
         {
           "title": "공정, 혁신, 포용의 경기 - 경기도청",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
           "pubDate": "2026-09-06T22:27:22.000Z",
-          "image": null
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ]
         },
         {
           "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
           "pubDate": "2026-09-07T06:08:00.000Z",
-          "image": null
+          "image": null,
+          "summary": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 매일건설신문",
+          "keywords": [
+            "수자원공사",
+            "ESG",
+            "경쟁력",
+            "강화",
+            "지원사업"
+          ]
         },
         {
           "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
           "pubDate": "2026-09-07T01:29:30.000Z",
-          "image": null
+          "image": null,
+          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 유교신문",
+          "keywords": [
+            "한국수자원공사",
+            "중소기업",
+            "ESG",
+            "지원사업",
+            "참여기업"
+          ]
         }
       ],
-      "fetchedAt": "2026-09-07T09:27:48.921Z",
+      "fetchedAt": "2026-09-07T09:35:06.436Z",
       "error": null
     }
   }
