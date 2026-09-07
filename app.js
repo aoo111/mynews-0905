@@ -225,13 +225,68 @@
     }
   }
 
+  // 사이트 하나가 여러 대분류에 걸쳐 있을 수 있으므로(tags), 피드 뷰의
+  // 카테고리 필터도 대표 category 하나가 아니라 전체 tags 기준으로 맞춘다.
+  // (사이트 모음 뷰와 동일한 기준을 쓰기 위함 - 예: Tubefilter는
+  // 유튜브·크리에이터의 대표 사이트지만 트렌드 카테고리에도 태그되어 있다.)
+  function getSiteCategoriesByUrl(url) {
+    const site = getAllSites().find((s) => s.url === url);
+    if (!site) return [];
+    const tags =
+      Array.isArray(site.tags) && site.tags.length
+        ? site.tags
+        : [`${site.category}>${site.subcategory}`];
+    return [...new Set(tags.map((t) => t.split(">")[0]))];
+  }
+
+  function getCategoryArticleCounts() {
+    const counts = {};
+    let total = 0;
+    Object.entries(ARTICLE_CACHE.feeds || {}).forEach(([url, feed]) => {
+      const n = (feed.items || []).length;
+      if (!n) return;
+      total += n;
+      getSiteCategoriesByUrl(url).forEach((cat) => {
+        counts[cat] = (counts[cat] || 0) + n;
+      });
+    });
+    return { counts, total };
+  }
+
+  function renderFeedSidebar(tree) {
+    const sidebar = document.getElementById("feed-sidebar");
+    const categories = getOrderedCategories(tree);
+    const { counts, total } = getCategoryArticleCounts();
+
+    sidebar.innerHTML = "";
+    const entries = [{ key: ALL_CATEGORY, icon: "✨", label: "전체", count: total }].concat(
+      categories.map((c) => ({ key: c, icon: CATEGORY_ICONS[c] || "📁", label: c, count: counts[c] || 0 }))
+    );
+
+    entries.forEach((entry) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "feed-cat-btn" + (entry.key === selectedCategory ? " active" : "");
+      btn.innerHTML = `<span>${entry.icon} ${escapeHtml(entry.label)}</span><span class="count">${entry.count}</span>`;
+      btn.addEventListener("click", () => {
+        selectedCategory = entry.key;
+        render();
+      });
+      sidebar.appendChild(btn);
+    });
+  }
+
   function renderFeedView() {
     const header = document.getElementById("content-header");
     const body = document.getElementById("content-body");
 
     let articles = [];
-    Object.values(ARTICLE_CACHE.feeds || {}).forEach((feed) => {
-      if (selectedCategory !== ALL_CATEGORY && feed.category !== selectedCategory) return;
+    Object.entries(ARTICLE_CACHE.feeds || {}).forEach(([url, feed]) => {
+      if (
+        selectedCategory !== ALL_CATEGORY &&
+        !getSiteCategoriesByUrl(url).includes(selectedCategory)
+      )
+        return;
       (feed.items || []).forEach((item) => {
         articles.push({
           title: item.title,
@@ -427,8 +482,10 @@
       btn.classList.toggle("active", btn.dataset.view === activeView);
     });
     document.getElementById("type-filter").hidden = activeView === "feed";
+    document.getElementById("feed-sidebar").hidden = activeView !== "feed";
 
     if (activeView === "feed") {
+      renderFeedSidebar(tree);
       renderFeedView();
     } else {
       renderSitesView(tree);
