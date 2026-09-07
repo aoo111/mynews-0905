@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T10:37:19.393Z",
+  "collectedAt": "2026-09-07T10:39:59.885Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:18.116Z",
+      "fetchedAt": "2026-09-07T10:38:25.152Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -124,8 +124,8 @@
             "Enforcement Actions"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp.",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         },
         {
           "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -137,8 +137,8 @@
             "Enforcement Actions"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 푸에르토리코 방코 포퓰러 (Banco Popular de Puerto Rico) 의 전 직원에게 집행 조치를 내립니다.",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 푸에르토리코 방코 포퓰러 (Banco Popular de Puerto Rico) 의 전 직원"
         },
         {
           "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
@@ -150,8 +150,8 @@
             "Monetary Policy"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록",
+          "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         },
         {
           "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -163,8 +163,8 @@
             "Orders on Banking Applications"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표",
+          "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         },
         {
           "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
@@ -176,11 +176,11 @@
             "Enforcement Actions"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다.",
+          "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:24.972Z",
+      "fetchedAt": "2026-09-07T10:38:33.232Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -275,7 +275,7 @@
         }
       ],
       "fetchedAt": "2026-09-07T10:36:25.156Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://openai.com/news/rss.xml": {
       "name": "OpenAI News RSS",
@@ -292,8 +292,8 @@
             "Global Affairs"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "우크라이나의 독립 저널리즘 지원",
+          "summaryKo": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 뉴스 조직이 혁신, 탄력성 및 독립 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다."
         },
         {
           "title": "An Alien Mind",
@@ -305,8 +305,8 @@
             "Safety"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "외계인의 마음",
+          "summaryKo": "자쿠브 파초키 (Jakub Pachocki) 는 점점 더 유능해지고 있는 인공지능과 인공지능을 조화롭게 유지해야 하는 과제에 대해 그는 더 강력한 안전 조치와 국제적 공조를 요구합니다."
         },
         {
           "title": "Research acceleration: The view inside OpenAI",
@@ -318,8 +318,8 @@
             "Research"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "연구 가속화: OpenAI 내부 보기",
+          "summaryKo": "OpenAI 내부에서는 코딩 에이전트가 AI 연구를 재편하고 있습니다. 상담원 사용, 실험 속도, 작업 복잡성 및 연구 가속화에 대한 초기 데이터를 살펴보세요."
         },
         {
           "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -331,8 +331,8 @@
             "Security"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "최전방 방어자를 위한 새벽: 필수 서비스 보호를 위한 $ 10억",
+          "summaryKo": "OpenAI는 최전방 방어자를 위한 새벽을 소개합니다. $ 10억의 약속으로 프론티어 사이버 AI에 대한 액세스, 교육 및 필수 서비스에 대한 지원이 확대됩니다."
         },
         {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -344,11 +344,11 @@
             "Startup"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "레고라는 GPT-6 아스트라와 함께 41건의 문서를 몇 분 만에 검토했습니다.",
+          "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:30.913Z",
+      "fetchedAt": "2026-09-07T10:38:48.868Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -442,7 +442,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:31.155Z",
+      "fetchedAt": "2026-09-07T10:38:49.483Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -460,8 +460,8 @@
             "Homepage Feature"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "YouTube의 새로운 공개 조회수는 실제 참여를 40% 과도하게 보고합니다.",
+          "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         },
         {
           "title": "Have you heard? Another YouTuber on Netflix, Dude Perfect’s CEO shuffle, and a cow gamer.",
@@ -478,8 +478,8 @@
             "chipotle"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "혹시 들어보셨나요? 넷플릭스의 또 다른 유튜버인 듀드 퍼펙트의 CEO 셔플과 소 게이머입니다.",
+          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 넷플릭스의 크리에이터 콘텐츠 지출은 계속 증가하고 있으며, 크리에이터는 경영진과 갈등을 겪고 있으며, 소는 l33t 게이머입니다. 크리에이터 소동 드류 빈스키는 넷플릭스에 동영상을 올리는 최신 유튜브 스타입니다. 전 세계 모든 국가를 방문한 빈스키는 YouTube 최고의 여행 브이로거 중 한 명입니다. Starti"
         },
         {
           "title": "Bottoms up! Google is bringing personalization to alcohol ads on YouTube.",
@@ -496,8 +496,8 @@
             "YouTube"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "완료되었습니다! Google은 YouTube의 주류 광고에 맞춤화를 도입하고 있습니다.",
+          "summaryKo": "YouTube에서 알코올 음료에 대한 광고는 거의 없지만 곧 바뀔 것입니다. 10월 30일부터 Google은 주류 브랜드 광고에 어느 정도 맞춤화할 수 있는 새로운 정책을 시행합니다. 현재 YouTube에서는 주류 광고가 허용되지만, 상당한 제한으로 인해 광고 노출이 제한됩니다. 해당 지점에 대한 맞춤형 타겟팅이 비활성화되어 있으며 (현재로서는), 사용자는 주류 광고를 게재하지 않도록 선택할 수 있으며, 해당 지점에는 부지 배너가 허용되지 않습니다."
         },
         {
           "title": "TikTok has new ways to comment (that make it feel more like Instagram)",
@@ -514,8 +514,8 @@
             "carousels"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "TikTok에는 댓글을 달 수 있는 새로운 방법이 있습니다 (Instagram과 비슷한 느낌).",
+          "summaryKo": "TikTok은 댓글을 대화형 형식으로 전환하려고 합니다. 이 앱은 오디오 응답, 사진 슬라이드, 투표 등 크리에이터와 대화할 수 있는 몇 가지 새로운 방법을 공개했습니다. 뉴스룸 게시물은 TikTok의 댓글 섹션에 대한 업데이트를 통해 실행됩니다. 다음 달 18세 이상 사용자에게 공개되는 음성 댓글은 최대 60초까지 재생할 수 있으며 누구나 재생할 수 있습니다. 현재 사용할 수 있는 댓글 여론조사는 최대 5개의 옵션을 가질 수 있으며 설정된 기간 동안 실행할 수 있습니다. 그리고 wi"
         },
         {
           "title": "GTA RP Week returns to Twitch, with Rockstar promoting “the next evolution of the GTA 5 roleplay community”",
@@ -529,11 +529,11 @@
             "twitch"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "GTA RP Week가 Twitch로 돌아옵니다. Rockstar는 \"GTA 5 롤플레이 커뮤니티의 차세대 진화\" 를 홍보합니다.",
+          "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:36.957Z",
+      "fetchedAt": "2026-09-07T10:38:58.945Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -551,8 +551,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "게시자가 애드센스로 수익을 창출하는 방법 업데이트",
+          "summaryKo": "애드센스는 수익 공유 구조를 업데이트하고 게시자를 위한 노출당 결제로 전환하고 있습니다."
         },
         {
           "title": "New Consent Management Platform requirements for serving ads in the EEA and UK",
@@ -564,8 +564,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "EEA 및 영국에서 광고를 게재하기 위한 새로운 동의 관리 플랫폼 요건",
+          "summaryKo": "Google은 EEA 및 영국에서 광고를 게재하는 게시자 및 개발자 파트너와 협력하는 CMP에 대한 새로운 요구 사항을 도입합니다."
         },
         {
           "title": "Your AdSense 2022 holiday checklist",
@@ -577,8 +577,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "애드센스 2022 연말연시 체크리스트",
+          "summaryKo": "2022년 애드센스 휴가철 체크리스트는 연중 가장 바쁜 시기에 대비하여 사이트와 콘텐츠를 준비하는 데 도움이 됩니다."
         },
         {
           "title": "Kickstart your monetization with the AdSense onboarding video series",
@@ -590,8 +590,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "애드센스 온보딩 동영상 시리즈로 수익 창출을 시작하세요",
+          "summaryKo": "YouTube에서 게시자를 애드센스로 온보딩하기 위한 새로운 5부작 동영상 시리즈. 이 시리즈는 광고 단위, 사이트, 실적 및 수익을 다룹니다."
         },
         {
           "title": "Introducing Related search for content pages",
@@ -603,11 +603,11 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "콘텐츠 페이지에 대한 관련 검색 소개",
+          "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:42.938Z",
+      "fetchedAt": "2026-09-07T10:39:06.372Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -627,8 +627,8 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "Google의 AI 어드바이저: 영향력과 인사이트를 이끌어내는 에이전트 도구",
+          "summaryKo": "Ads Advisor와 Analytics Advisor의 개요, 두 가지 도구가 올 12월 영어 계정으로 출시됩니다."
         },
         {
           "title": "Personalized advertising fuels growth and drives competitiveness for European businesses",
@@ -641,8 +641,8 @@
             "Google in Europe"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "개인 맞춤형 광고는 성장을 촉진하고 유럽 비즈니스의 경쟁력을 높입니다.",
+          "summaryKo": "새로운 보고서는 개인화된 디지털 광고가 경제 성장과 경쟁력을 견인하는 데 중요한 역할을 하는 것을 강조합니다."
         },
         {
           "title": "AI, personalization and the future of shopping",
@@ -655,8 +655,8 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "AI, 개인화, 쇼핑의 미래",
+          "summaryKo": "사람들이 비즈니스를 발견하고 연결할 수 있도록 AI가 광고와 쇼핑 경험을 어떻게 변화시키고 있는지 알아보세요."
         },
         {
           "title": "Boosting your reach and performance with Google Display Ads",
@@ -669,8 +669,8 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "Google 디스플레이 광고로 도달 범위와 실적 향상",
+          "summaryKo": "Google 디스플레이 광고의 새로운 기능을 통해 실적을 높이고, 크리에이티브 품질을 높이고, 브랜드 안전 및 표준을 개선할 수 있습니다."
         },
         {
           "title": "New ways to help you drive performance with Demand Gen",
@@ -684,11 +684,11 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "Demand Gen으로 성과를 높이는 새로운 방법",
+          "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:36:49.156Z",
+      "fetchedAt": "2026-09-07T10:39:13.808Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -873,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:37:04.379Z",
+      "fetchedAt": "2026-09-07T10:39:29.066Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -896,8 +896,8 @@
             "atoms"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "Travis Kalanick의 Atoms가 로봇 택시 사업에 뛰어들고 있을지도 모릅니다.",
+          "summaryKo": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다."
         },
         {
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -912,8 +912,8 @@
             "8VC"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "XDOF, 스텔스에서 불과 3 개월 만에 $ 1.2B 가치의 시리즈 B에 대한 회담 중입니다.",
+          "summaryKo": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다."
         },
         {
           "title": "Krafton doubles down on India with another $250M bet beyond gaming",
@@ -929,8 +929,8 @@
             "pubg"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "Krafton은 게임을 넘어선 또 다른 $ 250M 베팅으로 인도를 두 배로 늘립니다",
+          "summaryKo": "Krafton의 인도에 대한 계획 투자는 최신 약속을 통해 $ 500 백만을 능가 할 것입니다."
         },
         {
           "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
@@ -947,8 +947,8 @@
             "AI"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "TechCrunch Disrupt 2026 사이드 이벤트 신청까지 24시간이 채 남지 않았습니다.",
+          "summaryKo": "TechCrunch Disrupt 2026 기간 동안 사이드 이벤트를 개최하고 실리콘 밸리 현장에 이름을 알릴 수 있는 기간이 24시간 미만 남았습니다. 오늘 밤 자정 (태평양 표준시 기준) 에 신청이 마감되기 전에 신청하세요."
         },
         {
           "title": "Startup ARR is less secure than ever, new research shows",
@@ -961,11 +961,11 @@
             "Startups"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "새로운 연구에 따르면 스타트업 ARR은 그 어느 때보다 안전하지 않습니다.",
+          "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T10:37:11.369Z",
+      "fetchedAt": "2026-09-07T10:39:37.762Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1065,7 +1065,7 @@
         }
       ],
       "fetchedAt": "2026-09-07T10:37:13.288Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
       "name": "Google News 지원사업 RSS",
@@ -1090,11 +1090,11 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - itbs1.co.kr",
+          "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
           "pubDate": "2026-09-07T03:50:46.000Z",
           "image": null,
-          "summary": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 itbs1.co.kr",
+          "summary": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 국토교통신문",
           "keywords": [
             "수자원공사",
             "중소기업",
@@ -1158,7 +1158,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:37:14.246Z",
+      "fetchedAt": "2026-09-07T10:39:53.236Z",
       "error": null
     }
   },
@@ -1178,39 +1178,39 @@
       "change": "same"
     },
     {
+      "key": "esg",
+      "label": "ESG",
+      "count": 5,
+      "rank": 3,
+      "change": "up"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "esg",
-      "label": "ESG",
-      "count": 5,
       "rank": 7,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
@@ -1241,7 +1241,7 @@
       "count": 5,
       "rank": 1,
       "change": "same",
-      "labelKo": null
+      "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
@@ -1249,7 +1249,7 @@
       "count": 5,
       "rank": 2,
       "change": "same",
-      "labelKo": null
+      "labelKo": "애드 센스"
     },
     {
       "key": "homepage feature",
@@ -1257,7 +1257,7 @@
       "count": 5,
       "rank": 3,
       "change": "same",
-      "labelKo": null
+      "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
@@ -1265,7 +1265,7 @@
       "count": 5,
       "rank": 4,
       "change": "same",
-      "labelKo": null
+      "labelKo": "스타트업"
     },
     {
       "key": "google ads",
@@ -1273,7 +1273,7 @@
       "count": 4,
       "rank": 5,
       "change": "same",
-      "labelKo": null
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "ai",
@@ -1281,7 +1281,7 @@
       "count": 3,
       "rank": 6,
       "change": "same",
-      "labelKo": null
+      "labelKo": "AI"
     },
     {
       "key": "articles",
@@ -1289,7 +1289,7 @@
       "count": 3,
       "rank": 7,
       "change": "same",
-      "labelKo": null
+      "labelKo": "기사"
     },
     {
       "key": "enforcement actions",
@@ -1297,7 +1297,7 @@
       "count": 3,
       "rank": 8,
       "change": "same",
-      "labelKo": null
+      "labelKo": "시행 조치"
     },
     {
       "key": "featured",
@@ -1305,7 +1305,7 @@
       "count": 3,
       "rank": 9,
       "change": "same",
-      "labelKo": null
+      "labelKo": "추천 동영상"
     },
     {
       "key": "news",
@@ -1313,7 +1313,7 @@
       "count": 3,
       "rank": 10,
       "change": "same",
-      "labelKo": null
+      "labelKo": "뉴스"
     }
   ]
 }
