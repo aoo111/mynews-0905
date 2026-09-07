@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T10:11:45.621Z",
+  "collectedAt": "2026-09-07T10:25:01.577Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:10:30.774Z",
+      "fetchedAt": "2026-09-07T10:24:26.359Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -124,8 +124,8 @@
             "Enforcement Actions"
           ],
           "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
@@ -137,8 +137,8 @@
             "Enforcement Actions"
           ],
           "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 푸에르토리코 방코 포퓰러 (Banco Popular de Puerto Rico) 의 전 직원",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 푸에르토리코 방코 포퓰러 (Banco Popular de Puerto Rico) 의 전 직원"
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
@@ -150,8 +150,8 @@
             "Monetary Policy"
           ],
           "isForeign": true,
-          "titleKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록",
-          "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
@@ -163,8 +163,8 @@
             "Orders on Banking Applications"
           ],
           "isForeign": true,
-          "titleKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표",
-          "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
@@ -176,11 +176,11 @@
             "Enforcement Actions"
           ],
           "isForeign": true,
-          "titleKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다.",
-          "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:10:41.237Z",
+      "fetchedAt": "2026-09-07T10:24:33.222Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -191,7 +191,7 @@
         {
           "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
-          "pubDate": "2026-09-07T18:13:18.000Z",
+          "pubDate": "2026-09-07T09:13:18.000Z",
           "image": null,
           "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
           "keywords": [
@@ -208,7 +208,7 @@
         {
           "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
-          "pubDate": "2026-09-07T18:12:43.000Z",
+          "pubDate": "2026-09-07T09:12:43.000Z",
           "image": null,
           "summary": "앤트로픽이 AI 서비스 수요 폭증에 대응하기 위해 최근 1년간 최대 5170억달러(약 695조원) 규모의 클라우드 컴퓨팅과 데이터센터 계약을 확보한 것으로 나타났다. 5일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 지난해 10월 이후 앞으로 수년간 사용할 수 있는 최소 14.8기가와트(GW) 규모의 컴퓨팅 용량 확보 계약을 체결했다. 이는 기존에 확보했던 1~2GW를 훌쩍 웃도는 수준이다. 공격적인 인프라 확보는 올해 예상보다 빠르게 증가한 ‘클로드 코드’와 ‘코워크’ 수요에 따른 것이다. AI 코딩과 업무 자동화 서비스 이용자",
           "keywords": [
@@ -225,7 +225,7 @@
         {
           "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
-          "pubDate": "2026-09-07T18:05:18.000Z",
+          "pubDate": "2026-09-07T09:05:18.000Z",
           "image": null,
           "summary": "AI가 사용자의 요구에 맞춰 글을 작성하는 것을 넘어, 사용자가 평소 쓰는 말투와 표현 방식까지 학습해 '나만의 문체'로 글을 만들어주는 방향으로 진화하고 있다. AI가 작성한 티가 나는 문제를 줄여줄 것으로 보인다.5일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 사용자의 고유한 글쓰기 습관을 학습해 개인의 어조와 문체를 그대로 반영한 글을 작성하는 새로운 '글쓰기 스타일(Writing Style)' 기능을 챗GPT에서 테스트하고 있는 것으로 알려졌다.이메일이나 문서, 메시지 등 사용자가 실제로 작성한 텍스트를 참고해 챗GPT가",
           "keywords": [
@@ -242,7 +242,7 @@
         {
           "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
-          "pubDate": "2026-09-07T17:59:13.000Z",
+          "pubDate": "2026-09-07T08:59:13.000Z",
           "image": null,
           "summary": "미국 캘리포니아주에서 등산객 3명이 구글의 '제미나이' 등을 이용해 산행 계획을 세웠다가 정상에 오르는 데 예상보다 훨씬 긴 시간이 걸리고 하산 중 길을 잃으면서 고립되는 사고가 발생했다. 이들은 충분한 식량과 물, 장비를 준비하지 않은 채 산행을 강행했고, 결국 이튿날 산림청 레인저와 자원봉사 구조대에 의해 구조됐다.5일(현지시간) 비즈니스인사이더에 따르면, 사고는 캘리포니아주 북부 캐스케이드산맥에 위치한 해발 1만4179피트(약 4322m)의 샤스타산에서 발생했다.20세 남성 3명으로 구성된 일행은 샤스타산의 클리어 크릭 루트",
           "keywords": [
@@ -259,7 +259,7 @@
         {
           "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
-          "pubDate": "2026-09-07T17:51:30.000Z",
+          "pubDate": "2026-09-07T08:51:30.000Z",
           "image": null,
           "summary": "런웨이가 정해진 길이의 영상을 생성하는 기존 방식을 넘어, 사용자의 움직임과 명령에 실시간으로 반응하며 끝없이 변화하는 가상세계를 구현하는 새로운 월드 모델을 선보였다.런웨이는 3일(현지시간) 사용자의 입력에 실시간으로 반응하면서 길이 제한 없이 가상의 세계를 계속 생성하는 새로운 월드 모델 ‘GWM 월드 2(GWM Worlds 2)’를 공개했다.기존 영상 생성 모델이 프롬프트를 입력하면 일정 길이의 완성된 영상을 만들어내는 방식이었다면, GWM 월드 2는 사용자가 키보드와 마우스, 텍스트 등으로 세계에 개입하는 동안 초당 24프레",
           "keywords": [
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:10:42.451Z",
+      "fetchedAt": "2026-09-07T10:24:33.404Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -292,8 +292,8 @@
             "Global Affairs"
           ],
           "isForeign": true,
-          "titleKo": "우크라이나의 독립 저널리즘 지원",
-          "summaryKo": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 뉴스 조직이 혁신, 탄력성 및 독립 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "An Alien Mind",
@@ -305,8 +305,8 @@
             "Safety"
           ],
           "isForeign": true,
-          "titleKo": "외계인의 마음",
-          "summaryKo": "자쿠브 파초키 (Jakub Pachocki) 는 점점 더 유능해지고 있는 인공지능과 인공지능을 조화롭게 유지해야 하는 과제에 대해 그는 더 강력한 안전 조치와 국제적 공조를 요구합니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Research acceleration: The view inside OpenAI",
@@ -318,8 +318,8 @@
             "Research"
           ],
           "isForeign": true,
-          "titleKo": "연구 가속화: OpenAI 내부 보기",
-          "summaryKo": "OpenAI 내부에서는 코딩 에이전트가 AI 연구를 재편하고 있습니다. 상담원 사용, 실험 속도, 작업 복잡성 및 연구 가속화에 대한 초기 데이터를 살펴보세요."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -331,8 +331,8 @@
             "Security"
           ],
           "isForeign": true,
-          "titleKo": "최전방 방어자를 위한 새벽: 필수 서비스 보호를 위한 $ 10억",
-          "summaryKo": "OpenAI는 최전방 방어자를 위한 새벽을 소개합니다. $ 10억의 약속으로 프론티어 사이버 AI에 대한 액세스, 교육 및 필수 서비스에 대한 지원이 확대됩니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -344,11 +344,11 @@
             "Startup"
           ],
           "isForeign": true,
-          "titleKo": "레고라는 GPT-6 아스트라와 함께 41건의 문서를 몇 분 만에 검토했습니다.",
-          "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:10:52.033Z",
+      "fetchedAt": "2026-09-07T10:24:38.170Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -442,7 +442,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:10:52.990Z",
+      "fetchedAt": "2026-09-07T10:24:38.397Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -460,8 +460,8 @@
             "Homepage Feature"
           ],
           "isForeign": true,
-          "titleKo": "YouTube의 새로운 공개 조회수는 실제 참여를 40% 과도하게 보고합니다.",
-          "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Have you heard? Another YouTuber on Netflix, Dude Perfect’s CEO shuffle, and a cow gamer.",
@@ -478,8 +478,8 @@
             "chipotle"
           ],
           "isForeign": true,
-          "titleKo": "혹시 들어보셨나요? 넷플릭스의 또 다른 유튜버인 듀드 퍼펙트의 CEO 셔플과 소 게이머입니다.",
-          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 넷플릭스의 크리에이터 콘텐츠 지출은 계속 증가하고 있으며, 크리에이터는 경영진과 갈등을 겪고 있으며, 소는 l33t 게이머입니다. 크리에이터 소동 드류 빈스키는 넷플릭스에 동영상을 올리는 최신 유튜브 스타입니다. 전 세계 모든 국가를 방문한 빈스키는 YouTube 최고의 여행 브이로거 중 한 명입니다. Starti"
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Bottoms up! Google is bringing personalization to alcohol ads on YouTube.",
@@ -496,8 +496,8 @@
             "YouTube"
           ],
           "isForeign": true,
-          "titleKo": "완료되었습니다! Google은 YouTube의 주류 광고에 맞춤화를 도입하고 있습니다.",
-          "summaryKo": "YouTube에서 알코올 음료에 대한 광고는 거의 없지만 곧 바뀔 것입니다. 10월 30일부터 Google은 주류 브랜드 광고에 어느 정도 맞춤화할 수 있는 새로운 정책을 시행합니다. 현재 YouTube에서는 주류 광고가 허용되지만, 상당한 제한으로 인해 광고 노출이 제한됩니다. 해당 지점에 대한 맞춤형 타겟팅이 비활성화되어 있으며 (현재로서는), 사용자는 주류 광고를 게재하지 않도록 선택할 수 있으며, 해당 지점에는 부지 배너가 허용되지 않습니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "TikTok has new ways to comment (that make it feel more like Instagram)",
@@ -514,7 +514,7 @@
             "carousels"
           ],
           "isForeign": true,
-          "titleKo": "TikTok에는 댓글을 달 수 있는 새로운 방법이 있습니다 (Instagram과 비슷한 느낌).",
+          "titleKo": null,
           "summaryKo": null
         },
         {
@@ -529,11 +529,11 @@
             "twitch"
           ],
           "isForeign": true,
-          "titleKo": "GTA RP Week가 Twitch로 돌아옵니다. Rockstar는 \"GTA 5 롤플레이 커뮤니티의 차세대 진화\" 를 홍보합니다.",
-          "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:12.327Z",
+      "fetchedAt": "2026-09-07T10:24:43.203Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -551,8 +551,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": "게시자가 애드센스로 수익을 창출하는 방법 업데이트",
-          "summaryKo": "애드센스는 수익 공유 구조를 업데이트하고 게시자를 위한 노출당 결제로 전환하고 있습니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "New Consent Management Platform requirements for serving ads in the EEA and UK",
@@ -564,8 +564,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": "EEA 및 영국에서 광고를 게재하기 위한 새로운 동의 관리 플랫폼 요건",
-          "summaryKo": "Google은 EEA 및 영국에서 광고를 게재하는 게시자 및 개발자 파트너와 협력하는 CMP에 대한 새로운 요구 사항을 도입합니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Your AdSense 2022 holiday checklist",
@@ -577,8 +577,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": "애드센스 2022 연말연시 체크리스트",
-          "summaryKo": "2022년 애드센스 휴가철 체크리스트는 연중 가장 바쁜 시기에 대비하여 사이트와 콘텐츠를 준비하는 데 도움이 됩니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Kickstart your monetization with the AdSense onboarding video series",
@@ -590,8 +590,8 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": "애드센스 온보딩 동영상 시리즈로 수익 창출을 시작하세요",
-          "summaryKo": "YouTube에서 게시자를 애드센스로 온보딩하기 위한 새로운 5부작 동영상 시리즈. 이 시리즈는 광고 단위, 사이트, 실적 및 수익을 다룹니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Introducing Related search for content pages",
@@ -603,11 +603,11 @@
             "AdSense"
           ],
           "isForeign": true,
-          "titleKo": "콘텐츠 페이지에 대한 관련 검색 소개",
-          "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:20.184Z",
+      "fetchedAt": "2026-09-07T10:24:48.866Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -627,8 +627,8 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": "Google의 AI 어드바이저: 영향력과 인사이트를 이끌어내는 에이전트 도구",
-          "summaryKo": "Ads Advisor와 Analytics Advisor의 개요, 두 가지 도구가 올 12월 영어 계정으로 출시됩니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Personalized advertising fuels growth and drives competitiveness for European businesses",
@@ -641,8 +641,8 @@
             "Google in Europe"
           ],
           "isForeign": true,
-          "titleKo": "개인 맞춤형 광고는 성장을 촉진하고 유럽 비즈니스의 경쟁력을 높입니다.",
-          "summaryKo": "새로운 보고서는 개인화된 디지털 광고가 경제 성장과 경쟁력을 견인하는 데 중요한 역할을 하는 것을 강조합니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "AI, personalization and the future of shopping",
@@ -655,8 +655,8 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": "AI, 개인화, 쇼핑의 미래",
-          "summaryKo": "사람들이 비즈니스를 발견하고 연결할 수 있도록 AI가 광고와 쇼핑 경험을 어떻게 변화시키고 있는지 알아보세요."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Boosting your reach and performance with Google Display Ads",
@@ -669,8 +669,8 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": "Google 디스플레이 광고로 도달 범위와 실적 향상",
-          "summaryKo": "Google 디스플레이 광고의 새로운 기능을 통해 실적을 높이고, 크리에이티브 품질을 높이고, 브랜드 안전 및 표준을 개선할 수 있습니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "New ways to help you drive performance with Demand Gen",
@@ -684,11 +684,11 @@
             "Ads (DEPRECATED)"
           ],
           "isForeign": true,
-          "titleKo": "Demand Gen으로 성과를 높이는 새로운 방법",
-          "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:28.933Z",
+      "fetchedAt": "2026-09-07T10:24:53.635Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -696,6 +696,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "‘레벨5 완전자율 제조’ 겨냥한 SFA, 정부 M.AX 전문기업 선정",
+          "link": "https://www.venturesquare.net/1111376/",
+          "pubDate": "2026-09-07T10:09:54.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SFA-ci-789x443.jpg",
+          "summary": "SFA가 산업통상자원부와 한국산업기술기획평가원이 지정하는 M.AX 전문기업의 AI 솔루션 기업 부문에 선정됐다. 반도체와 이차전지, 디스플레이 등에서 축적한 로봇 물류·제어 기술과 제조현장 실증 역량을 기반으로 2028년 8월까지 정부 지원과 관련 사업 참여 기회를 확... The post ‘레벨5 완전자율 제조’ 겨냥한 SFA, 정부 M.AX 전문기업 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI 자율제조",
+            "ART Innovation Center",
+            "KEIT"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "510만 개 팔린 ‘애플 립오일’, 미국 일상 유통망으로…누니, 타깃 1,778곳 입점",
           "link": "https://www.venturesquare.net/1111341/",
@@ -767,27 +785,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "AI가 조향하고 병변 탐지 보조…메디인테크, 로봇내시경 상용화 채비",
-          "link": "https://www.venturesquare.net/1111271/",
-          "pubDate": "2026-09-07T03:00:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KSGE-Days-2026-696x522.jpg",
-          "summary": "메디인테크가 KSGE Days 2026에서 AI 로봇내시경 ‘INTION S’와 이상부위 탐지 소프트웨어 ‘INTION DEEPEYE’를 선보였다. 의료진은 내시경 시뮬레이터를 이용해 전동화된 조작 방식과 AI 자율조향 기능을 직접 체험했다. 메디인테크는 DK헬스케어와... The post AI가 조향하고 병변 탐지 보조…메디인테크, 로봇내시경 상용화 채비 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI 자율조향",
-            "CADe",
-            "CADx"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:32.080Z",
+      "fetchedAt": "2026-09-07T10:24:55.145Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -873,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:32.299Z",
+      "fetchedAt": "2026-09-07T10:24:55.346Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -896,8 +896,8 @@
             "atoms"
           ],
           "isForeign": true,
-          "titleKo": "Travis Kalanick의 Atoms가 로봇 택시 사업에 뛰어들고 있을지도 모릅니다.",
-          "summaryKo": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -912,8 +912,8 @@
             "8VC"
           ],
           "isForeign": true,
-          "titleKo": "XDOF, 스텔스에서 불과 3 개월 만에 $ 1.2B 가치의 시리즈 B에 대한 회담 중입니다.",
-          "summaryKo": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Krafton doubles down on India with another $250M bet beyond gaming",
@@ -929,8 +929,8 @@
             "pubg"
           ],
           "isForeign": true,
-          "titleKo": "Krafton은 게임을 넘어선 또 다른 $ 250M 베팅으로 인도를 두 배로 늘립니다",
-          "summaryKo": "Krafton의 인도에 대한 계획 투자는 최신 약속을 통해 $ 500 백만을 능가 할 것입니다."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
@@ -947,8 +947,8 @@
             "AI"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 사이드 이벤트 신청까지 24시간이 채 남지 않았습니다.",
-          "summaryKo": "TechCrunch Disrupt 2026 기간 동안 사이드 이벤트를 개최하고 실리콘 밸리 현장에 이름을 알릴 수 있는 기간이 24시간 미만 남았습니다. 오늘 밤 자정 (태평양 표준시 기준) 에 신청이 마감되기 전에 신청하세요."
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Startup ARR is less secure than ever, new research shows",
@@ -961,11 +961,11 @@
             "Startups"
           ],
           "isForeign": true,
-          "titleKo": "새로운 연구에 따르면 스타트업 ARR은 그 어느 때보다 안전하지 않습니다.",
-          "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:41.788Z",
+      "fetchedAt": "2026-09-07T10:25:00.057Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1064,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:45.286Z",
+      "fetchedAt": "2026-09-07T10:25:01.147Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1090,17 +1090,34 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
+          "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - itbs1.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
           "pubDate": "2026-09-07T03:50:46.000Z",
           "image": null,
-          "summary": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 국토교통신문",
+          "summary": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 itbs1.co.kr",
           "keywords": [
             "수자원공사",
             "중소기업",
             "ESG",
             "지원사업",
             "참여기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
+          "pubDate": "2026-09-06T22:27:22.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1139,27 +1156,154 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
-          "pubDate": "2026-09-07T07:47:58.000Z",
-          "image": null,
-          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 cctoday.co.kr",
-          "keywords": [
-            "한국수자원공사",
-            "중소기업",
-            "ESG",
-            "지원사업",
-            "참여기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T10:11:45.621Z",
+      "fetchedAt": "2026-09-07T10:25:01.554Z",
       "error": null
     }
-  }
+  },
+  "trendingDomestic": [
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 3,
+      "rank": 1,
+      "change": "new"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
+      "rank": 3,
+      "change": "down"
+    },
+    {
+      "key": "뉴스&트렌드",
+      "label": "뉴스&트렌드",
+      "count": 5,
+      "rank": 4,
+      "change": "down"
+    },
+    {
+      "key": "뉴스콘텐츠",
+      "label": "뉴스콘텐츠",
+      "count": 5,
+      "rank": 5,
+      "change": "down"
+    },
+    {
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
+      "count": 5,
+      "rank": 6,
+      "change": "down"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
+      "rank": 7,
+      "change": "down"
+    },
+    {
+      "key": "esg",
+      "label": "ESG",
+      "count": 4,
+      "rank": 8,
+      "change": "down"
+    },
+    {
+      "key": "수자원공사",
+      "label": "수자원공사",
+      "count": 3,
+      "rank": 9,
+      "change": "down"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 3,
+      "rank": 10,
+      "change": "down"
+    }
+  ],
+  "trendingGlobal": [
+    {
+      "key": "ads (deprecated)",
+      "label": "Ads (DEPRECATED)",
+      "count": 5,
+      "rank": 1,
+      "change": "same"
+    },
+    {
+      "key": "adsense",
+      "label": "AdSense",
+      "count": 5,
+      "rank": 2,
+      "change": "same"
+    },
+    {
+      "key": "homepage feature",
+      "label": "Homepage Feature",
+      "count": 5,
+      "rank": 3,
+      "change": "same"
+    },
+    {
+      "key": "startups",
+      "label": "Startups",
+      "count": 5,
+      "rank": 4,
+      "change": "same"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 5,
+      "change": "same"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "same"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 7,
+      "change": "same"
+    },
+    {
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 3,
+      "rank": 8,
+      "change": "same"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 9,
+      "change": "same"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 10,
+      "change": "same"
+    }
+  ]
 }

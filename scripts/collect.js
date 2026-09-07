@@ -200,6 +200,69 @@ async function fetchFeed(site) {
   return items;
 }
 
+// 기사 키워드 빈도를 집계해 순위를 매기고, 이전 수집 결과와 비교해
+// 순위 변동(up/down/new/same)을 붙인다. filterFn으로 국내/글로벌 기사를
+// 나눠서 각각 집계한다.
+function computeTrendingKeywords(feeds, previousRanked, filterFn) {
+  const counts = {};
+  Object.entries(feeds).forEach(([url, feed]) => {
+    (feed.items || []).forEach((item) => {
+      if (!filterFn(item)) return;
+      (item.keywords || []).forEach((kw) => {
+        const label = String(kw).trim();
+        if (!label) return;
+        const key = label.toLowerCase();
+        if (!counts[key]) counts[key] = { key, label, count: 0, feedUrls: new Set() };
+        counts[key].count += 1;
+        counts[key].feedUrls.add(url);
+      });
+    });
+  });
+
+  const entries = Object.values(counts).map((e) => ({
+    key: e.key,
+    label: e.label,
+    count: e.count,
+    feedCount: e.feedUrls.size,
+  }));
+
+  // 서로 다른 사이트 2곳 이상에서 함께 언급된 키워드를 우선 노출한다.
+  // (그렇지 않으면 특정 블로그가 자기 글마다 붙이는 자체 카테고리 태그가
+  // 순위를 독점해버려서 "인기 키워드"로서 의미가 없어진다.)
+  const crossSource = entries
+    .filter((e) => e.feedCount >= 2)
+    .sort((a, b) => b.feedCount - a.feedCount || b.count - a.count || a.label.localeCompare(b.label));
+  const singleSource = entries
+    .filter((e) => e.feedCount < 2)
+    .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+  const ranked = crossSource
+    .concat(singleSource)
+    .slice(0, 10)
+    .map((entry, idx) => ({
+      key: entry.key,
+      label: entry.label,
+      count: entry.count,
+      rank: idx + 1,
+    }));
+
+  const prevRankByKey = {};
+  (previousRanked || []).forEach((t) => {
+    prevRankByKey[t.key] = t.rank;
+  });
+
+  return ranked.map((entry) => {
+    const prevRank = prevRankByKey[entry.key];
+    let change = "new";
+    if (prevRank !== undefined) {
+      if (prevRank > entry.rank) change = "up";
+      else if (prevRank < entry.rank) change = "down";
+      else change = "same";
+    }
+    return { ...entry, change };
+  });
+}
+
 async function collectAllFeeds() {
   const sites = loadSites().filter((s) => s.type === "RSS");
   const previous = loadPreviousCache();
@@ -232,7 +295,23 @@ async function collectAllFeeds() {
     }
   }
 
-  const cache = { collectedAt: new Date().toISOString(), feeds };
+  const trendingDomestic = computeTrendingKeywords(
+    feeds,
+    previous.trendingDomestic,
+    (item) => !item.isForeign
+  );
+  const trendingGlobal = computeTrendingKeywords(
+    feeds,
+    previous.trendingGlobal,
+    (item) => item.isForeign
+  );
+
+  const cache = {
+    collectedAt: new Date().toISOString(),
+    feeds,
+    trendingDomestic,
+    trendingGlobal,
+  };
   fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2) + "\n", "utf-8");
   console.log(`[collect] 완료 - ${CACHE_PATH} 저장`);
   return cache;

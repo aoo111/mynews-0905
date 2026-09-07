@@ -43,6 +43,7 @@
   let typeFilter = "ALL"; // 'ALL' | 'RSS' | 'WEBSITE'
   let translateEnabled = false;
   let selectedDate = null; // "YYYY-MM-DD" | null
+  let trendingScope = "domestic"; // 'domestic' | 'global'
   let calendarMonth = new Date(); // 달력에 표시 중인 달(일 단위는 무시)
   let BASE_SITES = [];
   let ARTICLE_CACHE = { collectedAt: null, feeds: {} };
@@ -338,6 +339,53 @@
     });
   }
 
+  const TRENDING_CHANGE_SYMBOL = { up: "▲", down: "▼", new: "NEW", same: "–" };
+
+  function renderTrendingKeywords() {
+    const list = document.getElementById("trending-list");
+    const trending =
+      (trendingScope === "global" ? ARTICLE_CACHE.trendingGlobal : ARTICLE_CACHE.trendingDomestic) || [];
+
+    list.innerHTML = "";
+    if (!trending.length) {
+      list.innerHTML = '<li class="trending-empty">아직 집계된 키워드가 없습니다.</li>';
+      return;
+    }
+
+    trending.forEach((t) => {
+      const li = document.createElement("li");
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "trending-item";
+      const symbol = TRENDING_CHANGE_SYMBOL[t.change] || "–";
+      btn.innerHTML = `
+        <span class="trending-rank${t.rank <= 3 ? " top3" : ""}">${t.rank}</span>
+        <span class="trending-label">${escapeHtml(t.label)}</span>
+        <span class="trending-change ${t.change}">${symbol}</span>
+      `;
+      btn.addEventListener("click", () => {
+        document.getElementById("search-input").value = t.label;
+        searchQuery = t.label;
+        activeView = "feed";
+        render();
+      });
+      li.appendChild(btn);
+      list.appendChild(li);
+    });
+  }
+
+  function setupTrending() {
+    document.querySelectorAll(".trending-tab[data-scope]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        trendingScope = btn.dataset.scope;
+        document
+          .querySelectorAll(".trending-tab[data-scope]")
+          .forEach((b) => b.classList.toggle("active", b === btn));
+        renderTrendingKeywords();
+      });
+    });
+  }
+
   function renderFeedView() {
     const header = document.getElementById("content-header");
     const body = document.getElementById("content-body");
@@ -616,9 +664,12 @@
     categorySidebar.hidden = !showFeedExtras;
     if (showFeedExtras) renderCategorySidebar(tree);
 
-    const calendarPanel = document.getElementById("calendar-panel");
-    calendarPanel.hidden = !showFeedExtras;
-    if (showFeedExtras) renderCalendar();
+    const rightColumn = document.getElementById("right-column");
+    rightColumn.hidden = !showFeedExtras;
+    if (showFeedExtras) {
+      renderCalendar();
+      renderTrendingKeywords();
+    }
 
     if (activeView === "feed") {
       renderFeedView();
@@ -701,6 +752,7 @@
     setupToolbar();
     setupModal();
     setupCalendar();
+    setupTrending();
 
     if (location.protocol === "file:") {
       document.getElementById("content-body").innerHTML =

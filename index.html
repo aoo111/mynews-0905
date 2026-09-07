@@ -93,18 +93,31 @@
       <div id="content-body"></div>
     </div>
 
-    <aside id="calendar-panel" class="calendar-panel">
-      <div class="calendar-header">
-        <button id="calendar-prev" class="calendar-nav-btn" type="button" aria-label="이전 달">‹</button>
-        <span id="calendar-month-label" class="calendar-month-label"></span>
-        <button id="calendar-next" class="calendar-nav-btn" type="button" aria-label="다음 달">›</button>
-      </div>
-      <div class="calendar-weekdays">
-        <span>일</span><span>월</span><span>화</span><span>수</span><span>목</span><span>금</span><span>토</span>
-      </div>
-      <div id="calendar-grid" class="calendar-grid"></div>
-      <button id="calendar-clear" class="calendar-clear-btn" type="button" hidden>날짜 필터 해제</button>
-    </aside>
+    <div id="right-column" class="right-column">
+      <aside class="calendar-panel">
+        <div class="calendar-header">
+          <button id="calendar-prev" class="calendar-nav-btn" type="button" aria-label="이전 달">‹</button>
+          <span id="calendar-month-label" class="calendar-month-label"></span>
+          <button id="calendar-next" class="calendar-nav-btn" type="button" aria-label="다음 달">›</button>
+        </div>
+        <div class="calendar-weekdays">
+          <span>일</span><span>월</span><span>화</span><span>수</span><span>목</span><span>금</span><span>토</span>
+        </div>
+        <div id="calendar-grid" class="calendar-grid"></div>
+        <button id="calendar-clear" class="calendar-clear-btn" type="button" hidden>날짜 필터 해제</button>
+      </aside>
+
+      <aside class="trending-panel">
+        <div class="trending-header">
+          <h3 class="trending-title">🔥 인기 검색어</h3>
+          <div class="trending-tabs">
+            <button class="trending-tab active" data-scope="domestic" type="button">국내</button>
+            <button class="trending-tab" data-scope="global" type="button">글로벌</button>
+          </div>
+        </div>
+        <ol id="trending-list" class="trending-list"></ol>
+      </aside>
+    </div>
   </div>
 </main>
 

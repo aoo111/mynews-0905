@@ -268,15 +268,145 @@ a {
 }
 
 /* ---------- Calendar (past news browser) ---------- */
-.calendar-panel {
+.right-column {
   width: 260px;
   flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: sticky;
+  top: 16px;
+}
+
+.right-column[hidden] {
+  display: none;
+}
+
+.calendar-panel {
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 18px;
-  position: sticky;
-  top: 16px;
+}
+
+.trending-panel {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+}
+
+.trending-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.trending-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.trending-tabs {
+  display: flex;
+  gap: 4px;
+}
+
+.trending-tab {
+  border: 1px solid var(--border);
+  background: var(--panel-alt);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 11px;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.trending-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.trending-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.trending-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  border: none;
+  background: transparent;
+  padding: 6px 4px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 13px;
+  color: var(--text);
+  border-radius: 6px;
+}
+
+.trending-item:hover {
+  background: var(--accent-soft);
+}
+
+.trending-rank {
+  width: 16px;
+  flex-shrink: 0;
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.trending-rank.top3 {
+  color: var(--danger);
+}
+
+.trending-label {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.trending-change {
+  flex-shrink: 0;
+  width: 30px;
+  text-align: right;
+  font-size: 11px;
+}
+
+.trending-change.up {
+  color: #2e7d32;
+}
+
+.trending-change.down {
+  color: var(--danger);
+}
+
+.trending-change.new {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.trending-change.same {
+  color: var(--border);
+}
+
+.trending-empty {
+  font-size: 12px;
+  color: var(--muted);
+  padding: 8px 4px;
 }
 
 .calendar-panel[hidden] {
@@ -825,7 +955,7 @@ a {
     flex-direction: column;
   }
   .sidebar-column,
-  .calendar-panel {
+  .right-column {
     width: 100%;
     position: static;
   }
