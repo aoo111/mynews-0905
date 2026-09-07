@@ -420,7 +420,8 @@
         (a) =>
           a.title.toLowerCase().includes(q) ||
           (a.titleKo && a.titleKo.toLowerCase().includes(q)) ||
-          a.siteName.toLowerCase().includes(q)
+          a.siteName.toLowerCase().includes(q) ||
+          (a.keywords || []).some((k) => k.toLowerCase().includes(q))
       );
     }
 
