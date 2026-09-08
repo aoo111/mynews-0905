@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T04:10:54.453Z",
+  "collectedAt": "2026-09-08T06:14:07.454Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“엄살이 아니고, 손님 늘어도 남는게 없어요”…매출보다 비용 더 뛴 골목상권",
+          "link": "https://www.mk.co.kr/news/economy/12147021",
+          "pubDate": "2026-09-08T05:20:19.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/rcv.YNA.20260630.PYH2026063009830001300_R.jpg",
+          "summary": "소상공인 이익률 2분기째 하락 대출 연체액 15.2조...4.3% 증가소상공인의 매출이 1년 전보다 늘었지만 지출이 더 빠르게 증가하면서 이익률은 2분기 연속 전년 동기보다 하락한..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "차 살 때 대출·할부 어디가 유리할까…카카오뱅크, 비교 서비스 출시",
+          "link": "https://www.mk.co.kr/news/economy/12147020",
+          "pubDate": "2026-09-08T05:20:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260908.2f0200cce370472d8f1e2ef9bd8c41a1_R.png",
+          "summary": "카카오뱅크는 8일 신차와 중고차 구매에 필요한 대출·할부 조건과 카드 캐시백 등을 비교할 수 있는 자동차 금융 서비스를 선보인다고 밝혔다. 중고차를 살 때는 카카오뱅크의 중고차 구..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "ETF 모으고 쇼핑 혜택 받는다…영역 확대하는 인터넷은행",
           "link": "https://www.mk.co.kr/news/economy/12146854",
           "pubDate": "2026-09-08T02:07:58.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "인뱅 어려운 어르신들, 금감원에서 배우세요",
-          "link": "https://www.mk.co.kr/news/economy/12146759",
-          "pubDate": "2026-09-08T01:13:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260220.1292adaf0afe4d4eb26df6b4fdc20382_R.png",
-          "summary": "전문가가 직접 찾아가 맞춤교육금융감독원이 금융사기와 디지털 금융에 취약한 고령층을 위해 맞춤형 금융교실을 연다. 금감원은 8일부터 이달 18일까지 금감원 홈페이지를 통해 ‘FSS ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "토스뱅크 ‘키워봐요 31일 적금’ 출시 한 달 만에 30만좌 돌파",
-          "link": "https://www.mk.co.kr/news/economy/12146756",
-          "pubDate": "2026-09-08T01:11:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260908.ee66a9468de24e16b4fcff9f3c60d86b_R.jpg",
-          "summary": "일평균 11만명 접속 3주 이상 성공률 67%토스뱅크가 지난 8월 출시한 ‘키워봐요 31일적금’이 누적 개설 계좌 30만좌를 돌파했다. 지난달 12일 10만좌를 돌파한 지 3주 만..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:34.327Z",
+      "fetchedAt": "2026-09-08T06:13:22.712Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:34.483Z",
+      "fetchedAt": "2026-09-08T06:13:22.760Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,33 +189,16 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214976",
-          "pubDate": "2026-09-08T12:50:05.000Z",
+          "title": "EU \"형식적 보고는 안 된다\"...오픈AI, '독일 웹사이트 장악' 사고 보고서 제출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214999",
+          "pubDate": "2026-09-08T15:07:36.000Z",
           "image": null,
-          "summary": "오픈AI가 오는 29일(현지시간) 미국 샌프란시스코에서 열리는 개발자 행사 '데브데이'에서 인프라 구축 없이 에이전트를 운영할 수 있는 '관리형 에이전트(Managed Agents)' 서비스를 공개할 것이라는 관측이 나왔다. 7일 테스팅카탈로그에 따르면, 오픈AI는 개발자가 플랫폼 내에서 에이전트, 실행 환경, 세션을 직접 생성하고 관리하는 기능을 준비 중인 것으로 포착됐다. 최근 AI 에이전트가 실제 업무를 수행하는 단계로 진화함에 따라, 주요 AI·클라우드 기업들이 보안과 메모리, 서버 실행 환경을 통합해 제공하는 관리형 에이전",
+          "summary": "오픈AI가 자사 AI 에이전트들이 독일의 한 웹사이트를 장악한 사고와 관련해 유럽연합(EU) 집행위원회에 공식 보고서를 제출했다. EU는 이번 보고가 단순한 형식적 신고에 그쳐서는 안 되며, 사고를 막기 위해 어떤 조치를 취했는지 구체적이고 정확한 내용을 담아야 한다고 강조했다.로이터에 따르면, 토마스 레그니에 EU 집행위원회 대변인은 7일(현지시간) 오픈AI가 이른바 '불량 에이전트'의 독일 웹사이트 장악 사건과 관련한 사고 보고서를 제출했다고 밝혔다. 다만 오픈AI가 정확히 언제 집행위에 보고했는지는 공개하지 않았다.레그니에 대",
           "keywords": [
-            "오픈AI",
-            "29일",
-            "데브데이서",
-            "인프라",
-            "구축"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "젠슨 황 \"AGI 시대 도래했다\"...오픈AI '아스트라'에 축하 메시지",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214974",
-          "pubDate": "2026-09-08T12:32:57.000Z",
-          "image": null,
-          "summary": "젠슨 황 엔비디아 CEO가 오픈AI의 'GPT-6 아스트라' 출시를 축하하며 \"AGI가 도래했다\"고 선언했다. 황 CEO는 6일(현지시간) X를 통해 \"챗GPT에서 o1, 아스트라까지 4년 만에 AGI가 도래했다. 오픈AI 팀에 축하한다\"고 밝혔다.특히 아스트라가 엔비디아의 그레이스 블랙웰(Grace Blackwell) 기반' NV링크72' 시스템에서 10만장 규모의 GPU 인프라를 활용해 훈련됐다는 점을 강조했다. 앞으로 40만개의 GPU를 추가로 가동할 예정이라고 덧붙였다.오픈AI는 아스트라를 가장 지능적이고 정렬된 모델로 소개",
-          "keywords": [
-            "젠슨",
-            "AGI",
-            "시대",
-            "도래했다",
+            "EU",
+            "형식적",
+            "보고는",
+            "된다",
             "오픈AI"
           ],
           "isForeign": false,
@@ -223,58 +206,75 @@
           "summaryKo": null
         },
         {
-          "title": "\"로봇이 단열재 시공도 척척\"...빅웨이브, 주택 현장에 휴머노이드 투입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214980",
-          "pubDate": "2026-09-08T12:18:42.000Z",
+          "title": "AI가 설계한 폐 질환 신약, 환자 생물학적 나이 최대 6년 낮췄다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214987",
+          "pubDate": "2026-09-08T14:57:24.000Z",
           "image": null,
-          "summary": "빅웨이브로보틱스(대표 김민교)는 공간제작소와 협력해 모듈러 주택 생산과 시공 현장에 휴머노이드 로봇을 단계적으로 적용한다고 8일 밝혔다.공간제작소는 목조 모듈러 주택 전문 기업으로 주택 상당 부분을 공장에서 사전 제작하는 공법과 로봇 자동화 라인을 갖추고 있다. 양사는 해당 자동화 라인에 휴머노이드를 추가 배치해 공정 효율을 높인다는 계획이다.우선 적용 분야는 단열재 시공이다. 작업자의 호흡기와 피부에 해로운 자재를 다루는 공정으로, 모양이 불규칙한 '비정형 대상물' 특성상 기존 레거시 로봇 투입에 한계가 있었던 문제를 해결한다는",
-          "keywords": [
-            "로봇이",
-            "단열재",
-            "시공도",
-            "척척",
-            "빅웨이브"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 공동 1위로 상승",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214973",
-          "pubDate": "2026-09-08T11:58:15.000Z",
-          "image": null,
-          "summary": "AI 모델의 성능을 평가하는 대표적인 지표 중 하나인 아티피셜 애널리시스의 '지능 지수(AAII)'가 실제 업무 환경을 반영하는 장기 에이전트 작업 중심으로 개편됐다. 새로운 평가 방식이 적용되면서 기존 평가에서 5위에 머물렀던 'GPT-6 아스트라'의 순위가 크게 상승해 '클로드 페이블 5.1'과 공동 1위에 올랐다.아티피셜 애널리시스는 6일(현지시간) 기존 벤치마크에서 나타난 단순한 편법이나 특정 데이터에 대한 편향, 최고 성능 모델 간 점수 포화 문제를 줄이고 실제 업무와 유사한 장기 에이전트 작업 수행 능력을 정밀하게 측정하",
-          "keywords": [
-            "아티피셜",
-            "애널리시스",
-            "평가",
-            "체제",
-            "개편"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"AI가 알아서 다크웹 뒤진다\"...S2W, 범죄수사 특화 에이전트 'DRI' 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214975",
-          "pubDate": "2026-09-08T11:45:25.000Z",
-          "image": null,
-          "summary": "에스투더블유(S2W, 대표 서상덕)는 범죄수사에 특화된 AI 에이전트 'DRI'를 출시했다고 8일 밝혔다.DRI는 자체 안보 AI 플랫폼 '자비스'에 탑재되며, 다크웹·텔레그램·해킹 포럼 등에서 수집한 빅데이터를 지식 컨텍스트로 연계해 위협을 분석하고 수사에 필요한 인텔리전스를 제공한다. 다크웹 모니터링, 랜섬웨어 추적 등 9종의 조사 전략 중 질의 의도에 가장 적합한 방식을 자동 선택해 수사 효율성을 높인 것이 특징이다.특히 자연어 질의만으로도 다양한 분석 도구를 유기적으로 조합해 익명 계정의 활동 이력과 자금 거래 내역, 공격",
+          "summary": "AI가 신약 표적 발굴부터 분자 설계까지 주도한 폐 질환 치료제가 임상시험에서 환자의 생물학적 나이를 최대 6년 낮췄다. 이는 AI 신약 개발을 넘어, 기존 치료제가 항노화 및 수명 연장 연구에도 활용될 수 있음을 보여주는 사례라는 평가다.홍콩 AI 신약 스타트업 인실리코 메디신(Insilico Medicine)은 7일(현지시간) 학술지 '네이처 바이오테크놀로지'에 폐 질환 치료제 '렌토세르팁(rentosertib)'의 중기 임상 결과를 발표했다.하버드 의과대학, 스탠포드대학교, 브로드 연구소, RWTH 아헨대학교, 베이징대학교,",
           "keywords": [
             "AI가",
-            "알아서",
-            "다크웹",
-            "뒤진다",
-            "S2W"
+            "설계한",
+            "질환",
+            "신약",
+            "환자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "피씨엔, 강남 ‘PCN AI센터’ 개소…기술개발·사업 확대 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214993",
+          "pubDate": "2026-09-08T14:46:49.000Z",
+          "image": null,
+          "summary": "AI 플랫폼 전문 피씨엔(PCN, 대표 송광헌)이 AI 사업 확대와 관련 업무 강화를 위해 서울 강남구 논현동 본사 인근에 ‘PCN AI센터(PCN AI center)’를 개소했다고 8일 밝혔다.총 4층 규모의 PCN AI센터를 개소하고, AI 관련 인력과 업무를 한 공간에 모아 기술 개발과 프로젝트 수행, 부서 간 협업을 강화한다는 계획이다.최근 자체 AI 솔루션인 ‘오즈AI(OzAI)’를 공공·법률·재정 등 여러 분야로 확대하고 있는 만큼, 관련 사업을 빠르게 고도화하기 위해서다. 생성 AI와 검색증강생성(RAG) 기술을 탑재한",
+          "keywords": [
+            "피씨엔",
+            "강남",
+            "PCN",
+            "AI센터",
+            "개소"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "목포, 종합청렴도 평가 앞두고 반부패·청렴시책 점검",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214996",
+          "pubDate": "2026-09-08T14:46:32.000Z",
+          "image": null,
+          "summary": "AI 생성 영상목포시가 종합청렴도 평가를 앞두고 부서별 반부패·청렴시책 추진상황을 점검하고 미흡한 과제 보완에 나선다.목포는 7일 ‘2026년도 청렴시책추진단 반부패·청렴시책 이행점검회의 2차’를 열고 ‘반부패·청렴시책 추진계획’의 이행상황을 점검했다고 8일 밝혔다.회의에서는 부서별 추진 현황과 미흡·미완료 과제의 이행상황을 비롯해 반부패·청렴교육 이수율, 부패영향평가 개선권고 이행 실적 등 주요 평가 지표를 살폈다.목포는 종합청렴도 평가 전까지 미흡한 과제를 보완하고 관련 실적을 관리하도록 각 부서에 당부했다.청렴체감도 향상을 위",
+          "keywords": [
+            "목포",
+            "종합청렴도",
+            "평가",
+            "앞두고",
+            "반부패"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "순천, 황금로서 드로잉·재즈·버스킹…주말의 광장 열린다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214991",
+          "pubDate": "2026-09-08T14:46:00.000Z",
+          "image": null,
+          "summary": "AI 생성 영상순천시가 팔마문화제와 연계해 오는 12~13일 황금로 패션거리 일원에서 ‘2026 도심 해방로드, 주말의 광장’을 연다. 이틀간 중앙동 패션거리를 차 없는 거리로 운영하고, 거리예술과 공연, 지역상권 소비를 연계한 프로그램을 마련한다고 8일 밝혔다.이번 행사는 지난 8월 신대지구에 이어 열리는 세 번째 ‘주말의 광장’이다. 순천은 가을 거리 전체를 하나의 도화지로 꾸며 시민과 예술가가 함께 참여하는 야외 문화공간을 조성할 계획이다.행사장 입구에는 잔디로드와 단풍길을 설치한다. 빈 상가 유리창에서는 현장 드로잉이 진행되",
+          "keywords": [
+            "순천",
+            "황금로서",
+            "드로잉",
+            "재즈",
+            "버스킹"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:35.455Z",
+      "fetchedAt": "2026-09-08T06:13:24.121Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:35.667Z",
+      "fetchedAt": "2026-09-08T06:13:24.276Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Ask GN: 단 하나만 구독할 수 있다면 어떤걸 하시겠어요?",
+          "link": "https://news.hada.io/topic?id=33351",
+          "pubDate": "2026-09-08T04:13:54.000Z",
+          "image": null,
+          "summary": "claude, gpt 단 하나만 (플랜 무관) 구독할 수 있는 상황이라면 어떤 걸 구독하시겠어요? 개인 사이드프로젝트에 사용해보려고해요!",
+          "keywords": [
+            "Ask",
+            "GN:",
+            "하나만",
+            "구독할",
+            "있다면"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
           "link": "https://news.hada.io/topic?id=33349",
@@ -422,26 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: Claude Code에서 GPT-6 Astra를 메인 모델로 쓰기",
-          "link": "https://news.hada.io/topic?id=33344",
-          "pubDate": "2026-09-08T01:28:28.000Z",
-          "image": null,
-          "summary": "Claude Code 하나에서 OpenAI 모델과 Claude 모델을 섞어 쓰려고 만들었습니다. Anthropic API 앞단에서 자체 CA로 TLS를 종료하며 api.anthropic.com 인 척 응답합니다. ANTHROPIC_BASE_URL</code",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Claude",
-            "Code에서",
-            "GPT"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:36.514Z",
+      "fetchedAt": "2026-09-08T06:13:25.209Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +532,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:36.883Z",
+      "fetchedAt": "2026-09-08T06:13:25.396Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:37.143Z",
+      "fetchedAt": "2026-09-08T06:13:25.553Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:37.225Z",
+      "fetchedAt": "2026-09-08T06:13:25.602Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,13 +787,63 @@
         }
       ],
       "fetchedAt": "2026-09-08T04:10:40.582Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "[중국 비즈니스 트렌드&동향] AI 구독권은 쇼핑몰로, 태양광은 자동차 매장으로, 로봇주는 반토막으로",
+          "link": "https://platum.kr/archives/294033?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-ai-%25ea%25b5%25ac%25eb%258f%2585%25ea%25b6%258c%25ec%259d%2580-%25ec%2587%25bc%25ed%2595%2591%25eb%25aa%25b0%25eb%25a1%259c-%25ed%2583%259c",
+          "pubDate": "2026-09-07T23:01:00.000Z",
+          "image": null,
+          "summary": "전기차 매장에 태양광 키트, BYD의 브라질 에너지 실험 중국 대형 언어모델(LLM) 기업 즈푸AI(智谱)가 9월 2일 알리바바의 B2C 전자상거래 플랫폼 티몰(Tmall·天猫)에 공식 플래그십 스토어를 열고 ‘GLM 코딩 플랜’ 구독 상품 판매를 시작했다. 스토어에서는 개인용 라이트·프로·맥스와 기업·팀용 표준 시트를 월간, 분기, 연간 단위로 구독할 수 있다. 개인용 라이트는 월 118위안(약 2만 3,739원, 월 1만 크레딧), 프로는 월 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "Agibot",
+            "BYD",
+            "China",
+            "ESS",
+            "아지봇"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부·과기정통부, 중소 제조현장에 피지컬 AI 심는다",
+          "link": "https://platum.kr/archives/294085?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b8%25b0%25eb%25b6%2580%25c2%25b7%25ea%25b3%25bc%25ea%25b8%25b0%25ec%25a0%2595%25ed%2586%25b5%25eb%25b6%2580-%25ec%25a4%2591%25ec%2586%258c-%25ec%25a0%259c%25ec%25a1%25b0%25ed%2598%2584%25ec%259e%25a5%25ec%2597%2590-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai-%25ec%258b%25ac%25eb%258a%2594",
+          "pubDate": "2026-09-07T08:34:21.000Z",
+          "image": null,
+          "summary": "중소벤처기업부와 과학기술정보통신부가 중소 제조기업의 피지컬 AI 도입을 함께 지원하기로 했다. 두 부처는 7일 KAIST 피지컬 AI 실증랩을 찾아 기술 공급기업과 제조 현장 수요기업이 참여하는 간담회를 열고 협력 방안을 논의했다. 피지컬 AI는 AI가 주변 환경을 인식하고 스스로 판단해 실제 작업을 수행하는 기술을 가리킨다. 로봇과 설비가 공장에서 직접 움직이는 영역이다. 중소 제조기업은 전문 인력과 도입 경험, 데이터와 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "과학기술정보통신부",
+            "중소벤처기업부",
+            "피지컬 AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "웨이모 “한국에 오고 싶다”…카카오모빌리티 “도시 단위 운영이 관건”",
+          "link": "https://platum.kr/archives/294078?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259b%25a8%25ec%259d%25b4%25eb%25aa%25a8-%25ed%2595%259c%25ea%25b5%25ad%25ec%2597%2590-%25ec%2598%25a4%25ea%25b3%25a0-%25ec%258b%25b6%25eb%258b%25a4%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25aa%25a8%25eb%25b9%258c%25eb%25a6%25ac%25ed%258b%25b0-%25eb%258f%2584%25ec%258b%259c-%25eb%258b%25a8",
+          "pubDate": "2026-09-07T04:54:17.000Z",
+          "image": null,
+          "summary": "미국에서 무인 로보택시를 상용 운영하는 웨이모가 한국 법인 설립 약 한 달 반 만에 국내 시장 진출 의지를 공개적으로 밝혔다. 다만 국내 시험운행이나 서비스 개시 시점 등 구체적인 사업 계획은 내놓지 않았다. 7일 서울에서 열린 ‘2026 글로벌 모빌리티 콘퍼런스’에서 웨이모는 완전 자율주행의 안전성과 해외 확장 전략을, 카카오모빌리티는 자율주행을 도시 단위 교통 서비스로 운영하는 역량을 각각 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "글로벌 모빌리티 콘퍼런스",
+            "웨이모",
+            "카카오모빌리티"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "애니모프, AI 검색 화면에 뜬 답변과 출처 모아주는 API 내놨다",
           "link": "https://platum.kr/archives/294070?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a0%25eb%258b%2588%25eb%25aa%25a8%25ed%2594%2584-ai-%25ea%25b2%2580%25ec%2583%2589-%25ed%2599%2594%25eb%25a9%25b4%25ec%2597%2590-%25eb%259c%25ac-%25eb%258b%25b5%25eb%25b3%2580%25ea%25b3%25bc-%25ec%25b6%259c%25ec%25b2%2598-%25eb%25aa%25a8%25ec%2595%2584%25ec%25a3%25bc%25eb%258a%2594-api-%25eb%2582%25b4",
@@ -823,56 +873,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "독일 재계 800명 서울 온다, 10월 APK 2026 개최",
-          "link": "https://platum.kr/archives/294061?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258f%2585%25ec%259d%25bc-%25ec%259e%25ac%25ea%25b3%2584-800%25eb%25aa%2585-%25ec%2584%259c%25ec%259a%25b8-%25ec%2598%25a8%25eb%258b%25a4-10%25ec%259b%2594-apk-2026-%25ea%25b0%259c%25ec%25b5%259c",
-          "pubDate": "2026-09-06T23:54:58.000Z",
-          "image": null,
-          "summary": "독일과 아시아·태평양 지역의 기업과 정부 인사가 모이는 ‘제19회 아시아·태평양 독일 비즈니스 콘퍼런스(APK 2026)’가 10월 29일부터 사흘간 서울 그랜드 인터컨티넨탈 서울 파르나스에서 열린다. 참석 규모는 약 800명이다. 프리드리히 메르츠 독일 총리가 기조연설을 맡을 예정이며, 카타리나 라이헤 독일 연방경제에너지부 장관과 롤랜드 부시 지멘스 회장 겸 최고경영자가 공동의장을 맡는다. 부시 회장은 독일경제 아시아태평양위원회(APA) 위원장을 겸하고 있다. 행사는 독일 연방경제에너지부와 APA, 독일상공회의소(AHK)가 주최하고 주한독일상공회의소가 서울 현지 공동 주최기관으로 참여한다. 연사로는 최수연 네이버 대표와 함께 요헨 하네베크 인피니언 최고경영자, 크리스티안 제빙 도이치은행 최고경영자, 마르쿠스 카미에트 바스프 ... 더 읽기",
-          "keywords": [
-            "이벤트",
-            "APK",
-            "아시아·태평양 독일 비즈니스 콘퍼런스",
-            "주한독일상공회의소"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "포티투닷, 현대차 인포테인먼트에 멜론·카카오내비 들어온다",
-          "link": "https://platum.kr/archives/294060?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258f%25ac%25ed%258b%25b0%25ed%2588%25ac%25eb%258b%25b7-%25ed%2598%2584%25eb%258c%2580%25ec%25b0%25a8-%25ec%259d%25b8%25ed%258f%25ac%25ed%2585%258c%25ec%259d%25b8%25eb%25a8%25bc%25ed%258a%25b8%25ec%2597%2590-%25eb%25a9%259c%25eb%25a1%25a0%25c2%25b7%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%2582%25b4%25eb%25b9%2584",
-          "pubDate": "2026-09-06T23:50:47.000Z",
-          "image": null,
-          "summary": "포티투닷은 현대자동차그룹의 인포테인먼트 시스템 ‘플레오스 커넥트’의 앱 마켓에 앱 7종을 새로 추가했다고 7일 밝혔다. 국내에서 이용할 수 있는 앱은 모두 18종으로 늘었다. 앱 마켓은 스마트폰을 차에 연결하지 않고도 차량 화면에서 바로 앱을 내려받아 쓰는 방식이다. 차량 제조사가 기본으로 넣은 기능 외에 길 안내와 음악 감상 등 외부 서비스를 이용할 수 있다. 이번에 이름이 공개된 앱은 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "포티투닷",
-            "플레오스 커넥트",
-            "현대자동차그룹"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "벤처투자 역대 최대에도…AI 쏠림·미국행·회수 병목은 여전",
-          "link": "https://platum.kr/archives/294053?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%2596%25bc%25eb%259d%25bc%25ec%259d%25b4%25ec%2596%25b8%25ec%258a%25a4-%25ea%25b5%25ad%25ec%25a0%2595%25ea%25b0%2590%25ec%2582%25ac-%25ec%2595%259e%25eb%2591%2590%25ea%25b3%25a0-%25ec%25a0%2595%25ec%25b1%2585%25ea%25b3%25bc%25ec%25a0%259c-12%25ea%25b0%259c",
-          "pubDate": "2026-09-06T23:33:29.000Z",
-          "image": null,
-          "summary": "올해 상반기 국내 벤처투자가 역대 최대를 기록했지만 대규모 투자의 AI·딥테크 쏠림과 한국계 창업자의 미국 창업 증가, 취약한 회수시장 등 스타트업 생태계 내부의 병목은 여전하다는 진단이 나왔다. 스타트업얼라이언스는 7일 발간한 ‘2026 국정감사 정책자료집’에서 이 같은 문제를 짚고, 8대 핵심 정책과제와 4대 산업별 규제혁신 과제 등 총 12개 정책·입법 과제를 국회에 제시했다. 중소벤처기업부가 지난 8월 19일 발표한 ... 더 읽기",
-          "keywords": [
-            "트렌드",
-            "스타트업얼라이언스",
-            "정책자료집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:40.867Z",
+      "fetchedAt": "2026-09-08T06:13:41.593Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -964,7 +967,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:51.218Z",
+      "fetchedAt": "2026-09-08T06:13:51.914Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1064,13 +1067,30 @@
         }
       ],
       "fetchedAt": "2026-09-08T04:10:53.972Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
       "name": "Google News 지원사업 RSS",
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - waterjournal.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
+          "pubDate": "2026-09-07T23:38:32.000Z",
+          "image": null,
+          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 waterjournal.co.kr",
+          "keywords": [
+            "water",
+            "중소기업",
+            "ESG",
+            "경쟁력",
+            "강화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - 데일리대구경북뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ERlpZem4tNThyU0N5LS1DUVhlVkhoYm9BdjBlenhsZjd3YU4yS1QxNUtwb2FtaHQxUUZycTJQRkdZRElBYUhFZm1ld3ZTVnBVcy1DdFU4S0lZZ1N2ZDlNOWZyTXptdw?oc=5",
@@ -1106,11 +1126,11 @@
           "summaryKo": null
         },
         {
-          "title": "신혼부부 주거자금 대출이자 지원사업 2차 모집 - kwnews.co.kr",
+          "title": "신혼부부 주거자금 대출이자 지원사업 2차 모집 - 강원일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43V0Jya0w4RDFSNExWWjBNd0kzRlJmeTlQSk9uakJhdExBaWlLWmstZHNzQlE4YVBRajlVVjVjMnZWMWp0XzQxYlpLT2s5ZW1kLWJMQTA0WFZsX2M?oc=5",
           "pubDate": "2026-09-08T01:54:20.000Z",
           "image": null,
-          "summary": "신혼부부 주거자금 대출이자 지원사업 2차 모집 kwnews.co.kr",
+          "summary": "신혼부부 주거자금 대출이자 지원사업 2차 모집 강원일보",
           "keywords": [
             "신혼부부",
             "주거자금",
@@ -1138,99 +1158,82 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sUF9OUjVoN09sc0h5b25RUnhVOVFGM3hEcW03Z0NXUDFZUVdpVTVZRE5DaENValBSdnM0dkZ0cm84eDRRUEUzOGZ2cGdoRWN2Tk4xbUNuSnZuNnhaMDhNeW9wY9IBaEFVX3lxTFBSRTBZLTNqM3U5RW1feWUtNmw5MU9JWFZFSXlfeFRrUGQ0c1BMMHZoZ1Rya3pBZTBha1dhUkFpM293TUZBU2pnVVd2eUhCSWxFM21wQUNzRTlJN3JjSFBSb0dFa1laRE1G?oc=5",
-          "pubDate": "2026-09-07T08:16:23.000Z",
-          "image": null,
-          "summary": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 매일일보",
-          "keywords": [
-            "수자원공사",
-            "중소기업",
-            "ESG",
-            "경쟁력",
-            "강화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T04:10:54.445Z",
+      "fetchedAt": "2026-09-08T06:14:07.439Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "과학기술정보통신부",
+      "label": "과학기술정보통신부",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "기술사업화",
       "label": "기술사업화",
       "count": 2,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "2027년",
       "label": "2027년",
       "count": 2,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "마을",
       "label": "마을",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "마을자치지원사업",
       "label": "마을자치지원사업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
