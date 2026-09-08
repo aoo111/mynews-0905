@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T12:14:22.742Z",
+  "collectedAt": "2026-09-08T14:12:10.938Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "김영훈 노동장관 “N% 성과급 파업, 노란봉투법 새 지침대로면 불법”",
+          "link": "https://www.mk.co.kr/news/economy/12147581",
+          "pubDate": "2026-09-08T12:24:22.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/rcv.NEWS1.NEWS1.20260908.2026-09-08T123712_1008094358_POLITICS_I_R.jpg",
+          "summary": "“선이자 떼듯 요구하면 투자자 오해” 기존 삼성·SK 성과급은 소급 힘들어 메가특구 화이트칼라 면제에는 신중김영훈 고용노동부 장관이 새롭게 발표된 노란봉투법 시행지침을 적용하면 삼..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
           "link": "https://www.mk.co.kr/news/economy/12147525",
           "pubDate": "2026-09-08T11:10:52.000Z",
@@ -67,19 +80,6 @@
           "summaryKo": null
         },
         {
-          "title": "'K원전 르네상스' 막 오른다",
-          "link": "https://www.mk.co.kr/news/economy/12147423",
-          "pubDate": "2026-09-08T09:05:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110101000005_L00.jpg",
-          "summary": "정부가 2000억달러 규모로 조성하는 대미투자펀드의 60%가량이 미국 대형 원전 건설에 활용될 것이라는 전망이 나오자 원전 생태계 전체가 수혜를 입을 것이라는 기대감이 커졌다. 문..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조",
           "link": "https://www.mk.co.kr/news/economy/12147422",
           "pubDate": "2026-09-08T09:05:23.000Z",
@@ -93,11 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "막오른 4대 은행장 선임 절차… 금융사 지배구조 변화에 촉각",
-          "link": "https://www.mk.co.kr/news/economy/12147406",
-          "pubDate": "2026-09-08T09:04:07.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01160116000001_M00.jpg",
-          "summary": "KB국민·신한·하나·우리은행 등 4대 시중은행의 차기 행장 선임 절차가 본격적으로 시작됐다. 현직 행장의 연임 여부 등에 따라 4대 금융지주의 지배구조에도 큰 변화가 불가피하다는 ..",
+          "title": "'K원전 르네상스' 막 오른다",
+          "link": "https://www.mk.co.kr/news/economy/12147423",
+          "pubDate": "2026-09-08T09:05:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110101000005_L00.jpg",
+          "summary": "정부가 2000억달러 규모로 조성하는 대미투자펀드의 60%가량이 미국 대형 원전 건설에 활용될 것이라는 전망이 나오자 원전 생태계 전체가 수혜를 입을 것이라는 기대감이 커졌다. 문..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:13.182Z",
+      "fetchedAt": "2026-09-08T14:11:49.569Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:13.251Z",
+      "fetchedAt": "2026-09-08T14:11:49.739Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:14.373Z",
+      "fetchedAt": "2026-09-08T14:11:50.825Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,32 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "The Work Now Within Reach",
+          "link": "https://openai.com/index/the-work-now-within-reach",
+          "pubDate": "2026-09-08T13:00:00.000Z",
+          "image": null,
+          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "The Work Now Within Reach",
+          "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
+        },
+        {
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "pubDate": "2026-09-08T00:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI, 교실에서 뉴스룸으로 저널리즘을 지원하는 이니셔티브 확대",
+          "summaryKo": "OpenAI는 학생, 교육자, 언론인 및 뉴스 조직을 위한 도구, 교육 및 파트너십을 통해 저널리즘에 대한 지원을 확대하고 있습니다."
+        },
         {
           "title": "Supporting independent journalism in Ukraine",
           "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -320,35 +346,9 @@
           "isForeign": true,
           "titleKo": "연구 가속화: OpenAI 내부 보기",
           "summaryKo": "OpenAI 내부에서는 코딩 에이전트가 AI 연구를 재편하고 있습니다. 상담원 사용, 실험 속도, 작업 복잡성 및 연구 가속화에 대한 초기 데이터를 살펴보세요."
-        },
-        {
-          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-          "pubDate": "2026-09-03T13:15:00.000Z",
-          "image": null,
-          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-          "keywords": [
-            "Security"
-          ],
-          "isForeign": true,
-          "titleKo": "최전방 방어자를 위한 새벽: 필수 서비스 보호를 위한 $ 10억",
-          "summaryKo": "OpenAI는 최전방 방어자를 위한 새벽을 소개합니다. $ 10억의 약속으로 프론티어 사이버 AI에 대한 액세스, 교육 및 필수 서비스에 대한 지원이 확대됩니다."
-        },
-        {
-          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-          "pubDate": "2026-09-03T12:00:00.000Z",
-          "image": null,
-          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "레고라는 GPT-6 아스트라와 함께 41건의 문서를 몇 분 만에 검토했습니다.",
-          "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:14.533Z",
+      "fetchedAt": "2026-09-08T14:11:54.484Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Arm, 피지컬 AI 개발과 로봇 역량 정의 위한 생태계 협업 확대",
+          "link": "https://news.hada.io/topic?id=33364",
+          "pubDate": "2026-09-08T14:07:19.000Z",
+          "image": null,
+          "summary": "자율 시스템의 통합 복잡성을 줄이기 위해 Arm이 80개 이상 기업이 참여하는 Arm Total Design for Physical AI를 발표하고, 기술 스택 전반의 협업으로 개발을 가속함 AI 모델·소프트웨어·센서·컴퓨팅 하드웨어·가상 플랫폼·디지털 트윈을 연결해 조기 개...",
+          "keywords": [
+            "Arm",
+            "피지컬",
+            "AI",
+            "개발과",
+            "로봇"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "로스앤젤레스가 건물 하나씩 들어서며 성장하는 모습 보기(1880–2026)",
+          "link": "https://news.hada.io/topic?id=33363",
+          "pubDate": "2026-09-08T13:38:06.000Z",
+          "image": null,
+          "summary": "현재 남아 있는 LA 카운티 건물을 상자 하나씩으로 표시하고 건축 연도에 맞춰 등장시켜, 도시가 성장해 온 과정을 보여줌 철거된 건물은 포함하지 않으므로, 과거 당시의 도시 모습이 아니라 현재까지 남아 있는 건물들이 축적된 모습임 건물 표시는",
+          "keywords": [
+            "로스앤젤레스가",
+            "건물",
+            "하나씩",
+            "들어서며",
+            "성장하는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: /take-my-data - 코딩 에이전트 세션을 로컬에서 정제해 공개 데이터셋으로 기부하는 스킬",
+          "link": "https://news.hada.io/topic?id=33361",
+          "pubDate": "2026-09-08T13:03:46.000Z",
+          "image": null,
+          "summary": "코딩 에이전트(Claude Code, Codex, Pi, OpenCode) 세션 로그를 기부받아 CC0 공개 데이터셋으로 만드는 도구와 허브입니다. 한국어 에이전트 궤적(툴콜, 가져오기, 테스트 결과가 포함된 세션) 공개 데이터가 거의 없어서 시작했습니다. 동작 방식 에이전트 안에서 /take-my-data 실행 로컬에서",
+          "keywords": [
+            "Show",
+            "GN:",
+            "/take",
+            "my",
+            "data"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Show GN: stage-gen – 아트 디렉션과 참고 이미지로 만드는 2D 게임 에셋",
           "link": "https://news.hada.io/topic?id=33360",
@@ -389,57 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Mistral, 30억 유로 투자 유치",
-          "link": "https://news.hada.io/topic?id=33358",
-          "pubDate": "2026-09-08T08:33:26.000Z",
-          "image": null,
-          "summary": "설립 3년 만에 시리즈 D로 30억 유로를 조달한 Mistral의 투자 후 기업가치가 210억 유로를 넘었으며, 유럽 기술기업 사상 최대 규모의 지분 투자 유치를 기록함 Samsung Electronics가 투자를 주도하고, EQT가 운용하는 Scaleup Europe Fund와 기...",
-          "keywords": [
-            "Mistral",
-            "30억",
-            "유로",
-            "투자",
-            "유치"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
-          "link": "https://news.hada.io/topic?id=33357",
-          "pubDate": "2026-09-08T07:52:46.000Z",
-          "image": null,
-          "summary": "회사에서 팀 마다 직접 에이전트를 만들고 슬랙에 연동하다 보니 사일로가 늘어나는 게 보였습니다. Hermeum은 이 문제를 해결하기 위해서 시작한 프로젝트입니다. Hermeum은 Hermes agent에 소울(soul), 스킬, mcp, 플러그인, 크론을 자동 설정해서 팀에 맞는 에이전트를 바로 만들어 줍니다. 가장 큰",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Hermeum",
-            "팀에",
-            "필요한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Jellyfin 12.0",
-          "link": "https://news.hada.io/topic?id=33355",
-          "pubDate": "2026-09-08T07:36:25.000Z",
-          "image": null,
-          "summary": "10.11의 데이터베이스 전환을 바탕으로 라이브러리 탐색 성능을 개선하고, 에피소드 다중 버전과 서버 내장 도서·만화 지원을 추가한 새 안정 버전임 재생목록·컬렉션 항목을 개별 행으로 저장해 전체 목록을 읽거나 다시 쓰지 않고도 개수·페이지 조회와 개별 항목...",
-          "keywords": [
-            "Jellyfin",
-            "12"
-          ],
-          "isForeign": true,
-          "titleKo": "젤리핀 12.0",
-          "summaryKo": "10.11의 데이터베이스 전환을 바탕으로 라이브러리 탐색 성능을 개선하고, 에피소드 다중 버전과 서버 내장 도서·만화 지원을 추가한 새 안정 버전임 재생목록·컬렉션 항목을 개별 행으로 저장해 전체 목록을 읽거나 다시 쓰지 않고도 개수·페이지 조회와 개별 항목..."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:15.830Z",
+      "fetchedAt": "2026-09-08T14:11:55.184Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -530,7 +533,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:15.971Z",
+      "fetchedAt": "2026-09-08T14:11:55.426Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:16.102Z",
+      "fetchedAt": "2026-09-08T14:11:55.607Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:16.164Z",
+      "fetchedAt": "2026-09-08T14:11:55.679Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -694,97 +697,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "스티커 없이 포장에 고유 QR…네모인사이트, 제약 유통 보안 기술 공개",
-          "link": "https://www.venturesquare.net/1111870/",
-          "pubDate": "2026-09-08T12:00:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CHI-696x522.jpg",
-          "summary": "네모인사이트가 CPHI/Hi Korea 2026에서 포장재 직접 인쇄형 ‘PackageQR’과 카톤박스 자동 멀티스캔 기술을 선보였다. 제품별 고유 QR과 단상자·세트박스·카톤박스 간 집계 정보를 활용해 정품 인증과 입출고 이력 분석을 지원한다. 회사는 전시회에서 확인... The post 스티커 없이 포장에 고유 QR…네모인사이트, 제약 유통 보안 기술 공개 appeared first on 벤처스퀘어.",
+          "title": "코스모로보틱스, 보행재활 로봇 기술로 국무총리 표창",
+          "link": "https://www.venturesquare.net/1111931/",
+          "pubDate": "2026-09-08T12:47:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KOS-2.jpg",
+          "summary": "코스모로보틱스가 보행재활 로봇 기술 개발과 국내 로봇산업 발전에 기여한 공로로 국무총리 표창을 받았다. 회사는 성인·유소년용 하지 외골격 보행보조로봇과 영유아·유소년용 지면보행형 재활로봇을 개발하고 있다. 청소년용 웨어러블 로봇 ‘BAM-T’의 미국 FDA 및 유럽 C... The post 코스모로보틱스, 보행재활 로봇 기술로 국무총리 표창 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "CPHIKorea",
-            "NEMOIN",
-            "PackageQR"
+            "BAM-T",
+            "국무총리표창",
+            "기술개발인의날"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "공공임대 공고 찾고 청약 페이지까지…집지켜, 우리WON뱅킹에 정보 공급",
-          "link": "https://www.venturesquare.net/1111857/",
-          "pubDate": "2026-09-08T11:51:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/JIP-789x444.jpg",
-          "summary": "집지켜가 우리은행과 제휴해 우리WON뱅킹에서 LH·SH·GH 등 전국 공공임대주택 모집 정보를 제공한다. 이용자는 공급 규모와 신청 자격, 보증금, 월 임대료 등을 비교하고 관심 주택의 공식 청약 페이지로 이동할 수 있다. 서비스는 7월 23일부터 우리WON뱅킹의 ‘우... The post 공공임대 공고 찾고 청약 페이지까지…집지켜, 우리WON뱅킹에 정보 공급 appeared first on 벤처스퀘어.",
+          "title": "삼성전자가 택한 유럽 AI 주권…미스트랄, 30억 유로 시리즈 D 유치",
+          "link": "https://www.venturesquare.net/1111928/",
+          "pubDate": "2026-09-08T12:43:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MIS.jpg",
+          "summary": "미스트랄이 삼성전자가 주도한 시리즈 D 라운드에서 30억 유로를 유치하며 투자 후 기업가치 210억 유로 이상을 인정받았다. EQT의 스케일업 유럽 펀드와 PSG 에쿼티가 공동으로 라운드를 주도했으며 글로벌 전략·재무 투자자들이 대거 참여했다. 미스트랄은 투자금을 프런... The post 삼성전자가 택한 유럽 AI 주권…미스트랄, 30억 유로 시리즈 D 유치 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "GH",
-            "LH",
-            "Sh"
+            "AI투자",
+            "EQT",
+            "PSG에쿼티"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI를 보유한 다음은 무엇인가…포티투마루, ‘포스트 소버린 AI’ 제안",
-          "link": "https://www.venturesquare.net/1111843/",
-          "pubDate": "2026-09-08T11:41:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-25-789x501.png",
-          "summary": "포티투마루가 소버린 AI 역량을 기업 생산성과 산업 경쟁력으로 연결하는 ‘포스트 소버린 AI’ 국가전략을 제안했다. 김동환 대표는 AI 인프라 접근성 확대와 기업 AX 투자, 산업별 성장전략, 위험 기반 규제, AI 활용자 중심 인재정책을 5대 과제로 제시했다. AI ... The post AI를 보유한 다음은 무엇인가…포티투마루, ‘포스트 소버린 AI’ 제안 appeared first on 벤처스퀘어.",
+          "title": "시험지 없이 영어 성장 추적…리딩앤, 학습과정 분석 ‘LISA’ 첫 적용",
+          "link": "https://www.venturesquare.net/1111917/",
+          "pubDate": "2026-09-08T12:39:58.000Z",
+          "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png",
+          "summary": "아이포트폴리오 리딩앤이 별도의 영어 시험 없이 일상적인 학습 데이터를 분석하는 ‘LISA™ 성장 리포트’를 개발해 리딩앤아카데미에 적용했다. AI 로라가 독서와 말하기·쓰기 활동을 연결해 단어·문장구조·발음의 활용 변화를 분석하고 학생별 약 5쪽의 리포트를 제공한다. ... The post 시험지 없이 영어 성장 추적…리딩앤, 학습과정 분석 ‘LISA’ 첫 적용 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI정책",
-            "국가AI전략",
-            "글로벌디지털포럼"
+            "AI교육",
+            "LISA",
+            "로라"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "수소 기술의 초점은 ‘사업성’…WHE 2026, 생산부터 활용까지 집결",
-          "link": "https://www.venturesquare.net/1111836/",
-          "pubDate": "2026-09-08T11:38:44.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Outlook-jvf5ycdw-784x522.jpg",
-          "summary": "WHE 2026이 11월 4일부터 6일까지 고양시 킨텍스에서 수소 생산·저장·운송·활용 분야의 상용화 기술을 전시한다. 현대자동차그룹과 코오롱그룹을 비롯해 수전해·저장용기·연료전지·정제장치·수소센서 분야의 국내외 기업이 참가한다. 행사는 기술 전시와 함께 투자, 수요·... The post 수소 기술의 초점은 ‘사업성’…WHE 2026, 생산부터 활용까지 집결 appeared first on 벤처스퀘어.",
+          "title": "‘옮긴 뒤’의 운영·비용까지…스마일샤크, AWS 마이그레이션 전략 공유",
+          "link": "https://www.venturesquare.net/1111914/",
+          "pubDate": "2026-09-08T12:35:07.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SMILE-696x522.png",
+          "summary": "스마일샤크가 AWS와 함께 멀티클라우드 환경에서 AWS로의 전환 전략을 다룬 ‘Go All-in on AWS’ 세미나를 개최했다. 행사에서는 EC2·스토리지·데이터베이스 등 핵심 워크로드의 진단과 이전, 운영·비용관리 방법과 AWS MAP 2.0 지원 절차를 소개했다.... The post ‘옮긴 뒤’의 운영·비용까지…스마일샤크, AWS 마이그레이션 전략 공유 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "WHE2026",
-            "수소경제",
-            "수소모빌리티"
+            "AmazonBedrock",
+            "AmazonEC2",
+            "AWS"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "성장관리 데이터를 AI로…시리즈벤처스, 위드닥터스에 시드 투자",
-          "link": "https://www.venturesquare.net/1111833/",
-          "pubDate": "2026-09-08T11:33:26.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1788759421393-xnwvyxam-789x489.jpg",
-          "summary": "시리즈벤처스가 소아·청소년 성장케어 기업 위드닥터스에 시드 투자를 집행했으며 투자 금액은 공개하지 않았다. 위드닥터스는 의료·운동·영양·심리·수면을 결합한 관리 모델과 자체 CRM을 운영하고 있다. 회사는 약 7만 건의 검사 데이터를 활용해 성장 예측과 저해 요인 분석... The post 성장관리 데이터를 AI로…시리즈벤처스, 위드닥터스에 시드 투자 appeared first on 벤처스퀘어.",
+          "title": "복지·세정·예산 잇는 공공 AI…메타빌드, AX 공급 영역 확장",
+          "link": "https://www.venturesquare.net/1111906/",
+          "pubDate": "2026-09-08T12:29:30.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260908082531872_JBLKPXV0-655x522.jpg",
+          "summary": "메타빌드가 복지·세정·예산·국가지식 분야를 중심으로 공공 AX 사업 영역을 확장한다. AI 에이전트 플랫폼 LLaMON AX와 지능형 연계·통합 플랫폼 MESIM AX를 결합해 문서 분석부터 데이터·레거시 시스템 연계까지 지원한다. 복지 초기상담과 지방세 상담, 예산정... The post 복지·세정·예산 잇는 공공 AI…메타빌드, AX 공급 영역 확장 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "CRM",
-            "데이터헬스케어",
-            "성장관리"
+            "AI에이전트",
+            "LLaMONAX",
+            "MESIMAX"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:20.243Z",
+      "fetchedAt": "2026-09-08T14:12:04.026Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -873,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:20.523Z",
+      "fetchedAt": "2026-09-08T14:12:04.260Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -881,6 +884,39 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+          "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+          "pubDate": "2026-09-08T14:10:17.000Z",
+          "image": null,
+          "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "nuclear energy"
+          ],
+          "isForeign": true,
+          "titleKo": "원자력 스타트업 블루코어 에너지, 출시 2개월 만에 $ 50M 시드 라운드 모금",
+          "summaryKo": "Bluecore Energy는 화요일에 1,000만 달러의 사전 종자를 모으고 스텔스에서 나온 지 불과 몇 달 만에 5,000만 달러가 넘는 종자 라운드를 과다 구독했다고 발표했습니다."
+        },
+        {
+          "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+          "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+          "pubDate": "2026-09-08T13:00:00.000Z",
+          "image": null,
+          "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+          "keywords": [
+            "Startups",
+            "Transportation",
+            "Fundraising",
+            "Exclusive",
+            "poseidon",
+            "airborne cargo"
+          ],
+          "isForeign": true,
+          "titleKo": "Poseidon Aerospace, 첫 조종사 없는 시험 비행보다 $ 60M 앞서 착륙",
+          "summaryKo": "이 스타트업은 조종사를 방정식에서 완전히 제거하여 화물 항공기의 경제성을 재고하려고 노력하고 있습니다."
+        },
         {
           "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
           "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -931,41 +967,9 @@
           "isForeign": true,
           "titleKo": "Krafton은 게임을 넘어선 또 다른 $ 250M 베팅으로 인도를 두 배로 늘립니다",
           "summaryKo": "Krafton의 인도에 대한 계획 투자는 최신 약속을 통해 $ 500 백만을 능가 할 것입니다."
-        },
-        {
-          "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-          "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-          "pubDate": "2026-09-04T14:00:00.000Z",
-          "image": null,
-          "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-          "keywords": [
-            "Startups",
-            "Fintech",
-            "Biotech & Health",
-            "Venture",
-            "Media & Entertainment",
-            "AI"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 사이드 이벤트 신청까지 24시간이 채 남지 않았습니다.",
-          "summaryKo": "TechCrunch Disrupt 2026 기간 동안 사이드 이벤트를 개최하고 실리콘 밸리 현장에 이름을 알릴 수 있는 기간이 24시간 미만 남았습니다. 오늘 밤 자정 (태평양 표준시 기준) 에 신청이 마감되기 전에 신청하세요."
-        },
-        {
-          "title": "Startup ARR is less secure than ever, new research shows",
-          "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-          "pubDate": "2026-09-03T20:59:23.000Z",
-          "image": null,
-          "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-          "keywords": [
-            "Enterprise",
-            "Startups"
-          ],
-          "isForeign": true,
-          "titleKo": "새로운 연구에 따르면 스타트업 ARR은 그 어느 때보다 안전하지 않습니다.",
-          "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:20.559Z",
+      "fetchedAt": "2026-09-08T14:12:08.049Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,6 +977,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "변리사에게 맡긴 특허 전략, 소송서 지킬 수 있나…국회서 기술보호 공백 논의",
+          "link": "https://www.venturesquare.net/1111968/",
+          "pubDate": "2026-09-08T13:08:31.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/8HHG-789x399.jpg",
+          "summary": "이노비즈협회와 한국지식재산협회, 김종민 의원이 중소·벤처기업의 첨단기술 보호를 논의하는 국회 간담회를 개최했다. 참석자들은 변리사와 기업이 주고받은 특허·기술 자문을 소송 과정에서 보호할 수 있도록 변리사 비밀유지권을 제도화해야 한다고 제안했다. 국회 산자위를 통과한 ... The post 변리사에게 맡긴 특허 전략, 소송서 지킬 수 있나…국회서 기술보호 공백 논의 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "기술보호",
+            "김종민의원",
+            "변리사법",
+            "변리사비밀유지권",
+            "의뢰인비밀보호제도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "아이디어를 검증 가능한 사업으로…경남혁신센터, ‘GIFT BM PLUS’ 운영",
+          "link": "https://www.venturesquare.net/1111942/",
+          "pubDate": "2026-09-08T12:53:33.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KN-696x522.png",
+          "summary": "경남창조경제혁신센터가 지역 예비창업자의 사업모델을 고도화하는 ‘GIFT BM PLUS’를 운영했다. 예비창업패키지 선정자와 업스테이지 참여기업 등 10개사는 사전·심화 멘토링과 사업계획 발표평가를 통해 시장성과 사업성을 점검했다. 센터는 마케팅 교육과 창업지원 서비스 ... The post 아이디어를 검증 가능한 사업으로…경남혁신센터, ‘GIFT BM PLUS’ 운영 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "GIFTBMPLUS",
+            "경남스타트업",
+            "경남창조경제혁신센터",
+            "사업모델",
+            "사업화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "3D프린팅 인프라와 창업기업 잇는다…인천창경·재능대, 적층제조 생태계 협력",
+          "link": "https://www.venturesquare.net/1111884/",
+          "pubDate": "2026-09-08T12:12:34.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260907-783x522.jpg",
+          "summary": "인천창조경제혁신센터와 재능대학교가 지역 적층제조 기술 생태계 조성을 위한 업무협약을 체결했다. 양 기관은 재능대학교 K-하이테크 플랫폼의 3D프린팅 설계·장비 인프라와 인천창경의 기업 발굴 네트워크를 연결한다. 지역 제조기업의 시제품 제작과 기술 실증, 재직자 훈련을 ... The post 3D프린팅 인프라와 창업기업 잇는다…인천창경·재능대, 적층제조 생태계 협력 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "3D프린팅",
+            "K하이테크플랫폼",
+            "기술실증",
+            "디지털전환",
+            "시제품제작"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "파리 선배 창업가와 다음 주자 연결…창업진흥원, ‘K-Founders Connect’ 개최",
           "link": "https://www.venturesquare.net/1111850/",
@@ -1008,63 +1066,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[리포트+] K-의약품 수출 10년간 늘었지만…‘더 비싸게’ 팔지는 못했다",
-          "link": "https://www.venturesquare.net/1111761/",
-          "pubDate": "2026-09-08T09:12:00.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/2026-09-08-180324-789x255.png",
-          "summary": "한국 의약품 수출은 최근 10년간 연평균 2.7% 증가해 2025년 8억8000만달러를 기록했지만 성장의 대부분은 가격 상승이나 제품 다변화보다 기존 제품의 물량 확대에서 나왔다. 범용치료제와 중소득시장 비중이 커진 반면 고소득시장 비중은 낮아져 향후 기술집약 제품과 ... The post [리포트+] K-의약품 수출 10년간 늘었지만…‘더 비싸게’ 팔지는 못했다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "K소비재",
-            "K의약품",
-            "수출경쟁력",
-            "의약품수출",
-            "제약바이오"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "제주서 100명 모인 ‘모두의 창업’…2차 프로젝트 1만 명 선발",
-          "link": "https://www.venturesquare.net/1111700/",
-          "pubDate": "2026-09-08T05:19:32.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/0904-2-789x351.jpg",
-          "summary": "제주창조경제혁신센터가 대학생과 예비창업자 100여 명이 참여한 ‘2차 모두의 창업 프로젝트’ 제주권 통합 사업설명회를 개최했다. 2차 프로젝트는 일반·기술 8000명과 로컬 2000명 등 총 1만 명을 선발하며 제주에서는 5개 멘토기관이 참여한다. 신청은 9월 17일 ... The post 제주서 100명 모인 ‘모두의 창업’…2차 프로젝트 1만 명 선발 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "기술창업",
-            "로컬창업",
-            "멘토링",
-            "모두의창업",
-            "예비창업자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI 코딩이 센서·모터로…‘토이톤’, 5시간 만에 실물 41개 구현",
-          "link": "https://www.venturesquare.net/1111537/",
-          "pubDate": "2026-09-07T13:25:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/toy-729x522.png",
-          "summary": "서울 AI 허브에서 열린 피지컬 AI 해커톤 ‘토이톤’에 107명, 42개 팀이 참가해 5시간 동안 41개의 작동 가능한 실물을 완성했다. 참가자의 37%는 하드웨어를 처음 다뤘으며 거북목 감지 웨어러블과 산업안전 스마트 헬멧 등 생활·산업 문제를 해결하는 결과물을 선... The post AI 코딩이 센서·모터로…‘토이톤’, 5시간 만에 실물 41개 구현 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI해커톤",
-            "NuCode",
-            "OpenAI",
-            "TeamHuman",
-            "바이브코딩"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:22.243Z",
+      "fetchedAt": "2026-09-08T14:12:10.482Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1073,11 +1077,28 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "경상원, ‘1인 소상공인 고용보험료 지원사업’ 모집 - popcornnews.net",
+          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
+          "pubDate": "2026-09-07T23:38:32.000Z",
+          "image": null,
+          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
+          "keywords": [
+            "water",
+            "중소기업",
+            "ESG",
+            "경쟁력",
+            "강화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경상원, ‘1인 소상공인 고용보험료 지원사업’ 모집 - 팝콘뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LYXh2Y25KSVpXRHZZbmNnVlpRNEJ1NjFfVnJHbGNZSHlRWVJNR3hqSHBvMVgtRHp6VE1SU2lrbFhRcXdBQzN6NlBObVAtMnNHZnVpS0xMNVRNRGNjZG5zdW1LOVlNdDVCelhVS2F6Y9IBckFVX3lxTE9IUWFhMEdNY3ZMMmhoTXI4SWNyeVNGNUV5NXo1N0h4Umw5VTRab1V3M3dmdmdCdmpVN2tCRXZfblhRbzBuQ29Yam1KSUUzTmQ5aGZYMTBlYTZPQzZXeWlramYtQkl0RDhqaF9hWUJNX1RRQQ?oc=5",
           "pubDate": "2026-09-08T09:34:26.000Z",
           "image": null,
-          "summary": "경상원, ‘1인 소상공인 고용보험료 지원사업’ 모집 popcornnews.net",
+          "summary": "경상원, ‘1인 소상공인 고용보험료 지원사업’ 모집 팝콘뉴스",
           "keywords": [
             "경상원",
             "1인",
@@ -1107,23 +1128,6 @@
           "summaryKo": null
         },
         {
-          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
-          "pubDate": "2026-09-07T23:38:32.000Z",
-          "image": null,
-          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
-          "keywords": [
-            "water",
-            "중소기업",
-            "ESG",
-            "경쟁력",
-            "강화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - 대한경제",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zY1A2c1BZVl9FTzMzV3hmYktpOFFnTWtpdmRFZ29CdUJEeDF6Zk05aEpPNkZBSTBMOFNQTGgybW81a3Jrb1Q4d1ZiUmFEeGdJZXRHYVQ1TmhaM0Y3alcxV0gwUXpnYVRYTlFpTjJpMENHbjBH?oc=5",
           "pubDate": "2026-09-08T09:05:51.000Z",
@@ -1141,24 +1145,24 @@
           "summaryKo": null
         },
         {
-          "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMdIBYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMQ?oc=5",
-          "pubDate": "2026-09-08T00:04:23.000Z",
+          "title": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Nm5rLWxpbkFVSGU1dHhpZHBKbzdwZHBaTVNxZmhocHNlWVVuN2ZtM09mQXVjeXI4ZGlmdWNsR3dzVEJYS2VOaE55WDU4QXlWenVVRXJmbzJma1U?oc=5",
+          "pubDate": "2026-09-08T07:11:16.000Z",
           "image": null,
-          "summary": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 연합뉴스",
+          "summary": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 경기일보",
           "keywords": [
-            "군산시",
-            "난임",
-            "한방",
-            "지원사업",
-            "참여자"
+            "경상원",
+            "1인",
+            "소상공인",
+            "고용보험료",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T12:14:22.731Z",
+      "fetchedAt": "2026-09-08T14:12:10.929Z",
       "error": null
     }
   },
@@ -1168,67 +1172,67 @@
       "label": "뉴스 모음",
       "count": 6,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 6,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 6,
       "rank": 3,
+      "change": "same"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 4,
       "change": "up"
+    },
+    {
+      "key": "로봇",
+      "label": "로봇",
+      "count": 2,
+      "rank": 5,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 7,
-      "change": "same"
-    },
-    {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 2,
       "rank": 8,
-      "change": "same"
+      "change": "down"
     },
     {
-      "key": "show",
-      "label": "Show",
+      "key": "1인",
+      "label": "1인",
       "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "군산시",
-      "label": "군산시",
+      "key": "gn:",
+      "label": "GN:",
       "count": 2,
       "rank": 10,
       "change": "down"
@@ -1276,44 +1280,44 @@
       "labelKo": "다음을 따르세요"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "시행 조치"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "추천 동영상"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "뉴스"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 10,
+      "change": "down",
+      "labelKo": "AI"
     }
   ]
 }
