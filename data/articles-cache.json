@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-07T22:10:37.145Z",
+  "collectedAt": "2026-09-08T00:17:19.189Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
+          "link": "https://www.mk.co.kr/news/economy/12146625",
+          "pubDate": "2026-09-07T23:24:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260908.38da24ce9efd45feb5c25e340a838368_R.png",
+          "summary": "수출과 민간소비 증가 효과 반도체·기계·장비 ‘수출 효자’ 민간소비 등 내수에서도 회복세 국민총소득, 전분기比 3.1% 증가올해 2분기 한국 경제는 수출과 민간소비 증가에 힘입어 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“이번달도 월급이 통장을 스치운다”…금리 1%P 오르면 연체율 무려",
           "link": "https://www.mk.co.kr/news/economy/12146587",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "원화값 두 달새 200원 치솟자 … 국민연금 환헤지 중단",
-          "link": "https://www.mk.co.kr/news/economy/12146455",
-          "pubDate": "2026-09-07T09:01:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/20260908_01160102000001_L00.jpg",
-          "summary": "달러당 원화값이 23개월 만에 1330원대까지 오르며 가파른 상승세를 이어가고 있다. 한때는 지나친 원화 약세를 우려했지만 불과 두 달 만에 상황이 뒤집힌 것이다. 일각에서는 단기..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:18.385Z",
+      "fetchedAt": "2026-09-08T00:16:52.857Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:18.508Z",
+      "fetchedAt": "2026-09-08T00:16:52.983Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214966",
+          "pubDate": "2026-09-08T09:00:00.000Z",
+          "image": null,
+          "summary": "삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 엔터프라이즈 AX 컨퍼런스 '리얼 서밋(REAL Summit) 2026'을 개최하고, '다차원(Multi-Dimensional) AI 풀스택' 전략을 기반으로 AI 도입과 실제 비즈니스 성과 창출 사이의 간극을 줄일 수 있는 구체적인 실행 전략과 로드맵을 제시했다.이날 행사에는 현장 참석자 8000여명과 온라인 참여자를 포함해 총 1만5000여명의 업계 관계자들이 한자리에 모여 뜨거운 관심을 입증했다.이준희 대표는 기조연설에서 \"AX는 단순히 AI를 도입해서 시간과 비용을",
+          "keywords": [
+            "삼성SDS",
+            "다차원",
+            "AI",
+            "풀스택",
+            "공개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214925",
+          "pubDate": "2026-09-08T07:00:00.000Z",
+          "image": null,
+          "summary": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model Fatigue)’이라고 표현했습니다.런포드(Runpod)의 젠 루 CEO는 “모델 피로감은 실제로 존재한다고 느낀다”고 말했습니다. 새로운 모델이 계속 등장하면서 기업들이 성능과 가",
+          "keywords": [
+            "9월7일",
+            "일주일에",
+            "4개나",
+            "출시",
+            "커지는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
-          "pubDate": "2026-09-07T18:05:18.000Z",
-          "image": null,
-          "summary": "AI가 사용자의 요구에 맞춰 글을 작성하는 것을 넘어, 사용자가 평소 쓰는 말투와 표현 방식까지 학습해 '나만의 문체'로 글을 만들어주는 방향으로 진화하고 있다. AI가 작성한 티가 나는 문제를 줄여줄 것으로 보인다.5일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 사용자의 고유한 글쓰기 습관을 학습해 개인의 어조와 문체를 그대로 반영한 글을 작성하는 새로운 '글쓰기 스타일(Writing Style)' 기능을 챗GPT에서 테스트하고 있는 것으로 알려졌다.이메일이나 문서, 메시지 등 사용자가 실제로 작성한 텍스트를 참고해 챗GPT가",
-          "keywords": [
-            "챗GPT",
-            "개인",
-            "문체",
-            "학습",
-            "기능"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
-          "pubDate": "2026-09-07T17:59:13.000Z",
-          "image": null,
-          "summary": "미국 캘리포니아주에서 등산객 3명이 구글의 '제미나이' 등을 이용해 산행 계획을 세웠다가 정상에 오르는 데 예상보다 훨씬 긴 시간이 걸리고 하산 중 길을 잃으면서 고립되는 사고가 발생했다. 이들은 충분한 식량과 물, 장비를 준비하지 않은 채 산행을 강행했고, 결국 이튿날 산림청 레인저와 자원봉사 구조대에 의해 구조됐다.5일(현지시간) 비즈니스인사이더에 따르면, 사고는 캘리포니아주 북부 캐스케이드산맥에 위치한 해발 1만4179피트(약 4322m)의 샤스타산에서 발생했다.20세 남성 3명으로 구성된 일행은 샤스타산의 클리어 크릭 루트",
-          "keywords": [
-            "제미나이",
-            "믿고",
-            "산에",
-            "올랐다가",
-            "고립"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:19.507Z",
+      "fetchedAt": "2026-09-08T00:16:54.177Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:19.687Z",
+      "fetchedAt": "2026-09-08T00:16:54.330Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,55 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "가장 짧은 IPv6 주소",
+          "link": "https://news.hada.io/topic?id=33335",
+          "pubDate": "2026-09-08T00:10:51.000Z",
+          "image": null,
+          "summary": "1.1.1.1과 보조 주소 1.0.0.1처럼 짧게 쓸 수 있는 IPv6 주소를 찾기 위해, 첫 번째 16비트 그룹만 0이 아닌 X:: 형태의 주소에 ping을 보냄 :: 축약 표기로 연속된 0을 생략할 수 있어, 전역 유니캐스트 블록...",
+          "keywords": [
+            "가장",
+            "짧은",
+            "IPv6",
+            "주소"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "타임스탬프를 시·분·초로 변환하는 더 빠른 방법",
+          "link": "https://news.hada.io/topic?id=33334",
+          "pubDate": "2026-09-08T00:07:51.000Z",
+          "image": null,
+          "summary": "날짜를 분리한 뒤 남은 하루 내 초 단위 값 [0..86399] 은 계산 순서만 바꿔도 시·분·초 변환의 긴 의존성 체인을 줄일 수 있음 V1은 전체 분과 시간을 독립적으로 구한 뒤 초와 분을 병렬로 계산해, 복잡한 비트 기법 없이 근사 지연시간을 기존 16사...",
+          "keywords": [
+            "타임스탬프를",
+            "초로",
+            "변환하는",
+            "빠른",
+            "방법"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "빌 게이츠의 MovieMaker 설치 시도(2003)",
+          "link": "https://news.hada.io/topic?id=33333",
+          "pubDate": "2026-09-07T22:34:11.000Z",
+          "image": null,
+          "summary": "빌 게이츠는 MovieMaker 다운로드와 Digital Plus 패키지 구매에 한 시간 넘게 매달렸지만 둘 다 이용하지 못했고, Windows 사용성과 프로그램 관리 조직의 대응을 강하게 비판함 Microsoft.com의 느린 검색과 혼란스러운 다운로드 목록에 이어 Windows Update의 검사·업데...",
+          "keywords": [
+            "게이츠의",
+            "MovieMaker",
+            "설치",
+            "시도(2003)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "2억 1,600만 대의 감시 TV — LG 스마트 TV의 문제 [영상]",
           "link": "https://news.hada.io/topic?id=33332",
@@ -389,58 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "1024바이트로 Python 인터프리터 만들기",
-          "link": "https://news.hada.io/topic?id=33329",
-          "pubDate": "2026-09-07T19:33:33.000Z",
-          "image": null,
-          "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
-          "keywords": [
-            "1024바이트로",
-            "Python",
-            "인터프리터",
-            "만들기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "스위스 연방정부, 컴퓨터 3,000대에서 Microsoft를 대체한다",
-          "link": "https://news.hada.io/topic?id=33328",
-          "pubDate": "2026-09-07T18:33:12.000Z",
-          "image": null,
-          "summary": "스위스 연방정부가 전체 인력의 약 7%인 3,000명을 대상으로 Microsoft 365를 오픈소스 대안으로 전환하는 파일럿을 시작했으며, 2027년 말 완료를 목표로 함 직원 172명이 참여한 openDesk 개념검증에서 문서 처리와 이메일은 긍정적인 평가를 받...",
-          "keywords": [
-            "스위스",
-            "연방정부",
-            "컴퓨터",
-            "000대에서",
-            "Microsoft를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "브레인롯에서 벗어나기 위한 휴가",
-          "link": "https://news.hada.io/topic?id=33327",
-          "pubDate": "2026-09-07T16:33:54.000Z",
-          "image": null,
-          "summary": "소프트웨어 엔지니어로서 업무에 익숙해지고 AI로 생산성도 높아졌지만 사고는 느리고 얕아졌다고 느껴, 2주간의 휴가를 독서와 새로운 학습에 사용함 숏폼·게임·만화·TV 프로그램으로 지루할 틈이 없어지고 취침 전 둠스크롤링에 독서가 밀려나자, 지난 1년간 손...",
-          "keywords": [
-            "브레인롯에서",
-            "벗어나기",
-            "위한",
-            "휴가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:20.450Z",
+      "fetchedAt": "2026-09-08T00:16:55.250Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -531,7 +531,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:20.729Z",
+      "fetchedAt": "2026-09-08T00:16:55.637Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:20.961Z",
+      "fetchedAt": "2026-09-08T00:16:55.865Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:21.014Z",
+      "fetchedAt": "2026-09-08T00:16:55.922Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -694,6 +694,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "AI가 공격하고 AI가 막는다…AIM Intelligence, ‘에이전트 보안’ 시대를 말하다",
+          "link": "https://www.venturesquare.net/1111588/",
+          "pubDate": "2026-09-07T23:00:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/IMG_1391-696x522.jpg",
+          "summary": "AI가 질문에 답하는 도구를 넘어 기업 시스템에 접근해 직접 행동하는 에이전트로 진화하면서 보안의 기준도 달라지고 있다. ‘AI RISK Conference Seoul 2026’에서는 프롬프트 인젝션과 금융권 AI 리스크부터 권한 통제, 피지컬 AI 안전, AI를 활용... The post AI가 공격하고 AI가 막는다…AIM Intelligence, ‘에이전트 보안’ 시대를 말하다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "스타트업 트렌드",
+            "AIM인텔리전스",
+            "AI리스크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "흩어진 제조 데이터를 AI 지식으로…스카이월드와이드, ‘온토비아’로 AX 시장 진입",
+          "link": "https://www.venturesquare.net/1111545/",
+          "pubDate": "2026-09-07T13:31:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ax-6-773x522.jpg",
+          "summary": "스카이월드와이드가 자체 데이터베이스와 그래프 기술을 적용한 산업 지식 플랫폼 ‘온토비아’로 제조업 AX 시장 공략에 나선다. 온토비아는 분산된 설계·시험·공정 데이터를 온톨로지와 지식그래프로 구조화해 생성형 AI와 AI 에이전트가 기업의 업무 맥락과 기술 경험을 활용하... The post 흩어진 제조 데이터를 AI 지식으로…스카이월드와이드, ‘온토비아’로 AX 시장 진입 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI에이전트",
+            "SKAI",
+            "그래프데이터베이스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "관리비 자동화 넘어 주거 AI로…한국주택정보, MS ‘마중’서 2억원 지원",
           "link": "https://www.venturesquare.net/1111533/",
@@ -747,45 +783,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "게임 넘어 AI·로보틱스까지…크래프톤, 모디 총리와 인도 투자 청사진 공유",
-          "link": "https://www.venturesquare.net/1111506/",
-          "pubDate": "2026-09-07T12:56:19.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CRA-716x522.jpg",
-          "summary": "장병규 크래프톤 의장이 나렌드라 모디 인도 총리와 만나 인도 게임·기술·디지털 엔터테인먼트 생태계의 성장과 협력 방안을 논의했다. 크래프톤은 기존 2억5000만달러에 이어 향후 3~4년간 같은 규모를 추가로 투자하고, 네이버·미래에셋과 조성한 6억7000만달러 규모 펀... The post 게임 넘어 AI·로보틱스까지…크래프톤, 모디 총리와 인도 투자 청사진 공유 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "KIGI아카데미",
-            "게임스타트업",
-            "나렌드라모디"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "CCTV부터 출입통제까지 한 화면에…버카다, 현대차 사옥서 AI 물리보안 시연",
-          "link": "https://www.venturesquare.net/1111495/",
-          "pubDate": "2026-09-07T12:50:03.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/hy-696x522.jpg",
-          "summary": "버카다가 현대자동차의 임직원 대상 보안 캠페인에 초청돼 강남·양재 사옥에서 클라우드 기반 물리 보안 솔루션을 시연한다. 행사에서는 통합 관리 플랫폼 Verkada Command와 돔 카메라 CD63-E를 활용한 자연어 영상 검색, 통합 타임라인, 인원 점유율 분석 기능... The post CCTV부터 출입통제까지 한 화면에…버카다, 현대차 사옥서 AI 물리보안 시연 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI보안",
-            "VerkadaCommand",
-            "물리보안"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:23.696Z",
+      "fetchedAt": "2026-09-08T00:17:04.942Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -871,7 +871,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:23.965Z",
+      "fetchedAt": "2026-09-08T00:17:05.211Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -963,7 +963,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:34.240Z",
+      "fetchedAt": "2026-09-08T00:17:15.482Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1062,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:36.598Z",
+      "fetchedAt": "2026-09-08T00:17:18.559Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1122,23 +1122,6 @@
           "summaryKo": null
         },
         {
-          "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
-          "pubDate": "2026-09-07T01:29:30.000Z",
-          "image": null,
-          "summary": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 유교신문",
-          "keywords": [
-            "한국수자원공사",
-            "중소기업",
-            "ESG",
-            "지원사업",
-            "참여기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XVGg2dl9DUnNpS0RMYnVyR2hlNGtPWFFTZjhmN1NRQ1JIWEZQVy1IMTh1T2xvTElaZ09lTVRZN3FleXNPSW1HYVpDQ0dua0E?oc=5",
           "pubDate": "2026-09-07T07:54:21.000Z",
@@ -1154,79 +1137,96 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1FpU0FGeTlObjRrR0YwUmRTRXhXeXhPcmpqQTM0ZjNvZkxyOFNFYVNjLVVyNWFJcGxKeHNFblhJSkJfXy0taG1hQ2V3Zm12TGx3OHlxcjNsRHpTRU93QVVvelpWUy1PU1hGeFRfSFEwdFp5Q2p2cjduOGVoY3lVSDdkVjR4VktKMTdVSl9rdFZacTNqSVE?oc=5",
+          "pubDate": "2026-09-06T22:27:22.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "gg"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-07T22:10:37.136Z",
+      "fetchedAt": "2026-09-08T00:17:19.183Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "esg",
-      "label": "ESG",
+      "key": "경제",
+      "label": "경제",
       "count": 5,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 5,
-      "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 3,
-      "change": "same"
-    },
-    {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 4,
+      "change": "up"
+    },
+    {
+      "key": "esg",
+      "label": "ESG",
+      "count": 4,
+      "rank": 5,
+      "change": "down"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
       "rank": 6,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "중소기업",
       "label": "중소기업",
-      "count": 5,
+      "count": 4,
       "rank": 7,
+      "change": "same"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 3,
+      "rank": 8,
       "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
-      "rank": 8,
-      "change": "up"
+      "count": 3,
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "참여기업",
       "label": "참여기업",
-      "count": 4,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
       "count": 3,
       "rank": 10,
       "change": "down"
