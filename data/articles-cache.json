@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T02:11:05.602Z",
+  "collectedAt": "2026-09-08T04:10:54.453Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:42.929Z",
+      "fetchedAt": "2026-09-08T04:10:34.327Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:42.975Z",
+      "fetchedAt": "2026-09-08T04:10:34.483Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214966",
-          "pubDate": "2026-09-08T09:00:00.000Z",
+          "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214976",
+          "pubDate": "2026-09-08T12:50:05.000Z",
           "image": null,
-          "summary": "삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 엔터프라이즈 AX 컨퍼런스 '리얼 서밋(REAL Summit) 2026'을 개최하고, '다차원(Multi-Dimensional) AI 풀스택' 전략을 기반으로 AI 도입과 실제 비즈니스 성과 창출 사이의 간극을 줄일 수 있는 구체적인 실행 전략과 로드맵을 제시했다.이날 행사에는 현장 참석자 8000여명과 온라인 참여자를 포함해 총 1만5000여명의 업계 관계자들이 한자리에 모여 뜨거운 관심을 입증했다.이준희 대표는 기조연설에서 \"AX는 단순히 AI를 도입해서 시간과 비용을",
+          "summary": "오픈AI가 오는 29일(현지시간) 미국 샌프란시스코에서 열리는 개발자 행사 '데브데이'에서 인프라 구축 없이 에이전트를 운영할 수 있는 '관리형 에이전트(Managed Agents)' 서비스를 공개할 것이라는 관측이 나왔다. 7일 테스팅카탈로그에 따르면, 오픈AI는 개발자가 플랫폼 내에서 에이전트, 실행 환경, 세션을 직접 생성하고 관리하는 기능을 준비 중인 것으로 포착됐다. 최근 AI 에이전트가 실제 업무를 수행하는 단계로 진화함에 따라, 주요 AI·클라우드 기업들이 보안과 메모리, 서버 실행 환경을 통합해 제공하는 관리형 에이전",
           "keywords": [
-            "삼성SDS",
-            "다차원",
-            "AI",
-            "풀스택",
-            "공개"
+            "오픈AI",
+            "29일",
+            "데브데이서",
+            "인프라",
+            "구축"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214925",
-          "pubDate": "2026-09-08T07:00:00.000Z",
+          "title": "젠슨 황 \"AGI 시대 도래했다\"...오픈AI '아스트라'에 축하 메시지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214974",
+          "pubDate": "2026-09-08T12:32:57.000Z",
           "image": null,
-          "summary": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model Fatigue)’이라고 표현했습니다.런포드(Runpod)의 젠 루 CEO는 “모델 피로감은 실제로 존재한다고 느낀다”고 말했습니다. 새로운 모델이 계속 등장하면서 기업들이 성능과 가",
+          "summary": "젠슨 황 엔비디아 CEO가 오픈AI의 'GPT-6 아스트라' 출시를 축하하며 \"AGI가 도래했다\"고 선언했다. 황 CEO는 6일(현지시간) X를 통해 \"챗GPT에서 o1, 아스트라까지 4년 만에 AGI가 도래했다. 오픈AI 팀에 축하한다\"고 밝혔다.특히 아스트라가 엔비디아의 그레이스 블랙웰(Grace Blackwell) 기반' NV링크72' 시스템에서 10만장 규모의 GPU 인프라를 활용해 훈련됐다는 점을 강조했다. 앞으로 40만개의 GPU를 추가로 가동할 예정이라고 덧붙였다.오픈AI는 아스트라를 가장 지능적이고 정렬된 모델로 소개",
           "keywords": [
-            "9월7일",
-            "일주일에",
-            "4개나",
-            "출시",
-            "커지는"
+            "젠슨",
+            "AGI",
+            "시대",
+            "도래했다",
+            "오픈AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
-          "pubDate": "2026-09-07T19:20:00.000Z",
+          "title": "\"로봇이 단열재 시공도 척척\"...빅웨이브, 주택 현장에 휴머노이드 투입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214980",
+          "pubDate": "2026-09-08T12:18:42.000Z",
           "image": null,
-          "summary": "에임인텔리전스가 AI 에이전트와 피지컬 AI 시대로의 전환에 맞춰 통제 불능 리스크를 방지하기 위한 지속적·실시간 보안 레이어 구축의 필요성을 강조했다.박하언 에임인텔리전스 최고 기술책임자(CTO)는 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 'AI 통제의 최전선: 모델에서 에이전트, 피지컬 AI까지'를 주제로 발표를 진행했다.박 CTO는 클라우드시큐리티얼라이언스(CSA) 통계자료를 인용해 \"기업의 82%가량이 자체적으로 파악하지 못한 그림자 AI 에이전트를 보유 중이며, 절반 이상은 AI 에이전트가 권",
+          "summary": "빅웨이브로보틱스(대표 김민교)는 공간제작소와 협력해 모듈러 주택 생산과 시공 현장에 휴머노이드 로봇을 단계적으로 적용한다고 8일 밝혔다.공간제작소는 목조 모듈러 주택 전문 기업으로 주택 상당 부분을 공장에서 사전 제작하는 공법과 로봇 자동화 라인을 갖추고 있다. 양사는 해당 자동화 라인에 휴머노이드를 추가 배치해 공정 효율을 높인다는 계획이다.우선 적용 분야는 단열재 시공이다. 작업자의 호흡기와 피부에 해로운 자재를 다루는 공정으로, 모양이 불규칙한 '비정형 대상물' 특성상 기존 레거시 로봇 투입에 한계가 있었던 문제를 해결한다는",
           "keywords": [
-            "에임인텔리전스",
-            "AGI급",
-            "아스트라",
-            "보안",
-            "공백"
+            "로봇이",
+            "단열재",
+            "시공도",
+            "척척",
+            "빅웨이브"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
-          "pubDate": "2026-09-07T18:13:18.000Z",
+          "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 공동 1위로 상승",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214973",
+          "pubDate": "2026-09-08T11:58:15.000Z",
           "image": null,
-          "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+          "summary": "AI 모델의 성능을 평가하는 대표적인 지표 중 하나인 아티피셜 애널리시스의 '지능 지수(AAII)'가 실제 업무 환경을 반영하는 장기 에이전트 작업 중심으로 개편됐다. 새로운 평가 방식이 적용되면서 기존 평가에서 5위에 머물렀던 'GPT-6 아스트라'의 순위가 크게 상승해 '클로드 페이블 5.1'과 공동 1위에 올랐다.아티피셜 애널리시스는 6일(현지시간) 기존 벤치마크에서 나타난 단순한 편법이나 특정 데이터에 대한 편향, 최고 성능 모델 간 점수 포화 문제를 줄이고 실제 업무와 유사한 장기 에이전트 작업 수행 능력을 정밀하게 측정하",
           "keywords": [
-            "9월7일",
-            "순천",
-            "AI",
-            "영상",
-            "뉴스"
+            "아티피셜",
+            "애널리시스",
+            "평가",
+            "체제",
+            "개편"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
-          "pubDate": "2026-09-07T18:12:43.000Z",
+          "title": "\"AI가 알아서 다크웹 뒤진다\"...S2W, 범죄수사 특화 에이전트 'DRI' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214975",
+          "pubDate": "2026-09-08T11:45:25.000Z",
           "image": null,
-          "summary": "앤트로픽이 AI 서비스 수요 폭증에 대응하기 위해 최근 1년간 최대 5170억달러(약 695조원) 규모의 클라우드 컴퓨팅과 데이터센터 계약을 확보한 것으로 나타났다. 5일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 지난해 10월 이후 앞으로 수년간 사용할 수 있는 최소 14.8기가와트(GW) 규모의 컴퓨팅 용량 확보 계약을 체결했다. 이는 기존에 확보했던 1~2GW를 훌쩍 웃도는 수준이다. 공격적인 인프라 확보는 올해 예상보다 빠르게 증가한 ‘클로드 코드’와 ‘코워크’ 수요에 따른 것이다. AI 코딩과 업무 자동화 서비스 이용자",
+          "summary": "에스투더블유(S2W, 대표 서상덕)는 범죄수사에 특화된 AI 에이전트 'DRI'를 출시했다고 8일 밝혔다.DRI는 자체 안보 AI 플랫폼 '자비스'에 탑재되며, 다크웹·텔레그램·해킹 포럼 등에서 수집한 빅데이터를 지식 컨텍스트로 연계해 위협을 분석하고 수사에 필요한 인텔리전스를 제공한다. 다크웹 모니터링, 랜섬웨어 추적 등 9종의 조사 전략 중 질의 의도에 가장 적합한 방식을 자동 선택해 수사 효율성을 높인 것이 특징이다.특히 자연어 질의만으로도 다양한 분석 도구를 유기적으로 조합해 익명 계정의 활동 이력과 자금 거래 내역, 공격",
           "keywords": [
-            "앤트로픽",
-            "클로드",
-            "수요",
-            "폭증에",
-            "11개월간"
+            "AI가",
+            "알아서",
+            "다크웹",
+            "뒤진다",
+            "S2W"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:44.211Z",
+      "fetchedAt": "2026-09-08T04:10:35.455Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "Legora는 GPT-6 Astra를 사용하여 이 재무 검토 워크플로우에서 몇 분 안에 41건의 문서를 검토하고, 4건의 오류를 모두 찾아내고, 성능을 거의 40% 개선했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:44.353Z",
+      "fetchedAt": "2026-09-08T04:10:35.667Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
+          "link": "https://news.hada.io/topic?id=33349",
+          "pubDate": "2026-09-08T02:45:02.000Z",
+          "image": null,
+          "summary": "계정이나 API 키, 구독 없이 내 컴퓨터에서 음성 작업을 처리하는 데스크톱 앱으로, 필요한 모델을 내려받으면 오프라인에서도 사용 가능 깨끗한 음성 샘플 5~15초로 별도 학습 없이 목소리를 복제하고, 입력한 문장을 그 목소리로 읽게 할 수 있음 기존 ...",
+          "keywords": [
+            "VoiceStudio",
+            "음성",
+            "복제",
+            "더빙",
+            "받아쓰기를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Lovable의 하트는 어떻게 만들어졌나",
           "link": "https://news.hada.io/topic?id=33347",
@@ -422,26 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "지속형 에이전트 시대를 위한 Grok Bot 설계",
-          "link": "https://news.hada.io/topic?id=33343",
-          "pubDate": "2026-09-08T01:10:18.000Z",
-          "image": null,
-          "summary": "Grok Bot은 정체성·기억·실행 환경을 유지하는 에이전트에 장기적인 책임을 맡길 수 있도록, 개별 대화 기록 대신 Bot 목록을 제품의 중심에 둠 인터페이스를 Bots·Chats·Prompts·Tools·Artifacts라는 다섯 개념으로 정리하고, 아바타 움직임과 필요할 때만 확인하...",
-          "keywords": [
-            "지속형",
-            "에이전트",
-            "시대를",
-            "위한",
-            "Grok"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:45.563Z",
+      "fetchedAt": "2026-09-08T04:10:36.514Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,8 +532,8 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-08T00:16:55.637Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-08T04:10:36.883Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -606,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:45.880Z",
+      "fetchedAt": "2026-09-08T04:10:37.143Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:45.929Z",
+      "fetchedAt": "2026-09-08T04:10:37.225Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:49.705Z",
+      "fetchedAt": "2026-09-08T04:10:40.582Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -872,7 +872,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:10:49.982Z",
+      "fetchedAt": "2026-09-08T04:10:40.867Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -964,7 +964,7 @@
           "summaryKo": "AI 시대는 기업 구매 패턴을 완전히 무너뜨렸고, 스타트업들은 아직 어떻게 헤쳐나가야 할지 몰랐습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T02:11:00.234Z",
+      "fetchedAt": "2026-09-08T04:10:51.218Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1063,7 +1063,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:11:05.202Z",
+      "fetchedAt": "2026-09-08T04:10:53.972Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1071,6 +1071,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - 데일리대구경북뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ERlpZem4tNThyU0N5LS1DUVhlVkhoYm9BdjBlenhsZjd3YU4yS1QxNUtwb2FtaHQxUUZycTJQRkdZRElBYUhFZm1ld3ZTVnBVcy1DdFU4S0lZZ1N2ZDlNOWZyTXptdw?oc=5",
+          "pubDate": "2026-09-08T02:44:30.000Z",
+          "image": null,
+          "summary": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 데일리대구경북뉴스",
+          "keywords": [
+            "의성군",
+            "2027년",
+            "마을자치지원사업",
+            "참여",
+            "마을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMdIBYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMQ?oc=5",
@@ -1083,6 +1100,23 @@
             "한방",
             "지원사업",
             "참여자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "신혼부부 주거자금 대출이자 지원사업 2차 모집 - kwnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43V0Jya0w4RDFSNExWWjBNd0kzRlJmeTlQSk9uakJhdExBaWlLWmstZHNzQlE4YVBRajlVVjVjMnZWMWp0XzQxYlpLT2s5ZW1kLWJMQTA0WFZsX2M?oc=5",
+          "pubDate": "2026-09-08T01:54:20.000Z",
+          "image": null,
+          "summary": "신혼부부 주거자금 대출이자 지원사업 2차 모집 kwnews.co.kr",
+          "keywords": [
+            "신혼부부",
+            "주거자금",
+            "대출이자",
+            "지원사업",
+            "2차"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1106,11 +1140,11 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - m-i.kr",
+          "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sUF9OUjVoN09sc0h5b25RUnhVOVFGM3hEcW03Z0NXUDFZUVdpVTVZRE5DaENValBSdnM0dkZ0cm84eDRRUEUzOGZ2cGdoRWN2Tk4xbUNuSnZuNnhaMDhNeW9wY9IBaEFVX3lxTFBSRTBZLTNqM3U5RW1feWUtNmw5MU9JWFZFSXlfeFRrUGQ0c1BMMHZoZ1Rya3pBZTBha1dhUkFpM293TUZBU2pnVVd2eUhCSWxFM21wQUNzRTlJN3JjSFBSb0dFa1laRE1G?oc=5",
           "pubDate": "2026-09-07T08:16:23.000Z",
           "image": null,
-          "summary": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 m-i.kr",
+          "summary": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 매일일보",
           "keywords": [
             "수자원공사",
             "중소기업",
@@ -1121,43 +1155,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경상원, 소상공인 사회안전망 확충 나선다…‘1인 소상공인 고용보험료 지원사업’ 모집 - 수원화성신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBIbkNySW9nbVkzN0xPbkd3RndYNTJSYlZmZ09sblBDUXAtTUZNakRhR3JLalhtNVhFazE4VFlqVllfSG8?oc=5",
-          "pubDate": "2026-09-08T00:27:00.000Z",
-          "image": null,
-          "summary": "경상원, 소상공인 사회안전망 확충 나선다…‘1인 소상공인 고용보험료 지원사업’ 모집 수원화성신문",
-          "keywords": [
-            "경상원",
-            "소상공인",
-            "사회안전망",
-            "확충",
-            "나선다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
-          "pubDate": "2026-09-07T03:50:46.000Z",
-          "image": null,
-          "summary": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 국토교통신문",
-          "keywords": [
-            "수자원공사",
-            "중소기업",
-            "ESG",
-            "지원사업",
-            "참여기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T02:11:05.593Z",
+      "fetchedAt": "2026-09-08T04:10:54.445Z",
       "error": null
     }
   },
@@ -1167,70 +1167,70 @@
       "label": "기술사업화",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "9월7일",
-      "label": "9월7일",
+      "key": "2027년",
+      "label": "2027년",
       "count": 2,
       "rank": 8,
       "change": "new"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "마을",
+      "label": "마을",
       "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "esg",
-      "label": "ESG",
+      "key": "마을자치지원사업",
+      "label": "마을자치지원사업",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
