@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T20:10:35.509Z",
+  "collectedAt": "2026-09-08T22:11:10.183Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:24.329Z",
+      "fetchedAt": "2026-09-08T22:10:53.556Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:24.381Z",
+      "fetchedAt": "2026-09-08T22:10:53.634Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215015",
+          "pubDate": "2026-09-09T05:50:29.000Z",
+          "image": null,
+          "summary": "삼성전자가 미스트랄 AI와 손잡고 반도체 설계 및 제조에 특화된 자체 AI 모델 공동 개발에 나선다고 9일 밝혔다.이번 파트너십은 한·프랑스 정상회담에 맞춰 체결됐다. 삼성전자 DS부문이 보유한 반도체 기술과 제조 데이터에 미스트랄 AI의 고효율 AI 모델 기술을 결합해 반도체 업무 전반의 생산성과 정밀도를 극대화하는 ‘반도체 특화 AI’를 구축하는 것이 핵심이다.삼성전자는 미스트랄의 대형언어모델(LLM)인 '미스트랄 라지'를 활용해 DS부문에 최적화된 자체 AI 모델을 개발할 계획이다. 이를 데이터 분석, 결함 예측, 공정 최적화",
+          "keywords": [
+            "삼성전자",
+            "미스트랄",
+            "AI와",
+            "맞손",
+            "반도체"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214985",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "'알파고' 데이비드 실버의 이네퍼블, 딥마인드 출신 등 6인 영입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215001",
-          "pubDate": "2026-09-08T17:24:06.000Z",
-          "image": null,
-          "summary": "'알파고' 개발을 이끈 세계적인 AI 연구자 데이비드 실버의 영국 AI 스타트업 이네퍼블 인텔리전스(Ineffable Intelligence)가 구글 딥마인드와 인스타딥, 벤처캐피털 업계 출신 핵심 인재 6명을 '공동 창립자'로 영입하며 초지능 개발을 위한 진용을 강화했다.6일(현지시간) 포춘에 따르면, 이네퍼블 인텔리전스는 실버의 전직 구글 딥마인드 동료인 크리스 앱스, 보이치에흐 차르네츠키, 라세 에스페홀트, 오준혁을 비롯해 인스타딥의 전 연구 책임자 알렉상드르 라테르와 벤처캐피털 플라잉 피시 출신 헤더 고럼을 '공동 창업자'로",
-          "keywords": [
-            "알파고",
-            "데이비드",
-            "실버의",
-            "이네퍼블",
-            "딥마인드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:25.787Z",
+      "fetchedAt": "2026-09-08T22:10:54.753Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:28.786Z",
+      "fetchedAt": "2026-09-08T22:10:54.922Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "LG TV, 오프라인·대기 모드에서도 감시한 사실 드러나",
+          "link": "https://news.hada.io/topic?id=33372",
+          "pubDate": "2026-09-08T20:38:39.000Z",
+          "image": null,
+          "summary": "Gamers Nexus의 시판 LG OLED TV 조사에서 소유자와 가정에 관한 데이터를 거의 상시 기록·전송하며, 대기 모드나 인터넷 연결 해제 상태에서도 일부 수집을 이어가는 동작이 확인됨 패킷 캡처로 주변 휴대전화·스마트워치 탐색, 위치와 인근 Wi-Fi 네트워크 정보 ...",
+          "keywords": [
+            "LG",
+            "TV",
+            "오프라인",
+            "대기",
+            "모드에서도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Google DeepMind, AlphaGenome Atlas 공개",
           "link": "https://news.hada.io/topic?id=33371",
@@ -374,17 +391,17 @@
           "summaryKo": null
         },
         {
-          "title": "Navier–Stokes 밀레니엄 상금 문제에 관하여",
+          "title": "OpenAI, AI로 찾은 밀레니엄 난제 ‘나비에-스토크스’ 해법 공개",
           "link": "https://news.hada.io/topic?id=33370",
           "pubDate": "2026-09-08T18:40:32.000Z",
           "image": null,
-          "summary": "약 90년간 미해결이던 3차원 유체의 매끄러움 문제에 대해 OpenAI가 해석적 증명과 Lean 형식화를 공개함. 매끄러운 외력이 작용하는 정지 상태의 유체에서 유한 시간 안에 특이점이 발생하는 구성을 통해 공식 문제의 C·D를 입증했다고 밝힘 해법은 안쪽으로 나선...",
+          "summary": "약 90년간 미해결이던 3차원 유체 운동의 매끄러움 문제에 대해, 내부 AI 시스템이 찾아낸 해석적 증명과 컴퓨터로 검증할 수 있는 Lean 형식화를 공개함 매끄러운 외력이 작용하는 정지 상태의 유체에서도 유한 시간 안에 속도가 무한히 커지는 특이점이 생길 수 있음",
           "keywords": [
-            "Navier–Stokes",
+            "OpenAI",
+            "AI로",
+            "찾은",
             "밀레니엄",
-            "상금",
-            "문제에",
-            "관하여"
+            "난제"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -423,26 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "LibreOffice, AI 기능이 없다고 선언한 뒤 다운로드 기록 경신",
-          "link": "https://news.hada.io/topic?id=33367",
-          "pubDate": "2026-09-08T16:38:22.000Z",
-          "image": null,
-          "summary": "무료 Microsoft Office 대안인 LibreOffice 26.8이 출시 일주일 만에 설치 프로그램 다운로드 100만 회 이상을 기록하며 역대 가장 인기 있는 업데이트가 됨 이번 버전은 개인정보 보호를 이유로 생성형 AI를 기본 탑재하지 않는 점을 내세웠지만...",
-          "keywords": [
-            "LibreOffice",
-            "AI",
-            "기능이",
-            "없다고",
-            "선언한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:29.555Z",
+      "fetchedAt": "2026-09-08T22:10:55.777Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +450,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/06/2026",
+          "link": "https://www.tubefilter.com/2026/09/08/top-50-most-subscribed-youtube-channels-week-of-09-06-2026/",
+          "pubDate": "2026-09-08T21:50:24.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/jadu-studio.jpg",
+          "summary": "This week, the Global Sub Top 50 is an exclusive club. To qualify for the chart, channels needed to add at least 200,000 new subscribers during the first week of September. Channels from 17 different countries reached that benchmark. Leading the way is Lucan Pevidor, who rules the Global Sub Top 50 for the third week in a row. The Brazilian creator tallied 1.6 million weekly subscribers, putting him well ahead of The Stokes Twins and MrBeast in second and third place, respectively. Visit Tubefil",
+          "keywords": [
+            "Articles",
+            "Homepage Feature",
+            "News",
+            "Statistics",
+            "YouTube",
+            "Youtube Chart"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 9월 6일 주간",
+          "summaryKo": "이번 주, 글로벌 서브 톱 50은 독점적인 클럽입니다. 차트 자격을 얻으려면 9월 첫째 주에 채널이 최소 20만 명의 신규 구독자를 추가해야 합니다. 17개국의 채널이 이 기준에 도달했습니다. 3주 연속 글로벌 서브 톱 50을 이끄는 루칸 페비도르 (Lucan Pevidor) 가 그 주인공입니다. 브라질의 크리에이터는 주간 구독자 160만 명을 동원하여 The Stokes Twins와 MrBeast를 2위와 3위로 훨씬 앞섰습니다."
+        },
+        {
+          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/06/2026",
+          "link": "https://www.tubefilter.com/2026/09/08/top-50-most-viewed-youtube-channels-week-of-09-06-2026/",
+          "pubDate": "2026-09-08T21:24:21.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/shero-bhai.jpg",
+          "summary": "The #1 channel in the Global Top 50 maintained its lead over the field while moving closer to a ten-digit weekly view count. T-Series, the channel with the most all-time views on YouTube, also led that category on a weekly basis after it collected 930.4 million weekly views. Though T-Series was also #1 last week, its traffic rose by 19% week-over-week. Given the new policy for public view counts on YouTube, one would think that other channels are surging forward to join T-Series near the billion",
+          "keywords": [
+            "Articles",
+            "Homepage Feature",
+            "News",
+            "statistics",
+            "Statistics",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 Top 50 • 위크 오브 09/06/2026",
+          "summaryKo": "글로벌 톱 50의 1위 채널은 10자리 주간 조회수에 근접하면서 필드에서 선두를 유지했습니다. YouTube에서 가장 많은 조회수를 기록한 채널인 T-시리즈도 주간 조회수가 9억 3천 4백만 회를 기록한 후 매주 이 카테고리를 이끌었습니다. T-시리즈도 지난주 1위였지만, 트래픽은 주당 19% 증가했습니다. YouTube의 공개 시청 수에 대한 새로운 정책을 감안할 때, 다른 채널이 T-Ser에 가입하기 위해 앞으로 급증하고 있다고 생각할 것입니다."
+        },
         {
           "title": "YouTube’s new public viewcounts over-report actual engagement by 40%",
           "link": "https://www.tubefilter.com/2026/09/04/youtubes-new-public-viewcounts-over-report-actual-engagement-by-40/",
@@ -498,42 +534,9 @@
           "isForeign": true,
           "titleKo": "완료되었습니다! Google은 YouTube의 주류 광고에 맞춤화를 도입하고 있습니다.",
           "summaryKo": "YouTube에서 알코올 음료에 대한 광고는 거의 없지만 곧 바뀔 것입니다. 10월 30일부터 Google은 주류 브랜드 광고에 어느 정도 맞춤화할 수 있는 새로운 정책을 시행합니다. 현재 YouTube에서는 주류 광고가 허용되지만, 상당한 제한으로 인해 광고 노출이 제한됩니다. 해당 지점에 대한 맞춤형 타겟팅이 비활성화되어 있으며 (현재로서는), 사용자는 주류 광고를 게재하지 않도록 선택할 수 있으며, 해당 지점에는 부지 배너가 허용되지 않습니다."
-        },
-        {
-          "title": "TikTok has new ways to comment (that make it feel more like Instagram)",
-          "link": "https://www.tubefilter.com/2026/09/04/tiktok-polls-photo-carousel-live-comments/",
-          "pubDate": "2026-09-04T20:27:49.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/tiktok-comments.jpg",
-          "summary": "TikTok is trying to turn its comments into an interactive format. The app has unveiled several new ways to talk back to creators, including audio responses, photo carousels, and polls. A Newsroom post runs through the updates to TikTok's comments section. Voice Comments, rolling out next month to users over 18, can be up to 60 seconds long and can be played by anyone. Comment Polls, which are currently available, can have up to five options and run for a set timeframe. And with Photo Carousels a",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "TikTok",
-            "carousels"
-          ],
-          "isForeign": true,
-          "titleKo": "TikTok에는 댓글을 달 수 있는 새로운 방법이 있습니다 (Instagram과 비슷한 느낌).",
-          "summaryKo": "TikTok은 댓글을 대화형 형식으로 전환하려고 합니다. 이 앱은 오디오 응답, 사진 슬라이드, 투표 등 크리에이터와 대화할 수 있는 몇 가지 새로운 방법을 공개했습니다. 뉴스룸 게시물은 TikTok의 댓글 섹션에 대한 업데이트를 통해 실행됩니다. 다음 달 18세 이상 사용자에게 공개되는 음성 댓글은 최대 60초까지 재생할 수 있으며 누구나 재생할 수 있습니다. 현재 사용할 수 있는 댓글 여론조사는 최대 5개의 옵션을 가질 수 있으며 설정된 기간 동안 실행할 수 있습니다. 그리고 wi"
-        },
-        {
-          "title": "GTA RP Week returns to Twitch, with Rockstar promoting “the next evolution of the GTA 5 roleplay community”",
-          "link": "https://www.tubefilter.com/2026/09/03/grand-theft-auto-rp-week-twitch/",
-          "pubDate": "2026-09-03T22:32:32.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-80913239.jpg",
-          "summary": "Rockstar doesn’t put out games very often. Grand Theft Auto VI is about to debut a full thirteen years after GTA V arrived on scene. Red Dead Redemption 2, meanwhile, followed its predecessor eight years later–a slimmer window, but still a pretty big time gap for fans to fill. (And let’s not get started on […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "grand theft auto",
-            "twitch"
-          ],
-          "isForeign": true,
-          "titleKo": "GTA RP Week가 Twitch로 돌아옵니다. Rockstar는 \"GTA 5 롤플레이 커뮤니티의 차세대 진화\" 를 홍보합니다.",
-          "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:29.663Z",
+      "fetchedAt": "2026-09-08T22:10:59.794Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:29.787Z",
+      "fetchedAt": "2026-09-08T22:10:59.977Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:29.841Z",
+      "fetchedAt": "2026-09-08T22:11:00.058Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:33.144Z",
+      "fetchedAt": "2026-09-08T22:11:03.365Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:33.434Z",
+      "fetchedAt": "2026-09-08T22:11:03.618Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +887,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+          "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "pubDate": "2026-09-08T21:04:06.000Z",
+          "image": null,
+          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+          "keywords": [
+            "Startups",
+            "AI",
+            "Valuations",
+            "cursor",
+            "coding assistants",
+            "cognition"
+          ],
+          "isForeign": true,
+          "titleKo": "코그니션이 $ 48B 밸류에이션에 도달하여 투자자들은 AI 코딩이 승자 독식 시장과는 거리가 멀다고 생각합니다.",
+          "summaryKo": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다."
+        },
         {
           "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
           "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
@@ -951,26 +972,9 @@
           "isForeign": true,
           "titleKo": "스텔스 3개월 만에 나온 XDOF는 시리즈 B에 대해 $ 1.2B의 가치 평가로 회담 중입니다.",
           "summaryKo": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다."
-        },
-        {
-          "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-          "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-          "pubDate": "2026-09-04T14:47:20.000Z",
-          "image": null,
-          "summary": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
-          "keywords": [
-            "Gaming",
-            "Startups",
-            "BGMI",
-            "Krafton",
-            "pubg"
-          ],
-          "isForeign": true,
-          "titleKo": "Krafton은 게임을 넘어선 또 다른 $ 250M 베팅으로 인도를 두 배로 늘립니다",
-          "summaryKo": "Krafton의 인도에 대한 계획 투자는 최신 약속을 통해 $ 500 백만을 능가 할 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:33.533Z",
+      "fetchedAt": "2026-09-08T22:11:05.924Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1073,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:35.103Z",
+      "fetchedAt": "2026-09-08T22:11:09.199Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1095,34 +1099,17 @@
           "summaryKo": null
         },
         {
-          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
-          "pubDate": "2026-09-07T23:38:32.000Z",
+          "title": "‘대구청년 부동산 중개수수료 지원사업’ 대상자 모집 - 프레시안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KTE92R3c1WXp1VUQ5QlIwWnV5QUZwUWxqdzVZeFBFOHJjeEJwM1hYUDVXMWVNc2tROXg4NFZBck1mTkN6ZXNWXzRIZXg0a0lPYmFVQWlfZ29RUGJnZ2VGbzFHZ1JZamp5ZjA0?oc=5",
+          "pubDate": "2026-09-08T22:05:01.000Z",
           "image": null,
-          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
+          "summary": "‘대구청년 부동산 중개수수료 지원사업’ 대상자 모집 프레시안",
           "keywords": [
-            "water",
-            "중소기업",
-            "ESG",
-            "경쟁력",
-            "강화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Nm5rLWxpbkFVSGU1dHhpZHBKbzdwZHBaTVNxZmhocHNlWVVuN2ZtM09mQXVjeXI4ZGlmdWNsR3dzVEJYS2VOaE55WDU4QXlWenVVRXJmbzJma1U?oc=5",
-          "pubDate": "2026-09-08T07:11:16.000Z",
-          "image": null,
-          "summary": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 경기일보",
-          "keywords": [
-            "경상원",
-            "1인",
-            "소상공인",
-            "고용보험료",
-            "지원사업"
+            "대구청년",
+            "부동산",
+            "중개수수료",
+            "지원사업",
+            "대상자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1146,24 +1133,41 @@
           "summaryKo": null
         },
         {
-          "title": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 - 한국방송뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wSE04UWpVWjl4d1gwT3otWTEtSjFGZ1lCYzRiSmVRdXo4ZV9hRnJoOXRXa3RoX0hjLWlPMXlBSTExVkZfeXZIeEJRbG9iZUg4UTZlNVNjSkRTRkxP?oc=5",
-          "pubDate": "2026-09-08T08:19:42.000Z",
+          "title": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Nm5rLWxpbkFVSGU1dHhpZHBKbzdwZHBaTVNxZmhocHNlWVVuN2ZtM09mQXVjeXI4ZGlmdWNsR3dzVEJYS2VOaE55WDU4QXlWenVVRXJmbzJma1U?oc=5",
+          "pubDate": "2026-09-08T07:11:16.000Z",
           "image": null,
-          "summary": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 한국방송뉴스",
+          "summary": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 경기일보",
           "keywords": [
-            "군산시",
-            "보건소",
-            "한방",
-            "난임부부",
+            "경상원",
+            "1인",
+            "소상공인",
+            "고용보험료",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
+          "pubDate": "2026-09-07T23:38:32.000Z",
+          "image": null,
+          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
+          "keywords": [
+            "water",
+            "중소기업",
+            "ESG",
+            "경쟁력",
+            "강화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T20:10:35.501Z",
+      "fetchedAt": "2026-09-08T22:11:09.702Z",
       "error": null
     }
   },
@@ -1190,53 +1194,53 @@
       "change": "same"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 4,
-      "change": "same"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 6,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "1인",
       "label": "1인",
       "count": 1,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1273,52 +1277,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
       "key": "articles",
       "label": "Articles",
-      "count": 3,
-      "rank": 6,
-      "change": "same",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
       "labelKo": "기사"
     },
     {
-      "key": "enforcement actions",
-      "label": "Enforcement Actions",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "시행 조치"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "추천 동영상"
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
+      "count": 4,
+      "rank": 7,
+      "change": "up",
       "labelKo": "뉴스"
     },
     {
       "key": "ai",
       "label": "AI",
-      "count": 2,
-      "rank": 10,
-      "change": "same",
+      "count": 3,
+      "rank": 8,
+      "change": "up",
       "labelKo": "AI"
+    },
+    {
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 3,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "시행 조치"
+    },
+    {
+      "key": "statistics",
+      "label": "Statistics",
+      "count": 3,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "스탯"
     }
   ]
 }
