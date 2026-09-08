@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T18:12:35.191Z",
+  "collectedAt": "2026-09-08T20:10:35.509Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "내년 ‘820조 슈퍼예산’이 온다 … 우리 살림살이에 미칠 영향은",
+          "link": "https://www.mk.co.kr/news/economy/12147136",
+          "pubDate": "2026-09-08T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260828.abecd4a93b8a46059914e1d9df358f48_R.jpg",
+          "summary": "2027년 정부 예산안 물가부담 얼마나 늘릴까?정부가 사상 최초로 800조원을 넘는 ‘슈퍼 예산’을 내놨습니다. 2027년 총지출은 820조9000억원으로 올해보다 12.8% 늘어..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "김영훈 노동장관 “N% 성과급 파업, 노란봉투법 새 지침대로면 불법”",
           "link": "https://www.mk.co.kr/news/economy/12147581",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "'K원전 르네상스' 막 오른다",
-          "link": "https://www.mk.co.kr/news/economy/12147423",
-          "pubDate": "2026-09-08T09:05:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/20260909_01110101000005_L00.jpg",
-          "summary": "정부가 2000억달러 규모로 조성하는 대미투자펀드의 60%가량이 미국 대형 원전 건설에 활용될 것이라는 전망이 나오자 원전 생태계 전체가 수혜를 입을 것이라는 기대감이 커졌다. 문..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:24.542Z",
+      "fetchedAt": "2026-09-08T20:10:24.329Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:24.630Z",
+      "fetchedAt": "2026-09-08T20:10:24.381Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:25.867Z",
+      "fetchedAt": "2026-09-08T20:10:25.787Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "link": "https://openai.com/index/codex-quantum-computing-experiments",
+          "pubDate": "2026-09-08T17:00:00.000Z",
+          "image": null,
+          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+          "keywords": [
+            "Applied AI"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT-5.6 SOL이 양자 컴퓨팅 실험을 실행하는 방법",
+          "summaryKo": "MIT 연구원이 코덱스와 함께 GPT-5.6 SOL을 사용하여 양자 컴퓨팅 실험을 자율적으로 실행하고, 결과를 분석하고, 큐비트를 보정하는 방법을 알아보십시오."
+        },
         {
           "title": "The Work Now Within Reach",
           "link": "https://openai.com/index/the-work-now-within-reach",
@@ -294,6 +307,19 @@
           "isForeign": true,
           "titleKo": "The Work Now Within Reach",
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
+        },
+        {
+          "title": "Introducing ChatGPT Images 2.5",
+          "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "pubDate": "2026-09-08T11:30:00.000Z",
+          "image": null,
+          "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "ChatGPT 이미지 2.5 소개",
+          "summaryKo": "ChatGPT Images 2.5는 아이디어, 스케치 및 참조 사진을 아이디어를 더 잘 반영하는 보다 개인화되고 세련된 이미지로 변환하는 데 도움이 됩니다."
         },
         {
           "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -320,35 +346,9 @@
           "isForeign": true,
           "titleKo": "AI 및 청소년 발달에 대한 새로운 연구를 위한 보조금 지원",
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
-        },
-        {
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "pubDate": "2026-09-08T00:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "OpenAI, 교실에서 뉴스룸으로 저널리즘을 지원하는 이니셔티브 확대",
-          "summaryKo": "OpenAI는 학생, 교육자, 언론인 및 뉴스 조직을 위한 도구, 교육 및 파트너십을 통해 저널리즘에 대한 지원을 확대하고 있습니다."
-        },
-        {
-          "title": "Supporting independent journalism in Ukraine",
-          "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-          "pubDate": "2026-09-07T00:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-          "keywords": [
-            "Global Affairs"
-          ],
-          "isForeign": true,
-          "titleKo": "우크라이나의 독립 저널리즘 지원",
-          "summaryKo": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 뉴스 조직이 혁신, 탄력성 및 독립 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다."
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:28.205Z",
+      "fetchedAt": "2026-09-08T20:10:28.786Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Google DeepMind, AlphaGenome Atlas 공개",
+          "link": "https://news.hada.io/topic?id=33371",
+          "pubDate": "2026-09-08T19:38:09.000Z",
+          "image": null,
+          "summary": "이해가 제한적인 비코딩 DNA 영역까지 탐색할 수 있도록, AlphaGenome Atlas는 인간 유전체에서 가능한 90억 개 단일 염기 변화의 조절 영향을 미리 계산한 데이터베이스임 1페타바이트 데이터셋을 빠르게 조회할 수 있으며, AVI 점수",
+          "keywords": [
+            "Google",
+            "DeepMind",
+            "AlphaGenome",
+            "Atlas",
+            "공개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Navier–Stokes 밀레니엄 상금 문제에 관하여",
+          "link": "https://news.hada.io/topic?id=33370",
+          "pubDate": "2026-09-08T18:40:32.000Z",
+          "image": null,
+          "summary": "약 90년간 미해결이던 3차원 유체의 매끄러움 문제에 대해 OpenAI가 해석적 증명과 Lean 형식화를 공개함. 매끄러운 외력이 작용하는 정지 상태의 유체에서 유한 시간 안에 특이점이 발생하는 구성을 통해 공식 문제의 C·D를 입증했다고 밝힘 해법은 안쪽으로 나선...",
+          "keywords": [
+            "Navier–Stokes",
+            "밀레니엄",
+            "상금",
+            "문제에",
+            "관하여"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Rust 디버깅 설문조사 2026 결과",
           "link": "https://news.hada.io/topic?id=33369",
@@ -406,43 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "CDN을 사용하는 유럽 기업 10곳 중 거의 9곳이 Cloudflare를 사용함",
-          "link": "https://news.hada.io/topic?id=33366",
-          "pubDate": "2026-09-08T15:40:15.000Z",
-          "image": null,
-          "summary": "CipherCue가 추적하는 유럽 8개국의 CDN 감지 기업 44,143곳 중 89.6%인 39,547곳이 Cloudflare를 사용해, 웹사이트 앞단 인프라가 한 공급자에 집중돼 있음 CDN은 캐시 제공, TLS 종료, 트래픽 필터링을 담당하는 공유 의존성으로, 공급자 집중도가 높으면 한 공급...",
-          "keywords": [
-            "CDN을",
-            "사용하는",
-            "유럽",
-            "기업",
-            "10곳"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "독립 위키를 가두는 새로운 ‘Google 감옥’이 생겼다",
-          "link": "https://news.hada.io/topic?id=33365",
-          "pubDate": "2026-09-08T14:40:23.000Z",
-          "image": null,
-          "summary": "Fandom에서 독립한 Overwatch·Fortnite 위키가 새 독립 도메인 대신 기존 도메인의 하위 도메인에 개설됨. 새 도메인의 개별 문서가 Google 검색에 나타나지 않는 현상을 피하기 위한 선택임 2024년 3월 Google 핵심 업데이트 이후 운영자가 파악한 신규 도메인 위...",
-          "keywords": [
-            "독립",
-            "위키를",
-            "가두는",
-            "새로운",
-            "Google"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:28.964Z",
+      "fetchedAt": "2026-09-08T20:10:29.555Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +533,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:29.472Z",
+      "fetchedAt": "2026-09-08T20:10:29.663Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:29.652Z",
+      "fetchedAt": "2026-09-08T20:10:29.787Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:29.705Z",
+      "fetchedAt": "2026-09-08T20:10:29.841Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:32.696Z",
+      "fetchedAt": "2026-09-08T20:10:33.144Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:32.983Z",
+      "fetchedAt": "2026-09-08T20:10:33.434Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -970,7 +970,7 @@
           "summaryKo": "Krafton의 인도에 대한 계획 투자는 최신 약속을 통해 $ 500 백만을 능가 할 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:33.052Z",
+      "fetchedAt": "2026-09-08T20:10:33.533Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:34.617Z",
+      "fetchedAt": "2026-09-08T20:10:35.103Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1095,11 +1095,11 @@
           "summaryKo": null
         },
         {
-          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - waterjournal.co.kr",
+          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
           "pubDate": "2026-09-07T23:38:32.000Z",
           "image": null,
-          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 waterjournal.co.kr",
+          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
           "keywords": [
             "water",
             "중소기업",
@@ -1129,17 +1129,17 @@
           "summaryKo": null
         },
         {
-          "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMdIBYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMQ?oc=5",
-          "pubDate": "2026-09-08T00:04:23.000Z",
+          "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - 대한경제",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zY1A2c1BZVl9FTzMzV3hmYktpOFFnTWtpdmRFZ29CdUJEeDF6Zk05aEpPNkZBSTBMOFNQTGgybW81a3Jrb1Q4d1ZiUmFEeGdJZXRHYVQ1TmhaM0Y3alcxV0gwUXpnYVRYTlFpTjJpMENHbjBH?oc=5",
+          "pubDate": "2026-09-08T09:05:51.000Z",
           "image": null,
-          "summary": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 연합뉴스",
+          "summary": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 대한경제",
           "keywords": [
-            "군산시",
-            "난임",
-            "한방",
-            "지원사업",
-            "참여자"
+            "의성군",
+            "2027년",
+            "마을자치지원사업",
+            "참여",
+            "마을"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1163,7 +1163,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T18:12:35.180Z",
+      "fetchedAt": "2026-09-08T20:10:35.501Z",
       "error": null
     }
   },
@@ -1201,42 +1201,42 @@
       "label": "경제",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 7,
-      "change": "new"
-    },
-    {
-      "key": "군산시",
-      "label": "군산시",
-      "count": 2,
-      "rank": 8,
       "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
-      "rank": 9,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 2,
+      "rank": 9,
+      "change": "down"
+    },
+    {
+      "key": "1인",
+      "label": "1인",
+      "count": 1,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
