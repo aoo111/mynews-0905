@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T16:11:53.196Z",
+  "collectedAt": "2026-09-08T18:12:35.191Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:41.936Z",
+      "fetchedAt": "2026-09-08T18:12:24.542Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:42.023Z",
+      "fetchedAt": "2026-09-08T18:12:24.630Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:43.463Z",
+      "fetchedAt": "2026-09-08T18:12:25.867Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -294,6 +294,19 @@
           "isForeign": true,
           "titleKo": "The Work Now Within Reach",
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
+        },
+        {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "link": "https://openai.com/index/navier-stokes-solution",
+          "pubDate": "2026-09-08T10:00:00.000Z",
+          "image": null,
+          "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+          "keywords": [
+            "Research"
+          ],
+          "isForeign": true,
+          "titleKo": "Navier–Stokes Millennium 포상 문제",
+          "summaryKo": "Lean에서 작성한 문서와 공식 증명을 포함하여 Navier–Stokes Millennium Prize Problem에 대한 AI 생성 솔루션을 공유하고 있습니다."
         },
         {
           "title": "Funding grants for new research into AI and teen development",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "우크라이나의 독립 저널리즘 지원",
           "summaryKo": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 뉴스 조직이 혁신, 탄력성 및 독립 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다."
-        },
-        {
-          "title": "An Alien Mind",
-          "link": "https://openai.com/index/an-alien-mind",
-          "pubDate": "2026-09-06T09:00:00.000Z",
-          "image": null,
-          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-          "keywords": [
-            "Safety"
-          ],
-          "isForeign": true,
-          "titleKo": "외계인의 마음",
-          "summaryKo": "자쿠브 파초키 (Jakub Pachocki) 는 점점 더 유능해지고 있는 인공지능과 인공지능을 조화롭게 유지해야 하는 과제에 대해 그는 더 강력한 안전 조치와 국제적 공조를 요구합니다."
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:46.084Z",
+      "fetchedAt": "2026-09-08T18:12:28.205Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Rust 디버깅 설문조사 2026 결과",
+          "link": "https://news.hada.io/topic?id=33369",
+          "pubDate": "2026-09-08T18:02:49.000Z",
+          "image": null,
+          "summary": "부족한 디버깅 경험의 원인을 파악하기 위한 첫 설문에 2,300명 이상이 참여했으며, 현재 Rust에서 디버거를 쓰는 응답자는 46% 이상으로 절반에 못 미침 로그·출력 디버깅과 dbg!가 가장 널리 쓰이며, 이를 제외하면 IDE 내 lldb",
+          "keywords": [
+            "Rust",
+            "디버깅",
+            "설문조사",
+            "2026",
+            "결과"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI를 대면으로 쓰려면 사무실로 복귀해야 한다",
+          "link": "https://news.hada.io/topic?id=33368",
+          "pubDate": "2026-09-08T17:37:35.000Z",
+          "image": null,
+          "summary": "AI 도구의 생성·승인 버튼을 하루 수천 번 누르는 직원이 사무실 복귀(RTO) 를 강요받는 풍자극으로, 고용을 유지하려면 사무실 근무를 사랑한다는 각서까지 써야 함 Mondo Mayo에서는 상사에 대한 복종과 지도자의 수가 핵심 원칙이며, 일반 직원 15명을 수천 명의...",
+          "keywords": [
+            "AI를",
+            "대면으로",
+            "쓰려면",
+            "사무실로",
+            "복귀해야"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "LibreOffice, AI 기능이 없다고 선언한 뒤 다운로드 기록 경신",
+          "link": "https://news.hada.io/topic?id=33367",
+          "pubDate": "2026-09-08T16:38:22.000Z",
+          "image": null,
+          "summary": "무료 Microsoft Office 대안인 LibreOffice 26.8이 출시 일주일 만에 설치 프로그램 다운로드 100만 회 이상을 기록하며 역대 가장 인기 있는 업데이트가 됨 이번 버전은 개인정보 보호를 이유로 생성형 AI를 기본 탑재하지 않는 점을 내세웠지만...",
+          "keywords": [
+            "LibreOffice",
+            "AI",
+            "기능이",
+            "없다고",
+            "선언한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "CDN을 사용하는 유럽 기업 10곳 중 거의 9곳이 Cloudflare를 사용함",
           "link": "https://news.hada.io/topic?id=33366",
@@ -389,60 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Arm, 피지컬 AI 개발과 로봇 역량 정의 위한 생태계 협업 확대",
-          "link": "https://news.hada.io/topic?id=33364",
-          "pubDate": "2026-09-08T14:07:19.000Z",
-          "image": null,
-          "summary": "자율 시스템의 통합 복잡성을 줄이기 위해 Arm이 80개 이상 기업이 참여하는 Arm Total Design for Physical AI를 발표하고, 기술 스택 전반의 협업으로 개발을 가속함 AI 모델·소프트웨어·센서·컴퓨팅 하드웨어·가상 플랫폼·디지털 트윈을 연결해 조기 개...",
-          "keywords": [
-            "Arm",
-            "피지컬",
-            "AI",
-            "개발과",
-            "로봇"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "로스앤젤레스가 건물 하나씩 들어서며 성장하는 모습 보기(1880–2026)",
-          "link": "https://news.hada.io/topic?id=33363",
-          "pubDate": "2026-09-08T13:38:06.000Z",
-          "image": null,
-          "summary": "현재 남아 있는 LA 카운티 건물을 상자 하나씩으로 표시하고 건축 연도에 맞춰 등장시켜, 도시가 성장해 온 과정을 보여줌 철거된 건물은 포함하지 않으므로, 과거 당시의 도시 모습이 아니라 현재까지 남아 있는 건물들이 축적된 모습임 건물 표시는",
-          "keywords": [
-            "로스앤젤레스가",
-            "건물",
-            "하나씩",
-            "들어서며",
-            "성장하는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: /take-my-data - 코딩 에이전트 세션을 로컬에서 정제해 공개 데이터셋으로 기부하는 스킬",
-          "link": "https://news.hada.io/topic?id=33361",
-          "pubDate": "2026-09-08T13:03:46.000Z",
-          "image": null,
-          "summary": "코딩 에이전트(Claude Code, Codex, Pi, OpenCode) 세션 로그를 기부받아 CC0 공개 데이터셋으로 만드는 도구와 허브입니다. 한국어 에이전트 궤적(툴콜, 가져오기, 테스트 결과가 포함된 세션) 공개 데이터가 거의 없어서 시작했습니다. 동작 방식 에이전트 안에서 /take-my-data 실행 로컬에서",
-          "keywords": [
-            "Show",
-            "GN:",
-            "/take",
-            "my",
-            "data"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:46.833Z",
+      "fetchedAt": "2026-09-08T18:12:28.964Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +533,7 @@
           "summaryKo": "록스타는 게임을 자주 내놓지 않습니다. Grand Theft Auto VI는 GTA V가 현장에 도착한 지 13년 만에 데뷔할 예정입니다. 한편, 레드 데드 리뎀션 2는 8년 후 전작을 따랐습니다. 창문은 더 얇지만 팬들이 채워야 할 시간적 격차는 여전히 큽니다. (그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 시작하지 맙시다."
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:47.198Z",
+      "fetchedAt": "2026-09-08T18:12:29.472Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:47.438Z",
+      "fetchedAt": "2026-09-08T18:12:29.652Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:47.521Z",
+      "fetchedAt": "2026-09-08T18:12:29.705Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:50.117Z",
+      "fetchedAt": "2026-09-08T18:12:32.696Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:51.156Z",
+      "fetchedAt": "2026-09-08T18:12:32.983Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -970,7 +970,7 @@
           "summaryKo": "Krafton의 인도에 대한 계획 투자는 최신 약속을 통해 $ 500 백만을 능가 할 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:51.229Z",
+      "fetchedAt": "2026-09-08T18:12:33.052Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:52.716Z",
+      "fetchedAt": "2026-09-08T18:12:34.617Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1112,17 +1112,17 @@
           "summaryKo": null
         },
         {
-          "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - 대한경제",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zY1A2c1BZVl9FTzMzV3hmYktpOFFnTWtpdmRFZ29CdUJEeDF6Zk05aEpPNkZBSTBMOFNQTGgybW81a3Jrb1Q4d1ZiUmFEeGdJZXRHYVQ1TmhaM0Y3alcxV0gwUXpnYVRYTlFpTjJpMENHbjBH?oc=5",
-          "pubDate": "2026-09-08T09:05:51.000Z",
+          "title": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 - 경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Nm5rLWxpbkFVSGU1dHhpZHBKbzdwZHBaTVNxZmhocHNlWVVuN2ZtM09mQXVjeXI4ZGlmdWNsR3dzVEJYS2VOaE55WDU4QXlWenVVRXJmbzJma1U?oc=5",
+          "pubDate": "2026-09-08T07:11:16.000Z",
           "image": null,
-          "summary": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 대한경제",
+          "summary": "경상원, 1인 소상공인 고용보험료 지원사업 2차 모집 경기일보",
           "keywords": [
-            "의성군",
-            "2027년",
-            "마을자치지원사업",
-            "참여",
-            "마을"
+            "경상원",
+            "1인",
+            "소상공인",
+            "고용보험료",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1163,7 +1163,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T16:11:53.187Z",
+      "fetchedAt": "2026-09-08T18:12:35.180Z",
       "error": null
     }
   },
@@ -1197,46 +1197,46 @@
       "change": "same"
     },
     {
-      "key": "로봇",
-      "label": "로봇",
-      "count": 2,
-      "rank": 5,
-      "change": "same"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "군산시",
       "label": "군산시",
       "count": 2,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
