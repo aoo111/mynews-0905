@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-09T12:13:13.230Z",
+  "collectedAt": "2026-09-09T14:11:05.342Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“1400억 과징금 맞았던 동양생명 폭탄 피했다”…금융위 70억 제재 의결",
+          "link": "https://www.mk.co.kr/news/economy/12148818",
+          "pubDate": "2026-09-09T13:35:10.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.152cac46713e4068aad0db19c8080434_R.png",
+          "summary": "금융위원회가 고객의 개인신용정보를 동의 없이 자회사 법인보험대리점(GA)에 제공한 동양생명에 대해 70억원대 과징금 부과를 의결했다. 당초 금융감독원이 산정한 과징금 규모는 140..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“고점에 물린 개미들만 피눈물”…김승원 의혹에 드러난 주식시장 민낯",
           "link": "https://www.mk.co.kr/news/stock/12148668",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "취업자수 석 달 연속 늘었지만 … 청년 고용은 28개월째 '한파'",
-          "link": "https://www.mk.co.kr/news/economy/12148590",
-          "pubDate": "2026-09-09T08:47:24.000Z",
-          "image": null,
-          "summary": "지난달 취업자가 1년 전보다 18만4000명 늘며 3개월 연속 증가폭을 키웠다. 하지만 청년층과 제조·건설업 등 취약 부문의 고용 한파가 이어지며 취업 시장에서 'K자 양극화'가 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:05.127Z",
+      "fetchedAt": "2026-09-09T14:10:37.476Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:05.209Z",
+      "fetchedAt": "2026-09-09T14:10:37.538Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:06.277Z",
+      "fetchedAt": "2026-09-09T14:10:38.777Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:06.466Z",
+      "fetchedAt": "2026-09-09T14:10:38.921Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,74 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "“Tweet”과 새 로고, 퍼블릭 도메인에 들어간 것으로 보임",
+          "link": "https://news.hada.io/topic?id=33441",
+          "pubDate": "2026-09-09T13:37:58.000Z",
+          "image": null,
+          "summary": "Twitter의 X 리브랜딩 이후 이어진 상표 분쟁에서 법원은 TWEET과 새 로고는 포기됐을 가능성이 높지만, TWITTER 상표는 계속 사용되고 있다고 판단함 TWITTER 상표 유지의 근거는 Apple App Store의 “X (formerly known as Twitter)” 문구로, 기존 Twitter와 현...",
+          "keywords": [
+            "Tweet",
+            "로고",
+            "퍼블릭",
+            "도메인에",
+            "들어간"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+          "link": "https://news.hada.io/topic?id=33440",
+          "pubDate": "2026-09-09T13:34:58.000Z",
+          "image": null,
+          "summary": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+          "keywords": [
+            "AI의",
+            "수학적",
+            "돌파구는",
+            "어떻게",
+            "논란을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: bitcoin-rs - ai 로 만든 bitcoin full node",
+          "link": "https://news.hada.io/topic?id=33439",
+          "pubDate": "2026-09-09T13:07:08.000Z",
+          "image": null,
+          "summary": "핵심 요점 bitcoin-rs는 Bitcoin Core를 Rust로 단순 재구현하는 프로젝트가 아니라, Bitcoin의 합의 규칙은 유지하면서 노드 아키텍처를 새롭게 설계하는 독립 구현체임. AI 발전으로 소규모 팀도 복잡한 시스템 소프트웨어를 빠르게 구현하고 반복적으로 실...",
+          "keywords": [
+            "Show",
+            "GN:",
+            "bitcoin",
+            "rs",
+            "ai"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
+          "link": "https://news.hada.io/topic?id=33438",
+          "pubDate": "2026-09-09T12:35:08.000Z",
+          "image": null,
+          "summary": "Flock Safety는 범죄를 없애려면 사생활을 희생해야 한다는 논리로 차량 감시망을 확대했으며, 미국 법 집행기관 약 40%가 계약하고 카메라 약 13만 대가 도로를 감시 중임 카메라는 번호판뿐 아니라 차량 제조사·모델·색상을 기록하며, 경찰은 영장이나 사법적 승인 없이...",
+          "keywords": [
+            "Flock이",
+            "원하는",
+            "탈출구",
+            "없는",
+            "촘촘한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Show GN: Wave 프로그래밍 언어",
           "link": "https://news.hada.io/topic?id=33437",
@@ -372,77 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Tesla의 Solar Roof 단종으로 설치업체들이 수십만 달러 손실을 떠안음",
-          "link": "https://news.hada.io/topic?id=33436",
-          "pubDate": "2026-09-09T11:33:25.000Z",
-          "image": null,
-          "summary": "인력·장비·교육에 수십만 달러를 투자한 인증 설치업체들이 Tesla의 Solar Roof 공급 중단으로 투자 손실과 진행 중인 프로젝트 변경 부담을 떠안음 미국 내 설치량은 약 7년간 3,000개 시스템에 그쳤고, 최고 실적도 주당 21~32건으로 Elon Musk가 약속한 주당 1,...",
-          "keywords": [
-            "Tesla의",
-            "Solar",
-            "Roof",
-            "단종으로",
-            "설치업체들이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show HN: LLM 어텐션 시각화",
-          "link": "https://news.hada.io/topic?id=33435",
-          "pubDate": "2026-09-09T10:36:48.000Z",
-          "image": null,
-          "summary": "LLM이 토큰을 생성할 때 어떤 이전 토큰을 참조했는지 살펴보는 도구로, 생성된 토큰을 누르거나 마우스를 올리면 참조 정보를 불투명도로 표시함 어텐션 가중치에 값 벡터의 크기를 반영하고 모든 헤드와 레이어의 정보를 합산해, 이전 토큰마다 하나의 수치로 보...",
-          "keywords": [
-            "Show",
-            "HN:",
-            "LLM",
-            "어텐션",
-            "시각화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
-          "link": "https://news.hada.io/topic?id=33434",
-          "pubDate": "2026-09-09T10:33:48.000Z",
-          "image": null,
-          "summary": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
-          "keywords": [
-            "대규모",
-            "언어",
-            "모델은",
-            "적응적",
-            "탐색을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI도 의식을 가질 수 있을까: ‘의식의 어려운 문제’가 다시 중요해진 이유",
-          "link": "https://news.hada.io/topic?id=33432",
-          "pubDate": "2026-09-09T09:34:01.000Z",
-          "image": null,
-          "summary": "핵심 요점 철학자 데이비드 차머스는 의식을 ‘1인칭 관점에서 느껴지는 주관적 경험’ 으로 정의하며, 물리적·계산적 과정이 왜 이러한 경험을 만들어내는지를 설명하는 문제를 ‘의식의 어려운 문제(Hard Problem)’ 라고 규정함.",
-          "keywords": [
-            "AI도",
-            "의식을",
-            "가질",
-            "있을까:",
-            "의식의"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:07.179Z",
+      "fetchedAt": "2026-09-09T14:10:39.709Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -496,8 +496,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "statistics",
             "Statistics",
+            "statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -535,7 +535,7 @@
           "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:07.445Z",
+      "fetchedAt": "2026-09-09T14:10:39.899Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:07.622Z",
+      "fetchedAt": "2026-09-09T14:10:40.104Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:07.669Z",
+      "fetchedAt": "2026-09-09T14:10:40.194Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +790,7 @@
         }
       ],
       "fetchedAt": "2026-09-09T12:13:10.684Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:11.038Z",
+      "fetchedAt": "2026-09-09T14:10:56.328Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +884,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "pubDate": "2026-09-09T13:00:00.000Z",
+          "image": null,
+          "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+          "keywords": [
+            "Enterprise",
+            "Startups",
+            "Security",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 에이전트가 새로운 엔터프라이즈 보안 위험을 생성함에 따라 세쿼이아는 심포니를 두 배로 낮춥니다.",
+          "summaryKo": "Cymphony는 Sequoia와 SMBC Fin Atlas Beyond Fund가 공동 주도한 2,500만 달러 규모의 시리즈 A에서 1억 달러 이상으로 평가되었습니다."
+        },
         {
           "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
           "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
@@ -950,27 +966,9 @@
           "isForeign": true,
           "titleKo": "Poseidon Aerospace, 첫 조종사 없는 시험 비행보다 $ 60M 앞서 착륙",
           "summaryKo": "이 스타트업은 조종사를 방정식에서 완전히 제거하여 화물 항공기의 경제성을 재고하려고 노력하고 있습니다."
-        },
-        {
-          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-          "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-          "pubDate": "2026-09-06T16:45:00.000Z",
-          "image": null,
-          "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Transportation",
-            "atoms",
-            "In Brief",
-            "Travis Kalanick"
-          ],
-          "isForeign": true,
-          "titleKo": "Travis Kalanick의 Atoms가 로봇 택시 사업에 뛰어들고 있을지도 모릅니다.",
-          "summaryKo": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:11.101Z",
+      "fetchedAt": "2026-09-09T14:10:58.941Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1067,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:12.727Z",
+      "fetchedAt": "2026-09-09T14:11:04.871Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1078,11 +1076,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - newsis.com",
+          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
           "pubDate": "2026-09-09T06:37:55.000Z",
           "image": null,
-          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 newsis.com",
+          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 뉴시스",
           "keywords": [
             "물류",
             "서비스",
@@ -1130,7 +1128,7 @@
         },
         {
           "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KOENNTUE1NkJweEp3MktsMGFZWjUtUmpRRGtlREdjRW44Rk51bUxpUHc1Q285YzdGYTNWdkZQX0hYOWp1dGp5Qm9JX1VlNzhHMkRCbDFSU0VpdlVXMDgxbHYwbmFkWXRuRXQyYTFn0gFwQVVfeXFMTjhFX3ZtVlZTTTNYYWI1N0NXbjFOV3JlSHVEUXF2bGVwSWhDVkJLUVdDeU5jYl9FYWpTbDhRYjIzQ3l5ZHpDUU5mRmhtWklDSXZCakI5YzdnazNQS2RBbnFsV3NQNl9lRnhqQXpfbm1ZOA?oc=5",
           "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
           "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
@@ -1163,77 +1161,77 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:13.221Z",
+      "fetchedAt": "2026-09-09T14:11:05.327Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "k패션",
       "label": "K패션",
       "count": 2,
-      "rank": 1,
-      "change": "up"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 7,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "aws",
       "label": "AWS",
       "count": 2,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "show",
-      "label": "Show",
-      "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "국가",
-      "label": "국가",
+      "key": "gn:",
+      "label": "GN:",
       "count": 2,
       "rank": 10,
       "change": "new"
