@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-09T10:11:09.111Z",
+  "collectedAt": "2026-09-09T12:13:13.230Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -42,10 +42,10 @@
       "items": [
         {
           "title": "“고점에 물린 개미들만 피눈물”…김승원 의혹에 드러난 주식시장 민낯",
-          "link": "https://www.mk.co.kr/news/economy/12148668",
+          "link": "https://www.mk.co.kr/news/stock/12148668",
           "pubDate": "2026-09-09T10:06:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.a5360f58f5d34d25836f8ffb9102a79b_R.png",
-          "summary": "김승원 법무부 장관 후보자의 ‘신약 임상시험 승인 청탁 의혹’을 둘러싸고 미공개 정보 이용 의혹에 이어 주가조작 가능성까지 제기되면서 코로나19 치료제 테마주를 둘러싼 불공정거래 ..",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260830.879dc2c9b7504483aa686dd7ae0a6aa0_R.jpg",
+          "summary": "세종메디칼·제넨셀 주주연대 논란 확산 자본시장법상 규제 무시하고 내부 거래 주가 올리려 허위·과장 자료 제출까지 ‘임상승인’ 호재에도 테마주 주가 폭락김승원 법무부 장관 후보자의 ..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:10:58.528Z",
+      "fetchedAt": "2026-09-09T12:13:05.127Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T10:10:58.594Z",
+      "fetchedAt": "2026-09-09T12:13:05.209Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -206,7 +206,7 @@
           "summaryKo": null
         },
         {
-          "title": "오픈AI, ‘아스트라’ 기반 사이버보안 모델 출시 준비…“강력한 성능은 곧 강력한 보안”",
+          "title": "오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215065",
           "pubDate": "2026-09-09T18:54:55.000Z",
           "image": null,
@@ -214,9 +214,9 @@
           "keywords": [
             "오픈AI",
             "아스트라",
-            "기반",
-            "사이버보안",
-            "모델"
+            "사이버",
+            "모델",
+            "준비"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:10:59.565Z",
+      "fetchedAt": "2026-09-09T12:13:06.277Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T10:10:59.735Z",
+      "fetchedAt": "2026-09-09T12:13:06.466Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,74 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Show GN: Wave 프로그래밍 언어",
+          "link": "https://news.hada.io/topic?id=33437",
+          "pubDate": "2026-09-09T12:09:04.000Z",
+          "image": null,
+          "summary": "작년에 Wave를 한 번 소개를 했었는데, 이후 프로젝트가 많이 바뀌어서 다시 한번 소개합니다. Wave는 C, Rust 등의 저수준 언어에서 영향을 받아 개발하고 있는 프로그래밍 언어입니다. 현재 LLVM을 백엔드로 사용해 네이티브 코드로 컴파일하며, 시스템 프로그래밍을 포함한 다양한 영역에서 사용할 수 있는",
+          "keywords": [
+            "Show",
+            "GN:",
+            "Wave",
+            "프로그래밍",
+            "언어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Tesla의 Solar Roof 단종으로 설치업체들이 수십만 달러 손실을 떠안음",
+          "link": "https://news.hada.io/topic?id=33436",
+          "pubDate": "2026-09-09T11:33:25.000Z",
+          "image": null,
+          "summary": "인력·장비·교육에 수십만 달러를 투자한 인증 설치업체들이 Tesla의 Solar Roof 공급 중단으로 투자 손실과 진행 중인 프로젝트 변경 부담을 떠안음 미국 내 설치량은 약 7년간 3,000개 시스템에 그쳤고, 최고 실적도 주당 21~32건으로 Elon Musk가 약속한 주당 1,...",
+          "keywords": [
+            "Tesla의",
+            "Solar",
+            "Roof",
+            "단종으로",
+            "설치업체들이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show HN: LLM 어텐션 시각화",
+          "link": "https://news.hada.io/topic?id=33435",
+          "pubDate": "2026-09-09T10:36:48.000Z",
+          "image": null,
+          "summary": "LLM이 토큰을 생성할 때 어떤 이전 토큰을 참조했는지 살펴보는 도구로, 생성된 토큰을 누르거나 마우스를 올리면 참조 정보를 불투명도로 표시함 어텐션 가중치에 값 벡터의 크기를 반영하고 모든 헤드와 레이어의 정보를 합산해, 이전 토큰마다 하나의 수치로 보...",
+          "keywords": [
+            "Show",
+            "HN:",
+            "LLM",
+            "어텐션",
+            "시각화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
+          "link": "https://news.hada.io/topic?id=33434",
+          "pubDate": "2026-09-09T10:33:48.000Z",
+          "image": null,
+          "summary": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
+          "keywords": [
+            "대규모",
+            "언어",
+            "모델은",
+            "적응적",
+            "탐색을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AI도 의식을 가질 수 있을까: ‘의식의 어려운 문제’가 다시 중요해진 이유",
           "link": "https://news.hada.io/topic?id=33432",
@@ -372,76 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "내 PC가 AI 데이터센터가 된다: 유휴 컴퓨팅 자원의 새로운 수익화",
-          "link": "https://news.hada.io/topic?id=33431",
-          "pubDate": "2026-09-09T09:14:52.000Z",
-          "image": null,
-          "summary": "핵심 요점 AI 추론 수요 증가로 가정용 서버·게이밍 PC·노트북의 유휴 컴퓨팅 자원을 임대하는 분산형 인프라 모델이 등장하고 있음. 이 방식은 기존 대형 데이터센터 대비 설비 투자비 절감, 지역 분산에 따른 복원력 향상, 잠재적 지연",
-          "keywords": [
-            "PC가",
-            "AI",
-            "데이터센터가",
-            "된다:",
-            "유휴"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "저작권은 이익보다 해악이 크므로 폐지해야 함",
-          "link": "https://news.hada.io/topic?id=33430",
-          "pubDate": "2026-09-09T08:39:25.000Z",
-          "image": null,
-          "summary": "GrapheneOS는 저작권이 현실에서 개인과 소기업의 생계를 보호하지 못하고 이익보다 훨씬 큰 해악을 낳는다며 폐지를 요구함 보호 장치여야 할 저작권이 오히려 대기업의 독점 유지 수단으로 작동한다고 비판함 저작권은 침해가...",
-          "keywords": [
-            "저작권은",
-            "이익보다",
-            "해악이",
-            "크므로",
-            "폐지해야"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "나비에–스토크스 밀레니엄 상금 문제",
-          "link": "https://news.hada.io/topic?id=33429",
-          "pubDate": "2026-09-09T08:36:25.000Z",
-          "image": null,
-          "summary": "OpenAI가 미공개 모델로 나비에–스토크스 존재성과 매끄러움 문제의 해법을 얻었다고 발표했으나, 거의 1년 동안 Claude와 Codex로 관련 연구를 진행한 수학자들과 연구 선취·데이터 사용 논란이 불거짐 Tristan Buckmaster와 Levent Alpöge는 8...",
-          "keywords": [
-            "나비에–스토크스",
-            "밀레니엄",
-            "상금",
-            "문제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수학자에게 Lean이 있다면 개발자에게는 TLA+가 있다",
-          "link": "https://news.hada.io/topic?id=33428",
-          "pubDate": "2026-09-09T08:31:30.000Z",
-          "image": null,
-          "summary": "프로그래밍은 거칠게 말하면, 내가 만든 논리가 틀리지 않았는지 사용자에게 배포해 런타임을 실행으로 증명하는일 배포 뒤 사용자가 발견하던 논리의 허점을, 배포 전에 더 많이 찾아낼 수는 없을까? 수학의 증명과 프로그래밍의 타입 검사...",
-          "keywords": [
-            "수학자에게",
-            "Lean이",
-            "있다면",
-            "개발자에게는",
-            "TLA+가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:00.298Z",
+      "fetchedAt": "2026-09-09T12:13:07.179Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -495,8 +496,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -534,7 +535,7 @@
           "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:00.565Z",
+      "fetchedAt": "2026-09-09T12:13:07.445Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:00.725Z",
+      "fetchedAt": "2026-09-09T12:13:07.622Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:00.804Z",
+      "fetchedAt": "2026-09-09T12:13:07.669Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:06.092Z",
+      "fetchedAt": "2026-09-09T12:13:10.684Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:06.362Z",
+      "fetchedAt": "2026-09-09T12:13:11.038Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +970,7 @@
           "summaryKo": "Uber 창립자는 Atoms를 통해 '미완성 비즈니스' 를 완료할 수 있다고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:06.475Z",
+      "fetchedAt": "2026-09-09T12:13:11.101Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:08.499Z",
+      "fetchedAt": "2026-09-09T12:13:12.727Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1077,11 +1078,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
+          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - newsis.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
           "pubDate": "2026-09-09T06:37:55.000Z",
           "image": null,
-          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 뉴시스",
+          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 newsis.com",
           "keywords": [
             "물류",
             "서비스",
@@ -1128,112 +1129,112 @@
           "summaryKo": null
         },
         {
-          "title": "한유원, 소상공인 물류 서비스 지원사업 참여기업 모집 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUY2pQdlB4b3hFS3J6MHlXXzhZTUszXzJRN3NwSWNud3NjS0F6Mnl6WG5vR3hMM1V6V0NLSXFvUzJOWDdGMXFTNWtKNWItX2Nqdk12OHdXMzJIUFQ0SVF5V2J3bkk?oc=5",
-          "pubDate": "2026-09-09T03:52:13.000Z",
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+          "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
-          "summary": "한유원, 소상공인 물류 서비스 지원사업 참여기업 모집 MTN 머니투데이방송",
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
           "keywords": [
-            "한유원",
-            "소상공인",
-            "물류",
-            "서비스",
-            "지원사업"
+            "공고",
+            "2026년",
+            "GHKOL",
+            "해외진출",
+            "실무특화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "수공, 역대 최대 국가 K-테스트베드 지원사업 추진 - 국토일보",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HUTBkRjZteGdIWjJXZ2E5LU5Va0JnTm1lbFRfZS1SOXJvY3dFY1hQVFNyT3luOWFsaU1uSkpkVGViOFU1ZzdfMmxLYzR6OUhoWW1oU09VR3BpSl9qQVkxUGFSWQ?oc=5",
-          "pubDate": "2026-09-09T02:30:00.000Z",
+          "title": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ZkNOLUh3RTN1Zkw4TUc5VHNFNzdIVDhUaWhpLXE3VHdUN1oxV1l6QlAxbmVzdS1Gbmtjd3NUREFGSW1pZGg2eWE5alZCeGM?oc=5",
+          "pubDate": "2026-09-09T10:38:00.000Z",
           "image": null,
-          "summary": "수공, 역대 최대 국가 K-테스트베드 지원사업 추진 국토일보",
+          "summary": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 v.daum.net",
           "keywords": [
-            "수공",
-            "역대",
-            "최대",
+            "수자원공사",
             "국가",
-            "테스트베드"
+            "테스트베드",
+            "지원사업",
+            "참여"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T10:11:09.103Z",
+      "fetchedAt": "2026-09-09T12:13:13.221Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 1,
-      "change": "same"
-    },
-    {
       "key": "k패션",
       "label": "K패션",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "aws",
+      "label": "AWS",
+      "count": 2,
       "rank": 8,
-      "change": "up"
+      "change": "new"
     },
     {
-      "key": "물류",
-      "label": "물류",
-      "count": 3,
+      "key": "show",
+      "label": "Show",
+      "count": 2,
       "rank": 9,
-      "change": "up"
+      "change": "new"
     },
     {
-      "key": "서비스",
-      "label": "서비스",
-      "count": 3,
+      "key": "국가",
+      "label": "국가",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
