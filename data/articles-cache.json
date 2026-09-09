@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-09T14:11:05.342Z",
+  "collectedAt": "2026-09-09T16:11:14.174Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:37.476Z",
+      "fetchedAt": "2026-09-09T16:11:00.591Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:37.538Z",
+      "fetchedAt": "2026-09-09T16:11:00.676Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:38.777Z",
+      "fetchedAt": "2026-09-09T16:11:02.165Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:38.921Z",
+      "fetchedAt": "2026-09-09T16:11:02.338Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "“Tweet”과 새 로고, 퍼블릭 도메인에 들어간 것으로 보임",
-          "link": "https://news.hada.io/topic?id=33441",
-          "pubDate": "2026-09-09T13:37:58.000Z",
+          "title": "Desert Ant Labs, 기기에서 실행되는 빠른 로컬 모델 공개",
+          "link": "https://news.hada.io/topic?id=33446",
+          "pubDate": "2026-09-09T15:34:11.000Z",
           "image": null,
-          "summary": "Twitter의 X 리브랜딩 이후 이어진 상표 분쟁에서 법원은 TWEET과 새 로고는 포기됐을 가능성이 높지만, TWITTER 상표는 계속 사용되고 있다고 판단함 TWITTER 상표 유지의 근거는 Apple App Store의 “X (formerly known as Twitter)” 문구로, 기존 Twitter와 현...",
+          "summary": "오디오·비전·텍스트 작업을 클라우드 없이 처리하도록 유럽 AI 연구소 Desert Ant Labs가 소형 특화 모델 18개를 공개함. 안정 버전 12개와 베타 6개를 Swift·Kotlin·JavaScript용 SDK로 제공함 작업당 하나의 모델을 기기에서 실행해 호출당 비용과 서버 왕복을 없...",
           "keywords": [
-            "Tweet",
-            "로고",
-            "퍼블릭",
-            "도메인에",
-            "들어간"
+            "Desert",
+            "Ant",
+            "Labs",
+            "기기에서",
+            "실행되는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
-          "link": "https://news.hada.io/topic?id=33440",
-          "pubDate": "2026-09-09T13:34:58.000Z",
+          "title": "나는 Google Ads에 악성 소프트웨어를 광고한다",
+          "link": "https://news.hada.io/topic?id=33445",
+          "pubDate": "2026-09-09T14:48:37.000Z",
           "image": null,
-          "summary": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+          "summary": "Rust로 만든 macOS 터미널 멀티플렉서 RACE를 홍보하려고 Google Ads에 500달러를 쓴 개발자가 ‘악성 소프트웨어’와 ‘침해된 사이트’를 이유로 광고 계정 정지를 겪음 Google은 반복된 이의신청을 거절하면서도 문제가 된 파일·페이지·행위나...",
           "keywords": [
-            "AI의",
-            "수학적",
-            "돌파구는",
-            "어떻게",
-            "논란을"
+            "나는",
+            "Google",
+            "Ads에",
+            "악성",
+            "소프트웨어를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: bitcoin-rs - ai 로 만든 bitcoin full node",
-          "link": "https://news.hada.io/topic?id=33439",
-          "pubDate": "2026-09-09T13:07:08.000Z",
+          "title": "Tailwind Labs, Shopify에 합류",
+          "link": "https://news.hada.io/topic?id=33444",
+          "pubDate": "2026-09-09T14:45:37.000Z",
           "image": null,
-          "summary": "핵심 요점 bitcoin-rs는 Bitcoin Core를 Rust로 단순 재구현하는 프로젝트가 아니라, Bitcoin의 합의 규칙은 유지하면서 노드 아키텍처를 새롭게 설계하는 독립 구현체임. AI 발전으로 소규모 팀도 복잡한 시스템 소프트웨어를 빠르게 구현하고 반복적으로 실...",
+          "summary": "수백만 사용자가 의존하는 Tailwind의 안정적인 장기 기반과 지속적인 유지보수를 확보하기 위해 Tailwind Labs가 Shopify에 합류함 템플릿 사업을 넘어 실제 제품 개발에서 사용자와 같은 문제를 겪고 해결책을 만들려는 목표에 Shopify의 스토어·관리자 화면·쇼...",
           "keywords": [
-            "Show",
-            "GN:",
-            "bitcoin",
-            "rs",
-            "ai"
+            "Tailwind",
+            "Labs",
+            "Shopify에",
+            "합류"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
-          "link": "https://news.hada.io/topic?id=33438",
-          "pubDate": "2026-09-09T12:35:08.000Z",
+          "title": "DeepSeek, V4 Pro보다 저렴하고 성능이 뛰어난 V4.1 Flash 출시 예정",
+          "link": "https://news.hada.io/topic?id=33443",
+          "pubDate": "2026-09-09T14:42:37.000Z",
           "image": null,
-          "summary": "Flock Safety는 범죄를 없애려면 사생활을 희생해야 한다는 논리로 차량 감시망을 확대했으며, 미국 법 집행기관 약 40%가 계약하고 카메라 약 13만 대가 도로를 감시 중임 카메라는 번호판뿐 아니라 차량 제조사·모델·색상을 기록하며, 경찰은 영장이나 사법적 승인 없이...",
+          "summary": "DeepSeek은 내부·외부 테스트에서 V4 Pro의 모든 주요 지표를 넘어선 V4.1 Flash를 2026년 9월 10일 전후(베이징 시간) 정식 출시할 계획임 비교 지표는 성능·비용·속도·작업 완료 시간이며, 구체적인 벤치마크 수치나 테스트 조건은 공개하지 않...",
           "keywords": [
-            "Flock이",
-            "원하는",
-            "탈출구",
-            "없는",
-            "촘촘한"
+            "DeepSeek",
+            "V4",
+            "Pro보다",
+            "저렴하고",
+            "성능이"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Wave 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=33437",
-          "pubDate": "2026-09-09T12:09:04.000Z",
+          "title": "Claude, &quot;Add to Cart&quot; 버튼을 파란색으로 바꿔 줘",
+          "link": "https://news.hada.io/topic?id=33442",
+          "pubDate": "2026-09-09T14:39:37.000Z",
           "image": null,
-          "summary": "작년에 Wave를 한 번 소개를 했었는데, 이후 프로젝트가 많이 바뀌어서 다시 한번 소개합니다. Wave는 C, Rust 등의 저수준 언어에서 영향을 받아 개발하고 있는 프로그래밍 언어입니다. 현재 LLVM을 백엔드로 사용해 네이티브 코드로 컴파일하며, 시스템 프로그래밍을 포함한 다양한 영역에서 사용할 수 있는",
+          "summary": "Opusfived는 버튼 색상 하나를 바꾸는 단순한 요청과 AI의 범위 밖 변경을 소재로 한 짧은 인터랙티브 코미디임 요청은 “Add to Cart” 버튼을 파란색으로 바꾸는 것으로, 대상과 바꿀 속성이 명확함 작업에는 다른 것은 아무것도 바꾸지 않아야...",
           "keywords": [
-            "Show",
-            "GN:",
-            "Wave",
-            "프로그래밍",
-            "언어"
+            "Claude",
+            "&quot;Add",
+            "to",
+            "Cart&quot;",
+            "버튼을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:39.709Z",
+      "fetchedAt": "2026-09-09T16:11:03.187Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -496,8 +495,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -535,7 +534,7 @@
           "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:39.899Z",
+      "fetchedAt": "2026-09-09T16:11:03.512Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:40.104Z",
+      "fetchedAt": "2026-09-09T16:11:03.915Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:40.194Z",
+      "fetchedAt": "2026-09-09T16:11:04.029Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -698,6 +697,60 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "AI가 공격 속도까지 바꿨다…GTIG, 6시간 만의 대규모 계정 탈취 경고",
+          "link": "https://www.venturesquare.net/1112197/",
+          "pubDate": "2026-09-09T14:52:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/google-2-789x444.png",
+          "summary": "GTIG는 에이전틱 AI를 활용해 클라우드 침해 후 6시간 만에 수천 개의 자격 증명을 탈취한 사례를 공개했다. AI 코딩 도구와 오픈소스 공급망을 노린 공격부터 독점 모델·소스코드 탈취, GPU 자원 무단 사용까지 위협 범위가 확대됐다. 보고서는 AI 자산과 클라우드... The post AI가 공격 속도까지 바꿨다…GTIG, 6시간 만의 대규모 계정 탈취 경고 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI공급망",
+            "GTIG",
+            "LLM재킹"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "수명 16주 킬리피쉬가 바꾸는 항노화 검증…이음바이오, 스위스 무대 선다",
+          "link": "https://www.venturesquare.net/1112194/",
+          "pubDate": "2026-09-09T14:40:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1788393027848-nytljhdh-696x522.jpg",
+          "summary": "이음바이오가 스위스 ‘장수산업 투자자 콘퍼런스’의 혁신기업 8곳 가운데 한국 기업으로 유일하게 선정됐다. 회사는 수명 4~6개월의 열대어 킬리피쉬를 활용해 항노화 및 건강수명 후보 물질의 효능을 평가하는 전임상 플랫폼 ‘킬리스팬’을 개발하고 있다. 이음바이오는 콘퍼런스... The post 수명 16주 킬리피쉬가 바꾸는 항노화 검증…이음바이오, 스위스 무대 선다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "LongevityInvestorsConference",
+            "건강수명",
+            "바이오스타트업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "기술 개발 3년, 이제 양산으로…디알티, 새만금 BM 생산라인 가동",
+          "link": "https://www.venturesquare.net/1112166/",
+          "pubDate": "2026-09-09T09:05:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/drt-789x472.jpg",
+          "summary": "디알티가 창립 3주년을 맞아 전북 군산 새만금산단에서 폐이차전지 재활용 고효율 BM 양산설비 가동에 들어갔다. 회사는 독자적으로 개발한 열처리 기술을 기반으로 대지 4,000평, 건물 2,500평 규모의 생산거점을 구축했다. 디알티는 공정 안정화와 기술 고도화를 거쳐 ... The post 기술 개발 3년, 이제 양산으로…디알티, 새만금 BM 생산라인 가동 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "BM",
+            "디알티",
+            "배터리순환경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "센터는 파트너가, 기술은 아르고가…테크타카, 11일 ‘에셋 라이트’ 전략 공개",
           "link": "https://www.venturesquare.net/1112158/",
@@ -733,64 +786,10 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "천안·아산 잇는 6,109억 AI 도시…오케스트로, 자율운영 인프라 청사진 공개",
-          "link": "https://www.venturesquare.net/1112148/",
-          "pubDate": "2026-09-09T08:53:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/wsce-789x444.jpg",
-          "summary": "오케스트로가 WSCE 2026에서 총사업비 약 6,109억 원 규모의 천안·아산 AI 특화 시범도시 청사진을 공개한다. 사업은 2026년부터 2030년까지 두 도시의 데이터와 AI 인프라를 연결해 재난·교통·행정·에너지 분야를 지능화하는 방식으로 추진된다. 오케스트로는... The post 천안·아산 잇는 6,109억 AI 도시…오케스트로, 자율운영 인프라 청사진 공개 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AIDC",
-            "AI특화시범도시",
-            "WSCE2026"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "원단 스와치로 여러 착장을 만든다…스타일에이아이·SOH, 파리서 패션 AI 시연",
-          "link": "https://www.venturesquare.net/1112141/",
-          "pubDate": "2026-09-09T08:49:09.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-10-576x522.png",
-          "summary": "스타일에이아이가 K-패션 브랜드 SOH와 파리 ‘후즈넥스트’에서 원단 스와치 기반 AI 스타일링 서비스를 시연했다. 최소한의 실물 샘플로 여러 소재와 색상의 착장 이미지를 제시해 샘플 제작과 운송 부담을 줄이는 방식이다. 회사는 M8 Showroom과 협력해 AI 디자... The post 원단 스와치로 여러 착장을 만든다…스타일에이아이·SOH, 파리서 패션 AI 시연 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "K패션",
-            "M8Showroom",
-            "SOH"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "위성·발사체 스타트업에 최대 10만 달러 크레딧…AWS, 한국 우주 액셀러레이터 출범",
-          "link": "https://www.venturesquare.net/1112118/",
-          "pubDate": "2026-09-09T06:04:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/08/AWS-6-789x472.png",
-          "summary": "AWS가 우주항공청, 메가존클라우드와 함께 국내 우주·위성 스타트업을 위한 4주 과정의 ‘AWS 스페이스 엑셀러레이터: 한국 2026’을 운영한다. 위성 제조·운영과 지구관측, 발사체, 우주 통신, 우주 AI 등의 분야에서 활동하는 초기부터 프리시리즈B 단계의 기업이 ... The post 위성·발사체 스타트업에 최대 10만 달러 크레딧…AWS, 한국 우주 액셀러레이터 출범 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AWS",
-            "AWS스페이스엑셀러레이터",
-            "메가존클라우드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T12:13:10.684Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-09T16:11:08.617Z",
+      "error": null
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -876,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:56.328Z",
+      "fetchedAt": "2026-09-09T16:11:08.914Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +883,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+          "link": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+          "pubDate": "2026-09-09T14:38:41.000Z",
+          "image": null,
+          "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+          "keywords": [
+            "Startups",
+            "Transportation",
+            "fleet management",
+            "Uber"
+          ],
+          "isForeign": true,
+          "titleKo": "Uber는 인도 법인택시 운영업체 Carrum에 1억 6,800만 달러를 투자합니다.",
+          "summaryKo": "Carrum Mobility는 인도에서 약 5,100대의 차량을 운행하며, 인도에서 프리미엄 Uber Black 서비스를 제공하는 Uber의 최대 법인택시 파트너입니다."
+        },
         {
           "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
           "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
@@ -948,27 +963,9 @@
           "isForeign": true,
           "titleKo": "원자력 스타트업 블루코어 에너지, 출시 2개월 만에 $ 50M 시드 라운드 모금",
           "summaryKo": "Bluecore Energy는 화요일에 1,000만 달러의 사전 종자를 모으고 스텔스에서 나온 지 불과 몇 달 만에 5,000만 달러가 넘는 종자 라운드를 과다 구독했다고 발표했습니다."
-        },
-        {
-          "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-          "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-          "pubDate": "2026-09-08T13:00:00.000Z",
-          "image": null,
-          "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "Transportation",
-            "airborne cargo",
-            "autonomous aircraft",
-            "aviation"
-          ],
-          "isForeign": true,
-          "titleKo": "Poseidon Aerospace, 첫 조종사 없는 시험 비행보다 $ 60M 앞서 착륙",
-          "summaryKo": "이 스타트업은 조종사를 방정식에서 완전히 제거하여 화물 항공기의 경제성을 재고하려고 노력하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T14:10:58.941Z",
+      "fetchedAt": "2026-09-09T16:11:11.382Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T14:11:04.871Z",
+      "fetchedAt": "2026-09-09T16:11:13.639Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1093,11 +1090,11 @@
           "summaryKo": null
         },
         {
-          "title": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 - 서울경제TV",
+          "title": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 - sentv.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EbTZzVWQ5N1ROLXlJalo4a2hyTzVwdjJYTWdMbjhvdElVV2pGUHc1b2NYdFVpLXVuTU9LX2Vpa3FxajBPbU9vV0w4dHc5OGRpaUxpM0gwQVQ4MVV6eWw4QjdscW8?oc=5",
           "pubDate": "2026-09-09T05:19:44.000Z",
           "image": null,
-          "summary": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 서울경제TV",
+          "summary": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 sentv.co.kr",
           "keywords": [
             "한유원",
             "소상공인",
@@ -1127,23 +1124,6 @@
           "summaryKo": null
         },
         {
-          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KOENNTUE1NkJweEp3MktsMGFZWjUtUmpRRGtlREdjRW44Rk51bUxpUHc1Q285YzdGYTNWdkZQX0hYOWp1dGp5Qm9JX1VlNzhHMkRCbDFSU0VpdlVXMDgxbHYwbmFkWXRuRXQyYTFn0gFwQVVfeXFMTjhFX3ZtVlZTTTNYYWI1N0NXbjFOV3JlSHVEUXF2bGVwSWhDVkJLUVdDeU5jYl9FYWpTbDhRYjIzQ3l5ZHpDUU5mRmhtWklDSXZCakI5YzdnazNQS2RBbnFsV3NQNl9lRnhqQXpfbm1ZOA?oc=5",
-          "pubDate": "2026-09-08T21:00:00.000Z",
-          "image": null,
-          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
-          "keywords": [
-            "공고",
-            "2026년",
-            "GHKOL",
-            "해외진출",
-            "실무특화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 - v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ZkNOLUh3RTN1Zkw4TUc5VHNFNzdIVDhUaWhpLXE3VHdUN1oxV1l6QlAxbmVzdS1Gbmtjd3NUREFGSW1pZGg2eWE5alZCeGM?oc=5",
           "pubDate": "2026-09-09T10:38:00.000Z",
@@ -1159,80 +1139,97 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "한유원, 소상공인 물류 서비스 지원사업 참여기업 모집 - MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUY2pQdlB4b3hFS3J6MHlXXzhZTUszXzJRN3NwSWNud3NjS0F6Mnl6WG5vR3hMM1V6V0NLSXFvUzJOWDdGMXFTNWtKNWItX2Nqdk12OHdXMzJIUFQ0SVF5V2J3bkk?oc=5",
+          "pubDate": "2026-09-09T03:52:13.000Z",
+          "image": null,
+          "summary": "한유원, 소상공인 물류 서비스 지원사업 참여기업 모집 MTN 머니투데이방송",
+          "keywords": [
+            "한유원",
+            "소상공인",
+            "물류",
+            "서비스",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T14:11:05.327Z",
+      "fetchedAt": "2026-09-09T16:11:14.167Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 1,
-      "change": "new"
-    },
-    {
-      "key": "k패션",
-      "label": "K패션",
-      "count": 2,
-      "rank": 2,
-      "change": "down"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "물류",
+      "label": "물류",
+      "count": 3,
+      "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "서비스",
+      "label": "서비스",
+      "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "new"
     },
     {
-      "key": "aws",
-      "label": "AWS",
-      "count": 2,
+      "key": "소상공인",
+      "label": "소상공인",
+      "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "new"
     },
     {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 2,
+      "key": "한유원",
+      "label": "한유원",
+      "count": 3,
       "rank": 10,
       "change": "new"
     }
