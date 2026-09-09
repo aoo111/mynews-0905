@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-09T02:10:57.497Z",
+  "collectedAt": "2026-09-09T04:10:42.920Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“쉬지는 않지만 취업은 막막”…청년 ‘쉬었음’ 감소의 이면",
+          "link": "https://www.mk.co.kr/news/economy/12148149",
+          "pubDate": "2026-09-09T03:18:04.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/rcv.YNA.20260908.PYH2026090814300005100_R.jpg",
+          "summary": "청년층 취업자가 46개월 연속 감소한 가운데 정부가 ‘쉬었음’ 청년 감소세를 두고 직업훈련과 구직 활동이 살아나는 신호일 수 있다는 해석을 내놨다. 다만 취업자 수와 고용률은 여전..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "우리금융이 3년간 지원한 농구소년…신인상 이어 태극마크 달았다",
+          "link": "https://www.mk.co.kr/news/economy/12148117",
+          "pubDate": "2026-09-09T02:39:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.c3e65562a94148f6bb98f785e5ba73cb_R.jpg",
+          "summary": "우리다문화장학재단 특기장학생인 에디 다니엘 선수, 아시안게임 출전우리금융그룹 산하 우리다문화장학재단은 특기 장학생으로 지원해 온 에디 다니엘 선수가 ‘2026 아이치·나고야 아시안..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“AI가 카드 혜택 비교해줘”…커넥셔너리, 신한카드와 AI 엔진 공동개발",
           "link": "https://www.mk.co.kr/news/economy/12148053",
           "pubDate": "2026-09-09T02:06:31.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "집 한 채에 빚 1억 더 얹었다…30대 주담대, 7년 내내 불어난 이유",
-          "link": "https://www.mk.co.kr/news/economy/12147990",
-          "pubDate": "2026-09-09T01:31:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260904.feaa2b67235343cd83bf3bc20b39a4ef_R.png",
-          "summary": "20~40대 주담대 28분기 연속 증가 30대 1인당 잔액 7년 새 1억원↑30대 주택담보대출 차주가 짊어진 대출이 7년 새 1인당 1억원 넘게 불어난 것으로 나타났다. 집값 조정..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "삼성생명, 치료 횟수 따라 최대 5번 보장…건강보험 강화",
-          "link": "https://www.mk.co.kr/news/economy/12147987",
-          "pubDate": "2026-09-09T01:29:18.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.185fc5d9a4f340e1abb3c51e9061f228_R.jpg",
-          "summary": "삼성생명이 암 치료 횟수에 따라 보험금을 반복 지급하는 건강보험을 내놨다. 삼성생명은 10일 ‘삼성 가족대표건강보험 Plus+’를 출시한다고 9일 밝혔다. 핵심은 암 치료를 받을 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:40.513Z",
+      "fetchedAt": "2026-09-09T04:10:17.580Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:40.587Z",
+      "fetchedAt": "2026-09-09T04:10:17.627Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "제주, '에너지제로 마을' 실증…태양광·ESS·전기차 AI 통합 관리",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215018",
-          "pubDate": "2026-09-09T10:53:08.000Z",
+          "title": "메타, 개인용 AI 에이전트 '뮤즈' 공개...실생활 자동화 시장 출사표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215022",
+          "pubDate": "2026-09-09T12:45:35.000Z",
           "image": null,
-          "summary": "제주에서 태양광과 에너지저장장치(ESS), 전기차, 히트펌프 등을 가정·마을 단위로 AI가 통합 관리하고 남는 전력을 이웃과 나눠 쓰는 '에너지제로 마을' 실증사업이 추진된다.기후에너지환경부는 '2026년 AI 기반 분산에너지 특화지역 지원사업' 공모를 통해 선정된 분산에너지 사업을 제주에서 우선 추진한다고 지난 8일 밝혔다.우선 제주 한림읍 또는 대정읍의 약 20가구를 대상으로 태양광과 히트펌프, 전기차, ESS, AI 가전을 하나의 시스템으로 연결한 에너지제로 주택단지를 구축한다.각 가정에서 생산하고 남은 전력을 마을 안에서 나",
+          "summary": "메타가 소비자를 대상으로 일상적인 업무를 대행하는 새로운 개인용 AI 에이전트를 공개했다. 단순히 질문에 답하는 기존 AI 챗봇에서 벗어나 사용자의 목표를 이해하고 필요한 작업을 스스로 계획·실행하는 ‘자율 동작형 AI’로 실생활 자동화 시장에 출사표를 던졌다. 메타는 8일(현지시간) 사용자의 명령에 따라 다양한 웹사이트와 서비스를 직접 이용해 복잡한 작업을 수행하는 소비자용 AI 에이전트 ‘뮤즈(Muse)’를 공개했다. 이전에 내부 코드명 '해치(Hatch)'로 알려진 뮤즈는 최신 모델 ‘뮤즈 스파크(Muse Spark) 1.3’",
           "keywords": [
-            "제주",
-            "에너지제로",
-            "마을",
-            "실증",
-            "태양광"
+            "메타",
+            "개인용",
+            "AI",
+            "에이전트",
+            "뮤즈"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "태양광발전소 풀숲까지 AI가 본다…위성으로 화재위험 예측",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215017",
-          "pubDate": "2026-09-09T10:51:49.000Z",
+          "title": "카카오, AI 영상 생성 연산 비용 대폭 줄이는 적응형 토큰화 기술 'KATok' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215036",
+          "pubDate": "2026-09-09T12:36:33.000Z",
           "image": null,
-          "summary": "호주 연구진이 대규모 태양광발전소의 식생 상태를 위성과 AI로 분석해 산불 위험과 가축 방목을 함께 관리하는 기술 개발에 나섰다. 사람이 직접 풀의 높이와 건조상태를 확인하던 방식 대신, 발전소 전역의 식생과 수분 상태를 정량적으로 파악하는 것이 목표다.호주연방과학산업연구원(CSIRO)은 지난 3일(현지시간) 맥쿼리대, 재생에너지기업 ACEN 오스트레이리아와 함께 뉴사우스웨일스주 뉴잉글랜드 솔라 발전소에서 위성 원격탐사와 AI를 활용한 식생 관리 연구를 진행하고 있다고 밝혔다.뉴잉글랜드 솔라는 우랄라 인근 약 2000헥타르의 방목지",
+          "summary": "카카오가 컴퓨터 비전 분야의 '유럽 컴퓨터 비전 학회(ECCV) 2026'에서 AI 영상 생성 모델의 난제로 꼽혀 온 방대한 연산량과 높은 계산 비용 문제를 해결하기 위한 신기술을 발표한다고 9일 밝혔다.ECCV는 CVPR(컴퓨터 비전 및 패턴 인식 학회), ICCV(국제 컴퓨터 비전 학회)와 함께 세계 3대 컴퓨터 비전 학회로, 올해는 오는 12일까지 스웨덴에서 개최된다. 이번 연구를 주도한 이연경 카카오 리서치 엔지니어가 학회에 참여해, 10일 포스터 세션2에서 직접 논문 발표에 나선다.고해상도·장시간 비디오 생성으로 연구 흐름",
           "keywords": [
-            "태양광발전소",
-            "풀숲까지",
-            "AI가",
-            "본다",
-            "위성으로"
+            "카카오",
+            "AI",
+            "영상",
+            "생성",
+            "연산"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "EU 상반기 태양광 33.8GW 신규 설치…전년보다 1.9% 증가",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215016",
-          "pubDate": "2026-09-09T10:50:23.000Z",
+          "title": "래블업, 기술 컨퍼런스 ‘lab | up > /conf/6’ 개최…“AI산업 시대의 엔드투엔드”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215035",
+          "pubDate": "2026-09-09T12:33:40.000Z",
           "image": null,
-          "summary": "유럽연합(EU)의 올해 상반기 신규 태양광 설치량이 33.8기가와트(GW)로 전년 동기보다 1.9% 늘어난 것으로 나타났다. 다만 주택용 태양광 지원 축소와 전력망 제약 등이 이어지면서 연간 신규 설치량은 지난해보다 소폭 감소할 것으로 전망됐다.유럽 태양광산업협회 솔라파워유럽(SolarPower Europe)은 지난 8일(현지시각) 발표한 보고서에서 올해 1~6월 EU에 최소 33.8GW의 태양광 설비가 새로 설치됐다고 밝혔다. 지난해 같은 기간 33.2GW보다 1.9% 증가한 규모다.독일과 스페인은 EU 최대 시장으로 높은 설치",
+          "summary": "AI 인프라 관리 전문 래블업(대표 신정규)은 오는 29일 서울 삼성동 코엑스 3층 컨퍼런스룸에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’를 개최한다고 밝혔다.올해로 6회째를 맞는 컨퍼런스로 래블업의 AI 인프라 기술과 연구개발 성과를 공유하는 자리다. AI 업계의 기업 관계자와 개발자들이 기술적 과제와 해결 방안을 논의하기 위한 것이다. 2021년 온라인으로 처음 시작된 이후 매년 AI 산업의 주요 기술 변화에 맞춰 주제를 확장해 왔다.올해 컨퍼런스의 주제는 ‘Make AI Composable²(AI를 조립 가능하",
           "keywords": [
-            "EU",
-            "상반기",
-            "태양광",
-            "33",
-            "8GW"
+            "래블업",
+            "기술",
+            "컨퍼런스",
+            "lab",
+            "up"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[9월8일] 오픈AI 내부에서 무슨 일이 벌어지고 있나…현실이 된 ‘AI 연구 인턴’",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214978",
-          "pubDate": "2026-09-09T07:00:00.000Z",
+          "title": "PFCT, 토스와 대안신용평가 모델 고도화 협력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215031",
+          "pubDate": "2026-09-09T12:27:54.000Z",
           "image": null,
-          "summary": "오픈AI가 6일(현지시간) 공식 블로그를 통해 자사 연구 조직에서 AI 에이전트가 어떻게 활용되고 있는지를 공개했습니다. 연구원들이 AI 에이전트에 하루 수백~수천달러의 추론 비용을 쓰고 있으며, AI에 맡기는 작업도 점점 복잡해지고 있고, 연구원들이 작성하는 코드와 수행하는 실험도 크게 늘었다는 내용입니다.하지만 이번 발표에서 가장 주목할 대목은 단순한 사용량 지표가 아니라, 오픈AI가 지난해 10월 공언했던 ‘AI 연구 인턴’ 목표의 이행 여부를 공식적으로 검증했다는 점입니다.당시 샘 알트먼 오픈AI CEO와 야쿠브 파초키 수석",
+          "summary": "PFCT(대표 이수환)는 '토스' 운영사 비바리퍼블리카와 금융 기관의 대안신용평가 모형 고도화 및 컨설팅을 위한 전략적 업무협약(MOU)을 체결했다고 9일 밝혔다.양사는 금융 기관의 여신 업무가 리스크 관리에 집중되는 한계를 넘어 여신승인전략까지 지원하도록 AI·대안정보 기반 솔루션 서비스를 공동 추진한다.토스는 한국평가데이터(KoDATA)와 개발한 대안신용평가 스코어와 대안정보를 기반으로 금융회사별 특성에 맞춘 신용평가모형(CSS) 패키지를 개발하고, PFCT는 해당 패키지를 자체 AI 렌딩테크 솔루션 '에어팩'에 탑재한다.이를",
           "keywords": [
-            "9월8일",
-            "오픈AI",
-            "내부에서",
-            "무슨",
-            "일이"
+            "PFCT",
+            "토스와",
+            "대안신용평가",
+            "모델",
+            "고도화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215015",
-          "pubDate": "2026-09-09T05:50:29.000Z",
+          "title": "팀네이버, 프랑스와 AI 팩토리·산업·콘텐츠 협업 비전 제시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215034",
+          "pubDate": "2026-09-09T12:26:47.000Z",
           "image": null,
-          "summary": "삼성전자가 미스트랄 AI와 손잡고 반도체 설계 및 제조에 특화된 자체 AI 모델 공동 개발에 나선다고 9일 밝혔다.이번 파트너십은 한·프랑스 정상회담에 맞춰 체결됐다. 삼성전자 DS부문이 보유한 반도체 기술과 제조 데이터에 미스트랄 AI의 고효율 AI 모델 기술을 결합해 반도체 업무 전반의 생산성과 정밀도를 극대화하는 ‘반도체 특화 AI’를 구축하는 것이 핵심이다.삼성전자는 미스트랄의 대형언어모델(LLM)인 '미스트랄 라지'를 활용해 DS부문에 최적화된 자체 AI 모델을 개발할 계획이다. 이를 데이터 분석, 결함 예측, 공정 최적화",
+          "summary": "팀네이버가 이재명 대통령의 프랑스 순방을 계기로 프랑스 핵심 기업, 기관들과 AI 분야를 중심으로 한 다양한 비즈니스 협력 확대를 모색했다.최수연 네이버 대표와 김유원 네이버클라우드 대표는 대통령 프랑스 순방 기간 동안 프랑스 미디어·IT·에너지·모빌리티·금융 분야 대표 기업 CEO 등 참석자들과 만나 AI 협업 기회 발굴에 나섰다고 8일 밝혔다.특히, 인프라와 산업 특화 AI 및 콘텐츠 분야에서의 협력을 모색했다. 먼저, 최수연 대표는 8일(현지 시간) 진행된 한-프랑스 경제인 비즈니스 라운드 테이블에서 모두 발언을 통해 ▲글로벌",
           "keywords": [
-            "삼성전자",
-            "미스트랄",
-            "AI와",
-            "맞손",
-            "반도체"
+            "팀네이버",
+            "프랑스와",
+            "AI",
+            "팩토리",
+            "산업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:42.072Z",
+      "fetchedAt": "2026-09-09T04:10:19.046Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:42.216Z",
+      "fetchedAt": "2026-09-09T04:10:19.183Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,87 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show HN: Copperhead — 회로 기판을 위한 Cursor",
-          "link": "https://news.hada.io/topic?id=33397",
-          "pubDate": "2026-09-09T01:59:51.000Z",
+          "title": "에이전트는 테스트·검증 기법을 얼마나 잘 활용하는가?",
+          "link": "https://news.hada.io/topic?id=33410",
+          "pubDate": "2026-09-09T04:04:00.000Z",
           "image": null,
-          "summary": "회로도와 문서가 따로 바뀌며 생기는 설계 불일치를 줄이기 위해, 오픈소스 AI 엔지니어링 플랫폼 Copperhead가 실제 KiCad 파일과 이를 참조하는 문서를 함께 수정함 자연어 요구사항부터 제조 출력물·펌웨어·개발 계획까지 8단계 파이프라인으로...",
+          "summary": "Rust로 Zstd를 구현하는 코딩 에이전트에 26가지 테스트·검증 지시와 4가지 스킬을 적용했지만, 기법 이름을 알려주는 것만으로 구현 정확도가 크게 개선되지는 않음 형식적 검증과 속성 기반 테스트를 사용해도 버그가 잦은 부분보다 단순한 산술 속성, 자명한 증...",
           "keywords": [
-            "Show",
-            "HN:",
-            "Copperhead",
-            "회로",
-            "기판을"
+            "에이전트는",
+            "테스트",
+            "검증",
+            "기법을",
+            "얼마나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Qwen3.8 27B 양자화 벤치마크: 4비트는 성능 유지, 1비트는 붕괴",
-          "link": "https://news.hada.io/topic?id=33396",
-          "pubDate": "2026-09-09T01:56:51.000Z",
+          "title": "TiVo, 직접 녹화한 영상의 광고 건너뛰기 기능 유료화 예정",
+          "link": "https://news.hada.io/topic?id=33409",
+          "pubDate": "2026-09-09T04:01:00.000Z",
           "image": null,
-          "summary": "55GB인 Qwen3.8 27B를 4비트 양자화로 17GB까지 줄여도, 과학 문제, 지시 준수와 에이전트 코딩 평가에서 원본과 눈에 띄는 성능 차이가 없었음 17GB 모델은 24GB RTX 4090에 약 64k 토큰 컨텍스트와 함께 올릴 수 있어, 소비자용 GPU에서도 원본에 가까운 작업 성...",
+          "summary": "기본 서비스에 포함됐던 SkipMode가 2026년 11월 2일 종료되면서, 버튼 한 번으로 광고를 넘기거나 자동으로 건너뛰려면 유료 부가 서비스를 이용해야 함 기존 SkipMode는 녹화가 끝난 뒤 광고 구간 마커를 추가하는 방식으로, 주요 방송사의 인기...",
           "keywords": [
-            "Qwen3",
-            "27B",
-            "양자화",
-            "벤치마크:",
-            "4비트는"
+            "TiVo",
+            "직접",
+            "녹화한",
+            "영상의",
+            "광고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "붓다 이야기에서 탄생한 두 기독교 성인",
-          "link": "https://news.hada.io/topic?id=33395",
-          "pubDate": "2026-09-09T01:53:51.000Z",
+          "title": "프린터를 만드는 방법",
+          "link": "https://news.hada.io/topic?id=33408",
+          "pubDate": "2026-09-09T03:58:00.000Z",
           "image": null,
-          "summary": "기독교 성인 Barlaam과 Josaphat의 이야기는 궁전에 격리된 왕자가 질병·노년·죽음을 접한 뒤 수행에 나서는 고타마 붓다의 생애담에서 유래함 기독교 전통에서는 10세기 조지아의 《Balavariani》 에 처음 나타나며, 아랍어판을 거쳐 전해진 것으...",
+          "summary": "완전히 프로그래밍 가능한 전자잉크 리더 Xteink X3에 프린터 서버를 구현해, 번거로운 파일 업로드 대신 MacBook의 인쇄 메뉴로 문서를 보내 화면에 표시하도록 함 IPP로 인쇄 기능 조회와 작업 처리를 지원하고, Bonjour로 penguin이라는 프린터를 ...",
           "keywords": [
-            "붓다",
-            "이야기에서",
-            "탄생한",
-            "기독교",
-            "성인"
+            "프린터를",
+            "만드는",
+            "방법"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "소변이 튀지 않는 소변기 (2025)",
-          "link": "https://news.hada.io/topic?id=33394",
-          "pubDate": "2026-09-09T01:50:51.000Z",
+          "title": "Emacs Bedrock 2.0",
+          "link": "https://news.hada.io/topic?id=33407",
+          "pubDate": "2026-09-09T03:54:59.000Z",
           "image": null,
-          "summary": "사용자가 조준을 잘하도록 유도하는 대신, 소변기 자체의 모양을 바꿔 튀는 현상을 줄이는 설계를 제안함 소변 줄기가 표면에 정면으로 부딪히지 않고 약 30도 이하의 얕은 각도로 닿도록 곡면을 설계하는 것이 핵심 미분방정식으로 두 가지 형태를 만들었...",
+          "summary": "내장 옵션을 조정해 Emacs의 기본 사용성을 개선하는 최소 스타터 키트 Bedrock 2.0이 출시됨 — 기본 구성에는 서드파티 패키지가 없으며, 설정 파일을 복사한 뒤 직접 수정하는 방식임 Emacs 31을 요구하고 Emacs 29 호환성을 중단하지만, 전면 개편보다는 점진적...",
           "keywords": [
-            "소변이",
-            "튀지",
-            "않는",
-            "소변기",
-            "(2025)"
+            "Emacs",
+            "Bedrock"
           ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
+          "isForeign": true,
+          "titleKo": "Emacs Bedrock 2.0",
+          "summaryKo": "내장 옵션을 조정해 Emacs의 기본 사용성을 개선하는 최소 스타터 키트 Bedrock 2.0이 출시됨 —기본 구성에는 서드파티 패키지가 없으며, 설정 파일을 복사한 뒤 직접 수정하는 방식임 Emacs 31을 요구하고 Emacs 29호환성을 중단하지만, 전면 개편보다는 점진적..."
         },
         {
-          "title": "Broadcom의 VDDK 다운로드 제거로 VMware를 떠나기가 더 어려워짐",
-          "link": "https://news.hada.io/topic?id=33393",
-          "pubDate": "2026-09-09T01:47:51.000Z",
+          "title": "Tao: AI가 수학의 미해결 문제를 재생 불가능한 자원처럼 채굴하고 있음",
+          "link": "https://news.hada.io/topic?id=33406",
+          "pubDate": "2026-09-09T03:51:59.000Z",
           "image": null,
-          "summary": "Azure Migrate, Red Hat Migration Toolkit, Nutanix Move 등 VMware 이전 도구가 의존하는 VDDK의 공개 다운로드 페이지가 사라지면서 다른 플랫폼으로 옮기는 데 장애가 생김 VDDK는 VMware 가상 디스크를 다루는 여러 이전·보호 도구의 핵심 의존성으로, 파일이...",
+          "summary": "수학 문제는 무한히 만들 수 있지만 통찰을 낳는 좋은 미해결 문제는 다르며, 이를 재생 불가능한 방식으로 소모하면 유익한 연구 문제가 희소해질 수 있음 좋은 문제를 고르려면 기존 기법으로 무엇이 쉽고 어렵고 불가능한지 보여주는 난이도 지형을 알아야 하지...",
           "keywords": [
-            "Broadcom의",
-            "VDDK",
-            "다운로드",
-            "제거로",
-            "VMware를"
+            "Tao:",
+            "AI가",
+            "수학의",
+            "미해결",
+            "문제를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:42.925Z",
+      "fetchedAt": "2026-09-09T04:10:21.818Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +530,7 @@
           "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:45.041Z",
+      "fetchedAt": "2026-09-09T04:10:22.022Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +604,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:45.145Z",
+      "fetchedAt": "2026-09-09T04:10:22.145Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +685,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:45.198Z",
+      "fetchedAt": "2026-09-09T04:10:22.179Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +784,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:52.075Z",
+      "fetchedAt": "2026-09-09T04:10:37.027Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -798,86 +793,85 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "부산 인문계 고교 열에 넷이 써본 AI 수업 도구, 초·중학교로 넓힌다",
-          "link": "https://platum.kr/archives/294230?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b6%2580%25ec%2582%25b0-%25ec%259d%25b8%25eb%25ac%25b8%25ea%25b3%2584-%25ea%25b3%25a0%25ea%25b5%2590-%25ec%2597%25b4%25ec%2597%2590-%25eb%2584%25b7%25ec%259d%25b4-%25ec%258d%25a8%25eb%25b3%25b8-ai-%25ec%2588%2598%25ec%2597%2585-%25eb%258f%2584%25ea%25b5%25ac-%25ec%25b4%2588%25c2%25b7%25ec%25a4%2591%25ed%2595%2599",
-          "pubDate": "2026-09-09T01:03:14.000Z",
+          "title": "당근페이 쓰는 집과 번개장터 쓰는 집이 다르다",
+          "link": "https://platum.kr/archives/294260?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%25b9%25ea%25b7%25bc%25ed%258e%2598%25ec%259d%25b4-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a7%2591%25ea%25b3%25bc-%25eb%25b2%2588%25ea%25b0%259c%25ec%259e%25a5%25ed%2584%25b0-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a7%2591%25ec%259d%25b4-%25eb%258b%25a4%25eb%25a5%25b4%25eb%258b%25a4",
+          "pubDate": "2026-09-09T02:32:12.000Z",
           "image": null,
-          "summary": "부산의 인문계 고등학교 93곳 가운데 37곳이 임팩터스의 AI 수업 플랫폼 ‘임팩트 스페이스’를 써봤다. 교육 분야 AI 스타트업 임팩터스는 9월 7일 부산 해운대구 파크 하얏트에서 열린 ‘동남권 지·산·학 커넥트 데이’에서 실증기업 대표로 이런 성과를 발표했다. 임팩터스는 진로·탐구 프로젝트 수업을 대상으로 16개 고교에서 자체 실증을 시작해 사용 학교를 37곳까지 늘렸다. 올해는 부산교육대학교가 운영하는 에듀테크소프트랩 실증사업을 통해 중학교 3곳, 초등학교 3곳으로 사용자층을 넓혔다. 고등학교 중심이던 서비스를 다른 학교급으로 확장할 수 있는지 확인한 것이다. 회사는 7월 16일부터 8월 24일까지 현장 교사에게 받은 ... 더 읽기",
+          "summary": "번개장터에서 카드로 결제된 금액의 47.7%가 1인 가구에서 나왔다. 당근페이는 1인 가구 33.2%, 초·중·고 자녀가 있는 가구가 32.1%로 두 집단이 비슷했다. 와이즈앱·리테일이 2026년 8월 두 서비스의 카드 결제금액을 가구 유형별로 나눠 추정한 결과다. 당근페이는 이어 신혼·영유아 가구 13.2%, 성인 자녀 가구 12.6%, 노인 가구 8.9% 순이었다. 번개장터는 1인 가구 다음으로 초·중·고 자녀 가구 22.7%, 신혼·영유아 가구 17.8%, 성인 자녀 가구 7.0%, 노인 가구 4.8%였다. 두 서비스의 이용자 구성이 다르게 나타난 셈이다. 번개장터가 1인 가구에 절반 가까이 몰린 반면, ... 더 읽기",
           "keywords": [
-            "스타트업",
-            "교육 AI",
-            "임팩터스",
-            "임팩트 스페이스"
+            "트렌드",
+            "당근",
+            "당근페이",
+            "번개장터",
+            "중고거래 앱"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "카카오페이머니 담던 지갑에 스테이블코인도, 카카오페이 기술 검증 마쳤다",
-          "link": "https://platum.kr/archives/294227?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25ed%258e%2598%25ec%259d%25b4%25eb%25a8%25b8%25eb%258b%2588-%25eb%258b%25b4%25eb%258d%2598-%25ec%25a7%2580%25ea%25b0%2591%25ec%2597%2590-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25b8%2594%25ec%25bd%2594%25ec%259d%25b8%25eb%258f%2584-%25ec%25b9%25b4%25ec%25b9%25b4",
-          "pubDate": "2026-09-09T00:59:41.000Z",
+          "title": "AI 시대 하드웨어에 베팅, a16z 새 펀드 11억 달러 조성",
+          "link": "https://platum.kr/archives/294251?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%258b%259c%25eb%258c%2580-%25ed%2595%2598%25eb%2593%259c%25ec%259b%25a8%25ec%2596%25b4%25ec%2597%2590-%25eb%25b2%25a0%25ed%258c%2585-a16z-%25ec%2583%2588-%25ed%258e%2580%25eb%2593%259c-11%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-%25ec%25a1%25b0%25ec%2584%25b1",
+          "pubDate": "2026-09-09T02:09:00.000Z",
           "image": null,
-          "summary": "카카오페이 사용자들이 선불충전금인 카카오페이머니를 담아 쓰던 지갑에 스테이블코인 같은 블록체인상 자산도 담는 구조가 기술 검증을 마쳤다. 카카오페이는 디지털 자산 지갑 구축 기술의 개념검증(PoC)을 완료했다고 9월 9일 밝혔다. 검증 대상은 기존 지갑 시스템을 온체인 자산까지 다루는 통합 지갑으로 확장하는 것이다. 회사는 대량의 거래를 처리해 온 지갑 환경에서 스테이블코인의 송금과 결제, 정산이 작동하는지 확인하고 사용자 화면까지 만들었다고 ... 더 읽기",
+          "summary": "앤드리슨 호로위츠(a16z)가 AI를 돌아가게 하는 물리적 인프라에 투자하는 11억 달러(약 1조 4,900억 원) 규모의 ‘머신 에이지 펀드’를 조성했다. 투자 대상은 반도체와 메모리, 네트워킹, 스토리지 같은 컴퓨팅 인프라와 데이터센터, 로보틱스, 가정용 AI 기기다. AI 활용이 대화형 서비스에서 추론과 코딩으로 넓어지면서 이를 받쳐줄 하드웨어와 전력·냉각·데이터 전송 영역에서 새로운 기술과 투자가 필요해졌다는 것이 펀드 조성의 배경이다. a16z는 스페이스X와 ... 더 읽기",
           "keywords": [
-            "Uncategorized",
-            "디지털자산",
-            "스테이블코인",
-            "카카오페이"
+            "글로벌",
+            "앤드리슨 호로위츠",
+            "펀드"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "“프랑스 전력으로 유럽용 AI 팩토리 짓자”, 최수연 대표가 현지에서 던진 제안",
-          "link": "https://platum.kr/archives/294226?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%2584%25eb%259e%2591%25ec%258a%25a4-%25ec%25a0%2584%25eb%25a0%25a5%25ec%259c%25bc%25eb%25a1%259c-%25ec%259c%25a0%25eb%259f%25bd%25ec%259a%25a9-ai-%25ed%258c%25a9%25ed%2586%25a0%25eb%25a6%25ac-%25ec%25a7%2593%25ec%259e%2590-%25ec%25b5%259c%25ec%2588%2598%25ec%2597%25b0-%25eb%258c%2580%25ed%2591%259c",
-          "pubDate": "2026-09-09T00:33:41.000Z",
+          "title": "유럽에 먼저 자리 잡은 한국 창업가들이 파리에 모였다",
+          "link": "https://platum.kr/archives/294248?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25eb%259f%25bd%25ec%2597%2590-%25eb%25a8%25bc%25ec%25a0%2580-%25ec%259e%2590%25eb%25a6%25ac-%25ec%259e%25a1%25ec%259d%2580-%25ed%2595%259c%25ea%25b5%25ad-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b0%2580%25eb%2593%25a4%25ec%259d%25b4-%25ed%258c%258c%25eb%25a6%25ac%25ec%2597%2590-%25eb%25aa%25a8%25ec%2598%2580",
+          "pubDate": "2026-09-09T02:06:13.000Z",
           "image": null,
-          "summary": "네이버가 유럽에 AI 데이터센터를 짓는 구상을 프랑스 기업인들 앞에서 꺼냈다. 최수연 네이버 대표는 현지시간 9월 8일 한국·프랑스 경제인 비즈니스 라운드테이블에서 “프랑스의 안정적인 에너지 기반과 네이버의 AI 생태계 경험을 결합해 유럽의 기업과 스타트업이 활용할 AI 팩토리를 함께 만들고 싶다”고 밝혔다. 원전 비중이 높아 전력 사정이 안정적인 프랑스를 후보지로 염두에 둔 제안이다. 네이버는 지난 3일 엔비디아, 브룩필드와 ... 더 읽기",
+          "summary": "프랑스와 유럽에 진출한 한국 창업가, 진출을 준비하는 국내 스타트업, 현지 창업 생태계 관계자 80여 명이 파리에 모였다. 코리아스타트업포럼이 창업진흥원, 중소벤처기업진흥공단 KSC 파리센터와 함께 현지시간 9월 8일 파리 메리어트 샹젤리제 호텔에서 ‘K-파운더스 커넥트 인 파리’를 열었다. 먼저 진출한 창업가들이 사례를 발표했다. 스마트폰 마이크로 수면 중 호흡음을 분석해 수면 상태를 파악하는 AI 기업 에이슬립의 이동헌 대표, 유럽에 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "네이버",
-            "프랑스"
+            "창업진흥원",
+            "코리아스타트업포럼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "안부확인부터 보이스피싱 상담까지, 카카오톡 활용 공공서비스 30선",
-          "link": "https://platum.kr/archives/294219?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2588%25eb%25b6%2580%25ed%2599%2595%25ec%259d%25b8%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b3%25b4%25ec%259d%25b4%25ec%258a%25a4%25ed%2594%25bc%25ec%258b%25b1-%25ec%2583%2581%25eb%258b%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25ed%2586%25a1-%25ed%2599%259c%25ec%259a%25a9",
-          "pubDate": "2026-09-09T00:29:44.000Z",
+          "title": "이탈리아 조선·에너지·유틸리티 대기업, 한국 스타트업 찾으러 서울 온다",
+          "link": "https://platum.kr/archives/294244?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25ed%2583%2588%25eb%25a6%25ac%25ec%2595%2584-%25ec%25a1%25b0%25ec%2584%25a0%25c2%25b7%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580%25c2%25b7%25ec%259c%25a0%25ed%258b%25b8%25eb%25a6%25ac%25ed%258b%25b0-%25eb%258c%2580%25ea%25b8%25b0%25ec%2597%2585-%25ed%2595%259c%25ea%25b5%25ad-%25ec%258a%25a4%25ed%2583%2580",
+          "pubDate": "2026-09-09T01:57:07.000Z",
           "image": null,
-          "summary": "전남대학교병원 권역모자의료센터는 협력 병원 의료진이 참여하는 카카오톡 단체대화방을 ‘모자의료 진료협력 기관 핫라인’으로 쓴다. 응급환자가 생기면 이송 가능한 병원을 이 대화방에서 빠르게 확인하는 방식이다. 한국전력공사는 전력을 평소보다 많이 쓸 것으로 예상되는 고객에게 알림톡으로 요금이 오를 수 있다고 미리 알린다. 부산광역시는 카카오맵과 연동한 ’15분도시 생활지도’로 어린이시설과 도서관, 공원 등 10개 분야 1,665곳의 위치와 운영정보를 제공한다. 카카오가 이런 ... 더 읽기",
+          "summary": "유럽 최대 조선·해양 엔지니어링 그룹 핀칸티에리(Fincantieri)와 이탈리아 최대 에너지·화학 기업 ENI, 전력·가스 공급과 폐기물 관리를 맡는 종합 유틸리티 기업 A2A의 오픈이노베이션 책임자들이 서울에서 한국 스타트업과의 협력 계획을 발표한다. 서울시와 서울경제진흥원은 9월 10일 오후 2시 45분 동대문디자인플라자(DDP) 컨퍼런스홀에서 ‘2026 서울 오픈이노베이션 글로벌 데이’를 연다고 밝혔다. 창업 축제 ‘트라이 에브리싱 2026’ 프로그램의 하나다. 행사는 공동 주관사인 마인드더브릿지(Mind ... 더 읽기",
           "keywords": [
             "이벤트",
-            "공공서비스",
-            "카카오",
-            "카카오톡"
+            "서울경제진흥원",
+            "오픈이노베이션",
+            "트라이 에브리싱"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "서울역 주차장, 카메라가 빈자리까지 길 안내하고 만차 층은 차단기로 막는다",
-          "link": "https://platum.kr/archives/294215?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8%25ec%2597%25ad-%25ec%25a3%25bc%25ec%25b0%25a8%25ec%259e%25a5-%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc%25ea%25b0%2580-%25eb%25b9%2588%25ec%259e%2590%25eb%25a6%25ac%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b8%25b8-%25ec%2595%2588%25eb%2582%25b4%25ed%2595%2598%25ea%25b3%25a0-%25eb%25a7%258c",
-          "pubDate": "2026-09-09T00:23:45.000Z",
+          "title": "“AI 에이전트는 공격자가 심은 데이터까지 함께 읽는다”… AI 보안 컨퍼런스 서울서 열려",
+          "link": "https://platum.kr/archives/294239?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8%25eb%258a%2594-%25ea%25b3%25b5%25ea%25b2%25a9%25ec%259e%2590%25ea%25b0%2580-%25ec%258b%25ac%25ec%259d%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ea%25b9%258c%25ec%25a7%2580-%25ed%2595%25a8%25ea%25bb%2598-%25ec%259d%25bd%25eb%258a%2594%25eb%258b%25a4",
+          "pubDate": "2026-09-09T01:42:20.000Z",
           "image": null,
-          "summary": "서울역 주차장에 들어선 차량은 이제 전광판이 알려주는 경로를 따라 빈자리까지 안내받는다. 빈 주차면이 있어도 앞서 들어간 차가 그쪽으로 향하고 있으면 다른 자리로 유도되고, 곧 만차가 될 것으로 예상되는 층은 차단기가 자동으로 진입을 막았다가 자리가 나면 다시 연다. 휴맥스모빌리티의 주차 운영 자회사 하이파킹이 서울역 주차장에 AI 영상 유도 시스템 ‘Ai-PAS’를 구축했다. 시스템은 360도 카메라로 주차면뿐 아니라 ... 더 읽기",
+          "summary": "AI 에이전트가 웹을 돌아다니며 일을 처리하는 방식은 공격자가 만들어 둔 데이터까지 함께 읽어들이는 구조를 만든다. 이병영 서울대 교수는 9월 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 “AI 에이전트는 공격자가 만든 데이터까지 LLM 컨텍스트에 포함해 처리하다 보니, LLM이 취약해질 수밖에 없다”며 “외부 데이터와 사용자의 명령을 구조적으로 분리하는 것이 대안”이라고 말했다. 언어모델이 참고할 자료와 실행할 명령을 같은 입력으로 받아들이는 데서 문제가 생긴다는 지적이다. AI 보안 기업 에임인텔리전스가 연 이 행사에는 국내외 기업 관계자 100여 명이 참석했다. 이날 유상윤 대표는 “이미 단순 챗봇을 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "Ai-PAS",
-            "하이파킹",
-            "휴맥스모빌리티"
+            "AI 리스크 컨퍼런스",
+            "에임인텔리전스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:53.174Z",
+      "fetchedAt": "2026-09-09T04:10:37.281Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +966,7 @@
           "summaryKo": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:53.218Z",
+      "fetchedAt": "2026-09-09T04:10:37.302Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1065,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:57.062Z",
+      "fetchedAt": "2026-09-09T04:10:42.462Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1079,6 +1073,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "수공, 역대 최대 국가 K-테스트베드 지원사업 추진 - 국토일보",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HUTBkRjZteGdIWjJXZ2E5LU5Va0JnTm1lbFRfZS1SOXJvY3dFY1hQVFNyT3luOWFsaU1uSkpkVGViOFU1ZzdfMmxLYzR6OUhoWW1oU09VR3BpSl9qQVkxUGFSWQ?oc=5",
+          "pubDate": "2026-09-09T02:30:00.000Z",
+          "image": null,
+          "summary": "수공, 역대 최대 국가 K-테스트베드 지원사업 추진 국토일보",
+          "keywords": [
+            "수공",
+            "역대",
+            "최대",
+            "국가",
+            "테스트베드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "공정, 혁신, 포용의 경기 - 경기도청",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zT1BHMWtab1ZvREJSX19CQVJGNUF0Wi1NVlJsYUtoV1dMNE4yZXRBenl3VTFFWjRKNXlOZWZ1TWs4QmR2REFhWWh0cXV3a1p2YldJMDg2aGh3cVZsR2hvYXg0NlFaWGVTb29xMU4yd0tmZ1NhVzJPanBlZ2VDbWc?oc=5",
@@ -1097,11 +1108,11 @@
           "summaryKo": null
         },
         {
-          "title": "안동시 ‘신중년 사회공헌활동 지원사업’ 시행...참여자 및 수요기관 모집 - adinews.co.kr",
+          "title": "안동시 ‘신중년 사회공헌활동 지원사업’ 시행...참여자 및 수요기관 모집 - 안동인터넷뉴스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VMnpvYlY5QkcxUXBQcmxZUXk5SGFHbVcyVjY1bERTN1VkZU5ZSjl3MTRSNHZaSEUybGs5WkY3Z0JUWTFJR2U1UnowLXU0dy1PLVdvVU9IX3pWTGFLS0NPT0hHaF8wcmdDVFE?oc=5",
           "pubDate": "2026-09-08T23:32:28.000Z",
           "image": null,
-          "summary": "안동시 ‘신중년 사회공헌활동 지원사업’ 시행...참여자 및 수요기관 모집 adinews.co.kr",
+          "summary": "안동시 ‘신중년 사회공헌활동 지원사업’ 시행...참여자 및 수요기관 모집 안동인터넷뉴스",
           "keywords": [
             "안동시",
             "신중년",
@@ -1131,41 +1142,24 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, 하반기 K-테스트베드 기업 모집 - pinpointnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sVlI5ZEZrY0FydUxEcHF5cl8xa1p6V0NiQ29sQllud05mU3U3SE52X3ZlcW1UamNQWVQzaEZJM3JsRmhIcUZyTkhldXRwemZhSmhWZUViS25tOG1TQ1dYZXpkRTJBQlJhZWdsZ1JBamRSUjjSAXdBVV95cUxQa2wyR25VTVppZjVCNWc3Y1hYUG5sek4wbzYySjZkejAtNGNZN1lCZ3U4NE10Rmc5ZEtTS19hazlkMENTZnV0YTlmS3o3VHVMUHlxcTBrdlNZOVRTYVJGM2tjU2U3VW43c2ZwSmpOR00zdG9CUU8zTQ?oc=5",
-          "pubDate": "2026-09-09T01:00:22.000Z",
+          "title": "국립순천대 ICC, 반도체 전환기업 기술검증 지원사업 모집 - 이뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OUlB1QWJTZTNmQ19CaFNCOElOOVlMMjIxMlJuWGpKaVVJVGtSb1JZZGstN0FnSl92c2tvN1FmZkU4OTctNGVWRUI2NDFVeVExekl1Vk5hYS1BbUNNR1ktZlliMkVFeks1UG9SWXBiaXfSAXRBVV95cUxNVkpNNnZhVXV2dGhoOEFSZDRuUXRzcW9UNWhONnJLT2k1ckNmVklFeDkwZ0NwVmM4eWpMRmU2Vk81dmE1UGk3UlhGa0k1WHRTU0R6RHhGNDZBZUNJQjkzRzZKNEx0bWJlOGxPQ1RyYzBMcERQUw?oc=5",
+          "pubDate": "2026-09-09T01:49:37.000Z",
           "image": null,
-          "summary": "수자원공사, 하반기 K-테스트베드 기업 모집 pinpointnews.co.kr",
+          "summary": "국립순천대 ICC, 반도체 전환기업 기술검증 지원사업 모집 이뉴스투데이",
           "keywords": [
-            "수자원공사",
-            "하반기",
-            "테스트베드",
-            "기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경상원, 소상공인 사회안전망 확충 나선다…‘1인 소상공인 고용보험료 지원사업’ 모집 - 서울뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PVDBTTnNYd0RzeUxNV29rSWhTUjctU0tJV1hndWlZdnAxMjJQdFVIYWdhdXVES1ctSnpxeXVNYUZ4TVQ3RzNkcUZnM3hHcVBsb2VHQkVZbmxsdm1OQjBfbW1lU1dpS0hmYjFV?oc=5",
-          "pubDate": "2026-09-09T00:18:31.000Z",
-          "image": null,
-          "summary": "경상원, 소상공인 사회안전망 확충 나선다…‘1인 소상공인 고용보험료 지원사업’ 모집 서울뉴스통신",
-          "keywords": [
-            "경상원",
-            "소상공인",
-            "사회안전망",
-            "확충",
-            "나선다"
+            "국립순천대",
+            "ICC",
+            "반도체",
+            "전환기업",
+            "기술검증"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T02:10:57.486Z",
+      "fetchedAt": "2026-09-09T04:10:42.911Z",
       "error": null
     }
   },
@@ -1206,36 +1200,36 @@
       "change": "same"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
       "rank": 6,
-      "change": "up"
+      "change": "new"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 2,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "태양광",
-      "label": "태양광",
-      "count": 2,
+      "key": "3d프린팅",
+      "label": "3D프린팅",
+      "count": 1,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "(2025)",
-      "label": "(2025)",
+      "key": "ai 리스크 컨퍼런스",
+      "label": "AI 리스크 컨퍼런스",
       "count": 1,
       "rank": 10,
       "change": "new"
