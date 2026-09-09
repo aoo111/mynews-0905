@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-08T22:11:10.183Z",
+  "collectedAt": "2026-09-09T00:17:15.720Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "700만명 시대 맞은 기초연금…부부 감액만 2조4000억원, 수급률은 뒷걸음",
+          "link": "https://www.mk.co.kr/news/economy/12147829",
+          "pubDate": "2026-09-08T23:59:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.34a0e391118348219c3a6c1b058c05cf_R.jpeg",
+          "summary": "노인 인구 1082만명 돌파에 수급자 706만명 수급률 67.6→65.3%…총지급액 25조원 육박부부가 함께 기초연금을 받을 경우 연금액을 깎는 ‘부부 감액’ 규모가 지난해 2조4..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "영장 받고도 몰랐다…기업은행, 182억 대출사기 뒤늦게 인지",
+          "link": "https://www.mk.co.kr/news/economy/12147827",
+          "pubDate": "2026-09-08T23:57:39.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20250717.591036bdb61c47519e7d8490030b63fd_R.png",
+          "summary": "금감원 확인 요청에 일주일 만에 사고 인지 자체 점검 두 차례 하고도 “특이사항 없음” 당국 보고 뒤에도 19억원 추가 대출 실행IBK기업은행이 경찰로부터 부동산 대출사기 정황이 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[속보] 8월 취업자 수 18만4000명 늘어…5개월 만에 최대폭",
+          "link": "https://www.mk.co.kr/news/economy/12147798",
+          "pubDate": "2026-09-08T23:04:12.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260909.98a4616905444c10acc0274af44d7660_R.jpeg",
+          "summary": "8월 취업자 수가 20만명 가까이 늘어나며 회복 흐름을 보였다. 건설·제조업 부진은 이어졌지만 감소 폭은 줄었다. 다만 장기간 청년층 고용 한파는 이어졌다. 국가데이터처가 9일 발..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "내년 ‘820조 슈퍼예산’이 온다 … 우리 살림살이에 미칠 영향은",
           "link": "https://www.mk.co.kr/news/economy/12147136",
           "pubDate": "2026-09-08T20:00:00.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
-          "link": "https://www.mk.co.kr/news/economy/12147525",
-          "pubDate": "2026-09-08T11:10:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-a.v1.20260908.47db140fb309443ca799daf98e645020_R.png",
-          "summary": "두달새 200원 급등한 원화값 향후 전망원달러 환율 하락세가 이제 두 달을 넘겼습니다. 하락의 견인차는 시점에 따라 달라졌습니다. 7월에는 원화 강세가 환율을 끌어내렸다면, 8월에..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "국민소득 4만달러 고지 보인다…명목GDP 47년만에 최고 상승률",
-          "link": "https://www.mk.co.kr/news/economy/12147459",
-          "pubDate": "2026-09-08T10:03:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20251201.fc28c16b3ccb4cbfa7a7da4c557f2e8e_R.jpg",
-          "summary": "한은, 2분기 국민소득 발표 2분기 명목 GDP 26.4% 쑥 반도체 수출가격 급등하자 GDP디플레이터 21.9% 상승 실질GDP도 전년비 3.7%↑우리나라 2분기 명목 국내총생산..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조",
-          "link": "https://www.mk.co.kr/news/economy/12147422",
-          "pubDate": "2026-09-08T09:05:23.000Z",
-          "image": null,
-          "summary": "국내 민간 컨소시엄이 이르면 올해 말 '프런티어 AI'(가칭) 회사를 설립하고 미토스급 인공지능(AI) 개발에 본격 착수한다. 미토스는 미국 앤트로픽이 만든 현존 최상급 AI 모델..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:53.556Z",
+      "fetchedAt": "2026-09-09T00:17:02.487Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:53.634Z",
+      "fetchedAt": "2026-09-09T00:17:02.598Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월8일] 오픈AI 내부에서 무슨 일이 벌어지고 있나…현실이 된 ‘AI 연구 인턴’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214978",
+          "pubDate": "2026-09-09T07:00:00.000Z",
+          "image": null,
+          "summary": "오픈AI가 6일(현지시간) 공식 블로그를 통해 자사 연구 조직에서 AI 에이전트가 어떻게 활용되고 있는지를 공개했습니다. 연구원들이 AI 에이전트에 하루 수백~수천달러의 추론 비용을 쓰고 있으며, AI에 맡기는 작업도 점점 복잡해지고 있고, 연구원들이 작성하는 코드와 수행하는 실험도 크게 늘었다는 내용입니다.하지만 이번 발표에서 가장 주목할 대목은 단순한 사용량 지표가 아니라, 오픈AI가 지난해 10월 공언했던 ‘AI 연구 인턴’ 목표의 이행 여부를 공식적으로 검증했다는 점입니다.당시 샘 알트먼 오픈AI CEO와 야쿠브 파초키 수석",
+          "keywords": [
+            "9월8일",
+            "오픈AI",
+            "내부에서",
+            "무슨",
+            "일이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215015",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "바이트댄스, '월드 모델' 출시 임박...장이밍 창업자 직접 진두지휘",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214982",
-          "pubDate": "2026-09-08T17:42:14.000Z",
-          "image": null,
-          "summary": "틱톡과 시댄스(Seedance)로 영상 생성 AI 분야에서 경쟁력을 확보한 바이트댄스가 ‘월드 모델(World Model)' 시장에 뛰어들었다.7일(현지시간) 블룸버그에 따르면, 바이트댄스는 사용자의 움직임과 음성에 실시간으로 반응하는 가상 세계를 구현하는 '월드 모델' 개발에 착수했다. 장이밍 바이트댄스 창립자가 다음 달 출시 목표인 새로운 '실시간 공간 비디오 생성' AI 모델 개발을 직접 진두지휘하는 것으로 전해졌다. 그는 회사 내 여러 사업부의 개발 역량을 조율하는 동시에 AI 인력과 컴퓨팅 자원을 이번 프로젝트에 집중시키고",
-          "keywords": [
-            "바이트댄스",
-            "월드",
-            "모델",
-            "출시",
-            "임박"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:54.753Z",
+      "fetchedAt": "2026-09-09T00:17:03.638Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "생성 AI가 청소년 발달, 복지 및 안전에 미치는 영향에 대한 독립적 인 연구를 지원하는 OpenAI의 $ 5 백만 보조금 프로그램에 지금 신청하십시오."
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:54.922Z",
+      "fetchedAt": "2026-09-09T00:17:03.811Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,87 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "LG TV, 오프라인·대기 모드에서도 감시한 사실 드러나",
-          "link": "https://news.hada.io/topic?id=33372",
-          "pubDate": "2026-09-08T20:38:39.000Z",
+          "title": "나비에-스토크스 해법 발표의 이면: 수학자가 공개한 OpenAI와의 협의 과정",
+          "link": "https://news.hada.io/topic?id=33379",
+          "pubDate": "2026-09-08T22:56:58.000Z",
           "image": null,
-          "summary": "Gamers Nexus의 시판 LG OLED TV 조사에서 소유자와 가정에 관한 데이터를 거의 상시 기록·전송하며, 대기 모드나 인터넷 연결 해제 상태에서도 일부 수집을 이어가는 동작이 확인됨 패킷 캡처로 주변 휴대전화·스마트워치 탐색, 위치와 인근 Wi-Fi 네트워크 정보 ...",
+          "summary": "수학자 Tristan Buckmaster가 Levent Alpöge와 진행한 유체 방정식 연구를 공개하면서, OpenAI의 나비에-스토크스 해법 발표에 앞서 진행된 협의 과정을 성명으로 밝힘 두 사람은 기존 수학자들의 접근법을 LLM의 도움으로 발전시켜, 외력이 작용하는 유체 방정식에서 해가 ...",
           "keywords": [
-            "LG",
-            "TV",
-            "오프라인",
-            "대기",
-            "모드에서도"
+            "나비에",
+            "스토크스",
+            "해법",
+            "발표의",
+            "이면:"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Google DeepMind, AlphaGenome Atlas 공개",
-          "link": "https://news.hada.io/topic?id=33371",
-          "pubDate": "2026-09-08T19:38:09.000Z",
+          "title": "오래된 HTML 코드 조각과 유물들",
+          "link": "https://news.hada.io/topic?id=33378",
+          "pubDate": "2026-09-08T22:48:27.000Z",
           "image": null,
-          "summary": "이해가 제한적인 비코딩 DNA 영역까지 탐색할 수 있도록, AlphaGenome Atlas는 인간 유전체에서 가능한 90억 개 단일 염기 변화의 조절 영향을 미리 계산한 데이터베이스임 1페타바이트 데이터셋을 빠르게 조회할 수 있으며, AVI 점수",
+          "summary": "과거 웹사이트에 남은 비표준 HTML 코드에는 브라우저 경쟁, 외부 서비스 연동, 플랫폼별 기능과 그 부작용에 대응했던 흔적이 담겨 있음 Internet Explorer 전용 태그는 문서 호환 모드부터 페이지 전환, 작업 표시줄 고정, 모바일 표시까지 제어했으며, 다른 브라...",
           "keywords": [
-            "Google",
-            "DeepMind",
-            "AlphaGenome",
-            "Atlas",
-            "공개"
+            "오래된",
+            "HTML",
+            "코드",
+            "조각과",
+            "유물들"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenAI, AI로 찾은 밀레니엄 난제 ‘나비에-스토크스’ 해법 공개",
-          "link": "https://news.hada.io/topic?id=33370",
-          "pubDate": "2026-09-08T18:40:32.000Z",
+          "title": "ChatGPT Images 2.5",
+          "link": "https://news.hada.io/topic?id=33377",
+          "pubDate": "2026-09-08T22:41:56.000Z",
           "image": null,
-          "summary": "약 90년간 미해결이던 3차원 유체 운동의 매끄러움 문제에 대해, 내부 AI 시스템이 찾아낸 해석적 증명과 컴퓨터로 검증할 수 있는 Lean 형식화를 공개함 매끄러운 외력이 작용하는 정지 상태의 유체에서도 유한 시간 안에 속도가 무한히 커지는 특이점이 생길 수 있음",
+          "summary": "매주 30억 장 이상의 이미지가 생성되는 ChatGPT Images와 GPT‑Image API에 새 모델을 도입해 참조 사진 재현도와 편집 정확도를 높이고, Images 2.0 대비 생성 지연 시간을 최대 50% 단축함 자연스러운 조명과 풍부한 질감을 구현하면서 참조 대상의 특징...",
           "keywords": [
-            "OpenAI",
-            "AI로",
-            "찾은",
-            "밀레니엄",
-            "난제"
+            "ChatGPT",
+            "Images"
           ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
+          "isForeign": true,
+          "titleKo": "ChatGPT 이미지 2.5",
+          "summaryKo": "매주 30억 장 이상의 이미지가 생성되는 ChatGPT 이미지와 GPT ‑ 이미지 API에 새 모델을 도입해 참조 사진 재현도와 편집 정확도를 높이고, 이미지 2.0 대비 생성 지연 시간을 최대 50% 단축함 자연스러운 조명과 풍부한 질감을 구현하면서 참조 대상의 특징..."
         },
         {
-          "title": "Rust 디버깅 설문조사 2026 결과",
-          "link": "https://news.hada.io/topic?id=33369",
-          "pubDate": "2026-09-08T18:02:49.000Z",
+          "title": "DaVinci Resolve 21.1",
+          "link": "https://news.hada.io/topic?id=33376",
+          "pubDate": "2026-09-08T22:39:50.000Z",
           "image": null,
-          "summary": "부족한 디버깅 경험의 원인을 파악하기 위한 첫 설문에 2,300명 이상이 참여했으며, 현재 Rust에서 디버거를 쓰는 응답자는 46% 이상으로 절반에 못 미침 로그·출력 디버깅과 dbg!가 가장 널리 쓰이며, 이를 제외하면 IDE 내 lldb",
+          "summary": "편집·색보정용 새 도구와 제어 기능 100개 이상을 담은 DaVinci Resolve 21.1이 출시됐으며, AI 어시스턴트 연동과 사진 포맷·멀티캠 지원을 확대하고 공식 웹사이트에서 무료 다운로드를 제공함 Claude, Claude Code, ChatGPT Codex에 자연어로 프로젝트 분석, 미...",
           "keywords": [
-            "Rust",
-            "디버깅",
-            "설문조사",
-            "2026",
-            "결과"
+            "DaVinci",
+            "Resolve",
+            "21"
           ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
+          "isForeign": true,
+          "titleKo": "DaVinci Resolve 21.1",
+          "summaryKo": "편집·색보정용 새 도구와 제어 기능 100개 이상을 담은 DaVinci Resolve 21.1이 출시됐으며, AI 어시스턴트 연동과 사진 포맷·멀티캠 지원을 확대하고 공식 웹사이트에서 무료 다운로드를 제공함 Claude, Claude Code, ChatGPT Codex에 자연어로 프로젝트 분석, 미..."
         },
         {
-          "title": "AI를 대면으로 쓰려면 사무실로 복귀해야 한다",
-          "link": "https://news.hada.io/topic?id=33368",
-          "pubDate": "2026-09-08T17:37:35.000Z",
+          "title": "손에 흙을 묻히는 것이 건강에 좋은 이유",
+          "link": "https://news.hada.io/topic?id=33375",
+          "pubDate": "2026-09-08T22:38:14.000Z",
           "image": null,
-          "summary": "AI 도구의 생성·승인 버튼을 하루 수천 번 누르는 직원이 사무실 복귀(RTO) 를 강요받는 풍자극으로, 고용을 유지하려면 사무실 근무를 사랑한다는 각서까지 써야 함 Mondo Mayo에서는 상사에 대한 복종과 지도자의 수가 핵심 원칙이며, 일반 직원 15명을 수천 명의...",
+          "summary": "흙·식물 같은 자연물과 접촉하면 피부 미생물 다양성이 늘어나며, 어린이와 성인 대상 연구에서 피부뿐 아니라 면역 조절 지표에도 변화가 나타남 다양한 미생물은 서로를 견제해 병원성 세균이 우세해지는 것을 억제함. 자연 접촉 실험에서는 염...",
           "keywords": [
-            "AI를",
-            "대면으로",
-            "쓰려면",
-            "사무실로",
-            "복귀해야"
+            "손에",
+            "흙을",
+            "묻히는",
+            "것이",
+            "건강에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:55.777Z",
+      "fetchedAt": "2026-09-09T00:17:07.319Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +445,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Across comparable deals, YouTube Gaming creators are commanding 23% higher rates than Twitch streamers",
+          "link": "https://www.tubefilter.com/2026/09/08/collabstr-youtube-gaming-twitch-brand-deal-data/",
+          "pubDate": "2026-09-08T22:41:06.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-gaming-banner.jpg",
+          "summary": "Across the past two years, a perceivable trend has emerged in the world of digital gaming. Twitch, once synonymous with the world of streamers, has seen its market share dip as rivals like YouTube Gaming and Kick come on strong. A report from Stream Hatchet has also shown Twitch traffic declining year-over-year, while YouTube Gaming surges. Traffic measurements on […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube Gaming",
+            "collabstr"
+          ],
+          "isForeign": true,
+          "titleKo": "비슷한 거래에서 YouTube 게임 크리에이터는 Twitch 스트리머보다 23% 더 높은 비율을 기록하고 있습니다.",
+          "summaryKo": "지난 2년 동안 디지털 게임 세계에서 인지할 수 있는 추세가 나타났습니다. 한때 스트리머의 세계와 동의어였던 Twitch는 YouTube Gaming 및 Kick과 같은 라이벌이 강세를 보임에 따라 시장 점유율이 떨어지는 것을 보았습니다. Stream Hatchet의 보고서에 따르면 Twitch 트래픽은 전년 대비 감소하는 반면 YouTube Gaming은 급증하는 것으로 나타났습니다. […] 에 대한 트래픽 측정은 Tubefilter를 방문하여 더 많은 멋진 이야기를 확인하세요."
+        },
         {
           "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/06/2026",
           "link": "https://www.tubefilter.com/2026/09/08/top-50-most-subscribed-youtube-channels-week-of-09-06-2026/",
@@ -516,27 +529,9 @@
           "isForeign": true,
           "titleKo": "혹시 들어보셨나요? 넷플릭스의 또 다른 유튜버인 듀드 퍼펙트의 CEO 셔플과 소 게이머입니다.",
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 넷플릭스의 크리에이터 콘텐츠 지출은 계속 증가하고 있으며, 크리에이터는 경영진과 갈등을 겪고 있으며, 소는 l33t 게이머입니다. 크리에이터 소동 드류 빈스키는 넷플릭스에 동영상을 올리는 최신 유튜브 스타입니다. 전 세계 모든 국가를 방문한 빈스키는 YouTube 최고의 여행 브이로거 중 한 명입니다. Starti"
-        },
-        {
-          "title": "Bottoms up! Google is bringing personalization to alcohol ads on YouTube.",
-          "link": "https://www.tubefilter.com/2026/09/04/google-ads-youtube-alcohol-content-personalization/",
-          "pubDate": "2026-09-04T21:57:11.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-movement-logo.jpg",
-          "summary": "On YouTube, ads for alcoholic beverages are few and far between -- but that's about to change. Starting on October 30, Google will implement a new policy that will enable some amount of personalization on ads for alcohol brands. Alcohol ads are currently permitted on YouTube, but significant restrictions hinder their reach. Personalized targeting is disabled for those spots (for now), users can opt out of being served alcohol ads, and there are no boozy banners permitted on the YouTube homepage.",
-          "keywords": [
-            "advertising",
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "완료되었습니다! Google은 YouTube의 주류 광고에 맞춤화를 도입하고 있습니다.",
-          "summaryKo": "YouTube에서 알코올 음료에 대한 광고는 거의 없지만 곧 바뀔 것입니다. 10월 30일부터 Google은 주류 브랜드 광고에 어느 정도 맞춤화할 수 있는 새로운 정책을 시행합니다. 현재 YouTube에서는 주류 광고가 허용되지만, 상당한 제한으로 인해 광고 노출이 제한됩니다. 해당 지점에 대한 맞춤형 타겟팅이 비활성화되어 있으며 (현재로서는), 사용자는 주류 광고를 게재하지 않도록 선택할 수 있으며, 해당 지점에는 부지 배너가 허용되지 않습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:59.794Z",
+      "fetchedAt": "2026-09-09T00:17:09.102Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-08T22:10:59.977Z",
+      "fetchedAt": "2026-09-09T00:17:09.369Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T22:11:00.058Z",
+      "fetchedAt": "2026-09-09T00:17:09.445Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,6 +694,78 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "공공기관도 AI 에이전트 직접 만든다…와이즈넛, 제작 도구 조달 등록",
+          "link": "https://www.venturesquare.net/1112032/",
+          "pubDate": "2026-09-08T23:23:34.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/WIE-789x448.png",
+          "summary": "와이즈넛의 AI 에이전트 제작 도구 ‘WISE Agent Labs’가 조달청 디지털서비스몰에 등록됐다. WISE Agent Labs는 노코드 기반으로 에이전트를 설계하고 학습·검증·배포·운영·개선하는 전 과정을 하나의 환경에서 지원한다. 와이즈넛은 조달데이터허브 집계 ... The post 공공기관도 AI 에이전트 직접 만든다…와이즈넛, 제작 도구 조달 등록 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI에이전트",
+            "MCP",
+            "RAG"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "배송을 바꾸자 거래액이 뛰었다…지그재그 직진배송, 브랜드 성장 견인",
+          "link": "https://www.venturesquare.net/1112021/",
+          "pubDate": "2026-09-08T22:58:22.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/0909-768x522.jpg",
+          "summary": "지그재그 브랜드패션 카테고리의 직진배송 거래액이 올해 상반기 전년 동기 대비 37% 증가했다. 리에티는 직진배송 도입 뒤 3개월 평균 거래액이 8,580% 늘었고, 타밈은 도입 10개월 만에 월 거래액 10억 원을 돌파했다. 일부 브랜드에서는 직진배송 상품뿐 아니라 자... The post 배송을 바꾸자 거래액이 뛰었다…지그재그 직진배송, 브랜드 성장 견인 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "거래액",
+            "물류서비스",
+            "브랜드패션"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "흩어진 인프라·데이터·운영을 하나로…락플레이스, 기업 AX 연결 전략 제시",
+          "link": "https://www.venturesquare.net/1112010/",
+          "pubDate": "2026-09-08T22:53:05.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/AX-7-696x522.jpg",
+          "summary": "락플레이스가 ‘리얼 서밋 2026’에서 기업의 인프라와 데이터, 플랫폼, 클라우드, 자동화, 운영 서비스를 연결하는 ‘One RockPLACE’를 소개했다. 회사는 컨설팅과 설계부터 구축·전환·기술 지원·운영·최적화까지 기업 AX의 전 과정을 지원한다. 하이브리드 IT... The post 흩어진 인프라·데이터·운영을 하나로…락플레이스, 기업 AX 연결 전략 제시 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AX",
+            "OneRockPLACE",
+            "데이터인프라"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI 데이터센터를 하나의 칩처럼…파네시아·메타, CXL 확장 구조 제시",
+          "link": "https://www.venturesquare.net/1111959/",
+          "pubDate": "2026-09-08T13:02:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-32-789x403.png",
+          "summary": "파네시아와 메타가 CXL을 기반으로 데이터센터 자원을 하나의 칩처럼 연결하는 AI 인프라 구조를 네이처 리뷰 학술지에 제시했다. 제안 구조는 CPU 1개당 가속기 수를 2개에서 16개로 늘리고 최대 약 960개 가속기를 하나의 캐시 일관성 도메인으로 연결하는 것을 목표... The post AI 데이터센터를 하나의 칩처럼…파네시아·메타, CXL 확장 구조 제시 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI가속기",
+            "AI데이터센터",
+            "CXL"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "코스모로보틱스, 보행재활 로봇 기술로 국무총리 표창",
           "link": "https://www.venturesquare.net/1111931/",
@@ -716,81 +783,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "삼성전자가 택한 유럽 AI 주권…미스트랄, 30억 유로 시리즈 D 유치",
-          "link": "https://www.venturesquare.net/1111928/",
-          "pubDate": "2026-09-08T12:43:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MIS.jpg",
-          "summary": "미스트랄이 삼성전자가 주도한 시리즈 D 라운드에서 30억 유로를 유치하며 투자 후 기업가치 210억 유로 이상을 인정받았다. EQT의 스케일업 유럽 펀드와 PSG 에쿼티가 공동으로 라운드를 주도했으며 글로벌 전략·재무 투자자들이 대거 참여했다. 미스트랄은 투자금을 프런... The post 삼성전자가 택한 유럽 AI 주권…미스트랄, 30억 유로 시리즈 D 유치 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI투자",
-            "EQT",
-            "PSG에쿼티"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "시험지 없이 영어 성장 추적…리딩앤, 학습과정 분석 ‘LISA’ 첫 적용",
-          "link": "https://www.venturesquare.net/1111917/",
-          "pubDate": "2026-09-08T12:39:58.000Z",
-          "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png",
-          "summary": "아이포트폴리오 리딩앤이 별도의 영어 시험 없이 일상적인 학습 데이터를 분석하는 ‘LISA™ 성장 리포트’를 개발해 리딩앤아카데미에 적용했다. AI 로라가 독서와 말하기·쓰기 활동을 연결해 단어·문장구조·발음의 활용 변화를 분석하고 학생별 약 5쪽의 리포트를 제공한다. ... The post 시험지 없이 영어 성장 추적…리딩앤, 학습과정 분석 ‘LISA’ 첫 적용 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI교육",
-            "LISA",
-            "로라"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "‘옮긴 뒤’의 운영·비용까지…스마일샤크, AWS 마이그레이션 전략 공유",
-          "link": "https://www.venturesquare.net/1111914/",
-          "pubDate": "2026-09-08T12:35:07.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SMILE-696x522.png",
-          "summary": "스마일샤크가 AWS와 함께 멀티클라우드 환경에서 AWS로의 전환 전략을 다룬 ‘Go All-in on AWS’ 세미나를 개최했다. 행사에서는 EC2·스토리지·데이터베이스 등 핵심 워크로드의 진단과 이전, 운영·비용관리 방법과 AWS MAP 2.0 지원 절차를 소개했다.... The post ‘옮긴 뒤’의 운영·비용까지…스마일샤크, AWS 마이그레이션 전략 공유 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AmazonBedrock",
-            "AmazonEC2",
-            "AWS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "복지·세정·예산 잇는 공공 AI…메타빌드, AX 공급 영역 확장",
-          "link": "https://www.venturesquare.net/1111906/",
-          "pubDate": "2026-09-08T12:29:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260908082531872_JBLKPXV0-655x522.jpg",
-          "summary": "메타빌드가 복지·세정·예산·국가지식 분야를 중심으로 공공 AX 사업 영역을 확장한다. AI 에이전트 플랫폼 LLaMON AX와 지능형 연계·통합 플랫폼 MESIM AX를 결합해 문서 분석부터 데이터·레거시 시스템 연계까지 지원한다. 복지 초기상담과 지방세 상담, 예산정... The post 복지·세정·예산 잇는 공공 AI…메타빌드, AX 공급 영역 확장 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI에이전트",
-            "LLaMONAX",
-            "MESIMAX"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:11:03.365Z",
+      "fetchedAt": "2026-09-09T00:17:12.683Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:11:03.618Z",
+      "fetchedAt": "2026-09-09T00:17:13.739Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -974,7 +969,7 @@
           "summaryKo": "이 라운드는 로봇 데이터 스타트업이 스텔스에서 빠져나간 지 불과 몇 달 만에 제기되고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-08T22:11:05.924Z",
+      "fetchedAt": "2026-09-09T00:17:13.792Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -982,6 +977,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[AI 시대 리더의 대화법] 직원이 떠나자 업무가 멈췄다…프롬프트보다 남겨야 할 ‘판단의 기준’",
+          "link": "https://www.venturesquare.net/1112006/",
+          "pubDate": "2026-09-08T22:45:28.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-resize-789x422.png",
+          "summary": "AI를 활용하는 직원의 업무 범위가 커지면서 개인에게 축적되는 경험과 판단도 빠르게 늘고 있다. 프롬프트와 담당 업무만 인수인계해서는 결과물을 만들기까지의 선택과 제외 기준을 조직에 남기기 어렵다. 리더는 평소 대화에서 버린 선택과 잘된 이유, 재사용할 수 있는 기준을... The post [AI 시대 리더의 대화법] 직원이 떠나자 업무가 멈췄다…프롬프트보다 남겨야 할 ‘판단의 기준’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI시대리더십",
+            "김경민",
+            "리더의대화법",
+            "리버스마운틴"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "983개 기업 몰린 K-수출전략품목…중기부, 소비재 혁신기업 188곳 선정",
+          "link": "https://www.venturesquare.net/1111980/",
+          "pubDate": "2026-09-08T13:19:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1234567890-783x522.jpg",
+          "summary": "중소벤처기업부가 2026년 K-수출전략품목 지원 대상으로 뷰티·패션·라이프·푸드 분야 188개사를 선정했다. 올해 공모에는 983개사가 지원했으며 외국인 소비자와 글로벌 유통 전문가가 혁신성, 확장 가능성, 현지 경쟁력을 평가했다. 선정 기업에는 분야별 유통사 연계 프... The post 983개 기업 몰린 K-수출전략품목…중기부, 소비재 혁신기업 188곳 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "K뷰티",
+            "K브랜드",
+            "K수출전략품목",
+            "K패션",
+            "K푸드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "변리사에게 맡긴 특허 전략, 소송서 지킬 수 있나…국회서 기술보호 공백 논의",
           "link": "https://www.venturesquare.net/1111968/",
@@ -1035,45 +1066,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "파리 선배 창업가와 다음 주자 연결…창업진흥원, ‘K-Founders Connect’ 개최",
-          "link": "https://www.venturesquare.net/1111850/",
-          "pubDate": "2026-09-08T11:47:49.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/POSTER-2-369x522.jpg",
-          "summary": "창업진흥원이 프랑스 파리에서 유럽 진출 경험을 보유한 한국 창업가와 진출 희망기업을 연결하는 ‘K-Founders Connect’를 개최한다. 행사에는 약 70명이 참여해 현지 진출 사례와 투자·판로 전략을 공유하고 단계별 기업 밋업을 진행한다. 창업진흥원은 주한프랑스... The post 파리 선배 창업가와 다음 주자 연결…창업진흥원, ‘K-Founders Connect’ 개최 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "KFoundersConnect",
-            "글로벌스타트업",
-            "스타트업네트워킹",
-            "에이슬립",
-            "유럽진출"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "23개 초기기업, CVC와 한자리…한양대 ‘파트너 커넥트’ 연다",
-          "link": "https://www.venturesquare.net/1111822/",
-          "pubDate": "2026-09-08T11:29:04.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/PARTNER-369x522.jpg",
-          "summary": "한양대학교 창업지원단과 CVC Club, KAIA가 9월 17일 수도권 청년창업기업의 투자와 사업 협력을 지원하는 ‘PARTNER CONNECT’를 개최한다. 수도권 9개 대학이 추천한 창업기업 23개사가 연합 IR과 비즈니스 밋업에 참여한다. 주최 측은 15개 대학과... The post 23개 초기기업, CVC와 한자리…한양대 ‘파트너 커넥트’ 연다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "스타트업 가이드",
-            "CVCClub",
-            "스타트업투자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:11:09.199Z",
+      "fetchedAt": "2026-09-09T00:17:15.265Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1150,90 +1145,90 @@
           "summaryKo": null
         },
         {
-          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
-          "pubDate": "2026-09-07T23:38:32.000Z",
+          "title": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 - 한국방송뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wSE04UWpVWjl4d1gwT3otWTEtSjFGZ1lCYzRiSmVRdXo4ZV9hRnJoOXRXa3RoX0hjLWlPMXlBSTExVkZfeXZIeEJRbG9iZUg4UTZlNVNjSkRTRkxP?oc=5",
+          "pubDate": "2026-09-08T08:19:42.000Z",
           "image": null,
-          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
+          "summary": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 한국방송뉴스",
           "keywords": [
-            "water",
-            "중소기업",
-            "ESG",
-            "경쟁력",
-            "강화"
+            "군산시",
+            "보건소",
+            "한방",
+            "난임부부",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-08T22:11:09.702Z",
+      "fetchedAt": "2026-09-09T00:17:15.711Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
-      "count": 6,
-      "rank": 1,
-      "change": "same"
+      "count": 5,
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
-      "count": 6,
-      "rank": 2,
-      "change": "same"
+      "count": 5,
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
-      "count": 6,
-      "rank": 3,
-      "change": "same"
-    },
-    {
-      "key": "경제",
-      "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 5,
+      "change": "same"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 6,
       "change": "up"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 2,
       "rank": 9,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "1인",
@@ -1281,7 +1276,7 @@
       "label": "Articles",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1289,7 +1284,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1297,7 +1292,7 @@
       "label": "News",
       "count": 4,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
@@ -1305,7 +1300,7 @@
       "label": "AI",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1313,7 +1308,7 @@
       "label": "Enforcement Actions",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "시행 조치"
     },
     {
@@ -1321,7 +1316,7 @@
       "label": "Statistics",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "스탯"
     }
   ]
