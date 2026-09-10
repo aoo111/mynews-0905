@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-10T02:11:16.812Z",
+  "collectedAt": "2026-09-10T04:10:46.393Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "불 보듯 뻔했던 노란봉투법 혼란…‘카산드라 경고’가 떠오르는 이유 [기자24시]",
+          "link": "https://www.mk.co.kr/news/economy/12149225",
+          "pubDate": "2026-09-10T02:41:40.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260629.794afdeac54d410d973c537ac0a7c25a_R.jpeg",
+          "summary": "천만 관객을 모은 영화 ‘오디세이’는 트로이전쟁이 끝난 뒤 오디세우스가 겪는 험난한 귀향을 그린다. 영화엔 나오지 않지만 또 다른 비극적 인물은 트로이 멸망을 내다본 예언자 카산드..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "35억 넘는 서울 아파트 단지, 10곳 중 8곳은 20년 넘었다는데",
           "link": "https://www.mk.co.kr/news/economy/12149190",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“마통 2000만원까지”…케이뱅크, 서울 사장님 보증료 절반 내준다",
-          "link": "https://www.mk.co.kr/news/economy/12149141",
-          "pubDate": "2026-09-10T01:43:31.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.344ac148e67c418c9d7d963a9fd7535a_R.jpg",
-          "summary": "서울 소상공인 ‘안심통장 4호’ 출시 기존 1000만원서 2000만원으로 한도 확대케이뱅크가 서울 지역 소상공인을 대상으로 최대 2000만원까지 빌릴 수 있는 마이너스통장 상품을 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:02.749Z",
+      "fetchedAt": "2026-09-10T04:10:21.762Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:02.857Z",
+      "fetchedAt": "2026-09-10T04:10:21.805Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,16 +189,67 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "유토파이 스튜디오, 장편 콘텐츠 AI 제작 고도화… 2027년 영화·시리즈 5편 선봬",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215071",
-          "pubDate": "2026-09-10T09:04:33.000Z",
+          "title": "오픈AI, ‘아스트라’ 수요 폭증에 유료 신규 가입 일시 중단 검토",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215089",
+          "pubDate": "2026-09-10T12:41:52.000Z",
           "image": null,
-          "summary": "유토파이 스튜디오(Utopai Studios)가 글로벌 제작사 및 크리에이터와 협업하며 영화·TV 콘텐츠 사업을 확대하고 있다. 유토파이 스튜디오는 미국 캘리포니아주 마운틴뷰에 본사를 둔 세계 최대 독립 AI 네이티브 영화·TV 스튜디오다. 공동 창업자 겸 CEO 세실리아 션과 공동 창립자 겸 CTO 지에 양이 이끌며, 기업 가치는 10억달러로 평가받고 있다.콘텐츠 기획과 개발, 투자, 제작, 배급 등을 주요 사업으로 하고 있으며 극장 개봉작뿐 아니라 방송, 스트리밍, 디지털 플랫폼을 위한 콘텐츠도 개발하고 있다. 현재 25개 영화",
+          "summary": "‘GPT-6 아스트라’ 수요가 폭발적으로 증가하자, 오픈AI가 신규 유료 가입을 일시적으로 제한할 가능성을 내비쳤다. 급증하는 사용자 수를 현재의 컴퓨팅 자원만으로 감당하기 어려워지면서 기존 사용자에 대한 서비스 품질을 우선하겠다는 방침이다.티보 소티오 오픈AI 코덱스 책임자는 9일(현지시간) X를 통해 “아스트라에 대한 수요는 정말 전례 없는 수준”이라며 “이전에도 매우 가파른 성장세를 경험했지만, 지금과 같은 상황은 처음”이라고 밝혔다.그는 “수요를 유지하기 위해 가능한 모든 수단을 동원하고 있다”면서도 가용 자원에는 한계가 있",
           "keywords": [
-            "유토파이",
-            "스튜디오",
-            "장편",
-            "콘텐츠",
+            "오픈AI",
+            "아스트라",
+            "수요",
+            "폭증에",
+            "유료"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "스마트워치가 대화까지 기억한다…애플, '오디오 AI'로 웨어러블 승부수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215082",
+          "pubDate": "2026-09-10T12:10:10.000Z",
+          "image": null,
+          "summary": "애플이 스마트워치에 주변 소리를 인식하고 대화를 요약하거나 실시간으로 음성을 텍스트로 변환하는 AI 기능을 도입하며 AI 웨어러블 시장 공략에 나섰다. 그동안 건강 관리와 알림 기능에 집중했던 애플워치가 일상적인 대화와 주변 환경까지 이해하는 AI 기기로 진화하는 모습이다.애플은 9일(현지시간) 미국 캘리포니아주 쿠퍼티노에서 열린 신제품 행사에서 애플워치 시리즈 12와 애플워치 울트라 4에 새로운 오디오 인텔리전스(Audio Intelligence) 기능을 탑재한다고 밝혔다. 오디오 인텔리전스의 핵심 기능 가운데 하나인 '시리 리캡",
+          "keywords": [
+            "스마트워치가",
+            "대화까지",
+            "기억한다",
+            "애플",
+            "오디오"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "애플, 첫 폴더블 스마트폰 '아이폰 듀오' 공개...329만원부터 시작",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215081",
+          "pubDate": "2026-09-10T12:01:48.000Z",
+          "image": null,
+          "summary": "애플이 아이폰 출시 이후 가장 큰 하드웨어 폼팩터 변화로 꼽히는 첫 폴더블 스마트폰 '아이폰 듀오(iPhone Duo)'를 공개했다. 그동안 폴더블폰의 대표적인 단점으로 지적돼 온 디스플레이 주름과 내구성 문제를 새로운 힌지와 소재 기술로 개선하고, 대화면을 활용한 멀티태스킹을 앞세워 폴더블 시장 공략에 본격적으로 나섰다.애플은 9일(현지시간) 열린 ‘서프라이즈 앤 샤인(Surprise and Shine)’ 행사에서 자사의 첫 폴더블 아이폰 ‘아이폰 듀오(iPhone Duo)’​를 공개했다. 아이폰 듀오는 여권과 비슷한 형태로 접히",
+          "keywords": [
+            "애플",
+            "폴더블",
+            "스마트폰",
+            "아이폰",
+            "듀오"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "크라우드웍스, 경남 창원에 '피지컬 AI 허브' 1호 거점 구축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215084",
+          "pubDate": "2026-09-10T11:57:06.000Z",
+          "image": null,
+          "summary": "크라우드웍스(대표 김광일)는 창원에 '피지컬 AI 허브'를 구축했다고 10일 밝혔다. 정부 주도 제조 AI·로보틱스 밸리 조성이 본격화되는 경남 창원국가산업단지를 중심으로 선제적으로 AI 생태계 입지를 선점한다는 방침이다.첫 지역 거점인 창원 오피스는 경남테크노파크 경남인공지능혁신본부에 마련됐다. ▲경남 지역 제조기업 AI 수요 발굴 및 수주 지원 ▲지자체 피지컬 AI 생태계 참여 ▲지역 기반 산학연 네트워크 확대 등을 추진할 예정이다.창원을 시작으로 울산, 전북 등 주요 제조 밀집 지역으로 피지컬 AI 허브를 확대할 예정이다. 내",
+          "keywords": [
+            "크라우드웍스",
+            "경남",
+            "창원에",
+            "피지컬",
             "AI"
           ],
           "isForeign": false,
@@ -206,75 +257,24 @@
           "summaryKo": null
         },
         {
-          "title": "[9월9일] 소비자 시장서 구글에 추격받던 오픈AI, GPT-5.6 이후 다시 격차 벌렸다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215023",
-          "pubDate": "2026-09-10T07:00:00.000Z",
+          "title": "AWS, AI 개발 도구 '키로' 무상 지원 확대...국내 대학 3곳 포함",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215080",
+          "pubDate": "2026-09-10T11:56:24.000Z",
           "image": null,
-          "summary": "올해 들어 AI 시장의 주요 관심사는 오픈AI와 앤트로픽의 기업 시장 점유율 경쟁에 맞춰져 있었습니다. 그런데 그 사이 2022년 11월 '챗GPT' 출시 이후 좀처럼 흔들리지 않았던 오픈AI의 소비자 시장에서 이상 신호가 나타났습니다. 구글이 '제미나이'를 앞세워 빠르게 추격하면서 오픈AI의 독주가 끝날 수 있다는 전망까지 나왔습니다. 실제로 7월 말 제미나이의 월간 이용자는 9억5000만명까지 늘었고, 8월에는 양쪽 모두 10억명을 넘어섰습니다.그런데 7월부터 흐름이 바뀌기 시작했습니다. 7일 시밀러웹이 공개한 데이터에 따르면,",
+          "summary": "아마존웹서비스(AWS)는 AI 개발 도구 '키로(Kiro)'를 대학생들이 1년간 무료로 이용할 수 있는 '키로 스튜던트' 프로그램을 전 세계로 확대한다고 10일 밝혔다.AWS는 지난 3월 2개국 11개 대학을 대상으로 해당 프로그램을 시작했으며, 이번에 16개국 121개 대학이 새롭게 추가돼 총 18개국 132개 대학으로 늘었다.국내는 서울대, 연세대, 국민대가 새롭게 선정됐으며, 재학생 전원은 12개월간 키로 프로 요금제를 무료로 이용할 수 있다. 월 1000 크레딧이 제공되며, 연간 240달러 상당이다.대학 이메일 주소로 키로",
           "keywords": [
-            "9월9일",
-            "소비자",
-            "시장서",
-            "구글에",
-            "추격받던"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215061",
-          "pubDate": "2026-09-09T22:00:00.000Z",
-          "image": null,
-          "summary": "이재명 대통령의 프랑스 국빈 방문을 계기로, 한국과 프랑스 간의 AI 및 양자기술 파트너십을 강화했다. 과학기술정보통신부(장관 배경훈)는 8일 프랑스 파리에서 AI, 반도체 및 양자기술 분야 협력 강화를 위한 MOU를 체결했다고 밝혔다.이번 MOU는 지난 4월 3일 에마뉘엘 마크롱 대통령의 방한 당시 체결한 AI, 반도체, 양자기술 협력의향서(LOI)를 바탕으로 한다. 구체적이고 실질적인 협력 방안을 담아 이번 파트너십을 강화했다는 설명이다. 양국은 이번 협력을 통해 ▲AI, 양자 분야 정례 회의 개최 ▲연구자 간 공동연구 및 혁신",
-          "keywords": [
-            "과기부",
-            "프랑스와",
+            "AWS",
             "AI",
-            "양자기술",
-            "협력"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스틸러' 주의보",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215037",
-          "pubDate": "2026-09-09T19:08:23.000Z",
-          "image": null,
-          "summary": "'클로드' 유료 구독자들의 계정이 해킹돼 할당된 AI 토큰이 사용자의 동의 없이 소진되는 피해가 잇따르고 있다. 앤트로픽은 피해 원인으로 컴퓨터에 침투해 브라우저의 로그인 정보와 세션 데이터를 훔치는 ‘인포스틸러(Infostealer)’ 악성코드를 지목하고, 의심스러운 계정의 세션과 인증 권한을 무효화하는 등 대응에 나섰다.이번 사건은 한 피해 이용자가 온라인 커뮤니티에 자신의 사례를 올리면서 알려지기 시작했다. 독립 AI 컨설턴트로 활동하는 그랜트 드 스워트는 최근 레딧 게시글을 통해 자신의 월 200달러짜리 ‘클로드 맥스 20x",
-          "keywords": [
-            "클로드",
-            "유료",
-            "계정",
-            "토큰",
-            "탈취"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215065",
-          "pubDate": "2026-09-09T18:54:55.000Z",
-          "image": null,
-          "summary": "오픈AI가 ‘GPT-6 아스트라’의 강력한 성능을 바탕으로 하는 차세대 사이버 모델 출시를 준비 중이라고 밝혔다. 아스트라도 이미 사이버 방어 측면에서 우수하지만, 더 강력한 방어책을 위해 사이버 보안 특화 모델을 준비한다는 전략이다.오픈AI는 9일 서울 강남구 조선팰리스 호텔에서 한국 오피스 공식 출범 1주년 기념 기자회견을 개최했다. 우선 1년 간 국내 시장에서 이룬 성과와 파트너십 확대를 소개했다. 지난 8월 말 기준 국내 '챗GPT 엔터프라이즈' 도입 규모는 사용자 수 기준 전년 동기 대비 28배로 증가한 것으로 나타났다.",
-          "keywords": [
-            "오픈AI",
-            "아스트라",
-            "사이버",
-            "모델",
-            "준비"
+            "개발",
+            "도구",
+            "키로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:03.892Z",
+      "fetchedAt": "2026-09-10T04:10:22.851Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:04.063Z",
+      "fetchedAt": "2026-09-10T04:10:22.991Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "불법스팸 발송자와 방치 사업자에 관련 매출액 최대 6% 과징금, 10월 시행 예정",
+          "link": "https://news.hada.io/topic?id=33470",
+          "pubDate": "2026-09-10T04:00:02.000Z",
+          "image": null,
+          "summary": "불법스팸을 보내거나 자신의 서비스가 스팸 전송에 이용되는 것을 막을 의무를 소홀히 한 사업자에게 관련 매출액의 최대 6%를 과징금으로 부과하는 제도가 도입됨 방송미디어통신위원회는 9월 9일 정보통신망법 시행령 개정안과 관련 고시 제정안을 의결했으며, 후속 절차를 거쳐 ...",
+          "keywords": [
+            "불법스팸",
+            "발송자와",
+            "방치",
+            "사업자에",
+            "매출액"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Qwen에 GPT의 추론 앞부분을 넣자, 최종 답변의 표현도 GPT와 비슷해짐",
+          "link": "https://news.hada.io/topic?id=33469",
+          "pubDate": "2026-09-10T03:32:57.000Z",
+          "image": null,
+          "summary": "GPT-5.5 Pro가 문제를 푸는 추론 과정의 첫 1%만 Qwen3.8 A95B에 넣었더니, 스스로 생성한 최종 답변도 GPT의 표현에 더 가까워지는 결과가 나옴 과학/기술 문제와 일반 문제, 합성 퍼즐 등 45개 문제에서 답변의 단어와 구절이 겹치는 점수가 16.79%에서 34.97%로...",
+          "keywords": [
+            "Qwen에",
+            "GPT의",
+            "추론",
+            "앞부분을",
+            "넣자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "강남언니 개인정보 유출 후속 안내 - 피해자에 5만 포인트와 피해 보험 제공",
+          "link": "https://news.hada.io/topic?id=33468",
+          "pubDate": "2026-09-10T02:15:01.000Z",
+          "image": null,
+          "summary": "약 22만 명의 개인정보가 유출된 강남언니가 2차 입장문과 보상안을 공개하고, 국내 피해 고객에게 1인당 5만 원 상당의 포인트를 지급하기로 함 개인정보 유출에 따른 해킹/피싱 등 금융사기 피해를 1인당 최대 1,000만 원까지 보장하는 보험을 ...",
+          "keywords": [
+            "강남언니",
+            "개인정보",
+            "유출",
+            "후속",
+            "안내"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "KAIST-MS, 뇌파로 ‘그게 아닌데’를 감지해 AI의 목표와 행동을 교정하는 연구 발표",
           "link": "https://news.hada.io/topic?id=33466",
@@ -389,60 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "창업자는 월급을 얼마나 받아야 할까?",
-          "link": "https://news.hada.io/topic?id=33464",
-          "pubDate": "2026-09-10T01:32:17.000Z",
-          "image": null,
-          "summary": "창업자 급여의 기준은 남들이 받는 금액이 아니라 자신과 가족의 생활을 지키면서 회사의 장기적 성공에 집중할 수 있는 수준이어야 함 생활비를 지나치게 줄여 개인 부채와 가족 갈등을 떠안으면, 사업을 일찍 포기하거나 만족스럽지 않은 인수 제안을 받아들일 유인",
-          "keywords": [
-            "창업자는",
-            "월급을",
-            "얼마나",
-            "받아야",
-            "할까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Proliferate - 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE",
-          "link": "https://news.hada.io/topic?id=33463",
-          "pubDate": "2026-09-10T00:30:03.000Z",
-          "image": null,
-          "summary": "Claude Code/Codex/OpenCode/Cursor/Grok에 서로 다른 작업을 맡기고, 진행 상황과 코드 변경을 한곳에서 확인하는 데스크톱 IDE 작업마다 별도의 Git 브랜치와 작업 디렉터리(worktree)를 만들어, 에이전트들이 서로의 파일을 덮어쓰지 않고 동시에 작업할 수 있음...",
-          "keywords": [
-            "Proliferate",
-            "여러",
-            "코딩",
-            "에이전트를",
-            "병렬로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Addy Osmani, Google 떠나 Anthropic 합류",
-          "link": "https://news.hada.io/topic?id=33462",
-          "pubDate": "2026-09-10T00:20:02.000Z",
-          "image": null,
-          "summary": "웹 성능과 소프트웨어 개발 관련 글로 널리 알려진 Addy Osmani가 9월 8일 Anthropic 합류를 발표, Claude Code를 개발자들이 더 잘 사용할 수 있도록 개선하는 일을 맡는다고 밝힘 Google에서 14년 이상 근무했으며, Chrome/DevTools/Lighthouse/Core Web Vitals의...",
-          "keywords": [
-            "Addy",
-            "Osmani",
-            "Google",
-            "떠나",
-            "Anthropic"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:05.034Z",
+      "fetchedAt": "2026-09-10T04:10:23.741Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -482,6 +482,19 @@
           "summaryKo": "음색이 나빠지는 광고 하나가 유튜브 골프계를 혼란에 빠뜨렸습니다. 현재 다른 스포츠 커뮤니티에서는 인플루언서들이 추가적인 블로우백에 직면해 있지만, 게임의 날을 준비하는 크리에이터에게는 여전히 많은 기회가 있습니다. 스포츠 크리에이터 사가의 이 특별한 장은 Good Good에서 시작됩니다. 유튜브 골프 승무원은 수요가 많았고 PGA 투어에서 자체 이벤트를 개최하기도 했습니다. 그러나 Good Good 회원이 출연했을 때 모든 것이 바뀌었습니다."
         },
         {
+          "title": "YouTube wants creators to pitch brands with guesstimated TV co-viewership stats",
+          "link": "https://www.tubefilter.com/2026/09/09/youtube-wants-creators-to-pitch-brands-with-a-new-metric-that-guesstimates-tv-co-viewership/",
+          "pubDate": "2026-09-09T20:50:30.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/cardmapr-nl-N8Pnhrcr73o-unsplash.jpg",
+          "summary": "YouTube has come up with another way to pump viewcounts. Just a few weeks after announcing it would start counting a “view” from the very first frame of a video, YouTube has added a new metric called Views (Co-Viewed) that “estimates” when multiple people are watching YouTube content together on one TV screen. “Viewers watch […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube는 크리에이터가 TV 공동 시청률 통계로 브랜드를 홍보하기를 원합니다.",
+          "summaryKo": "YouTube는 조회수를 높이는 또 다른 방법을 고안했습니다. 동영상의 첫 번째 프레임에서 '조회수' 를 계산하기 시작한다고 발표한 지 불과 몇 주 만에 YouTube는 여러 사람이 하나의 TV 화면에서 YouTube 콘텐츠를 함께 시청할 때 '추정' 하는 '조회수' 라는 새로운 측정항목을 추가했습니다. \"시청자는 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 볼 수 있습니다."
+        },
+        {
           "title": "From the cozy games to the horror hits, Twitch breaks down the “State of Gaming” in 2026",
           "link": "https://www.tubefilter.com/2026/09/09/twitch-state-of-gaming-2026-jynxzi-league-of-legends/",
           "pubDate": "2026-09-09T19:31:19.000Z",
@@ -511,27 +524,9 @@
           "isForeign": true,
           "titleKo": "Roblox, 최고의 게임 개발자를 집중 조명하는 새로운 비디오 시리즈 출시",
           "summaryKo": "Roblox가 20주년을 맞이하면서, \"가장 흥미롭고 최근에 출시된 게임\" 뒤에 있는 개발자를 프로파일링하는 새로운 소셜 비디오 시리즈를 출시합니다. 담당자가 Tubefilter에 말합니다. 이 시리즈의 목표는 두 가지입니다. 첫째, 더 많은 플레이어가 게임을 발견할 수 있도록 특정 게임을 향상시키는 것, 둘째, 개발의 커튼을 벗겨내고 […] 더 멋진 스토리를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Across comparable deals, YouTube Gaming creators are commanding 23% higher rates than Twitch streamers",
-          "link": "https://www.tubefilter.com/2026/09/08/collabstr-youtube-gaming-twitch-brand-deal-data/",
-          "pubDate": "2026-09-08T22:41:06.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-gaming-banner.jpg",
-          "summary": "Across the past two years, a perceivable trend has emerged in the world of digital gaming. Twitch, once synonymous with the world of streamers, has seen its market share dip as rivals like YouTube Gaming and Kick come on strong. A report from Stream Hatchet has also shown Twitch traffic declining year-over-year, while YouTube Gaming surges. Traffic measurements on […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube Gaming",
-            "collabstr"
-          ],
-          "isForeign": true,
-          "titleKo": "비슷한 거래에서 YouTube 게임 크리에이터는 Twitch 스트리머보다 23% 더 높은 비율을 기록하고 있습니다.",
-          "summaryKo": "지난 2년 동안 디지털 게임 세계에서 인지할 수 있는 추세가 나타났습니다. 한때 스트리머의 세계와 동의어였던 Twitch는 YouTube Gaming 및 Kick과 같은 라이벌이 강세를 보임에 따라 시장 점유율이 떨어지는 것을 보았습니다. Stream Hatchet의 보고서에 따르면 Twitch 트래픽은 전년 대비 감소하는 반면 YouTube Gaming은 급증하는 것으로 나타났습니다. […] 에 대한 트래픽 측정은 Tubefilter를 방문하여 더 많은 멋진 이야기를 확인하세요."
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:08.928Z",
+      "fetchedAt": "2026-09-10T04:10:25.905Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +600,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:09.096Z",
+      "fetchedAt": "2026-09-10T04:10:26.108Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +681,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:09.172Z",
+      "fetchedAt": "2026-09-10T04:10:26.208Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +781,7 @@
         }
       ],
       "fetchedAt": "2026-09-10T02:11:13.296Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -794,85 +789,88 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "당근페이 쓰는 집과 번개장터 쓰는 집이 다르다",
-          "link": "https://platum.kr/archives/294260?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%25b9%25ea%25b7%25bc%25ed%258e%2598%25ec%259d%25b4-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a7%2591%25ea%25b3%25bc-%25eb%25b2%2588%25ea%25b0%259c%25ec%259e%25a5%25ed%2584%25b0-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a7%2591%25ec%259d%25b4-%25eb%258b%25a4%25eb%25a5%25b4%25eb%258b%25a4",
-          "pubDate": "2026-09-09T02:32:12.000Z",
+          "title": "메타, 스레드에 청소년 계정 관리 감독 기능 도입",
+          "link": "https://platum.kr/archives/294333?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%258a%25a4%25eb%25a0%2588%25eb%2593%259c%25ec%2597%2590-%25ec%25b2%25ad%25ec%2586%258c%25eb%2585%2584-%25ea%25b3%2584%25ec%25a0%2595-%25ea%25b4%2580%25eb%25a6%25ac-%25ea%25b0%2590%25eb%258f%2585-%25ea%25b8%25b0%25eb%258a%25a5-%25eb%258f%2584%25ec%259e%2585",
+          "pubDate": "2026-09-10T03:08:35.000Z",
           "image": null,
-          "summary": "번개장터에서 카드로 결제된 금액의 47.7%가 1인 가구에서 나왔다. 당근페이는 1인 가구 33.2%, 초·중·고 자녀가 있는 가구가 32.1%로 두 집단이 비슷했다. 와이즈앱·리테일이 2026년 8월 두 서비스의 카드 결제금액을 가구 유형별로 나눠 추정한 결과다. 당근페이는 이어 신혼·영유아 가구 13.2%, 성인 자녀 가구 12.6%, 노인 가구 8.9% 순이었다. 번개장터는 1인 가구 다음으로 초·중·고 자녀 가구 22.7%, 신혼·영유아 가구 17.8%, 성인 자녀 가구 7.0%, 노인 가구 4.8%였다. 두 서비스의 이용자 구성이 다르게 나타난 셈이다. 번개장터가 1인 가구에 절반 가까이 몰린 반면, ... 더 읽기",
-          "keywords": [
-            "트렌드",
-            "당근",
-            "당근페이",
-            "번개장터",
-            "중고거래 앱"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI 시대 하드웨어에 베팅, a16z 새 펀드 11억 달러 조성",
-          "link": "https://platum.kr/archives/294251?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%258b%259c%25eb%258c%2580-%25ed%2595%2598%25eb%2593%259c%25ec%259b%25a8%25ec%2596%25b4%25ec%2597%2590-%25eb%25b2%25a0%25ed%258c%2585-a16z-%25ec%2583%2588-%25ed%258e%2580%25eb%2593%259c-11%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-%25ec%25a1%25b0%25ec%2584%25b1",
-          "pubDate": "2026-09-09T02:09:00.000Z",
-          "image": null,
-          "summary": "앤드리슨 호로위츠(a16z)가 AI를 돌아가게 하는 물리적 인프라에 투자하는 11억 달러(약 1조 4,900억 원) 규모의 ‘머신 에이지 펀드’를 조성했다. 투자 대상은 반도체와 메모리, 네트워킹, 스토리지 같은 컴퓨팅 인프라와 데이터센터, 로보틱스, 가정용 AI 기기다. AI 활용이 대화형 서비스에서 추론과 코딩으로 넓어지면서 이를 받쳐줄 하드웨어와 전력·냉각·데이터 전송 영역에서 새로운 기술과 투자가 필요해졌다는 것이 펀드 조성의 배경이다. a16z는 스페이스X와 ... 더 읽기",
-          "keywords": [
-            "글로벌",
-            "앤드리슨 호로위츠",
-            "펀드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "유럽에 먼저 자리 잡은 한국 창업가들이 파리에 모였다",
-          "link": "https://platum.kr/archives/294248?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25eb%259f%25bd%25ec%2597%2590-%25eb%25a8%25bc%25ec%25a0%2580-%25ec%259e%2590%25eb%25a6%25ac-%25ec%259e%25a1%25ec%259d%2580-%25ed%2595%259c%25ea%25b5%25ad-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b0%2580%25eb%2593%25a4%25ec%259d%25b4-%25ed%258c%258c%25eb%25a6%25ac%25ec%2597%2590-%25eb%25aa%25a8%25ec%2598%2580",
-          "pubDate": "2026-09-09T02:06:13.000Z",
-          "image": null,
-          "summary": "프랑스와 유럽에 진출한 한국 창업가, 진출을 준비하는 국내 스타트업, 현지 창업 생태계 관계자 80여 명이 파리에 모였다. 코리아스타트업포럼이 창업진흥원, 중소벤처기업진흥공단 KSC 파리센터와 함께 현지시간 9월 8일 파리 메리어트 샹젤리제 호텔에서 ‘K-파운더스 커넥트 인 파리’를 열었다. 먼저 진출한 창업가들이 사례를 발표했다. 스마트폰 마이크로 수면 중 호흡음을 분석해 수면 상태를 파악하는 AI 기업 에이슬립의 이동헌 대표, 유럽에 ... 더 읽기",
+          "summary": "메타가 다음 주부터 스레드에서도 부모가 자녀의 계정을 관리할 수 있게 한다. 인스타그램과 페이스북, 메신저에 적용해 온 청소년 계정의 관리 감독 기능을 텍스트 기반 서비스인 스레드로 넓히는 것이다. 자녀의 스레드 계정에 관리 감독 기능을 등록한 보호자는 가족 센터에서 하루 앱 사용 시간을 확인하고 설정할 수 있다. 오후 10시부터 오전 7시까지 적용되는 야간 수면 모드를 관리하고, 자녀를 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "창업진흥원",
-            "코리아스타트업포럼"
+            "메타",
+            "스레드",
+            "인스타그램",
+            "페이스북"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이탈리아 조선·에너지·유틸리티 대기업, 한국 스타트업 찾으러 서울 온다",
-          "link": "https://platum.kr/archives/294244?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25ed%2583%2588%25eb%25a6%25ac%25ec%2595%2584-%25ec%25a1%25b0%25ec%2584%25a0%25c2%25b7%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580%25c2%25b7%25ec%259c%25a0%25ed%258b%25b8%25eb%25a6%25ac%25ed%258b%25b0-%25eb%258c%2580%25ea%25b8%25b0%25ec%2597%2585-%25ed%2595%259c%25ea%25b5%25ad-%25ec%258a%25a4%25ed%2583%2580",
-          "pubDate": "2026-09-09T01:57:07.000Z",
+          "title": "서울 AI 허브, 몬트리올 액셀러레이터와 협력… 내년 스타트업 파견 추진",
+          "link": "https://platum.kr/archives/294327?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8-ai-%25ed%2597%2588%25eb%25b8%258c-%25eb%25aa%25ac%25ed%258a%25b8%25eb%25a6%25ac%25ec%2598%25ac-%25ec%2595%25a1%25ec%2585%2580%25eb%259f%25ac%25eb%25a0%2588%25ec%259d%25b4%25ed%2584%25b0%25ec%2599%2580-%25ed%2598%2591%25eb%25a0%25a5-%25eb%2582%25b4%25eb%2585%2584-%25ec%258a%25a4",
+          "pubDate": "2026-09-10T03:03:46.000Z",
           "image": null,
-          "summary": "유럽 최대 조선·해양 엔지니어링 그룹 핀칸티에리(Fincantieri)와 이탈리아 최대 에너지·화학 기업 ENI, 전력·가스 공급과 폐기물 관리를 맡는 종합 유틸리티 기업 A2A의 오픈이노베이션 책임자들이 서울에서 한국 스타트업과의 협력 계획을 발표한다. 서울시와 서울경제진흥원은 9월 10일 오후 2시 45분 동대문디자인플라자(DDP) 컨퍼런스홀에서 ‘2026 서울 오픈이노베이션 글로벌 데이’를 연다고 밝혔다. 창업 축제 ‘트라이 에브리싱 2026’ 프로그램의 하나다. 행사는 공동 주관사인 마인드더브릿지(Mind ... 더 읽기",
+          "summary": "서울 AI 허브는 2023년부터 서울의 AI 스타트업을 캐나다 몬트리올의 AI 연구기관 밀라(Mila)에 보내 공동연구를 해왔다. 2024년과 2025년 각각 7개사, 올해는 6개사가 현지에서 약 15주간 연구를 수행하고 있다. 여기에 현지 고객사 발굴과 투자유치, 사업화를 붙이는 협약이 더해졌다. 서울 AI 허브는 9월 7일 서울 양재동 메인센터에서 몬트리올의 딥테크 액셀러레이터 센테크(Centech)와 업무협약을 맺었다고 밝혔다. 협약식에는 줄리앙 루케시 센테크 ... 더 읽기",
           "keywords": [
-            "이벤트",
-            "서울경제진흥원",
-            "오픈이노베이션",
-            "트라이 에브리싱"
+            "Uncategorized",
+            "밀라",
+            "서울 AI 허브"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "“AI 에이전트는 공격자가 심은 데이터까지 함께 읽는다”… AI 보안 컨퍼런스 서울서 열려",
-          "link": "https://platum.kr/archives/294239?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8%25eb%258a%2594-%25ea%25b3%25b5%25ea%25b2%25a9%25ec%259e%2590%25ea%25b0%2580-%25ec%258b%25ac%25ec%259d%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ea%25b9%258c%25ec%25a7%2580-%25ed%2595%25a8%25ea%25bb%2598-%25ec%259d%25bd%25eb%258a%2594%25eb%258b%25a4",
-          "pubDate": "2026-09-09T01:42:20.000Z",
+          "title": "햇빛 열 막는 페인트로 중국 간다, 제이치글로벌 한·중 스타트업 챌린지 한국기업 1위",
+          "link": "https://platum.kr/archives/294326?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2596%2587%25eb%25b9%259b-%25ec%2597%25b4-%25eb%25a7%2589%25eb%258a%2594-%25ed%258e%2598%25ec%259d%25b8%25ed%258a%25b8%25eb%25a1%259c-%25ec%25a4%2591%25ea%25b5%25ad-%25ea%25b0%2584%25eb%258b%25a4-%25ec%25a0%259c%25ec%259d%25b4%25ec%25b9%2598%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c-%25ed%2595%259c%25c2%25b7",
+          "pubDate": "2026-09-10T03:00:22.000Z",
           "image": null,
-          "summary": "AI 에이전트가 웹을 돌아다니며 일을 처리하는 방식은 공격자가 만들어 둔 데이터까지 함께 읽어들이는 구조를 만든다. 이병영 서울대 교수는 9월 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 “AI 에이전트는 공격자가 만든 데이터까지 LLM 컨텍스트에 포함해 처리하다 보니, LLM이 취약해질 수밖에 없다”며 “외부 데이터와 사용자의 명령을 구조적으로 분리하는 것이 대안”이라고 말했다. 언어모델이 참고할 자료와 실행할 명령을 같은 입력으로 받아들이는 데서 문제가 생긴다는 지적이다. AI 보안 기업 에임인텔리전스가 연 이 행사에는 국내외 기업 관계자 100여 명이 참석했다. 이날 유상윤 대표는 “이미 단순 챗봇을 ... 더 읽기",
+          "summary": "건물 표면에 발라 햇빛의 열을 반사하고 오염물질을 분해하는 페인트를 만드는 제이치글로벌이 9월 3일 중국 선전에서 열린 ‘2026 한·중 스타트업 챌린지’ 결승에서 한국 참가기업 가운데 1위에 올라 중소벤처기업부 장관상을 받았다. 이 대회는 중기부와 칭화과학기술원이 함께 열었고, 예선과 준결승을 거친 한국과 중국 스타트업 각 5곳이 결승에 진출했다. 회사의 기술은 열을 막는 차열·단열 소재와 빛을 받아 화학반응을 일으키는 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "AI 리스크 컨퍼런스",
-            "에임인텔리전스"
+            "인천창조경제혁신센터",
+            "제이치글로벌",
+            "한·중 스타트업 챌린지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI로 만든 가상 소비자로 시장조사, 창업경진대회 AI리그 1위",
+          "link": "https://platum.kr/archives/294285?utm_source=rss&utm_medium=rss&utm_campaign=ai%25eb%25a1%259c-%25eb%25a7%258c%25eb%2593%25a0-%25ea%25b0%2580%25ec%2583%2581-%25ec%2586%258c%25eb%25b9%2584%25ec%259e%2590%25eb%25a1%259c-%25ec%258b%259c%25ec%259e%25a5%25ec%25a1%25b0%25ec%2582%25ac-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b2%25bd%25ec%25a7%2584%25eb%258c%2580%25ed%259a%258c-ai%25eb%25a6%25ac%25ea%25b7%25b8",
+          "pubDate": "2026-09-09T13:51:42.000Z",
+          "image": null,
+          "summary": "실제 소비자를 모집하는 대신 AI로 만든 가상의 소비자에게 물어 시장조사를 대신하는 인텔리시아가 올해 신설된 AI리그에서 최우수상을 받았다. 중소벤처기업부는 9개 부처가 함께 여는 창업경진대회 ‘올해의 K-스타트업’에서 중기부가 주관하는 AI리그와 혁신창업리그의 통합본선 진출 기업 32곳을 9일 공개했다. 인텔리시아는 데이블을 창업해 야놀자에 매각한 백승국 대표가 지난해 2월 세운 회사다. 실제 사람의 데이터를 바탕으로 만든 합성소비자에게 설문과 인터뷰를 수행하게 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "올해의 K-스타트업",
+            "중소벤처기업부"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "홍콩과 일대일로 국가 교역 3,230억 달러, 1년 새 17% 늘었다",
+          "link": "https://platum.kr/archives/294302?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%258d%25ec%25bd%25a9%25ea%25b3%25bc-%25ec%259d%25bc%25eb%258c%2580%25ec%259d%25bc%25eb%25a1%259c-%25ea%25b5%25ad%25ea%25b0%2580-%25ea%25b5%2590%25ec%2597%25ad-3230%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-1%25eb%2585%2584-%25ec%2583%2588-17-%25eb%258a%2598%25ec%2597%2588%25eb%258b%25a4",
+          "pubDate": "2026-09-09T13:11:47.000Z",
+          "image": null,
+          "summary": "지난해 홍콩과 일대일로 참여국의 상품 교역액이 약 3,230억 달러로 17% 가까이 늘었다. 존 리(John Lee) 홍콩 행정장관은 9월 9일 홍콩컨벤션센터에서 개막한 제11회 일대일로 서밋 연설에서 이 수치를 공개했다. 지난해 서밋에서 밝힌 2024년 교역액은 2,760억 달러였다. 일대일로 참여국 기업 약 1,500곳이 홍콩에 사무소를 두고 있다. 2022년보다 17% 늘어난 수치로, 지난해 발표 때는 1,400곳이었다. 홍콩거래소에 상장한 일대일로 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "China",
+            "일대일로",
+            "일대일로 서밋",
+            "중국",
+            "홍콩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:13.603Z",
+      "fetchedAt": "2026-09-10T04:10:41.423Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -965,7 +963,7 @@
           "summaryKo": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:13.690Z",
+      "fetchedAt": "2026-09-10T04:10:41.486Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1064,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:15.431Z",
+      "fetchedAt": "2026-09-10T04:10:45.088Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1090,40 +1088,6 @@
           "summaryKo": null
         },
         {
-          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
-          "pubDate": "2026-09-09T06:37:55.000Z",
-          "image": null,
-          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 뉴시스",
-          "keywords": [
-            "물류",
-            "서비스",
-            "지원사업",
-            "한유원",
-            "소상공인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 - 뉴스깜",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56R1l4b0VtRU1kSjJ1M1hrRXgtM2F2MzA4RUVuRHRjejBkTk1UMzB1UFBReU9sOEFNV1Fsc2VXVFFtRFVSclJuZHgxTS1LYWJpaXk0US1FOEIzUzNSWGpyQnc1ZDNJOXlLTHc?oc=5",
-          "pubDate": "2026-09-10T01:42:39.000Z",
-          "image": null,
-          "summary": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 뉴스깜",
-          "keywords": [
-            "곡성군",
-            "2026",
-            "신혼부부",
-            "다자녀가정",
-            "보금자리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "국토부, 2027년 도시재생 신규사업 모집…지역특화재생·노후주거지정비 추진 - 뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KRXhfVjFVNTlfN2JzVzQ3VXE2QU9uUzMzMWsyM0pkRThPOTJoM0o4b3hXdGdMcDRLTjRZNXNiNFg3YWFIQ2tLbGRiUko1ZTA4R09IWm9SSklFRHo2?oc=5",
           "pubDate": "2026-09-10T02:00:00.000Z",
@@ -1141,24 +1105,58 @@
           "summaryKo": null
         },
         {
-          "title": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EbTZzVWQ5N1ROLXlJalo4a2hyTzVwdjJYTWdMbjhvdElVV2pGUHc1b2NYdFVpLXVuTU9LX2Vpa3FxajBPbU9vV0w4dHc5OGRpaUxpM0gwQVQ4MVV6eWw4QjdscW8?oc=5",
-          "pubDate": "2026-09-09T05:19:44.000Z",
+          "title": "곡성군, ‘신혼부부·다자녀가정 보금자리 지원사업’ 대상자 모집 - nspna.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91RGQ1bXZZMEdGa2g4RHA5NzlocXdWdm5jcnF4b1ppMHVxOHBFTFlHX1hUaTczVkNIZzhPalJuSFZQLXFtQ3pOZUQyY0QtTXhjLUNfT3JaY21DeTVxYlprZw?oc=5",
+          "pubDate": "2026-09-10T02:32:41.000Z",
           "image": null,
-          "summary": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 서울경제TV",
+          "summary": "곡성군, ‘신혼부부·다자녀가정 보금자리 지원사업’ 대상자 모집 nspna.com",
           "keywords": [
-            "한유원",
-            "소상공인",
+            "곡성군",
+            "신혼부부",
+            "다자녀가정",
+            "보금자리",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
+          "pubDate": "2026-09-09T06:37:55.000Z",
+          "image": null,
+          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 뉴시스",
+          "keywords": [
             "물류",
             "서비스",
-            "지원사업"
+            "지원사업",
+            "한유원",
+            "소상공인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "광양시, ‘2026년 행복여행활동 지원사업’ 하반기 참가자 모집 - 뉴스파이어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15bnNhSDBZTHpZYXgwLUdVMklsaVpOU0lUel9jNmlwTENKRzFLMmRaamhjS2J3Q3hzdU42aGZRUlZ1SThIekY4TzhBdHZkd3V1YUhaNzNudFBaWHNSNVNYVmdMNjJzRlRtRElxci13?oc=5",
+          "pubDate": "2026-09-10T04:09:49.000Z",
+          "image": null,
+          "summary": "광양시, ‘2026년 행복여행활동 지원사업’ 하반기 참가자 모집 뉴스파이어",
+          "keywords": [
+            "광양시",
+            "2026년",
+            "행복여행활동",
+            "지원사업",
+            "하반기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T02:11:15.947Z",
+      "fetchedAt": "2026-09-10T04:10:45.535Z",
       "error": null
     }
   },
@@ -1168,67 +1166,67 @@
       "label": "기후테크",
       "count": 2,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 3,
+      "count": 4,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "물류",
-      "label": "물류",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "서비스",
-      "label": "서비스",
+      "key": "애플",
+      "label": "애플",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1256,7 +1254,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1264,7 +1262,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1272,48 +1270,48 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 6,
-      "change": "down",
-      "labelKo": "기사"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
-      "rank": 7,
+      "rank": 6,
       "change": "up",
       "labelKo": "시행 조치"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "up",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 3,
-      "rank": 9,
-      "change": "down",
-      "labelKo": "뉴스"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 10,
-      "change": "new",
+      "rank": 7,
+      "change": "up",
       "labelKo": "AI"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 2,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "기사"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "count": 2,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "社"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 2,
+      "rank": 10,
+      "change": "down",
+      "labelKo": "추천 동영상"
     }
   ]
 }
