@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-09T22:09:57.398Z",
+  "collectedAt": "2026-09-10T00:14:14.708Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "“한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020",
-          "link": "https://www.mk.co.kr/news/economy/12148955",
-          "pubDate": "2026-09-09T21:57:51.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260909.eac33a9339a34000ba7d3adca2c895f6_R.jpg",
-          "summary": "한강교량 설치된 SOS생명의전화 전화 이용자 57%가 청년·청소년 대인관계·진로·학업 순으로 고민한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상..",
+          "title": "“자신있으면 숏 쳐봐라” 외환시장 으름장, 베센트의 의도는",
+          "link": "https://www.mk.co.kr/news/economy/12148971",
+          "pubDate": "2026-09-09T22:38:32.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-m.v1.20260910.8dd41ebfbbee47dd852d39cba0bbb6fa_R.jpg",
+          "summary": "불앤베어 포커스반도체 투심과 매크로의 치열한 주도권 다툼이 끝나지 않고 있습니다. 챗GPT 신모델 ASTRA 출시 필두로 반도체 주목도가 급격하게 올라가고 있지만, 유가 상승 압력..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "“내 재산은 평균일까?” … 한국인 48세에 ‘빚’·61세 ‘자산’ 정점",
-          "link": "https://www.mk.co.kr/news/economy/12148221",
-          "pubDate": "2026-09-09T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260908.2ea93447a58943949a2b91ba33e30d11_R.jpg",
-          "summary": "한국인은 몇 살에 가장 많은 빚을 지고 있을까요. 보유 자산이 가장 많아지는 시기는 언제일까요. 취업해 월급을 받기 시작하면 조금씩 자산을 쌓습니다. 결혼하고 집을 마련하는 과정에..",
+          "title": "“한강러닝 다녀오겠단 아들, 그 속 몰랐습니다”…생명의전화 절반이 1020",
+          "link": "https://www.mk.co.kr/news/economy/12148955",
+          "pubDate": "2026-09-09T21:57:51.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260909.eac33a9339a34000ba7d3adca2c895f6_R.jpg",
+          "summary": "한강교량 설치된 SOS생명의전화 전화 이용자 57%가 청년·청소년 대인관계·진로·학업 순으로 고민한강 교량 20곳에 설치된 SOS생명의전화를 찾는 시민 중 10·20대가 절반 이상..",
           "keywords": [
             "경제"
           ],
@@ -80,6 +80,19 @@
           "summaryKo": null
         },
         {
+          "title": "“내 재산은 평균일까?” … 한국인 48세에 ‘빚’·61세 ‘자산’ 정점",
+          "link": "https://www.mk.co.kr/news/economy/12148221",
+          "pubDate": "2026-09-09T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260908.2ea93447a58943949a2b91ba33e30d11_R.jpg",
+          "summary": "한국인은 몇 살에 가장 많은 빚을 지고 있을까요. 보유 자산이 가장 많아지는 시기는 언제일까요. 취업해 월급을 받기 시작하면 조금씩 자산을 쌓습니다. 결혼하고 집을 마련하는 과정에..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“1400억 과징금 맞았던 동양생명 폭탄 피했다”…금융위 70억 제재 의결",
           "link": "https://www.mk.co.kr/news/economy/12148818",
           "pubDate": "2026-09-09T13:35:10.000Z",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“고점에 물린 개미들만 피눈물”…김승원 의혹에 드러난 주식시장 민낯",
-          "link": "https://www.mk.co.kr/news/stock/12148668",
-          "pubDate": "2026-09-09T10:06:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/09/news-p.v1.20260830.879dc2c9b7504483aa686dd7ae0a6aa0_R.jpg",
-          "summary": "세종메디칼·제넨셀 주주연대 논란 확산 자본시장법상 규제 무시하고 내부 거래 주가 올리려 허위·과장 자료 제출까지 ‘임상승인’ 호재에도 테마주 주가 폭락김승원 법무부 장관 후보자의 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:47.011Z",
+      "fetchedAt": "2026-09-10T00:14:00.946Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -181,13 +181,30 @@
         }
       ],
       "fetchedAt": "2026-09-09T22:09:47.067Z",
-      "error": null
+      "error": "HTTP 404"
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "유토파이 스튜디오, 장편 콘텐츠 AI 제작 고도화… 2027년 영화·시리즈 5편 선봬",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215071",
+          "pubDate": "2026-09-10T09:04:33.000Z",
+          "image": null,
+          "summary": "유토파이 스튜디오(Utopai Studios)가 글로벌 제작사 및 크리에이터와 협업하며 영화·TV 콘텐츠 사업을 확대하고 있다. 유토파이 스튜디오는 미국 캘리포니아주 마운틴뷰에 본사를 둔 세계 최대 독립 AI 네이티브 영화·TV 스튜디오다. 공동 창업자 겸 CEO 세실리아 션과 공동 창립자 겸 CTO 지에 양이 이끌며, 기업 가치는 10억달러로 평가받고 있다.콘텐츠 기획과 개발, 투자, 제작, 배급 등을 주요 사업으로 하고 있으며 극장 개봉작뿐 아니라 방송, 스트리밍, 디지털 플랫폼을 위한 콘텐츠도 개발하고 있다. 현재 25개 영화",
+          "keywords": [
+            "유토파이",
+            "스튜디오",
+            "장편",
+            "콘텐츠",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[9월9일] 소비자 시장서 구글에 추격받던 오픈AI, GPT-5.6 이후 다시 격차 벌렸다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215023",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215067",
-          "pubDate": "2026-09-09T18:42:08.000Z",
-          "image": null,
-          "summary": "기업들이 AI 도입 후 기대만큼의 투자수익률(ROI)을 거두지 못하는 원인은 기술 한계가 아닌 기존 업무 방식과의 불협화음 때문이라는 지적이 나왔다. 이를 해결하기 위해 단순 도구 활용을 넘어 AI 관측성과 에이전틱 워크플로우 구축, 조직 체계 및 핵심성과지표(KPI)의 근본적인 체감 전환이 필요하다는 제언이다.코난테크놀로지(대표 김영섬)는 9일 서울 양재동 엘타워에서 '제4회 코난 AI 서밋'을 열었다. 키노트 연사로 나선 양승현 코난테크놀로지 최고 운영책임자(COO)는 \"프론티어 AI 모델은 상향 평준화됐지만 막상 현장에서는 예",
-          "keywords": [
-            "코난테크",
-            "AI",
-            "ROI",
-            "체감",
-            "못하는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:47.889Z",
+      "fetchedAt": "2026-09-10T00:14:02.044Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "The AI policy window is open. We need to act.",
+          "link": "https://openai.com/index/ai-policy-window",
+          "pubDate": "2026-09-09T13:00:00.000Z",
+          "image": null,
+          "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+          "keywords": [
+            "Global Affairs"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 정책 창이 열렸습니다. 우리는 행동해야 합니다.",
+          "summaryKo": "Chris Lehane은 정책 창이 열려 있는 동안 더 강력한 AI 기능을 사용하려면 더 강력한 안전 증거, 공유 표준 및 지속적인 정책 조치가 필요하다고 주장합니다."
+        },
         {
           "title": "GPT-6 Astra: The next generation in intelligence for work",
           "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "The Work Now Within Reach",
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
-        },
-        {
-          "title": "Introducing ChatGPT Images 2.5",
-          "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "pubDate": "2026-09-08T11:30:00.000Z",
-          "image": null,
-          "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "ChatGPT 이미지 2.5 소개",
-          "summaryKo": "ChatGPT Images 2.5는 아이디어, 스케치 및 참조 사진을 아이디어를 더 잘 반영하는 보다 개인화되고 세련된 이미지로 변환하는 데 도움이 됩니다."
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:50.027Z",
+      "fetchedAt": "2026-09-10T00:14:04.306Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,72 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "인간을 위한 소프트웨어",
+          "link": "https://news.hada.io/topic?id=33461",
+          "pubDate": "2026-09-10T00:13:38.000Z",
+          "image": null,
+          "summary": "clankerfree는 생성형 AI나 LLM 기술을 포함하거나 활용하지 않는다고 제작자가 자체 확인한 프로젝트를 모아, 인간이 작성한 소프트웨어를 찾을 수 있게 한 목록임 제작자의 AI 비사용 선언이 등재의 바탕이며, 사이트가 오픈소스로 인정하는 라이선스를 사용하고...",
+          "keywords": [
+            "인간을",
+            "위한",
+            "소프트웨어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "2026년 9월 9일 Apple 이벤트",
+          "link": "https://news.hada.io/topic?id=33460",
+          "pubDate": "2026-09-10T00:10:38.000Z",
+          "image": null,
+          "summary": "iPhone Duo와 iPhone 18 Pro부터 Apple Watch Series 12·Ultra 4, AirPods 5까지 공개하며 디스플레이, 카메라, 건강 감지, 운동 추적, 음향 성능을 개선함 iPhone Duo는 역대 iPhone 중 가장 큰 디스플레이와 접거나 각도를 조절하고 세워둘 수 있는 구조를 갖추며...",
+          "keywords": [
+            "2026년",
+            "9월",
+            "9일",
+            "Apple",
+            "이벤트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "나는 확률적 앵무새와 상호작용하고 싶지 않다",
+          "link": "https://news.hada.io/topic?id=33459",
+          "pubDate": "2026-09-10T00:07:37.000Z",
+          "image": null,
+          "summary": "인간의 생각과 경험을 접할 시간도 부족하다는 이유로, AI 생성물과의 모든 상호작용을 거부하며 이를 전달하거나 논거로 사용하는 사람과의 교류도 중단한다는 개인 원칙을 세움 글쓰기는 생각을 정리하는 과정이므로, 매끄러운 생성문보다 오류가 있더라도 사람이...",
+          "keywords": [
+            "나는",
+            "확률적",
+            "앵무새와",
+            "상호작용하고",
+            "싶지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Rust: 빈 타입이 바닥 타입은 아닐 때",
+          "link": "https://news.hada.io/topic?id=33458",
+          "pubDate": "2026-09-09T23:04:21.000Z",
+          "image": null,
+          "summary": "Rust의 never 타입 ! 을 모든 타입 표기에 허용하는 PR이 2026년 8월 25일 병합됐으며, Rust 1.100에 포함될 예정임 — 사용 범위가 넓어지는 !은 모든 타입의 하위 타입인 바닥 타입보다 빈 타입으로 이해하는 편이 정확함",
+          "keywords": [
+            "Rust:",
+            "타입이",
+            "바닥",
+            "타입은",
+            "아닐"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "노 맨즈 스카이: 출시 10주년 Cosmos 업데이트 - 이제 우주 정거장까지 운영",
           "link": "https://news.hada.io/topic?id=33457",
@@ -372,76 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Apple Watch Series 12 공개 - 더 촘촘한 심박 측정과 운동 준비 상태 확인",
-          "link": "https://news.hada.io/topic?id=33456",
-          "pubDate": "2026-09-09T21:33:49.000Z",
-          "image": null,
-          "summary": "새로운 심박 센서와 S11 칩으로 심박수를 온종일 5초마다 측정하고, 스트레스와 회복 상태를 파악하는 심박 변이 측정 빈도도 최대 24배 높임 활동, 훈련량, 활력 징후와 수면을 분석한 ‘준비 상태’ 점수로 운동을 이어갈지 회복에 집중할지 판...",
-          "keywords": [
-            "Apple",
-            "Watch",
-            "Series",
-            "12",
-            "공개"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Apple Watch Ultra 4 공개",
-          "link": "https://news.hada.io/topic?id=33455",
-          "pubDate": "2026-09-09T21:26:53.000Z",
-          "image": null,
-          "summary": "새로운 건강 감지 시스템과 S11 칩으로 심박수를 온종일 5초마다 측정하고, 스트레스와 회복 상태를 파악하는 심박 변이도 최대 24배 더 자주 측정함 활동, 훈련량, 활력 징후와 수면을 종합한 ‘준비 상태’ 점수로 운동을 이어갈지 회복에 집중...",
-          "keywords": [
-            "Apple",
-            "Watch",
-            "Ultra",
-            "공개"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Apple, iPhone 18 Pro와 iPhone 18 Pro Max 공개",
-          "link": "https://news.hada.io/topic?id=33454",
-          "pubDate": "2026-09-09T21:14:43.000Z",
-          "image": null,
-          "summary": "iPhone 최초의 가변 조리개를 48MP Fusion 메인 카메라에 적용해 빛의 양과 초점이 선명하게 맞는 범위를 조절하며, 카메라 앱에서 조리개와 셔터 속도, 화이트 밸런스를 직접 설정할 수 있음 2나노미터 A20 Pro는 A19 Pro 대비 GPU 속도가 최대 40%, AI 처리 성능...",
-          "keywords": [
-            "Apple",
-            "iPhone",
-            "18",
-            "Pro와",
-            "Pro"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Visa와 Mastercard는 무슨 일을 할까? 카드 네트워크 입문",
-          "link": "https://news.hada.io/topic?id=33453",
-          "pubDate": "2026-09-09T20:42:46.000Z",
-          "image": null,
-          "summary": "Visa와 Mastercard는 카드를 발급하는 은행이 아니라, 카드 소지자·발급사와 가맹점·매입사를 연결해 거래를 성사시키고 네트워크 참여를 늘리는 사업자임 핵심 역할은 거래 메시지 전달, 은행 간 자금 정산, 이용을 유도하는 수수료 설정, 규칙 집행과 분쟁 해결의...",
-          "keywords": [
-            "Visa와",
-            "Mastercard는",
-            "무슨",
-            "일을",
-            "할까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:50.610Z",
+      "fetchedAt": "2026-09-10T00:14:04.739Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,6 +448,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "In the sports world, influencers are facing backlash, but no one told the NFL",
+          "link": "https://www.tubefilter.com/2026/09/09/sports-influencer-backlash-us-open-wimbledon-tennis-nfl/",
+          "pubDate": "2026-09-09T21:29:52.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/golden-balance-nfl.jpg",
+          "summary": "A single tone-deaf ad threw the YouTube golf world into chaos. Now, in other sports communities, influencers are facing additional forms of blowback -- but there are still plenty of opportunities on the table for creators who are ready for game day. This particular chapter of the sports creator saga begins with Good Good. The YouTube golf crew was in high demand and had even gotten its own event on the PGA Tour. All that changed, however, when Good Good members starred in an insensitive Callaway",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Sports",
+            "morgan riddle"
+          ],
+          "isForeign": true,
+          "titleKo": "스포츠 세계에서 인플루언서는 반발에 직면하고 있지만 아무도 NFL에",
+          "summaryKo": "음색이 나빠지는 광고 하나가 유튜브 골프계를 혼란에 빠뜨렸습니다. 현재 다른 스포츠 커뮤니티에서는 인플루언서들이 추가적인 블로우백에 직면해 있지만, 게임의 날을 준비하는 크리에이터에게는 여전히 많은 기회가 있습니다. 스포츠 크리에이터 사가의 이 특별한 장은 Good Good에서 시작됩니다. 유튜브 골프 승무원은 수요가 많았고 PGA 투어에서 자체 이벤트를 개최하기도 했습니다. 그러나 Good Good 회원이 출연했을 때 모든 것이 바뀌었습니다."
+        },
+        {
+          "title": "From the cozy games to the horror hits, Twitch breaks down the “State of Gaming” in 2026",
+          "link": "https://www.tubefilter.com/2026/09/09/twitch-state-of-gaming-2026-jynxzi-league-of-legends/",
+          "pubDate": "2026-09-09T19:31:19.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/twitch-state-of-gaming-2026.jpg",
+          "summary": "Twitch's \"Just Chatting\" category has long produced the platform's biggest viewership numbers, but that doesn't mean that Twitch's gamers are irrelevant. To the contrary, both competitive and casual gaming streamers continue to thrive on the Amazon-owned hub, and the Twitch State of Gaming 2026 report has the stats to prove it. The latest State of Gaming report breaks down the 8.6 billion hours of gaming-related watch time that occurred on Twitch between January 1 and September 1 of this year. W",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Twitch",
+            "cozy gaming"
+          ],
+          "isForeign": true,
+          "titleKo": "아늑한 게임부터 호러 히트곡까지, 트위치는 2026년 '게임의 상태' 를 무너뜨립니다.",
+          "summaryKo": "Twitch의 \"Just Chatting\" 카테고리는 오랫동안 이 플랫폼에서 가장 큰 시청률을 기록했지만, 그렇다고 해서 Twitch의 게이머가 무의미한 것은 아닙니다. 반대로, 경쟁 및 캐주얼 게임 스트리머는 아마존 소유의 허브에서 계속 번창하고 있으며, Twitch State of Gaming 2026 보고서는 이를 증명할 수 있는 통계를 가지고 있습니다. 최신 State of Gaming 보고서는 1월 1일부터 9월 1일까지 트위치에서 발생한 86억 시간의 게임 관련 시청 시간을 분석합니다."
+        },
         {
           "title": "Across comparable deals, YouTube Gaming creators are commanding 23% higher rates than Twitch streamers",
           "link": "https://www.tubefilter.com/2026/09/08/collabstr-youtube-gaming-twitch-brand-deal-data/",
@@ -495,47 +530,17 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
           "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 Top 50 • 위크 오브 09/06/2026",
           "summaryKo": "글로벌 톱 50의 1위 채널은 10자리 주간 조회수에 근접하면서 필드에서 선두를 유지했습니다. YouTube에서 가장 많은 조회수를 기록한 채널인 T-시리즈도 주간 조회수가 9억 3천 4백만 회를 기록한 후 매주 이 카테고리를 이끌었습니다. T-시리즈도 지난주 1위였지만, 트래픽은 주당 19% 증가했습니다. YouTube의 공개 시청 수에 대한 새로운 정책을 감안할 때, 다른 채널이 T-Ser에 가입하기 위해 앞으로 급증하고 있다고 생각할 것입니다."
-        },
-        {
-          "title": "Top 5 Branded Videos of the Week: The big dogs",
-          "link": "https://www.tubefilter.com/2026/09/08/top-5-branded-videos-mrbeast-gaming-jordan-matter-salish-matter-dr-insanity/",
-          "pubDate": "2026-09-08T20:30:06.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/hide.jpg",
-          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for the ranking. And – as the name […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Brands",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "금주의 상위 5대 브랜드 동영상: 대형견",
-          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "YouTube’s new public viewcounts over-report actual engagement by 40%",
-          "link": "https://www.tubefilter.com/2026/09/04/youtubes-new-public-viewcounts-over-report-actual-engagement-by-40/",
-          "pubDate": "2026-09-04T23:43:35.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/zulfugar-karimov-N3MRg3Ow8qw-unsplash-scaled.jpg",
-          "summary": "YouTube‘s new public viewcounts over-report engagement by 40%, according to new data from Agentio. As you probably know, YouTube last month introduced a significant change to how it counts views on long-form content. Instead of requiring people to watch for a certain length of time before considering them ‘a viewer’ (the amount has never been […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube의 새로운 공개 조회수는 실제 참여를 40% 과도하게 보고합니다.",
-          "summaryKo": "Agentio의 새로운 데이터에 따르면 YouTube의 새로운 공개 조회수는 과도하게 보고된 참여를 40% 나 차지합니다. 아시다시피, YouTube는 지난 달 긴 형식의 콘텐츠에 대한 조회수를 계산하는 방식에 중대한 변화를 도입했습니다. 사람들이 '시청자‘ 로 간주하기 전에 일정 시간 동안 시청하도록 요구하는 대신 (금액은 결코 […] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-09T18:13:06.828Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-10T00:14:08.444Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -608,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:51.328Z",
+      "fetchedAt": "2026-09-10T00:14:08.655Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:51.424Z",
+      "fetchedAt": "2026-09-10T00:14:08.748Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -697,6 +702,60 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "고객 반응까지 AI로 연습한다…딥브레인AI, 영업 훈련 시장 공략",
+          "link": "https://www.venturesquare.net/1112246/",
+          "pubDate": "2026-09-09T23:49:57.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/DEEPB-789x444.jpg",
+          "summary": "딥브레인AI가 AI 기반 영업 훈련 솔루션 ‘AI 롤플레이’를 금융 PB와 일반 영업·세일즈 조직으로 확대한다. AI 고객의 성향과 감정 표현을 설정해 다양한 상담 상황을 반복 훈련하고 대화 속도·억양·표정 등에 관한 피드백을 받을 수 있다. 향후 유통과 자동차, 통신... The post 고객 반응까지 AI로 연습한다…딥브레인AI, 영업 훈련 시장 공략 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI고객",
+            "AI롤플레이",
+            "금융PB"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "위성 AI로 맹그로브 변화 읽는다…텔레픽스, 구글 딥마인드 첫 기수 선정",
+          "link": "https://www.venturesquare.net/1112217/",
+          "pubDate": "2026-09-09T22:14:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/dfghh-789x508.jpg",
+          "summary": "텔레픽스가 APAC 지역 약 680개 지원 기업·기관 가운데 16곳을 선발한 구글 딥마인드의 ‘AI for the Planet’ 첫 기수에 국내 기업 중 유일하게 선정됐다. 텔레픽스는 알파어스를 활용한 위성 AI 모델로 학습에 포함하지 않은 국가에서도 IoU와 F1 점... The post 위성 AI로 맹그로브 변화 읽는다…텔레픽스, 구글 딥마인드 첫 기수 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AIforthePlanet",
+            "구글딥마인드",
+            "기후테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울역 주차장이 차량 흐름 읽는다…하이파킹, AI 기반 자동 제어 도입",
+          "link": "https://www.venturesquare.net/1112204/",
+          "pubDate": "2026-09-09T15:00:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/hm-626x522.png",
+          "summary": "하이파킹이 서울역 주차장에 차량 위치와 흐름을 실시간으로 분석하는 AI 기반 스마트 영상 유도 시스템 ‘Ai-PAS’를 구축했다. 시스템은 빈자리 안내와 보행자·차량 주의 표시, 혼잡 층 진입 제한, 사고 의심 상황 알림 등을 자동으로 수행한다. 하이파킹은 서울역에서 ... The post 서울역 주차장이 차량 흐름 읽는다…하이파킹, AI 기반 자동 제어 도입 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "Ai-PAS",
+            "V2I",
+            "로보택시"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AI가 공격 속도까지 바꿨다…GTIG, 6시간 만의 대규모 계정 탈취 경고",
           "link": "https://www.venturesquare.net/1112197/",
@@ -732,63 +791,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "기술 개발 3년, 이제 양산으로…디알티, 새만금 BM 생산라인 가동",
-          "link": "https://www.venturesquare.net/1112166/",
-          "pubDate": "2026-09-09T09:05:52.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/drt-789x472.jpg",
-          "summary": "디알티가 창립 3주년을 맞아 전북 군산 새만금산단에서 폐이차전지 재활용 고효율 BM 양산설비 가동에 들어갔다. 회사는 독자적으로 개발한 열처리 기술을 기반으로 대지 4,000평, 건물 2,500평 규모의 생산거점을 구축했다. 디알티는 공정 안정화와 기술 고도화를 거쳐 ... The post 기술 개발 3년, 이제 양산으로…디알티, 새만금 BM 생산라인 가동 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "BM",
-            "디알티",
-            "배터리순환경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "센터는 파트너가, 기술은 아르고가…테크타카, 11일 ‘에셋 라이트’ 전략 공개",
-          "link": "https://www.venturesquare.net/1112158/",
-          "pubDate": "2026-09-09T09:01:43.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/axaxa-789x414.jpg",
-          "summary": "테크타카가 11일 킨텍스에서 열리는 ‘2026 물류AX 세미나’에서 에셋 라이트 풀필먼트 전략을 발표한다. 파트너 물류센터에 아르고의 WMS·OMS·CMS와 배송 네트워크를 결합하는 ‘아르고 센터 플렉스’가 주요 내용이다. 파트너사는 기존 인프라를 활용하면서 국내 도착... The post 센터는 파트너가, 기술은 아르고가…테크타카, 11일 ‘에셋 라이트’ 전략 공개 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "SCMFAIR2026",
-            "WMS",
-            "글로벌물류"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI 유전변이 해석 120분→5분…쓰리빌리언 ‘제브라’, 30개국서 사용·평가",
-          "link": "https://www.venturesquare.net/1112155/",
-          "pubDate": "2026-09-09T08:58:09.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/gebra-789x444.png",
-          "summary": "쓰리빌리언의 AI 유전변이 해석 SaaS 플랫폼 ‘제브라’가 국내외 의료·연구기관에 상용 도입됐으며 30여 개국에서 사용 또는 평가되고 있다. 쓰리빌리언 내부 평가에서는 평균 약 120분이 걸리던 변이 해석과 보고서 작성 시간이 제브라 활용 시 약 5분으로 줄었다. 제... The post AI 유전변이 해석 120분→5분…쓰리빌리언 ‘제브라’, 30개국서 사용·평가 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AWS",
-            "GEBRA",
-            "SaaS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:54.008Z",
+      "fetchedAt": "2026-09-10T00:14:11.628Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:54.193Z",
+      "fetchedAt": "2026-09-10T00:14:11.922Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -892,8 +897,8 @@
           "keywords": [
             "Fundraising",
             "Startups",
-            "TC",
-            "Harvey"
+            "Harvey",
+            "In Brief"
           ],
           "isForeign": true,
           "titleKo": "Harvey는 $ 11B에 도달한 후 몇 달 만에 $ 15.5B 밸류에이션을 달성했습니다.",
@@ -968,7 +973,7 @@
           "summaryKo": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다."
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:55.480Z",
+      "fetchedAt": "2026-09-10T00:14:11.997Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:56.911Z",
+      "fetchedAt": "2026-09-10T00:14:13.453Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1110,11 +1115,11 @@
           "summaryKo": null
         },
         {
-          "title": "수자원공사, 하반기 국가 K-테스트베드 지원사업 참여 기업 모집 - daily.hankooki.com",
+          "title": "수자원공사, 하반기 국가 K-테스트베드 지원사업 참여 기업 모집 - 데일리한국",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbUxSLVl2c3hKQk9ZZ0NQVEhGYmJwMFNDMFlZYWdXLTJBRGNMdDJjTXp5QU4weHYxZm5OWXBLSWhhbC1Jbk1pZjRmbTcwVGJ3Uzd3Q2ZaRVlCVUdGT084VEc5Rm9ELXkwZzRpODM5ONIBc0FVX3lxTE1qOEZScmh2ak1YQWgydE5tVlBvZlVsUFJzRngyaXFpQmpSLXcxek83cU05dWluSU83cVNaVXRiLXhCRHR5MTdiS09pVklTZDltZWNSNzZiLW0zdnJzZm0xTGVacEJXdUFHVzhIbHNXa1ZrQ2M?oc=5",
           "pubDate": "2026-09-09T03:17:44.000Z",
           "image": null,
-          "summary": "수자원공사, 하반기 국가 K-테스트베드 지원사업 참여 기업 모집 daily.hankooki.com",
+          "summary": "수자원공사, 하반기 국가 K-테스트베드 지원사업 참여 기업 모집 데일리한국",
           "keywords": [
             "수자원공사",
             "하반기",
@@ -1127,17 +1132,17 @@
           "summaryKo": null
         },
         {
-          "title": "한유원, 소상공인 물류 서비스 지원사업 참여기업 모집 - MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUY2pQdlB4b3hFS3J6MHlXXzhZTUszXzJRN3NwSWNud3NjS0F6Mnl6WG5vR3hMM1V6V0NLSXFvUzJOWDdGMXFTNWtKNWItX2Nqdk12OHdXMzJIUFQ0SVF5V2J3bkk?oc=5",
-          "pubDate": "2026-09-09T03:52:13.000Z",
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+          "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
-          "summary": "한유원, 소상공인 물류 서비스 지원사업 참여기업 모집 MTN 머니투데이방송",
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
           "keywords": [
-            "한유원",
-            "소상공인",
-            "물류",
-            "서비스",
-            "지원사업"
+            "공고",
+            "2026년",
+            "GHKOL",
+            "해외진출",
+            "실무특화"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1161,80 +1166,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-09T22:09:57.390Z",
+      "fetchedAt": "2026-09-10T00:14:13.879Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 3,
+      "rank": 1,
+      "change": "new"
+    },
+    {
+      "key": "2026년",
+      "label": "2026년",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
+      "key": "기후테크",
+      "label": "기후테크",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 5,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "apple",
-      "label": "Apple",
-      "count": 3,
-      "rank": 7,
-      "change": "new"
-    },
-    {
-      "key": "물류",
-      "label": "물류",
-      "count": 3,
       "rank": 8,
       "change": "down"
     },
     {
-      "key": "서비스",
-      "label": "서비스",
-      "count": 3,
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 4,
       "rank": 9,
       "change": "down"
     },
     {
-      "key": "소상공인",
-      "label": "소상공인",
-      "count": 3,
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1255,44 +1260,44 @@
       "labelKo": "애드 센스"
     },
     {
+      "key": "articles",
+      "label": "Articles",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 4,
+      "change": "down",
       "labelKo": "홈페이지 기능"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 5,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 6,
+      "change": "down",
       "labelKo": "스타트업"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "기사"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 4,
       "rank": 7,
-      "change": "same",
-      "labelKo": "뉴스"
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "enforcement actions",
@@ -1303,20 +1308,20 @@
       "labelKo": "시행 조치"
     },
     {
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "추천 동영상"
+    },
+    {
       "key": "statistics",
       "label": "Statistics",
       "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "스탯"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "스탯"
     }
   ]
 }
