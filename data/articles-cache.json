@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-10T12:13:50.178Z",
+  "collectedAt": "2026-09-10T14:10:29.775Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "[속보] 국제유가 고공행진…WTI도 배럴당 100달러 돌파",
+          "link": "https://www.mk.co.kr/news/economy/12149898",
+          "pubDate": "2026-09-10T12:46:56.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.55f6198a7d5f4a3a92fac7d9e8b92797_R.jpg",
+          "summary": "미국과 이란 간 무력 충돌이 격화하면서 브렌트유에 이어 서부 텍사스산 원유(WTI)도 10일(현지시간) 배럴당 100달러를 넘어섰다. 이날 오전 8시 32분 기준 뉴욕상업거래소에서..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "베선트 약발 안먹힌다…60억달러 바이백 언급에도 국채금리 상승",
+          "link": "https://www.mk.co.kr/news/economy/12149897",
+          "pubDate": "2026-09-10T12:45:15.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20250726.15b9e5f7b36e4beca2303b4846d5f78c_R.png",
+          "summary": "발표 불구 채권금리 일제히 상승 “투자자들, 3배 늘렸어도 실망” 유가급등에 인플레 우려 확산미국 재무부가 종전보다 3배 늘어난 60억달러 규모의 바이백(조기 매입) 방침을 밝혔지..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“내 재산은 평균일까?”…한국인 48세에 ‘빚’·61세 ‘자산’ 정점 [데이터로 읽는 머니 무브]",
           "link": "https://www.mk.co.kr/news/economy/12149835",
           "pubDate": "2026-09-10T11:13:05.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "정부, 지역필수의료에 1.3조 투입…지방대 투자도 3조 늘린다",
-          "link": "https://www.mk.co.kr/news/economy/12149672",
-          "pubDate": "2026-09-10T08:53:37.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.bbae78c3acae44e1906dbdbece704177_R.jpg",
-          "summary": "지역필수의료 특별회계 신설 거점 국립대병원 지원 두배로 고등교육 예산 19.3조 편성 박홍근 “지방재원 계속 늘 것”정부가 내년 1조3000억원 규모의 ‘지역필수의료특별회계’를 신..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12149651",
-          "pubDate": "2026-09-10T08:49:27.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/20260911_01110114000010_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:42.023Z",
+      "fetchedAt": "2026-09-10T14:10:13.141Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:42.150Z",
+      "fetchedAt": "2026-09-10T14:10:13.221Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:43.423Z",
+      "fetchedAt": "2026-09-10T14:10:14.601Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:43.610Z",
+      "fetchedAt": "2026-09-10T14:10:14.773Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,11 +357,45 @@
       "subcategory": "빅테크",
       "items": [
         {
+          "title": "티빙 3954만 계정 유출…문제는 ‘해킹 기술’이 아니라 내부 통제였다",
+          "link": "https://news.hada.io/topic?id=33482",
+          "pubDate": "2026-09-10T14:08:59.000Z",
+          "image": null,
+          "summary": "기사에 따르면 이번 사태는 사고는 알려지지 않은 고난도 취약점 하나가 뚫리면서 발생한 사고라기보다 접속키 관리 등 기업이 기본적으로 갖춰야 할 정보보호 체계가 여러 단계에서 동시에 작동하지 않은 사고라는 점에서 무겁게 볼 필요가 있음. 공격자는 5월 29일부터 31일 사이 티빙 개발자가 보유...",
+          "keywords": [
+            "티빙",
+            "3954만",
+            "계정",
+            "유출",
+            "문제는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show HN: 같은 스트리밍 구독 9개, 연간 비용이 2021년보다 702달러 증가",
+          "link": "https://news.hada.io/topic?id=33481",
+          "pubDate": "2026-09-10T13:32:59.000Z",
+          "image": null,
+          "summary": "미국 주요 스트리밍 서비스 9개의 대표 요금제 월 합계가 2021년 3월 95.91달러에서 154.41달러로 올라, 2026년 9월 기준 61% 증가함 출시 시점이 다른 서비스들의 가격을 합산하는 대신, 9개를 모두 구독할 수 있었던 첫 달인 2021년 3월을 공통...",
+          "keywords": [
+            "Show",
+            "HN:",
+            "같은",
+            "스트리밍",
+            "구독"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "모든 어른은 한때 어린이였지만, 그것을 기억하는 어른은 드물다",
           "link": "https://news.hada.io/topic?id=33480",
           "pubDate": "2026-09-10T11:38:58.000Z",
           "image": null,
-          "summary": "호기심에 이끌리는 놀이는 수학적 개념을 배우는 과정이며, 정답을 곧바로 알려주면 탐색·학습·성장·즐거움이라는 놀이의 목적을 무너뜨릴 수 있음 순수수학 같은 기초과학에서는 어른의 규율과 전문성에 어린이의 자유로운 발상과 두려움 없는 탐색을 결합할 때 ...",
+          "summary": "수학자 테렌스 타오(Terence Tao) 는 AI가 문제를 풀더라도, 그 과정에서 사람이 얻는 배움과 통찰까지 대신하는 것은 아니라며 호기심에 이끌리는 탐구의 가치를 강조함 아이들이 ‘가장 큰 수 말하기’ 놀이에서 스스로 ‘더하기 1’을 발견하듯, 정답을 곧바로 ...",
           "keywords": [
             "모든",
             "어른은",
@@ -391,58 +425,24 @@
           "summaryKo": null
         },
         {
-          "title": "OpenAI가 또 다른 중요한 증명을 도용했을 가능성",
+          "title": "OpenAI의 수학 증명에 미공개 연구 대화 학습 의혹 제기",
           "link": "https://news.hada.io/topic?id=33478",
           "pubDate": "2026-09-10T09:31:52.000Z",
           "image": null,
-          "summary": "Valerio Capraro는 Andreas Thom의 Mastodon 게시물을 근거로 OpenAI가 또 다른 중요한 수학적 증명을 도용했을 수 있다고 주장함 Capraro에 따르면 Thom은 이 의혹을 뒷받침하는 여러 증거를 게시물에 담음 구체적으로는 OpenAI가 Thom과 Gábor ...",
+          "summary": "수학자 Andreas Thom이 OpenAI의 비소픽 군 증명에 자신이 ChatGPT와 나눈 미공개 연구 대화가 학습 데이터로 쓰였을 가능성을 제기함 Thom은 드레스덴의 동료와 수개월간 관련 문제를 논의했으며, 모델이 주류 접근법이 아니었던 자신의 연구 기법을 능숙하게 활용...",
           "keywords": [
-            "OpenAI가",
-            "다른",
-            "중요한",
-            "증명을",
-            "도용했을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "DeepSeek V4.1 Flash 공개 - 이미지도 이해하는 새 아키텍처",
-          "link": "https://news.hada.io/topic?id=33477",
-          "pubDate": "2026-09-10T08:31:54.000Z",
-          "image": null,
-          "summary": "이미지와 텍스트를 함께 처리하고 100만 토큰 컨텍스트를 지원하는 DeepSeek-V4.1-Flash를 공개, 코드와 모델 가중치는 MIT 라이선스로 제공 5,520억 파라미터의 MoE 모델이지만, 입력 처리에는 80억, 출력 생성에는 160억 파라미터만 활...",
-          "keywords": [
-            "DeepSeek",
-            "V4",
-            "Flash",
-            "공개",
-            "이미지도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Automattic 이사회, CEO 맷 멀렌웨그에 강제 휴직 결정",
-          "link": "https://news.hada.io/topic?id=33476",
-          "pubDate": "2026-09-10T07:34:33.000Z",
-          "image": null,
-          "summary": "WordPress.com 운영사 Automattic의 창업자 겸 CEO Matt Mullenweg가 본인의 반대에도 이사회 결정으로 유급 휴직에 들어감 CFO 마크 데이비스가 임시 CEO를 맡으며, 멀렌웨그는 Automattic 이사직을 유지함. 회사는 휴직과 임시 CEO 선임을 확인했지만 구체적인 결...",
-          "keywords": [
-            "Automattic",
-            "이사회",
-            "CEO",
-            "멀렌웨그에",
-            "강제"
+            "OpenAI의",
+            "수학",
+            "증명에",
+            "미공개",
+            "연구"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:44.393Z",
+      "fetchedAt": "2026-09-10T14:10:15.185Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +450,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Snapchat puts the “social” in social media by helping its users make Plans",
+          "link": "https://www.tubefilter.com/2026/09/10/snapchat-irl-plans-coordinate-group-chat/",
+          "pubDate": "2026-09-10T13:31:32.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/snapchat-plans.jpg",
+          "summary": "Countless thinkpieces have been published on the homebody tendencies of Gen Z, but Snapchat believes that its principal cohort still wants to go out, so it’s helping them fill up their calendars. The app has announced Snapchat Plans, an in-app suite of features that helps turn social rumblings into actual hangouts. Put simply, Snapchat Plans is the titular […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Snapchat",
+            "group chat"
+          ],
+          "isForeign": true,
+          "titleKo": "Snapchat은 사용자가 계획을 세울 수 있도록 도와줌으로써 소셜 미디어에 \"소셜\" 을 배치합니다.",
+          "summaryKo": "Z세대의 홈바디 성향에 대해 셀 수 없이 많은 씽크피스가 발표되었지만, Snapchat은 주요 코호트가 여전히 외출을 원한다고 믿기 때문에 달력을 채우는 데 도움이 되고 있습니다. 이 앱은 사회적 울림을 실제 수다방으로 전환하는 데 도움이 되는 인앱 기능 모음인 Snapchat Plans를 발표했습니다. 간단히 말해서, Snapchat Plans는 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
+        },
         {
           "title": "MIPCOM 2026 expands creator economy programming, embraces vertical content and generative AI",
           "link": "https://www.tubefilter.com/2026/09/09/mipcom-2026-creator-economy-programming-branded-entertainment-ai-vertical-series/",
@@ -511,22 +529,9 @@
           "isForeign": true,
           "titleKo": "아늑한 게임부터 호러 히트곡까지, 트위치는 2026년 '게임의 상태' 를 무너뜨립니다.",
           "summaryKo": "Twitch의 \"Just Chatting\" 카테고리는 오랫동안 이 플랫폼에서 가장 큰 시청률을 기록했지만, 그렇다고 해서 Twitch의 게이머가 무의미한 것은 아닙니다. 반대로, 경쟁 및 캐주얼 게임 스트리머는 아마존 소유의 허브에서 계속 번창하고 있으며, Twitch State of Gaming 2026 보고서는 이를 증명할 수 있는 통계를 가지고 있습니다. 최신 State of Gaming 보고서는 1월 1일부터 9월 1일까지 트위치에서 발생한 86억 시간의 게임 관련 시청 시간을 분석합니다."
-        },
-        {
-          "title": "Roblox launches new video series spotlighting developers of top games",
-          "link": "https://www.tubefilter.com/2026/09/09/roblox-developer-spotlight-series-20th-anniversary/",
-          "pubDate": "2026-09-09T18:49:45.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/creatures-sonaria.jpg",
-          "summary": "As Roblox reaches its 20th anniversary, it’s launching a new social video series that profiles the developers behind its “most exciting, recently released games,” a rep tells Tubefilter. The goal with this series is twofold: First, to boost certain games so more players discover them; and second, to peel back the curtain of development and […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "Roblox, 최고의 게임 개발자를 집중 조명하는 새로운 비디오 시리즈 출시",
-          "summaryKo": "Roblox가 20주년을 맞이하면서, \"가장 흥미롭고 최근에 출시된 게임\" 뒤에 있는 개발자를 프로파일링하는 새로운 소셜 비디오 시리즈를 출시합니다. 담당자가 Tubefilter에 말합니다. 이 시리즈의 목표는 두 가지입니다. 첫째, 더 많은 플레이어가 게임을 발견할 수 있도록 특정 게임을 향상시키는 것, 둘째, 개발의 커튼을 벗겨내고 […] 더 멋진 스토리를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:44.667Z",
+      "fetchedAt": "2026-09-10T14:10:18.067Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -600,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:44.846Z",
+      "fetchedAt": "2026-09-10T14:10:18.144Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -681,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:44.902Z",
+      "fetchedAt": "2026-09-10T14:10:18.199Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -780,7 +785,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:47.794Z",
+      "fetchedAt": "2026-09-10T14:10:21.069Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -870,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:48.073Z",
+      "fetchedAt": "2026-09-10T14:10:21.374Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -878,6 +883,39 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+          "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+          "pubDate": "2026-09-10T13:34:01.000Z",
+          "image": null,
+          "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+          "keywords": [
+            "Climate",
+            "Startups",
+            "Google",
+            "Mitti Labs"
+          ],
+          "isForeign": true,
+          "titleKo": "Google, 인도 스타트업 Mitti Labs와 최대 규모의 쌀-메탄 탄소 배출권 거래 체결",
+          "summaryKo": "이 4년 계약은 인도 3개 주 전역의 쌀 농장을 대상으로 하며, 최대 납품 시 약 10만 헥타르에 이릅니다."
+        },
+        {
+          "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+          "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+          "pubDate": "2026-09-10T13:00:00.000Z",
+          "image": null,
+          "summary": "The buzzy startup raised $600 million in its Series C round.",
+          "keywords": [
+            "Fundraising",
+            "Startups",
+            "TC",
+            "defense tech",
+            "mach industries"
+          ],
+          "isForeign": true,
+          "titleKo": "국방 기술 마하 산업, 3개월 만에 $ 3.7B로 밸류에이션 2배 증가",
+          "summaryKo": "이 버지 스타트업은 시리즈 C 라운드에서 6억 달러 ($) 를 모금했습니다."
+        },
         {
           "title": "Harvey hits $15.5B valuation, months after reaching $11B",
           "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
@@ -927,43 +965,9 @@
           "isForeign": true,
           "titleKo": "AI 에이전트가 새로운 엔터프라이즈 보안 위험을 생성함에 따라 세쿼이아는 심포니를 두 배로 낮춥니다.",
           "summaryKo": "Cymphony는 보안 팀이 액세스할 수 있는 시스템 및 민감한 데이터를 포함하여 직원, AI 에이전트 및 기타 비인간 신원에 대한 단일 보기를 제공합니다."
-        },
-        {
-          "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-          "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-          "pubDate": "2026-09-09T04:01:00.000Z",
-          "image": null,
-          "summary": "U.K.-based manufacturing software startup CloudNC announced Wednesday a $20 million Series B extension round, bringing its lifetime total raised amount to $128 million.",
-          "keywords": [
-            "Hardware",
-            "Startups",
-            "Venture",
-            "CloudNC"
-          ],
-          "isForeign": true,
-          "titleKo": "CloudNC, 제조업의 가장 시급한 병목 현상을 자동화하기 위해 $ 20M 인상",
-          "summaryKo": "영국에 본사를 둔 제조 소프트웨어 스타트업 CloudNC는 수요일에 $ 2,000만 시리즈 B 연장 라운드를 발표하여 평생 총 모금액을 $ 128,000,000로 늘렸습니다."
-        },
-        {
-          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-          "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-          "pubDate": "2026-09-08T21:04:06.000Z",
-          "image": null,
-          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-          "keywords": [
-            "Startups",
-            "AI",
-            "Valuations",
-            "cursor",
-            "coding assistants",
-            "cognition"
-          ],
-          "isForeign": true,
-          "titleKo": "코그니션이 $ 48B 밸류에이션에 도달하여 투자자들은 AI 코딩이 승자 독식 시장과는 거리가 멀다고 생각합니다.",
-          "summaryKo": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:48.246Z",
+      "fetchedAt": "2026-09-10T14:10:24.251Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1062,7 +1066,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:49.725Z",
+      "fetchedAt": "2026-09-10T14:10:28.377Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1105,23 +1109,6 @@
           "summaryKo": null
         },
         {
-          "title": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 > 뉴스 - 더코리아",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DSWtiQ3o3ZUVaeW5YaHB4Z3B3VEcwRGZxRXR0UVdVMHdTY1VCRm9CZnAtRnRiX0NoYXZRSWdfRFI4Wl9mTE9oRGdCUlB0anhLWk5oVWhJNWJJZFZ6N3p5U0tKUnAwZUUyTHBtOGhWMU4?oc=5",
-          "pubDate": "2026-09-10T04:59:00.000Z",
-          "image": null,
-          "summary": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 > 뉴스 더코리아",
-          "keywords": [
-            "곡성군",
-            "2026",
-            "신혼부부",
-            "다자녀가정",
-            "보금자리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "광양시, ‘2026년 행복여행활동 지원사업’ 하반기 참가자 30일까지 모집 - 호남타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ld3d6QkFkUkhVbGZrQUFhMUtvWDdocXlLMHY2NVFORjJpN2psdjBJdnBVTFRkMnQzaEdQX09VYTVGa0t5S2hiemtWTWR5d0ZmM0ItM0hXSU1MQ1VWU1I1NGxWcTE1NG1mVnFiSQ?oc=5",
           "pubDate": "2026-09-10T11:25:18.000Z",
@@ -1133,6 +1120,23 @@
             "행복여행활동",
             "지원사업",
             "하반기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 > 뉴스 - 더코리아",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DSWtiQ3o3ZUVaeW5YaHB4Z3B3VEcwRGZxRXR0UVdVMHdTY1VCRm9CZnAtRnRiX0NoYXZRSWdfRFI4Wl9mTE9oRGdCUlB0anhLWk5oVWhJNWJJZFZ6N3p5U0tKUnAwZUUyTHBtOGhWMU4?oc=5",
+          "pubDate": "2026-09-10T04:59:00.000Z",
+          "image": null,
+          "summary": "곡성군, 2026 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 > 뉴스 더코리아",
+          "keywords": [
+            "곡성군",
+            "2026",
+            "신혼부부",
+            "다자녀가정",
+            "보금자리"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1156,7 +1160,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T12:13:50.169Z",
+      "fetchedAt": "2026-09-10T14:10:28.825Z",
       "error": null
     }
   },
@@ -1222,14 +1226,14 @@
       "label": "2026년",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1274,44 +1278,44 @@
       "labelKo": "다음을 따르세요"
     },
     {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
-      "rank": 6,
-      "change": "same",
+      "rank": 7,
+      "change": "down",
       "labelKo": "시행 조치"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "AI"
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 8,
+      "change": "up",
+      "labelKo": "추천 동영상"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 2,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "기사"
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "뉴스"
     },
     {
       "key": "company",
       "label": "Company",
       "count": 2,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "社"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "추천 동영상"
+      "change": "down",
+      "labelKo": "社"
     }
   ]
 }
