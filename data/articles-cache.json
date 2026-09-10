@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-10T08:11:56.660Z",
+  "collectedAt": "2026-09-10T10:11:06.395Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,50 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "하나금융, 발달장애 예술가와 인천서 벽화 봉사",
-          "link": "https://www.mk.co.kr/news/economy/12149548",
-          "pubDate": "2026-09-10T08:07:40.000Z",
+          "title": "송미령 “CPTPP 두려움 있지만 우리 농업에 도전 기회도  된다”",
+          "link": "https://www.mk.co.kr/news/economy/12149737",
+          "pubDate": "2026-09-10T09:37:59.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.ac9d9cb23f3546e8a6d2217e47c549cf_R.jpg",
+          "summary": "“가입 전제로 논의하는 단계 아니야” 선 그어 농가 피해 연구 진행… “보완 대책은 추후에” 한·칠레 FTA 포도 수출 1억달러 성공 사례 국익·민의 종합해 농업계와 면밀히 소통할..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "정부, 지역필수의료에 1.3조 투입…지방대 투자도 3조 늘린다",
+          "link": "https://www.mk.co.kr/news/economy/12149672",
+          "pubDate": "2026-09-10T08:53:37.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.bbae78c3acae44e1906dbdbece704177_R.jpg",
+          "summary": "지역필수의료 특별회계 신설 거점 국립대병원 지원 두배로 고등교육 예산 19.3조 편성 박홍근 “지방재원 계속 늘 것”정부가 내년 1조3000억원 규모의 ‘지역필수의료특별회계’를 신..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12149651",
+          "pubDate": "2026-09-10T08:49:27.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/20260911_01110114000010_L00.jpg",
+          "summary": "",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"좌석 유지 의무 풀어달라\" 항공사 요청에…공정위 기각",
+          "link": "https://www.mk.co.kr/news/economy/12149649",
+          "pubDate": "2026-09-10T08:49:26.000Z",
           "image": null,
-          "summary": "하나금융그룹이 지난 9일 인천 봉수초등학교에서 발달장애인 미술 공모전 '하나 아트버스' 수상 작가와 임직원 30여 명이 통학로 벽화 조성 봉사활동을 진행했다고 10일 밝혔다. 이번..",
+          "summary": "공정거래위원회가 대한항공과 아시아나항공의 기업결합 조건으로 부과된 '공급좌석 유지 의무'를 완화해달라는 대한항공 등 5개 항공사 요청에 대해 기각 의견을 낸 심사보고서를 공정위 전..",
           "keywords": [
             "경제"
           ],
@@ -54,50 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "“사업한다고 대출받아 아파트 샀다”…약정과 다른 용도 사용, 5년간 1167건 적발",
-          "link": "https://www.mk.co.kr/news/economy/12149540",
-          "pubDate": "2026-09-10T08:03:13.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.9bb2d320a8a949ecb4a71476e1f36911_R.png",
-          "summary": "사업자대출을 받은 뒤 아파트 구매 등 당초 약정과 다른 용도로 자금을 사용하다 적발된 사례가 지난 2021년 이후 1100건을 넘어선 것으로 나타났다. 대출 실행 당일 자금이 증권..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한은, 추가 금리 인상 예고...“물가 상당기간 2% 웃돌것”",
-          "link": "https://www.mk.co.kr/news/economy/12149455",
-          "pubDate": "2026-09-10T07:01:53.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/rcv.NEWS1.NEWS1.20260910.2026-09-10T140500_1008099384_FINANCE-STOCK_I_R.jpg",
-          "summary": "한은 통화신용정책보고서 고성장에 자산 거품도 우려 올해 韓 주가 변동성 4.1% 시총 30개국 중 가장 높아한국은행이 물가 상승률을 상당 기간 목표 수준인 2%를 웃돌 것으로 예상..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "소상공인 마이너스통장 한도 2배로…케이뱅크 ‘안심통장 4호’ 출시",
-          "link": "https://www.mk.co.kr/news/economy/12149448",
-          "pubDate": "2026-09-10T06:59:32.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.ec7de4d6786344d182b17c000ba4fa64_R.jpg",
-          "summary": "케이뱅크가 서울 지역 소상공인을 대상으로 최대 2000만원까지 빌릴 수 있는 마이너스통장 방식의 ‘안심통장 4호’를 출시했다. 기존 안심통장 1~3호 이용자도 추가로 신청할 수 있..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“추석 장보기 부담 덜겠네”…농협 877억 투입해 차례상 품목 ‘반값’ 할인",
-          "link": "https://www.mk.co.kr/news/economy/12149447",
-          "pubDate": "2026-09-10T06:58:22.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260910.47d427ffc98546acb64fd09245047f0c_R.jpg",
-          "summary": "24일까지 농협하나로마트·NH싱씽몰서 50% 할인행사 강호동 농협회장 “정부 물가안정 대책에 적극 동참할 것”농협이 추석을 앞두고 장바구니 물가 부담을 낮추기 위해 정부와 함께 8..",
+          "title": "'일시적 2주택' 종부세 혜택 … 국세청 4만8000명에 안내",
+          "link": "https://www.mk.co.kr/news/economy/12149647",
+          "pubDate": "2026-09-10T08:49:25.000Z",
+          "image": null,
+          "summary": "국세청이 종합부동산세 합산배제·과세특례 대상자로 예상되는 납세자 4만8000명에게 안내문을 발송했다고 10일 밝혔다. 이들은 오는 16일부터 30일까지 신고·신청하면 11월 정기고..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:48.155Z",
+      "fetchedAt": "2026-09-10T10:10:52.839Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:48.200Z",
+      "fetchedAt": "2026-09-10T10:10:52.890Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+          "pubDate": "2026-09-10T18:15:33.000Z",
+          "image": null,
+          "summary": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이 얼마인지만 볼 게 아니라, 실제 작업 하나를 제대로 성공시키는 데 총 얼마가 들었냐를 따져봐야 진짜 비용을 아낄 수 있다는 것이 핵심이다. 동일한 입력을 반복 처리하거나, 이전 모델의",
+          "keywords": [
+            "앤트로픽",
+            "클로드",
+            "API",
+            "비용",
+            "절감"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"초파리 뇌로 게임 돌린다\"...구글 뉴런 지도화에 엔지니어들 '이색 실험'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215099",
+          "pubDate": "2026-09-10T17:56:19.000Z",
+          "image": null,
+          "summary": "AI가 인간의 뇌를 이해하기 위한 과학 연구를 넘어 생물의 신경망 자체를 디지털 환경에서 구현하는 단계로 발전하고 있다. 실제 초파리의 뇌와 신경 연결 구조를 통째로 디지털화한 연구 결과가 공개되자, 개발자들이 이를 게임 조작에 적용하는 이색적인 실험까지 잇따라 선보였다. 구글 리서치와 HHMI 자넬리아 연구캠퍼스 연구진은 7일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계 전체를 정밀하게 지도화한 신경 연결지도(커넥톰·Connectome)를 최초로 공개했다.수백만장의 2차원 이미지를 AI로 분석해 3차원 신경망 데이터로 재구성한",
+          "keywords": [
+            "초파리",
+            "뇌로",
+            "게임",
+            "돌린다",
+            "구글"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215104",
+          "pubDate": "2026-09-10T17:43:05.000Z",
+          "image": null,
+          "summary": "오픈AI의 '불량 AI 에이전트'들이 자체적인 외부 게시 제한을 우회해 최소 10곳 이상의 제3자 웹사이트를 비공식 통신 채널로 활용한 정황이 추가로 드러났다. 앞서 독일어 위키 사이트와 오픈소스 플랫폼 허깅페이스를 대상으로 발생한 사건에 이어 유사한 활동이 광범위하게 이뤄졌다는 분석이 나오면서, 자율형 AI 에이전트의 통제 가능성과 기업의 사고 공개 방식에 대한 우려가 커지고 있다.9일(현지시간) 로이터가 검토한 6개 독립 조사팀의 조사 결과와 자료에 따르면, 오픈AI가 배포한 AI 에이전트들은 올해 5월부터 7월 사이 최소 10",
+          "keywords": [
+            "오픈AI",
+            "불량",
+            "에이전트",
+            "외부",
+            "사이트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, 네 번째 AI 무단 침입 공개...시스템 누락에 4억건 재조사",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215105",
+          "pubDate": "2026-09-10T17:31:21.000Z",
+          "image": null,
+          "summary": "앤트로픽이 AI 모델의 사이버보안 테스트 과정에서 외부 시스템에 무단으로 침입한 네 번째 사고를 뒤늦게 공식 확인했다. 이번 사고는 지난 1월 초기 버전의 ‘클로드 오퍼스 4.6’과 관련된 것으로, 앤트로픽은 피해를 입은 당사자에게 통보를 마쳤지만 구체적인 대상이나 피해 내용은 공개하지 않았다.앤트로픽은 9일(현지시간) 공식 블로그를 통해 해당 사고가 지난 1월 발생했으며, 당시 테스트에 사용된 클로드 오퍼스 4.6 초기 버전이 외부 시스템에 침입하는 행동을 보였다고 밝혔다.이번 사고를 이전에 발견하지 못한 이유가 초기 조사 과정에",
+          "keywords": [
+            "앤트로픽",
+            "번째",
+            "AI",
+            "무단",
+            "침입"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215110",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215109",
-          "pubDate": "2026-09-10T16:59:56.000Z",
-          "image": null,
-          "summary": "최초의 AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션(Cognition)이 불과 4개월 만에 기업 가치를 크게 높이며 또 한 번 대규모 자금 조달에 성공했다. 코그니션은 9일(현지시간) 20억달러(약 2조7000억원) 규모의 시리즈E 투자를 유치하며 기업 가치를 480억달러(약 64조원)로 끌어올렸다고 발표했다. 지난 5월 260억달러의 가치로 10억달러 이상을 조달한 지 불과 4개월 만에 몸값이 85% 급증한 것이다.이번 투자 라운드는 신규 투자자인 앤드리슨 호로위츠(a16z)와 액셀이 공동 주도했으며, 피터 틸의 파",
-          "keywords": [
-            "데빈",
-            "개발사",
-            "코그니션",
-            "몸값",
-            "64조"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수노, 워너뮤직·BMG 손잡고 정식 라이선스 'v6' AI 음악 모델 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215106",
-          "pubDate": "2026-09-10T16:47:04.000Z",
-          "image": null,
-          "summary": "AI 음악 생성 스타트업 수노(Suno)가 워너뮤직그룹, BMG와 협력해 정식 라이선스를 확보한 음악을 기반으로 새로운 음악을 생성할 수 있는 AI 모델을 출시했다.수노는 9일(현지시간) 워너뮤직그룹 및 BMG와 협력해 개발한 ‘v6’ 세대 AI 음악 모델 제품군을 공개했다.참여 아티스트의 라이선스 음악에서 영감받아 새로운 음악을 만들 수 있도록 설계됐으며, 기존 모델보다 빠르고 높은 품질의 결과물을 제공하는 것이 특징이다.프로와 프리미어 가입자는 v6와 실험적인 ‘v6-와일드(Wild)’를 사용할 수 있다. v6는 특정한 창작 목",
-          "keywords": [
-            "수노",
-            "워너뮤직",
-            "BMG",
-            "손잡고",
-            "정식"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "메가프로젝트 재생에너지 공급 의무화에 찬성 63% 넘어",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215107",
-          "pubDate": "2026-09-10T16:32:26.000Z",
-          "image": null,
-          "summary": "기후·에너지 커뮤니케이션 전문 기후미디어허브가 여론조사 기관 엠브레인에 의뢰해 전국 만 20~69세 남녀 5000명을 대상으로 실시한 조사 결과, 반도체 클러스터·AI 데이터센터 등 ‘3대 메가프로젝트’ 사용 전력의 일정 비율 이상을 재생에너지로 공급하도록 의무화하는 제도에 63.2%가 찬성하는 것으로 집계됐다.응답자의 67.8%가 3대 메가프로젝트 추진 자체를 긍정적으로 평가했으며, 프로젝트 추진을 위한 필요 요소로 ‘전문 인력 양성’(30.6%)에 이어 ‘안정적인 전력 확보’(20.7%)를 최우선 과제로 꼽았다.전력원으로 원자력",
-          "keywords": [
-            "메가프로젝트",
-            "재생에너지",
-            "공급",
-            "의무화에",
-            "찬성"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[9월10일] 순천 AI 영상 뉴스 - 순천, 추석 앞두고 가로·보안등 전수 점검 등",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215103",
-          "pubDate": "2026-09-10T16:22:56.000Z",
-          "image": null,
-          "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
-          "keywords": [
-            "9월10일",
-            "순천",
-            "AI",
-            "영상",
-            "뉴스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:49.673Z",
+      "fetchedAt": "2026-09-10T10:10:54.159Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:50.013Z",
+      "fetchedAt": "2026-09-10T10:10:54.308Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,17 +357,51 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Automattic 이사회, CEO Matt Mullenweg의 반대에도 유급 휴직 의결",
+          "title": "OpenAI가 또 다른 중요한 증명을 도용했을 가능성",
+          "link": "https://news.hada.io/topic?id=33478",
+          "pubDate": "2026-09-10T09:31:52.000Z",
+          "image": null,
+          "summary": "Valerio Capraro는 Andreas Thom의 Mastodon 게시물을 근거로 OpenAI가 또 다른 중요한 수학적 증명을 도용했을 수 있다고 주장함 Capraro에 따르면 Thom은 이 의혹을 뒷받침하는 여러 증거를 게시물에 담음 구체적으로는 OpenAI가 Thom과 Gábor ...",
+          "keywords": [
+            "OpenAI가",
+            "다른",
+            "중요한",
+            "증명을",
+            "도용했을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "DeepSeek V4.1 Flash 공개 - 이미지도 이해하는 새 아키텍처",
+          "link": "https://news.hada.io/topic?id=33477",
+          "pubDate": "2026-09-10T08:31:54.000Z",
+          "image": null,
+          "summary": "이미지와 텍스트를 함께 처리하고 100만 토큰 컨텍스트를 지원하는 DeepSeek-V4.1-Flash를 공개, 코드와 모델 가중치는 MIT 라이선스로 제공 5,520억 파라미터의 MoE 모델이지만, 입력 처리에는 80억, 출력 생성에는 160억 파라미터만 활...",
+          "keywords": [
+            "DeepSeek",
+            "V4",
+            "Flash",
+            "공개",
+            "이미지도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Automattic 이사회, CEO 맷 멀렌웨그에 강제 휴직 결정",
           "link": "https://news.hada.io/topic?id=33476",
           "pubDate": "2026-09-10T07:34:33.000Z",
           "image": null,
-          "summary": "WordPress.com의 모회사 Automattic에서 창업자 겸 CEO Matt Mullenweg가 이사회 결정으로 경영 일선에서 물러나고, CFO Mark Davies가 임시 CEO를 맡음 Mullenweg는 회의 시작 50분 전 결의안을 받았으며, 독립적인 법률 검토를 위해 몇 시간이라...",
+          "summary": "WordPress.com 운영사 Automattic의 창업자 겸 CEO Matt Mullenweg가 본인의 반대에도 이사회 결정으로 유급 휴직에 들어감 CFO 마크 데이비스가 임시 CEO를 맡으며, 멀렌웨그는 Automattic 이사직을 유지함. 회사는 휴직과 임시 CEO 선임을 확인했지만 구체적인 결...",
           "keywords": [
             "Automattic",
             "이사회",
             "CEO",
-            "Matt",
-            "Mullenweg의"
+            "멀렌웨그에",
+            "강제"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -405,42 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show HN: 빛의 속도가 시속 5km라면 어떨까?",
-          "link": "https://news.hada.io/topic?id=33473",
-          "pubDate": "2026-09-10T06:37:31.000Z",
-          "image": null,
-          "summary": "Relativity Park는 광속을 빠른 걸음 수준인 시속 5km로 낮춘 가상 공원으로, 일상적인 이동 속도에서 특수상대성이론의 시각적 효과를 체험할 수 있음 이동 속도가 광속에 가까워질수록 길이 수축·시간 지연·Terrell 회전이 두드러지지만, 광속 ...",
-          "keywords": [
-            "Show",
-            "HN:",
-            "빛의",
-            "속도가",
-            "시속"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "브라우저에서 실행하는 GNU Radio",
-          "link": "https://news.hada.io/topic?id=33472",
-          "pubDate": "2026-09-10T05:31:45.000Z",
-          "image": null,
-          "summary": "GNU Radio World는 GNU Radio Companion 스타일의 편집기와 런타임을 제공해, 브라우저 탭 안에서 플로 그래프를 구성하고 실행할 수 있음 GNU Radio DSP 스택과 Qt GUI 싱크를 WebAssembly로 컴파일해 Python, 별도 설치, 서버 없이 동작함 ...",
-          "keywords": [
-            "브라우저에서",
-            "실행하는",
-            "GNU",
-            "Radio"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:50.970Z",
+      "fetchedAt": "2026-09-10T10:10:55.037Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -524,7 +525,7 @@
           "summaryKo": "Roblox가 20주년을 맞이하면서, \"가장 흥미롭고 최근에 출시된 게임\" 뒤에 있는 개발자를 프로파일링하는 새로운 소셜 비디오 시리즈를 출시합니다. 담당자가 Tubefilter에 말합니다. 이 시리즈의 목표는 두 가지입니다. 첫째, 더 많은 플레이어가 게임을 발견할 수 있도록 특정 게임을 향상시키는 것, 둘째, 개발의 커튼을 벗겨내고 […] 더 멋진 스토리를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:51.076Z",
+      "fetchedAt": "2026-09-10T10:10:55.253Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -598,7 +599,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:51.241Z",
+      "fetchedAt": "2026-09-10T10:10:55.393Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -679,7 +680,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:51.290Z",
+      "fetchedAt": "2026-09-10T10:10:55.441Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -687,6 +688,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "가격보다 사람을 남겨라…OPEN UP이 풀어낸 ‘강자를 움직이는 협상’",
+          "link": "https://www.venturesquare.net/1112258/",
+          "pubDate": "2026-09-10T08:41:18.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260910_172609192_02-696x522.jpg",
+          "summary": "벤처스퀘어가 9일 한국컨퍼런스센터에서 ‘OPEN UP: 강자를 움직이는 협상의 기술’을 개최했다. 우준호 우앤파트너스 대표는 정보·시간·힘을 중심으로 M&A 현장에서 체득한 협상법을 공유했고, 하경수 로가 대표는 두 번의 폐업과 식물성 콜라겐 사업에서 얻은 9가지 협상... The post 가격보다 사람을 남겨라…OPEN UP이 풀어낸 ‘강자를 움직이는 협상’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "스타트업 트렌드",
+            "현장스케치",
+            "openup"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "산불 영상, 현장에서 바로 분석한다…인텔리빅스, IFA서 국산 NPU 실증 공개",
+          "link": "https://www.venturesquare.net/1112254/",
+          "pubDate": "2026-09-10T00:01:18.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/IFA-789x480.png",
+          "summary": "인텔리빅스가 독일 IFA 2026에서 국산 NPU 기반 산불 조기경보와 자율형 안전관제 기술을 소개했다. 해당 기술은 경남 하동·산청·함양에서 1,000채널 영상분석과 GIS 관제, VLM 기반 탐지 결과 검증 등에 적용되고 있다. 인텔리빅스는 국내 실증을 통해 성능과... The post 산불 영상, 현장에서 바로 분석한다…인텔리빅스, IFA서 국산 NPU 실증 공개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI반도체",
+            "IFA2026",
+            "VLM"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "고객 반응까지 AI로 연습한다…딥브레인AI, 영업 훈련 시장 공략",
           "link": "https://www.venturesquare.net/1112246/",
@@ -740,45 +777,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "AI가 공격 속도까지 바꿨다…GTIG, 6시간 만의 대규모 계정 탈취 경고",
-          "link": "https://www.venturesquare.net/1112197/",
-          "pubDate": "2026-09-09T14:52:39.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/google-2-789x444.png",
-          "summary": "GTIG는 에이전틱 AI를 활용해 클라우드 침해 후 6시간 만에 수천 개의 자격 증명을 탈취한 사례를 공개했다. AI 코딩 도구와 오픈소스 공급망을 노린 공격부터 독점 모델·소스코드 탈취, GPU 자원 무단 사용까지 위협 범위가 확대됐다. 보고서는 AI 자산과 클라우드... The post AI가 공격 속도까지 바꿨다…GTIG, 6시간 만의 대규모 계정 탈취 경고 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI공급망",
-            "GTIG",
-            "LLM재킹"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수명 16주 킬리피쉬가 바꾸는 항노화 검증…이음바이오, 스위스 무대 선다",
-          "link": "https://www.venturesquare.net/1112194/",
-          "pubDate": "2026-09-09T14:40:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1788393027848-nytljhdh-696x522.jpg",
-          "summary": "이음바이오가 스위스 ‘장수산업 투자자 콘퍼런스’의 혁신기업 8곳 가운데 한국 기업으로 유일하게 선정됐다. 회사는 수명 4~6개월의 열대어 킬리피쉬를 활용해 항노화 및 건강수명 후보 물질의 효능을 평가하는 전임상 플랫폼 ‘킬리스팬’을 개발하고 있다. 이음바이오는 콘퍼런스... The post 수명 16주 킬리피쉬가 바꾸는 항노화 검증…이음바이오, 스위스 무대 선다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "LongevityInvestorsConference",
-            "건강수명",
-            "바이오스타트업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:54.340Z",
+      "fetchedAt": "2026-09-10T10:11:03.130Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -868,7 +869,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:54.597Z",
+      "fetchedAt": "2026-09-10T10:11:03.356Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -961,7 +962,7 @@
           "summaryKo": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:54.624Z",
+      "fetchedAt": "2026-09-10T10:11:03.414Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1060,7 +1061,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:56.190Z",
+      "fetchedAt": "2026-09-10T10:11:05.962Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1080,6 +1081,23 @@
             "테스트베드",
             "지원사업",
             "참여"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "제주 관광·콘텐츠 기업 정규직 채용 지원 추가 모집 - 제민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pTjZPTEJILVczaTRjQ1otYVJwM3dyc1pKYnlvOWRLc1U1UXd6UGlFUEJUYUU0c1VqejY0YW1ZaHZfaFB5VW1wLXN0Uk5mTWZMSWw3S1RTUzVpa0EycFVjRGEweDZyUQ?oc=5",
+          "pubDate": "2026-09-10T08:30:58.000Z",
+          "image": null,
+          "summary": "제주 관광·콘텐츠 기업 정규직 채용 지원 추가 모집 제민일보",
+          "keywords": [
+            "제주",
+            "관광",
+            "콘텐츠",
+            "기업",
+            "정규직"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1120,72 +1138,55 @@
           "summaryKo": null
         },
         {
-          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
-          "pubDate": "2026-09-08T21:00:00.000Z",
+          "title": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 - 경기탑뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Mk5QZ3J3U0hTRkk5T1RkZ0YtSXJoUjE5Mmw3OHRrNHdRTU9iZkVPSE5sMkFkTTJzYy1mWVQ0XzJlVFpmbVFPelM1ZWpTWkNnMl81Q3JPTUJQZEw1MVlUU0ZkNEtHZw?oc=5",
+          "pubDate": "2026-09-10T03:10:38.000Z",
           "image": null,
-          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
+          "summary": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 경기탑뉴스",
           "keywords": [
-            "공고",
-            "2026년",
-            "GHKOL",
-            "해외진출",
-            "실무특화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "국토부, 2027년 도시재생 신규사업 모집…지역특화재생·노후주거지정비 추진 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KRXhfVjFVNTlfN2JzVzQ3VXE2QU9uUzMzMWsyM0pkRThPOTJoM0o4b3hXdGdMcDRLTjRZNXNiNFg3YWFIQ2tLbGRiUko1ZTA4R09IWm9SSklFRHo2?oc=5",
-          "pubDate": "2026-09-10T02:00:00.000Z",
-          "image": null,
-          "summary": "국토부, 2027년 도시재생 신규사업 모집…지역특화재생·노후주거지정비 추진 뉴스핌",
-          "keywords": [
-            "국토부",
-            "2027년",
-            "도시재생",
-            "신규사업",
-            "모집"
+            "포천시",
+            "외국인근로자",
+            "소형건설기계",
+            "조종교육",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T08:11:56.650Z",
+      "fetchedAt": "2026-09-10T10:11:06.386Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "중국",
       "label": "중국",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
       "rank": 4,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
@@ -1209,25 +1210,25 @@
       "change": "same"
     },
     {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
+      "rank": 8,
+      "change": "down"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 9,
+      "change": "new"
+    },
+    {
       "key": "곡성군",
       "label": "곡성군",
       "count": 2,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "다자녀가정",
-      "label": "다자녀가정",
-      "count": 2,
-      "rank": 9,
-      "change": "up"
-    },
-    {
-      "key": "보금자리",
-      "label": "보금자리",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
