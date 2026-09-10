@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-10T20:10:02.384Z",
+  "collectedAt": "2026-09-10T22:09:31.230Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "유가·국채금리 급등에 무너진 투심...美 3대증시 하락 [월가월부]",
+          "link": "https://www.mk.co.kr/news/economy/12150011",
+          "pubDate": "2026-09-10T20:35:14.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.5c4fd902e11241298df5599e90d16b95_R.jpg",
+          "summary": "호르무즈·홍해 봉쇄 우려에 브렌트유·WTI 100달러 돌파이란전쟁이 확전과 장기전 양상으로 흘러가면서 국제유가가 또다시 100달러를 돌파하며 인플레이션 우려가 확산되는 가운데 미..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“매년 880만원 아끼는데 안해요?” … 파이어족 다들 한다는데",
           "link": "https://www.mk.co.kr/news/stock/12149438",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "텅 빈 지식산업센터, 오피스텔 전환 길 열린다",
-          "link": "https://www.mk.co.kr/news/economy/12149777",
-          "pubDate": "2026-09-10T10:25:54.000Z",
-          "image": null,
-          "summary": "지식산업센터의 공실과 미분양 사태가 좀처럼 풀리지 않자 정부가 해당 시설을 오피스텔 등 다른 용도로 전환할 수 있도록 관련 규제를 완화하기로 했다. 텅 빈 지식산업센터의 활용도를..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:50.688Z",
+      "fetchedAt": "2026-09-10T22:09:06.482Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:52.368Z",
+      "fetchedAt": "2026-09-10T22:09:06.576Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,7 +189,24 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
+          "title": "[9월10일] 애플 새 CEO 첫 무대…“AI 시대에도 결국 아이폰이 개인 AI 허브”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215083",
+          "pubDate": "2026-09-11T07:00:00.000Z",
+          "image": null,
+          "summary": "존 터너스 애플 신임 CEO가 취임 후 처음 대중 앞에 섰습니다. 9일(현지시간) 애플파크에서 열린 약 90분의 신제품 행사에서 터너스가 직접 무대에 오른 시간은 약 16분으로, 오프닝과 AI 비전, 첫 폴더블 아이폰 ‘아이폰 듀오’ 공개, 클로징을 직접 맡았습니다.그가 가장 강조한 것은 의외로 새로운 AI 기기나 기능이 아니었습니다. 최근 오픈AI와 메타 등이 AI 전용 안경을 비롯한 새로운 AI 디바이스를 내놓으며 ‘스마트폰 다음의 기기’를 둘러싼 경쟁이 시작된 가운데, 터너스 CEO는 오히려 “세상 그 어떤 제품도 아이폰만큼",
+          "keywords": [
+            "9월10일",
+            "애플",
+            "CEO",
+            "무대",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, 클로드 API 비용 절감법 공개…‘지침 부채’ 없애고 캐싱 활용",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
           "pubDate": "2026-09-10T18:15:33.000Z",
           "image": null,
@@ -199,7 +216,7 @@
             "클로드",
             "API",
             "비용",
-            "절감"
+            "절감법"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215110",
-          "pubDate": "2026-09-10T17:09:18.000Z",
-          "image": null,
-          "summary": "중국 규제 당국이 유니트리 로보틱스의 상장 이후 주가 변동성을 계기로 휴머노이드 로봇 스타트업들의 기업공개(IPO) 승인 심사를 대폭 강화하고 나섰다. 모방 업체가 난립하지만, 실질적인 기술적 돌파구는 부족한 과열 시장을 진정시키기 위한 조치다. 9일(현지시간) 디 인포메이션에 따르면, 중국 증권감독관리위원회(CSRC)는 최근 일부 투자은행과 투자사들에 비공식 '창구 지도(window guidance)'를 내려보내 휴머노이드 기업의 IPO 승인 기준을 높이겠다는 입장을 전달했다.이에 따라 상장을 추진하는 기업들은 지속적인 매출 창출",
-          "keywords": [
-            "중국",
-            "휴머노이드",
-            "로봇",
-            "IPO",
-            "규제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:53.525Z",
+      "fetchedAt": "2026-09-10T22:09:07.738Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -335,20 +335,20 @@
           "summaryKo": "OpenAI와 GSA는 자격을 갖춘 연방, 주, 지방 및 부족 정부에 라이선스 수수료 $ 0, 사용료 50% 할인, 사이버 방어 지원 확대 등을 제공합니다."
         },
         {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "title": "Introducing the Agents API",
+          "link": "https://openai.com/index/introducing-the-agents-api",
           "pubDate": "2026-09-10T00:00:00.000Z",
           "image": null,
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+          "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
           "keywords": [
             "Product"
           ],
           "isForeign": true,
-          "titleKo": "API에서 GPT ‑ Live ‑ 1로 더 자연스러운 음성 경험 구축",
-          "summaryKo": "GPT ‑ Live ‑ 1은 API에 자연스러운 전이중 음성 대화를 제공하며, 더 강력한 지침, 사용자 지정 음성 및 전화 지원을 제공합니다."
+          "titleKo": "상담원 API 소개",
+          "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 코덱스 하네스가 제공하는 관리형 서비스인 에이전트 API를 사용하여 클라우드 에이전트를 구축하고 실행합니다."
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:54.960Z",
+      "fetchedAt": "2026-09-10T22:09:09.703Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Cognition, Fable 5.1·GPT-Astra에 필적하는 코딩 모델 SWE-2 출시",
-          "link": "https://news.hada.io/topic?id=33494",
-          "pubDate": "2026-09-10T19:42:59.000Z",
+          "title": "ChatGPT Pro 구독 일시중단",
+          "link": "https://news.hada.io/topic?id=33500",
+          "pubDate": "2026-09-10T22:06:06.000Z",
           "image": null,
-          "summary": "2.8조 매개변수 Kimi K3를 후속 학습한 SWE-2는 FrontierCode 1.1 Main에서 50.0%를 기록해 Fable 5.1과 0.9%p 차이를 보이면서도 비용은 64% 낮음 추론 노력 수준별로 기반 모델의 비용·성능 곡선 기울기에 맞춘 선형 비용 페널티를 적용해, 한 ...",
+          "summary": "Tibo 예고대로 200달러 플랜의 일시중단 100달러 플랜과 기존 구독자는 아무런 영향이 없음 ...",
           "keywords": [
-            "Cognition",
-            "Fable",
-            "GPT",
-            "Astra에",
-            "필적하는"
+            "ChatGPT",
+            "Pro",
+            "구독",
+            "일시중단"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "소프트웨어가 사람들을 미치게 만든다는 가설",
-          "link": "https://news.hada.io/topic?id=33493",
-          "pubDate": "2026-09-10T19:39:59.000Z",
+          "title": "록 밴드 Muse, Meta의 새 AI 도구에 소셜 미디어 계정명 빼앗겨",
+          "link": "https://news.hada.io/topic?id=33499",
+          "pubDate": "2026-09-10T21:49:13.000Z",
           "image": null,
-          "summary": "소프트웨어에 결합된 속도·돈·복잡성·추상화·거의 무제한적인 변경 자유가 평범한 사람들의 균형 감각을 무너뜨릴 수 있다는 가설임 변경 비용이 눈에 보이지 않고 때로는 실제로 저렴하기 때문에, “할 수 있다”가 “해야 한다”로 바뀌며 아이디어마다 긴급한 ...",
-          "keywords": [
-            "소프트웨어가",
-            "사람들을",
-            "미치게",
-            "만든다는",
-            "가설"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "미공개 수학 연구를 OpenAI에 믿고 맡길 수 있는가, 추가 의문",
-          "link": "https://news.hada.io/topic?id=33492",
-          "pubDate": "2026-09-10T18:33:38.000Z",
-          "image": null,
-          "summary": "Andreas Thom은 동료와 ChatGPT에서 논의한 미공개 수학 연구가 OpenAI의 새 수학적 결과 도출에 활용됐는지 물었지만, 학습 데이터 편입과 풀이 중 접근을 구분한 답변을 받지 못했다고 비판함 계기는 OpenAI의 비소픽 군(non-sofic group) 발견 발표",
-          "keywords": [
-            "미공개",
-            "수학",
-            "연구를",
-            "OpenAI에",
-            "믿고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Planet Labs의 공개 위성 영상 피드",
-          "link": "https://news.hada.io/topic?id=33491",
-          "pubDate": "2026-09-10T17:34:51.000Z",
-          "image": null,
-          "summary": "자연재해와 인재 직후의 지표를 살펴볼 수 있는 Disaster Data는 일부 위성 영상과 Parquet·JSON 메타데이터를 공개해 DuckDB와 QGIS에서 탐색·분석할 수 있게 함 자료는 재난 전·후 영상으로 나뉘고 사건별로 제공 자산이 다르며, 콜롬비아와 베...",
-          "keywords": [
-            "Planet",
-            "Labs의",
-            "공개",
-            "위성",
-            "영상"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "밴드 Muse, Meta의 새 AI 에이전트 Muse에 소셜 미디어 계정명을 빼앗김",
-          "link": "https://news.hada.io/topic?id=33490",
-          "pubDate": "2026-09-10T16:55:52.000Z",
-          "image": null,
-          "summary": "영국 록 밴드 Muse가 Instagram과 X에서 수년간 쓰던 계정명을 Meta의 새 AI 에이전트 Muse가 사용하게 됐지만, 이전 경위는 공개되지 않음 밴드는 두 플랫폼 모두 @museband로 계정명을 바꿨으며, Instagram 변경 시점은 보도와 팬들의 목격담이...",
+          "summary": "기술 지배의 미래를 경고해 온 록 밴드 Muse가 X와 Instagram의 계정명을 이번 주 출시된 Meta의 동명 개인용 AI 도구에 넘긴 것으로 보여 팬들이 반발함 밴드의 계정명은 X에서 @Musetheband, Instagram에서 @museband로 바뀌었...",
           "keywords": [
             "밴드",
             "Muse",
             "Meta의",
             "AI",
-            "에이전트"
+            "도구에"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "누구도 당신의 커다란 케이블 상자를 가져가지 못하게 하라",
+          "link": "https://news.hada.io/topic?id=33498",
+          "pubDate": "2026-09-10T21:46:04.000Z",
+          "image": null,
+          "summary": "10년 넘게 보관한 케이블 두 개를 마침내 썼다는 Tyler Gaw의 게시물에 공감한 Jim Nielsen이, 케이블을 보관하는 이유를 기억하려고 그 게시물을 자신의 상자 앞면에 붙임 Gaw는 상자 바닥에서 필요한 케이블을 찾아내며, “이걸 대체 언제 쓸 건데?”라는 질문에 “바로 오...",
+          "keywords": [
+            "누구도",
+            "당신의",
+            "커다란",
+            "케이블",
+            "상자를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Lotus Notes와 모든 것을 처음부터 만드는 것의 위험",
+          "link": "https://news.hada.io/topic?id=33497",
+          "pubDate": "2026-09-10T21:43:04.000Z",
+          "image": null,
+          "summary": "1989년 출시된 Lotus Notes는 암호화, 첨부파일, 알림과 메시지 동기화를 갖춰 오늘날의 Slack과 이메일, 사내 앱 개발 도구를 합친 듯한 협업 환경을 제공함 이메일 전용 프로그램이 아니라 공유 데이터베이스 위에 일정, 토론, 주소록과 업무용 앱을 만드는 플랫폼",
+          "keywords": [
+            "Lotus",
+            "Notes와",
+            "모든",
+            "것을",
+            "처음부터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "화성을 위한 NASA의 색상 보정 기법, 이제 지구의 암벽화를 드러내다",
+          "link": "https://news.hada.io/topic?id=33496",
+          "pubDate": "2026-09-10T21:40:03.000Z",
+          "image": null,
+          "summary": "NASA가 원격탐사·위성 영상 해석을 위해 개발한 비상관 스트레칭(decorrelation stretch) 이 고대 암벽화에서 보이지 않던 형상과 세부 묘사를 찾아내는 데 쓰이고 있음 단순히 대비를 높이는 대신 원래 색상을 더 넓은 색상 범위로 변환하며, 신호 정보를 적은 수...",
+          "keywords": [
+            "화성을",
+            "위한",
+            "NASA의",
+            "색상",
+            "보정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:55.627Z",
+      "fetchedAt": "2026-09-10T22:09:10.403Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +449,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "IMDb’s “digital creator” label lets artists “represent the full scope of their work in one place”",
+          "link": "https://www.tubefilter.com/2026/09/10/imdb-internet-movie-database-digital-creator-label/",
+          "pubDate": "2026-09-10T21:54:48.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/imdb-getty.jpg",
+          "summary": "The Internet Movie Database is as old as the World Wide Web itself, and as it enters its 36th year of activity, it is getting an important update. For the first time, the website known as IMDb is adding labels that identify various types of digital creators. \"Digital creator\" will become the newest professional category on IMDb, which also classifies more than 40 other types of creative workers. Once a profile is tagged as a digital creator, it can add a subcategory, further specifying that part",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "IMDb",
+            "News",
+            "accreditation"
+          ],
+          "isForeign": true,
+          "titleKo": "IMDb의 \"디지털 크리에이터\" 라벨을 통해 아티스트는 \"한 곳에서 모든 작업 범위를 표현\" 할 수 있습니다.",
+          "summaryKo": "인터넷 영화 데이터베이스는 월드 와이드 웹 자체만큼이나 오래되었으며, 36년차에 접어들면서 중요한 업데이트를 받고 있습니다. IMDb라는 웹사이트에는 처음으로 다양한 유형의 디지털 크리에이터를 식별하는 라벨이 추가되었습니다. \"디지털 크리에이터\" 는 IMDb의 최신 전문 카테고리가 될 것이며, 이 카테고리는 40명 이상의 다른 유형의 크리에이티브 작업자를 분류합니다. 프로필이 디지털 크리에이터로 태그되면 하위 카테고리를 추가할 수 있습니다."
+        },
+        {
+          "title": "According to YouTube, the mainstream isn’t dead. It just looks different than it used to.",
+          "link": "https://www.tubefilter.com/2026/09/10/youtube-culture-and-trends-report-mainstream-not-dead/",
+          "pubDate": "2026-09-10T20:49:38.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-culture-trends-report.jpg",
+          "summary": "In an era defined by siloed feeds and hyperspecific recommendations, numerous commentators have argued that the mainstream is a thing of the past. Cultural touchstones like the song of the summer are stuck in the previous decade, and the monoculture that once united society appears to be fading. If you're worried that common ground has disappeared beneath your feet, YouTube is here to offer some reassurance. The platform's latest Culture and Trends Report is an examination of the mainstream as i",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "backrooms"
+          ],
+          "isForeign": true,
+          "titleKo": "유튜브에 따르면, 주류는 죽지 않았습니다. 예전과 다르게 생겼을 뿐입니다.",
+          "summaryKo": "사일로 피드와 과도한 추천으로 정의되는 시대에 수많은 논평가들은 주류가 과거의 것이라고 주장했습니다. 여름의 노래와 같은 문화적 터치스톤은 지난 10 년 동안 고착되어 있으며, 한 번 통합 된 사회가 퇴색하고있는 것처럼 보입니다. 공통점이 발밑으로 사라진 것이 걱정된다면 YouTube에서 안심할 수 있습니다. 플랫폼의 최신 문화 및 트렌드 보고서는"
+        },
         {
           "title": "Snapchat puts the “social” in social media by helping its users make Plans",
           "link": "https://www.tubefilter.com/2026/09/10/snapchat-irl-plans-coordinate-group-chat/",
@@ -498,40 +533,9 @@
           "isForeign": true,
           "titleKo": "스포츠 세계에서 인플루언서는 반발에 직면하고 있지만 아무도 NFL에",
           "summaryKo": "음색이 나빠지는 광고 하나가 유튜브 골프계를 혼란에 빠뜨렸습니다. 현재 다른 스포츠 커뮤니티에서는 인플루언서들이 추가적인 블로우백에 직면해 있지만, 게임의 날을 준비하는 크리에이터에게는 여전히 많은 기회가 있습니다. 스포츠 크리에이터 사가의 이 특별한 장은 Good Good에서 시작됩니다. 유튜브 골프 승무원은 수요가 많았고 PGA 투어에서 자체 이벤트를 개최하기도 했습니다. 그러나 Good Good 회원이 출연했을 때 모든 것이 바뀌었습니다."
-        },
-        {
-          "title": "YouTube wants creators to pitch brands with guesstimated TV co-viewership stats",
-          "link": "https://www.tubefilter.com/2026/09/09/youtube-wants-creators-to-pitch-brands-with-a-new-metric-that-guesstimates-tv-co-viewership/",
-          "pubDate": "2026-09-09T20:50:30.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/cardmapr-nl-N8Pnhrcr73o-unsplash.jpg",
-          "summary": "YouTube has come up with another way to pump viewcounts. Just a few weeks after announcing it would start counting a “view” from the very first frame of a video, YouTube has added a new metric called Views (Co-Viewed) that “estimates” when multiple people are watching YouTube content together on one TV screen. “Viewers watch […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube는 크리에이터가 TV 공동 시청률 통계로 브랜드를 홍보하기를 원합니다.",
-          "summaryKo": "YouTube는 조회수를 높이는 또 다른 방법을 고안했습니다. 동영상의 첫 번째 프레임에서 '조회수' 를 계산하기 시작한다고 발표한 지 불과 몇 주 만에 YouTube는 여러 사람이 하나의 TV 화면에서 YouTube 콘텐츠를 함께 시청할 때 '추정' 하는 '조회수' 라는 새로운 측정항목을 추가했습니다. \"시청자는 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 볼 수 있습니다."
-        },
-        {
-          "title": "From the cozy games to the horror hits, Twitch breaks down the “State of Gaming” in 2026",
-          "link": "https://www.tubefilter.com/2026/09/09/twitch-state-of-gaming-2026-jynxzi-league-of-legends/",
-          "pubDate": "2026-09-09T19:31:19.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/twitch-state-of-gaming-2026.jpg",
-          "summary": "Twitch's \"Just Chatting\" category has long produced the platform's biggest viewership numbers, but that doesn't mean that Twitch's gamers are irrelevant. To the contrary, both competitive and casual gaming streamers continue to thrive on the Amazon-owned hub, and the Twitch State of Gaming 2026 report has the stats to prove it. The latest State of Gaming report breaks down the 8.6 billion hours of gaming-related watch time that occurred on Twitch between January 1 and September 1 of this year. W",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Twitch",
-            "cozy gaming"
-          ],
-          "isForeign": true,
-          "titleKo": "아늑한 게임부터 호러 히트곡까지, 트위치는 2026년 '게임의 상태' 를 무너뜨립니다.",
-          "summaryKo": "Twitch의 \"Just Chatting\" 카테고리는 오랫동안 이 플랫폼에서 가장 큰 시청률을 기록했지만, 그렇다고 해서 Twitch의 게이머가 무의미한 것은 아닙니다. 반대로, 경쟁 및 캐주얼 게임 스트리머는 아마존 소유의 허브에서 계속 번창하고 있으며, Twitch State of Gaming 2026 보고서는 이를 증명할 수 있는 통계를 가지고 있습니다. 최신 State of Gaming 보고서는 1월 1일부터 9월 1일까지 트위치에서 발생한 86억 시간의 게임 관련 시청 시간을 분석합니다."
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:56.273Z",
+      "fetchedAt": "2026-09-10T22:09:14.015Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:56.489Z",
+      "fetchedAt": "2026-09-10T22:09:14.243Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:56.568Z",
+      "fetchedAt": "2026-09-10T22:09:14.319Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -785,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:59.485Z",
+      "fetchedAt": "2026-09-10T22:09:16.819Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:59.744Z",
+      "fetchedAt": "2026-09-10T22:09:17.110Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -883,6 +887,39 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+          "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-10T21:35:00.000Z",
+          "image": null,
+          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Fintech",
+            "Fundraising",
+            "Media & Entertainment",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "Mark Wahlberg가 TechCrunch Disrupt 2026에 참가합니다. 그는 자신의 업무가 아닌 업무에 대해 이야기하고 싶어합니다.",
+          "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰니스 및 비즈니스 구축에 대해 논의합니다."
+        },
+        {
+          "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+          "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+          "pubDate": "2026-09-10T20:48:00.000Z",
+          "image": null,
+          "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+          "keywords": [
+            "Fundraising",
+            "Startups",
+            "furo"
+          ],
+          "isForeign": true,
+          "titleKo": "Furo의 창립자들은 실리콘 밸리를 떠났고 성과를 거두고 있습니다.",
+          "summaryKo": "에너지 스타트업 퓨로 (Furo) 의 28세 창업자 3명은 실리콘 밸리에서 다시 독일로 이주했지만, 대부분 미국 후원자들로부터 $ 4M의 자금을 확보했습니다."
+        },
         {
           "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
           "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
@@ -934,42 +971,9 @@
           "isForeign": true,
           "titleKo": "Maven Robotics가 로봇 배포 거래를 훔치려 합니다",
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
-        },
-        {
-          "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-          "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-          "pubDate": "2026-09-10T13:34:01.000Z",
-          "image": null,
-          "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-          "keywords": [
-            "Climate",
-            "Startups",
-            "Google",
-            "Mitti Labs"
-          ],
-          "isForeign": true,
-          "titleKo": "Google, 인도 스타트업 Mitti Labs와 최대 규모의 쌀-메탄 탄소 배출권 거래 체결",
-          "summaryKo": "이 4년 계약은 인도 3개 주 전역의 쌀 농장을 대상으로 하며, 최대 납품 시 약 10만 헥타르에 이릅니다."
-        },
-        {
-          "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-          "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-          "pubDate": "2026-09-10T13:00:00.000Z",
-          "image": null,
-          "summary": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "TC",
-            "defense tech",
-            "mach industries"
-          ],
-          "isForeign": true,
-          "titleKo": "국방 기술 마하 산업, 3개월 만에 $ 3.7B로 밸류에이션 2배 증가",
-          "summaryKo": "이 버지 스타트업은 시리즈 C 연장 라운드에서 6억 달러를 더 모금하여 라운드의 총액을 9억 달러로 올렸습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T20:09:59.771Z",
+      "fetchedAt": "2026-09-10T22:09:20.047Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:10:01.249Z",
+      "fetchedAt": "2026-09-10T22:09:21.856Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1163,79 +1167,79 @@
         }
       ],
       "fetchedAt": "2026-09-10T20:10:01.711Z",
-      "error": null
+      "error": "HTTP 503"
     }
   },
   "trendingDomestic": [
     {
       "key": "ai",
       "label": "AI",
-      "count": 2,
+      "count": 3,
       "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "에이전트",
-      "label": "에이전트",
-      "count": 2,
-      "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "중국",
-      "label": "중국",
-      "count": 2,
-      "rank": 3,
       "change": "same"
     },
     {
       "key": "중소벤처기업부",
       "label": "중소벤처기업부",
       "count": 2,
-      "rank": 4,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 9,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "앤트로픽",
+      "label": "앤트로픽",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1272,52 +1276,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
       "key": "articles",
       "label": "Articles",
-      "count": 3,
-      "rank": 6,
-      "change": "same",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 3,
-      "rank": 7,
+      "count": 4,
+      "rank": 6,
       "change": "up",
       "labelKo": "추천 동영상"
     },
     {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
+    },
+    {
       "key": "news",
       "label": "News",
-      "count": 3,
+      "count": 4,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 9,
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "product",
       "label": "Product",
       "count": 3,
-      "rank": 9,
-      "change": "new",
-      "labelKo": "제품"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "제품"
     }
   ]
 }
