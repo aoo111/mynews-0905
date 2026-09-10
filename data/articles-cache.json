@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-10T10:11:06.395Z",
+  "collectedAt": "2026-09-10T12:13:50.178Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“내 재산은 평균일까?”…한국인 48세에 ‘빚’·61세 ‘자산’ 정점 [데이터로 읽는 머니 무브]",
+          "link": "https://www.mk.co.kr/news/economy/12149835",
+          "pubDate": "2026-09-10T11:13:05.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260908.2ea93447a58943949a2b91ba33e30d11_R.jpg",
+          "summary": "한국인은 몇 살에 가장 많은 빚을 지고 있을까요. 보유 자산이 가장 많아지는 시기는 언제일까요. 취업해 월급을 받기 시작하면 조금씩 자산을 쌓습니다. 결혼하고 집을 마련하는 과정에..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "텅 빈 지식산업센터, 오피스텔 전환 길 열린다",
+          "link": "https://www.mk.co.kr/news/economy/12149777",
+          "pubDate": "2026-09-10T10:25:54.000Z",
+          "image": null,
+          "summary": "지식산업센터의 공실과 미분양 사태가 좀처럼 풀리지 않자 정부가 해당 시설을 오피스텔 등 다른 용도로 전환할 수 있도록 관련 규제를 완화하기로 했다. 텅 빈 지식산업센터의 활용도를..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "송미령 “CPTPP 두려움 있지만 우리 농업에 도전 기회도  된다”",
           "link": "https://www.mk.co.kr/news/economy/12149737",
           "pubDate": "2026-09-10T09:37:59.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"좌석 유지 의무 풀어달라\" 항공사 요청에…공정위 기각",
-          "link": "https://www.mk.co.kr/news/economy/12149649",
-          "pubDate": "2026-09-10T08:49:26.000Z",
-          "image": null,
-          "summary": "공정거래위원회가 대한항공과 아시아나항공의 기업결합 조건으로 부과된 '공급좌석 유지 의무'를 완화해달라는 대한항공 등 5개 항공사 요청에 대해 기각 의견을 낸 심사보고서를 공정위 전..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "'일시적 2주택' 종부세 혜택 … 국세청 4만8000명에 안내",
-          "link": "https://www.mk.co.kr/news/economy/12149647",
-          "pubDate": "2026-09-10T08:49:25.000Z",
-          "image": null,
-          "summary": "국세청이 종합부동산세 합산배제·과세특례 대상자로 예상되는 납세자 4만8000명에게 안내문을 발송했다고 10일 밝혔다. 이들은 오는 16일부터 30일까지 신고·신청하면 11월 정기고..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:52.839Z",
+      "fetchedAt": "2026-09-10T12:13:42.023Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 SouthPoint Bancshares, Inc. 와 집행 조치를 발표하고 Deutsche Bank AG, DB USA Corporation 및 Deutsche Bank AG New York Branch와 집행 조치를 종료한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:52.890Z",
+      "fetchedAt": "2026-09-10T12:13:42.150Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:54.159Z",
+      "fetchedAt": "2026-09-10T12:13:43.423Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "더 많은 역량을 갖춘 합리적인 가격의 AI가 사람과 기업이 성취할 수 있는 업무를 확장하고 더 경제적으로 성장할 수 있는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:54.308Z",
+      "fetchedAt": "2026-09-10T12:13:43.610Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "모든 어른은 한때 어린이였지만, 그것을 기억하는 어른은 드물다",
+          "link": "https://news.hada.io/topic?id=33480",
+          "pubDate": "2026-09-10T11:38:58.000Z",
+          "image": null,
+          "summary": "호기심에 이끌리는 놀이는 수학적 개념을 배우는 과정이며, 정답을 곧바로 알려주면 탐색·학습·성장·즐거움이라는 놀이의 목적을 무너뜨릴 수 있음 순수수학 같은 기초과학에서는 어른의 규율과 전문성에 어린이의 자유로운 발상과 두려움 없는 탐색을 결합할 때 ...",
+          "keywords": [
+            "모든",
+            "어른은",
+            "한때",
+            "어린이였지만",
+            "그것을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Blizzard 노동자들, 역사적인 단체협약 쟁취",
+          "link": "https://news.hada.io/topic?id=33479",
+          "pubDate": "2026-09-10T11:35:58.000Z",
+          "image": null,
+          "summary": "World of Warcraft 개발사 Blizzard Entertainment에서 약 1,900명을 대표하는 노조가 2년간의 교섭 끝에 단체협약을 비준했으며, 각 부서의 협약에 동일한 문구가 적용됨 협약은 임금 인상과 주 3일 사무실 출근을 하는 혼합근무제를 보장하고, ...",
+          "keywords": [
+            "Blizzard",
+            "노동자들",
+            "역사적인",
+            "단체협약",
+            "쟁취"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "OpenAI가 또 다른 중요한 증명을 도용했을 가능성",
           "link": "https://news.hada.io/topic?id=33478",
@@ -406,42 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "async/await의 설계 공간 탐색",
-          "link": "https://news.hada.io/topic?id=33475",
-          "pubDate": "2026-09-10T07:03:05.000Z",
-          "image": null,
-          "summary": "동시성 코드를 순차 코드처럼 작성하게 해주는 async/await는 언어마다 실행 의미가 달라, 같은 백그라운드 로그 예제가 7개 런타임에서 4가지 출력을 만듦 차이는 단순한 성능 문제가 아니라 관찰 가능한 동작을 바꾸는 설계 선택에서 발생하며, 연구는 이를 태스...",
-          "keywords": [
-            "async/await의",
-            "설계",
-            "공간",
-            "탐색"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Read the Docs를 겨냥한 최근 DDoS 공격 분석",
-          "link": "https://news.hada.io/topic?id=33474",
-          "pubDate": "2026-09-10T06:40:31.000Z",
-          "image": null,
-          "summary": "Read the Docs는 2026년 6월 중·하순 약 열흘간 역대 최대 규모의 DDoS 공격을 겪었으며, 정점에는 평상시 트래픽의 약 100배인 분당 550만 건 이상의 요청을 받음 공격자는 전 세계 수백 개 네트워크의 수백만 IP를 활용하고 HTTP 헤더와 TLS 매개변수를 무작위화했으며, 캐...",
-          "keywords": [
-            "Read",
-            "the",
-            "Docs를",
-            "겨냥한",
-            "최근"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:55.037Z",
+      "fetchedAt": "2026-09-10T12:13:44.393Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -525,7 +526,7 @@
           "summaryKo": "Roblox가 20주년을 맞이하면서, \"가장 흥미롭고 최근에 출시된 게임\" 뒤에 있는 개발자를 프로파일링하는 새로운 소셜 비디오 시리즈를 출시합니다. 담당자가 Tubefilter에 말합니다. 이 시리즈의 목표는 두 가지입니다. 첫째, 더 많은 플레이어가 게임을 발견할 수 있도록 특정 게임을 향상시키는 것, 둘째, 개발의 커튼을 벗겨내고 […] 더 멋진 스토리를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:55.253Z",
+      "fetchedAt": "2026-09-10T12:13:44.667Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -599,7 +600,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:55.393Z",
+      "fetchedAt": "2026-09-10T12:13:44.846Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -680,7 +681,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T10:10:55.441Z",
+      "fetchedAt": "2026-09-10T12:13:44.902Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -779,7 +780,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:11:03.130Z",
+      "fetchedAt": "2026-09-10T12:13:47.794Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -869,7 +870,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:11:03.356Z",
+      "fetchedAt": "2026-09-10T12:13:48.073Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -962,7 +963,7 @@
           "summaryKo": "Cognition의 평가 배수는 SpaceX에 판매하기 전의 Cursor보다 높습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T10:11:03.414Z",
+      "fetchedAt": "2026-09-10T12:13:48.246Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1061,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:11:05.962Z",
+      "fetchedAt": "2026-09-10T12:13:49.725Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1121,41 +1122,41 @@
           "summaryKo": null
         },
         {
-          "title": "곡성군, 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 - 타임뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90ODlsNzVNM2hIOUVwMC0zakNLZmJZYlJDd1c5eHZKX053d3N2cHJZZmF5SGEwbnRRc3c3ellSb2J1ZFk0T0E0LWZqT28ydXpFMXMzMA?oc=5",
-          "pubDate": "2026-09-10T03:50:30.000Z",
+          "title": "광양시, ‘2026년 행복여행활동 지원사업’ 하반기 참가자 30일까지 모집 - 호남타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ld3d6QkFkUkhVbGZrQUFhMUtvWDdocXlLMHY2NVFORjJpN2psdjBJdnBVTFRkMnQzaEdQX09VYTVGa0t5S2hiemtWTWR5d0ZmM0ItM0hXSU1MQ1VWU1I1NGxWcTE1NG1mVnFiSQ?oc=5",
+          "pubDate": "2026-09-10T11:25:18.000Z",
           "image": null,
-          "summary": "곡성군, 신혼부부 다자녀가정 보금자리 지원사업 대상자 모집 타임뉴스",
+          "summary": "광양시, ‘2026년 행복여행활동 지원사업’ 하반기 참가자 30일까지 모집 호남타임즈",
           "keywords": [
-            "곡성군",
-            "신혼부부",
-            "다자녀가정",
-            "보금자리",
-            "지원사업"
+            "광양시",
+            "2026년",
+            "행복여행활동",
+            "지원사업",
+            "하반기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 - 경기탑뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Mk5QZ3J3U0hTRkk5T1RkZ0YtSXJoUjE5Mmw3OHRrNHdRTU9iZkVPSE5sMkFkTTJzYy1mWVQ0XzJlVFpmbVFPelM1ZWpTWkNnMl81Q3JPTUJQZEw1MVlUU0ZkNEtHZw?oc=5",
-          "pubDate": "2026-09-10T03:10:38.000Z",
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+          "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
-          "summary": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 경기탑뉴스",
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
           "keywords": [
-            "포천시",
-            "외국인근로자",
-            "소형건설기계",
-            "조종교육",
-            "지원사업"
+            "공고",
+            "2026년",
+            "GHKOL",
+            "해외진출",
+            "실무특화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T10:11:06.386Z",
+      "fetchedAt": "2026-09-10T12:13:50.169Z",
       "error": null
     }
   },
@@ -1165,28 +1166,28 @@
       "label": "Special Post",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "중국",
       "label": "중국",
       "count": 2,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
@@ -1214,21 +1215,21 @@
       "label": "뉴스 모음",
       "count": 4,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
+      "key": "2026년",
+      "label": "2026년",
+      "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "곡성군",
-      "label": "곡성군",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
