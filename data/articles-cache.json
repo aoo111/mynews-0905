@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T16:11:39.135Z",
+  "collectedAt": "2026-09-11T18:11:48.927Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:30.836Z",
+      "fetchedAt": "2026-09-11T18:11:36.884Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:30.906Z",
+      "fetchedAt": "2026-09-11T18:11:37.030Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:32.359Z",
+      "fetchedAt": "2026-09-11T18:11:38.006Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "pubDate": "2026-09-11T10:00:00.000Z",
+          "image": null,
+          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+          "keywords": [
+            "Engineering"
+          ],
+          "isForeign": true,
+          "titleKo": "온라인 스토리지를 신속하게 확장하여 10억 명 이상의 ChatGPT 사용자에게 서비스를 제공합니다.",
+          "summaryKo": "OpenAI가 어떻게 해비텟을 파이썬 라이브러리에서 10억 명의 ChatGPT 사용자와 초당 2200만 건의 요청을 처리하는 전 세계적으로 분산된 스토리지 플랫폼으로 진화시켰는지 알아보십시오."
+        },
         {
           "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "연방, 주, 지방 및 부족 정부를 위한 AI 액세스 및 사이버 방어 확대",
           "summaryKo": "OpenAI와 GSA는 자격을 갖춘 연방, 주, 지방 및 부족 정부에 라이선스 수수료 $ 0, 사용료 50% 할인, 사이버 방어 지원 확대 등을 제공합니다."
-        },
-        {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "pubDate": "2026-09-10T00:00:00.000Z",
-          "image": null,
-          "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "API에서 GPT ‑ Live ‑ 1로 더 자연스러운 음성 경험 구축",
-          "summaryKo": "GPT ‑ Live ‑ 1은 API에 자연스러운 전이중 음성 대화를 제공하며, 더 강력한 지침, 사용자 지정 음성 및 전화 지원을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:32.507Z",
+      "fetchedAt": "2026-09-11T18:11:40.478Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,17 +357,17 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "클로드 529 에러(과부하) 떴을 때 대처법 — 상태 페이지 확인부터 API 재시도 전략까지",
-          "link": "https://news.hada.io/topic?id=33540",
-          "pubDate": "2026-09-11T16:07:30.000Z",
+          "title": "체렌코프 복사 — 매질 속 빛보다 빠르게 이동할 때 생기는 푸른빛",
+          "link": "https://news.hada.io/topic?id=33541",
+          "pubDate": "2026-09-11T16:33:49.000Z",
           "image": null,
-          "summary": "Claude 웹·API·Claude Code에서 \"529 overloaded_error\"가 뜰 때 뭘 확인하고 어떻게 넘기는지 정리한 글 529는 내 계정 문제가 아니라 Anthropic 쪽 서버 과부하 신호. 429(내 한도 초과)와 구분하는 법부터 먼저 볼 곳: status.claude.com — 컴포넌트가 claude.ai · Console · AP",
+          "summary": "체렌코프 복사는 전자·양성자 같은 하전 입자가 특정 매질 속 빛보다 빠르게 이동할 때 발생하는 푸른빛으로, 진공에서의 광속을 넘는 현상은 아님 물속에서는 빛의 속도가 진공에서의 75% 로 줄어들지만, 일부 입자는 그만큼 느려지지 않아 물속...",
           "keywords": [
-            "클로드",
-            "529",
-            "에러(과부하)",
-            "떴을",
-            "대처법"
+            "체렌코프",
+            "복사",
+            "매질",
+            "빛보다",
+            "빠르게"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -442,7 +442,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:33.352Z",
+      "fetchedAt": "2026-09-11T18:11:41.343Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -527,7 +527,7 @@
           "summaryKo": "인터넷 영화 데이터베이스는 월드 와이드 웹 자체만큼이나 오래되었으며, 36년차에 접어들면서 중요한 업데이트를 받고 있습니다. IMDb라는 웹사이트에는 처음으로 다양한 유형의 디지털 크리에이터를 식별하는 라벨이 추가되었습니다. \"디지털 크리에이터\" 는 IMDb의 최신 전문 카테고리가 될 것이며, 이 카테고리는 40명 이상의 다른 유형의 크리에이티브 작업자를 분류합니다. 프로필이 디지털 크리에이터로 태그되면 하위 카테고리를 추가할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:33.655Z",
+      "fetchedAt": "2026-09-11T18:11:41.736Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -601,7 +601,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:33.992Z",
+      "fetchedAt": "2026-09-11T18:11:41.934Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -682,7 +682,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:34.067Z",
+      "fetchedAt": "2026-09-11T18:11:42.026Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -781,7 +781,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:36.741Z",
+      "fetchedAt": "2026-09-11T18:11:44.824Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -874,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:36.998Z",
+      "fetchedAt": "2026-09-11T18:11:45.847Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -968,7 +968,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:37.023Z",
+      "fetchedAt": "2026-09-11T18:11:45.971Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1067,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:38.727Z",
+      "fetchedAt": "2026-09-11T18:11:47.505Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1144,24 +1144,24 @@
           "summaryKo": null
         },
         {
-          "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - 내외일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOOVIzeFVxdF9yY3ZxcTNQX1QtLUtaVHRzVWQzWlhEbDZEVzNmSHdhMGdKVG56WmY0OWVsbkVIVVhjV3ZvcnpIcUNaWlJhbXo4TjNoOHVuaE1GdjVTMGsxR3F3dUdJWWh5S2Y3bXhVVQ?oc=5",
-          "pubDate": "2026-09-11T11:43:02.000Z",
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+          "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
-          "summary": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 내외일보",
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
           "keywords": [
-            "남해군",
-            "여성어업인",
-            "특화건강검진",
-            "지원사업",
-            "신청자"
+            "공고",
+            "2026년",
+            "GHKOL",
+            "해외진출",
+            "실무특화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T16:11:39.127Z",
+      "fetchedAt": "2026-09-11T18:11:48.105Z",
       "error": null
     }
   },
@@ -1181,60 +1181,60 @@
       "change": "same"
     },
     {
+      "key": "2026년",
+      "label": "2026년",
+      "count": 4,
+      "rank": 3,
+      "change": "up"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
-      "rank": 5,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
       "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "2026년",
-      "label": "2026년",
-      "count": 3,
-      "rank": 7,
       "change": "down"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
       "rank": 8,
       "change": "down"
+    },
+    {
+      "key": "공고",
+      "label": "공고",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1287,36 +1287,36 @@
       "labelKo": "AI"
     },
     {
-      "key": "product",
-      "label": "Product",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "제품"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 2,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "banking and consumer regulatory policy",
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "은행 및 소비자 규제 정책"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 2,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "시행 조치"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "추천 동영상"
     }
   ]
 }
