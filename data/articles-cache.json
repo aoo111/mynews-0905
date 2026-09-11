@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T14:11:03.727Z",
+  "collectedAt": "2026-09-11T16:11:39.135Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:49.672Z",
+      "fetchedAt": "2026-09-11T16:11:30.836Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:51.981Z",
+      "fetchedAt": "2026-09-11T16:11:30.906Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:53.313Z",
+      "fetchedAt": "2026-09-11T16:11:32.359Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "GPT ‑ Live ‑ 1은 API에 자연스러운 전이중 음성 대화를 제공하며, 더 강력한 지침, 사용자 지정 음성 및 전화 지원을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:53.511Z",
+      "fetchedAt": "2026-09-11T16:11:32.507Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "창의성이 새로운 해자다",
-          "link": "https://news.hada.io/topic?id=33534",
-          "pubDate": "2026-09-11T13:40:45.000Z",
+          "title": "클로드 529 에러(과부하) 떴을 때 대처법 — 상태 페이지 확인부터 API 재시도 전략까지",
+          "link": "https://news.hada.io/topic?id=33540",
+          "pubDate": "2026-09-11T16:07:30.000Z",
           "image": null,
-          "summary": "AI로 앱과 디자인을 쉽게 복제할 수 있게 되면서, 경쟁 우위는 참신한 결과물 하나가 아니라 독창적인 해결책을 계속 만들어내는 능력에 있음 Flash 시대의 웹은 불편하고 엉뚱했지만, 프로그래머가 아닌 사람들까지 새로운 상호작용을 실험했으며 수많은 실패작 사이에서 좋...",
+          "summary": "Claude 웹·API·Claude Code에서 \"529 overloaded_error\"가 뜰 때 뭘 확인하고 어떻게 넘기는지 정리한 글 529는 내 계정 문제가 아니라 Anthropic 쪽 서버 과부하 신호. 429(내 한도 초과)와 구분하는 법부터 먼저 볼 곳: status.claude.com — 컴포넌트가 claude.ai · Console · AP",
           "keywords": [
-            "창의성이",
-            "새로운",
-            "해자다"
+            "클로드",
+            "529",
+            "에러(과부하)",
+            "떴을",
+            "대처법"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Claude, 더 이상 미성년자는 이용할 수 없음",
-          "link": "https://news.hada.io/topic?id=33533",
-          "pubDate": "2026-09-11T13:37:45.000Z",
+          "title": "후티, 세계 해운 항로의 핵심 섬 ‘장악’",
+          "link": "https://news.hada.io/topic?id=33539",
+          "pubDate": "2026-09-11T15:35:08.000Z",
           "image": null,
-          "summary": "소비자용 Claude는 가입 시 18세 이상이라는 연령 조건을 충족하는지 확인해야 하며, 안전 시스템으로 미성년자 이용 가능성을 탐지함 18세 미만 이용 징후가 감지되면 계정이 비활성화되고, 계속 이용하려면 연령 인증을 거쳐야 함 외부 플랫폼 ...",
+          "summary": "예멘 정부 소식통과 목격자들은 이란의 지원을 받는 후티 반군이 바브엘만데브 해협의 Perim 섬을 장악했다고 전했으며, 예멘 군 관계자는 홍해 연안 전체와 추가 섬 2곳도 후티에 넘어갔다고 밝힘 이 해협은 홍해·수에즈 운하와 인도양·아시아를 연결하며, 호르무즈 해협의 통항 차...",
           "keywords": [
-            "Claude",
-            "이상",
-            "미성년자는",
-            "이용할",
-            "없음"
+            "후티",
+            "세계",
+            "해운",
+            "항로의",
+            "핵심"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenAI의 Navier-Stokes 발표에 포함된 Lean 4 형식 증명",
-          "link": "https://news.hada.io/topic?id=33532",
-          "pubDate": "2026-09-11T12:33:19.000Z",
+          "title": "Show GN: 프리랜서를 위한 업무 관리 서비스",
+          "link": "https://news.hada.io/topic?id=33538",
+          "pubDate": "2026-09-11T15:20:42.000Z",
           "image": null,
-          "summary": "OpenAI는 유체역학의 Navier-Stokes 방정식에 관한 오랜 문제의 증명을 발표하면서, 사람이 읽는 증명과 기계로 검증할 수 있는 Lean 4 형식 증명을 함께 공개함 최근 AI로 해결된 다른 수학적 추측에도 형식 증명이 함께 제공됐으며, 특히 Lean ...",
-          "keywords": [
-            "OpenAI의",
-            "Navier",
-            "Stokes",
-            "발표에",
-            "포함된"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
-          "link": "https://news.hada.io/topic?id=33531",
-          "pubDate": "2026-09-11T11:33:30.000Z",
-          "image": null,
-          "summary": "미국 군산복합체가 워싱턴 수도권에서 실리콘밸리로 빠르게 확장하며, 국방부 지출에서 대형 기술기업이 차지하는 비중이 커지고 있음 국방부 예산의 상당 부분은 여전히 전통적 무기 체계에 쓰이지만, AI 기반 시스템 도입 확대와 함께 빅테크·...",
-          "keywords": [
-            "실리콘밸리는",
-            "군산복합체를",
-            "바꾸고",
-            "있는가",
-            "(2024)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: korean-llm-v4 출시",
-          "link": "https://news.hada.io/topic?id=33530",
-          "pubDate": "2026-09-11T11:22:00.000Z",
-          "image": null,
-          "summary": "이번에 v3보다 학습을 크게 업그레이드된 Korean-llm-v4를 공개합니다 v4를 만들면서 가장 크게 바꾼 건 모델 구조보다 학습 방식입니다. 이전에는 명령어 데이터셋을 중심으로 바로 학습해서, 대화 형식은 어느 정도 따라가더라도 기본적인 한국어 문장력이나 다양한 표현을 배우기에는 한계가 있었고",
+          "summary": "안녕하세요. 프리랜서를 위한 업무관리 서비스를 만들었습니다. 처음에는 메모장같은 기록용 서비스를 만들다가 이것도 넣고 싶고, 저것도 넣고 싶고 해서 추가 하다보니 올해 초에 간단한 기능들만 만들어보자! 라는 마",
           "keywords": [
             "Show",
             "GN:",
-            "korean",
-            "llm",
-            "v4"
+            "프리랜서를",
+            "위한",
+            "업무"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "CHERIoT이 MMU 없이 강력하고 사용하기 쉬운 격리를 제공하는 방식",
+          "link": "https://news.hada.io/topic?id=33537",
+          "pubDate": "2026-09-11T15:01:12.000Z",
+          "image": null,
+          "summary": "CHERIoT이 MMU 없이 강력하고 사용하기 쉬운 격리를 제공하는 방식",
+          "keywords": [
+            "CHERIoT이",
+            "MMU",
+            "없이",
+            "강력하고",
+            "사용하기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Waymo 효과: AI가 조용히 연구 협업을 줄이는 방식",
+          "link": "https://news.hada.io/topic?id=33536",
+          "pubDate": "2026-09-11T14:41:13.000Z",
+          "image": null,
+          "summary": "사람과 소통하는 불편을 없애는 기술은 즉각적인 편익을 주지만, 그 불편 속에 있던 예상 밖의 관점과 공동 사고의 가치는 가리며 연구에서도 같은 변화가 진행되고 있음 LLM은 언제든 응답하고 설득이나 공로 배분을 요구하지 않지만, 동료가 독립적인 문제의식으...",
+          "keywords": [
+            "Waymo",
+            "효과:",
+            "AI가",
+            "조용히",
+            "연구"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:54.418Z",
+      "fetchedAt": "2026-09-11T16:11:33.352Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -525,7 +527,7 @@
           "summaryKo": "인터넷 영화 데이터베이스는 월드 와이드 웹 자체만큼이나 오래되었으며, 36년차에 접어들면서 중요한 업데이트를 받고 있습니다. IMDb라는 웹사이트에는 처음으로 다양한 유형의 디지털 크리에이터를 식별하는 라벨이 추가되었습니다. \"디지털 크리에이터\" 는 IMDb의 최신 전문 카테고리가 될 것이며, 이 카테고리는 40명 이상의 다른 유형의 크리에이티브 작업자를 분류합니다. 프로필이 디지털 크리에이터로 태그되면 하위 카테고리를 추가할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:56.565Z",
+      "fetchedAt": "2026-09-11T16:11:33.655Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -599,7 +601,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:56.820Z",
+      "fetchedAt": "2026-09-11T16:11:33.992Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -680,7 +682,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:56.933Z",
+      "fetchedAt": "2026-09-11T16:11:34.067Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -779,7 +781,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:59.584Z",
+      "fetchedAt": "2026-09-11T16:11:36.741Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -872,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:10:59.914Z",
+      "fetchedAt": "2026-09-11T16:11:36.998Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -966,7 +968,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T14:11:00.004Z",
+      "fetchedAt": "2026-09-11T16:11:37.023Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1065,7 +1067,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:11:01.485Z",
+      "fetchedAt": "2026-09-11T16:11:38.727Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1142,24 +1144,24 @@
           "summaryKo": null
         },
         {
-          "title": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 - gmitoday.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hb1VQYXFienNLQTg2RkY0azlpamJiLVBDczh5clROcnI0ZzdWQTZSMEpDT1BtRWdkVmZuT0N6LUE2OUtvR2lQZ0NRM3daLWpwNUlEV0pxc2tJTERGYi1zcmRuYnpqN0NXY2c?oc=5",
-          "pubDate": "2026-09-10T20:30:23.000Z",
+          "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - 내외일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOOVIzeFVxdF9yY3ZxcTNQX1QtLUtaVHRzVWQzWlhEbDZEVzNmSHdhMGdKVG56WmY0OWVsbkVIVVhjV3ZvcnpIcUNaWlJhbXo4TjNoOHVuaE1GdjVTMGsxR3F3dUdJWWh5S2Y3bXhVVQ?oc=5",
+          "pubDate": "2026-09-11T11:43:02.000Z",
           "image": null,
-          "summary": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 gmitoday.com",
+          "summary": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 내외일보",
           "keywords": [
-            "광양",
-            "제조",
-            "산업",
-            "AI융합",
-            "실증"
+            "남해군",
+            "여성어업인",
+            "특화건강검진",
+            "지원사업",
+            "신청자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T14:11:01.899Z",
+      "fetchedAt": "2026-09-11T16:11:39.127Z",
       "error": null
     }
   },
@@ -1183,56 +1185,56 @@
       "label": "뉴스 모음",
       "count": 4,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
       "rank": 5,
+      "change": "same"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 4,
+      "rank": 6,
       "change": "up"
     },
     {
       "key": "2026년",
       "label": "2026년",
       "count": 3,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
-      "rank": 7,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
       "rank": 8,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
       "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1289,7 +1291,7 @@
       "label": "Product",
       "count": 3,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "제품"
     },
     {
@@ -1297,7 +1299,7 @@
       "label": "Articles",
       "count": 2,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1305,7 +1307,7 @@
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "은행 및 소비자 규제 정책"
     },
     {
@@ -1313,7 +1315,7 @@
       "label": "Enforcement Actions",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "시행 조치"
     }
   ]
