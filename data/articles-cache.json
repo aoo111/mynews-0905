@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T04:11:44.475Z",
+  "collectedAt": "2026-09-11T06:13:24.547Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "열흘 만에 무역수지 104억달러 흑자… 반도체 수출 ‘폭등’ 165억달러",
+          "link": "https://www.mk.co.kr/news/economy/12150417",
+          "pubDate": "2026-09-11T05:22:14.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/rcv.YNA.20260906.PYH2026090603460006100_R.jpg",
+          "summary": "반도체 전년비 270% 넘는 랠리 석유제품·승용차 나란히 호조세 대만 수출 176.0% 늘어나 눈길 기계류 수입 2.7% 감소하며 대조관세청은 이달 1~10일 수출액이 350억달러..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "김동석 한인유권자 대표 “트럼프 하원 빼앗겨도 더 공격적”",
+          "link": "https://www.mk.co.kr/news/economy/12150396",
+          "pubDate": "2026-09-11T05:07:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.45025f261688422cb8ca17d5411a48e1_R.jpg",
+          "summary": "美 최대 한인유권자연대 대표 강연 공화당 하원 패배, 상원 승리 전망 트럼프 권력, 입법에서 행정으로 이동오는 11월 미국 중간선거에서 공화당이 하원을 민주당에 빼앗길 가능성이..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“외국인 근로자도 책으로 이웃 된다”…신한카드 560번째 ‘아름인도서관’",
+          "link": "https://www.mk.co.kr/news/economy/12150380",
+          "pubDate": "2026-09-11T04:48:36.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.15cea3512f764474a676bf18f5759e6e_R.jpg",
+          "summary": "김해외국인근로자지원센터에 560번째 개관 외국인·다문화가정 지역 정착 지원신한카드가 외국인 근로자와 다문화가정의 지역사회 정착을 돕기 위한 독서·문화공간을 마련했다. 신한카드는 경..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“투기 잡으려 대출 조였더니”…불법사금융으로 밀려나는 금융약자 [기자24시]",
           "link": "https://www.mk.co.kr/news/economy/12150342",
           "pubDate": "2026-09-11T02:44:45.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“경기 회복 흐름이라는데”…소비·물가에 중동전쟁까지, 곳곳 불안 신호",
-          "link": "https://www.mk.co.kr/news/economy/12150280",
-          "pubDate": "2026-09-11T02:09:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/rcv.NEWSIS.NEWSIS.20260906.NISI20260906_0021425463_R.jpg",
-          "summary": "정부가 한국 경제에 대해 “견조한 경기회복 흐름이 이어지고 있다”는 긍정적 진단을 유지했다. 반도체 등을 중심으로 수출이 큰 폭으로 늘고 설비투자와 고용도 개선됐다는 판단이다. 다..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "‘韓바라기’ 자처한 테네시주 부지사…“한국기업 성공 끝까지 지원” [제27회 세계지식포럼]",
-          "link": "https://www.mk.co.kr/news/economy/12150263",
-          "pubDate": "2026-09-11T01:55:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260910.f936d510dfca4515b650345ab400c482_R.jpg",
-          "summary": "“한국기업은 동반자…주정부 함께한다” 2019년부터 한국 최대 FDI 국가로 부상 효성중공업 멤피스 공장, 성공유치 사례“테네시 주(州)는 기업과 맺는 ‘장기적인’ 파트너십을 최우..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "우리금융, 전북지역 취약계층 치과 치료 돕는다",
-          "link": "https://www.mk.co.kr/news/economy/12150220",
-          "pubDate": "2026-09-11T01:22:28.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.d45a00442c8a4d5c88d0299b8d1551c5_R.jpg",
-          "summary": "취약계층 진료 확대…구강관리센터 3호점 개소우리금융그룹 우리금융미래재단이 취약계층을 위한 무료 치과 진료소 ‘우리동네 구강관리센터’ 3호점을 전북 전주에 개설했다. 이번 전주점 개..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:28.836Z",
+      "fetchedAt": "2026-09-11T06:13:16.104Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:28.927Z",
+      "fetchedAt": "2026-09-11T06:13:16.184Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,33 +189,16 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "앤트로픽, 중국 기업 '무단 증류' 폭로…\"프록시 타고 클로드 우회 복제\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215138",
-          "pubDate": "2026-09-11T12:45:24.000Z",
+          "title": "앤트로픽의 2030 경제 경고 \"AI 성장의 결과, 노동 아닌 자본으로 몰릴 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215164",
+          "pubDate": "2026-09-11T14:50:38.000Z",
           "image": null,
-          "summary": "앤트로픽은 중국 AI 기업들이 '클로드'를 무단으로 활용해 핵심 기능을 복제하는'증류(distillation)' 공격을 벌였다고 주장했다. 특히 일부 기업은 제3자 프록시 네트워크와 가짜 계정을 이용해 접근 제한을 우회했으며, 자사 AI 서비스를 이용하는 실제 고객의 요청까지 클로드로 전달해 학습 자료로 활용한 정황이 확인됐다고 밝혔다.앤트로픽은 10일(현지시간) 9월 위협 인텔리전스 보고서를 통해 지난 2월 이후 중국 본토에 기반을 둔 AI 연구소들의 무단 증류 캠페인을 탐지·차단했다고 밝혔다.이에 따르면, 이들이 노린 것은 클로",
+          "summary": "AI가 미국 경제의 미래 성장률과 고용 구조에 미칠 영향을 다각도로 분석한 정교한 시나리오 분석 모델이 공개됐다. 앤트로픽은 AI 도입 속도에 따라 GDP가 폭발적으로 증가하는 동시에 지식 노동자의 실업률이 급등하는 극단적 격차가 발생할 수 있다고 지적했다.앤트로픽 경제 연구팀은 9일(현지시간) AI 도입에 따라 2030년까지 미국 경제가 맞이할 수 있는 3가지 시나리오를 공개했다. 이는 '완만한 변화(Modest)' '상당한 변화(Substantial)' '극단적 변화(Extreme)' 등으로 구성됐다.단일한 위기론을 주장하기보다",
           "keywords": [
-            "앤트로픽",
-            "중국",
-            "기업",
-            "무단",
-            "증류"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"2조원 보상도 마다\"…스타 AI 연구원 앤드류 툴록, 앤트로픽 합류",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215133",
-          "pubDate": "2026-09-11T12:30:02.000Z",
-          "image": null,
-          "summary": "지난해 메타가 최대 15억달러(약 2조원)에 달하는 파격적인 보상 패키지를 제시하며 영입했던 스타 AI 연구원 앤드류 툴록이 이직한 지 1년도 채 되지 않아 앤트로픽으로 다시 옮긴다.비즈니스 인사이더는 9일(현지시간) 앤트로픽 대변인을 인용, 툴록이 다음 주부터 합류해 AI 모델의 학습 과정과 사용자 응답 성능을 최적화하는 추론·성능 팀에서 일할 예정이라고 보도했다. 오랜 기간 대규모 AI 모델 개발에 참여한 경험을 바탕으로 앤트로픽의 모델 효율성과 추론 성능 향상에 집중할 것으로 알려졌다.툴록은 메타에서 11년간 근무한 뒤 202",
-          "keywords": [
-            "2조원",
-            "보상도",
-            "마다",
-            "스타",
+            "앤트로픽의",
+            "2030",
+            "경제",
+            "경고",
             "AI"
           ],
           "isForeign": false,
@@ -223,58 +206,75 @@
           "summaryKo": null
         },
         {
-          "title": "\"스마트워치 없이도 수면 측정\"...비브레스트, '트랜슬립 AI' 앱 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215140",
-          "pubDate": "2026-09-11T12:21:00.000Z",
+          "title": "문샷, 홍콩 이어 상하이 스타마켓 이중 상장 타진...자금 조달 확대 박차",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215147",
+          "pubDate": "2026-09-11T14:20:59.000Z",
           "image": null,
-          "summary": "비브레스트(대표 하상우)는 AI 기반 수면 이상 측정 앱 '트랜슬립 AI'를 출시했다고 11일 밝혔다.트랜슬립 AI는 웨어러블 기기나 매트형 센서 없이 스마트폰만으로 수면 중 이상 신호를 기록·분석하는 앱이다. 스마트폰을 침대 주변에 두고 구동하면 코골이, 기침, 불규칙한 호흡 구간 등을 분석해 개선 방안을 제안하며, 주 단위 패턴 분석과 아침 컨디션 비교 기능도 제공한다.특히 코골이나 기침이 잦았던 구간은 녹음으로 다시 들을 수 있고, 수면 효율과 이상 신호별 발생 횟수·시간 등 정량 지표도 확인 가능하다. 녹음 파일은 서버로 전",
+          "summary": "문샷 AI가 자금 조달 확대와 기업 인지도 제고를 위해 홍콩과 상하이 증시에 잇따라 상장하는 방안을 검토하고 있는 것으로 알려졌다. 대규모 자금이 필요한 AI 기업들이 잇따라 기업공개(IPO)에 나서는 가운데, 문샷도 홍콩 상장을 시작으로 중국 본토 시장까지 활용하는 방안을 저울질하는 모습이다.사우스차이나모닝포스트 10일(현지시간) 정통한 소식통을 인용, 문샷이 홍콩과 상하이 증시의 이중 상장을 검토하고 있다고 보도했다.문샷은 지난 7월 투자자들과 회의를 열고 홍콩 IPO를 위한 구체적인 계획을 논의한 것으로 전해졌다. 이후 홍콩",
           "keywords": [
-            "스마트워치",
-            "없이도",
-            "수면",
-            "측정",
-            "비브레스트"
+            "문샷",
+            "홍콩",
+            "이어",
+            "상하이",
+            "스타마켓"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215128",
-          "pubDate": "2026-09-11T12:18:38.000Z",
+          "title": "나주문화재단, 국내외 작가 6명 작업실 시민에 개방",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215154",
+          "pubDate": "2026-09-11T14:00:00.000Z",
           "image": null,
-          "summary": "구글이 AI 챗봇 '제미나이'의 윈도우용 데스크톱 앱을 출시하며 웹 브라우저 중심이었던 AI 사용 경험을 PC 운영체제 안으로 확장했다. 사용자는 작업 중인 애플리케이션을 벗어나지 않고도 제미나이를 호출해 문서 작성부터 정보 확인, 이미지·영상 생성까지 다양한 작업을 수행할 수 있게 됐다.구글은 10일(현지시간) 사용자가 기존 작업 환경을 벗어나지 않고 자주 사용하는 도구와 애플리케이션에서 제미나이를 손쉽게 활용할 수 있도록 윈도우용 제미나이 데스크톱 앱을 전 세계에 공식 출시했다고 밝혔다. 앞서 지난 4월 맥OS용 제미나이 앱을",
+          "summary": "AI 생성 영상나주에서 활동 중인 국내외 예술가 6명이 작업실을 시민에게 공개한다. 완성된 작품뿐 아니라 제작 중인 작업과 스케치, 재료, 지역 조사자료 등을 직접 살펴보고 작가와 대화를 나눌 수 있다.나주문화재단은 11일 오후 2시부터 6시까지 죽림동 소통창작소에서 ‘2026 나주형 국제예술 레지던시 오픈스튜디오’를 개최한다고 밝혔다. 행사에는 제이크 솔 데이비슨, 로렌 쿨라르, 이자벨 샤퓌, 카미유 메르칸델리-박, 홍일화, 오태원 등 국내외 작가 6명이 참여한다.오픈스튜디오는 완성작 위주의 결과전시와 달리 실제 작업공간을 개방해",
           "keywords": [
-            "브라우저",
-            "벗어난",
-            "구글",
-            "제미나이",
-            "윈도우용"
+            "나주문화재단",
+            "국내외",
+            "작가",
+            "6명",
+            "작업실"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "'딥시크 V4.1 플래시' 출시...\"100만 토큰 창에 KV 캐시 75% 축소\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215131",
-          "pubDate": "2026-09-11T12:11:55.000Z",
+          "title": "오픈AI, 월가 겨냥한 '금융 특화 챗GPT' 공개...\"기업 분석부터 보고서 생성까지\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215141",
+          "pubDate": "2026-09-11T13:40:43.000Z",
           "image": null,
-          "summary": "딥시크가 장기 실행 AI 에이전트의 핵심 병목으로 꼽히는 메모리 사용량을 크게 줄인 새로운 경량 모델을 공개했다. 100만 토큰의 초대형 컨텍스트 창을 지원하면서도 KV 캐시 사용량을 전작 대비 약 4분의 1 수준으로 낮춘 것이 핵심이다.딥시크는 10일(현지시간) 새로운 아키텍처 제품군 가운데 가장 작은 모델인 '딥시크 V4.1 플래시(DeepSeek-V4.1-Flash)'를 출시했다고 밝혔다. 특히 오는 14일부터 기존 '딥시크 V4 프로' API 요청은 V4.1 플래시로 자동 라우팅된다. 경량 모델의 성능이 기존 플래그십 모델보",
+          "summary": "오픈AI가 월스트리트 투자은행과 증권사의 신입 애널리스트나 은행원들이 담당해 온 기업 조사와 재무 분석, 투자 제안서 작성 등을 자동화하는 금융 특화 AI 서비스를 공개했다. 금융 데이터에 대한 직접적인 접근과 최신 AI 모델의 추론 능력을 결합해 금융권 기업용 시장을 본격적으로 공략한다는 전략이다.오픈AI는 10일(현지시간) 금융 서비스에 특화된 기업용 제품 '금융 서비스용 챗GPT(ChatGPT for Financial Services)'를 출시했다.이 제품은 기업용 AI 업무 환경인 '챗GPT 워크(ChatGPT Work)'를",
           "keywords": [
-            "딥시크",
-            "V4",
-            "플래시",
-            "출시",
-            "100만"
+            "오픈AI",
+            "월가",
+            "겨냥한",
+            "금융",
+            "특화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "젠슨 황, 내년 70% 성장 자신감…\"우리는 칩이 아니라 생태계를 판다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215149",
+          "pubDate": "2026-09-11T13:26:56.000Z",
+          "image": null,
+          "summary": "젠슨 황 엔비디아 CEO가 내년에도 70%에 달하는 기록적인 매출 성장을 자신했다. 경쟁업체들의 거센 추격과 AI 거품론 속에서도 이러한 압도적 성장을 확신하는 핵심은 '단순 칩 제조사'에서 'AI 생태계 통제자'로 진화한 사업 구조 때문이다.테크크런치와 비즈니스 인사이더 등에 따르면, 황 CEO는 10일(현지시간) 미국 샌프란시스코에서 열린 골드만삭스 컨퍼런스에 참석해 \"전년 대비 70% 성장이 가능하다고 확신한다\"라며 시장의 우려를 일축했다. 엔비디아가 이번 회계연도를 4000억달러(약 538조원)로 마감할 경우, 70% 성장은",
+          "keywords": [
+            "젠슨",
+            "내년",
+            "70%",
+            "성장",
+            "자신감"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:30.027Z",
+      "fetchedAt": "2026-09-11T06:13:17.539Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 코덱스 하네스가 제공하는 관리형 서비스인 에이전트 API를 사용하여 클라우드 에이전트를 구축하고 실행합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:30.188Z",
+      "fetchedAt": "2026-09-11T06:13:17.680Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,19 +357,70 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "OpenAI Agents API",
+          "title": "AX 시대의 FDE는 조직에 무엇을 남길까",
+          "link": "https://news.hada.io/topic?id=33520",
+          "pubDate": "2026-09-11T05:58:11.000Z",
+          "image": null,
+          "summary": "AX 컨설턴트로 일하면서 팔란티어의 FDE 인터뷰를 읽고 든 생각을 적어봤습니다. 현장에서 해결한 문제를 제품에 쌓아간다는 이야기가 인상적이었는데요. 제 일에 대입해보니, 우리가 일을 마친 뒤 고객 조직이 스스로 할 수 있는 일은 얼마나 늘어날까 하는 질문이 남았습니다. 담당자가 반복 업무를",
+          "keywords": [
+            "AX",
+            "시대의",
+            "FDE는",
+            "조직에",
+            "무엇을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "WordPress는 누구의 것인가",
+          "link": "https://news.hada.io/article/who-owns-wordpress",
+          "pubDate": "2026-09-11T04:38:26.000Z",
+          "image": null,
+          "summary": "2026년 9월 9일 Automattic 이사회가 창업자이자 CEO인 Matt Mullenweg를 강제로 유급 휴직 처리했습니다. CFO였던 Mark Davies가 임시 CEO를 맡았고, Matt는 이사회에는 남지만 일상적인 경영에서는 물러납니다. 구체적인 이유는 공개되지 않았습니다.",
+          "keywords": [
+            "WordPress는",
+            "누구의",
+            "것인가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: tapl - Codex의 작업 이력과 기억을 관리하는 로컬 워크플로 도구",
+          "link": "https://news.hada.io/topic?id=33517",
+          "pubDate": "2026-09-11T04:17:23.000Z",
+          "image": null,
+          "summary": "대화가 길어지거나 세션이 바뀌면 이전에 어떤 결정을 했는지, 어디까지 구현했는지, 무엇을 검증했는지 다시 확인해야 합니다. TAPL은 이 과정에서 반복되는 설명과 탐색을 줄이기 위해 요청·계획·작업·발견 사항·완료 이력을 저장소의 SQLite에 기록합니다. MCP와 hook으로 Codex에 연결되며, 설치 후에는",
+          "keywords": [
+            "Show",
+            "GN:",
+            "tapl",
+            "Codex의",
+            "작업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI Agents API - Codex 기반 에이전트를 내 앱에 연결하기",
           "link": "https://news.hada.io/topic?id=33516",
           "pubDate": "2026-09-11T03:33:48.000Z",
           "image": null,
-          "summary": "관리형 Codex 하네스로 작업을 이어가는 클라우드 에이전트를 구축할 수 있으며, OpenAI가 세션·오케스트레이션·컨텍스트 압축·복구를 맡음 애플리케이션이 도구와 실행 환경을 선택하면, 에이전트는 샌드박스에서 코드 실행·파일 편집·MCP 연결·산출물 생성을 수행...",
+          "summary": "애플리케이션에서 Codex의 에이전트 실행 기능을 API로 이용할 수 있으며, OpenAI가 세션 관리, 작업 조율, 문맥 압축과 복구를 맡음 개발자가 도구와 실행 환경을 지정하면 에이전트가 코드 실행, 파일 편집, 외부 서비스 연결과 산출물 생성을 수행함 같...",
           "keywords": [
             "OpenAI",
             "Agents",
-            "API"
+            "API",
+            "Codex",
+            "기반"
           ],
-          "isForeign": true,
-          "titleKo": "OpenAI 에이전트 API",
-          "summaryKo": "관리형 Codex하네스로 작업을 이어가는 클라우드 에이전트를 구축할 수 있으며, OpenAI가 세션·오케스트레이션 ·컨텍스트 압축·복구를 맡음 애플리케이션이 도구와 실행 환경을 선택하면, 에이전트는 샌드박스에서 코드 실행·파일 편집· MCP 연결·산출물 생성을 수행..."
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         },
         {
           "title": "Google, Windows용 Gemini 앱 출시",
@@ -386,59 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Xteink X4 Pro 리뷰",
-          "link": "https://news.hada.io/topic?id=33514",
-          "pubDate": "2026-09-11T02:01:39.000Z",
-          "image": null,
-          "summary": "MagSafe로 휴대전화 뒷면에 붙이는 전자책 리더로, 전용 독서 기기를 늘 휴대할 수 있어 실제 독서량을 늘리는 데 도움이 됐음 반응성 좋은 터치스크린과 밝기·색온도를 세밀하게 조절하는 프런트라이트, 한 손 조작이 쉬운 페이지 버튼과 가벼운 무게가 장점임",
-          "keywords": [
-            "Xteink",
-            "X4",
-            "Pro",
-            "리뷰"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "21세기 교실을 위한 음악 이론 - 팝송과 악보로 배우는 무료 온라인 교재",
-          "link": "https://news.hada.io/topic?id=33513",
-          "pubDate": "2026-09-11T01:31:54.000Z",
-          "image": null,
-          "summary": "음표와 리듬 읽기부터 화성, 작곡과 현대음악까지 대학 4학기 분량의 음악 이론을 무료로 공개한 Robert Hutchinson의 영어 온라인 교재 클래식뿐 아니라 팝송, 영화음악과 뮤지컬을 예제로 사용하며, 악보에 해당하는 연주 구간을 YouTube 영상으로 연결해 실제 소...",
-          "keywords": [
-            "21세기",
-            "교실을",
-            "위한",
-            "음악",
-            "이론"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "OpenAI, 동시 청취·발화가 가능한 GPT‑Live‑1 API 출시",
-          "link": "https://news.hada.io/topic?id=33512",
-          "pubDate": "2026-09-11T01:23:08.000Z",
-          "image": null,
-          "summary": "GPT‑Live‑1 API는 듣기와 말하기를 동시에 처리하고, 복잡한 추론과 작업은 연결된 모델·도구에 위임해 백엔드 작업 중에도 대화를 이어갈 수 있음 단일 음성 모델이 입력·출력 오디오를 함께 처리하므로 음성 인식–추론–음성 합성을 연결하는 구조의 지연과 불...",
-          "keywords": [
-            "OpenAI",
-            "동시",
-            "청취",
-            "발화가",
-            "가능한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:32.719Z",
+      "fetchedAt": "2026-09-11T06:13:18.479Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -527,7 +528,7 @@
           "summaryKo": "사일로 피드와 과도한 추천으로 정의되는 시대에 수많은 논평가들은 주류가 과거의 것이라고 주장했습니다. 여름의 노래와 같은 문화적 터치스톤은 지난 10 년 동안 고착되어 있으며, 한 번 통합 된 사회가 퇴색하고있는 것처럼 보입니다. 공통점이 발밑으로 사라진 것이 걱정된다면 YouTube에서 안심할 수 있습니다. 플랫폼의 최신 문화 및 트렌드 보고서는"
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:36.437Z",
+      "fetchedAt": "2026-09-11T06:13:18.755Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -601,7 +602,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:36.669Z",
+      "fetchedAt": "2026-09-11T06:13:18.920Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -682,7 +683,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:36.752Z",
+      "fetchedAt": "2026-09-11T06:13:18.967Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -781,7 +782,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:40.520Z",
+      "fetchedAt": "2026-09-11T06:13:22.098Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -874,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:41.653Z",
+      "fetchedAt": "2026-09-11T06:13:22.312Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -968,7 +969,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:41.766Z",
+      "fetchedAt": "2026-09-11T06:13:22.337Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:44.064Z",
+      "fetchedAt": "2026-09-11T06:13:24.119Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1093,17 +1094,34 @@
           "summaryKo": null
         },
         {
-          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - mtnews.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
           "pubDate": "2026-09-11T02:39:10.000Z",
           "image": null,
-          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 mtnews.net",
           "keywords": [
             "2026년",
             "국가과학자",
             "지원사업",
             "공고",
             "리더급"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - welfarenews.net",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51RHhOcTVIdC1VS19vN0VEQ09MVm5JTzZMa2tVemltU2hjdENFTGNRVVdkell4SkRRQTNnTThPQW1mVmZkcE1scVJtSkowbzZHUGtBWUg2cFB4TzdnMTNHX1VIQXp3eElCcmF2bld3TQ?oc=5",
+          "pubDate": "2026-09-11T04:43:20.000Z",
+          "image": null,
+          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 welfarenews.net",
+          "keywords": [
+            "화순군",
+            "2026년",
+            "청년",
+            "문화복지카드",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1127,114 +1145,97 @@
           "summaryKo": null
         },
         {
-          "title": "5등급 노후경유차 조기폐차 지원사업 종료 예정 - 고성미래신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04OEVEa3g1UkVEcTlDV0V0RXRYelZ3aW9nd2RRN2JsSnJqdXowUE5TTzE0Q1dqWldwUWRlaTVyV2hGQmhZRmxwZkJSVUFnT25Rdzl4dE9FcHlnQmZ6ZnpTb001aUZHWEtK?oc=5",
-          "pubDate": "2026-09-10T19:53:44.000Z",
+          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - webeconomy.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsUzRYSUVjdGk5TEg5VkViV0htbWUwRGs0dUo1YjlGajNvaGhNamdyakdCdV9FSDlLNE1aQ3hrdjYyM3FlNkEydWlnZV9pY2x6Wjl3MmxkNndjdE5ha1hxSnd5cER4REduNGRKSV9TZndmQQ?oc=5",
+          "pubDate": "2026-09-11T05:15:04.000Z",
           "image": null,
-          "summary": "5등급 노후경유차 조기폐차 지원사업 종료 예정 고성미래신문",
+          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 webeconomy.co.kr",
           "keywords": [
-            "5등급",
-            "노후경유차",
-            "조기폐차",
-            "지원사업",
-            "종료"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - mediatoday.asia",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tcUJMZ094N2dkb3U0REVUUVB4alpQaENxcmNZSlZGMjlyaFVqdU94Nzl5VzlnTVF6d1RiRHFEY09YUGMtYTRXNVFn?oc=5",
-          "pubDate": "2026-09-10T23:45:00.000Z",
-          "image": null,
-          "summary": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 mediatoday.asia",
-          "keywords": [
-            "남해군",
-            "여성어업인",
-            "특화건강검진",
-            "지원사업",
-            "신청자"
+            "화순군",
+            "2026년",
+            "청년",
+            "문화복지카드",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T04:11:44.468Z",
+      "fetchedAt": "2026-09-11T06:13:24.538Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "경제",
+      "label": "경제",
+      "count": 6,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 6,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "중국",
-      "label": "중국",
-      "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "출시",
-      "label": "출시",
-      "count": 2,
+      "key": "2026년",
+      "label": "2026년",
+      "count": 4,
       "rank": 3,
-      "change": "new"
-    },
-    {
-      "key": "경제",
-      "label": "경제",
-      "count": 5,
-      "rank": 4,
-      "change": "same"
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "2026년",
-      "label": "2026년",
-      "count": 2,
-      "rank": 9,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "문화복지카드",
+      "label": "문화복지카드",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1259,7 +1260,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1267,7 +1268,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1275,7 +1276,7 @@
       "label": "Homepage Feature",
       "count": 4,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1283,7 +1284,7 @@
       "label": "AI",
       "count": 3,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1291,7 +1292,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1299,7 +1300,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1307,7 +1308,7 @@
       "label": "News",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
