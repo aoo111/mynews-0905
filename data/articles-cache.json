@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T02:10:44.083Z",
+  "collectedAt": "2026-09-11T04:11:44.475Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“투기 잡으려 대출 조였더니”…불법사금융으로 밀려나는 금융약자 [기자24시]",
+          "link": "https://www.mk.co.kr/news/economy/12150342",
+          "pubDate": "2026-09-11T02:44:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.dfae70a27c034f39af9169678b41aca1_R.png",
+          "summary": "요즘 어딜가나 ‘대출난’을 호소하는 사람들이 늘고 있다. 금융당국이 ‘부동산과 금융의 절연’을 목표로 빚을 내 부동산을 사려는 투기 수요를 밀어내려고 대출을 전방위로 조여온 결과다..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전",
+          "link": "https://www.mk.co.kr/news/economy/12150312",
+          "pubDate": "2026-09-11T02:28:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.ab6716d410424bdaa02c67b5041396f4_R.png",
+          "summary": "양종희·이재근·권광석 심층 인터뷰 후 최종 1인 선출 양 회장, ‘5조 클럽’ 역대 최대 실적 주주환원 높은 평가 이 부문장·권 전 행장…‘AI·신성장 동력’ 해법이 승부처 다음 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“경기 회복 흐름이라는데”…소비·물가에 중동전쟁까지, 곳곳 불안 신호",
           "link": "https://www.mk.co.kr/news/economy/12150280",
           "pubDate": "2026-09-11T02:09:40.000Z",
@@ -54,11 +80,11 @@
           "summaryKo": null
         },
         {
-          "title": "맥워터 美 테네시 부지사 “한국은 단기 아닌 장기 동반자… 韓 기업 성공 끝까지 지원”",
+          "title": "‘韓바라기’ 자처한 테네시주 부지사…“한국기업 성공 끝까지 지원” [제27회 세계지식포럼]",
           "link": "https://www.mk.co.kr/news/economy/12150263",
           "pubDate": "2026-09-11T01:55:11.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260910.f936d510dfca4515b650345ab400c482_R.jpg",
-          "summary": "예측가능성·확실성 등 친기업환경 제공 효성중공업 멤피스 공장, 성공유치 사례 맥워티 부지사 “韓, 최대 FDI 파트너”“테네시 주(州)는 기업과 맺는 ‘장기적인’ 파트너십을 최우선..",
+          "summary": "“한국기업은 동반자…주정부 함께한다” 2019년부터 한국 최대 FDI 국가로 부상 효성중공업 멤피스 공장, 성공유치 사례“테네시 주(州)는 기업과 맺는 ‘장기적인’ 파트너십을 최우..",
           "keywords": [
             "경제"
           ],
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "AI 격차가 금융격차로? “취약계층 위한 금융 안전망 필요”[제27회 세계지식포럼]",
-          "link": "https://www.mk.co.kr/news/economy/12150213",
-          "pubDate": "2026-09-11T01:17:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260910.9d64604f43e44a1ab1c62cbd24e8968b_R.jpg",
-          "summary": "AI·AGI 확산에 기술 격차 우려 김은경 “AI 격차가 금융 격차로” 취약계층 금융 안전망 구축 강조 칼런 “AI는 기회이자 동시에 위험” AI 대출 차별 막을 안전장치 필요 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서학개미 투자열기 식고, 외국인은 돌아오고…환율 더 내릴까",
-          "link": "https://www.mk.co.kr/news/economy/12150114",
-          "pubDate": "2026-09-11T00:37:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.67b2fcc83d7b4e278ab0cb936e32471e_R.png",
-          "summary": "국내 거주자가 해외주식을 사들이기 위해 내보내던 자금이 이달 들어 순유입으로 돌아섰다. 국내 주식을 팔던 외국인도 순매수로 전환해 주식자금 흐름이 모두 원·달러 환율을 끌어내리는 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:36.516Z",
+      "fetchedAt": "2026-09-11T04:11:28.836Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:36.598Z",
+      "fetchedAt": "2026-09-11T04:11:28.927Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,33 +189,33 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215118",
-          "pubDate": "2026-09-11T07:43:08.000Z",
+          "title": "앤트로픽, 중국 기업 '무단 증류' 폭로…\"프록시 타고 클로드 우회 복제\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215138",
+          "pubDate": "2026-09-11T12:45:24.000Z",
           "image": null,
-          "summary": "오픈AI가 'GPT-6 아스트라'에 대한 폭발적인 수요로 인해 서버 과부하가 발생하자 최상위 유료 요금제 신규 가입을 전격 중단했다.티보 소티오 오픈AI 제품 담당 책임자는 10일(현지시간) X를 통해 \"기존 사용자들이 최상의 경험을 누리고 아스트라 서비스를 계속 안정적으로 이용할 수 있도록 프로 플랜 구독을 일시 중단한다\"고 밝혔다.이에 따라 월 200달러(국내가 15만9000원)의 최상위 요금제인 '챗GPT 프로' 플랜에 대한 신규 구독 및 업그레이드가 일시적으로 중단된다.이번 조치는 최근 출시된 아스트라가 폭발적인 인기를 누리",
+          "summary": "앤트로픽은 중국 AI 기업들이 '클로드'를 무단으로 활용해 핵심 기능을 복제하는'증류(distillation)' 공격을 벌였다고 주장했다. 특히 일부 기업은 제3자 프록시 네트워크와 가짜 계정을 이용해 접근 제한을 우회했으며, 자사 AI 서비스를 이용하는 실제 고객의 요청까지 클로드로 전달해 학습 자료로 활용한 정황이 확인됐다고 밝혔다.앤트로픽은 10일(현지시간) 9월 위협 인텔리전스 보고서를 통해 지난 2월 이후 중국 본토에 기반을 둔 AI 연구소들의 무단 증류 캠페인을 탐지·차단했다고 밝혔다.이에 따르면, 이들이 노린 것은 클로",
           "keywords": [
-            "오픈AI",
-            "프로",
-            "요금제",
-            "신규",
-            "가입"
+            "앤트로픽",
+            "중국",
+            "기업",
+            "무단",
+            "증류"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[9월10일] 애플 새 CEO 첫 무대…“AI 시대에도 결국 아이폰이 개인 AI 허브”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215083",
-          "pubDate": "2026-09-11T07:00:00.000Z",
+          "title": "\"2조원 보상도 마다\"…스타 AI 연구원 앤드류 툴록, 앤트로픽 합류",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215133",
+          "pubDate": "2026-09-11T12:30:02.000Z",
           "image": null,
-          "summary": "존 터너스 애플 신임 CEO가 취임 후 처음 대중 앞에 섰습니다. 9일(현지시간) 애플파크에서 열린 약 90분의 신제품 행사에서 터너스가 직접 무대에 오른 시간은 약 16분으로, 오프닝과 AI 비전, 첫 폴더블 아이폰 ‘아이폰 듀오’ 공개, 클로징을 직접 맡았습니다.그가 가장 강조한 것은 의외로 새로운 AI 기기나 기능이 아니었습니다. 최근 오픈AI와 메타 등이 AI 전용 안경을 비롯한 새로운 AI 디바이스를 내놓으며 ‘스마트폰 다음의 기기’를 둘러싼 경쟁이 시작된 가운데, 터너스 CEO는 오히려 “세상 그 어떤 제품도 아이폰만큼",
+          "summary": "지난해 메타가 최대 15억달러(약 2조원)에 달하는 파격적인 보상 패키지를 제시하며 영입했던 스타 AI 연구원 앤드류 툴록이 이직한 지 1년도 채 되지 않아 앤트로픽으로 다시 옮긴다.비즈니스 인사이더는 9일(현지시간) 앤트로픽 대변인을 인용, 툴록이 다음 주부터 합류해 AI 모델의 학습 과정과 사용자 응답 성능을 최적화하는 추론·성능 팀에서 일할 예정이라고 보도했다. 오랜 기간 대규모 AI 모델 개발에 참여한 경험을 바탕으로 앤트로픽의 모델 효율성과 추론 성능 향상에 집중할 것으로 알려졌다.툴록은 메타에서 11년간 근무한 뒤 202",
           "keywords": [
-            "9월10일",
-            "애플",
-            "CEO",
-            "무대",
+            "2조원",
+            "보상도",
+            "마다",
+            "스타",
             "AI"
           ],
           "isForeign": false,
@@ -223,58 +223,58 @@
           "summaryKo": null
         },
         {
-          "title": "앤트로픽, 클로드 API 비용 절감법 공개…‘지침 부채’ 없애고 캐싱 활용",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
-          "pubDate": "2026-09-10T18:15:33.000Z",
+          "title": "\"스마트워치 없이도 수면 측정\"...비브레스트, '트랜슬립 AI' 앱 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215140",
+          "pubDate": "2026-09-11T12:21:00.000Z",
           "image": null,
-          "summary": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이 얼마인지만 볼 게 아니라, 실제 작업 하나를 제대로 성공시키는 데 총 얼마가 들었냐를 따져봐야 진짜 비용을 아낄 수 있다는 것이 핵심이다. 동일한 입력을 반복 처리하거나, 이전 모델의",
+          "summary": "비브레스트(대표 하상우)는 AI 기반 수면 이상 측정 앱 '트랜슬립 AI'를 출시했다고 11일 밝혔다.트랜슬립 AI는 웨어러블 기기나 매트형 센서 없이 스마트폰만으로 수면 중 이상 신호를 기록·분석하는 앱이다. 스마트폰을 침대 주변에 두고 구동하면 코골이, 기침, 불규칙한 호흡 구간 등을 분석해 개선 방안을 제안하며, 주 단위 패턴 분석과 아침 컨디션 비교 기능도 제공한다.특히 코골이나 기침이 잦았던 구간은 녹음으로 다시 들을 수 있고, 수면 효율과 이상 신호별 발생 횟수·시간 등 정량 지표도 확인 가능하다. 녹음 파일은 서버로 전",
           "keywords": [
-            "앤트로픽",
-            "클로드",
-            "API",
-            "비용",
-            "절감법"
+            "스마트워치",
+            "없이도",
+            "수면",
+            "측정",
+            "비브레스트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "\"초파리 뇌로 게임 돌린다\"...구글 뉴런 지도화에 엔지니어들 '이색 실험'",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215099",
-          "pubDate": "2026-09-10T17:56:19.000Z",
+          "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215128",
+          "pubDate": "2026-09-11T12:18:38.000Z",
           "image": null,
-          "summary": "AI가 인간의 뇌를 이해하기 위한 과학 연구를 넘어 생물의 신경망 자체를 디지털 환경에서 구현하는 단계로 발전하고 있다. 실제 초파리의 뇌와 신경 연결 구조를 통째로 디지털화한 연구 결과가 공개되자, 개발자들이 이를 게임 조작에 적용하는 이색적인 실험까지 잇따라 선보였다. 구글 리서치와 HHMI 자넬리아 연구캠퍼스 연구진은 7일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계 전체를 정밀하게 지도화한 신경 연결지도(커넥톰·Connectome)를 최초로 공개했다.수백만장의 2차원 이미지를 AI로 분석해 3차원 신경망 데이터로 재구성한",
+          "summary": "구글이 AI 챗봇 '제미나이'의 윈도우용 데스크톱 앱을 출시하며 웹 브라우저 중심이었던 AI 사용 경험을 PC 운영체제 안으로 확장했다. 사용자는 작업 중인 애플리케이션을 벗어나지 않고도 제미나이를 호출해 문서 작성부터 정보 확인, 이미지·영상 생성까지 다양한 작업을 수행할 수 있게 됐다.구글은 10일(현지시간) 사용자가 기존 작업 환경을 벗어나지 않고 자주 사용하는 도구와 애플리케이션에서 제미나이를 손쉽게 활용할 수 있도록 윈도우용 제미나이 데스크톱 앱을 전 세계에 공식 출시했다고 밝혔다. 앞서 지난 4월 맥OS용 제미나이 앱을",
           "keywords": [
-            "초파리",
-            "뇌로",
-            "게임",
-            "돌린다",
-            "구글"
+            "브라우저",
+            "벗어난",
+            "구글",
+            "제미나이",
+            "윈도우용"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215104",
-          "pubDate": "2026-09-10T17:43:05.000Z",
+          "title": "'딥시크 V4.1 플래시' 출시...\"100만 토큰 창에 KV 캐시 75% 축소\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215131",
+          "pubDate": "2026-09-11T12:11:55.000Z",
           "image": null,
-          "summary": "오픈AI의 '불량 AI 에이전트'들이 자체적인 외부 게시 제한을 우회해 최소 10곳 이상의 제3자 웹사이트를 비공식 통신 채널로 활용한 정황이 추가로 드러났다. 앞서 독일어 위키 사이트와 오픈소스 플랫폼 허깅페이스를 대상으로 발생한 사건에 이어 유사한 활동이 광범위하게 이뤄졌다는 분석이 나오면서, 자율형 AI 에이전트의 통제 가능성과 기업의 사고 공개 방식에 대한 우려가 커지고 있다.9일(현지시간) 로이터가 검토한 6개 독립 조사팀의 조사 결과와 자료에 따르면, 오픈AI가 배포한 AI 에이전트들은 올해 5월부터 7월 사이 최소 10",
+          "summary": "딥시크가 장기 실행 AI 에이전트의 핵심 병목으로 꼽히는 메모리 사용량을 크게 줄인 새로운 경량 모델을 공개했다. 100만 토큰의 초대형 컨텍스트 창을 지원하면서도 KV 캐시 사용량을 전작 대비 약 4분의 1 수준으로 낮춘 것이 핵심이다.딥시크는 10일(현지시간) 새로운 아키텍처 제품군 가운데 가장 작은 모델인 '딥시크 V4.1 플래시(DeepSeek-V4.1-Flash)'를 출시했다고 밝혔다. 특히 오는 14일부터 기존 '딥시크 V4 프로' API 요청은 V4.1 플래시로 자동 라우팅된다. 경량 모델의 성능이 기존 플래그십 모델보",
           "keywords": [
-            "오픈AI",
-            "불량",
-            "에이전트",
-            "외부",
-            "사이트"
+            "딥시크",
+            "V4",
+            "플래시",
+            "출시",
+            "100만"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:37.622Z",
+      "fetchedAt": "2026-09-11T04:11:30.027Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 코덱스 하네스가 제공하는 관리형 서비스인 에이전트 API를 사용하여 클라우드 에이전트를 구축하고 실행합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:37.779Z",
+      "fetchedAt": "2026-09-11T04:11:30.188Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,37 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "OpenAI Agents API",
+          "link": "https://news.hada.io/topic?id=33516",
+          "pubDate": "2026-09-11T03:33:48.000Z",
+          "image": null,
+          "summary": "관리형 Codex 하네스로 작업을 이어가는 클라우드 에이전트를 구축할 수 있으며, OpenAI가 세션·오케스트레이션·컨텍스트 압축·복구를 맡음 애플리케이션이 도구와 실행 환경을 선택하면, 에이전트는 샌드박스에서 코드 실행·파일 편집·MCP 연결·산출물 생성을 수행...",
+          "keywords": [
+            "OpenAI",
+            "Agents",
+            "API"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI 에이전트 API",
+          "summaryKo": "관리형 Codex하네스로 작업을 이어가는 클라우드 에이전트를 구축할 수 있으며, OpenAI가 세션·오케스트레이션 ·컨텍스트 압축·복구를 맡음 애플리케이션이 도구와 실행 환경을 선택하면, 에이전트는 샌드박스에서 코드 실행·파일 편집· MCP 연결·산출물 생성을 수행..."
+        },
+        {
+          "title": "Google, Windows용 Gemini 앱 출시",
+          "link": "https://news.hada.io/topic?id=33515",
+          "pubDate": "2026-09-11T02:55:02.000Z",
+          "image": null,
+          "summary": "구글이 9월 10일 Windows용 Gemini 데스크톱 앱을 출시했으며, Windows 10/11의 x64와 ARM64 환경에서 사용 가능 Alt + Space로 작업 중인 화면 위에 Gemini를 불러와 질문, 사실 확인, 문서 초안 작성 등을 요청하고 원래 작업으로 돌아갈 수 있음 Gmail...",
+          "keywords": [
+            "Google",
+            "Windows용",
+            "Gemini",
+            "출시"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Xteink X4 Pro 리뷰",
           "link": "https://news.hada.io/topic?id=33514",
@@ -405,41 +436,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "풀 리퀘스트를 부팅해서 리뷰하기",
-          "link": "https://news.hada.io/topic?id=33511",
-          "pubDate": "2026-09-11T01:16:50.000Z",
-          "image": null,
-          "summary": "trynix-preview는 PR 댓글에 브라우저 부팅 링크를 남기는 GitHub Action으로, 리뷰어가 저장소를 복제하거나 직접 빌드하지 않고 PR 빌드를 테스트할 수 있게 함 trynix.dev가 브라우저 탭에서 Linux를 부팅하고 Nix 캐시에서 PR 빌드를 가져오며...",
-          "keywords": [
-            "리퀘스트를",
-            "부팅해서",
-            "리뷰하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "피싱은 사용자 탓이 아니다(DNS 탓도 아니다)",
-          "link": "https://news.hada.io/topic?id=33510",
-          "pubDate": "2026-09-11T01:13:50.000Z",
-          "image": null,
-          "summary": "기업 로그인이 여러 외부 도메인을 거치고 회사 도메인 밖에서 사용자명·비밀번호·2FA를 요구하면, 정상 인증과 피싱을 구별하기 어려워짐 토큰 만료로 불쑥 나타나는 인증 창은 URL을 무시하는 습관을 들이게 하며, 공격자는 회사 로고와 비밀번호 입력창을 갖춘 ...",
-          "keywords": [
-            "피싱은",
-            "사용자",
-            "탓이",
-            "아니다(DNS",
-            "탓도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:38.484Z",
+      "fetchedAt": "2026-09-11T04:11:32.719Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -447,6 +446,32 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Instagram would be very sad if users could choose what content they see",
+          "link": "https://www.tubefilter.com/2026/09/10/instagram-would-be-very-sad-if-users-could-choose-what-content-they-see/",
+          "pubDate": "2026-09-11T03:19:39.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2291513520.jpg",
+          "summary": "Australia’s latest proposed social media legislation takes aim at recommendation algorithms. If passed, it will give users the freedom to choose whether they want to continue using platforms’ standard recommendation-driven/discover feeds, or switch to a reverse-chronological feed that will only show them posts from people they follow. Doesn’t sound too shabby, right? Well, there’s one […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "사용자가 어떤 콘텐츠를 볼지 선택할 수 있다면 Instagram은 매우 슬플 것입니다.",
+          "summaryKo": "호주의 최신 소셜 미디어 법안은 추천 알고리즘을 목표로 합니다. 통과되면 사용자는 플랫폼의 표준 권장 사항 기반/검색 피드를 계속 사용할지 또는 팔로우하는 사람의 게시물만 표시하는 역순적 피드로 전환할지를 선택할 수 있습니다. 너무 초라하게 들리지는 않죠? 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하세요."
+        },
+        {
+          "title": "Night just launched its own Roblox studio",
+          "link": "https://www.tubefilter.com/2026/09/10/night-just-launched-its-own-roblox-studio/",
+          "pubDate": "2026-09-11T02:41:14.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/killstreak.jpg",
+          "summary": "In 2025, Roblox paid out more than $1.5 billion to creators of games and UGC items on its platform. And Night wants a slice of that pie. Night, the Dallas-based talent management company that reps creators like Kai Cenat, Sam & Colby, Safiya Nygaard, Hasan Piker, and Unspeakable, has launched its own Roblox studio. Called […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Uncategorized"
+          ],
+          "isForeign": true,
+          "titleKo": "Night가 자체 Roblox 스튜디오를 시작했습니다.",
+          "summaryKo": "2025년, Roblox는 플랫폼의 게임 및 UGC 아이템 제작자에게 15억 $ 이상을 지급했습니다. 그리고 나이트는 그 파이 한 조각을 원합니다. Kai Cenat, Sam & Colby, Safiya Nygaard, Hasan Piker, Unspeakable과 같은 크리에이터를 대표하는 달라스 소재 인재 관리 회사인 Night는 자체 Roblox 스튜디오를 시작했습니다. […] Tubefilter를 방문하여 더 많은 멋진 이야기를 들어보세요."
+        },
         {
           "title": "Burger King wants to promote its “Whopper Guarantee,” so it enlisted Rhett and Link as taste testers (Exclusive)",
           "link": "https://www.tubefilter.com/2026/09/10/burger-king-rhett-and-link-good-mythical-morning-whopper-guarantee/",
@@ -500,40 +525,9 @@
           "isForeign": true,
           "titleKo": "유튜브에 따르면, 주류는 죽지 않았습니다. 예전과 다르게 생겼을 뿐입니다.",
           "summaryKo": "사일로 피드와 과도한 추천으로 정의되는 시대에 수많은 논평가들은 주류가 과거의 것이라고 주장했습니다. 여름의 노래와 같은 문화적 터치스톤은 지난 10 년 동안 고착되어 있으며, 한 번 통합 된 사회가 퇴색하고있는 것처럼 보입니다. 공통점이 발밑으로 사라진 것이 걱정된다면 YouTube에서 안심할 수 있습니다. 플랫폼의 최신 문화 및 트렌드 보고서는"
-        },
-        {
-          "title": "Snapchat puts the “social” in social media by helping its users make Plans",
-          "link": "https://www.tubefilter.com/2026/09/10/snapchat-irl-plans-coordinate-group-chat/",
-          "pubDate": "2026-09-10T13:31:32.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/snapchat-plans.jpg",
-          "summary": "Countless thinkpieces have been published on the homebody tendencies of Gen Z, but Snapchat believes that its principal cohort still wants to go out, so it’s helping them fill up their calendars. The app has announced Snapchat Plans, an in-app suite of features that helps turn social rumblings into actual hangouts. Put simply, Snapchat Plans is the titular […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Snapchat",
-            "group chat"
-          ],
-          "isForeign": true,
-          "titleKo": "Snapchat은 사용자가 계획을 세울 수 있도록 도와줌으로써 소셜 미디어에 \"소셜\" 을 배치합니다.",
-          "summaryKo": "Z세대의 홈바디 성향에 대해 셀 수 없이 많은 씽크피스가 발표되었지만, Snapchat은 주요 코호트가 여전히 외출을 원한다고 믿기 때문에 달력을 채우는 데 도움이 되고 있습니다. 이 앱은 사회적 울림을 실제 수다방으로 전환하는 데 도움이 되는 인앱 기능 모음인 Snapchat Plans를 발표했습니다. 간단히 말해서, Snapchat Plans는 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "MIPCOM 2026 expands creator economy programming, embraces vertical content and generative AI",
-          "link": "https://www.tubefilter.com/2026/09/09/mipcom-2026-creator-economy-programming-branded-entertainment-ai-vertical-series/",
-          "pubDate": "2026-09-09T21:51:13.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2240766275.jpg",
-          "summary": "The worlds of legacy entertainment and creator content are becoming ever more intertwined–and MIPCOM wants to be the nexus where they meet. Lucy Smith, Director of the long-running media and content trade show, describes digital content’s power as “the biggest generational shift MIPCOM has ever seen.” In 2025, MIPCOM embraced that shift by making creators […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "MIPCOM 2026은 크리에이터 경제 프로그래밍을 확장하고, 수직 콘텐츠 및 생성 AI를 수용합니다.",
-          "summaryKo": "레거시 엔터테인먼트와 크리에이터 콘텐츠의 세계는 점점 더 복잡해지고 있으며, MIPCOM은 그들이 만나는 곳이 되기를 원합니다. 루시 스미스 (Lucy Smith) 장기 미디어 및 콘텐츠 무역 박람회 디렉터는 디지털 콘텐츠의 힘을 \"MIPCOM이 경험한 가장 큰 세대적 변화\" 라고 설명합니다. \"2025년, MIPCOM은 크리에이터들이 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있도록 함으로써 이러한 변화를 받아들였습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:38.649Z",
+      "fetchedAt": "2026-09-11T04:11:36.437Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +601,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:38.838Z",
+      "fetchedAt": "2026-09-11T04:11:36.669Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +682,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:38.914Z",
+      "fetchedAt": "2026-09-11T04:11:36.752Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +781,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:41.617Z",
+      "fetchedAt": "2026-09-11T04:11:40.520Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -796,88 +790,91 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "메타, 스레드에 청소년 계정 관리 감독 기능 도입",
-          "link": "https://platum.kr/archives/294333?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%258a%25a4%25eb%25a0%2588%25eb%2593%259c%25ec%2597%2590-%25ec%25b2%25ad%25ec%2586%258c%25eb%2585%2584-%25ea%25b3%2584%25ec%25a0%2595-%25ea%25b4%2580%25eb%25a6%25ac-%25ea%25b0%2590%25eb%258f%2585-%25ea%25b8%25b0%25eb%258a%25a5-%25eb%258f%2584%25ec%259e%2585",
-          "pubDate": "2026-09-10T03:08:35.000Z",
+          "title": "해외 스타트업 38명이 들은 배달의민족 성장 과정",
+          "link": "https://platum.kr/archives/294436?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-38%25eb%25aa%2585%25ec%259d%25b4-%25eb%2593%25a4%25ec%259d%2580-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%2584%25b1%25ec%259e%25a5-%25ea%25b3%25bc%25ec%25a0%2595",
+          "pubDate": "2026-09-11T03:20:50.000Z",
           "image": null,
-          "summary": "메타가 다음 주부터 스레드에서도 부모가 자녀의 계정을 관리할 수 있게 한다. 인스타그램과 페이스북, 메신저에 적용해 온 청소년 계정의 관리 감독 기능을 텍스트 기반 서비스인 스레드로 넓히는 것이다. 자녀의 스레드 계정에 관리 감독 기능을 등록한 보호자는 가족 센터에서 하루 앱 사용 시간을 확인하고 설정할 수 있다. 오후 10시부터 오전 7시까지 적용되는 야간 수면 모드를 관리하고, 자녀를 ... 더 읽기",
+          "summary": "우아한형제들이 판교에 만든 배민스타트업스퀘어에는 푸드테크와 로봇, AI, 친환경 분야의 초기 스타트업 60여 곳이 들어와 있다. 회사가 지난해 제2판교테크노밸리에 공간을 조성하면서 일부를 스타트업과 투자·법률·네트워킹 지원 기관에 10년간 무상으로 빌려준 곳이다. 이 공간에 9월 10일 해외 스타트업 관계자 38명이 찾았다. 중소벤처기업부가 주최하고 경기창조경제혁신센터가 주관하는 ‘K-스타트업 그랜드챌린지’ 참가 기업들로, 우아한형제들은 배달의민족의 성장 과정을 공유하는 세션과 공간 투어, 질의응답을 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "메타",
-            "스레드",
-            "인스타그램",
-            "페이스북"
+            "K-스타트업 그랜드챌린지",
+            "배달의민족",
+            "배민스타트업스퀘어",
+            "우아한형제들"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "서울 AI 허브, 몬트리올 액셀러레이터와 협력… 내년 스타트업 파견 추진",
-          "link": "https://platum.kr/archives/294327?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8-ai-%25ed%2597%2588%25eb%25b8%258c-%25eb%25aa%25ac%25ed%258a%25b8%25eb%25a6%25ac%25ec%2598%25ac-%25ec%2595%25a1%25ec%2585%2580%25eb%259f%25ac%25eb%25a0%2588%25ec%259d%25b4%25ed%2584%25b0%25ec%2599%2580-%25ed%2598%2591%25eb%25a0%25a5-%25eb%2582%25b4%25eb%2585%2584-%25ec%258a%25a4",
-          "pubDate": "2026-09-10T03:03:46.000Z",
+          "title": "나가는 여행에 이어 들어오는 여행까지… 마이리얼트립, 크리에이트립 인수",
+          "link": "https://platum.kr/archives/294419?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%2598%25ea%25b0%2580%25eb%258a%2594-%25ec%2597%25ac%25ed%2596%2589%25ec%2597%2590-%25ec%259d%25b4%25ec%2596%25b4-%25eb%2593%25a4%25ec%2596%25b4%25ec%2598%25a4%25eb%258a%2594-%25ec%2597%25ac%25ed%2596%2589%25ea%25b9%258c%25ec%25a7%2580-%25eb%25a7%2588%25ec%259d%25b4%25eb%25a6%25ac%25ec%2596%25bc%25ed%258a%25b8",
+          "pubDate": "2026-09-11T02:47:44.000Z",
           "image": null,
-          "summary": "서울 AI 허브는 2023년부터 서울의 AI 스타트업을 캐나다 몬트리올의 AI 연구기관 밀라(Mila)에 보내 공동연구를 해왔다. 2024년과 2025년 각각 7개사, 올해는 6개사가 현지에서 약 15주간 연구를 수행하고 있다. 여기에 현지 고객사 발굴과 투자유치, 사업화를 붙이는 협약이 더해졌다. 서울 AI 허브는 9월 7일 서울 양재동 메인센터에서 몬트리올의 딥테크 액셀러레이터 센테크(Centech)와 업무협약을 맺었다고 밝혔다. 협약식에는 줄리앙 루케시 센테크 ... 더 읽기",
+          "summary": "마이리얼트립이 외국인의 한국 여행을 다루는 플랫폼 크리에이트립을 인수한다. 마이리얼트립은 9월 11일 이사회에서 크리에이트립 지분 인수 안건을 의결했으며 남은 절차를 거쳐 연내 자회사로 편입할 계획이라고 밝혔다. 지분 전량을 인수하며 방식은 주식교환이다. 마이리얼트립은 2024년 크리에이트립에 전략적 투자를 한 바 있다. 마이리얼트립은 한국에서 나가는 여행과 국내 여행을 주로 다뤄왔다. 이번 인수로 외국인이 한국으로 들어오는 인바운드 영역까지 사업 범위가 ... 더 읽기",
           "keywords": [
-            "Uncategorized",
-            "밀라",
-            "서울 AI 허브"
+            "투자",
+            "M&A",
+            "마이리얼트립",
+            "인수합병",
+            "크리에이트립"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "햇빛 열 막는 페인트로 중국 간다, 제이치글로벌 한·중 스타트업 챌린지 한국기업 1위",
-          "link": "https://platum.kr/archives/294326?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2596%2587%25eb%25b9%259b-%25ec%2597%25b4-%25eb%25a7%2589%25eb%258a%2594-%25ed%258e%2598%25ec%259d%25b8%25ed%258a%25b8%25eb%25a1%259c-%25ec%25a4%2591%25ea%25b5%25ad-%25ea%25b0%2584%25eb%258b%25a4-%25ec%25a0%259c%25ec%259d%25b4%25ec%25b9%2598%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c-%25ed%2595%259c%25c2%25b7",
-          "pubDate": "2026-09-10T03:00:22.000Z",
+          "title": "카자흐 데이터센터에 튀르키예 고속철, 홍콩에 모인 사업들",
+          "link": "https://platum.kr/archives/294422?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%259e%2590%25ed%259d%2590-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0%25ec%2597%2590-%25ed%258a%2580%25eb%25a5%25b4%25ed%2582%25a4%25ec%2598%2588-%25ea%25b3%25a0%25ec%2586%258d%25ec%25b2%25a0-%25ed%2599%258d%25ec%25bd%25a9%25ec%2597%2590-%25eb%25aa%25a8%25ec%259d%25b8",
+          "pubDate": "2026-09-11T02:42:37.000Z",
           "image": null,
-          "summary": "건물 표면에 발라 햇빛의 열을 반사하고 오염물질을 분해하는 페인트를 만드는 제이치글로벌이 9월 3일 중국 선전에서 열린 ‘2026 한·중 스타트업 챌린지’ 결승에서 한국 참가기업 가운데 1위에 올라 중소벤처기업부 장관상을 받았다. 이 대회는 중기부와 칭화과학기술원이 함께 열었고, 예선과 준결승을 거친 한국과 중국 스타트업 각 5곳이 결승에 진출했다. 회사의 기술은 열을 막는 차열·단열 소재와 빛을 받아 화학반응을 일으키는 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "인천창조경제혁신센터",
-            "제이치글로벌",
-            "한·중 스타트업 챌린지"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI로 만든 가상 소비자로 시장조사, 창업경진대회 AI리그 1위",
-          "link": "https://platum.kr/archives/294285?utm_source=rss&utm_medium=rss&utm_campaign=ai%25eb%25a1%259c-%25eb%25a7%258c%25eb%2593%25a0-%25ea%25b0%2580%25ec%2583%2581-%25ec%2586%258c%25eb%25b9%2584%25ec%259e%2590%25eb%25a1%259c-%25ec%258b%259c%25ec%259e%25a5%25ec%25a1%25b0%25ec%2582%25ac-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b2%25bd%25ec%25a7%2584%25eb%258c%2580%25ed%259a%258c-ai%25eb%25a6%25ac%25ea%25b7%25b8",
-          "pubDate": "2026-09-09T13:51:42.000Z",
-          "image": null,
-          "summary": "실제 소비자를 모집하는 대신 AI로 만든 가상의 소비자에게 물어 시장조사를 대신하는 인텔리시아가 올해 신설된 AI리그에서 최우수상을 받았다. 중소벤처기업부는 9개 부처가 함께 여는 창업경진대회 ‘올해의 K-스타트업’에서 중기부가 주관하는 AI리그와 혁신창업리그의 통합본선 진출 기업 32곳을 9일 공개했다. 인텔리시아는 데이블을 창업해 야놀자에 매각한 백승국 대표가 지난해 2월 세운 회사다. 실제 사람의 데이터를 바탕으로 만든 합성소비자에게 설문과 인터뷰를 수행하게 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "올해의 K-스타트업",
-            "중소벤처기업부"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "홍콩과 일대일로 국가 교역 3,230억 달러, 1년 새 17% 늘었다",
-          "link": "https://platum.kr/archives/294302?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%258d%25ec%25bd%25a9%25ea%25b3%25bc-%25ec%259d%25bc%25eb%258c%2580%25ec%259d%25bc%25eb%25a1%259c-%25ea%25b5%25ad%25ea%25b0%2580-%25ea%25b5%2590%25ec%2597%25ad-3230%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-1%25eb%2585%2584-%25ec%2583%2588-17-%25eb%258a%2598%25ec%2597%2588%25eb%258b%25a4",
-          "pubDate": "2026-09-09T13:11:47.000Z",
-          "image": null,
-          "summary": "지난해 홍콩과 일대일로 참여국의 상품 교역액이 약 3,230억 달러로 17% 가까이 늘었다. 존 리(John Lee) 홍콩 행정장관은 9월 9일 홍콩컨벤션센터에서 개막한 제11회 일대일로 서밋 연설에서 이 수치를 공개했다. 지난해 서밋에서 밝힌 2024년 교역액은 2,760억 달러였다. 일대일로 참여국 기업 약 1,500곳이 홍콩에 사무소를 두고 있다. 2022년보다 17% 늘어난 수치로, 지난해 발표 때는 1,400곳이었다. 홍콩거래소에 상장한 일대일로 ... 더 읽기",
+          "summary": "카자흐스탄은 알라타우 신도시와 데이터센터 밸리 사업을, 튀르키예는 앙카라-이스탄불 고속철도 사업을 주요 안건으로 내놨다. 제11회 일대일로 서밋이 9월 10일 이틀 일정을 마쳤다. 홍콩특별행정구 정부와 홍콩무역발전국(HKTDC)이 공동 주최했고 70여 개국에서 6,200명 넘게 참가했다. 행사 기간 일대일 상담이 800건 넘게 진행됐다. 투자 프로젝트 300여 건이 소개됐고 이들의 사업비 합계는 54억 달러를 넘는다. 성사된 금액이 아니라 소개된 사업의 규모다. ... 더 읽기",
           "keywords": [
             "글로벌",
-            "China",
             "일대일로",
             "일대일로 서밋",
             "중국",
-            "홍콩"
+            "카자흐스탄",
+            "튀르키예"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "아이가 아기상어와 대화하는 전시, 1만 개 시나리오로 안전성 검증했다",
+          "link": "https://platum.kr/archives/294418?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ec%259d%25b4%25ea%25b0%2580-%25ec%2595%2584%25ea%25b8%25b0%25ec%2583%2581%25ec%2596%25b4%25ec%2599%2580-%25eb%258c%2580%25ed%2599%2594%25ed%2595%2598%25eb%258a%2594-%25ec%25a0%2584%25ec%258b%259c-1%25eb%25a7%258c-%25ea%25b0%259c-%25ec%258b%259c%25eb%2582%2598%25eb%25a6%25ac%25ec%2598%25a4%25eb%25a1%259c",
+          "pubDate": "2026-09-11T02:16:39.000Z",
+          "image": null,
+          "summary": "아이가 말을 걸면 캐릭터가 답하는 전시에서는 어떤 대화가 오갈지 미리 다 알 수 없다. 영상은 완성된 콘텐츠를 보여주지만, AI 전시는 관람객의 말과 행동에 따라 그때그때 달라지기 때문이다. 셀렉트스타는 9월 10일 서울 동대문디자인플라자(DDP)에서 열린 ‘Try Everything 2026’에서 더핑크퐁컴퍼니와 함께 아기상어 AI 전시의 제작과 검증 과정을 발표했다. 두 회사는 현재 DDP에서 진행 중인 체험 전시 ‘아기상어 비밀 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "더핑크퐁컴퍼니",
+            "셀렉트스타",
+            "아기상어",
+            "트라이에브리싱"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[스타트업 모닝커피 1396회] 커넥틴, 사람 데이터로 건설현장 비용·공정·안전을 연결하는 ‘일용이’",
+          "link": "https://platum.kr/archives/294412?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1396%25ed%259a%258c-%25ec%25bb%25a4%25eb%2584%25a5%25ed%258b%25b4-%25ec%2582%25ac%25eb%259e%258c-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c-%25ea%25b1%25b4%25ec%2584%25a4",
+          "pubDate": "2026-09-11T02:08:54.000Z",
+          "image": null,
+          "summary": "커넥틴(대표 김태민)은 건설현장의 인력과 작업 정보를 연결해 비용·공정·안전을 함께 관리하는 운영 시스템 ‘일용이’를 개발·운영하는 기업입니다. 현장에 누가 들어왔는지를 확인하는 데서 출발해, 어느 현장에서 어떤 일을 수행했고 어떤 안전조치를 이행했는지를 한 사람의 하루 단위로 축적하는 데 초점을 맞추고 있습니다. 건설현장은 근로자와 협력업체, 공종이 수시로 달라지는 환경입니다. 현장관리자가 수기 보고나 메신저로 인원을 취합하고 본사에서 다시 정리하면, 출근 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "전화성의 스타트업 모닝커피",
+            "커넥틴"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:42.154Z",
+      "fetchedAt": "2026-09-11T04:11:41.653Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -971,7 +968,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:42.205Z",
+      "fetchedAt": "2026-09-11T04:11:41.766Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1067,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:43.604Z",
+      "fetchedAt": "2026-09-11T04:11:44.064Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1096,6 +1093,23 @@
           "summaryKo": null
         },
         {
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
+          "pubDate": "2026-09-11T02:39:10.000Z",
+          "image": null,
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
+          "keywords": [
+            "2026년",
+            "국가과학자",
+            "지원사업",
+            "공고",
+            "리더급"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 - gmitoday.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hb1VQYXFienNLQTg2RkY0azlpamJiLVBDczh5clROcnI0ZzdWQTZSMEpDT1BtRWdkVmZuT0N6LUE2OUtvR2lQZ0NRM3daLWpwNUlEV0pxc2tJTERGYi1zcmRuYnpqN0NXY2c?oc=5",
           "pubDate": "2026-09-10T20:30:23.000Z",
@@ -1107,23 +1121,6 @@
             "산업",
             "AI융합",
             "실증"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - mediatoday.asia",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tcUJMZ094N2dkb3U0REVUUVB4alpQaENxcmNZSlZGMjlyaFVqdU94Nzl5VzlnTVF6d1RiRHFEY09YUGMtYTRXNVFn?oc=5",
-          "pubDate": "2026-09-10T23:45:00.000Z",
-          "image": null,
-          "summary": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 mediatoday.asia",
-          "keywords": [
-            "남해군",
-            "여성어업인",
-            "특화건강검진",
-            "지원사업",
-            "신청자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1147,24 +1144,24 @@
           "summaryKo": null
         },
         {
-          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
-          "pubDate": "2026-09-08T21:00:00.000Z",
+          "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - mediatoday.asia",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tcUJMZ094N2dkb3U0REVUUVB4alpQaENxcmNZSlZGMjlyaFVqdU94Nzl5VzlnTVF6d1RiRHFEY09YUGMtYTRXNVFn?oc=5",
+          "pubDate": "2026-09-10T23:45:00.000Z",
           "image": null,
-          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
+          "summary": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 mediatoday.asia",
           "keywords": [
-            "공고",
-            "2026년",
-            "GHKOL",
-            "해외진출",
-            "실무특화"
+            "남해군",
+            "여성어업인",
+            "특화건강검진",
+            "지원사업",
+            "신청자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T02:10:44.076Z",
+      "fetchedAt": "2026-09-11T04:11:44.468Z",
       "error": null
     }
   },
@@ -1177,67 +1174,67 @@
       "change": "same"
     },
     {
-      "key": "인천창조경제혁신센터",
-      "label": "인천창조경제혁신센터",
+      "key": "중국",
+      "label": "중국",
       "count": 2,
       "rank": 2,
-      "change": "up"
+      "change": "new"
     },
     {
-      "key": "제이치글로벌",
-      "label": "제이치글로벌",
+      "key": "출시",
+      "label": "출시",
       "count": 2,
       "rank": 3,
-      "change": "up"
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 3,
+      "count": 4,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "2026년",
       "label": "2026년",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1258,60 +1255,60 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "homepage feature",
-      "label": "Homepage Feature",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "홈페이지 기능"
-    },
-    {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "스타트업"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 4,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 7,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
-      "key": "news",
-      "label": "News",
+      "key": "homepage feature",
+      "label": "Homepage Feature",
       "count": 4,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "뉴스"
+      "rank": 5,
+      "change": "down",
+      "labelKo": "홈페이지 기능"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
-      "rank": 9,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "AI"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "추천 동영상"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "뉴스"
     },
     {
       "key": "product",
