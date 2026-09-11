@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T12:14:03.595Z",
+  "collectedAt": "2026-09-11T14:11:03.727Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -70,7 +70,7 @@
           "title": "은행장 출신 정통 KB맨 … 세대교체로 KB 혁신 이끈다",
           "link": "https://www.mk.co.kr/news/economy/12150805",
           "pubDate": "2026-09-11T11:01:38.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/12/20260912_01160109000001_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/12/20260912_01170109000001_L00.jpg",
           "summary": "인공지능(AI) 도입 등 급변하는 금융 환경 속에서 KB금융그룹이 1966년생 지주회장을 내세우며 세대교체를 선택했다. 11일 KB금융지주 회장후보추천위원회는 이재근 KB금융지주 ..",
           "keywords": [
             "경제"
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:55.038Z",
+      "fetchedAt": "2026-09-11T14:10:49.672Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+          "pubDate": "2026-09-11T14:00:00.000Z",
+          "image": null,
+          "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+          "keywords": [
+            "Banking and Consumer Regulatory Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다.",
+          "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
+        },
         {
           "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록",
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
-        },
-        {
-          "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-          "pubDate": "2026-08-20T20:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-          "keywords": [
-            "Orders on Banking Applications"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표",
-          "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:55.132Z",
+      "fetchedAt": "2026-09-11T14:10:51.981Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:56.453Z",
+      "fetchedAt": "2026-09-11T14:10:53.313Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "GPT ‑ Live ‑ 1은 API에 자연스러운 전이중 음성 대화를 제공하며, 더 강력한 지침, 사용자 지정 음성 및 전화 지원을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:56.637Z",
+      "fetchedAt": "2026-09-11T14:10:53.511Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,55 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "창의성이 새로운 해자다",
+          "link": "https://news.hada.io/topic?id=33534",
+          "pubDate": "2026-09-11T13:40:45.000Z",
+          "image": null,
+          "summary": "AI로 앱과 디자인을 쉽게 복제할 수 있게 되면서, 경쟁 우위는 참신한 결과물 하나가 아니라 독창적인 해결책을 계속 만들어내는 능력에 있음 Flash 시대의 웹은 불편하고 엉뚱했지만, 프로그래머가 아닌 사람들까지 새로운 상호작용을 실험했으며 수많은 실패작 사이에서 좋...",
+          "keywords": [
+            "창의성이",
+            "새로운",
+            "해자다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude, 더 이상 미성년자는 이용할 수 없음",
+          "link": "https://news.hada.io/topic?id=33533",
+          "pubDate": "2026-09-11T13:37:45.000Z",
+          "image": null,
+          "summary": "소비자용 Claude는 가입 시 18세 이상이라는 연령 조건을 충족하는지 확인해야 하며, 안전 시스템으로 미성년자 이용 가능성을 탐지함 18세 미만 이용 징후가 감지되면 계정이 비활성화되고, 계속 이용하려면 연령 인증을 거쳐야 함 외부 플랫폼 ...",
+          "keywords": [
+            "Claude",
+            "이상",
+            "미성년자는",
+            "이용할",
+            "없음"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI의 Navier-Stokes 발표에 포함된 Lean 4 형식 증명",
+          "link": "https://news.hada.io/topic?id=33532",
+          "pubDate": "2026-09-11T12:33:19.000Z",
+          "image": null,
+          "summary": "OpenAI는 유체역학의 Navier-Stokes 방정식에 관한 오랜 문제의 증명을 발표하면서, 사람이 읽는 증명과 기계로 검증할 수 있는 Lean 4 형식 증명을 함께 공개함 최근 AI로 해결된 다른 수학적 추측에도 형식 증명이 함께 제공됐으며, 특히 Lean ...",
+          "keywords": [
+            "OpenAI의",
+            "Navier",
+            "Stokes",
+            "발표에",
+            "포함된"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
           "link": "https://news.hada.io/topic?id=33531",
@@ -389,59 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "GitByBit: VS Code에서 Git을 직접 쳐보며 배우는 익스텐션",
-          "link": "https://news.hada.io/topic?id=33529",
-          "pubDate": "2026-09-11T11:10:16.000Z",
-          "image": null,
-          "summary": "GitByBit은 에디터 안에서 실제 Git과 실제 터미널을 사용해 실습하며 배우는 인터랙티브 Git 코스 시뮬레이션이 아니라 내 컴퓨터에 설치된 Git을 그대로 사용하므로, 배운 명령어가 곧바로 실무 환경과 동일하게 동작함 VS Code 확장으로 제공되며 Cursor 등 다른 에디터도 지원 ...",
-          "keywords": [
-            "GitByBit:",
-            "VS",
-            "Code에서",
-            "Git을",
-            "직접"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "YAML 명세의 잘못은 아니지만…",
-          "link": "https://news.hada.io/topic?id=33528",
-          "pubDate": "2026-09-11T10:05:55.000Z",
-          "image": null,
-          "summary": "no를 불리언으로 읽는 ‘노르웨이 문제’는 YAML이 반드시 요구하는 동작이 아니며, 초기 명세 설계자들은 스칼라를 기본적으로 문자열로 처리하기를 권장했음 YAML 1.0·1.1은 암묵적 타입 결정을 애플리케이션에 맡겼고, 1.2의 권장...",
-          "keywords": [
-            "YAML",
-            "명세의",
-            "잘못은",
-            "아니지만"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Deathray - 링크 하나로 Mac 화면을 멈추게 하는 WebGPU 문제",
-          "link": "https://news.hada.io/topic?id=33527",
-          "pubDate": "2026-09-11T09:33:28.000Z",
-          "image": null,
-          "summary": "웹페이지의 WebGPU 코드가 브라우저 탭뿐 아니라 Mac의 데스크톱 화면까지 멈추게 하는 문제로, 링크를 여는 것만으로 발생하며 재시작이 필요함 macOS Tahoe를 실행하는 M 시리즈 MacBook에서 Chrome, Firefox, Safari 모두 재현됐으며, 다른 Mac의 영향 여부는 확...",
-          "keywords": [
-            "Deathray",
-            "링크",
-            "하나로",
-            "Mac",
-            "화면을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:57.517Z",
+      "fetchedAt": "2026-09-11T14:10:54.418Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,6 +448,20 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "“Best-in-class humans powered by best-in-class technology”: Viral Nation’s SocialAI is the data engine driving its “flywheel” of operations",
+          "link": "https://www.tubefilter.com/2026/09/11/viral-nation-socialai-digital-content-creator-talent-data-marketing/",
+          "pubDate": "2026-09-11T14:06:04.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/nasa-Q1p7bh3SHj8-unsplash-scaled.jpg",
+          "summary": "Viral Nation is not about the vibes. In an era where seemingly every company is adding generative AI to their business models, Viral Nation says it’s doing the same thing it’s been doing for years: using machine learning to put data into practice. Earlier this year, we wrote about SocialAI, which CCO Nicholas Spiro described […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature",
+            "viral nation"
+          ],
+          "isForeign": true,
+          "titleKo": "\"동급 최고의 기술로 구동되는 동급 최고의 인간\": Viral Nation의 SocialAI는 운영의 \"플라이휠\" 을 구동하는 데이터 엔진입니다.",
+          "summaryKo": "바이럴 네이션은 분위기에 관한 것이 아닙니다. 모든 회사가 비즈니스 모델에 생성형 AI를 추가하고 있는 것처럼 보이는 시대에 Viral Nation은 수년 동안 해왔던 것과 동일한 일을 하고 있다고 말합니다. 바로 머신 러닝을 사용하여 데이터를 실행에 옮기는 것입니다. 올해 초, 우리는 CCO 니콜라스 스피로 (Nicholas Spiro) 가 설명한 SocialAI에 대해 썼습니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
+        },
         {
           "title": "Instagram would be very sad if users could choose what content they see",
           "link": "https://www.tubefilter.com/2026/09/10/instagram-would-be-very-sad-if-users-could-choose-what-content-they-see/",
@@ -510,27 +523,9 @@
           "isForeign": true,
           "titleKo": "IMDb의 \"디지털 크리에이터\" 라벨을 통해 아티스트는 \"한 곳에서 모든 작업 범위를 표현\" 할 수 있습니다.",
           "summaryKo": "인터넷 영화 데이터베이스는 월드 와이드 웹 자체만큼이나 오래되었으며, 36년차에 접어들면서 중요한 업데이트를 받고 있습니다. IMDb라는 웹사이트에는 처음으로 다양한 유형의 디지털 크리에이터를 식별하는 라벨이 추가되었습니다. \"디지털 크리에이터\" 는 IMDb의 최신 전문 카테고리가 될 것이며, 이 카테고리는 40명 이상의 다른 유형의 크리에이티브 작업자를 분류합니다. 프로필이 디지털 크리에이터로 태그되면 하위 카테고리를 추가할 수 있습니다."
-        },
-        {
-          "title": "According to YouTube, the mainstream isn’t dead. It just looks different than it used to.",
-          "link": "https://www.tubefilter.com/2026/09/10/youtube-culture-and-trends-report-mainstream-not-dead/",
-          "pubDate": "2026-09-10T20:49:38.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-culture-trends-report.jpg",
-          "summary": "In an era defined by siloed feeds and hyperspecific recommendations, numerous commentators have argued that the mainstream is a thing of the past. Cultural touchstones like the song of the summer are stuck in the previous decade, and the monoculture that once united society appears to be fading. If you're worried that common ground has disappeared beneath your feet, YouTube is here to offer some reassurance. The platform's latest Culture and Trends Report is an examination of the mainstream as i",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube",
-            "backrooms"
-          ],
-          "isForeign": true,
-          "titleKo": "유튜브에 따르면, 주류는 죽지 않았습니다. 예전과 다르게 생겼을 뿐입니다.",
-          "summaryKo": "사일로 피드와 과도한 추천으로 정의되는 시대에 수많은 논평가들은 주류가 과거의 것이라고 주장했습니다. 여름의 노래와 같은 문화적 터치스톤은 지난 10 년 동안 고착되어 있으며, 한 번 통합 된 사회가 퇴색하고있는 것처럼 보입니다. 공통점이 발밑으로 사라진 것이 걱정된다면 YouTube에서 안심할 수 있습니다. 플랫폼의 최신 문화 및 트렌드 보고서는"
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:57.828Z",
+      "fetchedAt": "2026-09-11T14:10:56.565Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +599,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:58.000Z",
+      "fetchedAt": "2026-09-11T14:10:56.820Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +680,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T12:13:58.052Z",
+      "fetchedAt": "2026-09-11T14:10:56.933Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -784,7 +779,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:14:01.266Z",
+      "fetchedAt": "2026-09-11T14:10:59.584Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +872,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:14:01.535Z",
+      "fetchedAt": "2026-09-11T14:10:59.914Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -971,7 +966,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T12:14:01.583Z",
+      "fetchedAt": "2026-09-11T14:11:00.004Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1065,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:14:03.143Z",
+      "fetchedAt": "2026-09-11T14:11:01.485Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1113,6 +1108,23 @@
           "summaryKo": null
         },
         {
+          "title": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlUQlFfdlNLNkQ2RWo1ME9lZEc5OGJRYzQyUk5EX2xaV2NjX2VrV0dBWUJYbkZleWs5M0ZnN3hJWVF3QU1pYW9xaU13QnpPVEYydGdkdlNBRjZsVVc0V2padnIteXZGRzlmQ0RPZTZWLTJuc05XaWJjT1kxX3oybE9Ya3hja0dja0JoMEVqYVFvdUUwUXc?oc=5",
+          "pubDate": "2026-09-10T15:02:22.000Z",
+          "image": null,
+          "summary": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 경기도청",
+          "keywords": [
+            "「2025년",
+            "광릉숲",
+            "생물권보전지역",
+            "주민참여",
+            "지원사업」"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 > 뉴스 - 더코리아",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hd2FLT0hoZzJ5SFBZY1BLN01OSTRxZTd1bXBVcGQxeC0xUG9wZGtreVhHYWxaaFc1dHVlNTVHRS13S25VUGRxM3FVUDNmQlBCN1llUEV3VTFfY1NrdkU5QmtxSTBMdV9NSTRtSE5BUzM?oc=5",
           "pubDate": "2026-09-11T05:37:00.000Z",
@@ -1145,26 +1157,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
-          "pubDate": "2026-09-08T21:00:00.000Z",
-          "image": null,
-          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
-          "keywords": [
-            "공고",
-            "2026년",
-            "GHKOL",
-            "해외진출",
-            "실무특화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T12:14:03.586Z",
+      "fetchedAt": "2026-09-11T14:11:01.899Z",
       "error": null
     }
   },
@@ -1184,30 +1179,30 @@
       "change": "same"
     },
     {
-      "key": "2026년",
-      "label": "2026년",
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
       "count": 4,
       "rank": 3,
       "change": "up"
     },
     {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
-      "rank": 4,
-      "change": "down"
-    },
-    {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "2026년",
+      "label": "2026년",
+      "count": 3,
       "rank": 6,
       "change": "down"
     },
@@ -1226,18 +1221,18 @@
       "change": "same"
     },
     {
-      "key": "공고",
-      "label": "공고",
-      "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1290,36 +1285,36 @@
       "labelKo": "AI"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "뉴스"
-    },
-    {
       "key": "product",
       "label": "Product",
       "count": 3,
-      "rank": 10,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "제품"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 2,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "기사"
+    },
+    {
+      "key": "banking and consumer regulatory policy",
+      "label": "Banking and Consumer Regulatory Policy",
+      "count": 2,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "은행 및 소비자 규제 정책"
+    },
+    {
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "시행 조치"
     }
   ]
 }
