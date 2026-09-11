@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T06:13:24.547Z",
+  "collectedAt": "2026-09-11T08:11:35.044Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "국민연금, AI로 환율 분석한다…LG AI연구원과 MOU",
+          "link": "https://www.mk.co.kr/news/economy/12150469",
+          "pubDate": "2026-09-11T08:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/rcv.YNA.20260911.PYH2026091102830001300_R.jpg",
+          "summary": "포트폴리오 절반이 해외자산인 국민연금 환율 분석 AI 모델 개발해 기금운용에 활용국민연금공단이 LG와 협력해 인공지능(AI)으로 환율을 분석할 수 있는 시스템을 공동 개발한다. 1..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "162조원 미래대응기금 ‘쌈짓돈’ 막으려면 ··· KDI “미래세대 몫은 장기로 묶어라”",
+          "link": "https://www.mk.co.kr/news/economy/12150539",
+          "pubDate": "2026-09-11T07:20:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.0dda013d45fa4f1eb8d219f5b6adbdb8_R.png",
+          "summary": "KDI·경인사연 미래대응기금 토론회 아일랜드 참고해 장단기 기금 분리 미래 몫은 2040년까지 인출 막아야 KDI “아일랜드 사례 본받아야”정부가 추진하는 미래대응기금이 실제 미래..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "與, “국민연금, ‘주가누르기’ 방지 위해 스튜어드십코드 이행평가 강화해야”",
+          "link": "https://www.mk.co.kr/news/economy/12150500",
+          "pubDate": "2026-09-11T06:44:02.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/rcv.NEWS1.NEWS1.20260911.2026-09-11T102509_1008100859_POLITICS_I_R.jpg",
+          "summary": "민주당 K자본시장특위 토론회서 저평가기업 가치 제고 방안 모색 “스튜어드십코드 적극 이행 위해 새로운 질적 평가체계 마련 필요”더불어민주당 K-자본시장특별위원회가 저평가된 기업과 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "열흘 만에 무역수지 104억달러 흑자… 반도체 수출 ‘폭등’ 165억달러",
           "link": "https://www.mk.co.kr/news/economy/12150417",
           "pubDate": "2026-09-11T05:22:14.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“외국인 근로자도 책으로 이웃 된다”…신한카드 560번째 ‘아름인도서관’",
-          "link": "https://www.mk.co.kr/news/economy/12150380",
-          "pubDate": "2026-09-11T04:48:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.15cea3512f764474a676bf18f5759e6e_R.jpg",
-          "summary": "김해외국인근로자지원센터에 560번째 개관 외국인·다문화가정 지역 정착 지원신한카드가 외국인 근로자와 다문화가정의 지역사회 정착을 돕기 위한 독서·문화공간을 마련했다. 신한카드는 경..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“투기 잡으려 대출 조였더니”…불법사금융으로 밀려나는 금융약자 [기자24시]",
-          "link": "https://www.mk.co.kr/news/economy/12150342",
-          "pubDate": "2026-09-11T02:44:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.dfae70a27c034f39af9169678b41aca1_R.png",
-          "summary": "요즘 어딜가나 ‘대출난’을 호소하는 사람들이 늘고 있다. 금융당국이 ‘부동산과 금융의 절연’을 목표로 빚을 내 부동산을 사려는 투기 수요를 밀어내려고 대출을 전방위로 조여온 결과다..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전",
-          "link": "https://www.mk.co.kr/news/economy/12150312",
-          "pubDate": "2026-09-11T02:28:09.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.ab6716d410424bdaa02c67b5041396f4_R.png",
-          "summary": "양종희·이재근·권광석 심층 인터뷰 후 최종 1인 선출 양 회장, ‘5조 클럽’ 역대 최대 실적 주주환원 높은 평가 이 부문장·권 전 행장…‘AI·신성장 동력’ 해법이 승부처 다음 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:16.104Z",
+      "fetchedAt": "2026-09-11T08:11:23.664Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:16.184Z",
+      "fetchedAt": "2026-09-11T08:11:23.714Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "앤트로픽의 2030 경제 경고 \"AI 성장의 결과, 노동 아닌 자본으로 몰릴 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215164",
-          "pubDate": "2026-09-11T14:50:38.000Z",
+          "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215156",
+          "pubDate": "2026-09-11T16:54:40.000Z",
           "image": null,
-          "summary": "AI가 미국 경제의 미래 성장률과 고용 구조에 미칠 영향을 다각도로 분석한 정교한 시나리오 분석 모델이 공개됐다. 앤트로픽은 AI 도입 속도에 따라 GDP가 폭발적으로 증가하는 동시에 지식 노동자의 실업률이 급등하는 극단적 격차가 발생할 수 있다고 지적했다.앤트로픽 경제 연구팀은 9일(현지시간) AI 도입에 따라 2030년까지 미국 경제가 맞이할 수 있는 3가지 시나리오를 공개했다. 이는 '완만한 변화(Modest)' '상당한 변화(Substantial)' '극단적 변화(Extreme)' 등으로 구성됐다.단일한 위기론을 주장하기보다",
+          "summary": "미국 정치권에서 AI의 급격한 발전에 따른 실존적 위협을 경고하며 강력한 규제와 안전장치 마련을 촉구하는 목소리가 커지고 있다. AI 개발사 내부 연구원들조차 10년 내 인류 멸종 가능성을 언급하는 등 경고음이 잇따르자, 여야를 막론하고 연방 차원의 법안 제정과 감독 기관 신설 움직임이 본격화하는 양상이다.10일(현지시간) 로이터 등에 따르면, 민주·공화 양당 의원들은 AI가 초래할 재앙적 위험에 대응하기 위해 초당적 입법에 속도를 내고 있다.버니 샌더스 상원의원과 그레그 카사르 하원의원은 인공 초지능의 개발을 금지하고 이를 전담",
           "keywords": [
-            "앤트로픽의",
-            "2030",
-            "경제",
-            "경고",
-            "AI"
+            "미국",
+            "정치권",
+            "AI",
+            "규제",
+            "법안"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "문샷, 홍콩 이어 상하이 스타마켓 이중 상장 타진...자금 조달 확대 박차",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215147",
-          "pubDate": "2026-09-11T14:20:59.000Z",
+          "title": "퓨리오사AI, 싱가포르 법인 설립...APAC 시장 공략 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215174",
+          "pubDate": "2026-09-11T16:52:46.000Z",
           "image": null,
-          "summary": "문샷 AI가 자금 조달 확대와 기업 인지도 제고를 위해 홍콩과 상하이 증시에 잇따라 상장하는 방안을 검토하고 있는 것으로 알려졌다. 대규모 자금이 필요한 AI 기업들이 잇따라 기업공개(IPO)에 나서는 가운데, 문샷도 홍콩 상장을 시작으로 중국 본토 시장까지 활용하는 방안을 저울질하는 모습이다.사우스차이나모닝포스트 10일(현지시간) 정통한 소식통을 인용, 문샷이 홍콩과 상하이 증시의 이중 상장을 검토하고 있다고 보도했다.문샷은 지난 7월 투자자들과 회의를 열고 홍콩 IPO를 위한 구체적인 계획을 논의한 것으로 전해졌다. 이후 홍콩",
+          "summary": "퓨리오사AI(대표 백준호)는 싱가포르 현지 법인을 설립하고, 아시아·태평양 지역 사업개발과 영업, 기술지원의 핵심 거점으로 운영한다고 11일 밝혔다.현재 서울 본사와 미국 실리콘밸리, 포르투갈 리스본에 이어 이번 거점을 통해 2세대 AI 추론 가속기 'RNGD(레니게이드)' 기반 인프라 도입을 가속화할 계획이다.싱가포르 거점은 애디슨 치 APAC 영업 부사장이 이끌며, 현지 인력을 확대해 기술 검증부터 상용 구축까지 지원할 예정이다.RNGD는 대형언어모델(LLM), 멀티모달, 에이전틱 AI 등 다양한 워크로드의 고성능·고효율 추론을",
           "keywords": [
-            "문샷",
-            "홍콩",
-            "이어",
-            "상하이",
-            "스타마켓"
+            "퓨리오사AI",
+            "싱가포르",
+            "법인",
+            "설립",
+            "APAC"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "나주문화재단, 국내외 작가 6명 작업실 시민에 개방",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215154",
-          "pubDate": "2026-09-11T14:00:00.000Z",
+          "title": "알트먼 \"첨단 AI 개발 속도 조절 검토…타 회사 동참 제안\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+          "pubDate": "2026-09-11T16:51:50.000Z",
           "image": null,
-          "summary": "AI 생성 영상나주에서 활동 중인 국내외 예술가 6명이 작업실을 시민에게 공개한다. 완성된 작품뿐 아니라 제작 중인 작업과 스케치, 재료, 지역 조사자료 등을 직접 살펴보고 작가와 대화를 나눌 수 있다.나주문화재단은 11일 오후 2시부터 6시까지 죽림동 소통창작소에서 ‘2026 나주형 국제예술 레지던시 오픈스튜디오’를 개최한다고 밝혔다. 행사에는 제이크 솔 데이비슨, 로렌 쿨라르, 이자벨 샤퓌, 카미유 메르칸델리-박, 홍일화, 오태원 등 국내외 작가 6명이 참여한다.오픈스튜디오는 완성작 위주의 결과전시와 달리 실제 작업공간을 개방해",
+          "summary": "샘 알트먼 오픈AI CEO가 사내 회의에서 최첨단 AI 개발 속도를 늦추는 방안을 검토 중이라며, 경쟁 연구소들의 자발적인 동참을 유도하고 나섰다.11일 블룸버그에 따르면, 알트먼 CEO는 최근 전 직원이 참석한 내부 회의에서 다른 AI 연구소들과 협력해 최신 모델 개발 속도를 공동으로 조절하는 방안을 모색하고 있다고 밝혔다.안전성이 충분히 확보되지 않은 상태에서 초지능 개발 경쟁이 과열되는 것에 대한 경각심이 고조되자, 선제적으로 자율 규제 흐름을 주도하겠다는 구상이다. 오픈AI는 최근 자발적인 개발 속도 조절 필요성을 지속해서",
           "keywords": [
-            "나주문화재단",
-            "국내외",
-            "작가",
-            "6명",
-            "작업실"
+            "알트먼",
+            "첨단",
+            "AI",
+            "개발",
+            "속도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 월가 겨냥한 '금융 특화 챗GPT' 공개...\"기업 분석부터 보고서 생성까지\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215141",
-          "pubDate": "2026-09-11T13:40:43.000Z",
+          "title": "앤트로픽, 4개월 협상 끝 EU에 '미소스 5' 접근 권한 제공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215148",
+          "pubDate": "2026-09-11T16:00:47.000Z",
           "image": null,
-          "summary": "오픈AI가 월스트리트 투자은행과 증권사의 신입 애널리스트나 은행원들이 담당해 온 기업 조사와 재무 분석, 투자 제안서 작성 등을 자동화하는 금융 특화 AI 서비스를 공개했다. 금융 데이터에 대한 직접적인 접근과 최신 AI 모델의 추론 능력을 결합해 금융권 기업용 시장을 본격적으로 공략한다는 전략이다.오픈AI는 10일(현지시간) 금융 서비스에 특화된 기업용 제품 '금융 서비스용 챗GPT(ChatGPT for Financial Services)'를 출시했다.이 제품은 기업용 AI 업무 환경인 '챗GPT 워크(ChatGPT Work)'를",
+          "summary": "앤트로픽이 유럽연합(EU) 사이버보안 기관에 사이버보안 모델 '미소스 5' 접근 권한을 제공했다. 이 모델은 사이버 방어 역량을 높일 수 있다는 기대와 함께 국가안보 우려도 제기돼 제한적으로 제공돼 왔다.유럽연합 집행위원회(EC)는 10일(현지시간) 앤트로픽과의 협의를 거쳐 EU 사이버보안청(ENISA)이 미소스 5에 대한 접근 권한을 부여받았다고 밝혔다. ENISA 측도 모델에 대한 접근 권한을 확보했으며, 이달부터 실제 테스트를 진행하고 있다고 확인했다.이번 조치는 EU 집행위가 앤트로픽과 미소스 5 테스트를 논의하고 있다고 처",
           "keywords": [
-            "오픈AI",
-            "월가",
-            "겨냥한",
-            "금융",
-            "특화"
+            "앤트로픽",
+            "4개월",
+            "협상",
+            "EU에",
+            "미소스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "젠슨 황, 내년 70% 성장 자신감…\"우리는 칩이 아니라 생태계를 판다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215149",
-          "pubDate": "2026-09-11T13:26:56.000Z",
+          "title": "캘리포니아, 16세 미만 소셜미디어 중독 기능·AI 챗봇 규제법 서명",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215153",
+          "pubDate": "2026-09-11T15:43:52.000Z",
           "image": null,
-          "summary": "젠슨 황 엔비디아 CEO가 내년에도 70%에 달하는 기록적인 매출 성장을 자신했다. 경쟁업체들의 거센 추격과 AI 거품론 속에서도 이러한 압도적 성장을 확신하는 핵심은 '단순 칩 제조사'에서 'AI 생태계 통제자'로 진화한 사업 구조 때문이다.테크크런치와 비즈니스 인사이더 등에 따르면, 황 CEO는 10일(현지시간) 미국 샌프란시스코에서 열린 골드만삭스 컨퍼런스에 참석해 \"전년 대비 70% 성장이 가능하다고 확신한다\"라며 시장의 우려를 일축했다. 엔비디아가 이번 회계연도를 4000억달러(약 538조원)로 마감할 경우, 70% 성장은",
+          "summary": "미국 캘리포니아주가 미성년자의 소셜미디어와 AI 챗봇 이용을 규제하는 강력한 온라인 안전 법안을 마련했다. 소셜미디어의 중독성 기능을 제한하고 AI 챗봇이 인간이 아닌 AI임을 고지하도록 하는 등 아동·청소년을 겨냥한 디지털 안전장치를 대폭 강화하면서 미국 내 온라인 규제의 새로운 기준을 제시했다는 평가가 나온다.개빈 뉴섬 캘리포니아 주지사는 10일(현지시간) 미성년자 온라인 안전과 디지털 개인정보 보호 등을 강화하는 13개 법안에 서명했다.뉴섬 주지사는 강력한 알고리즘으로부터 부모 혼자 자녀를 보호하기는 어렵다며 법안 서명을 두고",
           "keywords": [
-            "젠슨",
-            "내년",
-            "70%",
-            "성장",
-            "자신감"
+            "캘리포니아",
+            "16세",
+            "미만",
+            "소셜미디어",
+            "중독"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:17.539Z",
+      "fetchedAt": "2026-09-11T08:11:24.808Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 코덱스 하네스가 제공하는 관리형 서비스인 에이전트 API를 사용하여 클라우드 에이전트를 구축하고 실행합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:17.680Z",
+      "fetchedAt": "2026-09-11T08:11:24.954Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Forgejo 16.0.3 이하의 심각한 원격 코드 실행(RCE) 취약점",
+          "link": "https://news.hada.io/topic?id=33523",
+          "pubDate": "2026-09-11T07:33:32.000Z",
+          "image": null,
+          "summary": "악성 템플릿 저장소로 Forgejo 호스트의 임의 데이터를 읽거나 프로세스를 실행할 수 있는 심각한 RCE 취약점이 16.0.4에서 수정됨 저장소 생성 중 변수 치환으로 재생성된 .git 폴더를 Git 초기화가 그대로 사용하는 문제였으며, 이...",
+          "keywords": [
+            "Forgejo",
+            "16",
+            "이하의",
+            "심각한",
+            "원격"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Google, 핀란드 원자력발전소 한 곳의 생산 전력 최대 절반 구매 예정",
+          "link": "https://news.hada.io/topic?id=33521",
+          "pubDate": "2026-09-11T06:32:17.000Z",
+          "image": null,
+          "summary": "Google이 핀란드 AI 인프라에 130억 유로를 투자해 데이터센터 3곳을 신설하고 기존 시설을 확장하며, 전력 확보를 위한 에너지 사업도 지원함 핀란드 전력회사 Fortum과 22년 계약을 맺고 Loviisa 원자력발전소 생산 전력의 최대 50% 를 구매하기...",
+          "keywords": [
+            "Google",
+            "핀란드",
+            "원자력발전소",
+            "곳의",
+            "생산"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AX 시대의 FDE는 조직에 무엇을 남길까",
           "link": "https://news.hada.io/topic?id=33520",
@@ -404,42 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "OpenAI Agents API - Codex 기반 에이전트를 내 앱에 연결하기",
-          "link": "https://news.hada.io/topic?id=33516",
-          "pubDate": "2026-09-11T03:33:48.000Z",
-          "image": null,
-          "summary": "애플리케이션에서 Codex의 에이전트 실행 기능을 API로 이용할 수 있으며, OpenAI가 세션 관리, 작업 조율, 문맥 압축과 복구를 맡음 개발자가 도구와 실행 환경을 지정하면 에이전트가 코드 실행, 파일 편집, 외부 서비스 연결과 산출물 생성을 수행함 같...",
-          "keywords": [
-            "OpenAI",
-            "Agents",
-            "API",
-            "Codex",
-            "기반"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Google, Windows용 Gemini 앱 출시",
-          "link": "https://news.hada.io/topic?id=33515",
-          "pubDate": "2026-09-11T02:55:02.000Z",
-          "image": null,
-          "summary": "구글이 9월 10일 Windows용 Gemini 데스크톱 앱을 출시했으며, Windows 10/11의 x64와 ARM64 환경에서 사용 가능 Alt + Space로 작업 중인 화면 위에 Gemini를 불러와 질문, 사실 확인, 문서 초안 작성 등을 요청하고 원래 작업으로 돌아갈 수 있음 Gmail...",
-          "keywords": [
-            "Google",
-            "Windows용",
-            "Gemini",
-            "출시"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:18.479Z",
+      "fetchedAt": "2026-09-11T08:11:25.560Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -528,7 +529,7 @@
           "summaryKo": "사일로 피드와 과도한 추천으로 정의되는 시대에 수많은 논평가들은 주류가 과거의 것이라고 주장했습니다. 여름의 노래와 같은 문화적 터치스톤은 지난 10 년 동안 고착되어 있으며, 한 번 통합 된 사회가 퇴색하고있는 것처럼 보입니다. 공통점이 발밑으로 사라진 것이 걱정된다면 YouTube에서 안심할 수 있습니다. 플랫폼의 최신 문화 및 트렌드 보고서는"
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:18.755Z",
+      "fetchedAt": "2026-09-11T08:11:25.936Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -602,7 +603,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:18.920Z",
+      "fetchedAt": "2026-09-11T08:11:26.031Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -683,7 +684,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:18.967Z",
+      "fetchedAt": "2026-09-11T08:11:26.080Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -782,7 +783,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:22.098Z",
+      "fetchedAt": "2026-09-11T08:11:30.713Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:22.312Z",
+      "fetchedAt": "2026-09-11T08:11:30.952Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -888,7 +889,7 @@
           "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
           "pubDate": "2026-09-10T21:35:00.000Z",
           "image": null,
-          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
           "keywords": [
             "AI",
             "Biotech & Health",
@@ -899,7 +900,7 @@
           ],
           "isForeign": true,
           "titleKo": "Mark Wahlberg가 TechCrunch Disrupt 2026에 참가합니다. 그는 자신의 업무가 아닌 업무에 대해 이야기하고 싶어합니다.",
-          "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰니스 및 비즈니스 구축에 대해 논의합니다."
+          "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         },
         {
           "title": "Furo’s founders left Silicon Valley — and it’s paying off",
@@ -969,7 +970,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:22.337Z",
+      "fetchedAt": "2026-09-11T08:11:32.163Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:24.119Z",
+      "fetchedAt": "2026-09-11T08:11:34.521Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,11 +1095,11 @@
           "summaryKo": null
         },
         {
-          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - mtnews.net",
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
           "pubDate": "2026-09-11T02:39:10.000Z",
           "image": null,
-          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 mtnews.net",
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
           "keywords": [
             "2026년",
             "국가과학자",
@@ -1111,11 +1112,11 @@
           "summaryKo": null
         },
         {
-          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - welfarenews.net",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51RHhOcTVIdC1VS19vN0VEQ09MVm5JTzZMa2tVemltU2hjdENFTGNRVVdkell4SkRRQTNnTThPQW1mVmZkcE1scVJtSkowbzZHUGtBWUg2cFB4TzdnMTNHX1VIQXp3eElCcmF2bld3TQ?oc=5",
-          "pubDate": "2026-09-11T04:43:20.000Z",
+          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - 호남타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVFFBS1RJaFZTZm5PNFMtTTVZUlFpNGt4RWJsdkNZRHJKM3c5RWhVSHJudGg3ZHVIZVZsN2xGYjZjQXdOQ19aNmFEUG9DQTg1aGZicUdDLURkX3JTWkpUcnlyWWp3dlo3UUlEOA?oc=5",
+          "pubDate": "2026-09-11T06:40:45.000Z",
           "image": null,
-          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 welfarenews.net",
+          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 호남타임즈",
           "keywords": [
             "화순군",
             "2026년",
@@ -1145,11 +1146,11 @@
           "summaryKo": null
         },
         {
-          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - webeconomy.co.kr",
+          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - 웹이코노미",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsUzRYSUVjdGk5TEg5VkViV0htbWUwRGs0dUo1YjlGajNvaGhNamdyakdCdV9FSDlLNE1aQ3hrdjYyM3FlNkEydWlnZV9pY2x6Wjl3MmxkNndjdE5ha1hxSnd5cER4REduNGRKSV9TZndmQQ?oc=5",
           "pubDate": "2026-09-11T05:15:04.000Z",
           "image": null,
-          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 webeconomy.co.kr",
+          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 웹이코노미",
           "keywords": [
             "화순군",
             "2026년",
@@ -1162,22 +1163,22 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T06:13:24.538Z",
+      "fetchedAt": "2026-09-11T08:11:35.036Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "경제",
-      "label": "경제",
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
       "count": 6,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 6,
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
       "rank": 2,
       "change": "down"
     },
@@ -1186,56 +1187,56 @@
       "label": "2026년",
       "count": 4,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
       "rank": 7,
-      "change": "up"
+      "change": "same"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
-      "rank": 8,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "문화복지카드",
       "label": "문화복지카드",
       "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
