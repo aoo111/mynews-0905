@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T10:10:54.676Z",
+  "collectedAt": "2026-09-11T12:14:03.595Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,50 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12150729",
-          "pubDate": "2026-09-11T09:00:15.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/12/20260912_01110109000008_L00.jpg",
-          "summary": "",
+          "title": "“주담대 금리 내리겠습니다”…0.45%P 역주행 택한 NH농협은행",
+          "link": "https://www.mk.co.kr/news/economy/12150826",
+          "pubDate": "2026-09-11T11:53:55.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20250829.f4ffa57c67514bef9383fe4588ed22e6_R.png",
+          "summary": "시장금리 오름세 속 금리 인하 실수요자 부담 낮추기 나서NH농협은행이 주택담보대출 금리를 최대 0.45%포인트 낮춘다. 시장금리 상승으로 은행권 대출금리가 전반적으로 오르는 추세지..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "젊은 층 30% 이상 “아이 원치 않아”…韓·日 닮은꼴",
+          "link": "https://www.mk.co.kr/news/economy/12150816",
+          "pubDate": "2026-09-11T11:29:54.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.92d777aea78d4dee8b8e1861d6b6e171_R.jpeg",
+          "summary": "출생 동향 기본 조사 출산 의향 역대 최저일본 젊은 층의 30% 이상이 자녀를 원하지 않는 것으로 나타났다. 11일 일본 국립사회보장·인구문제연구소가 이날 발표한 ‘출생 동향 기본..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "은행장 출신 정통 KB맨 … 세대교체로 KB 혁신 이끈다",
+          "link": "https://www.mk.co.kr/news/economy/12150805",
+          "pubDate": "2026-09-11T11:01:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/12/20260912_01160109000001_L00.jpg",
+          "summary": "인공지능(AI) 도입 등 급변하는 금융 환경 속에서 KB금융그룹이 1966년생 지주회장을 내세우며 세대교체를 선택했다. 11일 KB금융지주 회장후보추천위원회는 이재근 KB금융지주 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“매년 880만원 아끼는데 안해요?”…파이어족 다들 한다는데 [이번주 찜할 ETF]",
+          "link": "https://www.mk.co.kr/news/stock/12150792",
+          "pubDate": "2026-09-11T10:23:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.af6f62246bef4a3c85e81b8cbef77c81_R.png",
+          "summary": "레버리지에서 커버드콜로 머니무브“커버드콜 2만주 있으면 마음 놓고 은퇴하는데 왜 안하는지 모르겠어요”. 최근 대기업 IT 회사를 ‘쿨하게’ 그만둔 김모 씨(56)는 이처럼 말하면서..",
           "keywords": [
             "경제"
           ],
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 2027년 예산안·미래기금 토론회",
-          "link": "https://www.mk.co.kr/news/economy/12150726",
-          "pubDate": "2026-09-11T09:00:14.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/12/20260912_01110109000005_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "농협은행,  주담대 금리 인하 … 16일부터 최대 0.45%P 낮춰",
-          "link": "https://www.mk.co.kr/news/economy/12150723",
-          "pubDate": "2026-09-11T09:00:13.000Z",
-          "image": null,
-          "summary": "NH농협은행이 주택담보대출 금리를 최대 0.45%포인트 낮춘다. 시장금리 상승으로 은행권 대출금리가 전반적으로 오르는 추세지만 실수요자의 이자 부담을 덜기 위해 금리 인하에 나선 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한빛 2호기 가동 중단…\"계속심사 속도 내야\"",
-          "link": "https://www.mk.co.kr/news/economy/12150724",
-          "pubDate": "2026-09-11T09:00:13.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/12/20260912_01110109000004_L00.jpg",
-          "summary": "전남광주 영광에 있는 한빛 2호기가 운영허가 기간 만료에 따라 11일 가동을 중단했다. 반도체 클러스터 조성 등으로 대규모 전력 수요가 예고된 상태여서 계속운전 심사를 조속히 진행..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:44.682Z",
+      "fetchedAt": "2026-09-11T12:13:55.038Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:44.752Z",
+      "fetchedAt": "2026-09-11T12:13:55.132Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:45.607Z",
+      "fetchedAt": "2026-09-11T12:13:56.453Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "GPT ‑ Live ‑ 1은 API에 자연스러운 전이중 음성 대화를 제공하며, 더 강력한 지침, 사용자 지정 음성 및 전화 지원을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:47.990Z",
+      "fetchedAt": "2026-09-11T12:13:56.637Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "실리콘밸리는 군산복합체를 바꾸고 있는가? (2024)",
+          "link": "https://news.hada.io/topic?id=33531",
+          "pubDate": "2026-09-11T11:33:30.000Z",
+          "image": null,
+          "summary": "미국 군산복합체가 워싱턴 수도권에서 실리콘밸리로 빠르게 확장하며, 국방부 지출에서 대형 기술기업이 차지하는 비중이 커지고 있음 국방부 예산의 상당 부분은 여전히 전통적 무기 체계에 쓰이지만, AI 기반 시스템 도입 확대와 함께 빅테크·...",
+          "keywords": [
+            "실리콘밸리는",
+            "군산복합체를",
+            "바꾸고",
+            "있는가",
+            "(2024)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: korean-llm-v4 출시",
+          "link": "https://news.hada.io/topic?id=33530",
+          "pubDate": "2026-09-11T11:22:00.000Z",
+          "image": null,
+          "summary": "이번에 v3보다 학습을 크게 업그레이드된 Korean-llm-v4를 공개합니다 v4를 만들면서 가장 크게 바꾼 건 모델 구조보다 학습 방식입니다. 이전에는 명령어 데이터셋을 중심으로 바로 학습해서, 대화 형식은 어느 정도 따라가더라도 기본적인 한국어 문장력이나 다양한 표현을 배우기에는 한계가 있었고",
+          "keywords": [
+            "Show",
+            "GN:",
+            "korean",
+            "llm",
+            "v4"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "GitByBit: VS Code에서 Git을 직접 쳐보며 배우는 익스텐션",
+          "link": "https://news.hada.io/topic?id=33529",
+          "pubDate": "2026-09-11T11:10:16.000Z",
+          "image": null,
+          "summary": "GitByBit은 에디터 안에서 실제 Git과 실제 터미널을 사용해 실습하며 배우는 인터랙티브 Git 코스 시뮬레이션이 아니라 내 컴퓨터에 설치된 Git을 그대로 사용하므로, 배운 명령어가 곧바로 실무 환경과 동일하게 동작함 VS Code 확장으로 제공되며 Cursor 등 다른 에디터도 지원 ...",
+          "keywords": [
+            "GitByBit:",
+            "VS",
+            "Code에서",
+            "Git을",
+            "직접"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "YAML 명세의 잘못은 아니지만…",
           "link": "https://news.hada.io/topic?id=33528",
@@ -373,75 +424,24 @@
           "summaryKo": null
         },
         {
-          "title": "The Deathray: 신뢰할 수 없는 사이트가 Mac을 멈추게 하는 간단한 방법",
+          "title": "Deathray - 링크 하나로 Mac 화면을 멈추게 하는 WebGPU 문제",
           "link": "https://news.hada.io/topic?id=33527",
           "pubDate": "2026-09-11T09:33:28.000Z",
           "image": null,
-          "summary": "웹사이트의 WebGPU 셰이더가 Mac의 그래픽 처리를 막아, 링크 클릭만으로 재시작 전까지 데스크톱 UI를 사용할 수 없게 만들 수 있음 무한 루프를 실행하는 컴퓨트 셰이더와 같은 버퍼를 읽는 버텍스 셰이더가 GPU 작업을 막고, 그 영향이 WindowServer",
+          "summary": "웹페이지의 WebGPU 코드가 브라우저 탭뿐 아니라 Mac의 데스크톱 화면까지 멈추게 하는 문제로, 링크를 여는 것만으로 발생하며 재시작이 필요함 macOS Tahoe를 실행하는 M 시리즈 MacBook에서 Chrome, Firefox, Safari 모두 재현됐으며, 다른 Mac의 영향 여부는 확...",
           "keywords": [
-            "The",
-            "Deathray:",
-            "신뢰할",
-            "없는",
-            "사이트가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "멕시코 학생, 수초 만에 불을 끄는 음향 소화기 개발",
-          "link": "https://news.hada.io/topic?id=33525",
-          "pubDate": "2026-09-11T08:40:10.000Z",
-          "image": null,
-          "summary": "멕시코의 16세 학생 Ángela Karime Venegas Hernández가 물이나 입으로 부는 바람 없이 소리로 촛불을 끄는 학교 실험에서 출발해 Vortex Tech를 개발함 장치는 12볼트 배터리와 주파수 발생기, 초당 30회 펄스를 내는 스피커로 구성됨 ...",
-          "keywords": [
-            "멕시코",
-            "학생",
-            "수초",
-            "만에",
-            "불을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Astra로 코딩하기: 우리는 대체 왜 이러고 있는 걸까?",
-          "link": "https://news.hada.io/topic?id=33524",
-          "pubDate": "2026-09-11T08:37:10.000Z",
-          "image": null,
-          "summary": "GPT-6 Astra는 컴퓨터 사용과 이미지 이해에서 뛰어난 능력을 보이지만, 실제 소프트웨어 개발에서는 함께 일하기 더 어려워졌고, 높아진 비용에 걸맞은 성과도 체감하기 어려움 가상 스레드와 렉시컬 스코프를 갖춘 Python을 만들도록 맡겼으나, 35시간 동안 코드 7만 5,00...",
-          "keywords": [
-            "Astra로",
-            "코딩하기:",
-            "우리는",
-            "대체",
-            "이러고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Forgejo 16.0.3 이하의 심각한 원격 코드 실행(RCE) 취약점",
-          "link": "https://news.hada.io/topic?id=33523",
-          "pubDate": "2026-09-11T07:33:32.000Z",
-          "image": null,
-          "summary": "악성 템플릿 저장소로 Forgejo 호스트의 임의 데이터를 읽거나 프로세스를 실행할 수 있는 심각한 RCE 취약점이 16.0.4에서 수정됨 저장소 생성 중 변수 치환으로 재생성된 .git 폴더를 Git 초기화가 그대로 사용하는 문제였으며, 이...",
-          "keywords": [
-            "Forgejo",
-            "16",
-            "이하의",
-            "심각한",
-            "원격"
+            "Deathray",
+            "링크",
+            "하나로",
+            "Mac",
+            "화면을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:48.712Z",
+      "fetchedAt": "2026-09-11T12:13:57.517Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -530,7 +530,7 @@
           "summaryKo": "사일로 피드와 과도한 추천으로 정의되는 시대에 수많은 논평가들은 주류가 과거의 것이라고 주장했습니다. 여름의 노래와 같은 문화적 터치스톤은 지난 10 년 동안 고착되어 있으며, 한 번 통합 된 사회가 퇴색하고있는 것처럼 보입니다. 공통점이 발밑으로 사라진 것이 걱정된다면 YouTube에서 안심할 수 있습니다. 플랫폼의 최신 문화 및 트렌드 보고서는"
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:48.910Z",
+      "fetchedAt": "2026-09-11T12:13:57.828Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +604,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:49.105Z",
+      "fetchedAt": "2026-09-11T12:13:58.000Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +685,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:49.169Z",
+      "fetchedAt": "2026-09-11T12:13:58.052Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -784,7 +784,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:52.149Z",
+      "fetchedAt": "2026-09-11T12:14:01.266Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:52.382Z",
+      "fetchedAt": "2026-09-11T12:14:01.535Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -971,7 +971,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:52.523Z",
+      "fetchedAt": "2026-09-11T12:14:01.583Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:54.171Z",
+      "fetchedAt": "2026-09-11T12:14:03.143Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1096,11 +1096,11 @@
           "summaryKo": null
         },
         {
-          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - mtnews.net",
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
           "pubDate": "2026-09-11T02:39:10.000Z",
           "image": null,
-          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 mtnews.net",
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
           "keywords": [
             "2026년",
             "국가과학자",
@@ -1113,28 +1113,11 @@
           "summaryKo": null
         },
         {
-          "title": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlUQlFfdlNLNkQ2RWo1ME9lZEc5OGJRYzQyUk5EX2xaV2NjX2VrV0dBWUJYbkZleWs5M0ZnN3hJWVF3QU1pYW9xaU13QnpPVEYydGdkdlNBRjZsVVc0V2padnIteXZGRzlmQ0RPZTZWLTJuc05XaWJjT1kxX3oybE9Ya3hja0dja0JoMEVqYVFvdUUwUXc?oc=5",
-          "pubDate": "2026-09-10T15:02:22.000Z",
+          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 > 뉴스 - 더코리아",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hd2FLT0hoZzJ5SFBZY1BLN01OSTRxZTd1bXBVcGQxeC0xUG9wZGtreVhHYWxaaFc1dHVlNTVHRS13S25VUGRxM3FVUDNmQlBCN1llUEV3VTFfY1NrdkU5QmtxSTBMdV9NSTRtSE5BUzM?oc=5",
+          "pubDate": "2026-09-11T05:37:00.000Z",
           "image": null,
-          "summary": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 경기도청",
-          "keywords": [
-            "「2025년",
-            "광릉숲",
-            "생물권보전지역",
-            "주민참여",
-            "지원사업」"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 - 호남타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVFFBS1RJaFZTZm5PNFMtTTVZUlFpNGt4RWJsdkNZRHJKM3c5RWhVSHJudGg3ZHVIZVZsN2xGYjZjQXdOQ19aNmFEUG9DQTg1aGZicUdDLURkX3JTWkpUcnlyWWp3dlo3UUlEOA?oc=5",
-          "pubDate": "2026-09-11T06:40:45.000Z",
-          "image": null,
-          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 호남타임즈",
+          "summary": "화순군, 2026년 청년 문화복지카드 지원사업 3차 모집 > 뉴스 더코리아",
           "keywords": [
             "화순군",
             "2026년",
@@ -1162,9 +1145,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+          "pubDate": "2026-09-08T21:00:00.000Z",
+          "image": null,
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
+          "keywords": [
+            "공고",
+            "2026년",
+            "GHKOL",
+            "해외진출",
+            "실무특화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T10:10:54.666Z",
+      "fetchedAt": "2026-09-11T12:14:03.586Z",
       "error": null
     }
   },
@@ -1184,30 +1184,30 @@
       "change": "same"
     },
     {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
+      "key": "2026년",
+      "label": "2026년",
       "count": 4,
       "rank": 3,
       "change": "up"
     },
     {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
+      "rank": 4,
+      "change": "down"
+    },
+    {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
-      "rank": 5,
-      "change": "up"
-    },
-    {
-      "key": "2026년",
-      "label": "2026년",
-      "count": 3,
       "rank": 6,
       "change": "down"
     },
@@ -1216,28 +1216,28 @@
       "label": "AI",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "same"
+    },
+    {
+      "key": "공고",
+      "label": "공고",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
