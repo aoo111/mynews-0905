@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-10T22:09:31.230Z",
+  "collectedAt": "2026-09-11T00:14:53.362Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,7 +41,33 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "유가·국채금리 급등에 무너진 투심...美 3대증시 하락 [월가월부]",
+          "title": "“딱 한 달 가입하고 119개월 추납”…국민연금 실업·육아 등 필요시만 제한하나",
+          "link": "https://www.mk.co.kr/news/economy/12150076",
+          "pubDate": "2026-09-10T23:58:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260621.15e4392265f247c886ab01a4b13a3bf9_R.jpg",
+          "summary": "입법조사처 “인정 사유 제한하고 신청 기한·최소 가입요건 둬야”실직이나 경력 단절 등으로 국민연금 보험료를 내지 못한 기간을 나중에 메워주는 추후납부(추납) 제도를 손질해야 한다는..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "드러켄밀러 “현 금리 낮다” ... 오라클 깜짝 실적, AI 폭발",
+          "link": "https://www.mk.co.kr/news/economy/12150075",
+          "pubDate": "2026-09-10T23:57:36.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-m.v1.20260911.9ce282720bc04ef5883d3aed658f4db2_R.jpg",
+          "summary": "반도체를 비롯한 AI와 거시경제 지표들간의 공방이 지속되고 있습니다. 반도체는 여전히 호조를 보이고 있지만 유가와 금리 등 거시경제 변수들의 주가의 발목을 잡았습니다. 특히 다음주..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "유가·국채금리 급등에 무너진 투심…美 3대증시 하락 [월가월부]",
           "link": "https://www.mk.co.kr/news/economy/12150011",
           "pubDate": "2026-09-10T20:35:14.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.5c4fd902e11241298df5599e90d16b95_R.jpg",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "베선트 약발 안먹힌다…60억달러 바이백 언급에도 국채금리 상승",
-          "link": "https://www.mk.co.kr/news/economy/12149897",
-          "pubDate": "2026-09-10T12:45:15.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20250726.15b9e5f7b36e4beca2303b4846d5f78c_R.png",
-          "summary": "발표 불구 채권금리 일제히 상승 “투자자들, 3배 늘렸어도 실망” 유가급등에 인플레 우려 확산미국 재무부가 종전보다 3배 늘어난 60억달러 규모의 바이백(조기 매입) 방침을 밝혔지..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“내 재산은 평균일까?”…한국인 48세에 ‘빚’·61세 ‘자산’ 정점 [데이터로 읽는 머니 무브]",
-          "link": "https://www.mk.co.kr/news/economy/12149835",
-          "pubDate": "2026-09-10T11:13:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/10/news-p.v1.20260908.2ea93447a58943949a2b91ba33e30d11_R.jpg",
-          "summary": "한국인은 몇 살에 가장 많은 빚을 지고 있을까요. 보유 자산이 가장 많아지는 시기는 언제일까요. 취업해 월급을 받기 시작하면 조금씩 자산을 쌓습니다. 결혼하고 집을 마련하는 과정에..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:06.482Z",
+      "fetchedAt": "2026-09-11T00:14:43.016Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, National Westminster Bank Plc의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:06.576Z",
+      "fetchedAt": "2026-09-11T00:14:43.114Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215118",
+          "pubDate": "2026-09-11T07:43:08.000Z",
+          "image": null,
+          "summary": "오픈AI가 'GPT-6 아스트라'에 대한 폭발적인 수요로 인해 서버 과부하가 발생하자 최상위 유료 요금제 신규 가입을 전격 중단했다.티보 소티오 오픈AI 제품 담당 책임자는 10일(현지시간) X를 통해 \"기존 사용자들이 최상의 경험을 누리고 아스트라 서비스를 계속 안정적으로 이용할 수 있도록 프로 플랜 구독을 일시 중단한다\"고 밝혔다.이에 따라 월 200달러(국내가 15만9000원)의 최상위 요금제인 '챗GPT 프로' 플랜에 대한 신규 구독 및 업그레이드가 일시적으로 중단된다.이번 조치는 최근 출시된 아스트라가 폭발적인 인기를 누리",
+          "keywords": [
+            "오픈AI",
+            "프로",
+            "요금제",
+            "신규",
+            "가입"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[9월10일] 애플 새 CEO 첫 무대…“AI 시대에도 결국 아이폰이 개인 AI 허브”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215083",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, 네 번째 AI 무단 침입 공개...시스템 누락에 4억건 재조사",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215105",
-          "pubDate": "2026-09-10T17:31:21.000Z",
-          "image": null,
-          "summary": "앤트로픽이 AI 모델의 사이버보안 테스트 과정에서 외부 시스템에 무단으로 침입한 네 번째 사고를 뒤늦게 공식 확인했다. 이번 사고는 지난 1월 초기 버전의 ‘클로드 오퍼스 4.6’과 관련된 것으로, 앤트로픽은 피해를 입은 당사자에게 통보를 마쳤지만 구체적인 대상이나 피해 내용은 공개하지 않았다.앤트로픽은 9일(현지시간) 공식 블로그를 통해 해당 사고가 지난 1월 발생했으며, 당시 테스트에 사용된 클로드 오퍼스 4.6 초기 버전이 외부 시스템에 침입하는 행동을 보였다고 밝혔다.이번 사고를 이전에 발견하지 못한 이유가 초기 조사 과정에",
-          "keywords": [
-            "앤트로픽",
-            "번째",
-            "AI",
-            "무단",
-            "침입"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:07.738Z",
+      "fetchedAt": "2026-09-11T00:14:44.212Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 코덱스 하네스가 제공하는 관리형 서비스인 에이전트 API를 사용하여 클라우드 에이전트를 구축하고 실행합니다."
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:09.703Z",
+      "fetchedAt": "2026-09-11T00:14:44.474Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,56 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Siri Recaps로 일상 대화를 상시 청취하는 Apple Watch",
+          "link": "https://news.hada.io/topic?id=33503",
+          "pubDate": "2026-09-10T23:33:15.000Z",
+          "image": null,
+          "summary": "Siri Recaps는 Apple Watch 센서로 대화를 포함한 하루의 활동을 요약하는 Audio Intelligence 기능으로, 회의 기록의 편의성과 주변인의 프라이버시 우려가 맞물림 Apple에 따르면 원본 오디오는 녹음·저장하지 않고 Siri가 실시간으로 처리해 실행에 옮길 수 있는...",
+          "keywords": [
+            "Siri",
+            "Recaps로",
+            "일상",
+            "대화를",
+            "상시"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "나는 인터넷이 싫은 것 같다",
+          "link": "https://news.hada.io/topic?id=33502",
+          "pubDate": "2026-09-10T22:40:32.000Z",
+          "image": null,
+          "summary": "Facebook, Instagram과 WhatsApp을 떠나면 관계와 소식을 놓칠 줄 알았지만, 정작 그립지 않았고 다른 관심사와 가까운 친구를 직접 만나는 데 더 많은 시간을 쓰게 됨 사람을 연결한다던 서비스는 광고와 개인정보 수익화, 혐오와 저품질 콘텐츠로 채워졌고, 『Careless People』을...",
+          "keywords": [
+            "나는",
+            "인터넷이",
+            "싫은",
+            "같다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Neki - Postgres를 여러 서버로 확장하는 PlanetScale의 새 서비스",
+          "link": "https://news.hada.io/topic?id=33501",
+          "pubDate": "2026-09-10T22:37:32.000Z",
+          "image": null,
+          "summary": "단일 서버의 한계에 도달한 Postgres 데이터를 여러 서버에 나눠 저장하고 처리하는 샤딩 서비스로, 각 샤드에서 별도의 호환 엔진이 아닌 실제 Postgres를 실행함 애플리케이션은 기존 Postgres 드라이버와 ORM으로 하나의 접속점에 연결하며, 라우터가 쿼리를 필...",
+          "keywords": [
+            "Neki",
+            "Postgres를",
+            "여러",
+            "서버로",
+            "확장하는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "ChatGPT Pro 구독 일시중단",
           "link": "https://news.hada.io/topic?id=33500",
@@ -388,60 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "누구도 당신의 커다란 케이블 상자를 가져가지 못하게 하라",
-          "link": "https://news.hada.io/topic?id=33498",
-          "pubDate": "2026-09-10T21:46:04.000Z",
-          "image": null,
-          "summary": "10년 넘게 보관한 케이블 두 개를 마침내 썼다는 Tyler Gaw의 게시물에 공감한 Jim Nielsen이, 케이블을 보관하는 이유를 기억하려고 그 게시물을 자신의 상자 앞면에 붙임 Gaw는 상자 바닥에서 필요한 케이블을 찾아내며, “이걸 대체 언제 쓸 건데?”라는 질문에 “바로 오...",
-          "keywords": [
-            "누구도",
-            "당신의",
-            "커다란",
-            "케이블",
-            "상자를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Lotus Notes와 모든 것을 처음부터 만드는 것의 위험",
-          "link": "https://news.hada.io/topic?id=33497",
-          "pubDate": "2026-09-10T21:43:04.000Z",
-          "image": null,
-          "summary": "1989년 출시된 Lotus Notes는 암호화, 첨부파일, 알림과 메시지 동기화를 갖춰 오늘날의 Slack과 이메일, 사내 앱 개발 도구를 합친 듯한 협업 환경을 제공함 이메일 전용 프로그램이 아니라 공유 데이터베이스 위에 일정, 토론, 주소록과 업무용 앱을 만드는 플랫폼",
-          "keywords": [
-            "Lotus",
-            "Notes와",
-            "모든",
-            "것을",
-            "처음부터"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "화성을 위한 NASA의 색상 보정 기법, 이제 지구의 암벽화를 드러내다",
-          "link": "https://news.hada.io/topic?id=33496",
-          "pubDate": "2026-09-10T21:40:03.000Z",
-          "image": null,
-          "summary": "NASA가 원격탐사·위성 영상 해석을 위해 개발한 비상관 스트레칭(decorrelation stretch) 이 고대 암벽화에서 보이지 않던 형상과 세부 묘사를 찾아내는 데 쓰이고 있음 단순히 대비를 높이는 대신 원래 색상을 더 넓은 색상 범위로 변환하며, 신호 정보를 적은 수...",
-          "keywords": [
-            "화성을",
-            "위한",
-            "NASA의",
-            "색상",
-            "보정"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:10.403Z",
+      "fetchedAt": "2026-09-11T00:14:45.248Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,6 +448,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Burger King wants to promote its “Whopper Guarantee,” so it enlisted Rhett and Link as taste testers (Exclusive)",
+          "link": "https://www.tubefilter.com/2026/09/10/burger-king-rhett-and-link-good-mythical-morning-whopper-guarantee/",
+          "pubDate": "2026-09-10T22:27:31.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/rhett-link-burger-king.jpg",
+          "summary": "Rhett and Link have had a lot of airtime to fill over the 14-year run of their show Good Mythical Morning, and the humble taste test has emerged as one of the duo’s most reliable segments. On YouTube, viewers can watch dozens of “food feuds,” in which Rhett and Link compare fast food items from different […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Creator Marketing",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Rhett & Link"
+          ],
+          "isForeign": true,
+          "titleKo": "Burger King은 \"Whopper Guarantee\" 를 홍보하기를 원하기 때문에 Rhett과 Link를 맛 테스터로 등록했습니다 (독점).",
+          "summaryKo": "Rhett와 Link는 14년 동안 진행된 Good Mythical Morning 쇼를 채우기 위해 많은 방송 시간을 보냈으며, 겸손한 맛 테스트는 듀오의 가장 신뢰할 수 있는 세그먼트 중 하나로 부상했습니다. YouTube에서 시청자는 수십 가지의 \"음식 대전\" 을 시청할 수 있습니다. Rhett와 Link는 다양한 패스트푸드 항목을 비교하여 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
+        },
         {
           "title": "IMDb’s “digital creator” label lets artists “represent the full scope of their work in one place”",
           "link": "https://www.tubefilter.com/2026/09/10/imdb-internet-movie-database-digital-creator-label/",
@@ -515,27 +532,9 @@
           "isForeign": true,
           "titleKo": "MIPCOM 2026은 크리에이터 경제 프로그래밍을 확장하고, 수직 콘텐츠 및 생성 AI를 수용합니다.",
           "summaryKo": "레거시 엔터테인먼트와 크리에이터 콘텐츠의 세계는 점점 더 복잡해지고 있으며, MIPCOM은 그들이 만나는 곳이 되기를 원합니다. 루시 스미스 (Lucy Smith) 장기 미디어 및 콘텐츠 무역 박람회 디렉터는 디지털 콘텐츠의 힘을 \"MIPCOM이 경험한 가장 큰 세대적 변화\" 라고 설명합니다. \"2025년, MIPCOM은 크리에이터들이 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있도록 함으로써 이러한 변화를 받아들였습니다."
-        },
-        {
-          "title": "In the sports world, influencers are facing backlash, but no one told the NFL",
-          "link": "https://www.tubefilter.com/2026/09/09/sports-influencer-backlash-us-open-wimbledon-tennis-nfl/",
-          "pubDate": "2026-09-09T21:29:52.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/golden-balance-nfl.jpg",
-          "summary": "A single tone-deaf ad threw the YouTube golf world into chaos. Now, in other sports communities, influencers are facing additional forms of blowback -- but there are still plenty of opportunities on the table for creators who are ready for game day. This particular chapter of the sports creator saga begins with Good Good. The YouTube golf crew was in high demand and had even gotten its own event on the PGA Tour. All that changed, however, when Good Good members starred in an insensitive Callaway",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Sports",
-            "morgan riddle"
-          ],
-          "isForeign": true,
-          "titleKo": "스포츠 세계에서 인플루언서는 반발에 직면하고 있지만 아무도 NFL에",
-          "summaryKo": "음색이 나빠지는 광고 하나가 유튜브 골프계를 혼란에 빠뜨렸습니다. 현재 다른 스포츠 커뮤니티에서는 인플루언서들이 추가적인 블로우백에 직면해 있지만, 게임의 날을 준비하는 크리에이터에게는 여전히 많은 기회가 있습니다. 스포츠 크리에이터 사가의 이 특별한 장은 Good Good에서 시작됩니다. 유튜브 골프 승무원은 수요가 많았고 PGA 투어에서 자체 이벤트를 개최하기도 했습니다. 그러나 Good Good 회원이 출연했을 때 모든 것이 바뀌었습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:14.015Z",
+      "fetchedAt": "2026-09-11T00:14:47.839Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:14.243Z",
+      "fetchedAt": "2026-09-11T00:14:48.011Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:14.319Z",
+      "fetchedAt": "2026-09-11T00:14:48.093Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -698,6 +697,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다",
+          "link": "https://www.venturesquare.net/1112637/",
+          "pubDate": "2026-09-10T23:03:43.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260910_154119499_08-348x522.jpg",
+          "summary": "연세대학교 AI 창업캠프 ‘999 : Trainthon’에서 대학·대학원생들이 서울에서 강릉으로 향하는 KTX 안에서 Cursor를 활용한 개발을 시작해 1박2일 만에 실제 작동하는 MVP를 완성했다. AI 보안 코드리뷰부터 Personal CRM, 게임 테스트, 블랙... The post KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "현장스케치",
+            "AI창업",
+            "AI창업캠프",
+            "AI코딩",
+            "Cursor"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "정일우, 데뷔 20주년을 나눔으로…발달장애 예술인 등 99명 초청",
+          "link": "https://www.venturesquare.net/1112568/",
+          "pubDate": "2026-09-10T16:54:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-23-674x522.jpg",
+          "summary": "배우 정일우가 생일과 데뷔 20주년을 맞아 발달장애 작가와 관계자 등 99명을 갤럭시 로봇파크에 초청한다. 이번 행사는 지난해 디스에이블드 소속 이다래 작가와의 협업으로 시작된 인연을 이어 로봇·AI 콘텐츠를 체험하고 교류하기 위해 마련됐다. 정일우와 갤럭시코퍼레이션은... The post 정일우, 데뷔 20주년을 나눔으로…발달장애 예술인 등 99명 초청 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "갤럭시로봇파크",
+            "갤럭시코퍼레이션",
+            "디스에이블드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "예약 조회·변경·취소까지 AI가 처리…리아드코퍼레이션, 사제파트너스 투자 유치",
           "link": "https://www.venturesquare.net/1112557/",
@@ -751,45 +786,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "600여 개 병원이 쓰는 수면 AI, 30개국 재택의료 시장으로…에이슬립·에어리퀴드 협력",
-          "link": "https://www.venturesquare.net/1112534/",
-          "pubDate": "2026-09-10T16:37:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/21323234-783x522.jpg",
-          "summary": "에이슬립이 전 세계 30개국에서 재택환자 230만 명을 관리하는 에어리퀴드헬스케어와 수면무호흡증 선별·관리 협약을 체결했다. 양사는 국내 재택환자 관리 체계에 스마트폰 기반 AI 진단보조기기 앱노트랙을 적용해 조기 선별과 양압기 치료 순응도 모니터링, 장기 관리를 지원... The post 600여 개 병원이 쓰는 수면 AI, 30개국 재택의료 시장으로…에이슬립·에어리퀴드 협력 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "디지털헬스케어",
-            "수면AI",
-            "수면무호흡증"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI에게 화장품 물었더니…메디힐 독주·스킨케어 2.9점 초접전",
-          "link": "https://www.venturesquare.net/1112511/",
-          "pubDate": "2026-09-10T16:25:51.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/aibox-695x522.jpg",
-          "summary": "에이아이빅스랩이 생성형 AI 네 개의 한국어 답변을 바탕으로 뷰티 9개 부문 265개 브랜드의 AIBIX를 분석했다. 메디힐은 마스크팩에서 2위와 48.7점 차를 기록한 반면 스킨케어 상위 4개 브랜드는 2.9점 안에서 경쟁했다. AIBIX는 특정 기간 AI 답변의 언... The post AI에게 화장품 물었더니…메디힐 독주·스킨케어 2.9점 초접전 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AIBIX",
-            "AI브랜드분석",
-            "K뷰티"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:16.819Z",
+      "fetchedAt": "2026-09-11T00:14:50.723Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:17.110Z",
+      "fetchedAt": "2026-09-11T00:14:51.099Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -973,7 +972,7 @@
           "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:20.047Z",
+      "fetchedAt": "2026-09-11T00:14:51.157Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -981,6 +980,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "국내서 쌓은 기후테크 레퍼런스, 중국으로…제이치글로벌 한·중 챌린지 1위",
+          "link": "https://www.venturesquare.net/1112624/",
+          "pubDate": "2026-09-10T22:37:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/JH-784x522.png",
+          "summary": "인천창조경제혁신센터의 보육·투자기업 제이치글로벌이 한·중 스타트업 챌린지 결승전에서 한국 참가기업 1위로 중소벤처기업부 장관상을 받았다. 회사는 차열·단열 및 광촉매 융복합 소재 기술과 국내 건설·공공시장 적용 실적을 기반으로 중국 청두 실증과 메이진에너지그룹 협력을 ... The post 국내서 쌓은 기후테크 레퍼런스, 중국으로…제이치글로벌 한·중 챌린지 1위 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "광촉매",
+            "기후테크",
+            "빅웨이브",
+            "인천창조경제혁신센터",
+            "제이치글로벌"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "엔비디아는 한국, 애플은 중국…AI 공급망 재편서 찾은 벤처의 기회",
+          "link": "https://www.venturesquare.net/1112560/",
+          "pubDate": "2026-09-10T16:51:23.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/12344-785x522.jpg",
+          "summary": "벤처기업협회가 권석준 성균관대학교 교수를 초청해 AI·반도체 공급망 재편을 다룬 제42회 벤처인사이트포럼을 개최했다. 권 교수는 반도체 설계와 제조, 소부장, AI 인프라를 연결하는 생태계 확보 역량이 글로벌 경쟁력을 결정한다고 분석했다. 포럼에서는 데이터센터와 로봇,... The post 엔비디아는 한국, 애플은 중국…AI 공급망 재편서 찾은 벤처의 기회 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "Ai인프라",
+            "공급망",
+            "권석준",
+            "반도체",
+            "벤처기업협회"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "실패를 전시하고 다음 도전을 기록하다…아산나눔재단, 청소년 ‘실패 박물관’ 도록 발간",
           "link": "https://www.venturesquare.net/1112523/",
@@ -1034,45 +1069,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "창업 아이디어 1만 명 선발…중기부, 고려대서 ‘모두의 창업’ 알렸다",
-          "link": "https://www.venturesquare.net/1112490/",
-          "pubDate": "2026-09-10T16:15:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-4-783x522.jpg",
-          "summary": "중소벤처기업부가 고려대학교에서 학생과 청년 예비 창업자를 대상으로 2차 ‘모두의 창업’ 캠퍼스 투어를 개최했다. 1차 프로젝트에는 약 6만3000명이 참여해 1100명이 2라운드에 진출했으며, 2차 프로젝트는 1라운드 선발 규모를 1만 명으로 확대했다. 참가 신청은 모... The post 창업 아이디어 1만 명 선발…중기부, 고려대서 ‘모두의 창업’ 알렸다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "고려대학교",
-            "대학창업",
-            "모두의창업",
-            "예비창업자",
-            "중소벤처기업부"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "전문가를 ‘실전형 멘토’로…페이스메이커스·동국대, GSMP 7기 출범",
-          "link": "https://www.venturesquare.net/1112478/",
-          "pubDate": "2026-09-10T16:12:31.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/GSMP-696x522.jpg",
-          "summary": "페이스메이커스와 동국대학교 경영전문대학원이 13주간 운영하는 글로벌 스타트업 멘토 최고위 과정 7기를 시작했다. 교육은 개인별 전문성 체계화와 실제 창업가 대상 1대1 멘토링, AI·글로벌 진출·오픈이노베이션 학습으로 구성된다. GSMP는 앞선 1~6기를 통해 변호사와... The post 전문가를 ‘실전형 멘토’로…페이스메이커스·동국대, GSMP 7기 출범 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "GSMP",
-            "글로벌진출",
-            "동국대학교",
-            "멘토링",
-            "스타트업멘토"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T22:09:21.856Z",
+      "fetchedAt": "2026-09-11T00:14:52.731Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1081,17 +1080,34 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 - 대전일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TY3NHanJ5MEVoSURTZ0Y5WDlIcVotVlZKeEpQZVdVTVplX0dpcUpJWkVPcXN4MkVyVXZjMHpySTZxcjQ5eUxndWZ4bER0TEJjcDdncEl0SGJCTloyM0hLemlTRTducDhOd09GU19UdzhYaFHSAXNBVV95cUxPU2NzR2pyeTBFaElEU2dGOVg5SHFaLVZWSnhKUGVXVU1aZV9HaXFKSVpFT3FzeDJFclV2YzB6ckk2cXI0OXlMZ3VmeGxEdExCY3A3Z3BJdEhiQk5aMjNIS3ppU0U3bnA4TndPRlNfVHc4WGhR?oc=5",
-          "pubDate": "2026-09-09T23:11:26.000Z",
+          "title": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 - gmitoday.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hb1VQYXFienNLQTg2RkY0azlpamJiLVBDczh5clROcnI0ZzdWQTZSMEpDT1BtRWdkVmZuT0N6LUE2OUtvR2lQZ0NRM3daLWpwNUlEV0pxc2tJTERGYi1zcmRuYnpqN0NXY2c?oc=5",
+          "pubDate": "2026-09-10T20:30:23.000Z",
           "image": null,
-          "summary": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 대전일보",
+          "summary": "'광양 제조 산업 AI융합 실증 지원 사업’ 참여기업 모집 gmitoday.com",
           "keywords": [
-            "수자원공사",
-            "국가",
-            "테스트베드",
+            "광양",
+            "제조",
+            "산업",
+            "AI융합",
+            "실증"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "5등급 노후경유차 조기폐차 지원사업 종료 예정 - 고성미래신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04OEVEa3g1UkVEcTlDV0V0RXRYelZ3aW9nd2RRN2JsSnJqdXowUE5TTzE0Q1dqWldwUWRlaTVyV2hGQmhZRmxwZkJSVUFnT25Rdzl4dE9FcHlnQmZ6ZnpTb001aUZHWEtK?oc=5",
+          "pubDate": "2026-09-10T19:53:44.000Z",
+          "image": null,
+          "summary": "5등급 노후경유차 조기폐차 지원사업 종료 예정 고성미래신문",
+          "keywords": [
+            "5등급",
+            "노후경유차",
+            "조기폐차",
             "지원사업",
-            "참여"
+            "종료"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1109,23 +1125,6 @@
             "GHKOL",
             "해외진출",
             "실무특화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "제주 관광·콘텐츠 기업 정규직 채용 지원 추가 모집 - 제민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pTjZPTEJILVczaTRjQ1otYVJwM3dyc1pKYnlvOWRLc1U1UXd6UGlFUEJUYUU0c1VqejY0YW1ZaHZfaFB5VW1wLXN0Uk5mTWZMSWw3S1RTUzVpa0EycFVjRGEweDZyUQ?oc=5",
-          "pubDate": "2026-09-10T08:30:58.000Z",
-          "image": null,
-          "summary": "제주 관광·콘텐츠 기업 정규직 채용 지원 추가 모집 제민일보",
-          "keywords": [
-            "제주",
-            "관광",
-            "콘텐츠",
-            "기업",
-            "정규직"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1166,80 +1165,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-10T20:10:01.711Z",
-      "error": "HTTP 503"
+      "fetchedAt": "2026-09-11T00:14:53.350Z",
+      "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
+      "count": 6,
       "rank": 1,
-      "change": "same"
+      "change": "up"
     },
     {
-      "key": "중소벤처기업부",
-      "label": "중소벤처기업부",
+      "key": "ai",
+      "label": "AI",
       "count": 2,
       "rank": 2,
-      "change": "up"
+      "change": "down"
+    },
+    {
+      "key": "인천창조경제혁신센터",
+      "label": "인천창조경제혁신센터",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
+      "key": "제이치글로벌",
+      "label": "제이치글로벌",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
-      "count": 5,
-      "rank": 4,
-      "change": "up"
+      "count": 4,
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
-      "count": 5,
-      "rank": 5,
-      "change": "up"
+      "count": 4,
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
-      "count": 5,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 5,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
+      "count": 4,
       "rank": 8,
-      "change": "up"
+      "change": "down"
     },
     {
-      "key": "앤트로픽",
-      "label": "앤트로픽",
+      "key": "기후테크",
+      "label": "기후테크",
       "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1280,7 +1279,7 @@
       "label": "Articles",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1288,7 +1287,7 @@
       "label": "Featured",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1296,7 +1295,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1312,7 +1311,7 @@
       "label": "AI",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1320,7 +1319,7 @@
       "label": "Product",
       "count": 3,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "제품"
     }
   ]
