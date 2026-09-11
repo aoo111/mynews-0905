@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-11T18:11:48.927Z",
+  "collectedAt": "2026-09-11T20:10:18.578Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:36.884Z",
+      "fetchedAt": "2026-09-11T20:10:08.097Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:37.030Z",
+      "fetchedAt": "2026-09-11T20:10:08.197Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,17 +189,34 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "오픈AI, 전이중 음성 모델 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
+          "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
+          "pubDate": "2026-09-11T16:55:00.000Z",
+          "image": null,
+          "summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)과 에이치투(대표 한신)는 11일 에이치투 계룡사업장에서 ‘바나듐흐름전지·에너지ICT 연계 공동 사업개발’을 위한 업무협약을 체결했다.이날 협약은 한전KDN이 30여년간 전력 계통의 정보통신기술(ICT) 운영으로 축적해 온 에너지ICT 역량과 에이치투가 보유한 바나듐흐름전지(VFB) 기반 에너지저장장치(ESS) 기술의 융합을 통해 차세대 ESS 시장을 공동으로 개척하기 위해 추진됐다.바나듐흐름전지는 높은 안전성으로 화재나 폭발 위험을 줄이고 전극과 전해액의 손상을 최소화한 반영구적인",
+          "keywords": [
+            "한전KDN",
+            "에이치투와",
+            "에너지ICT",
+            "차세대",
+            "배터리"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
           "pubDate": "2026-09-11T16:55:00.000Z",
           "image": null,
           "summary": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex) 음성 모델 'GPT-라이브-1(GPT-Live-1)'을 API로 출시했다.기존 음성 에이전트의 복잡한 음성인식·추론·음성합성 단계를 하나의 모델로 통합해 대화 지연을 줄이고, 전화",
           "keywords": [
             "오픈AI",
-            "전이중",
-            "음성",
-            "모델",
-            "GPT"
+            "GPT",
+            "라이브",
+            "API",
+            "출시"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "알트먼 \"첨단 AI 개발 속도 조절 검토…타 회사 동참 제안\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215176",
-          "pubDate": "2026-09-11T16:51:50.000Z",
-          "image": null,
-          "summary": "샘 알트먼 오픈AI CEO가 사내 회의에서 최첨단 AI 개발 속도를 늦추는 방안을 검토 중이라며, 경쟁 연구소들의 자발적인 동참을 유도하고 나섰다.11일 블룸버그에 따르면, 알트먼 CEO는 최근 전 직원이 참석한 내부 회의에서 다른 AI 연구소들과 협력해 최신 모델 개발 속도를 공동으로 조절하는 방안을 모색하고 있다고 밝혔다.안전성이 충분히 확보되지 않은 상태에서 초지능 개발 경쟁이 과열되는 것에 대한 경각심이 고조되자, 선제적으로 자율 규제 흐름을 주도하겠다는 구상이다. 오픈AI는 최근 자발적인 개발 속도 조절 필요성을 지속해서",
-          "keywords": [
-            "알트먼",
-            "첨단",
-            "AI",
-            "개발",
-            "속도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:38.006Z",
+      "fetchedAt": "2026-09-11T20:10:09.339Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI와 GSA는 자격을 갖춘 연방, 주, 지방 및 부족 정부에 라이선스 수수료 $ 0, 사용료 50% 할인, 사이버 방어 지원 확대 등을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:40.478Z",
+      "fetchedAt": "2026-09-11T20:10:09.515Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "체렌코프 복사 — 매질 속 빛보다 빠르게 이동할 때 생기는 푸른빛",
-          "link": "https://news.hada.io/topic?id=33541",
-          "pubDate": "2026-09-11T16:33:49.000Z",
+          "title": "운동 강도는 심혈관·대사 건강과 연관되어 있음",
+          "link": "https://news.hada.io/topic?id=33554",
+          "pubDate": "2026-09-11T20:03:15.000Z",
           "image": null,
-          "summary": "체렌코프 복사는 전자·양성자 같은 하전 입자가 특정 매질 속 빛보다 빠르게 이동할 때 발생하는 푸른빛으로, 진공에서의 광속을 넘는 현상은 아님 물속에서는 빛의 속도가 진공에서의 75% 로 줄어들지만, 일부 입자는 그만큼 느려지지 않아 물속...",
+          "summary": "사람 대상 운동 중재에서 전력 질주 인터벌 운동(SIE) 은 중강도 운동(MIE)보다 운동 직후 혈중 단백질·대사물질을 더 광범위하게 변화시켰으며, 이런 차이는 8주 훈련 후에도 상당 부분 유지됨 운동 직후 유의하게 변한 혈장 단백질은 SIE 714개, MIE 7개...",
           "keywords": [
-            "체렌코프",
-            "복사",
-            "매질",
-            "빛보다",
-            "빠르게"
+            "운동",
+            "강도는",
+            "심혈관",
+            "대사",
+            "건강과"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "후티, 세계 해운 항로의 핵심 섬 ‘장악’",
-          "link": "https://news.hada.io/topic?id=33539",
-          "pubDate": "2026-09-11T15:35:08.000Z",
+          "title": "전 세계 빙하 소멸 탐색기",
+          "link": "https://news.hada.io/topic?id=33553",
+          "pubDate": "2026-09-11T20:00:15.000Z",
           "image": null,
-          "summary": "예멘 정부 소식통과 목격자들은 이란의 지원을 받는 후티 반군이 바브엘만데브 해협의 Perim 섬을 장악했다고 전했으며, 예멘 군 관계자는 홍해 연안 전체와 추가 섬 2곳도 후티에 넘어갔다고 밝힘 이 해협은 홍해·수에즈 운하와 인도양·아시아를 연결하며, 호르무즈 해협의 통항 차...",
+          "summary": "지역 전체의 질량·면적 감소만으로는 드러나지 않는 개별 빙하의 예상 소멸 시점을 지도에서 탐색하고, 온난화 시나리오에 따른 차이를 비교할 수 있음 빙하 면적이 0.01km² 미만이 되거나 남은 부피가 초기 부피의 1% 미만으로 줄면 소멸한 것으...",
           "keywords": [
-            "후티",
             "세계",
-            "해운",
-            "항로의",
-            "핵심"
+            "빙하",
+            "소멸",
+            "탐색기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 프리랜서를 위한 업무 관리 서비스",
-          "link": "https://news.hada.io/topic?id=33538",
-          "pubDate": "2026-09-11T15:20:42.000Z",
+          "title": "Proof of Capture: 스테가노그래피를 활용한 오픈 소스판 Apple Reference Image",
+          "link": "https://news.hada.io/topic?id=33552",
+          "pubDate": "2026-09-11T19:57:14.000Z",
           "image": null,
-          "summary": "안녕하세요. 프리랜서를 위한 업무관리 서비스를 만들었습니다. 처음에는 메모장같은 기록용 서비스를 만들다가 이것도 넣고 싶고, 저것도 넣고 싶고 해서 추가 하다보니 올해 초에 간단한 기능들만 만들어보자! 라는 마",
+          "summary": "AI 이미지 생성기가 탐지기를 앞서는 상황에서, Proof of Capture는 사후 탐지 대신 촬영 순간에 실제 카메라 촬영임을 암호학적으로 증명하는 오픈 소스 카메라임 메타데이터가 아닌 픽셀에 서명된 지각 해시(pHash) 를 숨기며, DWT + D...",
           "keywords": [
-            "Show",
-            "GN:",
-            "프리랜서를",
-            "위한",
-            "업무"
+            "Proof",
+            "of",
+            "Capture:",
+            "스테가노그래피를",
+            "활용한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "CHERIoT이 MMU 없이 강력하고 사용하기 쉬운 격리를 제공하는 방식",
-          "link": "https://news.hada.io/topic?id=33537",
-          "pubDate": "2026-09-11T15:01:12.000Z",
+          "title": "RSA-260 소인수분해",
+          "link": "https://news.hada.io/topic?id=33551",
+          "pubDate": "2026-09-11T19:54:14.000Z",
           "image": null,
-          "summary": "CHERIoT이 MMU 없이 강력하고 사용하기 쉬운 격리를 제공하는 방식",
+          "summary": "Cognition이 여러 Devin 에이전트로 GPU용 소인수분해 파이프라인을 최적화해 260자리 수 RSA-260을 분해하고, 공개적으로 해결된 RSA Factoring Challenge 최대 기록을 경신함 새로운 수학적 알고리듬이 아니라 CADO-NFS의 GPU 성능 최적화로 성...",
           "keywords": [
-            "CHERIoT이",
-            "MMU",
-            "없이",
-            "강력하고",
-            "사용하기"
+            "RSA",
+            "260",
+            "소인수분해"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Waymo 효과: AI가 조용히 연구 협업을 줄이는 방식",
-          "link": "https://news.hada.io/topic?id=33536",
-          "pubDate": "2026-09-11T14:41:13.000Z",
+          "title": "수학에서의 AI 목표 불일치",
+          "link": "https://news.hada.io/topic?id=33550",
+          "pubDate": "2026-09-11T19:51:14.000Z",
           "image": null,
-          "summary": "사람과 소통하는 불편을 없애는 기술은 즉각적인 편익을 주지만, 그 불편 속에 있던 예상 밖의 관점과 공동 사고의 가치는 가리며 연구에서도 같은 변화가 진행되고 있음 LLM은 언제든 응답하고 설득이나 공로 배분을 요구하지 않지만, 동료가 독립적인 문제의식으...",
+          "summary": "필즈상 수상자 25명이 공동 선언에 서명하고, 수학 문제 풀이를 벤치마크로 삼는 AI 기업의 목표가 수학 공동체의 이해와 통찰 증진이라는 목표와 심각하게 어긋난다고 경고함 수학에서 문제 해결은 수단이자 대리 지표이며, 새로운 방법을 토론하...",
           "keywords": [
-            "Waymo",
-            "효과:",
-            "AI가",
-            "조용히",
-            "연구"
+            "수학에서의",
+            "AI",
+            "목표",
+            "불일치"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:41.343Z",
+      "fetchedAt": "2026-09-11T20:10:10.320Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +446,19 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Skyrim’s latest player companion: a sentient IKEA shelf that can hold your 10,000 wheels of cheese",
+          "link": "https://www.tubefilter.com/2026/09/11/skyrim-ikea-kallax-storageborn-companion/",
+          "pubDate": "2026-09-11T18:29:10.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/ikea-skyrim.jpg",
+          "summary": "A new brand touches the beacon. That’s right: IKEA is officially in Skyrim. Or, well, not quite officially. IKEA didn’t partner directly with Skyrim developer Bethesda; instead it teamed up with a well-known modder studio. See, The Elder Scrolls V: Skyrim came out way back in 2011, and though it still receives occasional updates, Bethesda has made […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "스카이림의 최신 플레이어 동반자: 10,000바퀴의 치즈를 담을 수 있는 센티언트 이케아 선반",
+          "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
+        },
         {
           "title": "“Best-in-class humans powered by best-in-class technology”: Viral Nation’s SocialAI is the data engine driving its “flywheel” of operations",
           "link": "https://www.tubefilter.com/2026/09/11/viral-nation-socialai-digital-content-creator-talent-data-marketing/",
@@ -507,27 +516,9 @@
           "isForeign": true,
           "titleKo": "Burger King은 \"Whopper Guarantee\" 를 홍보하기를 원하기 때문에 Rhett과 Link를 맛 테스터로 등록했습니다 (독점).",
           "summaryKo": "Rhett와 Link는 14년 동안 진행된 Good Mythical Morning 쇼를 채우기 위해 많은 방송 시간을 보냈으며, 겸손한 맛 테스트는 듀오의 가장 신뢰할 수 있는 세그먼트 중 하나로 부상했습니다. YouTube에서 시청자는 수십 가지의 \"음식 대전\" 을 시청할 수 있습니다. Rhett와 Link는 다양한 패스트푸드 항목을 비교하여 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "IMDb’s “digital creator” label lets artists “represent the full scope of their work in one place”",
-          "link": "https://www.tubefilter.com/2026/09/10/imdb-internet-movie-database-digital-creator-label/",
-          "pubDate": "2026-09-10T21:54:48.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/imdb-getty.jpg",
-          "summary": "The Internet Movie Database is as old as the World Wide Web itself, and as it enters its 36th year of activity, it is getting an important update. For the first time, the website known as IMDb is adding labels that identify various types of digital creators. \"Digital creator\" will become the newest professional category on IMDb, which also classifies more than 40 other types of creative workers. Once a profile is tagged as a digital creator, it can add a subcategory, further specifying that part",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "IMDb",
-            "News",
-            "accreditation"
-          ],
-          "isForeign": true,
-          "titleKo": "IMDb의 \"디지털 크리에이터\" 라벨을 통해 아티스트는 \"한 곳에서 모든 작업 범위를 표현\" 할 수 있습니다.",
-          "summaryKo": "인터넷 영화 데이터베이스는 월드 와이드 웹 자체만큼이나 오래되었으며, 36년차에 접어들면서 중요한 업데이트를 받고 있습니다. IMDb라는 웹사이트에는 처음으로 다양한 유형의 디지털 크리에이터를 식별하는 라벨이 추가되었습니다. \"디지털 크리에이터\" 는 IMDb의 최신 전문 카테고리가 될 것이며, 이 카테고리는 40명 이상의 다른 유형의 크리에이티브 작업자를 분류합니다. 프로필이 디지털 크리에이터로 태그되면 하위 카테고리를 추가할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:41.736Z",
+      "fetchedAt": "2026-09-11T20:10:12.597Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -601,7 +592,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:41.934Z",
+      "fetchedAt": "2026-09-11T20:10:12.809Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -682,7 +673,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:42.026Z",
+      "fetchedAt": "2026-09-11T20:10:12.889Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -782,7 +773,7 @@
         }
       ],
       "fetchedAt": "2026-09-11T18:11:44.824Z",
-      "error": null
+      "error": "HTTP 502"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -874,7 +865,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:45.847Z",
+      "fetchedAt": "2026-09-11T20:10:13.840Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -882,6 +873,39 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+          "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+          "pubDate": "2026-09-11T18:58:01.000Z",
+          "image": null,
+          "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+          "keywords": [
+            "Startups",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "중부 유라시아, 2026년 전장으로 가는 길 수상자로 선정: Cerberus, WeGlobal AI, LOOQ",
+          "summaryKo": "Cerberus, WeGlobal AI, LOOQ는 Road to TechCrunch Startup Battlefield 2026의 지역 결승전에서 상위 세 자리를 차지했으며 오는 10월 샌프란시스코의 TechCrunch Disrupt에서 열리는 Startup Battlefield 200에서 중부 유라시아를 대표할 예정입니다."
+        },
+        {
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "pubDate": "2026-09-11T18:41:49.000Z",
+          "image": null,
+          "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "Apple",
+            "cognition",
+            "Equity podcast"
+          ],
+          "isForeign": true,
+          "titleKo": "인류 연구자의 최후의 날 경고는 매우 흥미로운 시기에 온다.",
+          "summaryKo": "인류 연구원은 이번 주에 사임하면서 X에 대한 게시물에서 회사가 \"자기 개선적인 슈퍼 인텔리전스로 곧장 달려가고 우리 삶과 함께 도박을 하고 있다\" 고 경고했다. 회사 자체의 얼라인먼트 리드는 메시지를 되돌리기보다는 공동 서명하기까지 했습니다. 이전에 AI 업계가 애교를 부렸던 파멸의 경고의 일종이지만, Anthropic이 IPO를 준비하고있는 타이밍은 다르게 착륙합니다. 사용 […]"
+        },
         {
           "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
           "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
@@ -931,44 +955,9 @@
           "isForeign": true,
           "titleKo": "인도의 Pocket FM은 AI가 오디오 콘텐츠의 93% 를 차지하기 때문에 매출 실행률이 $ 500M로 두 배 증가합니다.",
           "summaryKo": "Pocket FM은 AI를 사용하여 새로운 콘텐츠의 99% 를 제작하여 콘텐츠 제작 비용을 약 80배 저렴하게 만듭니다."
-        },
-        {
-          "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-          "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-          "pubDate": "2026-09-10T14:34:09.000Z",
-          "image": null,
-          "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-          "keywords": [
-            "Enterprise",
-            "Startups",
-            "Bending Spoons",
-            "Mergers and Acquisitions",
-            "miro",
-            "workplace collaboration"
-          ],
-          "isForeign": true,
-          "titleKo": "협업 도구 제조업체 Miro를 구매하기 위한 벤딩 스푼을 2022년 밸류에이션보다 90% 적은 $ 1.36 B에 구입",
-          "summaryKo": "Bending Spoons는 Miro를 13억 6천만 $ 에 매입하고 있습니다. Miro는 2021년 후반에 175억 $ 로 평가된 직장 협업 스타트업에 대한 평가가 크게 하락했습니다."
-        },
-        {
-          "title": "Maven Robotics wants to steal your robot deployment deal",
-          "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-          "pubDate": "2026-09-10T14:17:37.000Z",
-          "image": null,
-          "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-          "keywords": [
-            "AI",
-            "Robotics",
-            "Startups",
-            "Exclusive",
-            "maven"
-          ],
-          "isForeign": true,
-          "titleKo": "Maven Robotics가 로봇 배포 거래를 훔치려 합니다",
-          "summaryKo": "Maven Robotics는 오늘 1억 달러의 시리즈 A와 활발한 배포로 스텔스에서 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:45.971Z",
+      "fetchedAt": "2026-09-11T20:10:16.808Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1057,7 @@
         }
       ],
       "fetchedAt": "2026-09-11T18:11:47.505Z",
-      "error": null
+      "error": "HTTP 502"
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
       "name": "Google News 지원사업 RSS",
@@ -1076,11 +1065,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 - 스타트업레시피",
+          "title": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 - startuprecipe.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmdHU05YSHpuazVDRDIzTTcxWHlZbXd3MGpZYnZ2LU9KQUtOaWt4QnNoZmt4bU9wb1lGdzBRcUsxMGFSSUxONjhBdlpyRFN1UGlyQkRjRlZTa0sx?oc=5",
           "pubDate": "2026-09-11T01:19:48.000Z",
           "image": null,
-          "summary": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 스타트업레시피",
+          "summary": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 startuprecipe.co.kr",
           "keywords": [
             "2026년",
             "국가철도공단",
@@ -1161,7 +1150,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-11T18:11:48.105Z",
+      "fetchedAt": "2026-09-11T20:10:17.380Z",
       "error": null
     }
   },
@@ -1174,67 +1163,67 @@
       "change": "same"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 2,
+      "change": "up"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "2026년",
       "label": "2026년",
       "count": 4,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 4,
+      "rank": 5,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
-      "rank": 6,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "공고",
       "label": "공고",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "기후테크",
       "label": "기후테크",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1287,18 +1276,10 @@
       "labelKo": "AI"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 2,
-      "rank": 7,
-      "change": "up",
-      "labelKo": "기사"
-    },
-    {
       "key": "banking and consumer regulatory policy",
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
-      "rank": 8,
+      "rank": 7,
       "change": "up",
       "labelKo": "은행 및 소비자 규제 정책"
     },
@@ -1306,17 +1287,25 @@
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 2,
-      "rank": 9,
+      "rank": 8,
       "change": "up",
       "labelKo": "시행 조치"
     },
     {
-      "key": "featured",
-      "label": "Featured",
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 2,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "모금 활동"
+    },
+    {
+      "key": "media & entertainment",
+      "label": "Media & Entertainment",
       "count": 2,
       "rank": 10,
       "change": "new",
-      "labelKo": "추천 동영상"
+      "labelKo": "미디어/엔터테인먼트"
     }
   ]
 }
