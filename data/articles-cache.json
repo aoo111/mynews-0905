@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T14:09:19.157Z",
+  "collectedAt": "2026-09-12T16:10:21.841Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:12.500Z",
+      "fetchedAt": "2026-09-12T16:10:12.955Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:12.537Z",
+      "fetchedAt": "2026-09-12T16:10:13.089Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:13.349Z",
+      "fetchedAt": "2026-09-12T16:10:14.330Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:13.491Z",
+      "fetchedAt": "2026-09-12T16:10:14.586Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,15 +365,66 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "젠장, 그래도 만들어라",
+          "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
+          "link": "https://news.hada.io/topic?id=33585",
+          "pubDate": "2026-09-12T15:37:59.000Z",
+          "image": null,
+          "summary": "CIA가 9/11 테러 25주년을 기념해 대통령 일일 정보보고(PDB) 자료 71건을 기밀 해제하고 공개함 이번 자료 모음은 9/11 관련 CIA PDB 기밀 해제 자료의 단일 공개로는 최대 규모이며, 테러 발생 이전 수년과 발생 다음 날의 분석을 포함함 ...",
+          "keywords": [
+            "CIA",
+            "9/11을",
+            "기념해",
+            "대통령",
+            "일일"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Matt Mullenweg, 축출 후 Automattic 직원들에게 Slack으로 경영권 복귀 알려",
+          "link": "https://news.hada.io/topic?id=33584",
+          "pubDate": "2026-09-12T15:34:59.000Z",
+          "image": null,
+          "summary": "Matt Mullenweg가 CEO직에서 물러나게 된 지 며칠 만에 Automattic 사내 Slack에서 이사회가 다시 합의했고 자신이 경영권을 되찾았다고 밝힘 이사회는 앞서 Mullenweg를 유급 휴직 처리하고 CFO Mark Davies를 임시 CEO로 임명했으며, 당시 회사...",
+          "keywords": [
+            "Matt",
+            "Mullenweg",
+            "축출",
+            "Automattic",
+            "직원들에게"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Apple Neural Engine 역공학 하기: LLM의 병목은 연산보다 데이터 이동",
+          "link": "https://news.hada.io/topic?id=33583",
+          "pubDate": "2026-09-12T14:35:47.000Z",
+          "image": null,
+          "summary": "신경망 전용 칩인 Apple Neural Engine(ANE)이 LLM 실행에서 GPU보다 불리해지는 이유를 내부 구조와 메모리 전송 실험으로 살펴봄 M1 ANE의 연산기는 트랜스포머에 필요한 계산도 수행할 수 있지만, 주변 구조는 같은 가중치를 반복 사용하는 이미지 처리용 신경망(CNN)",
+          "keywords": [
+            "Apple",
+            "Neural",
+            "Engine",
+            "역공학",
+            "하기:"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "젠장, 그래도 만들자",
           "link": "https://news.hada.io/topic?id=33582",
           "pubDate": "2026-09-12T13:33:21.000Z",
           "image": null,
-          "summary": "생성형 AI가 직접 만든 코드와 도구의 가치를 떨어뜨리는 듯한 상황에서도, 경쟁 속도보다 만드는 즐거움과 배움을 이유로 창작을 계속할 수 있음 LLM의 코드 생성 능력은 실제로 뛰어나지만, 코드 보조 도구를 쓰는 일이 즐겁거나 그 결과물에 소유감과 자부심을 ...",
+          "summary": "프롬프트 하나로 도구와 게임을 만드는 시대가 되면서, 수년간 어렵게 배운 기술과 직접 만든 결과물이 무슨 가치가 있는지 회의가 들 수 있음 LLM이 코드를 잘 만든다는 사실과 그 도구로 프로그래밍하는 일이 즐거운지는 별개이며, 결과물이 내 것처럼 느껴지지 ...",
           "keywords": [
             "젠장",
             "그래도",
-            "만들어라"
+            "만들자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -394,58 +445,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Λ Snap - 어린이와 성인 모두 친근하게 접근할 수 있는 컴퓨터 과학 학습용 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=33579",
-          "pubDate": "2026-09-12T10:32:53.000Z",
-          "image": null,
-          "summary": "Snap! 은 어린이와 성인이 폭넓게 접근할 수 있는 프로그래밍 언어이자, 컴퓨터 과학을 깊이 있게 공부하기 위한 플랫폼임 홈페이지에서 실행 환경, 예제 프로젝트와 학습 자료로 바로 이동할 수 있음 추천 프로젝트에는 게임, 퍼즐, 애...",
-          "keywords": [
-            "Snap",
-            "어린이와",
-            "성인",
-            "모두",
-            "친근하게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Navier-Stokes 관련 발표",
-          "link": "https://news.hada.io/topic?id=33578",
-          "pubDate": "2026-09-12T09:32:23.000Z",
-          "image": null,
-          "summary": "Clay Mathematics Institute(CMI) 는 Navier-Stokes 문제가 해결된 것으로 보인다는 발표에 전 세계 수학계와 함께 기대감을 표함 해당 밀레니엄 문제는 3차원 유클리드 공간에서 Navier-Stokes 해의 존재성과 매끄러움을 묻는 문제임 최...",
-          "keywords": [
-            "Navier",
-            "Stokes",
-            "발표"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "정신에 영향을 주는 약물이 안데스 문명의 부상에 핵심 역할을 함",
-          "link": "https://news.hada.io/topic?id=33577",
-          "pubDate": "2026-09-12T08:39:49.000Z",
-          "image": null,
-          "summary": "페루 안데스의 3,000년 된 사원에서 향정신성 식물의 잔류물이 확인되면서, 약물을 활용한 의례가 종교적 권위와 문명 형성에 기여했다는 해석을 뒷받침함 Chavín의 지도자들은 강렬한 소리와 빛 속에서 외부 엘리트에게 약물 의례를 제공하고, 의식 상태의 변화를...",
-          "keywords": [
-            "정신에",
-            "영향을",
-            "주는",
-            "약물이",
-            "안데스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:14.219Z",
+      "fetchedAt": "2026-09-12T16:10:15.418Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +539,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:14.327Z",
+      "fetchedAt": "2026-09-12T16:10:15.650Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:14.602Z",
+      "fetchedAt": "2026-09-12T16:10:16.062Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:14.690Z",
+      "fetchedAt": "2026-09-12T16:10:16.110Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:17.180Z",
+      "fetchedAt": "2026-09-12T16:10:19.328Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:17.368Z",
+      "fetchedAt": "2026-09-12T16:10:19.618Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -978,7 +980,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:17.410Z",
+      "fetchedAt": "2026-09-12T16:10:19.700Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1077,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:18.739Z",
+      "fetchedAt": "2026-09-12T16:10:21.159Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,11 +1088,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - gg.go.kr",
+          "title": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlUQlFfdlNLNkQ2RWo1ME9lZEc5OGJRYzQyUk5EX2xaV2NjX2VrV0dBWUJYbkZleWs5M0ZnN3hJWVF3QU1pYW9xaU13QnpPVEYydGdkdlNBRjZsVVc0V2padnIteXZGRzlmQ0RPZTZWLTJuc05XaWJjT1kxX3oybE9Ya3hja0dja0JoMEVqYVFvdUUwUXc?oc=5",
           "pubDate": "2026-09-10T15:02:22.000Z",
           "image": null,
-          "summary": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 gg.go.kr",
+          "summary": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 경기도청",
           "keywords": [
             "「2025년",
             "광릉숲",
@@ -1137,11 +1139,11 @@
           "summaryKo": null
         },
         {
-          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - kueherald.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
           "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
-          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 kueherald.co.kr",
           "keywords": [
             "공고",
             "2026년",
@@ -1171,7 +1173,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T14:09:19.147Z",
+      "fetchedAt": "2026-09-12T16:10:21.835Z",
       "error": null
     }
   },
