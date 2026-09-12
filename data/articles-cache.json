@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T10:09:52.910Z",
+  "collectedAt": "2026-09-12T12:12:33.023Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:41.969Z",
+      "fetchedAt": "2026-09-12T12:12:25.122Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:42.029Z",
+      "fetchedAt": "2026-09-12T12:12:25.164Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "머스크, 자신 다룬 다큐에 법적 대응 경고...\"허위·악의적 공작\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215194",
+          "pubDate": "2026-09-12T20:09:12.000Z",
+          "image": null,
+          "summary": "일론 머스크 CEO가 오스카 수상작 감독 알렉스 기브니의 신작 다큐멘터리 '머스크(Musk)'에 거세게 반발하며 전면전을 선언했다. 베니스 영화제 초연 이후 작품을 둘러싼 논란이 커지자, 머스크는 법적 고발 조치와 함께 거친 비난을 쏟아내며 강력한 대응을 펼치는 모습이다.할리우드 리포트에 따르면, 머스크의 자문 변호사인 알렉스 스피로는 지난 3일(현지시간) 제작사 직소(Jigsaw) 프로덕션에 공식 법적 통지서를 발송해 작품 내 사실관계 왜곡에 따른 법적 책임을 묻겠다고 경고했다. 변호인 측은 다큐멘터리가 2024년 미국 대선 과정",
+          "keywords": [
+            "머스크",
+            "자신",
+            "다룬",
+            "다큐에",
+            "법적"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[AI 이슈트렌드] 파주 냉동창고 살인·'야차룰' 학폭 논란...대기업 오너가도 관심",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215192",
+          "pubDate": "2026-09-12T19:20:44.000Z",
+          "image": null,
+          "summary": "AI타임스와 이스트에이드의 9월 둘째 주(9월4일~10일) 이슈 분석 결과, 외래진료 본인부담 확대와 함께 청주·파주에서 벌어진 살인사건 등이 상위권을 차지했다.이번 주 검색량 1위는 '외래진료 본인부담 90%(6.11%)'가 차지했다. 내년부터 외래진료가 연 300회를 초과하면 본인부담이 90%까지 오른다. 기존 연 365회 초과자를 대상으로 부과하던 본인부담 기준을 300회 초과로 강화했다. 다만 아동·임산부와 중증장애인, 중증·희귀·중증난치 질환자는 예외 대상이다.2위는 '청주 공원 싸움 사망(5.97%)'이 차지했다. 힘이",
+          "keywords": [
+            "AI",
+            "이슈트렌드",
+            "파주",
+            "냉동창고",
+            "살인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“인류를 위한 AI 컴패니언”…딥그로브의 캐릭터챗이 남다른 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214911",
+          "pubDate": "2026-09-12T19:12:17.000Z",
+          "image": null,
+          "summary": "AI 캐릭터챗 서비스 '크랙'과 '이루다'의 초기 개발·기획을 주도했던 전문가들이 모여 만든 스타트업 딥그로브(DeepGrov, 대표 나봉민)가 단순 대화를 넘어선 AI 컴패니언 서비스 '프론티아(Frontia)'를 전면에 내세우며 본격적인 시장 공략에 나섰다. 이 회사는 지난 7월 15억원 규모의 시드 투자 유치에 성공한 바 있다.나봉민 대표는 삼성전자 엔지니어 출신으로 뤼튼에서 AI 캐릭터챗 서비스 '크랙'의 초기 기획과 제품 개발을 주도했다. 최예지 최고 제품책임자(CPO)는 스캐터랩에서 AI 챗봇 '이루다'의 제품 총괄을 맡",
+          "keywords": [
+            "인류를",
+            "위한",
+            "AI",
+            "컴패니언",
+            "딥그로브의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
-          "pubDate": "2026-09-12T17:24:33.000Z",
-          "image": null,
-          "summary": "구글이 대형언어모델(LLM)의 도구 사용 능력을 효율적으로 학습하기 위한 새로운 데이터 생성 프레임워크를 공개했다. 복잡한 API 탐색 과정에서 시행착오를 반복하는 기존 방식과 달리, 먼저 검증된 도구 사용 경로를 만든 뒤 이에 맞는 사용자 질의를 생성하는 방식으로 데이터 생성 비용과 실패율을 크게 낮췄다. 구글 연구진은 최근 AI 에이전트의 도구 사용 능력을 학습하는 데이터를 저렴하고 안정적으로 생성할 수 있는 프레임워크 ‘툴그래드(ToolGrad)’를 온라인 아카이브를 통해 공개했다.AI 에이전트가 복잡한 업무를 수행하려면 요청",
-          "keywords": [
-            "구글",
-            "AI",
-            "도구",
-            "학습",
-            "툴그래드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215186",
-          "pubDate": "2026-09-12T16:49:57.000Z",
-          "image": null,
-          "summary": "사카나 AI가 단일 초거대 모델 중심의 성능 경쟁에서 벗어나, 성능과 비용을 동시에 최적화하는 ‘에이전트 오케스트레이션’ 카드로 판도 변화에 나섰다.사카나 AI는 10일(현지시간) 여러 AI 모델을 동적으로 조합해 작업을 수행하는 오케스트레이션 시스템 ‘푸구(Fugu)’의 신규 라인업인 ‘푸구 맥스(Fugu Max)’와 ‘푸구 울트라 v2(Fugu Ultra v2)’를 공식 출시했다.이번 신제품의 핵심은 단순한 버전 업데이트를 넘어, 기존 푸구 시스템이 지녔던 한계를 깨고 '비용 극대화'와 '독점 빅테크 탈피'라는 차별점을 제시했다",
-          "keywords": [
-            "사카나",
-            "에이전트",
-            "오케스트레이션",
-            "푸구",
-            "버전"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215190",
-          "pubDate": "2026-09-12T16:16:31.000Z",
-          "image": null,
-          "summary": "세일즈포스가 기업 곳곳에 적용되는 AI 에이전트를 하나의 체계로 통합 관리하기 위한 새로운 기업용 프레임워크를 공개했다. 에이전트와 오케스트레이션 플랫폼이 부서와 업무별로 빠르게 늘어나면서 발생하는 ‘에이전트 난립(Agent Sprawl)’에 대응해, 데이터와 모델부터 에이전트의 행동, 보안, 거버넌스까지 기업이 통합적으로 통제할 수 있도록 하는 것이 핵심이다.세일즈포스는 10일(현지시간) 특정 에이전트 하나를 안정적으로 실행하는 데 그치지 않고 기업 내 모든 AI를 위한 공통 기반을 제공하는 통합 관리 프레임워크 ‘트러스트 엔터프",
-          "keywords": [
-            "세일즈포스",
-            "에이전트",
-            "난립",
-            "잡는다",
-            "통합"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:43.333Z",
+      "fetchedAt": "2026-09-12T12:12:26.464Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:43.479Z",
+      "fetchedAt": "2026-09-12T12:12:26.593Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Litelm - 비대함을 덜어낸 LiteLLM",
+          "link": "https://news.hada.io/topic?id=33580",
+          "pubDate": "2026-09-12T11:31:40.000Z",
+          "image": null,
+          "summary": "litelm은 LiteLLM의 모델 라우팅과 메시지 변환 등 호출 경로만 추려, 약 2,900줄과 기본 의존성 2개인 openai, httpx로 구현한 라이브러리임 19개 제공자를 provider/model 형식으로 호출하며, 스트리밍...",
+          "keywords": [
+            "Litelm",
+            "비대함을",
+            "덜어낸",
+            "LiteLLM"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Λ Snap - 어린이와 성인 모두 친근하게 접근할 수 있는 컴퓨터 과학 학습용 프로그래밍 언어",
+          "link": "https://news.hada.io/topic?id=33579",
+          "pubDate": "2026-09-12T10:32:53.000Z",
+          "image": null,
+          "summary": "Snap! 은 어린이와 성인이 폭넓게 접근할 수 있는 프로그래밍 언어이자, 컴퓨터 과학을 깊이 있게 공부하기 위한 플랫폼임 홈페이지에서 실행 환경, 예제 프로젝트와 학습 자료로 바로 이동할 수 있음 추천 프로젝트에는 게임, 퍼즐, 애...",
+          "keywords": [
+            "Snap",
+            "어린이와",
+            "성인",
+            "모두",
+            "친근하게"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Navier-Stokes 관련 발표",
           "link": "https://news.hada.io/topic?id=33578",
@@ -384,7 +417,7 @@
           "link": "https://news.hada.io/topic?id=33577",
           "pubDate": "2026-09-12T08:39:49.000Z",
           "image": null,
-          "summary": "정신에 영향을 주는 약물이 안데스 문명의 부상에 핵심 역할을 함",
+          "summary": "페루 안데스의 3,000년 된 사원에서 향정신성 식물의 잔류물이 확인되면서, 약물을 활용한 의례가 종교적 권위와 문명 형성에 기여했다는 해석을 뒷받침함 Chavín의 지도자들은 강렬한 소리와 빛 속에서 외부 엘리트에게 약물 의례를 제공하고, 의식 상태의 변화를...",
           "keywords": [
             "정신에",
             "영향을",
@@ -409,43 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "뮤팟 개인정보 유출, 일부 회원은 계좌정보와 암호화된 주민번호도 포함",
-          "link": "https://news.hada.io/topic?id=33573",
-          "pubDate": "2026-09-12T06:30:02.000Z",
-          "image": null,
-          "summary": "배경음악과 영상 소스를 제공하는 뮤팟에서 일부 회원의 개인정보가 유출됐으며, 정확한 피해 규모는 조사 중임 일반회원은 이름, 이메일, 휴대전화번호 등이, 출금계좌 등록회원은 계좌정보와 개인/사업자 식별정보도 유출 항목에 포함됨 주민등록번호와...",
-          "keywords": [
-            "뮤팟",
-            "개인정보",
-            "유출",
-            "일부",
-            "회원은"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Google 검색, 목적지 주소를 바로 읽을 수 없는 리디렉션 링크 확대",
-          "link": "https://news.hada.io/topic?id=33571",
-          "pubDate": "2026-09-12T05:32:34.000Z",
-          "image": null,
-          "summary": "검색 결과의 링크가 실제 주소 대신 google.com/goto?url=... 형식으로 바뀌고 있으며, 클릭하면 Google을 거쳐 목적지로 이동함 기존 리디렉션과 달리 링크 문자열만으로 목적지 주소를 복원할 수 없어, HTML에서 주소를 추출하던 수집 방식에 영향을...",
-          "keywords": [
-            "Google",
-            "검색",
-            "목적지",
-            "주소를",
-            "바로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:44.379Z",
+      "fetchedAt": "2026-09-12T12:12:27.532Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +536,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:44.444Z",
+      "fetchedAt": "2026-09-12T12:12:27.661Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:44.557Z",
+      "fetchedAt": "2026-09-12T12:12:27.761Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:44.611Z",
+      "fetchedAt": "2026-09-12T12:12:27.826Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -700,6 +699,60 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "말하고 더빙하고 영상 만든다…이스트소프트, 페르소에이아이 해외 판로 확장",
+          "link": "https://www.venturesquare.net/1113144/",
+          "pubDate": "2026-09-12T10:40:06.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/EASTSOFT-779x522.png",
+          "summary": "이스트소프트가 K몬스터그룹과 업무협약을 맺고 AI 아바타 서비스 페르소에이아이의 국내외 판로 확대에 나선다. 양사는 대화형 AI 아바타와 글로벌 더빙, 영상 제작 솔루션을 중심으로 신규 고객 발굴과 영업·마케팅을 공동 추진한다. 이스트소프트는 기존 산업 적용 사례를 바... The post 말하고 더빙하고 영상 만든다…이스트소프트, 페르소에이아이 해외 판로 확장 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI아바타",
+            "K몬스터그룹",
+            "글로벌진출"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "40개 세션, 2초 안에 언어 장벽 넘었다…엑스엘에이트, 트라이에브리싱 통번역",
+          "link": "https://www.venturesquare.net/1113134/",
+          "pubDate": "2026-09-12T10:14:04.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/EXL-789x360.jpg",
+          "summary": "엑스엘에이트가 트라이에브리싱 2026의 3개 공간과 약 40개 세션에 AI 동시 통번역 솔루션 이벤트캣을 공급했다. 동시 기계번역과 자동 청킹, 사전 용어집을 활용해 평균 2초 이하의 통번역과 전문용어 처리를 지원했다. 엑스엘에이트는 넥스트라이즈와 컴업에 이어 트라이에... The post 40개 세션, 2초 안에 언어 장벽 넘었다…엑스엘에이트, 트라이에브리싱 통번역 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI통번역",
+            "XL8",
+            "넥스트라이즈"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "21개 문항으로 최근 6개월 살핀다…트로스트, 성인 ADHD 자가점검 출시",
+          "link": "https://www.venturesquare.net/1113123/",
+          "pubDate": "2026-09-12T10:09:18.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ADHD-789x438.png",
+          "summary": "트로스트가 DSM-5 핵심 증상을 참고해 개발한 21문항의 성인 ADHD 자가 스크리닝 도구를 무료로 출시했다. 이용자는 최근 6개월의 주의력결핍과 과잉행동·충동성, 일상 실행 관련 어려움을 점검하고 4단계 결과를 확인할 수 있다. 해당 검사는 참고용으로 임상 진단이나... The post 21개 문항으로 최근 6개월 살핀다…트로스트, 성인 ADHD 자가점검 출시 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "넛지헬스케어",
+            "다인",
+            "디지털헬스케어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "말로 가구 놓고 공간 설계…아키스케치, 3D 인테리어 SW 첫 GS 1등급",
           "link": "https://www.venturesquare.net/1113111/",
@@ -735,63 +788,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "추석 선물, 3만원 아래로 몰렸다…에누리서 통조림 278%·홍삼 83%↑",
-          "link": "https://www.venturesquare.net/1113100/",
-          "pubDate": "2026-09-12T08:17:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ENURI-789x236.jpg",
-          "summary": "에누리 가격비교에서 8월 31일부터 9월 6일까지 식품 카테고리 거래액이 전주보다 25% 증가했다. 통조림은 278%, 홍삼은 83%, 오일은 56% 늘며 3만원 미만 실속형 상품과 건강기능식품이 강세를 보였다. 사전구매 할인과 가격비교를 활용해 명절 선물 비용을 줄이... The post 추석 선물, 3만원 아래로 몰렸다…에누리서 통조림 278%·홍삼 83%↑ appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "가성비",
-            "건강기능식품",
-            "명절선물"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "완성차에 단말만 붙이면 무인 이동…바이다, 110억원 AVM 국책과제 이끈다",
-          "link": "https://www.venturesquare.net/1113093/",
-          "pubDate": "2026-09-12T08:14:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/BIDA-789x444.jpg",
-          "summary": "바이다가 총사업비 109억7,000만원 규모의 탈부착형 단말 기반 멀티차량 원격 운행 국책과제 주관기관으로 선정됐다. 컨소시엄은 차량 개조 없이 일반 양산차를 이동·정렬하는 AVM과 1대 다수 관제, V2N 통신, 협력 인지, 제로트러스트 보안 기술을 개발한다. 202... The post 완성차에 단말만 붙이면 무인 이동…바이다, 110억원 AVM 국책과제 이끈다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AVM",
-            "V2N",
-            "국책과제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "밤사이 코골이·기침, 서버 전송 없이 분석…비브레스트 ‘트랜슬립 AI’ 출시",
-          "link": "https://www.venturesquare.net/1113073/",
-          "pubDate": "2026-09-12T08:06:35.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/TRAN-789x479.png",
-          "summary": "비브레스트가 스마트폰으로 코골이와 기침, 호흡 불안정, 환경소음을 기록하는 트랜슬립 AI를 출시했다. 소리 분석과 녹음 저장은 모두 이용자의 기기에서 처리되며 주요 이벤트 구간만 선별해 보관한다. AI 슬립코치는 개인별 기록과 아침 컨디션을 분석해 매일 실천할 수 있는... The post 밤사이 코골이·기침, 서버 전송 없이 분석…비브레스트 ‘트랜슬립 AI’ 출시 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI슬립코치",
-            "비브레스트",
-            "수면관리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:49.795Z",
+      "fetchedAt": "2026-09-12T12:12:30.821Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:50.083Z",
+      "fetchedAt": "2026-09-12T12:12:31.054Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -978,7 +977,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:50.142Z",
+      "fetchedAt": "2026-09-12T12:12:31.076Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -986,6 +985,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "담보 대신 기술력 본다…기보, 코스타리카형 기술금융 체계 구축",
+          "link": "https://www.venturesquare.net/1113165/",
+          "pubDate": "2026-09-12T11:07:15.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KIBO-696x522.jpg",
+          "summary": "기술보증기금이 코스타리카 현지 환경에 맞춘 기술평가시스템 CTRS와 기술보증제도 CRTG를 구축했다. 코스타리카개발은행과 협약을 맺고 운영 경험 공유, 인력 교류, 신규 협력사업 발굴을 추진한다. 향후 미주개발은행과 함께 코스타리카 사례를 중남미 지역으로 사업 확산을 ... The post 담보 대신 기술력 본다…기보, 코스타리카형 기술금융 체계 구축 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "K기술금융",
+            "기술보증",
+            "기술보증기금",
+            "기술평가",
+            "미주개발은행"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울 AI 스타트업, 타이베이서 시장성 검증한다…양 도시 혁신거점 연결",
+          "link": "https://www.venturesquare.net/1113141/",
+          "pubDate": "2026-09-12T10:35:58.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SEOUL-789x480.png",
+          "summary": "서울 AI 허브가 INNOPAD TAIPEI와 협약을 맺고 서울 AI 스타트업의 대만 진출 지원망을 구축한다. 양 기관은 체류형 시장검증과 공동 IR, 투자자 연결, AI·반도체 공동연구 및 기술검증을 추진한다. 초기 시범사업 성과를 토대로 참여 기업과 지원 범위를 단... The post 서울 AI 스타트업, 타이베이서 시장성 검증한다…양 도시 혁신거점 연결 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI스타트업",
+            "INNOPADTAIPEI",
+            "공동연구",
+            "글로벌진출",
+            "대만진출"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[기고] AI 시대 공공행정, 기술 도입에서 ‘현장 문제 해결’로…송석언 JDC 이사장",
+          "link": "https://www.venturesquare.net/1112754/",
+          "pubDate": "2026-09-12T09:00:25.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/015407-789x444.png",
+          "summary": "AI 기본법과 AI·데이터 기반 행정법 시행으로 공공기관에도 AI를 업무와 의사결정에 활용하는 역량이 중요해졌다. JDC는 AX혁신팀 신설과 사내 생성형 언어모델, 통합데이터 플랫폼 구축을 통해 기관의 지식과 데이터를 실제 업무에 연결할 계획이다. 개발사업과 면세점 등... The post [기고] AI 시대 공공행정, 기술 도입에서 ‘현장 문제 해결’로…송석언 JDC 이사장 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI전환",
+            "AX",
+            "JDC",
+            "공공서비스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "공항 5분·크루즈터미널 20분…JTC, 제주에 275평 사후면세점 열었다",
           "link": "https://www.venturesquare.net/1113080/",
@@ -1021,63 +1074,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "신용평가 비용 낮추고 기업 데이터 연결…KOSA·한국평가데이터 협력",
-          "link": "https://www.venturesquare.net/1112981/",
-          "pubDate": "2026-09-12T07:18:44.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KOSA-2-789x444.jpg",
-          "summary": "한국인공지능·소프트웨어산업협회와 한국평가데이터가 AI·SW 기업의 성장을 지원하기 위한 업무협약을 체결했다. KOSA 회원사는 신용평가와 기업정보 서비스 이용 시 수수료 우대 혜택을 받을 수 있다. 양 기관은 한국평가데이터의 기업정보를 회원사 관리와 경영 지원, 산업 ... The post 신용평가 비용 낮추고 기업 데이터 연결…KOSA·한국평가데이터 협력 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI기업",
-            "KoDATA",
-            "KOSA",
-            "기업정보",
-            "소프트웨어기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경남 로컬 창업팀 7곳, 제주서 ‘지역자원 사업화’ 해법 찾았다",
-          "link": "https://www.venturesquare.net/1112963/",
-          "pubDate": "2026-09-12T07:07:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/insight-789x443.jpg",
-          "summary": "경남창조경제혁신센터와 경상남도가 로컬 창업기업 7개사를 대상으로 제주 로컬 인사이트 트립을 진행했다. 참여기업은 세화리와 제주 원도심의 브랜드·공간 운영 사례를 살펴보고 선배 창업가로부터 농산물 상품화와 해외 진출 경험을 들었다. 경남창경은 앞서 발굴한 기업 간 공동제... The post 경남 로컬 창업팀 7곳, 제주서 ‘지역자원 사업화’ 해법 찾았다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "경남창조경제혁신센터",
-            "경상남도",
-            "로컬브랜드",
-            "로컬창업",
-            "로컬크리에이터"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "부산에서 일하고 로컬 비즈니스 만났다…부산창경, 일본 워케이션 22명 유치",
-          "link": "https://www.venturesquare.net/1112960/",
-          "pubDate": "2026-09-12T07:04:04.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/busan-9-789x515.jpg",
-          "summary": "부산광역시와 부산창조경제혁신센터가 일본워케이션협회와 일본인 재직자·프리랜서 22명을 대상으로 부산형 워케이션 프로그램을 운영했다. 참가자들은 업무공간과 지역 콘텐츠를 경험하고 부산 관계자들과 관광, 미디어, 마케팅, IT 분야의 사업 가능성을 논의했다. 종료 설문에서는... The post 부산에서 일하고 로컬 비즈니스 만났다…부산창경, 일본 워케이션 22명 유치 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "KoreaNomadGateway",
-            "글로벌교류",
-            "디지털노마드",
-            "로컬비즈니스",
-            "부산관광"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:52.459Z",
+      "fetchedAt": "2026-09-12T12:12:32.653Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1120,11 +1119,11 @@
           "summaryKo": null
         },
         {
-          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - mtnews.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
           "pubDate": "2026-09-11T02:39:10.000Z",
           "image": null,
-          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 mtnews.net",
           "keywords": [
             "2026년",
             "국가과학자",
@@ -1171,77 +1170,77 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T10:09:52.901Z",
+      "fetchedAt": "2026-09-12T12:12:33.015Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "글로벌진출",
+      "label": "글로벌진출",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "up"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 7,
+      "change": "same"
     },
     {
       "key": "2026년",
       "label": "2026년",
       "count": 2,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 7,
-      "change": "new"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "공고",
       "label": "공고",
       "count": 2,
-      "rank": 8,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
-      "count": 2,
-      "rank": 9,
-      "change": "up"
-    },
-    {
-      "key": "에이전트",
-      "label": "에이전트",
       "count": 2,
       "rank": 10,
       "change": "down"
