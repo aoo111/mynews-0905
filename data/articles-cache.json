@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T16:10:21.841Z",
+  "collectedAt": "2026-09-12T18:11:12.530Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:12.955Z",
+      "fetchedAt": "2026-09-12T18:11:04.596Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:13.089Z",
+      "fetchedAt": "2026-09-12T18:11:04.659Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:14.330Z",
+      "fetchedAt": "2026-09-12T18:11:05.609Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:14.586Z",
+      "fetchedAt": "2026-09-12T18:11:05.877Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,89 +365,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
-          "link": "https://news.hada.io/topic?id=33585",
-          "pubDate": "2026-09-12T15:37:59.000Z",
+          "title": "Android에서 트래픽을 유출하는 또 다른 방법 발견",
+          "link": "https://news.hada.io/topic?id=33591",
+          "pubDate": "2026-09-12T17:53:25.000Z",
           "image": null,
-          "summary": "CIA가 9/11 테러 25주년을 기념해 대통령 일일 정보보고(PDB) 자료 71건을 기밀 해제하고 공개함 이번 자료 모음은 9/11 관련 CIA PDB 기밀 해제 자료의 단일 공개로는 최대 규모이며, 테러 발생 이전 수년과 발생 다음 날의 분석을 포함함 ...",
+          "summary": "Android 네트워크 스택에서 악성 앱이 VPN 터널 밖으로 트래픽을 전송할 수 있는 문제가 발견됐으며, VPN 없는 모든 연결을 차단하는 설정을 켜도 발생함 공격에 특별한 권한이 필요하지 않으며, 기기의 실제 IP 주소가 인터넷에 노출돼 추적이나 감시에 이용될 가...",
           "keywords": [
-            "CIA",
-            "9/11을",
-            "기념해",
-            "대통령",
-            "일일"
+            "Android에서",
+            "트래픽을",
+            "유출하는",
+            "다른",
+            "방법"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Matt Mullenweg, 축출 후 Automattic 직원들에게 Slack으로 경영권 복귀 알려",
-          "link": "https://news.hada.io/topic?id=33584",
-          "pubDate": "2026-09-12T15:34:59.000Z",
+          "title": "1,000달러로 좋은 차를 사는 방법",
+          "link": "https://news.hada.io/topic?id=33590",
+          "pubDate": "2026-09-12T17:50:25.000Z",
           "image": null,
-          "summary": "Matt Mullenweg가 CEO직에서 물러나게 된 지 며칠 만에 Automattic 사내 Slack에서 이사회가 다시 합의했고 자신이 경영권을 되찾았다고 밝힘 이사회는 앞서 Mullenweg를 유급 휴직 처리하고 CFO Mark Davies를 임시 CEO로 임명했으며, 당시 회사...",
+          "summary": "저가 중고차 구매에는 차량 상태를 판단하는 지식과 신뢰할 만한 인맥이 중요함. 이사하는 지인에게 1,000달러에 산 15년 된 차를 가족이 5년 더 운행한 사례가 있음 이 시장에서 좋은 차의 기준은 외관보다 운행 가능 여부임. 문이나 창문의 일부 결함보다 정상 주...",
           "keywords": [
-            "Matt",
-            "Mullenweg",
-            "축출",
-            "Automattic",
-            "직원들에게"
+            "000달러로",
+            "좋은",
+            "차를",
+            "사는",
+            "방법"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Apple Neural Engine 역공학 하기: LLM의 병목은 연산보다 데이터 이동",
-          "link": "https://news.hada.io/topic?id=33583",
-          "pubDate": "2026-09-12T14:35:47.000Z",
+          "title": "Starlink 신호 누출, 전파천문학의 가장 중요한 주파수를 위협",
+          "link": "https://news.hada.io/topic?id=33589",
+          "pubDate": "2026-09-12T17:47:25.000Z",
           "image": null,
-          "summary": "신경망 전용 칩인 Apple Neural Engine(ANE)이 LLM 실행에서 GPU보다 불리해지는 이유를 내부 구조와 메모리 전송 실험으로 살펴봄 M1 ANE의 연산기는 트랜스포머에 필요한 계산도 수행할 수 있지만, 주변 구조는 같은 가중치를 반복 사용하는 이미지 처리용 신경망(CNN)",
+          "summary": "Starlink 위성의 비의도적 하드웨어 전파 누출이 초기 우주의 미약한 수소 신호를 관측하려는 SKA-Low의 주파수 대역을 오염시키고 있음 Curtin University 연구팀은 위성 1,806기에서 전파 방출 112,534건을 검출했으며, 일부 주파수에서는 관측...",
           "keywords": [
-            "Apple",
-            "Neural",
-            "Engine",
-            "역공학",
-            "하기:"
+            "Starlink",
+            "신호",
+            "누출",
+            "전파천문학의",
+            "가장"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "젠장, 그래도 만들자",
-          "link": "https://news.hada.io/topic?id=33582",
-          "pubDate": "2026-09-12T13:33:21.000Z",
+          "title": "Nvidia는 AI의 중앙은행이다",
+          "link": "https://news.hada.io/topic?id=33588",
+          "pubDate": "2026-09-12T17:44:25.000Z",
           "image": null,
-          "summary": "프롬프트 하나로 도구와 게임을 만드는 시대가 되면서, 수년간 어렵게 배운 기술과 직접 만든 결과물이 무슨 가치가 있는지 회의가 들 수 있음 LLM이 코드를 잘 만든다는 사실과 그 도구로 프로그래밍하는 일이 즐거운지는 별개이며, 결과물이 내 것처럼 느껴지지 ...",
+          "summary": "Nvidia는 고객사의 데이터센터 수익과 장비 가치를 보증해 AI 인프라 투자를 촉진하고 자사 칩 수요를 뒷받침함. 지난 3년간 스타트업 투자에 700억 달러 넘게 약정하고 고객에게 약 3,000억 달러의 금융 지원을 제공함 매출의 약 절반을 차지하는 하이퍼스케일러가...",
           "keywords": [
-            "젠장",
-            "그래도",
-            "만들자"
+            "Nvidia는",
+            "AI의",
+            "중앙은행이다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Litelm - 비대함을 덜어낸 LiteLLM",
-          "link": "https://news.hada.io/topic?id=33580",
-          "pubDate": "2026-09-12T11:31:40.000Z",
+          "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
+          "link": "https://news.hada.io/topic?id=33587",
+          "pubDate": "2026-09-12T16:44:18.000Z",
           "image": null,
-          "summary": "litelm은 LiteLLM의 모델 라우팅과 메시지 변환 등 호출 경로만 추려, 약 2,900줄과 기본 의존성 2개인 openai, httpx로 구현한 라이브러리임 19개 제공자를 provider/model 형식으로 호출하며, 스트리밍...",
+          "summary": "Minitap 팀이 Google의 모바일 자동화 프로젝트 Artemis에서 자신들이 만든 mobile-use 코드를 발견했지만, 원래 프로젝트와 개발자에 대한 출처 표기는 찾을 수 없었음 Android 연결 코드와 에이전트 지침, WhatsApp 예제가 일치했으며, 이전 버전에는 같은 버그까지 재현...",
           "keywords": [
-            "Litelm",
-            "비대함을",
-            "덜어낸",
-            "LiteLLM"
+            "Google에",
+            "나은",
+            "모습을",
+            "기대했다",
+            "코드는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:15.418Z",
+      "fetchedAt": "2026-09-12T18:11:06.307Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -539,7 +540,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:15.650Z",
+      "fetchedAt": "2026-09-12T18:11:06.365Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:16.062Z",
+      "fetchedAt": "2026-09-12T18:11:06.659Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:16.110Z",
+      "fetchedAt": "2026-09-12T18:11:06.762Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +794,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:19.328Z",
+      "fetchedAt": "2026-09-12T18:11:10.199Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:19.618Z",
+      "fetchedAt": "2026-09-12T18:11:10.404Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +981,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:19.700Z",
+      "fetchedAt": "2026-09-12T18:11:10.447Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1080,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:21.159Z",
+      "fetchedAt": "2026-09-12T18:11:12.064Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1139,11 +1140,11 @@
           "summaryKo": null
         },
         {
-          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - kueherald.co.kr",
+          "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
           "pubDate": "2026-09-08T21:00:00.000Z",
           "image": null,
-          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 kueherald.co.kr",
+          "summary": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 한국도시환경헤럴드",
           "keywords": [
             "공고",
             "2026년",
@@ -1156,24 +1157,24 @@
           "summaryKo": null
         },
         {
-          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
-          "pubDate": "2026-09-07T23:38:32.000Z",
+          "title": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EbTZzVWQ5N1ROLXlJalo4a2hyTzVwdjJYTWdMbjhvdElVV2pGUHc1b2NYdFVpLXVuTU9LX2Vpa3FxajBPbU9vV0w4dHc5OGRpaUxpM0gwQVQ4MVV6eWw4QjdscW8?oc=5",
+          "pubDate": "2026-09-09T05:19:44.000Z",
           "image": null,
-          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
+          "summary": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 서울경제TV",
           "keywords": [
-            "water",
-            "중소기업",
-            "ESG",
-            "경쟁력",
-            "강화"
+            "한유원",
+            "소상공인",
+            "물류",
+            "서비스",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T16:10:21.835Z",
+      "fetchedAt": "2026-09-12T18:11:12.521Z",
       "error": null
     }
   },
