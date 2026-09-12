@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T12:12:33.023Z",
+  "collectedAt": "2026-09-12T14:09:19.157Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:25.122Z",
+      "fetchedAt": "2026-09-12T14:09:12.500Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:25.164Z",
+      "fetchedAt": "2026-09-12T14:09:12.537Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:26.464Z",
+      "fetchedAt": "2026-09-12T14:09:13.349Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:26.593Z",
+      "fetchedAt": "2026-09-12T14:09:13.491Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,21 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "젠장, 그래도 만들어라",
+          "link": "https://news.hada.io/topic?id=33582",
+          "pubDate": "2026-09-12T13:33:21.000Z",
+          "image": null,
+          "summary": "생성형 AI가 직접 만든 코드와 도구의 가치를 떨어뜨리는 듯한 상황에서도, 경쟁 속도보다 만드는 즐거움과 배움을 이유로 창작을 계속할 수 있음 LLM의 코드 생성 능력은 실제로 뛰어나지만, 코드 보조 도구를 쓰는 일이 즐겁거나 그 결과물에 소유감과 자부심을 ...",
+          "keywords": [
+            "젠장",
+            "그래도",
+            "만들어라"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Litelm - 비대함을 덜어낸 LiteLLM",
           "link": "https://news.hada.io/topic?id=33580",
@@ -428,23 +443,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Pandas는 멸종해야 한다",
-          "link": "https://news.hada.io/topic?id=33576",
-          "pubDate": "2026-09-12T08:36:49.000Z",
-          "image": null,
-          "summary": "Pandas가 느리다는 이유만으로 복잡한 분산 쿼리 시스템으로 넘어갈 필요는 없음. 약 100GB 부근의 작업은 Polars와 DuckDB 같은 고성능 단일 머신 도구로 처리할 수 있음 Amazon Redshift 통계에 행 크기와 처리량 가정을 적용하면, 테이블의 94.68%는 10...",
-          "keywords": [
-            "Pandas는",
-            "멸종해야"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:27.532Z",
+      "fetchedAt": "2026-09-12T14:09:14.219Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +537,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:27.661Z",
+      "fetchedAt": "2026-09-12T14:09:14.327Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:27.761Z",
+      "fetchedAt": "2026-09-12T14:09:14.602Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:27.826Z",
+      "fetchedAt": "2026-09-12T14:09:14.690Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:30.821Z",
+      "fetchedAt": "2026-09-12T14:09:17.180Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:31.054Z",
+      "fetchedAt": "2026-09-12T14:09:17.368Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +978,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:31.076Z",
+      "fetchedAt": "2026-09-12T14:09:17.410Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1077,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:32.653Z",
+      "fetchedAt": "2026-09-12T14:09:18.739Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1084,6 +1085,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - gg.go.kr",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlUQlFfdlNLNkQ2RWo1ME9lZEc5OGJRYzQyUk5EX2xaV2NjX2VrV0dBWUJYbkZleWs5M0ZnN3hJWVF3QU1pYW9xaU13QnpPVEYydGdkdlNBRjZsVVc0V2padnIteXZGRzlmQ0RPZTZWLTJuc05XaWJjT1kxX3oybE9Ya3hja0dja0JoMEVqYVFvdUUwUXc?oc=5",
+          "pubDate": "2026-09-10T15:02:22.000Z",
+          "image": null,
+          "summary": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 gg.go.kr",
+          "keywords": [
+            "「2025년",
+            "광릉숲",
+            "생물권보전지역",
+            "주민참여",
+            "지원사업」"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 - 데일리뉴스",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOR0hfeWZEa1JwZ0xLWjhaZ1I4VG5KV3huSkNkb2NmZnEtZVpwUFltUHBFRldFczZBMnFuSHVGTkx4XzI1S2pMNmNqTk03eXpXcFk3WkpUOUhRMEhDamVvM2hOUHJ3U3lMZnJmVmRud2FDYUxhQmh3VVIyMlJQcE5nb21GWk9tdzlrcHdtekkxLXBWRHFzaVNPSmhFZVZSVHJKbTN2c3A2em94N1BEdXIzc1FmSENFb2IwMnlxekpPYTAzU0s5U3A0YmlTUGlCaWRlUU94d0JvYTZYTGJlZUFzeWd2OE1VeXlITTd6R3B6Z2dmT1lyeTc4c1VtZUVtbGdoUS1RbVBuWVRJbDdCeFY4cndlVzFLQkhHekRuSXpGWjJOczBZSzNoN3VLWFM0UTQtbnVLdWN0SDd2V2hicXNLV2NvMTF1QWsxLTJQWlZQak9oeVpCa25vUVZOcFlTWEIxWG5qVXhrclowTDh2ZWo4V08zQVFtUWVKZXNz?oc=5",
@@ -1102,28 +1120,11 @@
           "summaryKo": null
         },
         {
-          "title": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLTlUQlFfdlNLNkQ2RWo1ME9lZEc5OGJRYzQyUk5EX2xaV2NjX2VrV0dBWUJYbkZleWs5M0ZnN3hJWVF3QU1pYW9xaU13QnpPVEYydGdkdlNBRjZsVVc0V2padnIteXZGRzlmQ0RPZTZWLTJuc05XaWJjT1kxX3oybE9Ya3hja0dja0JoMEVqYVFvdUUwUXc?oc=5",
-          "pubDate": "2026-09-10T15:02:22.000Z",
-          "image": null,
-          "summary": "「2025년 광릉숲 생물권보전지역 주민참여 지원사업」 모집공고 | 고시ㆍ공고 | 공고ㆍ입법예고 | 뉴스 경기도청",
-          "keywords": [
-            "「2025년",
-            "광릉숲",
-            "생물권보전지역",
-            "주민참여",
-            "지원사업」"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - mtnews.net",
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
           "pubDate": "2026-09-11T02:39:10.000Z",
           "image": null,
-          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 mtnews.net",
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
           "keywords": [
             "2026년",
             "국가과학자",
@@ -1170,7 +1171,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T12:12:33.015Z",
+      "fetchedAt": "2026-09-12T14:09:19.147Z",
       "error": null
     }
   },
@@ -1180,42 +1181,42 @@
       "label": "글로벌진출",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "ai",
@@ -1229,21 +1230,21 @@
       "label": "2026년",
       "count": 2,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "공고",
       "label": "공고",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
