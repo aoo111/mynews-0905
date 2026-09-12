@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T18:11:12.530Z",
+  "collectedAt": "2026-09-12T20:10:06.183Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "AI와 함께 배당주 골라볼까? ... 꼼꼼히 검증 안하면 착시 빠진다",
+          "link": "https://www.mk.co.kr/news/economy/12150611",
+          "pubDate": "2026-09-12T19:24:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/12/news-p.v1.20260910.540f192306994969bc450bb62a08a9cc_R.jpg",
+          "summary": "배당주 투자를 위한 인공지능 활용법은행 예금 금리가 낮아지거나 주식 시장의 변동성이 확대될 때면 투자자들의 시선은 자연스럽게 ‘배당주’로 향합니다. 정기적으로 계좌에 현금이 입금된..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“우리 아이들 최대 고민, 공부가 아니었다”…대인관계·가족갈등이 52%",
           "link": "https://www.mk.co.kr/news/economy/12151108",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“주담대 금리 내리겠습니다”…0.45%P 역주행 택한 NH농협은행",
-          "link": "https://www.mk.co.kr/news/economy/12150826",
-          "pubDate": "2026-09-11T11:53:55.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20250829.f4ffa57c67514bef9383fe4588ed22e6_R.png",
-          "summary": "시장금리 오름세 속 금리 인하 실수요자 부담 낮추기 나서NH농협은행이 주택담보대출 금리를 최대 0.45%포인트 낮춘다. 시장금리 상승으로 은행권 대출금리가 전반적으로 오르는 추세지..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:04.596Z",
+      "fetchedAt": "2026-09-12T20:09:56.940Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:04.659Z",
+      "fetchedAt": "2026-09-12T20:09:57.024Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:05.609Z",
+      "fetchedAt": "2026-09-12T20:09:58.157Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:05.877Z",
+      "fetchedAt": "2026-09-12T20:09:58.309Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+          "link": "https://news.hada.io/topic?id=33593",
+          "pubDate": "2026-09-12T18:41:14.000Z",
+          "image": null,
+          "summary": "AI 중심 콘텐츠의 우선순위를 낮춘 Hacker News",
+          "keywords": [
+            "AI",
+            "중심",
+            "콘텐츠의",
+            "우선순위를",
+            "낮춘"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Thelio Mira AI - GPU 메모리 192GB를 지원하는 Linux 워크스테이션",
+          "link": "https://news.hada.io/topic?id=33592",
+          "pubDate": "2026-09-12T18:38:14.000Z",
+          "image": null,
+          "summary": "System76의 Thelio Mira AI는 자체 하드웨어에서 AI 학습, 미세 조정, 반복 개발을 수행하도록 설계한 GPU 중심 워크스테이션임 NVIDIA RTX PRO 6000 두 개로 GPU 메모리를 최대 192GB까지 구성할 수 있으며, CPU는 최대 16코어 AMD Ryzen 9000 시...",
+          "keywords": [
+            "Thelio",
+            "Mira",
+            "AI",
+            "GPU",
+            "메모리"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Android에서 트래픽을 유출하는 또 다른 방법 발견",
           "link": "https://news.hada.io/topic?id=33591",
@@ -414,41 +448,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Nvidia는 AI의 중앙은행이다",
-          "link": "https://news.hada.io/topic?id=33588",
-          "pubDate": "2026-09-12T17:44:25.000Z",
-          "image": null,
-          "summary": "Nvidia는 고객사의 데이터센터 수익과 장비 가치를 보증해 AI 인프라 투자를 촉진하고 자사 칩 수요를 뒷받침함. 지난 3년간 스타트업 투자에 700억 달러 넘게 약정하고 고객에게 약 3,000억 달러의 금융 지원을 제공함 매출의 약 절반을 차지하는 하이퍼스케일러가...",
-          "keywords": [
-            "Nvidia는",
-            "AI의",
-            "중앙은행이다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
-          "link": "https://news.hada.io/topic?id=33587",
-          "pubDate": "2026-09-12T16:44:18.000Z",
-          "image": null,
-          "summary": "Minitap 팀이 Google의 모바일 자동화 프로젝트 Artemis에서 자신들이 만든 mobile-use 코드를 발견했지만, 원래 프로젝트와 개발자에 대한 출처 표기는 찾을 수 없었음 Android 연결 코드와 에이전트 지침, WhatsApp 예제가 일치했으며, 이전 버전에는 같은 버그까지 재현...",
-          "keywords": [
-            "Google에",
-            "나은",
-            "모습을",
-            "기대했다",
-            "코드는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:06.307Z",
+      "fetchedAt": "2026-09-12T20:09:59.181Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -540,7 +542,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:06.365Z",
+      "fetchedAt": "2026-09-12T20:09:59.439Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -614,7 +616,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:06.659Z",
+      "fetchedAt": "2026-09-12T20:09:59.547Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -695,7 +697,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:06.762Z",
+      "fetchedAt": "2026-09-12T20:09:59.629Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -794,7 +796,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:10.199Z",
+      "fetchedAt": "2026-09-12T20:10:02.635Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +887,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:10.404Z",
+      "fetchedAt": "2026-09-12T20:10:02.991Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -981,7 +983,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:10.447Z",
+      "fetchedAt": "2026-09-12T20:10:03.047Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1080,7 +1082,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:12.064Z",
+      "fetchedAt": "2026-09-12T20:10:05.743Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1174,59 +1176,59 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T18:11:12.521Z",
+      "fetchedAt": "2026-09-12T20:10:06.176Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "글로벌진출",
       "label": "글로벌진출",
       "count": 2,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "2026년",
