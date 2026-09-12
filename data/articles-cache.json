@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T04:10:20.176Z",
+  "collectedAt": "2026-09-12T06:13:15.675Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -33,7 +33,7 @@
         }
       ],
       "fetchedAt": "2026-09-07T08:28:01.132Z",
-      "error": "HTTP 403"
+      "error": "fetch failed"
     },
     "https://www.mk.co.kr/rss/30100041/": {
       "name": "매일경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:11.608Z",
+      "fetchedAt": "2026-09-12T06:13:06.753Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:11.744Z",
+      "fetchedAt": "2026-09-12T06:13:06.874Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:13.101Z",
+      "fetchedAt": "2026-09-12T06:13:08.318Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -357,13 +357,30 @@
         }
       ],
       "fetchedAt": "2026-09-12T04:10:13.256Z",
-      "error": null
+      "error": "fetch failed"
     },
     "https://news.hada.io/rss/news": {
       "name": "긱뉴스",
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Google 검색, 목적지 주소를 바로 읽을 수 없는 리디렉션 링크 확대",
+          "link": "https://news.hada.io/topic?id=33571",
+          "pubDate": "2026-09-12T05:32:34.000Z",
+          "image": null,
+          "summary": "검색 결과의 링크가 실제 주소 대신 google.com/goto?url=... 형식으로 바뀌고 있으며, 클릭하면 Google을 거쳐 목적지로 이동함 기존 리디렉션과 달리 링크 문자열만으로 목적지 주소를 복원할 수 없어, HTML에서 주소를 추출하던 수집 방식에 영향을...",
+          "keywords": [
+            "Google",
+            "검색",
+            "목적지",
+            "주소를",
+            "바로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "RTK는 토큰 절감을 보고하지만, 비용 벤치마크 결과는 다르다",
           "link": "https://news.hada.io/topic?id=33569",
@@ -430,26 +447,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
-          "link": "https://news.hada.io/topic?id=33565",
-          "pubDate": "2026-09-12T00:17:56.000Z",
-          "image": null,
-          "summary": "evergarden은 울창한 숲과 신비로운 작은 숲의 평온함에서 영감을 받아, 코딩·글쓰기·터미널 작업에 편안하고 우아한 화면을 지향하는 색상 테마임 자연 풍경뿐 아니라 The Legend of Zelda: The Minish Cap의 생동감 있는 아트도 디자인에 영감을 줌",
-          "keywords": [
-            "evergarden",
-            "자연에서",
-            "영감을",
-            "얻은",
-            "색상"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:14.020Z",
+      "fetchedAt": "2026-09-12T06:13:09.319Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -541,7 +541,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:14.311Z",
+      "fetchedAt": "2026-09-12T06:13:09.615Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +615,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:14.466Z",
+      "fetchedAt": "2026-09-12T06:13:09.832Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +696,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:14.506Z",
+      "fetchedAt": "2026-09-12T06:13:09.874Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -705,97 +705,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "K-뷰티 ODM도 실시간 협업으로…메가존소프트, 씨앤씨인터내셔널 AX 구축",
-          "link": "https://www.venturesquare.net/1112721/",
-          "pubDate": "2026-09-12T03:24:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/mega-9-789x255.jpg",
-          "summary": "메가존소프트가 색조화장품 ODM 기업 씨앤씨인터내셔널의 구글 워크스페이스 기반 AX 시스템을 구축하고 3개월간의 변화관리를 마쳤다. 씨앤씨인터내셔널은 실시간 문서 공동편집과 회의록 자동 작성, 클라우드 자료 관리 및 사용자별 접근 통제 기능을 활용한다. 양사는 제미나이... The post K-뷰티 ODM도 실시간 협업으로…메가존소프트, 씨앤씨인터내셔널 AX 구축 appeared first on 벤처스퀘어.",
+          "title": "나가는 여행에서 들어오는 여행까지…마이리얼트립, 크리에이트립 품는다",
+          "link": "https://www.venturesquare.net/1112849/",
+          "pubDate": "2026-09-12T05:58:57.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/creat-696x522.jpg",
+          "summary": "마이리얼트립이 주식교환 방식으로 크리에이트립의 지분 전량을 인수해 2026년 안에 자회사로 편입한다. 이번 거래로 기존 아웃바운드와 국내여행 사업에 크리에이트립의 인바운드 여행 역량을 더한다. 양사는 인수 이후에도 각 브랜드와 서비스를 독립적으로 운영하며 국내외 여행자... The post 나가는 여행에서 들어오는 여행까지…마이리얼트립, 크리에이트립 품는다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AX",
-            "K뷰티",
-            "구글워크스페이스"
+            "국내여행",
+            "기업인수",
+            "마이리얼트립"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다",
-          "link": "https://www.venturesquare.net/1112637/",
-          "pubDate": "2026-09-10T23:03:43.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260910_154119499_08-348x522.jpg",
-          "summary": "연세대학교 AI 창업캠프 ‘999 : Trainthon’에서 대학·대학원생들이 서울에서 강릉으로 향하는 KTX 안에서 Cursor를 활용한 개발을 시작해 1박2일 만에 실제 작동하는 MVP를 완성했다. AI 보안 코드리뷰부터 Personal CRM, 게임 테스트, 블랙... The post KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다 appeared first on 벤처스퀘어.",
+          "title": "청년 56%·여성 65%…하이브랩, ‘일자리 으뜸기업’ 선정",
+          "link": "https://www.venturesquare.net/1112838/",
+          "pubDate": "2026-09-12T05:56:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/hive-783x522.jpg",
+          "summary": "하이브랩이 고용 확대와 근로환경 개선 성과를 인정받아 2026 대한민국 일자리 으뜸기업에 선정됐다. 전체 구성원 중 청년층은 56%, 여성은 65%이며 장애인 고용과 유연근무, 재택근무, 심리상담 등 포용적인 근무환경을 운영한다. 자체 AI 솔루션은 반복 업무를 줄이고... The post 청년 56%·여성 65%…하이브랩, ‘일자리 으뜸기업’ 선정 appeared first on 벤처스퀘어.",
           "keywords": [
-            "스타트업 가이드",
-            "현장스케치",
-            "AI창업",
-            "AI창업캠프",
-            "AI코딩",
-            "Cursor"
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI전환",
+            "고용노동부",
+            "여성고용"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "2만개 스타트업에서 찾은 성장 패턴…전화성 『모두의 창업, 성장의 공식』 출간",
-          "link": "https://www.venturesquare.net/1112614/",
-          "pubDate": "2026-09-10T22:11:47.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/mail_compose________d2b5ca33bd970f64a6301fa75ae2eb221788920216.7921485.png",
-          "summary": "박영사가 전화성의 스타트업 창업 경영서 『모두의 창업, 성장의 공식』을 출간했다. 책은 2만개 이상의 스타트업을 발굴·보육하고 600개가 넘는 기업에 투자한 경험을 토대로 진단·역량·집중·협력·핵심가치로 구성된 ‘키스톤 5C 모델’을 제시한다. 실제 기업의 성장과 피봇... The post 2만개 스타트업에서 찾은 성장 패턴…전화성 『모두의 창업, 성장의 공식』 출간 appeared first on 벤처스퀘어.",
+          "title": "스트리밍 밖에서 더 가까이…스포티파이 ‘클로저’ 첫 주자는 하츠투하츠",
+          "link": "https://www.venturesquare.net/1112828/",
+          "pubDate": "2026-09-12T05:50:51.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image001-15-369x522.jpg",
+          "summary": "스포티파이가 국내 유망 아티스트와 팬을 연결하는 신규 프로그램 ‘스포티파이 클로저’를 선보인다. 첫 번째 아티스트인 하츠투하츠는 10월 2일 서울 명화라이브홀에서 라이브 공연과 토크, 몰입형 체험 콘텐츠를 진행한다. 공연과 토크 영상은 이후 비디오 팟캐스트로 공개돼 전... The post 스트리밍 밖에서 더 가까이…스포티파이 ‘클로저’ 첫 주자는 하츠투하츠 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "모두의창업성장의공식",
-            "박영사",
-            "벤처투자"
+            "K뮤직",
+            "K팝",
+            "라이브공연"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "정일우, 데뷔 20주년을 나눔으로…발달장애 예술인 등 99명 초청",
-          "link": "https://www.venturesquare.net/1112568/",
-          "pubDate": "2026-09-10T16:54:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-23-674x522.jpg",
-          "summary": "배우 정일우가 생일과 데뷔 20주년을 맞아 발달장애 작가와 관계자 등 99명을 갤럭시 로봇파크에 초청한다. 이번 행사는 지난해 디스에이블드 소속 이다래 작가와의 협업으로 시작된 인연을 이어 로봇·AI 콘텐츠를 체험하고 교류하기 위해 마련됐다. 정일우와 갤럭시코퍼레이션은... The post 정일우, 데뷔 20주년을 나눔으로…발달장애 예술인 등 99명 초청 appeared first on 벤처스퀘어.",
+          "title": "로봇의 눈으로 조립부터 검사까지…클레로보틱스, 로보월드 어워드 수상",
+          "link": "https://www.venturesquare.net/1112817/",
+          "pubDate": "2026-09-12T05:47:51.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CLE-Robotics-Inc-789x484.jpg",
+          "summary": "클레로보틱스가 3차원 머신비전 기술의 완성도와 현장 적용성을 인정받아 2026 로보월드 어워드 디스팅션상을 수상했다. 코픽쓰리디와 파인로컬라이저, 파인인스펙터를 결합해 작업물 인식과 로봇 좌표 보정, 품질검사를 연결한다. 회사는 현재까지 머신비전 시스템 30세트와 3D... The post 로봇의 눈으로 조립부터 검사까지…클레로보틱스, 로보월드 어워드 수상 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "갤럭시로봇파크",
-            "갤럭시코퍼레이션",
-            "디스에이블드"
+            "3D카메라",
+            "로보월드어워드",
+            "머신비전"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "예약 조회·변경·취소까지 AI가 처리…리아드코퍼레이션, 사제파트너스 투자 유치",
-          "link": "https://www.venturesquare.net/1112557/",
-          "pubDate": "2026-09-10T16:47:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/EST-2-789x483.png",
-          "summary": "리아드코퍼레이션이 미국 실리콘밸리 기반 벤처캐피털 사제파트너스로부터 시드 브릿지 투자를 유치했다. 회사는 예약 조회·변경·취소와 고객 응대, 운영 업무를 자동화하는 B2B 여행 AI 솔루션 Yeyak.ai를 고도화할 계획이다. 전체 매출의 90% 이상이 해외에서 발생하... The post 예약 조회·변경·취소까지 AI가 처리…리아드코퍼레이션, 사제파트너스 투자 유치 appeared first on 벤처스퀘어.",
+          "title": "취업 준비를 다시 여는 하루 10분…‘스몰 스텝’ 학습법 주목",
+          "link": "https://www.venturesquare.net/1112814/",
+          "pubDate": "2026-09-12T05:44:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ybm.jpg",
+          "summary": "한국고용정보원 연구에서 쉬었음 청년 10명 중 6명이 향후 취업 의향을 가진 것으로 나타났다. 교육업계는 학습량을 작은 단위로 나누고 즉각적인 성취 경험을 제공하는 스몰 스텝 학습법을 제시하고 있다. AI 스피카와 듀오링고, AI 코딩밸리는 하루 5~10분의 학습과 피... The post 취업 준비를 다시 여는 하루 10분…‘스몰 스텝’ 학습법 주목 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI에이전트",
-            "B2BSaaS",
-            "YeyakAI"
+            "AI교육",
+            "AI스피카",
+            "AI코딩밸리"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:17.818Z",
+      "fetchedAt": "2026-09-12T06:13:12.910Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -804,91 +804,89 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "해외 스타트업 38명이 들은 배달의민족 성장 과정",
-          "link": "https://platum.kr/archives/294436?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-38%25eb%25aa%2585%25ec%259d%25b4-%25eb%2593%25a4%25ec%259d%2580-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%2584%25b1%25ec%259e%25a5-%25ea%25b3%25bc%25ec%25a0%2595",
-          "pubDate": "2026-09-11T03:20:50.000Z",
+          "title": "본사는 홍콩, 시장은 처음부터 밖에 있었다",
+          "link": "https://platum.kr/archives/294458?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b3%25b8%25ec%2582%25ac%25eb%258a%2594-%25ed%2599%258d%25ec%25bd%25a9-%25ec%258b%259c%25ec%259e%25a5%25ec%259d%2580-%25ec%25b2%2598%25ec%259d%258c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2596%25ec%2597%2590-%25ec%259e%2588%25ec%2597%2588%25eb%258b%25a4",
+          "pubDate": "2026-09-11T17:54:39.000Z",
           "image": null,
-          "summary": "우아한형제들이 판교에 만든 배민스타트업스퀘어에는 푸드테크와 로봇, AI, 친환경 분야의 초기 스타트업 60여 곳이 들어와 있다. 회사가 지난해 제2판교테크노밸리에 공간을 조성하면서 일부를 스타트업과 투자·법률·네트워킹 지원 기관에 10년간 무상으로 빌려준 곳이다. 이 공간에 9월 10일 해외 스타트업 관계자 38명이 찾았다. 중소벤처기업부가 주최하고 경기창조경제혁신센터가 주관하는 ‘K-스타트업 그랜드챌린지’ 참가 기업들로, 우아한형제들은 배달의민족의 성장 과정을 공유하는 세션과 공간 투어, 질의응답을 ... 더 읽기",
-          "keywords": [
-            "이벤트",
-            "K-스타트업 그랜드챌린지",
-            "배달의민족",
-            "배민스타트업스퀘어",
-            "우아한형제들"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "나가는 여행에 이어 들어오는 여행까지… 마이리얼트립, 크리에이트립 인수",
-          "link": "https://platum.kr/archives/294419?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%2598%25ea%25b0%2580%25eb%258a%2594-%25ec%2597%25ac%25ed%2596%2589%25ec%2597%2590-%25ec%259d%25b4%25ec%2596%25b4-%25eb%2593%25a4%25ec%2596%25b4%25ec%2598%25a4%25eb%258a%2594-%25ec%2597%25ac%25ed%2596%2589%25ea%25b9%258c%25ec%25a7%2580-%25eb%25a7%2588%25ec%259d%25b4%25eb%25a6%25ac%25ec%2596%25bc%25ed%258a%25b8",
-          "pubDate": "2026-09-11T02:47:44.000Z",
-          "image": null,
-          "summary": "마이리얼트립이 외국인의 한국 여행을 다루는 플랫폼 크리에이트립을 인수한다. 마이리얼트립은 9월 11일 이사회에서 크리에이트립 지분 인수 안건을 의결했으며 남은 절차를 거쳐 연내 자회사로 편입할 계획이라고 밝혔다. 지분 전량을 인수하며 방식은 주식교환이다. 마이리얼트립은 2024년 크리에이트립에 전략적 투자를 한 바 있다. 마이리얼트립은 한국에서 나가는 여행과 국내 여행을 주로 다뤄왔다. 이번 인수로 외국인이 한국으로 들어오는 인바운드 영역까지 사업 범위가 ... 더 읽기",
-          "keywords": [
-            "투자",
-            "M&A",
-            "마이리얼트립",
-            "인수합병",
-            "크리에이트립"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "카자흐 데이터센터에 튀르키예 고속철, 홍콩에 모인 사업들",
-          "link": "https://platum.kr/archives/294422?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%259e%2590%25ed%259d%2590-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0%25ec%2597%2590-%25ed%258a%2580%25eb%25a5%25b4%25ed%2582%25a4%25ec%2598%2588-%25ea%25b3%25a0%25ec%2586%258d%25ec%25b2%25a0-%25ed%2599%258d%25ec%25bd%25a9%25ec%2597%2590-%25eb%25aa%25a8%25ec%259d%25b8",
-          "pubDate": "2026-09-11T02:42:37.000Z",
-          "image": null,
-          "summary": "카자흐스탄은 알라타우 신도시와 데이터센터 밸리 사업을, 튀르키예는 앙카라-이스탄불 고속철도 사업을 주요 안건으로 내놨다. 제11회 일대일로 서밋이 9월 10일 이틀 일정을 마쳤다. 홍콩특별행정구 정부와 홍콩무역발전국(HKTDC)이 공동 주최했고 70여 개국에서 6,200명 넘게 참가했다. 행사 기간 일대일 상담이 800건 넘게 진행됐다. 투자 프로젝트 300여 건이 소개됐고 이들의 사업비 합계는 54억 달러를 넘는다. 성사된 금액이 아니라 소개된 사업의 규모다. ... 더 읽기",
+          "summary": "9월 11일 오전 홍콩 사이언스파크 19W 건물 1층 아레나에서 두 스타트업의 발표를 들었다. 발표가 끝나고 남은 것은 제품 설명이 아니라 두 회사의 사무소 목록이었다. 로보코어(Robocore)의 슬라이드에는 홍콩 본사와 함께 텔아비브, 뉴욕, 선전, 무스카트, 싱가포르가 적혀 있었다. 연구센터는 광저우와 말레이시아 이포에 있다. 2019년에 세워진 로봇 회사다. 이스라엘 로봇 브랜드 temi를 인수해 핵심 플랫폼으로 삼았다. 지난해 8월에는 ... 더 읽기",
           "keywords": [
             "글로벌",
-            "일대일로",
-            "일대일로 서밋",
+            "China",
+            "로보코어",
             "중국",
-            "카자흐스탄",
-            "튀르키예"
+            "코디플라이",
+            "홍콩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "아이가 아기상어와 대화하는 전시, 1만 개 시나리오로 안전성 검증했다",
-          "link": "https://platum.kr/archives/294418?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ec%259d%25b4%25ea%25b0%2580-%25ec%2595%2584%25ea%25b8%25b0%25ec%2583%2581%25ec%2596%25b4%25ec%2599%2580-%25eb%258c%2580%25ed%2599%2594%25ed%2595%2598%25eb%258a%2594-%25ec%25a0%2584%25ec%258b%259c-1%25eb%25a7%258c-%25ea%25b0%259c-%25ec%258b%259c%25eb%2582%2598%25eb%25a6%25ac%25ec%2598%25a4%25eb%25a1%259c",
-          "pubDate": "2026-09-11T02:16:39.000Z",
+          "title": "“투자받을 곳이 없다”는 창업가 위해…연내 300회 ‘첫 투자 IR’",
+          "link": "https://platum.kr/archives/294455?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2588%25ac%25ec%259e%2590%25eb%25b0%259b%25ec%259d%2584-%25ea%25b3%25b3%25ec%259d%25b4-%25ec%2597%2586%25eb%258b%25a4%25eb%258a%2594-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b0%2580-%25ec%259c%2584%25ed%2595%25b4%25ec%2597%25b0%25eb%2582%25b4-300%25ed%259a%258c",
+          "pubDate": "2026-09-11T04:38:00.000Z",
           "image": null,
-          "summary": "아이가 말을 걸면 캐릭터가 답하는 전시에서는 어떤 대화가 오갈지 미리 다 알 수 없다. 영상은 완성된 콘텐츠를 보여주지만, AI 전시는 관람객의 말과 행동에 따라 그때그때 달라지기 때문이다. 셀렉트스타는 9월 10일 서울 동대문디자인플라자(DDP)에서 열린 ‘Try Everything 2026’에서 더핑크퐁컴퍼니와 함께 아기상어 AI 전시의 제작과 검증 과정을 발표했다. 두 회사는 현재 DDP에서 진행 중인 체험 전시 ‘아기상어 비밀 ... 더 읽기",
+          "summary": "중소벤처기업부가 혁신 창업가의 생애 첫 투자유치를 지원하기 위한 ｢도전의 IR 프로젝트｣를 추진한다. ｢도전의 IR 프로젝트｣는 우수한 기술과 아이디어를 갖추고도, 투자 네트워크와 정보 부족으로 투자유치 기회가 부족했던 창업자와 역량 있는 투자사를 연결하는 프로그램이다. 많은 창업자들은 전자우편·데모데이(시연회) 등 다양한 경로를 통해 투자를 제안하고 있으나, 투자사와의 연결 기회 부족 등으로 투자 논의 및 실제 투자유치까지 이어지는 데 어려움을 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "ir",
+            "도전의 IR 프로젝트",
+            "중소벤처기업부"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "컴업스타즈·퓨처파운더, 부산서 첫 통합 워크숍…글로벌 진출 경험 공유",
+          "link": "https://platum.kr/archives/294452?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bb%25b4%25ec%2597%2585%25ec%258a%25a4%25ed%2583%2580%25ec%25a6%2588%25c2%25b7%25ed%2593%25a8%25ec%25b2%2598%25ed%258c%258c%25ec%259a%25b4%25eb%258d%2594-%25eb%25b6%2580%25ec%2582%25b0%25ec%2584%259c-%25ec%25b2%25ab-%25ed%2586%25b5%25ed%2595%25a9-%25ec%259b%258c%25ed%2581%25ac%25ec%2588%258d%25ea%25b8%2580",
+          "pubDate": "2026-09-11T04:21:07.000Z",
+          "image": null,
+          "summary": "코리아스타트업포럼이 글로벌 스타트업 축제 컴업(COMEUP)의 스타트업 프로그램과 학생 창업 프로그램을 한자리에 모아 해외 진출과 성장 전략을 공유하는 자리를 마련했다. 코리아스타트업포럼(이하 코스포)이 10일부터 11일까지 이틀간 부산 코모도 호텔 그랜드볼룸에서 ‘2026 컴업스타즈(COMEUP Stars)&퓨처파운더(Future Founder) 워크숍’을 개최했다. 이번 워크숍은 컴업 2026의 스타트업 성장 프로그램인 ‘컴업스타즈’와 학생 창업 프로그램 ‘퓨처파운더’ 참여팀이 함께한 첫 통합 워크숍이다. 서로 다른 성장 단계에 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "컴업",
+            "컴업스타즈",
+            "코리아스타트업포럼"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울 K-뷰티, 아세안서 790억원 수출상담…중동 대체 판로 찾는다",
+          "link": "https://platum.kr/archives/294448?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8-k-%25eb%25b7%25b0%25ed%258b%25b0-%25ec%2595%2584%25ec%2584%25b8%25ec%2595%2588%25ec%2584%259c-790%25ec%2596%25b5%25ec%259b%2590-%25ec%2588%2598%25ec%25b6%259c%25ec%2583%2581%25eb%258b%25b4%25ec%25a4%2591%25eb%258f%2599-%25eb%258c%2580%25ec%25b2%25b4-%25ed%258c%2590",
+          "pubDate": "2026-09-11T03:59:05.000Z",
+          "image": null,
+          "summary": "중동 지역의 지정학적 불안과 물류 차질로 수출에 어려움을 겪던 서울 뷰티기업들이 아세안 시장에서 새로운 판로를 찾고 있다. 싱가포르와 인도네시아 현지 바이어와 300건이 넘는 상담을 진행하고 업무협약과 초도 발주 협의까지 이어지면서 수출시장 다변화의 가능성을 확인했다. 서울경제진흥원(SBA)은 지난 8월 25일부터 28일까지 싱가포르와 인도네시아에서 ‘2026 아세안 전략시장 진출사업’을 진행하고 서울 소재 뷰티·뷰티테크·이너뷰티 기업 15개사의 현지 수출 상담을 지원했다고 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "K-뷰티",
+            "서울경제진흥원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "세 개 홀 40여 개 세션에 실시간 자막…엑스엘에이트, 트라이에브리싱에 통번역 공급",
+          "link": "https://platum.kr/archives/294445?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8-%25ea%25b0%259c-%25ed%2599%2580-40%25ec%2597%25ac-%25ea%25b0%259c-%25ec%2584%25b8%25ec%2585%2598%25ec%2597%2590-%25ec%258b%25a4%25ec%258b%259c%25ea%25b0%2584-%25ec%259e%2590%25eb%25a7%2589-%25ec%2597%2591%25ec%258a%25a4%25ec%2597%2598%25ec%2597%2590%25ec%259d%25b4%25ed%258a%25b8%25ea%25b0%2580",
+          "pubDate": "2026-09-11T03:39:00.000Z",
+          "image": null,
+          "summary": "엑스엘에이트가 9월 9일부터 이틀간 열린 스타트업 행사 ‘트라이에브리싱 2026’에 AI 통번역 솔루션 ‘이벤트캣’을 공급했다고 11일 밝혔다. 동대문디자인플라자(DDP) 아트홀 1관과 2관, 컨퍼런스홀에서 동시에 진행된 40여 개 세션에 실시간 자막이 붙었다. 가장 까다로운 자리는 ‘2026 서울 유니콘 챌린지’ 결선이었다. 국내외 스타트업 7곳이 발표하는 자리라 기업명과 기술명, 낯선 전문용어가 쏟아졌기 때문이다. 회사는 행사 전에 스타트업과 투자, IT 분야의 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "더핑크퐁컴퍼니",
-            "셀렉트스타",
-            "아기상어",
+            "AI 자막",
+            "엑스엘에이트",
+            "이벤트캣",
             "트라이에브리싱"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[스타트업 모닝커피 1396회] 커넥틴, 사람 데이터로 건설현장 비용·공정·안전을 연결하는 ‘일용이’",
-          "link": "https://platum.kr/archives/294412?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1396%25ed%259a%258c-%25ec%25bb%25a4%25eb%2584%25a5%25ed%258b%25b4-%25ec%2582%25ac%25eb%259e%258c-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c-%25ea%25b1%25b4%25ec%2584%25a4",
-          "pubDate": "2026-09-11T02:08:54.000Z",
-          "image": null,
-          "summary": "커넥틴(대표 김태민)은 건설현장의 인력과 작업 정보를 연결해 비용·공정·안전을 함께 관리하는 운영 시스템 ‘일용이’를 개발·운영하는 기업입니다. 현장에 누가 들어왔는지를 확인하는 데서 출발해, 어느 현장에서 어떤 일을 수행했고 어떤 안전조치를 이행했는지를 한 사람의 하루 단위로 축적하는 데 초점을 맞추고 있습니다. 건설현장은 근로자와 협력업체, 공종이 수시로 달라지는 환경입니다. 현장관리자가 수기 보고나 메신저로 인원을 취합하고 본사에서 다시 정리하면, 출근 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "전화성의 스타트업 모닝커피",
-            "커넥틴"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:18.089Z",
+      "fetchedAt": "2026-09-12T06:13:13.194Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -984,7 +982,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:18.209Z",
+      "fetchedAt": "2026-09-12T06:13:13.366Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -993,97 +991,97 @@
       "subcategory": "창업 노하우",
       "items": [
         {
-          "title": "공대 연구실 아이디어를 시장으로…크릿벤처스·서울대, 기술창업 인재 키운다",
-          "link": "https://www.venturesquare.net/1112723/",
-          "pubDate": "2026-09-12T03:28:22.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/crit-3-789x375.jpg",
-          "summary": "크릿벤처스와 서울대학교 공과대학이 공학 기반 기술창업 인재를 육성하기 위한 업무협약을 체결했다. 퀀텀벤처스코리아와 케이투인베스트먼트파트너스도 참여해 학생들의 제품 개발과 시장 검증, 사업모델 고도화, 투자유치를 지원한다. 서울대 공대는 올해 신설한 창업가형 공학기술 혁... The post 공대 연구실 아이디어를 시장으로…크릿벤처스·서울대, 기술창업 인재 키운다 appeared first on 벤처스퀘어.",
+          "title": "아이디어 다음은 실행력…대전혁신센터, ‘모두의 창업’ 2라운드 지원",
+          "link": "https://www.venturesquare.net/1112865/",
+          "pubDate": "2026-09-12T06:07:11.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ori.png",
+          "summary": "대전창조경제혁신센터가 ‘모두의 창업 프로젝트’ 대전지역 2라운드 진출자를 대상으로 오리엔테이션과 AI 활용 교육을 진행했다. 참가자들은 사업 분석과 지식재산, 생성형 AI를 활용한 사업계획서 작성법을 익혔다. 슬론벤처스와 한국수자원공사, 컴퍼니에이는 일대일 멘토링을 통... The post 아이디어 다음은 실행력…대전혁신센터, ‘모두의 창업’ 2라운드 지원 appeared first on 벤처스퀘어.",
           "keywords": [
             "스타트업 가이드",
-            "공학인재",
+            "AI교육",
+            "Kwater",
+            "대전스타트업파크",
+            "대전창조경제혁신센터",
+            "모두의창업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "자녀당 최대 1억원·육아휴직 2년…크래프톤, 다섯 번째 일자리 으뜸기업",
+          "link": "https://www.venturesquare.net/1112835/",
+          "pubDate": "2026-09-12T05:53:46.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cra.png",
+          "summary": "크래프톤이 2019년 이후 다섯 번째로 대한민국 일자리 으뜸기업에 선정됐다. 회사는 자녀 한 명당 생애 최대 1억원 지원과 육아휴직 2년, 돌봄 재택근무와 복직자 상담 등 가족친화 제도를 운영한다. 2026년부터는 매년 약 300억원을 투입해 구성원의 AI 도구 활용과... The post 자녀당 최대 1억원·육아휴직 2년…크래프톤, 다섯 번째 일자리 으뜸기업 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI전환",
+            "AI퍼스트",
+            "가족친화기업",
+            "고용노동부",
+            "기업문화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "첫 투자 문턱 낮춘다…142개 TIPS 운영사, 연내 IR 300회 연다",
+          "link": "https://www.venturesquare.net/1112786/",
+          "pubDate": "2026-09-12T05:30:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1234567890-783x522.jpg",
+          "summary": "중소벤처기업부가 기관투자 이력이 없는 기술창업자와 예비창업자를 위한 ‘도전의 IR 프로젝트’를 시작한다. TIPS 운영사 142곳이 연말까지 일대일 미팅과 공개 피칭 등 300회 이상의 IR 프로그램을 운영한다. 투자 제안은 9월 15일부터 전용 플랫폼에서 접수하며 투... The post 첫 투자 문턱 낮춘다…142개 TIPS 운영사, 연내 IR 300회 연다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "TIPS",
             "기술창업",
-            "딥테크",
-            "벤처투자",
-            "산학협력"
+            "도전의IR",
+            "모두의창업",
+            "벤처스퀘어"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[Startup IP] 11년 끌었던 얼음정수기 전쟁…특허 한 건으로 사업을 지킬 수 있을까",
-          "link": "https://www.venturesquare.net/1112696/",
-          "pubDate": "2026-09-12T00:24:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ChatGPT-Image-JANG-789x414.png",
-          "summary": "청호나이스와 코웨이의 얼음정수기 특허분쟁은 2014년 시작돼 2025년 대법원 판결까지 11년간 이어졌으며, 1심에서 승소했던 청호나이스는 항소심과 대법원에서 침해를 인정받지 못했다. 특허의 무효를 막기 위해 청구범위를 정정하면서 보호 영역이 좁아졌고, 균등침해에 대한... The post [Startup IP] 11년 끌었던 얼음정수기 전쟁…특허 한 건으로 사업을 지킬 수 있을까 appeared first on 벤처스퀘어.",
+          "title": "수출기업 45.5% 무역업무에 AI 못 쓴다…무협, AX 해법 연결",
+          "link": "https://www.venturesquare.net/1112777/",
+          "pubDate": "2026-09-12T05:26:40.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/aiax-736x522.jpg",
+          "summary": "한국무역협회 조사에서 수출기업의 45.5%가 무역업무에 AI를 활용하지 않는 것으로 나타났다. 서비스 종류와 적용 영역에 관한 정보 부족이 주요 장애 요인으로 꼽혔다. 무역협회는 에이전트 AI 실무 전략과 정부 지원사업을 소개하고 AI 공급기업 11개사와 수요기업 32... The post 수출기업 45.5% 무역업무에 AI 못 쓴다…무협, AX 해법 연결 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
             "스타트업 가이드",
-            "IP전략",
-            "StartupIP",
-            "스타트업특허",
-            "장영태"
+            "무역AX",
+            "무역업무",
+            "비즈니스매칭",
+            "생성형AI",
+            "수출기업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다",
-          "link": "https://www.venturesquare.net/1112637/",
-          "pubDate": "2026-09-10T23:03:43.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260910_154119499_08-348x522.jpg",
-          "summary": "연세대학교 AI 창업캠프 ‘999 : Trainthon’에서 대학·대학원생들이 서울에서 강릉으로 향하는 KTX 안에서 Cursor를 활용한 개발을 시작해 1박2일 만에 실제 작동하는 MVP를 완성했다. AI 보안 코드리뷰부터 Personal CRM, 게임 테스트, 블랙... The post KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다 appeared first on 벤처스퀘어.",
+          "title": "수출 현안, 협상 테이블로…무역협회·통상본부 10개사 간담회",
+          "link": "https://www.venturesquare.net/1112764/",
+          "pubDate": "2026-09-12T05:10:28.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/2026-10-783x522.jpg",
+          "summary": "한국무역협회가 박정성 산업통상부 통상교섭본부장을 초청해 주요 수출기업 10개사와 통상 현안을 논의했다. 자동차·반도체·철강·식품 등 업계는 수출 현장의 애로와 건의사항을 공유했다. 무역협회는 기업 의견을 정부의 대외협상과 무역협정 논의에 전달하고 통상정책 동향을 지속적... The post 수출 현안, 협상 테이블로…무역협회·통상본부 10개사 간담회 appeared first on 벤처스퀘어.",
           "keywords": [
             "스타트업 가이드",
-            "현장스케치",
-            "AI창업",
-            "AI창업캠프",
-            "AI코딩",
-            "Cursor"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "국내서 쌓은 기후테크 레퍼런스, 중국으로…제이치글로벌 한·중 챌린지 1위",
-          "link": "https://www.venturesquare.net/1112624/",
-          "pubDate": "2026-09-10T22:37:16.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/JH-784x522.png",
-          "summary": "인천창조경제혁신센터의 보육·투자기업 제이치글로벌이 한·중 스타트업 챌린지 결승전에서 한국 참가기업 1위로 중소벤처기업부 장관상을 받았다. 회사는 차열·단열 및 광촉매 융복합 소재 기술과 국내 건설·공공시장 적용 실적을 기반으로 중국 청두 실증과 메이진에너지그룹 협력을 ... The post 국내서 쌓은 기후테크 레퍼런스, 중국으로…제이치글로벌 한·중 챌린지 1위 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "광촉매",
-            "기후테크",
-            "빅웨이브",
-            "인천창조경제혁신센터",
-            "제이치글로벌"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엔비디아는 한국, 애플은 중국…AI 공급망 재편서 찾은 벤처의 기회",
-          "link": "https://www.venturesquare.net/1112560/",
-          "pubDate": "2026-09-10T16:51:23.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/12344-785x522.jpg",
-          "summary": "벤처기업협회가 권석준 성균관대학교 교수를 초청해 AI·반도체 공급망 재편을 다룬 제42회 벤처인사이트포럼을 개최했다. 권 교수는 반도체 설계와 제조, 소부장, AI 인프라를 연결하는 생태계 확보 역량이 글로벌 경쟁력을 결정한다고 분석했다. 포럼에서는 데이터센터와 로봇,... The post 엔비디아는 한국, 애플은 중국…AI 공급망 재편서 찾은 벤처의 기회 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "Ai인프라",
             "공급망",
-            "권석준",
+            "무역협정",
             "반도체",
-            "벤처기업협회"
+            "산업통상부",
+            "수출기업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:19.655Z",
+      "fetchedAt": "2026-09-12T06:13:15.135Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1103,23 +1101,6 @@
             "생물권보전지역",
             "주민참여",
             "지원사업」"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 - startuprecipe.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmdHU05YSHpuazVDRDIzTTcxWHlZbXd3MGpZYnZ2LU9KQUtOaWt4QnNoZmt4bU9wb1lGdzBRcUsxMGFSSUxONjhBdlpyRFN1UGlyQkRjRlZTa0sx?oc=5",
-          "pubDate": "2026-09-11T01:19:48.000Z",
-          "image": null,
-          "summary": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 startuprecipe.co.kr",
-          "keywords": [
-            "2026년",
-            "국가철도공단",
-            "창업",
-            "벤처기업",
-            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1160,97 +1141,114 @@
           "summaryKo": null
         },
         {
-          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
-          "pubDate": "2026-09-09T06:37:55.000Z",
+          "title": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 - 서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EbTZzVWQ5N1ROLXlJalo4a2hyTzVwdjJYTWdMbjhvdElVV2pGUHc1b2NYdFVpLXVuTU9LX2Vpa3FxajBPbU9vV0w4dHc5OGRpaUxpM0gwQVQ4MVV6eWw4QjdscW8?oc=5",
+          "pubDate": "2026-09-09T05:19:44.000Z",
           "image": null,
-          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 뉴시스",
+          "summary": "한유원, 소상공인 ‘물류 서비스 지원사업’ 참여기업 모집 서울경제TV",
           "keywords": [
+            "한유원",
+            "소상공인",
             "물류",
             "서비스",
-            "지원사업",
-            "한유원",
-            "소상공인"
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 워터저널",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
+          "pubDate": "2026-09-07T23:38:32.000Z",
+          "image": null,
+          "summary": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 워터저널",
+          "keywords": [
+            "water",
+            "중소기업",
+            "ESG",
+            "경쟁력",
+            "강화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T04:10:20.169Z",
+      "fetchedAt": "2026-09-12T06:13:15.670Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 6,
+      "key": "ai교육",
+      "label": "AI교육",
+      "count": 2,
       "rank": 1,
-      "change": "same"
+      "change": "new"
     },
     {
-      "key": "ai창업",
-      "label": "AI창업",
+      "key": "ai전환",
+      "label": "AI전환",
       "count": 2,
       "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "ai창업캠프",
-      "label": "AI창업캠프",
-      "count": 2,
-      "rank": 3,
-      "change": "same"
-    },
-    {
-      "key": "ai코딩",
-      "label": "AI코딩",
-      "count": 2,
-      "rank": 4,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "api",
       "label": "API",
       "count": 2,
-      "rank": 5,
-      "change": "new"
+      "rank": 3,
+      "change": "up"
     },
     {
-      "key": "cursor",
-      "label": "Cursor",
+      "key": "고용노동부",
+      "label": "고용노동부",
       "count": 2,
-      "rank": 6,
-      "change": "down"
+      "rank": 4,
+      "change": "new"
     },
     {
       "key": "공개",
       "label": "공개",
       "count": 2,
-      "rank": 7,
-      "change": "new"
-    },
-    {
-      "key": "벤처투자",
-      "label": "벤처투자",
-      "count": 2,
-      "rank": 8,
-      "change": "new"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "에이전트",
       "label": "에이전트",
       "count": 2,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
+      "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 5,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "뉴스&트렌드",
+      "label": "뉴스&트렌드",
+      "count": 5,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "현장스케치",
-      "label": "현장스케치",
-      "count": 2,
+      "key": "뉴스콘텐츠",
+      "label": "뉴스콘텐츠",
+      "count": 5,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
