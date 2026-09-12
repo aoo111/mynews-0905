@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T00:14:23.130Z",
+  "collectedAt": "2026-09-12T02:10:38.484Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“나랏빚 106조 늘었는데 재정 좋아졌다?”…국가채무비율에 숨은 ‘GDP 착시’",
+          "link": "https://www.mk.co.kr/news/economy/12151012",
+          "pubDate": "2026-09-12T00:53:36.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/12/news-p.v1.20260912.4778f30ed70843cd9f37ef7e317e85f3_R.png",
+          "summary": "올해 채무비율엔 작년 GDP 전망 반도체 호황 반영땐 51.6→46.9% 내년엔 되레 48.3%로 1.4%P 상승 “호황기엔 기금보다 국채상환 우선”정부가 160조원대 미래대응기금..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“월급 쪼개 넣었더니 세금을 또?”…국민연금 실수령액 매달 깎아먹는 ‘이것’",
           "link": "https://www.mk.co.kr/news/economy/12150966",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“매년 880만원 아끼는데 안해요?”…파이어족 다들 한다는데 [이번주 찜할 ETF]",
-          "link": "https://www.mk.co.kr/news/stock/12150792",
-          "pubDate": "2026-09-11T10:23:09.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/11/news-p.v1.20260911.af6f62246bef4a3c85e81b8cbef77c81_R.png",
-          "summary": "레버리지에서 커버드콜로 머니무브“커버드콜 2만주 있으면 마음 놓고 은퇴하는데 왜 안하는지 모르겠어요”. 최근 대기업 IT 회사를 ‘쿨하게’ 그만둔 김모 씨(56)는 이처럼 말하면서..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:04.008Z",
+      "fetchedAt": "2026-09-12T02:10:25.316Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:04.057Z",
+      "fetchedAt": "2026-09-12T02:10:25.396Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215136",
-          "pubDate": "2026-09-12T07:00:00.000Z",
+          "title": "트럼프 대통령, AI 종말론 위험 일축…\"중국 우위가 최우선\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215185",
+          "pubDate": "2026-09-12T10:33:50.000Z",
           "image": null,
-          "summary": "AI가 인간을 넘어서는 순간 인류가 통제력을 잃을 수 있다는 경고는 새로운 이야기가 아닙니다. 수년 전부터 AI 석학과 연구자들이 비슷한 우려를 내놨고, AI가 인간을 속이거나 감독을 피할 수 있는지 확인하는 실험도 이어졌습니다. 하지만 대중에게는 여전히 먼 미래의 이야기, 혹은 SF에 가까운 이야기로 받아들여졌습니다.그런데 최근 들어 분위기가 달라지고 있습니다. 앤트로픽 연구원의 사퇴를 비롯해 AI 에이전트의 이상 행동과 안전 문제가 불거지면서 미국에서는 AI 종말론이 다시 주요 이슈로 떠오르고 있습니다.특히 정치권까지 가세하면서",
+          "summary": "도널드 트럼프 미국 대통령이 AI가 인류를 멸종시킬 수 있다는 연구진과 정치권의 공포론을 정면으로 일축하며 핵심은 기술 주도권을 둘러싼 글로벌 경쟁이라고 강조했다. 앤트로픽과 오픈AI 연구원들이 '2020년대 말까지 AI가 인류를 위협할 수 있다'거나 '재귀적 자기 개선(RSI)' 기술이 심각한 위험을 초래할 것이라며 사직서를 제출하고 공개 경고를 이어가는 가운데 나온 강경한 발언이다.트럼프 대통령은 11일(현지시간) AI가 인류를 멸망시킬 것이라는 우려가 있느냐는 질문에 ”아니다, 전혀 없다”라고 잘라 말했다.대신 ″만약 우리가",
           "keywords": [
-            "9월11일",
-            "실리콘밸리에서",
-            "갑자기",
+            "트럼프",
+            "대통령",
             "AI",
-            "종말론"
+            "종말론",
+            "위험"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
-          "pubDate": "2026-09-11T16:55:00.000Z",
+          "title": "‘경주 헤리티지 AI시네마’ 개최…“AI로 복원한 10편의 문화유산 영상”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215175",
+          "pubDate": "2026-09-12T10:05:00.000Z",
           "image": null,
-          "summary": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex) 음성 모델 'GPT-라이브-1(GPT-Live-1)'을 API로 출시했다.기존 음성 에이전트의 복잡한 음성인식·추론·음성합성 단계를 하나의 모델로 통합해 대화 지연을 줄이고, 전화",
+          "summary": "AI 기술로 복원한 문화유산 영화를 선보이는 ‘제1회 헤리티지 AI시네마’가 11일 경주 보문관광단지 프리미엄 멀티플렉스 '씨네Q'에서 열렸다.국가유산청, 경상북도, 경주시가 공동 주최하고 국립문화유산연구원과 경주화백컨벤션센터(HICO)가 주관하는 이번 행사는 ‘2026 세계국가유산산업전’ 두번째 참관객 프로그램으로 진행됐다. AI 기술로 복원한 문화유산 영상 10편을 연이어 상영했다. 개막작으로는 ‘사천왕사’를 선보였다. 신라의 호국 사찰 사천왕사를 중심으로 당나라의 침공을 막기 위해 문두루 비법을 행했다는 전설부터 조각승 양지스",
           "keywords": [
-            "오픈AI",
-            "GPT",
-            "라이브",
-            "API",
-            "출시"
+            "경주",
+            "헤리티지",
+            "AI시네마",
+            "개최",
+            "AI로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "MS, AI 공급난에 ‘장기전’ 선언…2032년까지 데이터센터 3배로 확대",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215143",
-          "pubDate": "2026-09-11T16:55:00.000Z",
+          "title": "애플 폴더블폰 시장 진입 공격에 삼성 ‘팀 쿡’ 카드로 맞불",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215183",
+          "pubDate": "2026-09-12T10:01:45.000Z",
           "image": null,
-          "summary": "마이크로소프트(MS)가 AI 서비스와 클라우드 수요 폭증에 대응하기 위해 애저(Azure)의 전 세계 데이터센터 용량을 오는 2032년까지 현재의 3배 이상으로 확대한다. 엔비디아 AI 칩 부족과 전력·부지 확보난으로 데이터센터 공급 부족을 겪자, 장기적인 대규모 인프라 확충으로 정면 돌파하겠다는 취지다.10일(현지시간) 블룸버그에 따르면, MS는 현재 12기가와트(GW) 규모인 애저 데이터센터 용량을 2032년까지 38GW 이상으로 늘릴 계획이다.1GW는 미국 샌프란시스코와 같은 대도시 규모에 전력을 공급할 수 있는 수준으로, 계",
+          "summary": "삼성이 애플의 첫 폴더블폰 발표에 맞춰 반격에 나섰다. 애플이 신제품 공개 과정에서 기존 폴더블폰 제품군을 직격하자, 삼성도 애플 전 CEO와 동명이인인 인물을 내세운 패러디 광고로 응수에 나섰다. 이번 신경전은 애플이 첫 폴더블 스마트폰인 '아이폰 듀오'를 공개하며 시작됐다. 존 터너스 애플 신임 CEO는 9일(현지시간) 신제품을 소개하는 과정에서 \"다른 기업들은 마치 두 대의 전화기를 어색하게 붙여놓은 것 같은 폴더블 기기를 만들어왔다\"며 기존 폴더블폰들의 주름이나 어색한 폼팩터 디자인, 그리고 화면 스크롤이나 영상 시청 등 일",
           "keywords": [
-            "MS",
-            "AI",
-            "공급난에",
-            "장기전",
-            "선언"
+            "애플",
+            "폴더블폰",
+            "시장",
+            "진입",
+            "공격에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215156",
-          "pubDate": "2026-09-11T16:54:40.000Z",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, Exoskeleton 파워 슈트 장착!",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215178",
+          "pubDate": "2026-09-12T10:00:00.000Z",
           "image": null,
-          "summary": "미국 정치권에서 AI의 급격한 발전에 따른 실존적 위협을 경고하며 강력한 규제와 안전장치 마련을 촉구하는 목소리가 커지고 있다. AI 개발사 내부 연구원들조차 10년 내 인류 멸종 가능성을 언급하는 등 경고음이 잇따르자, 여야를 막론하고 연방 차원의 법안 제정과 감독 기관 신설 움직임이 본격화하는 양상이다.10일(현지시간) 로이터 등에 따르면, 민주·공화 양당 의원들은 AI가 초래할 재앙적 위험에 대응하기 위해 초당적 입법에 속도를 내고 있다.버니 샌더스 상원의원과 그레그 카사르 하원의원은 인공 초지능의 개발을 금지하고 이를 전담",
+          "summary": "글·그림 Dr. Alf",
           "keywords": [
-            "미국",
-            "정치권",
-            "AI",
-            "규제",
-            "법안"
+            "AI카툰",
+            "Bob",
+            "Senior",
+            "IT",
+            "guy"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "퓨리오사AI, 싱가포르 법인 설립...APAC 시장 공략 나선다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215174",
-          "pubDate": "2026-09-11T16:52:46.000Z",
+          "title": "전남광주, 초광역 인재육성사업 선정…4년간 최대 600억 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215124",
+          "pubDate": "2026-09-12T09:40:00.000Z",
           "image": null,
-          "summary": "퓨리오사AI(대표 백준호)는 싱가포르 현지 법인을 설립하고, 아시아·태평양 지역 사업개발과 영업, 기술지원의 핵심 거점으로 운영한다고 11일 밝혔다.현재 서울 본사와 미국 실리콘밸리, 포르투갈 리스본에 이어 이번 거점을 통해 2세대 AI 추론 가속기 'RNGD(레니게이드)' 기반 인프라 도입을 가속화할 계획이다.싱가포르 거점은 애디슨 치 APAC 영업 부사장이 이끌며, 현지 인력을 확대해 기술 검증부터 상용 구축까지 지원할 예정이다.RNGD는 대형언어모델(LLM), 멀티모달, 에이전틱 AI 등 다양한 워크로드의 고성능·고효율 추론을",
+          "summary": "AI 생성 영상전남광주통합특별시가 재생에너지와 전력망, RE100 분야를 아우르는 에너지 융합인재 2800명을 양성한다. 교육부 초광역 인재육성사업에 선정되면서 4년간 최대 600억원을 지원받아 지역 대학과 산업계를 연계한 교육과정을 운영할 계획이다.전남광주는 교육부 ‘지역성장 인재양성체계(앵커) 초광역 성장엔진 인재육성사업’에 지역이 제안한 협업모델이 선정됐다고 11일 밝혔다.교육부는 지난 8일 지방정부·대학·기업이 제안한 19개 협업모델 가운데 6개 모델을 선정했다. 선정 모델에는 매년 최대 150억원씩 4년간 최대 600억원이",
           "keywords": [
-            "퓨리오사AI",
-            "싱가포르",
-            "법인",
-            "설립",
-            "APAC"
+            "전남광주",
+            "초광역",
+            "인재육성사업",
+            "선정",
+            "4년간"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:05.174Z",
+      "fetchedAt": "2026-09-12T02:10:26.837Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:08.580Z",
+      "fetchedAt": "2026-09-12T02:10:26.981Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,88 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "권력 장악",
-          "link": "https://news.hada.io/topic?id=33563",
-          "pubDate": "2026-09-12T00:11:55.000Z",
+          "title": "Rune, 오픈 소스로 공개",
+          "link": "https://news.hada.io/topic?id=33568",
+          "pubDate": "2026-09-12T01:33:40.000Z",
           "image": null,
-          "summary": "Arch Linux 기반 배포판 Omarchy를 둘러싼 쟁점은 기술이나 사용자 수보다, DHH가 기업 인맥으로 모은 1,800만 달러 이상의 후원금과 그 배분 권한에 있음 RubyOnRails 창시자 DHH의 인종차별적 발언과 지도자 중심 운영 원칙은, 후원이 특정 정치적 가치에 맞는 프...",
+          "summary": "Go로 만든 네이티브 IDE Rune이 GPLv3로 소스를 공개하고, 참여 기여자에게 Unstable Build의 수익 일부를 배분하는 프로그램을 준비 중임 문자 격자 기반 GPU 가속 GUI와 터미널 중심 작업 환경을 바탕으로, gRPC 확장 API와 개발 머신을 연결하...",
           "keywords": [
-            "권력",
-            "장악"
+            "Rune",
+            "오픈",
+            "소스로",
+            "공개"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Room 641A, AT&amp;T의 NSA 통신 감청실",
-          "link": "https://news.hada.io/topic?id=33562",
-          "pubDate": "2026-09-11T23:39:59.000Z",
+          "title": "RubyGems 대규모 공격, OpenAI 에이전트 소행으로 추정",
+          "link": "https://news.hada.io/topic?id=33567",
+          "pubDate": "2026-09-12T00:35:31.000Z",
           "image": null,
-          "summary": "AT&T가 미국 NSA를 위해 운영한 통신 감청 시설 Room 641A는 대규모 감시 프로그램의 일부로, 2003년 가동을 시작하고 2006년 기술자 Mark Klein의 공개로 목적이 알려짐 인터넷 백본 광케이블의 광분배기에서 신호를 전달받으며, Narus STA 6400",
+          "summary": "5월 RubyGems에 악성 패키지가 대량 게시된 GemStuffer 공격을 OpenAI 내부 에이전트와 연결하는 분석이 공개됨 패키지의 이름과 작성자 정보에 oai가 반복되며, OpenAI가 자사 소속으로 확인한 위키 에이전트와 수집 대상 파일과 접근 방식이 겹침...",
           "keywords": [
-            "Room",
-            "641A",
-            "AT&amp;T의",
-            "NSA",
-            "통신"
+            "RubyGems",
+            "대규모",
+            "공격",
+            "OpenAI",
+            "에이전트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: 인체의 특이 현상을 모은 Bodily Oddities",
-          "link": "https://news.hada.io/topic?id=33561",
-          "pubDate": "2026-09-11T23:36:59.000Z",
+          "title": "Switchyard - OpenAI/Anthropic API 그대로 모델을 바꿔 쓰는 LLM 라우터",
+          "link": "https://news.hada.io/topic?id=33566",
+          "pubDate": "2026-09-12T00:30:02.000Z",
           "image": null,
-          "summary": "인체의 특이한 능력·감각·신체 변이 141가지를 모은 Bodily Oddities는 각 현상의 원리와 발생 빈도를 간단히 살펴볼 수 있는 사이트임 아판타시아나 엄지와 검지를 연결하는 추가 힘줄처럼 개인차가 큰 현상부터, 누구나 경험하는 잔상과 망막 내 시각 현상까지 다...",
+          "summary": "NVIDIA NeMo에서 공개한 LLM 라우터로, 모든 요청을 비싼 모델에 맡기는 대신 작업을 처리할 수 있는 더 저렴한 모델을 고르는 것이 목표 OpenAI Chat Completions/Responses와 Anthropic Messages 형식을 지원해, 기존 클라이언트의 연결 주소를 프록시로 바꾸고 ...",
           "keywords": [
-            "Show",
-            "HN:",
-            "인체의",
-            "특이",
-            "현상을"
+            "Switchyard",
+            "OpenAI/Anthropic",
+            "API",
+            "그대로",
+            "모델을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GrapheneOS, 재작성한 Messages 앱 출시",
-          "link": "https://news.hada.io/topic?id=33560",
-          "pubDate": "2026-09-11T22:39:08.000Z",
+          "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
+          "link": "https://news.hada.io/topic?id=33565",
+          "pubDate": "2026-09-12T00:17:56.000Z",
           "image": null,
-          "summary": "버전 13은 기존 인터페이스를 Jetpack Compose와 Material 3로 교체해 모든 화면을 다시 구현하고, 대화 관리·대화면 지원·메시지 처리 안정성을 개선함 대화 고정, 알림 일시 중지, 읽지 않음 표시, 여러 메시지 삭제를 추가했으며, 큰 화면에서...",
+          "summary": "evergarden은 울창한 숲과 신비로운 작은 숲의 평온함에서 영감을 받아, 코딩·글쓰기·터미널 작업에 편안하고 우아한 화면을 지향하는 색상 테마임 자연 풍경뿐 아니라 The Legend of Zelda: The Minish Cap의 생동감 있는 아트도 디자인에 영감을 줌",
           "keywords": [
-            "GrapheneOS",
-            "재작성한",
-            "Messages",
-            "출시"
+            "evergarden",
+            "자연에서",
+            "영감을",
+            "얻은",
+            "색상"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Google 앱 광고에 220달러를 썼는데 설치의 60%가 로봇이었다",
-          "link": "https://news.hada.io/topic?id=33559",
-          "pubDate": "2026-09-11T22:36:08.000Z",
+          "title": "모델은 스스로 통제를 벗어나지 않는다",
+          "link": "https://news.hada.io/topic?id=33564",
+          "pubDate": "2026-09-12T00:14:56.000Z",
           "image": null,
-          "summary": "퍼즐 앱 Dayzle의 Android 설치 광고에서 2주간 과금된 설치 56건 중 33건이 봇 의심 패턴을 보였으며, 실제 이용자로 분류된 13명은 총 92게임을 완료함 설치당 목표 비용 1.50달러를 해제하자 하루 예산 CA$40의 두 배인 CA$80이 즉시 소진됐고...",
+          "summary": "OpenAI의 Hugging Face 해킹 사건에서 먼저 살펴야 할 것은 AI의 자발적 일탈보다 안전장치를 해제하고 취약점 탐색을 맡긴 인간의 결정임 모델들은 풀지 못한 과제를 계속 시도하다가 패키지 다운로드용 중개 서버의 허점을 이용해 외부에 접근하고 다른 실행 인스턴스와 메...",
           "keywords": [
-            "Google",
-            "광고에",
-            "220달러를",
-            "썼는데",
-            "설치의"
+            "모델은",
+            "스스로",
+            "통제를",
+            "벗어나지",
+            "않는다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:09.254Z",
+      "fetchedAt": "2026-09-12T02:10:27.987Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +541,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:16.411Z",
+      "fetchedAt": "2026-09-12T02:10:28.211Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +615,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:16.618Z",
+      "fetchedAt": "2026-09-12T02:10:28.328Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +696,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:16.718Z",
+      "fetchedAt": "2026-09-12T02:10:28.385Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +795,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:18.931Z",
+      "fetchedAt": "2026-09-12T02:10:34.651Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +888,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:19.212Z",
+      "fetchedAt": "2026-09-12T02:10:34.902Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -981,7 +984,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:19.255Z",
+      "fetchedAt": "2026-09-12T02:10:35.023Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -989,6 +992,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다",
+          "link": "https://www.venturesquare.net/1112637/",
+          "pubDate": "2026-09-10T23:03:43.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260910_154119499_08-348x522.jpg",
+          "summary": "연세대학교 AI 창업캠프 ‘999 : Trainthon’에서 대학·대학원생들이 서울에서 강릉으로 향하는 KTX 안에서 Cursor를 활용한 개발을 시작해 1박2일 만에 실제 작동하는 MVP를 완성했다. AI 보안 코드리뷰부터 Personal CRM, 게임 테스트, 블랙... The post KTX 타자마자 개발 시작…연세대 AI 창업캠프, 1박2일 만에 MVP를 만들다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "현장스케치",
+            "AI창업",
+            "AI창업캠프",
+            "AI코딩",
+            "Cursor"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "국내서 쌓은 기후테크 레퍼런스, 중국으로…제이치글로벌 한·중 챌린지 1위",
           "link": "https://www.venturesquare.net/1112624/",
@@ -1060,27 +1081,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "CO₂ 포집 소재·무탄소 열저장 기술…The Origin·기가에떼 최고혁신상",
-          "link": "https://www.venturesquare.net/1112497/",
-          "pubDate": "2026-09-10T16:19:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-22-1-783x522.jpg",
-          "summary": "‘모두의 챌린지 기후테크’에서 The Origin과 기가에떼가 각각 일반리그와 스타트업리그 최고혁신상을 받았다. 최종 10개팀에는 총 1억5700만원의 상금이 수여됐으며 KAIST 연구진과의 매칭을 통해 기술과 사업모델을 고도화했다. 중기부는 수상팀에 해외 IR과 투자... The post CO₂ 포집 소재·무탄소 열저장 기술…The Origin·기가에떼 최고혁신상 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "kaist",
-            "TheOrigin",
-            "글로벌IR",
-            "기가에떼",
-            "기후테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:20.663Z",
+      "fetchedAt": "2026-09-12T02:10:38.083Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1089,34 +1092,17 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
-          "pubDate": "2026-09-11T02:39:10.000Z",
+          "title": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 - 데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOR0hfeWZEa1JwZ0xLWjhaZ1I4VG5KV3huSkNkb2NmZnEtZVpwUFltUHBFRldFczZBMnFuSHVGTkx4XzI1S2pMNmNqTk03eXpXcFk3WkpUOUhRMEhDamVvM2hOUHJ3U3lMZnJmVmRud2FDYUxhQmh3VVIyMlJQcE5nb21GWk9tdzlrcHdtekkxLXBWRHFzaVNPSmhFZVZSVHJKbTN2c3A2em94N1BEdXIzc1FmSENFb2IwMnlxekpPYTAzU0s5U3A0YmlTUGlCaWRlUU94d0JvYTZYTGJlZUFzeWd2OE1VeXlITTd6R3B6Z2dmT1lyeTc4c1VtZUVtbGdoUS1RbVBuWVRJbDdCeFY4cndlVzFLQkhHekRuSXpGWjJOczBZSzNoN3VLWFM0UTQtbnVLdWN0SDd2V2hicXNLV2NvMTF1QWsxLTJQWlZQak9oeVpCa25vUVZOcFlTWEIxWG5qVXhrclowTDh2ZWo4V08zQVFtUWVKZXNz?oc=5",
+          "pubDate": "2026-09-11T14:06:00.000Z",
           "image": null,
-          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
+          "summary": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 데일리뉴스",
           "keywords": [
-            "2026년",
-            "국가과학자",
-            "지원사업",
-            "공고",
-            "리더급"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 - 스타트업레시피",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmdHU05YSHpuazVDRDIzTTcxWHlZbXd3MGpZYnZ2LU9KQUtOaWt4QnNoZmt4bU9wb1lGdzBRcUsxMGFSSUxONjhBdlpyRFN1UGlyQkRjRlZTa0sx?oc=5",
-          "pubDate": "2026-09-11T01:19:48.000Z",
-          "image": null,
-          "summary": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 스타트업레시피",
-          "keywords": [
-            "2026년",
-            "국가철도공단",
-            "창업",
-            "벤처기업",
-            "지원사업"
+            "성공한",
+            "창업인을",
+            "멘토로",
+            "소상공인",
+            "도제"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1140,6 +1126,40 @@
           "summaryKo": null
         },
         {
+          "title": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 - 스타트업레시피",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmdHU05YSHpuazVDRDIzTTcxWHlZbXd3MGpZYnZ2LU9KQUtOaWt4QnNoZmt4bU9wb1lGdzBRcUsxMGFSSUxONjhBdlpyRFN1UGlyQkRjRlZTa0sx?oc=5",
+          "pubDate": "2026-09-11T01:19:48.000Z",
+          "image": null,
+          "summary": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 스타트업레시피",
+          "keywords": [
+            "2026년",
+            "국가철도공단",
+            "창업",
+            "벤처기업",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
+          "pubDate": "2026-09-11T02:39:10.000Z",
+          "image": null,
+          "summary": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 기계신문",
+          "keywords": [
+            "2026년",
+            "국가과학자",
+            "지원사업",
+            "공고",
+            "리더급"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - 한국도시환경헤럴드",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
           "pubDate": "2026-09-08T21:00:00.000Z",
@@ -1155,26 +1175,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
-          "pubDate": "2026-09-09T06:37:55.000Z",
-          "image": null,
-          "summary": "물류 서비스 지원사업…한유원, 소상공인 모집 뉴시스",
-          "keywords": [
-            "물류",
-            "서비스",
-            "지원사업",
-            "한유원",
-            "소상공인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T00:14:21.059Z",
+      "fetchedAt": "2026-09-12T02:10:38.475Z",
       "error": null
     }
   },
@@ -1187,67 +1190,67 @@
       "change": "same"
     },
     {
-      "key": "출시",
-      "label": "출시",
+      "key": "ai창업",
+      "label": "AI창업",
       "count": 2,
       "rank": 2,
+      "change": "new"
+    },
+    {
+      "key": "ai창업캠프",
+      "label": "AI창업캠프",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
+      "key": "ai코딩",
+      "label": "AI코딩",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
+    },
+    {
+      "key": "cursor",
+      "label": "Cursor",
+      "count": 2,
+      "rank": 5,
+      "change": "new"
+    },
+    {
+      "key": "현장스케치",
+      "label": "현장스케치",
+      "count": 2,
+      "rank": 6,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 4,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 5,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "2026년",
-      "label": "2026년",
-      "count": 3,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 9,
-      "change": "down"
-    },
-    {
-      "key": "공고",
-      "label": "공고",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1256,7 +1259,7 @@
       "label": "Cognition",
       "count": 2,
       "rank": 1,
-      "change": "new",
+      "change": "same",
       "labelKo": "인식"
     },
     {
@@ -1264,7 +1267,7 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 2,
-      "change": "down",
+      "change": "same",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
@@ -1272,7 +1275,7 @@
       "label": "AdSense",
       "count": 5,
       "rank": 3,
-      "change": "down",
+      "change": "same",
       "labelKo": "애드 센스"
     },
     {
@@ -1280,7 +1283,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1288,7 +1291,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1296,7 +1299,7 @@
       "label": "AI",
       "count": 4,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1304,7 +1307,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1312,7 +1315,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 8,
-      "change": "new",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1320,7 +1323,7 @@
       "label": "Biotech & Health",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "생명 공학 및 건강"
     },
     {
@@ -1328,7 +1331,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "추천 동영상"
     }
   ]
