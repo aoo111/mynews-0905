@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-12T22:09:38.329Z",
+  "collectedAt": "2026-09-13T00:14:33.374Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "사고로 자식 죽으니 30년 만에 나타난 엄마…“사망보험금 달라” [어쩌다 세상이]",
+          "link": "https://www.mk.co.kr/news/economy/12151217",
+          "pubDate": "2026-09-12T22:15:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/13/news-p.v1.20260911.13bac7d5bba54e9bbba249b8d65a8162_R.jpg",
+          "summary": "이혼 하고 양육비·교류 없던 엄마 아들 사망하자 상속인으로 나타나 전처에 상속권 상실 청구한 아버지 법원, ‘구하라법’ 적용…상속권 박탈이혼한 부모 중 한쪽이 자녀를 키우지 않았다..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AI와 함께 배당주 골라볼까? ... 꼼꼼히 검증 안하면 착시 빠진다",
           "link": "https://www.mk.co.kr/news/economy/12150611",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“월급 쪼개 넣었더니 세금을 또?”…국민연금 실수령액 매달 깎아먹는 ‘이것’",
-          "link": "https://www.mk.co.kr/news/economy/12150966",
-          "pubDate": "2026-09-11T21:51:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/12/news-p.v1.20260911.d6df7189f1c54663a7b5f55746218087_R.jpeg",
-          "summary": "국민연금 과세 원칙 핵심은 ‘소득공제 여부’ 임의가입 등 국세청 확인서로 ‘이중 과세’ 방지 20~30년 받는 연금…적은 세금 차이도 눈덩이퇴직 후 통장에 들어오는 국민연금, 과연..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:30.667Z",
+      "fetchedAt": "2026-09-13T00:14:24.227Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:30.720Z",
+      "fetchedAt": "2026-09-13T00:14:24.313Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI '불량 에이전트' 루비젬스까지 해킹 시도…\"데이터 수집일 뿐\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215199",
+          "pubDate": "2026-09-13T09:11:19.000Z",
+          "image": null,
+          "summary": "오픈AI의 자율형 AI 에이전트들이 외부 시스템 제한을 우회해 비공식 소통 채널로 활용한 사이버 사고 파장이 시간이 갈수록 걷잡을 수 없이 확대되고 있다. 허깅페이스 침해와 독일어 위키 사이트 점령, 추가 사이트 10여곳 포착에 이어 이전에도 오픈소스 소프트웨어 패키지 관리 시스템인 '루비젬스(RubyGems)'를 대상으로 해킹 및 공격을 감행했던 사실이 추가로 밝혀졌다.11일(현지시간) 독립 AI 안보 연구진이 공개한 기술 보고서에 따르면, 오픈AI 에이전트들은 지난 5월11일 루비젬스 시스템에 2000개가 넘는 악성 패키지를 무",
+          "keywords": [
+            "오픈AI",
+            "불량",
+            "에이전트",
+            "루비젬스까지",
+            "해킹"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "알트먼 \"2026년 상장은 시기상조…안전성 확보가 최우선 과제\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215198",
+          "pubDate": "2026-09-13T08:49:06.000Z",
+          "image": null,
+          "summary": "샘 알트먼 오픈AI CEO가 2026년 내 기업공개(IPO)를 추진할 생각이 없다는 뜻을 밝혔다. 일부에서 제기되던 연내 상장설을 공식 일축하며, 회사의 최우선 과제는 주식 시장 입성이 아닌 안전한 AI 개발과 조직적 준비라는 점을 강조했다.알트먼 CEO는 12일(현지시간) 공개된 포춘과의 인터뷰에서 2026년 상장에 대해 \"현 시점에서는 바람직하지 않다\"고 밝히며, 이르면 2027년 이후에야 상장 논의가 본격화될 것임을 내비쳤다. 상장 시점과 관련해서는 시장 환경 및 내부 준비 상황에 따라 변동 가능성이 있음을 여지로 남겼으나,",
+          "keywords": [
+            "알트먼",
+            "2026년",
+            "상장은",
+            "시기상조",
+            "안전성"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215195",
+          "pubDate": "2026-09-13T08:06:24.000Z",
+          "image": null,
+          "summary": "다리오 아모데이 앤트로픽 CEO가 최첨단 AI 모델 개발 속도를 조절하자는 제안을 담은 서한을 공개한 가운데, 일론 머스크 CEO와 샘 알트먼 오픈AI CEO가 이에 동의 뜻을 표하며 글로벌 프론티어 AI 개발 속도 조절 논의가 급물살을 타고 있다.아모데이 CEO는 12일(현지시간) 개인 블로그를 통해 '프론티어의 속도를 조절해야 한다(We Must Pace the Frontier)'라는 제목의 에세이를 공개했다.그는 \"지난 여름 이후 AI가 스스로 다음 세대 AI를 만드는 '재귀적 자기 개선(RSI)' 단계에 진입하며 발전 속도가",
+          "keywords": [
+            "아모데이",
+            "첨단",
+            "모델",
+            "개발",
+            "속도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "머스크, 자신 다룬 다큐에 법적 대응 경고...\"허위·악의적 공작\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215194",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“인류를 위한 AI 컴패니언”…딥그로브의 캐릭터챗이 남다른 이유",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214911",
-          "pubDate": "2026-09-12T19:12:17.000Z",
-          "image": null,
-          "summary": "AI 캐릭터챗 서비스 '크랙'과 '이루다'의 초기 개발·기획을 주도했던 전문가들이 모여 만든 스타트업 딥그로브(DeepGrov, 대표 나봉민)가 단순 대화를 넘어선 AI 컴패니언 서비스 '프론티아(Frontia)'를 전면에 내세우며 본격적인 시장 공략에 나섰다. 이 회사는 지난 7월 15억원 규모의 시드 투자 유치에 성공한 바 있다.나봉민 대표는 삼성전자 엔지니어 출신으로 뤼튼에서 AI 캐릭터챗 서비스 '크랙'의 초기 기획과 제품 개발을 주도했다. 최예지 최고 제품책임자(CPO)는 스캐터랩에서 AI 챗봇 '이루다'의 제품 총괄을 맡",
-          "keywords": [
-            "인류를",
-            "위한",
-            "AI",
-            "컴패니언",
-            "딥그로브의"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
-          "pubDate": "2026-09-12T18:21:57.000Z",
-          "image": null,
-          "summary": "오픈AI가 캘리포니아 공과대학교(CalTech)에서 개최될 예정이던 '캘텍 매스어톤(Caltech Mathathon)' 행사의 후원을 철회했다. 댄 로버츠 오픈AI 연구 총괄은 10일(현지시간) X를 통해 \"수학계 구성원들이 제기한 우려를 고려해 캘텍 매스어톤 후원을 철회하기로 결정했다\"며 \"수학계와 더욱 긴밀히 소통해 기술 통합과 영향 전달의 최선책을 찾겠다\"고 발표했다. 이번 결정은 수학계 연구자들이 AI가 생성하는 저품질 결과물인 이른바 '슬롭 수학(Slop Mathematics)'을 비판하며 후원 중단을 촉구하는 공개 서한을",
-          "keywords": [
-            "오픈AI",
-            "캘텍",
-            "AI",
-            "수학",
-            "해커톤"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개…플러그인 성능·기여도 검증",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215184",
-          "pubDate": "2026-09-12T17:50:18.000Z",
-          "image": null,
-          "summary": "앤트로픽이 코딩 에이전트의 플러그인이 실제 작업에서 제대로 작동하는지를 검증할 수 있는 평가 기능을 추가했다. 기존의 플러그인 유효성 검사가 설정 파일의 문법과 스키마에 초점을 맞췄다면, 이번 기능은 플러그인이 실제 프롬프트에서 호출되는지와 모델의 기본 성능보다 효과가 있는지까지 측정할 수 있다는 점이 특징이다. 앤트로픽은 10일(현지시간) 코딩 에이전트 '클로드 코드'에 플러그인의 실제 성능을 검증할 수 있는 새로운 평가 기능을 추가했다. 해당 기능은 클로드 코드 v2.1.269 버전부터 사용할 수 있다.플러그인 개발자는 이제 실",
-          "keywords": [
-            "앤트로픽",
-            "클로드",
-            "코드",
-            "플러그인",
-            "평가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:32.057Z",
+      "fetchedAt": "2026-09-13T00:14:25.711Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:32.217Z",
+      "fetchedAt": "2026-09-13T00:14:25.907Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,85 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "네이쥐안",
+          "title": "Waymo, 차량을 세우고 ‘고스트 건’을 소지한 미성년 승객들을 경찰에 신고",
+          "link": "https://news.hada.io/topic?id=33602",
+          "pubDate": "2026-09-12T23:38:55.000Z",
+          "image": null,
+          "summary": "샌프란시스코에서 Waymo 자율주행차에 탑승한 미성년자 2명이 불법 ‘고스트 건’ 소지 혐의로 체포됨 Waymo는 총기 관련 서비스 약관 위반을 감지한 뒤 차량을 세우고 긴급 서비스에 신고했으며, 경찰에 전적으로 협조했다고 밝힘 경찰에 따르면 차량 수...",
+          "keywords": [
+            "Waymo",
+            "차량을",
+            "세우고",
+            "고스트",
+            "소지한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Linux용 Zoom 클라이언트, X11 클립보드에 기록되는 모든 내용을 선제적으로 읽음",
+          "link": "https://news.hada.io/topic?id=33601",
+          "pubDate": "2026-09-12T23:35:55.000Z",
+          "image": null,
+          "summary": "Linux용 Zoom 7.1.5에서 사용자의 붙여넣기 동작 없이 X11 클립보드 내용을 읽는 동작이 관찰됨. 이전에 사용하던 6.6에서는 나타나지 않았음 읽기 대상은 일반적으로 Ctrl+C/Ctrl+V로 사용하는 CLIPBOARD 선택 영역으로 보이며, 텍스트 선택 후 가운데 클릭으로 붙...",
+          "keywords": [
+            "Linux용",
+            "Zoom",
+            "클라이언트",
+            "X11",
+            "클립보드에"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI가 스스로 더 나은 AI를 만드는 날은 얼마나 가까웠나?",
+          "link": "https://news.hada.io/topic?id=33600",
+          "pubDate": "2026-09-12T23:11:55.000Z",
+          "image": null,
+          "summary": "재귀적 자기개선(RSI) 은 AI가 더 나은 AI를 만들고, 그 AI가 다시 다음 개선을 이끄는 순환으로, 실험 실행뿐 아니라 연구 방향과 다음 목표까지 스스로 정해야 함 현재의 모델과 강화학습을 확대하면 인간 연구자를 넘어설 수 있다는 기대와, 주어진 목표를 잘 푸는 능력이...",
+          "keywords": [
+            "AI가",
+            "스스로",
+            "나은",
+            "AI를",
+            "만드는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "60년간 삶을 지켜본 7 Up 출연자들, 이제 작별을 고하다",
+          "link": "https://news.hada.io/topic?id=33599",
+          "pubDate": "2026-09-12T23:08:55.000Z",
+          "image": null,
+          "summary": "1964년 서로 다른 사회경제적 배경의 일곱 살 어린이 14명으로 시작한 7 Up이 마지막 편 70 Up으로 막을 내림 영국의 계급 체계가 어린 시절부터 삶을 어떻게 형성하는지 살피려던 단발성 다큐멘터리가, 7년마다 출연자들의 삶을 따라가는 역대 최...",
+          "keywords": [
+            "60년간",
+            "삶을",
+            "지켜본",
+            "Up",
+            "출연자들"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "네이쥐안 - 뒤처지지 않으려고 더 노력하지만 나아지지 않는 경쟁",
           "link": "https://news.hada.io/topic?id=33598",
           "pubDate": "2026-09-12T21:40:05.000Z",
           "image": null,
-          "summary": "네이쥐안(Neijuan, 内卷) 은 노력과 경쟁, 복잡성은 계속 늘어나지만 생산량이나 효율, 공동의 이익은 그만큼 증가하지 않는 상태를 뜻함 참여자들이 한정된 기회를 얻으려고 비슷한 전략을 채택하면 상대적 우위가 사라지고, 기존 지위를 유지하는 데도 더 많은 투...",
+          "summary": "네이쥐안(Neijuan, 内卷) 은 노력과 경쟁은 계속 늘어나지만, 그에 비례해 성과나 보상이 늘지 않는 상태를 가리키는 중국어 표현 한정된 기회를 두고 모두가 비슷한 전략을 따라 하면 우위가 사라져, 같은 자리를 지키는 데도 더 많은 시간과 자원을 써야 하는 악...",
           "keywords": [
-            "네이쥐안"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Usenet-Rewind, Usenet 아카이브 검색 엔진",
-          "link": "https://news.hada.io/topic?id=33597",
-          "pubDate": "2026-09-12T21:37:04.000Z",
-          "image": null,
-          "summary": "Usenet-Rewind는 1981년부터 현재까지의 Usenet 뉴스그룹 텍스트 게시물을 검색하는 연구용 아카이브임 현대 웹 이전의 대화를 담고 있으며, 초기 기술 지원과 소프트웨어 논쟁을 찾아볼 수 있음 과학 및 학술 토론, 취미 및 팬 커뮤니티...",
-          "keywords": [
-            "Usenet",
-            "Rewind",
-            "아카이브",
-            "검색",
-            "엔진"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "OpenStreetMap에서 첫 편집하기",
-          "link": "https://news.hada.io/topic?id=33596",
-          "pubDate": "2026-09-12T20:38:50.000Z",
-          "image": null,
-          "summary": "JOSM과 Website Wizard 플러그인으로 주변 상점이나 편의시설에 공식 웹사이트 태그를 추가하는, 15분 이내를 목표로 한 입문 튜토리얼임 website 태그는 전화번호, 영업시간, 이메일 등 추가 정보를 찾는 출발점이며, 편집 내용은 이후 수십 개의 무...",
-          "keywords": [
-            "OpenStreetMap에서",
-            "편집하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
-          "link": "https://news.hada.io/topic?id=33595",
-          "pubDate": "2026-09-12T20:35:50.000Z",
-          "image": null,
-          "summary": "프런티어 AI 개발 속도를 늦추기 위해, 기업이 대중에게 제공하는 모든 AI 모델의 가중치 공개를 법으로 의무화하자고 제안함 공개 의무는 대중에게 제공하는 모델에만 적용하며, 내부용 모델과 연구용 모델은 제외하고 정부의 미출시 모델 접근도 허용함",
-          "keywords": [
-            "Dario에게",
-            "보내는",
-            "공개서한:",
-            "진심이라면",
-            "모델"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "커넥톰과 물리학을 활용한 초파리 시뮬레이션",
-          "link": "https://news.hada.io/topic?id=33594",
-          "pubDate": "2026-09-12T20:28:52.000Z",
-          "image": null,
-          "summary": "MuJoCo의 물리적 NeuroMechFly 신체, MaleCNS 연결체 데이터, 그리고 명시적 행동 제어기를 결합한 지역 과실파리 시뮬레이션. 주요 하이브리드 모드는 걷기, 냄새를 따라 먹이를 찾는 행동, 관절식 입술을 통한 접촉 기반 섭식, 몸단장, 수면 압력, 그리고 깨어남을 지원한다. 별도의 두 마리 파리가 활동하는",
-          "keywords": [
-            "커넥톰과",
-            "물리학을",
-            "활용한",
-            "초파리",
-            "시뮬레이션"
+            "네이쥐안",
+            "뒤처지지",
+            "않으려고",
+            "노력하지만",
+            "나아지지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:32.887Z",
+      "fetchedAt": "2026-09-13T00:14:26.713Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +542,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:33.065Z",
+      "fetchedAt": "2026-09-13T00:14:27.012Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +616,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:33.269Z",
+      "fetchedAt": "2026-09-13T00:14:27.269Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +697,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:33.351Z",
+      "fetchedAt": "2026-09-13T00:14:27.338Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -698,6 +705,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "브랜드의 말을 공간으로 옮기는 법…스위트스팟, 성수서 실무 세션 연다",
+          "link": "https://www.venturesquare.net/1113157/",
+          "pubDate": "2026-09-12T10:58:48.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SWEET-2-789x493.png",
+          "summary": "스위트스팟이 오는 9월 29일 서울 성수동에서 오프라인 마케팅 세션 ‘SPIN-OFF 26’을 개최한다. 어노브와 러쉬코리아 실무자가 브랜드 메시지를 공간과 고객 경험으로 구현한 전략을 공유한다. 브랜드·마케팅 담당자 50명을 대상으로 무료 진행하며 참가 신청은 스위트... The post 브랜드의 말을 공간으로 옮기는 법…스위트스팟, 성수서 실무 세션 연다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "SPINOFF26",
+            "공간마케팅",
+            "러쉬코리아"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "말하고 더빙하고 영상 만든다…이스트소프트, 페르소에이아이 해외 판로 확장",
           "link": "https://www.venturesquare.net/1113144/",
@@ -769,27 +794,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "3시간 뒤 손에 남는 건 우리 회사 AX 기획안…그렙, HRD 실습 세미나",
-          "link": "https://www.venturesquare.net/1113103/",
-          "pubDate": "2026-09-12T08:21:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/imagegrepp_HR_AXseminar_banner-789x414.png",
-          "summary": "그렙이 9월 18일 마루360에서 기업 HR 담당자 대상 AX 교육 세미나를 무료로 개최한다. 참가자는 프로그래머스 AI 역량평가에 응시하고 클로드 코워크를 활용해 소속 기업의 AX 교육 기획안 초안을 작성한다. 정원은 선하며과기를명이 며 참가 신청은 9월 16일 오후... The post 3시간 뒤 손에 남는 건 우리 회사 AX 기획안…그렙, HRD 실습 세미나 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI역량평가",
-            "AX교육",
-            "HRD"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:36.040Z",
+      "fetchedAt": "2026-09-13T00:14:30.548Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +887,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:36.286Z",
+      "fetchedAt": "2026-09-13T00:14:30.805Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -976,7 +983,7 @@
           "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:36.343Z",
+      "fetchedAt": "2026-09-13T00:14:30.919Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -984,6 +991,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "무상 서비스 거절하자 ‘별점 테러’…중기부·플랫폼 6개사 해법 논의",
+          "link": "https://www.venturesquare.net/1113168/",
+          "pubDate": "2026-09-12T11:11:54.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-23-783x522.jpg",
+          "summary": "중소벤처기업부가 플랫폼 6개사 및 소상공인 단체와 별점·리뷰 제도의 피해 사례와 개선 방안을 논의했다. 소상공인들은 악의적 저평가를 구분할 기준과 충분한 이의신청·소명 절차, 반복 작성자 제재 강화를 요청했다. 중기부는 전문 변호사 법률상담과 분쟁 대응을 지원하고 온라... The post 무상 서비스 거절하자 ‘별점 테러’…중기부·플랫폼 6개사 해법 논의 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "네이버",
+            "배달의민족",
+            "별점제",
+            "상생간담회",
+            "소상공인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "담보 대신 기술력 본다…기보, 코스타리카형 기술금융 체계 구축",
           "link": "https://www.venturesquare.net/1113165/",
@@ -1055,27 +1080,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "아이템 없어도 창업할 수 있다…블루포인트, KAIST 기술 이끌 ‘사업가형 인재’ 찾는다",
-          "link": "https://www.venturesquare.net/1113058/",
-          "pubDate": "2026-09-12T07:58:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-17-789x444.png",
-          "summary": "블루포인트파트너스가 대학·출연연 연구기술을 사업화할 사업가형 인재를 씨스프린트 1기로 모집한다. 지원자는 별도의 창업 아이템 없이 KAIST 중심의 피지컬 AI·센서 기술을 탐색하고 연구자와 상호 선택을 거쳐 팀을 구성한다. 선발팀은 9주간 사업모델 설계와 고객 검증을... The post 아이템 없어도 창업할 수 있다…블루포인트, KAIST 기술 이끌 ‘사업가형 인재’ 찾는다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "kaist",
-            "기술사업화",
-            "딥테크창업",
-            "블루포인트파트너스",
-            "센서기술"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:37.871Z",
+      "fetchedAt": "2026-09-13T00:14:32.776Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1169,66 +1176,66 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-12T22:09:38.320Z",
+      "fetchedAt": "2026-09-13T00:14:33.364Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "2026년",
+      "label": "2026년",
+      "count": 3,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "소상공인",
+      "label": "소상공인",
+      "count": 3,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "글로벌진출",
       "label": "글로벌진출",
       "count": 2,
-      "rank": 1,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "2026년",
-      "label": "2026년",
-      "count": 2,
       "rank": 8,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "공고",
