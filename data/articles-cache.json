@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T14:12:12.663Z",
+  "collectedAt": "2026-09-14T16:11:01.362Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:01.938Z",
+      "fetchedAt": "2026-09-14T16:10:45.188Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,8 +180,8 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:49.250Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-09-14T16:10:45.284Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:03.159Z",
+      "fetchedAt": "2026-09-14T16:10:46.226Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:03.344Z",
+      "fetchedAt": "2026-09-14T16:10:46.395Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,73 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
+          "link": "https://news.hada.io/topic?id=33697",
+          "pubDate": "2026-09-14T15:37:09.000Z",
+          "image": null,
+          "summary": "파운데이션 모델의 구조부터 학습, 추론, RAG, 에이전트, 평가까지 다루는 온라인 교재를 만들고 있습니다. 한국어와 영어로 읽을 수 있고, 가입 없이 전체 내용을 볼 수 있습니다. 기법의 정의만 설명하기보다는 어떤 병목을 해결하는지, 메모리나 지연 시간에서 무엇을 얻고 잃는지까지 연결해서 정리하려고",
+          "keywords": [
+            "Show",
+            "GN:",
+            "Foundation",
+            "Model",
+            "Engineering"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "효과적인 소프트웨어 설계 문서 작성법",
+          "link": "https://news.hada.io/topic?id=33696",
+          "pubDate": "2026-09-14T15:35:35.000Z",
+          "image": null,
+          "summary": "설계 문서는 구현 전에 어려운 문제와 중요한 결정을 검토하고, 팀원 및 협력 팀의 피드백을 모아 잘못된 구현에 시간을 낭비하지 않도록 돕는 도구임 문서에 담을 결정은 틀렸을 때의 비용으로 판단함. 언어나 저장소처럼 바꾸기 어려운 선택에 집중하고, 몇 시간...",
+          "keywords": [
+            "효과적인",
+            "소프트웨어",
+            "설계",
+            "문서",
+            "작성법"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
+          "link": "https://news.hada.io/topic?id=33695",
+          "pubDate": "2026-09-14T14:36:47.000Z",
+          "image": null,
+          "summary": "iOS 27과 macOS Golden Gate의 비공개 프레임워크에서 새로운 Siri가 외부 AI 모델과 깊이 연동하도록 설계된 정황이 발견됨 Model Delegation은 Claude를 기존 ChatGPT처럼 Siri 확장 기능으로 연결하며, 시연에서는 Claude가 미리 알림 요청을 해석하고 Siri가 실...",
+          "keywords": [
+            "Apple",
+            "Siri의",
+            "AI를",
+            "Claude와",
+            "ChatGPT로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "RP2350을 위한 386 PC",
+          "link": "https://news.hada.io/topic?id=33694",
+          "pubDate": "2026-09-14T14:33:47.000Z",
+          "image": null,
+          "summary": "FRANK 386은 RP2350 기반 Raspberry Pi Pico 2에서 DOS, Windows 3.x, Windows 95, Linux 등을 부팅할 수 있는 i386 PC 에뮬레이터임 i386 전체 명령어 에뮬레이션과 i486/i586 일부 기능, 선택적 x87 FPU를 지원하며, 8MB PSRAM을 사용해 최대 8MB RAM을 제공함...",
+          "keywords": [
+            "RP2350을",
+            "위한",
+            "386",
+            "PC"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "XCancel, “진행 중인 법적 절차의 새로운 상황으로 인해” 서비스 중단",
           "link": "https://news.hada.io/topic?id=33692",
@@ -380,76 +447,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "시간 속으로 사라진 키 기호, 1편: PC 편",
-          "link": "https://news.hada.io/topic?id=33691",
-          "pubDate": "2026-09-14T12:37:17.000Z",
-          "image": null,
-          "summary": "초기 IBM 컴퓨터에는 다양한 기능 키 기호가 있었지만, 사무용 PC 사용자들이 혼란스러운 기호를 거부하면서 대다수가 텍스트 표기로 대체됨 미국은 글자, 유럽은 아이콘을 선호하는 경향이 있었으며, 여러 언어를 사용하는 유럽에서는 공통 시각 언어가 국가 간 이...",
-          "keywords": [
-            "시간",
-            "속으로",
-            "사라진",
-            "기호",
-            "1편:"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "EuroBirdPortal - 유럽 전역의 실시간 조류 이동",
-          "link": "https://news.hada.io/topic?id=33690",
-          "pubDate": "2026-09-14T12:34:17.000Z",
-          "image": null,
-          "summary": "EuroBirdPortal의 LIVE 지도는 최근 52주 또는 그 직전 52주의 조류 관측 데이터를 보여줌 EBP 데이터의 99%는 매일 갱신되지만, 일부 관측 포털은 제출 간격이 길어 최근 몇 주의 해당 지역이 빈칸으로 나타날 수 있음 최신 주차는 보통 전날까지...",
-          "keywords": [
-            "EuroBirdPortal",
-            "유럽",
-            "전역의",
-            "실시간",
-            "조류"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "WebKit, Top-Level Await 버그를 고치기 위해 Safari 모듈 로더를 C++로 전면 재작성",
-          "link": "https://news.hada.io/topic?id=33689",
-          "pubDate": "2026-09-14T11:15:05.000Z",
-          "image": null,
-          "summary": "WebKit이 Safari의 Top-Level Await(TLA) 구현을 ECMAScript 명세에 완전히 맞추기 위해 기존 모듈 로더를 사실상 처음부터 다시 작성 기존 구현에서는 특정 상황에서 모듈의 평가가 끝나기 전에 import()가 완료되면서 Cannot access '...' before initializati...",
-          "keywords": [
-            "WebKit",
-            "Top",
-            "Level",
-            "Await",
-            "버그를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Git에서 Fossil로 전환하기 (2025)",
-          "link": "https://news.hada.io/topic?id=33688",
-          "pubDate": "2026-09-14T11:03:43.000Z",
-          "image": null,
-          "summary": "Git의 Rust 필수화 제안에 반감을 느낀 개발자가 개인 프로젝트를 Fossil로 옮기고, 저장소 이전부터 자체 서버 운영과 일상적인 사용법까지 정리함 Fossil은 C로 작성된 작고 자원 소모가 적은 버전 관리 도구로, 스테이징 영역 없이 Subversion에 가까운 단순한 ...",
-          "keywords": [
-            "Git에서",
-            "Fossil로",
-            "전환하기",
-            "(2025)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:04.411Z",
+      "fetchedAt": "2026-09-14T16:10:47.040Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -541,7 +541,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:04.605Z",
+      "fetchedAt": "2026-09-14T16:10:47.234Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +615,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:04.824Z",
+      "fetchedAt": "2026-09-14T16:10:47.473Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +696,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:04.915Z",
+      "fetchedAt": "2026-09-14T16:10:47.555Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -795,7 +795,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:07.617Z",
+      "fetchedAt": "2026-09-14T16:10:50.442Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -886,7 +886,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:07.906Z",
+      "fetchedAt": "2026-09-14T16:10:50.750Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -895,93 +895,96 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+          "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+          "pubDate": "2026-09-14T15:00:00.000Z",
+          "image": null,
+          "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. The greatest risk isn't building a weak product — it's building a strong one that eventually becomes someone else's feature. You don’t want to miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "TC",
+            "Venture",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026에서만: OpenAI가 로드맵을 전달하면 어떻게 됩니까?",
+          "summaryKo": "AI 회사를 설립하는 경우, 재단 모델이 계속 발전할 것인지 여부가 문제가 아닙니다. 귀사가 가치 창출을 계속할 것인지 여부입니다. 가장 큰 위험은 약한 제품을 만드는 것이 아니라 결국 다른 사람의 특징이 되는 강력한 제품을 만드는 것입니다. TechCrunch Disrupt 2026의 Builders Stage에서 진행되는 이 인터랙티브 세션을 놓치지 마세요. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
+        },
+        {
+          "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+          "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "pubDate": "2026-09-14T14:45:44.000Z",
+          "image": null,
+          "summary": "Fathom said that it has over 400,000 monthly active users",
+          "keywords": [
+            "AI",
+            "Apps",
+            "Startups",
+            "AI notetakers",
+            "fathom",
+            "grammarly"
+          ],
+          "isForeign": true,
+          "titleKo": "생산성 플랫폼이 에이전트 작업을 추진함에 따라 Superhuman은 YC의 지원을 받는 공증인 Fathom을 인수합니다.",
+          "summaryKo": "Fathom은 월간 활성 사용자가 40만 명 이상이라고 말했습니다."
+        },
+        {
+          "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-14T14:30:00.000Z",
+          "image": null,
+          "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it’s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computational biology are changing what’s possible in conservation research, raising questions that extend far beyond the laboratory. If technology can help revive extinct species, should it? And […]",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Climate",
+            "Biotech & Health",
+            "AI",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026에서 AI가 어떻게 자연의 복귀를 설계할 수 있는지 들어보세요",
+          "summaryKo": "얼마 전까지만 해도 멸종된 종을 다시 살리는 것은 공상 과학 소설에 속했습니다. 오늘날, 그것은 수십억 달러 규모의 스타트업의 사명입니다. 인공 지능, 유전학 및 전산 생물학의 발전은 보존 연구에서 가능한 것을 변화시켜 실험실을 훨씬 넘어서는 질문을 제기하고 있습니다. 기술이 멸종된 종을 되살리는 데 도움이 될 수 있다면, 그렇게 해야 할까요? 그리고 […]"
+        },
+        {
+          "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+          "pubDate": "2026-09-14T14:00:00.000Z",
+          "image": null,
+          "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Fintech",
+            "Fundraising",
+            "Startups",
+            "TC"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 전시 5일 남음",
+          "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
+        },
+        {
           "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
           "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
           "pubDate": "2026-09-14T13:55:00.000Z",
           "image": null,
           "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
           "keywords": [
-            "Startups",
             "AI",
             "Apps",
+            "Startups",
+            "boxgroup",
             "Music",
-            "Spotify",
-            "boxgroup"
+            "Spotify"
           ],
           "isForeign": true,
           "titleKo": "시부야의 비닐 바는 인공지능 없이 재미있는 음악 앱을 제공하는 스타트업입니다.",
           "summaryKo": "전 Spotify EXEC의 회사는 사용자가 음악 제작에 참여하는 실험적인 \"싱글\" 을 출시합니다."
-        },
-        {
-          "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-          "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-          "pubDate": "2026-09-13T20:28:00.000Z",
-          "image": null,
-          "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "deep tech",
-            "Y Combinator",
-            "YC Demo Day"
-          ],
-          "isForeign": true,
-          "titleKo": "VC에 따르면 Y Combinator의 최신 데모 데이에서 가장 인기 있는 9개의 스타트업",
-          "summaryKo": "플로팅 리액터에서 브레인 칩에 이르기까지: VC는 여름 배치에서 가장 좋아하는 YC 스타트업을 선택했습니다."
-        },
-        {
-          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-11T20:33:18.000Z",
-          "image": null,
-          "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Fintech",
-            "Fundraising",
-            "Startups",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 전시회 테이블을 예약할 수 있는 기간이 일주일 남았습니다",
-          "summaryKo": "전시 테이블을 확보할 수 있는 기간이 일주일밖에 남지 않았습니다. 테이블은 한정되어 있으며 9월 18일 마감일 전에 매진될 수 있습니다."
-        },
-        {
-          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-          "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-          "pubDate": "2026-09-11T20:30:17.000Z",
-          "image": null,
-          "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Fintech",
-            "Fundraising",
-            "Startups",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 사이드 이벤트에 대한 최종, 최종, 최종 소명",
-          "summaryKo": "TechCrunch Disrupt 2026 기간 동안 공식 사이드 이벤트를 개최할 수 있는 마지막 기회는 오늘 9월 11일 밤 11시 59분 (태평양 표준시 기준) 입니다."
-        },
-        {
-          "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-          "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-          "pubDate": "2026-09-11T18:58:01.000Z",
-          "image": null,
-          "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
-          "keywords": [
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "중부 유라시아, 2026년 전장으로 가는 길 수상자로 선정: Cerberus, WeGlobal AI, LOOQ",
-          "summaryKo": "Cerberus, WeGlobal AI, LOOQ는 Road to TechCrunch Startup Battlefield 2026의 지역 결승전에서 상위 세 자리를 차지했으며 오는 10월 샌프란시스코의 TechCrunch Disrupt에서 열리는 Startup Battlefield 200에서 중부 유라시아를 대표할 예정입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:09.741Z",
+      "fetchedAt": "2026-09-14T16:10:57.833Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1080,7 +1083,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:11.673Z",
+      "fetchedAt": "2026-09-14T16:11:00.433Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1100,6 +1103,23 @@
             "정보보호",
             "지원사업",
             "수요기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - 울산일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
+          "pubDate": "2026-09-14T15:01:31.000Z",
+          "image": null,
+          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 울산일보",
+          "keywords": [
+            "공공데이터",
+            "활용",
+            "스타트업",
+            "모집",
+            "중기부"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1155,26 +1175,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[게시판] CJ대한통운, 장애인 소상공인 지원 '그린딜리버리 4기' 모집 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3YU5ZdTNDcXl4NENpbzUyVlZ4ZHJzd2dRNWdUdXQ1dE1LRUpUMDNqYkVLcW5DeHBPbHhVWk4xZWNMY211cDhCLTE4VEtqeUlWOXUwS2tLcnJNOXfSAWBBVV95cUxPbHU0QkpKT0xrZ2FIc2ZjR1V5Q0pncmwtYzF6VmJsdVRqdEtPMFV2Zk5mNTNXSERJdXFOVmNzM0xHZlladk41QUJGSTJiVDJfUWJiNWIwdXJpRFBoMURjMlA?oc=5",
-          "pubDate": "2026-09-14T01:22:43.000Z",
-          "image": null,
-          "summary": "[게시판] CJ대한통운, 장애인 소상공인 지원 '그린딜리버리 4기' 모집 연합뉴스",
-          "keywords": [
-            "게시판",
-            "CJ대한통운",
-            "장애인",
-            "소상공인",
-            "지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T14:12:12.143Z",
+      "fetchedAt": "2026-09-14T16:11:00.838Z",
       "error": null
     }
   },
@@ -1182,7 +1185,7 @@
     {
       "key": "스타트업",
       "label": "스타트업",
-      "count": 3,
+      "count": 4,
       "rank": 1,
       "change": "same"
     },
@@ -1191,63 +1194,63 @@
       "label": "공급망",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "up"
+      "change": "same"
+    },
+    {
+      "key": "공공데이터",
+      "label": "공공데이터",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
-      "rank": 8,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "전북정보보호지원센터",
       "label": "전북정보보호지원센터",
       "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "정보보호",
-      "label": "정보보호",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1256,7 +1259,7 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 1,
-      "change": "up",
+      "change": "same",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
@@ -1264,47 +1267,47 @@
       "label": "AdSense",
       "count": 5,
       "rank": 2,
-      "change": "up",
+      "change": "same",
       "labelKo": "애드 센스"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "up",
+      "rank": 4,
+      "change": "down",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 4,
-      "change": "up",
+      "rank": 5,
+      "change": "down",
       "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "up",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
       "rank": 6,
-      "change": "up",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1312,7 +1315,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1320,16 +1323,16 @@
       "label": "News",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
-      "key": "venture",
-      "label": "Venture",
+      "key": "tc",
+      "label": "TC",
       "count": 3,
       "rank": 10,
       "change": "new",
-      "labelKo": "벤처"
+      "labelKo": "TC"
     }
   ]
 }
