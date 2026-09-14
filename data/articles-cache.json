@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T16:11:01.362Z",
+  "collectedAt": "2026-09-14T18:12:02.285Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:45.188Z",
+      "fetchedAt": "2026-09-14T18:11:44.367Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:45.284Z",
+      "fetchedAt": "2026-09-14T18:11:44.470Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:46.226Z",
+      "fetchedAt": "2026-09-14T18:11:45.484Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "link": "https://openai.com/index/fyxer",
+          "pubDate": "2026-09-14T12:00:00.000Z",
+          "image": null,
+          "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법",
+          "summaryKo": "Fyxer는 OpenAI 모델, 미세 조정, 메모리 및 실제 사용자 피드백을 사용하여 각 사용자의 음성으로 받은 편지함과 이메일 초안을 구성합니다."
+        },
         {
           "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -341,22 +354,9 @@
           "isForeign": true,
           "titleKo": "연구원이 CODEX 및 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
-        },
-        {
-          "title": "Now everyone can put data to work",
-          "link": "https://openai.com/index/put-data-to-work",
-          "pubDate": "2026-09-10T15:00:00.000Z",
-          "image": null,
-          "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "이제 모든 사람이 데이터를 업무에 적용할 수 있습니다.",
-          "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:46.395Z",
+      "fetchedAt": "2026-09-14T18:11:47.701Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,91 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
-          "link": "https://news.hada.io/topic?id=33697",
-          "pubDate": "2026-09-14T15:37:09.000Z",
+          "title": "XCancel 서비스, 별도 공지가 있을 때까지 중단",
+          "link": "https://news.hada.io/topic?id=33702",
+          "pubDate": "2026-09-14T17:37:40.000Z",
           "image": null,
-          "summary": "파운데이션 모델의 구조부터 학습, 추론, RAG, 에이전트, 평가까지 다루는 온라인 교재를 만들고 있습니다. 한국어와 영어로 읽을 수 있고, 가입 없이 전체 내용을 볼 수 있습니다. 기법의 정의만 설명하기보다는 어떤 병목을 해결하는지, 메모리나 지연 시간에서 무엇을 얻고 잃는지까지 연결해서 정리하려고",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Foundation",
-            "Model",
-            "Engineering"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "효과적인 소프트웨어 설계 문서 작성법",
-          "link": "https://news.hada.io/topic?id=33696",
-          "pubDate": "2026-09-14T15:35:35.000Z",
-          "image": null,
-          "summary": "설계 문서는 구현 전에 어려운 문제와 중요한 결정을 검토하고, 팀원 및 협력 팀의 피드백을 모아 잘못된 구현에 시간을 낭비하지 않도록 돕는 도구임 문서에 담을 결정은 틀렸을 때의 비용으로 판단함. 언어나 저장소처럼 바꾸기 어려운 선택에 집중하고, 몇 시간...",
-          "keywords": [
-            "효과적인",
-            "소프트웨어",
-            "설계",
-            "문서",
-            "작성법"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
-          "link": "https://news.hada.io/topic?id=33695",
-          "pubDate": "2026-09-14T14:36:47.000Z",
-          "image": null,
-          "summary": "iOS 27과 macOS Golden Gate의 비공개 프레임워크에서 새로운 Siri가 외부 AI 모델과 깊이 연동하도록 설계된 정황이 발견됨 Model Delegation은 Claude를 기존 ChatGPT처럼 Siri 확장 기능으로 연결하며, 시연에서는 Claude가 미리 알림 요청을 해석하고 Siri가 실...",
-          "keywords": [
-            "Apple",
-            "Siri의",
-            "AI를",
-            "Claude와",
-            "ChatGPT로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "RP2350을 위한 386 PC",
-          "link": "https://news.hada.io/topic?id=33694",
-          "pubDate": "2026-09-14T14:33:47.000Z",
-          "image": null,
-          "summary": "FRANK 386은 RP2350 기반 Raspberry Pi Pico 2에서 DOS, Windows 3.x, Windows 95, Linux 등을 부팅할 수 있는 i386 PC 에뮬레이터임 i386 전체 명령어 에뮬레이션과 i486/i586 일부 기능, 선택적 x87 FPU를 지원하며, 8MB PSRAM을 사용해 최대 8MB RAM을 제공함...",
-          "keywords": [
-            "RP2350을",
-            "위한",
-            "386",
-            "PC"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "XCancel, “진행 중인 법적 절차의 새로운 상황으로 인해” 서비스 중단",
-          "link": "https://news.hada.io/topic?id=33692",
-          "pubDate": "2026-09-14T13:31:39.000Z",
-          "image": null,
-          "summary": "XCancel이 진행 중인 법적 절차에서 새로운 상황이 발생해 서비스를 다시 중단함 이번 중단은 추가 공지가 있을 때까지 이어짐 서비스를 중단해야 하는 상황이며, 추가 세부 사항은 공개할 수 없음 찾고 있던 콘텐츠는",
+          "summary": "XCancel이 진행 중인 법적 절차에 새로운 상황이 발생하면서 서비스를 다시 중단함 이번 중단은 법적 절차의 새로운 상황에 따라 요구된 조치임 서비스 중단은 별도 공지가 있을 때까지 이어짐 XCancel은 중단과 관련한",
           "keywords": [
             "XCancel",
-            "진행",
-            "중인",
-            "법적",
-            "절차의"
+            "서비스",
+            "별도",
+            "공지가",
+            "있을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
+          "link": "https://news.hada.io/topic?id=33701",
+          "pubDate": "2026-09-14T17:34:40.000Z",
+          "image": null,
+          "summary": "OpenAI 봇이 RubyGems.org의 캐싱 취약점을 알고 악용하려 했으며, 동시에 RubyDoc.info에서 웹 스크래핑 코드를 실행한 것으로 보임 5월 확인된 GemStuffer 캠페인의 정크 gem들은 영국 정부 웹사이트를 스크래핑한 뒤 데이터를 gem으로 다시 패키징해 RubyGems.o...",
+          "keywords": [
+            "OpenAI",
+            "봇은",
+            "RubyGems",
+            "캐싱",
+            "취약점을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenArch - 현대 LLM 아키텍처의 PyTorch 구현 모음",
+          "link": "https://news.hada.io/topic?id=33700",
+          "pubDate": "2026-09-14T16:45:20.000Z",
+          "image": null,
+          "summary": "OpenArch는 현대 오픈소스 LLM 아키텍처를 처음부터 직접 구현한 PyTorch 학습용 저장소로, 아키텍처마다 읽기 쉬운 단일 파일을 제공함 가독성과 학습을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅, 위치 인코딩 같은 구조적 선택을 나란히 비교할 수...",
+          "keywords": [
+            "OpenArch",
+            "현대",
+            "LLM",
+            "아키텍처의",
+            "PyTorch"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "텍사스 판사, TikTok이 아동 안전 기능에 관해 이용자를 오도했다고 판결",
+          "link": "https://news.hada.io/topic?id=33699",
+          "pubDate": "2026-09-14T16:42:20.000Z",
+          "image": null,
+          "summary": "텍사스 법원이 TikTok의 미성년자 콘텐츠 필터링 안내와 아동 보호 기능 홍보가 주 소비자보호법을 위반했다고 판결함 TikTok은 커뮤니티 가이드라인 위반 콘텐츠를 삭제한다고 안내했지만, 일부를 내부적으로 ‘금지’ 대신 ‘찾기 어려움’으로 분류",
+          "keywords": [
+            "텍사스",
+            "판사",
+            "TikTok이",
+            "아동",
+            "안전"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "신설된 10만 달러 H-1B 비자 수수료가 기술 일자리를 해외로 밀어냄",
+          "link": "https://news.hada.io/topic?id=33698",
+          "pubDate": "2026-09-14T16:39:20.000Z",
+          "image": null,
+          "summary": "미국의 고숙련 이민 규제 강화에 대응해 기술 기업들이 해외 사무실을 짓고 현지 채용을 늘리는 방식으로 인재 확보 전략을 바꾸고 있음 2025년 도입된 10만 달러 수수료 적용 대상 H-1B 신청 처리 건수는 전년보다 87% 감소했으며, 신청 급감으로...",
+          "keywords": [
+            "신설된",
+            "10만",
+            "달러",
+            "1B",
+            "비자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:47.040Z",
+      "fetchedAt": "2026-09-14T18:11:48.771Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -457,6 +458,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Streamers on the runway: Kai Cenat brings his apparel brand to New York Fashion Week",
+          "link": "https://www.tubefilter.com/2026/09/14/kai-cenat-vivet-new-york-fashion-week-nyfw/",
+          "pubDate": "2026-09-14T16:47:46.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/kai-cenat-gucci.jpg",
+          "summary": "For a recent stream, Kai Cenat traded his famous bedroom setup for a Big Apple catwalk. The Bronx-born creator returned to his hometown during New York Fashion Week (NYFW), when he unveiled the first pieces to emerge from his apparel brand Vivet. Vivet, named after the Latin verb meaning \"to live,\" has been in the works for more than a year. During an extended hiatus from his blockbuster Twitch account, Cenat traveled to Italy to meet with expert tailors, and he also consulted with designers in ",
+          "keywords": [
+            "Articles",
+            "Fashion",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "fashion"
+          ],
+          "isForeign": true,
+          "titleKo": "런웨이 스트리머: 카이 세낫 (Kai Cenat) 이 뉴욕 패션 위크 (New York Fashion Week) 에 자신의 의류 브랜드를 소개합니다.",
+          "summaryKo": "최근 스트림에서 Kai Cenat은 유명한 침실을 빅 애플 캣워크로 교환했습니다. 브롱크스에서 태어난 크리에이터는 뉴욕 패션 위크 (NYFW) 기간 동안 자신의 의류 브랜드 Vivet에서 나온 첫 번째 작품을 공개하면서 고향으로 돌아왔습니다. '살다' 라는 뜻의 라틴어 동사 'Vivet' 에서 따온 Vivet은 1년 이상 작품에 등장해 왔습니다. 블록버스터 트위치 계정의 중단 기간 동안 Cenat은 전문 재단사를 만나기 위해 이탈리아로 여행했으며, 그는 또한"
+        },
         {
           "title": "Have you heard? Tiltify’s creator awards, a ‘Drunk History’ comeback, and a 95-year-old podcaster.",
           "link": "https://www.tubefilter.com/2026/09/11/have-you-heard-tiltify-drunk-history-dominic-chianese-uncle-junior/",
@@ -526,22 +545,9 @@
           "isForeign": true,
           "titleKo": "Roblox는 개발자가 PC, 모바일 및 콘솔에서 독립 실행형 앱으로 게임을 출시하는 데 도움이 될 것이라고 말합니다. 아, 그리고 핀테크에도 들어가고 있습니다.",
           "summaryKo": "Roblox는 게임 개발자에게 게임을 제작하고 배포할 수 있는 더 많은 방법을 제공하고, 그 과정에서 벌어들인 돈에 더 빠르게 접근할 수 있는 기회를 제공합니다. Roblox는 최근 연례 개발자 컨퍼런스에서 지난 12개월 동안 게임 개발자와 UGC 아이템 제작자가 총 17억 $ 의 수익을 올렸다고 밝혔습니다. 또한 플레이어를 위한 참여 통계를 자랑했습니다 [...] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Skyrim’s latest player companion: a sentient IKEA shelf that can hold your 10,000 wheels of cheese",
-          "link": "https://www.tubefilter.com/2026/09/11/skyrim-ikea-kallax-storageborn-companion/",
-          "pubDate": "2026-09-11T18:29:10.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/ikea-skyrim.jpg",
-          "summary": "A new brand touches the beacon. That’s right: IKEA is officially in Skyrim. Or, well, not quite officially. IKEA didn’t partner directly with Skyrim developer Bethesda; instead it teamed up with a well-known modder studio. See, The Elder Scrolls V: Skyrim came out way back in 2011, and though it still receives occasional updates, Bethesda has made […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "스카이림의 최신 플레이어 동반자: 10,000바퀴의 치즈를 담을 수 있는 센티언트 이케아 선반",
-          "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:47.234Z",
+      "fetchedAt": "2026-09-14T18:11:50.733Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +621,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:47.473Z",
+      "fetchedAt": "2026-09-14T18:11:50.934Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +702,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:47.555Z",
+      "fetchedAt": "2026-09-14T18:11:51.039Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -795,7 +801,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:50.442Z",
+      "fetchedAt": "2026-09-14T18:11:53.887Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -886,7 +892,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:50.750Z",
+      "fetchedAt": "2026-09-14T18:11:54.144Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -899,24 +905,23 @@
           "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
           "pubDate": "2026-09-14T15:00:00.000Z",
           "image": null,
-          "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. The greatest risk isn't building a weak product — it's building a strong one that eventually becomes someone else's feature. You don’t want to miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.",
+          "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
           "keywords": [
             "AI",
             "Startups",
-            "TC",
             "Venture",
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026에서만: OpenAI가 로드맵을 전달하면 어떻게 됩니까?",
-          "summaryKo": "AI 회사를 설립하는 경우, 재단 모델이 계속 발전할 것인지 여부가 문제가 아닙니다. 귀사가 가치 창출을 계속할 것인지 여부입니다. 가장 큰 위험은 약한 제품을 만드는 것이 아니라 결국 다른 사람의 특징이 되는 강력한 제품을 만드는 것입니다. TechCrunch Disrupt 2026의 Builders Stage에서 진행되는 이 인터랙티브 세션을 놓치지 마세요. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
+          "summaryKo": "AI 회사를 설립하는 경우, 재단 모델이 계속 발전할 것인지 여부가 문제가 아닙니다. 귀사가 가치 창출을 계속할 것인지 여부입니다. TechCrunch Disrupt 2026의 Builders Stage에서 진행되는 이 인터랙티브 세션을 놓치지 마세요."
         },
         {
           "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
           "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
           "pubDate": "2026-09-14T14:45:44.000Z",
           "image": null,
-          "summary": "Fathom said that it has over 400,000 monthly active users",
+          "summary": "Fathom said that it has over 400,000 monthly active users.",
           "keywords": [
             "AI",
             "Apps",
@@ -927,25 +932,24 @@
           ],
           "isForeign": true,
           "titleKo": "생산성 플랫폼이 에이전트 작업을 추진함에 따라 Superhuman은 YC의 지원을 받는 공증인 Fathom을 인수합니다.",
-          "summaryKo": "Fathom은 월간 활성 사용자가 40만 명 이상이라고 말했습니다."
+          "summaryKo": "Fathom은 40만 명이 넘는 월간 활성 사용자를 보유하고 있다고 말했습니다."
         },
         {
           "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
           "pubDate": "2026-09-14T14:30:00.000Z",
           "image": null,
-          "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it’s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computational biology are changing what’s possible in conservation research, raising questions that extend far beyond the laboratory. If technology can help revive extinct species, should it? And […]",
+          "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
           "keywords": [
-            "TC",
-            "Startups",
-            "Climate",
-            "Biotech & Health",
             "AI",
+            "Biotech & Health",
+            "Climate",
+            "Startups",
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026에서 AI가 어떻게 자연의 복귀를 설계할 수 있는지 들어보세요",
-          "summaryKo": "얼마 전까지만 해도 멸종된 종을 다시 살리는 것은 공상 과학 소설에 속했습니다. 오늘날, 그것은 수십억 달러 규모의 스타트업의 사명입니다. 인공 지능, 유전학 및 전산 생물학의 발전은 보존 연구에서 가능한 것을 변화시켜 실험실을 훨씬 넘어서는 질문을 제기하고 있습니다. 기술이 멸종된 종을 되살리는 데 도움이 될 수 있다면, 그렇게 해야 할까요? 그리고 […]"
+          "summaryKo": "얼마 전까지만 해도 멸종된 종을 다시 살리는 것은 공상 과학 소설에 속했습니다. 오늘날, 그것은 수십억 달러 규모의 스타트업의 사명입니다. 기술 분야에서 가장 독창적인 창업자 중 한 명과 함께 대화에 참여하세요. 지금 Disrupt 이용권을 확보하세요."
         },
         {
           "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
@@ -966,8 +970,8 @@
           "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
         },
         {
-          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-          "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+          "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+          "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
           "pubDate": "2026-09-14T13:55:00.000Z",
           "image": null,
           "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
@@ -980,11 +984,11 @@
             "Spotify"
           ],
           "isForeign": true,
-          "titleKo": "시부야의 비닐 바는 인공지능 없이 재미있는 음악 앱을 제공하는 스타트업입니다.",
+          "titleKo": "시부야의 비닐 바는 음악 앱을 만들기 위한 전 Spotify 리더의 스타트업입니다.",
           "summaryKo": "전 Spotify EXEC의 회사는 사용자가 음악 제작에 참여하는 실험적인 \"싱글\" 을 출시합니다."
         }
       ],
-      "fetchedAt": "2026-09-14T16:10:57.833Z",
+      "fetchedAt": "2026-09-14T18:11:58.318Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1083,7 +1087,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:11:00.433Z",
+      "fetchedAt": "2026-09-14T18:12:01.264Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1109,11 +1113,11 @@
           "summaryKo": null
         },
         {
-          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - 울산일보",
+          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - ulsanilbo.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
           "pubDate": "2026-09-14T15:01:31.000Z",
           "image": null,
-          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 울산일보",
+          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 ulsanilbo.co.kr",
           "keywords": [
             "공공데이터",
             "활용",
@@ -1177,7 +1181,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T16:11:00.838Z",
+      "fetchedAt": "2026-09-14T18:12:01.773Z",
       "error": null
     }
   },
@@ -1236,21 +1240,21 @@
       "label": "공공데이터",
       "count": 2,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "전북정보보호지원센터",
       "label": "전북정보보호지원센터",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1275,7 +1279,7 @@
       "label": "AI",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1283,7 +1287,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 4,
-      "change": "down",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1291,48 +1295,48 @@
       "label": "Startups",
       "count": 5,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
-    },
-    {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 6,
-      "change": "down",
-      "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
       "label": "Articles",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
+      "count": 4,
+      "rank": 6,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
+      "count": 4,
+      "rank": 7,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
-      "count": 3,
+      "count": 4,
       "rank": 9,
       "change": "same",
       "labelKo": "뉴스"
     },
     {
-      "key": "tc",
-      "label": "TC",
-      "count": 3,
+      "key": "apps",
+      "label": "Apps",
+      "count": 2,
       "rank": 10,
       "change": "new",
-      "labelKo": "TC"
+      "labelKo": "앱"
     }
   ]
 }
