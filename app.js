@@ -43,6 +43,8 @@
   let translateEnabled = false;
   let selectedDate = null; // "YYYY-MM-DD" | null
   let trendingScope = "domestic"; // 'domestic' | 'global'
+  let feedArticles = []; // 현재 목록에 표시 중인 기사들 (모달 "다음" 이동용)
+  let currentArticleIndex = -1;
   let calendarMonth = new Date(); // 달력에 표시 중인 달(일 단위는 무시)
   let BASE_SITES = [];
   let ARTICLE_CACHE = { collectedAt: null, feeds: {} };
@@ -434,6 +436,8 @@
     articles.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
     articles = articles.slice(0, 60);
 
+    feedArticles = articles;
+
     const title = selectedDate ? `📰 ${formatDateKeyLabel(selectedDate)} 뉴스` : "📰 최신 뉴스";
     header.innerHTML = `<h2>${title}</h2><span class="meta">${articles.length}건</span>`;
     body.innerHTML = "";
@@ -496,6 +500,8 @@
   }
 
   function openArticleModal(article) {
+    currentArticleIndex = feedArticles.indexOf(article);
+
     document.getElementById("modal-date").textContent = formatPubDate(article.pubDate) || "";
     document.getElementById("modal-source").textContent = article.siteName;
 
@@ -518,7 +524,25 @@
 
     document.getElementById("modal-link").href = article.link;
 
+    const hasPrev = currentArticleIndex > 0;
+    const hasNext = currentArticleIndex > -1 && currentArticleIndex + 1 < feedArticles.length;
+    document.getElementById("modal-prev").hidden = !hasPrev;
+    document.getElementById("modal-next").hidden = !hasNext;
+
+    document.querySelector(".modal-card").scrollTop = 0;
     document.getElementById("article-modal").hidden = false;
+  }
+
+  function showNextArticle() {
+    if (currentArticleIndex > -1 && currentArticleIndex + 1 < feedArticles.length) {
+      openArticleModal(feedArticles[currentArticleIndex + 1]);
+    }
+  }
+
+  function showPrevArticle() {
+    if (currentArticleIndex > 0) {
+      openArticleModal(feedArticles[currentArticleIndex - 1]);
+    }
   }
 
   function closeArticleModal() {
@@ -528,11 +552,16 @@
   function setupModal() {
     const overlay = document.getElementById("article-modal");
     document.getElementById("modal-close").addEventListener("click", closeArticleModal);
+    document.getElementById("modal-next").addEventListener("click", showNextArticle);
+    document.getElementById("modal-prev").addEventListener("click", showPrevArticle);
     overlay.addEventListener("click", (e) => {
       if (e.target === overlay) closeArticleModal();
     });
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape" && !overlay.hidden) closeArticleModal();
+      if (overlay.hidden) return;
+      if (e.key === "Escape") closeArticleModal();
+      if (e.key === "ArrowRight") showNextArticle();
+      if (e.key === "ArrowLeft") showPrevArticle();
     });
   }
 

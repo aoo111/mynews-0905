@@ -822,16 +822,54 @@ a {
   display: none;
 }
 
-.modal-card {
+.modal-card-wrap {
   position: relative;
   width: 100%;
   max-width: 480px;
+}
+
+.modal-card {
+  position: relative;
+  width: 100%;
   max-height: 88vh;
   overflow-y: auto;
   background: var(--panel);
   border-radius: var(--radius);
   padding: 24px;
   box-shadow: 0 24px 60px rgba(43, 38, 33, 0.3);
+}
+
+.modal-nav-btn {
+  position: absolute;
+  bottom: -18px;
+  width: 48px;
+  height: 48px;
+  border: none;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(43, 38, 33, 0.35);
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.modal-nav-btn:hover {
+  transform: scale(1.08);
+  opacity: 0.92;
+}
+
+.modal-nav-btn[hidden] {
+  display: none;
+}
+
+.modal-prev-btn {
+  left: -18px;
+}
+
+.modal-next-btn {
+  right: -18px;
 }
 
 .modal-close {
