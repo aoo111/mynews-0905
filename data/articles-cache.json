@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T10:11:00.457Z",
+  "collectedAt": "2026-09-14T12:13:58.273Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“위헌이라 막혔지만 끝까지 간다”…마크롱, 15세 미만 SNS 금지 재도전",
+          "link": "https://www.mk.co.kr/news/economy/12152505",
+          "pubDate": "2026-09-14T10:30:12.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/14/rcv.YNA.20260908.PYH2026090824890001300_R.jpg",
+          "summary": "프랑스 정부가 위헌 판단으로 제동이 걸렸던 ‘15세 미만 청소년의 사회관계망서비스(SNS) 이용 금지’를 다시 추진한다. 에마뉘엘 마크롱 프랑스 대통령은 “끝까지 가겠다”며 청소년..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "20代 평균 주담대 2억 첫 돌파 … 증가율은 30대 '최고'",
           "link": "https://www.mk.co.kr/news/economy/12152465",
           "pubDate": "2026-09-14T09:09:58.000Z",
@@ -70,7 +83,7 @@
           "title": "에너지위기에 '도로 석탄'1년새 발전량 15% 급증",
           "link": "https://www.mk.co.kr/news/economy/12152446",
           "pubDate": "2026-09-14T09:01:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01110110000004_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01160110000001_L00.jpg",
           "summary": "정부가 2040년까지 석탄발전을 퇴출하겠다는 로드맵을 추진하고 있는 가운데 올해 실제 전력 시장에서는 석탄 의존도가 오히려 높아진 것으로 나타났다. 중동 전쟁으로 액화천연가스(LN..",
           "keywords": [
             "경제"
@@ -83,21 +96,8 @@
           "title": "수원역 ~ 청량리까지 30분대 … GTX-C 15일 착공",
           "link": "https://www.mk.co.kr/news/economy/12152445",
           "pubDate": "2026-09-14T09:01:10.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01110110000003_S00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01160110000002_S00.jpg",
           "summary": "수도권 북부~서울 도심~경기 남부를 달리는 수도권광역급행철도(GTX)-C노선이 15일 착공한다고 국토교통부가 14일 밝혔다. GTX-C는 경기 양주 덕정에서 출발해 청량리와 삼성,..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "내 집 더 멀어진 2030 … 무주택 64%→71%",
-          "link": "https://www.mk.co.kr/news/economy/12152444",
-          "pubDate": "2026-09-14T09:01:09.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01110110000002_L00.jpg",
-          "summary": "집값 상승과 고금리 여파로 청년층 가운데 전월세와 공공임대로 거주하는 비중이 늘어나고 있는 것으로 나타났다. 또한 이들이 거주하는 면적은 줄어드는 추세인 반면 주거비와 이자 지출은..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:39.052Z",
+      "fetchedAt": "2026-09-14T12:13:49.146Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:39.267Z",
+      "fetchedAt": "2026-09-14T12:13:49.250Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:40.443Z",
+      "fetchedAt": "2026-09-14T12:13:50.706Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:40.603Z",
+      "fetchedAt": "2026-09-14T12:13:50.876Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "WebKit, Top-Level Await 버그를 고치기 위해 Safari 모듈 로더를 C++로 전면 재작성",
+          "link": "https://news.hada.io/topic?id=33689",
+          "pubDate": "2026-09-14T11:15:05.000Z",
+          "image": null,
+          "summary": "WebKit이 Safari의 Top-Level Await(TLA) 구현을 ECMAScript 명세에 완전히 맞추기 위해 기존 모듈 로더를 사실상 처음부터 다시 작성 기존 구현에서는 특정 상황에서 모듈의 평가가 끝나기 전에 import()가 완료되면서 Cannot access '...' before initializati...",
+          "keywords": [
+            "WebKit",
+            "Top",
+            "Level",
+            "Await",
+            "버그를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Git에서 Fossil로 전환하기 (2025)",
+          "link": "https://news.hada.io/topic?id=33688",
+          "pubDate": "2026-09-14T11:03:43.000Z",
+          "image": null,
+          "summary": "Git의 Rust 필수화 제안에 반감을 느낀 개발자가 개인 프로젝트를 Fossil로 옮기고, 저장소 이전부터 자체 서버 운영과 일상적인 사용법까지 정리함 Fossil은 C로 작성된 작고 자원 소모가 적은 버전 관리 도구로, 스테이징 영역 없이 Subversion에 가까운 단순한 ...",
+          "keywords": [
+            "Git에서",
+            "Fossil로",
+            "전환하기",
+            "(2025)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈소스 AI와 오픈 모델 읽기 목록",
           "link": "https://news.hada.io/topic?id=33687",
@@ -414,42 +447,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경험상 프로그래머들은 &quot;reduce&quot;를 좋아하지 않음",
-          "link": "https://news.hada.io/topic?id=33684",
-          "pubDate": "2026-09-14T08:02:23.000Z",
-          "image": null,
-          "summary": "개인적인 코드 리뷰 경험에서 map과 filter 사용에는 불만이 드물지만, reduce 에는 읽기 어렵다는 피드백을 자주 받음 reduce 는 map, filter, some",
-          "keywords": [
-            "경험상",
-            "프로그래머들은",
-            "&quot;reduce&quot;를",
-            "좋아하지",
-            "않음"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "JPEG XL에 반대하는 이유",
-          "link": "https://news.hada.io/topic?id=33682",
-          "pubDate": "2026-09-14T07:42:19.000Z",
-          "image": null,
-          "summary": "JPEG XL은 웹 밖에서는 매력적인 기술이지만, 웹에 필요한 손실 압축 효율과 빠른 디코딩에서는 최적화된 AVIF보다 경쟁력이 떨어져 브라우저 도입 필요성이 불분명함 웹 이미지의 대부분은 범용성 높은 손실 압축으로 처리할 수 있음. 무손실 압축의 이점만으로 새...",
-          "keywords": [
-            "JPEG",
-            "XL에",
-            "반대하는",
-            "이유"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:41.383Z",
+      "fetchedAt": "2026-09-14T12:13:51.673Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -541,7 +541,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:41.632Z",
+      "fetchedAt": "2026-09-14T12:13:51.807Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +615,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:41.817Z",
+      "fetchedAt": "2026-09-14T12:13:51.930Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +696,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:41.875Z",
+      "fetchedAt": "2026-09-14T12:13:51.987Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -705,98 +705,98 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "전기자전거·킥보드 첫 이용료 돌려준다…티머니GO, ‘0원 라이딩’ 진행",
-          "link": "https://www.venturesquare.net/1113493/",
-          "pubDate": "2026-09-14T07:25:43.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/tgo-789x511.jpg",
-          "summary": "티머니모빌리티가 티머니GO에서 전기자전거와 전동킥보드를 처음 이용하는 고객에게 결제 금액 전액을 마일리지로 환급한다. 프로모션은 10월 31일까지 진행되며 9월 10일 이전에 해당 서비스 이용 이력이 없는 고객이 대상이다. 적립한 마일리지는 고속·시외버스와 택시, 공공... The post 전기자전거·킥보드 첫 이용료 돌려준다…티머니GO, ‘0원 라이딩’ 진행 appeared first on 벤처스퀘어.",
+          "title": "한국형 벤처정책 공유…벤처기업협회, 페르가나주와 기업 교류 논의",
+          "link": "https://www.venturesquare.net/1113624/",
+          "pubDate": "2026-09-14T12:02:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/venture-789x378.jpg",
+          "summary": "벤처기업협회가 우즈베키스탄 페르가나주 대표단을 접견하고 양국 벤처·창업 생태계의 협력 방안을 논의했다. 협회는 벤처특별법과 벤처확인제도, 민관 협력체계 등 한국의 벤처기업 육성 경험을 공유했다. 양측은 페르가나주의 IT·제조산업 고도화를 위한 기술 교류와 한국 벤처기업... The post 한국형 벤처정책 공유…벤처기업협회, 페르가나주와 기업 교류 논의 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "0원라이딩",
-            "단거리이동",
-            "마일리지"
+            "글로벌진출",
+            "기술교류",
+            "벤처기업협회"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "‘다음 화가 궁금해지는 3분’ 찾는다…비글루, 글로벌 AI 숏드라마 공모",
-          "link": "https://www.venturesquare.net/1113486/",
-          "pubDate": "2026-09-14T05:51:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/vigooloo-418x522.png",
-          "summary": "비글루가 총상금 2만달러 규모의 글로벌 AI 숏드라마 공모전을 열고 10월 11일까지 3분 분량의 파일럿 영상을 접수한다. 본선에 오른 20개 팀의 작품은 비글루 플랫폼에서 시청 데이터를 기준으로 평가하며 최종 5개 팀에 상금을 지급한다. 사전등록 크레딧과 심사 단계별... The post ‘다음 화가 궁금해지는 3분’ 찾는다…비글루, 글로벌 AI 숏드라마 공모 appeared first on 벤처스퀘어.",
+          "title": "그로젠바이오, DEB 유전자치료제 유럽서 검증…15억 글로벌 R&D 선정",
+          "link": "https://www.venturesquare.net/1113612/",
+          "pubDate": "2026-09-14T11:59:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/bio-789x444.png",
+          "summary": "그로젠바이오가 중소벤처기업부의 글로벌협력형 R&D 사업에 선정돼 DEB 유전자치료제 후보물질 ‘GT102’의 비임상 개발을 추진한다. 연구에는 유럽 EBRI와 한양대의료원이 참여하며 정부 연구개발비 15억 원을 지원받아 2029년 6월까지 공동연구를 진행한다. 환자 유... The post 그로젠바이오, DEB 유전자치료제 유럽서 검증…15억 글로벌 R&D 선정 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI숏드라마",
-            "비글루",
-            "비글루숏드라마페스티벌"
+            "DEB",
+            "EBRI",
+            "GT102"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "히트펌프 초기비용 10년 구독으로…모닥불에너지·제주동부신협 맞손",
-          "link": "https://www.venturesquare.net/1113466/",
-          "pubDate": "2026-09-14T05:32:46.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260914-783x522.jpg",
-          "summary": "모닥불에너지와 제주동부신협이 제주 하반기 히트펌프 보급사업 참여 가구를 대상으로 최대 10년 구독서비스를 제공한다. 제조사와 지역 신협의 금융상품을 연결해 가구가 초기 설치비를 별도로 마련하지 않고 전기 기반 난방설비를 도입하도록 지원하는 구조다. 모닥불에너지는 상업용... The post 히트펌프 초기비용 10년 구독으로…모닥불에너지·제주동부신협 맞손 appeared first on 벤처스퀘어.",
+          "title": "공장을 AI가 읽는 ‘월드모델’ 만든다…베스텔라랩, 스케일업 팁스 선정",
+          "link": "https://www.venturesquare.net/1113605/",
+          "pubDate": "2026-09-14T11:56:00.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-32-1-789x263.png",
+          "summary": "베스텔라랩이 스케일업 팁스에 선정돼 2029년 7월까지 피지컬 AI 기반 팩토리 월드모델 플랫폼을 개발한다. 정부 연구개발비는 20억 원이며 삼호그린인베스트먼트가 운영사로 참여한다. 사물주소를 활용해 공장 내 설비와 작업자, 자재, 로봇의 위치와 상태를 AI가 이해하도... The post 공장을 AI가 읽는 ‘월드모델’ 만든다…베스텔라랩, 스케일업 팁스 선정 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "기후핀테크",
-            "난방전기화",
-            "모닥불에너지"
+            "공간AI",
+            "베스텔라랩",
+            "사물주소"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "시나리오부터 편집까지 한 흐름으로…씨엔티테크, AI 영상 스타트업 담가라 투자",
-          "link": "https://www.venturesquare.net/1113456/",
-          "pubDate": "2026-09-14T05:10:08.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CES-2026-702x522.png",
-          "summary": "씨엔티테크가 AI 영상 프리프로덕션 자동화 플랫폼 ‘스토리싱크 프로’를 개발하는 담가라에 투자했다. 스토리싱크 프로는 4개 AI 에이전트의 교차검증과 멀티모델 자동 선택 기능으로 영상 제작 전 과정과 비용을 관리한다. 담가라는 이번 투자를 활용해 B2B SaaS 상용화... The post 시나리오부터 편집까지 한 흐름으로…씨엔티테크, AI 영상 스타트업 담가라 투자 appeared first on 벤처스퀘어.",
+          "title": "전 세계서 질문 1만1000개…이정재, 틱톡서 악역·새 프로젝트 답했다",
+          "link": "https://www.venturesquare.net/1113596/",
+          "pubDate": "2026-09-14T11:51:06.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/tt-789x422.jpg",
+          "summary": "배우 이정재가 틱톡 공식 계정에서 진행한 글로벌 팬 Q&A에 일주일간 1만1000여 개의 질문이 접수됐다. 이벤트 안내와 질문 모집 콘텐츠는 각각 530만 회와 820만 회 이상의 조회수를 기록했다. 이정재는 개인적인 취향과 악역·스릴러 장르에 대한 관심을 공개하고 몇... The post 전 세계서 질문 1만1000개…이정재, 틱톡서 악역·새 프로젝트 답했다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI영상제작",
-            "B2BSaaS",
-            "담가라"
+            "글로벌팬덤",
+            "디지털팬소통",
+            "배우이정재"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "클라우드·엣지 보안 거점을 한국에…F5, 분산 클라우드 PoP 신설",
-          "link": "https://www.venturesquare.net/1113448/",
-          "pubDate": "2026-09-14T05:02:10.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/F5-1-789x444.png",
-          "summary": "F5가 한국에 분산 클라우드 서비스 거점인 PoP를 신설해 국내 사용자와 가까운 곳에서 애플리케이션 트래픽과 보안 요청을 처리한다. 신규 거점은 클라우드와 온프레미스, 엣지 환경을 연결하고 로드밸런싱과 DDoS 방어, AI 웹방화벽 등을 통합 제공한다. F5는 지연시간... The post 클라우드·엣지 보안 거점을 한국에…F5, 분산 클라우드 PoP 신설 appeared first on 벤처스퀘어.",
+          "title": "K뷰티, 일본 매대에 오르기까지…우즈스튜디오, 공준식 대표와 ‘딥다이브’",
+          "link": "https://www.venturesquare.net/1113589/",
+          "pubDate": "2026-09-14T11:47:34.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ozoo-789x438.png",
+          "summary": "우즈스튜디오가 오는 10월 K뷰티 브랜드의 일본 진출 전략을 다루는 ‘The K-Beauty Code Vol.6’를 개최한다. 공준식 글로우데이즈 대표가 글로우픽과 앳코스메 운영 경험을 토대로 한일 뷰티 시장의 차이와 현지 유통·브랜드 성장 과정을 설명한다. 세미나는 ... The post K뷰티, 일본 매대에 오르기까지…우즈스튜디오, 공준식 대표와 ‘딥다이브’ appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "API보안",
-            "DDoS",
-            "F5"
+            "K뷰티",
+            "TheKBeautyCode",
+            "공준식"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T08:12:39.030Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-14T12:13:54.867Z",
+      "error": null
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -886,7 +886,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:57.143Z",
+      "fetchedAt": "2026-09-14T12:13:55.154Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -981,7 +981,7 @@
           "summaryKo": "인류 연구원은 이번 주에 사임하면서 X에 대한 게시물에서 회사가 \"자기 개선적인 슈퍼 인텔리전스로 곧장 달려가고 우리 삶과 함께 도박을 하고 있다\" 고 경고했다. 회사 자체의 얼라인먼트 리드는 메시지를 되돌리기보다는 공동 서명하기까지 했습니다. 이전에 AI 업계가 애교를 부렸던 파멸의 경고의 일종이지만, Anthropic이 IPO를 준비하고있는 타이밍은 다르게 착륙합니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:57.306Z",
+      "fetchedAt": "2026-09-14T12:13:55.276Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1080,7 +1080,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T10:10:59.654Z",
+      "fetchedAt": "2026-09-14T12:13:57.677Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1089,11 +1089,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - etnews.com",
+          "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
           "pubDate": "2026-09-14T03:01:16.000Z",
           "image": null,
-          "summary": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 etnews.com",
+          "summary": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 전자신문",
           "keywords": [
             "전북정보보호지원센터",
             "중소기업",
@@ -1106,28 +1106,11 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - 와우테일",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NEdZZFZvbTlDX0lmbE9OcTlURUs4UWEyTkNlQldNWGl5YkV5aHZZU0hQektSWmVZMFM5eUMyR1FMdGNGNFpBY2pvZmtWa3M?oc=5",
-          "pubDate": "2026-09-14T04:43:08.000Z",
-          "image": null,
-          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) 와우테일",
-          "keywords": [
-            "중기부",
-            "공공데이터",
-            "할용",
-            "지원",
-            "사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 - 서울경제TV",
+          "title": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 - sentv.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobHMtVjlGMzZrZldvcEVJSHktVXBwWU9kbnJwTU5OLUt3OW9tQms2ajlkOVhBR2NqU1NiVFlfYVdBbVdwZHpPcDk1bkZsTFF2RmNVampPY19YYW1yUEdxTjN4RE8?oc=5",
           "pubDate": "2026-09-14T07:35:47.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 서울경제TV",
+          "summary": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 sentv.co.kr",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1140,11 +1123,11 @@
           "summaryKo": null
         },
         {
-          "title": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 - 프레시안",
+          "title": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 - pressian.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNDEtUmtBc2RDX2pDeXpTUFUwcHRYWTJPRjZNTUFxVVIzeUp0QjlDNWMxcnJYeDhIUnJlV3NraFRLcDU4U0xKZ3N6YndqdFBvOEJIM0JWLUstemFCZjFfS3dPTFF0Y2VWRG9N?oc=5",
           "pubDate": "2026-09-14T04:50:48.000Z",
           "image": null,
-          "summary": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 프레시안",
+          "summary": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 pressian.com",
           "keywords": [
             "전북정보보호지원센터",
             "도내",
@@ -1172,9 +1155,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "[게시판] CJ대한통운, 장애인 소상공인 지원 '그린딜리버리 4기' 모집 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3YU5ZdTNDcXl4NENpbzUyVlZ4ZHJzd2dRNWdUdXQ1dE1LRUpUMDNqYkVLcW5DeHBPbHhVWk4xZWNMY211cDhCLTE4VEtqeUlWOXUwS2tLcnJNOXfSAWBBVV95cUxPbHU0QkpKT0xrZ2FIc2ZjR1V5Q0pncmwtYzF6VmJsdVRqdEtPMFV2Zk5mNTNXSERJdXFOVmNzM0xHZlladk41QUJGSTJiVDJfUWJiNWIwdXJpRFBoMURjMlA?oc=5",
+          "pubDate": "2026-09-14T01:22:43.000Z",
+          "image": null,
+          "summary": "[게시판] CJ대한통운, 장애인 소상공인 지원 '그린딜리버리 4기' 모집 연합뉴스",
+          "keywords": [
+            "게시판",
+            "CJ대한통운",
+            "장애인",
+            "소상공인",
+            "지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T10:11:00.448Z",
+      "fetchedAt": "2026-09-14T12:13:58.264Z",
       "error": null
     }
   },
@@ -1187,15 +1187,15 @@
       "change": "same"
     },
     {
-      "key": "담가라",
-      "label": "담가라",
-      "count": 2,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "모델",
       "label": "모델",
+      "count": 2,
+      "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "소상공인",
+      "label": "소상공인",
       "count": 2,
       "rank": 3,
       "change": "new"
@@ -1205,49 +1205,49 @@
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "공공데이터",
-      "label": "공공데이터",
-      "count": 2,
-      "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "모두의창업",
       "label": "모두의창업",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
