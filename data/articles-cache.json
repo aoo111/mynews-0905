@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T00:01:10.039Z",
+  "collectedAt": "2026-09-14T00:15:52.852Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:56.020Z",
+      "fetchedAt": "2026-09-14T00:15:42.249Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:56.078Z",
+      "fetchedAt": "2026-09-14T00:15:42.385Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:57.350Z",
+      "fetchedAt": "2026-09-14T00:15:43.725Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:57.507Z",
+      "fetchedAt": "2026-09-14T00:15:43.926Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "내 Git 호스트가 정적 사이트 생성기라면?",
+          "link": "https://news.hada.io/topic?id=33662",
+          "pubDate": "2026-09-14T00:09:08.000Z",
+          "image": null,
+          "summary": "sorcery는 저장소가 갱신될 때 개요, 브랜치별 최신 디렉터리 트리, 구문 강조된 소스 코드를 정적 HTML로 생성하는 Git 저장소 뷰어임 작은 개인 서버에서 Forgejo가 디스크 부족과 스크래퍼 부하로 중단되는 문제에 대응해, 사전 생성 비용을 치르고 이후 요청은...",
+          "keywords": [
+            "Git",
+            "호스트가",
+            "정적",
+            "사이트",
+            "생성기라면"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "말조심하라: Apple이 상시 청취 기술의 악몽 같은 세상으로 문을 열다",
+          "link": "https://news.hada.io/topic?id=33661",
+          "pubDate": "2026-09-14T00:06:08.000Z",
+          "image": null,
+          "summary": "Apple이 최신 Apple Watch를 대상으로 상시 청취 기능 출시를 예고함. Live Rewind는 최근 15초의 주변 소리를 텍스트로 확인하게 하고, Siri Recap은 하루 동안의 대화를 요약해 iPhone에 보고서로 제공함 Apple은 오디오를 녹음하거나 저장하지 않으며, 대화 요약...",
+          "keywords": [
+            "말조심하라:",
+            "Apple이",
+            "상시",
+            "청취",
+            "기술의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "태양 내부의 ‘지문’, 과거 행성을 삼켰는지 밝혀낼 수 있어",
           "link": "https://news.hada.io/topic?id=33660",
@@ -412,43 +446,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "에이전트형 AI를 위한 데이터 준비하기",
-          "link": "https://news.hada.io/topic?id=33657",
-          "pubDate": "2026-09-13T22:02:45.000Z",
-          "image": null,
-          "summary": "사람이 경험으로 알아채던 데이터 오류와 업무 맥락을 에이전트가 스스로 보완하리라 기대할 수는 없음. 데이터의 품질과 의미, 사용 권한을 시스템에 명시해야 함 데이터의 형식과 최신성, 품질 기준을 데이터 계약으로 검증하고, 통과하지 못한 데이터는 에이전트...",
-          "keywords": [
-            "에이전트형",
-            "AI를",
-            "위한",
-            "데이터",
-            "준비하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엔지니어링 매니저의 네 가지 핵심 책임 영역",
-          "link": "https://news.hada.io/topic?id=33656",
-          "pubDate": "2026-09-13T21:52:05.000Z",
-          "image": null,
-          "summary": "엔지니어링 매니저의 역할은 개인 기여를 넘어 팀 전체의 영향력을 높이는 것임. 소통, 우선순위 조정, 목표 정렬, 의사결정을 지원해 팀이 공동 목표를 효과적으로 달성하도록 해야 함 사람 리더십은 채용과 온보딩뿐 아니라 개인별 동기와 성장 목표를 이해하고,...",
-          "keywords": [
-            "엔지니어링",
-            "매니저의",
-            "가지",
-            "핵심",
-            "책임"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:58.307Z",
+      "fetchedAt": "2026-09-14T00:15:44.697Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -540,7 +540,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:58.439Z",
+      "fetchedAt": "2026-09-14T00:15:44.916Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -614,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:58.640Z",
+      "fetchedAt": "2026-09-14T00:15:45.209Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -695,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T00:00:58.691Z",
+      "fetchedAt": "2026-09-14T00:15:45.310Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -794,7 +794,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:01:04.276Z",
+      "fetchedAt": "2026-09-14T00:15:48.891Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:01:04.523Z",
+      "fetchedAt": "2026-09-14T00:15:49.165Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +980,7 @@
           "summaryKo": "인류 연구원은 이번 주에 사임하면서 X에 대한 게시물에서 회사가 \"자기 개선적인 슈퍼 인텔리전스로 곧장 달려가고 우리 삶과 함께 도박을 하고 있다\" 고 경고했다. 회사 자체의 얼라인먼트 리드는 메시지를 되돌리기보다는 공동 서명하기까지 했습니다. 이전에 AI 업계가 애교를 부렸던 파멸의 경고의 일종이지만, Anthropic이 IPO를 준비하고있는 타이밍은 다르게 착륙합니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-14T00:01:06.219Z",
+      "fetchedAt": "2026-09-14T00:15:49.362Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:01:09.086Z",
+      "fetchedAt": "2026-09-14T00:15:52.145Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1105,11 +1105,11 @@
           "summaryKo": null
         },
         {
-          "title": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 - 데일리뉴스",
+          "title": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 - idailynews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOR0hfeWZEa1JwZ0xLWjhaZ1I4VG5KV3huSkNkb2NmZnEtZVpwUFltUHBFRldFczZBMnFuSHVGTkx4XzI1S2pMNmNqTk03eXpXcFk3WkpUOUhRMEhDamVvM2hOUHJ3U3lMZnJmVmRud2FDYUxhQmh3VVIyMlJQcE5nb21GWk9tdzlrcHdtekkxLXBWRHFzaVNPSmhFZVZSVHJKbTN2c3A2em94N1BEdXIzc1FmSENFb2IwMnlxekpPYTAzU0s5U3A0YmlTUGlCaWRlUU94d0JvYTZYTGJlZUFzeWd2OE1VeXlITTd6R3B6Z2dmT1lyeTc4c1VtZUVtbGdoUS1RbVBuWVRJbDdCeFY4cndlVzFLQkhHekRuSXpGWjJOczBZSzNoN3VLWFM0UTQtbnVLdWN0SDd2V2hicXNLV2NvMTF1QWsxLTJQWlZQak9oeVpCa25vUVZOcFlTWEIxWG5qVXhrclowTDh2ZWo4V08zQVFtUWVKZXNz?oc=5",
           "pubDate": "2026-09-11T14:06:00.000Z",
           "image": null,
-          "summary": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 데일리뉴스",
+          "summary": "성공한 창업인을 멘토로… 소상공인 도제 지원 사업 모집 idailynews.co.kr",
           "keywords": [
             "성공한",
             "창업인을",
@@ -1173,7 +1173,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T00:01:09.482Z",
+      "fetchedAt": "2026-09-14T00:15:52.840Z",
       "error": null
     }
   },
@@ -1183,35 +1183,35 @@
       "label": "소상공인",
       "count": 3,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
       "rank": 4,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "글로벌진출",
       "label": "글로벌진출",
       "count": 2,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1225,28 +1225,28 @@
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1295,7 +1295,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1303,7 +1303,7 @@
       "label": "AI",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1319,7 +1319,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1327,7 +1327,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
