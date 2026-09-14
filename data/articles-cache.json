@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T12:13:58.273Z",
+  "collectedAt": "2026-09-14T14:12:12.663Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:49.146Z",
+      "fetchedAt": "2026-09-14T14:12:01.938Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -181,7 +181,7 @@
         }
       ],
       "fetchedAt": "2026-09-14T12:13:49.250Z",
-      "error": null
+      "error": "HTTP 404"
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:50.706Z",
+      "fetchedAt": "2026-09-14T14:12:03.159Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 자연어를 사용하여 AI로 회사 데이터를 연결하고, 인사이트를 파악하고, 대화형 대시보드를 구축하세요."
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:50.876Z",
+      "fetchedAt": "2026-09-14T14:12:03.344Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "XCancel, “진행 중인 법적 절차의 새로운 상황으로 인해” 서비스 중단",
+          "link": "https://news.hada.io/topic?id=33692",
+          "pubDate": "2026-09-14T13:31:39.000Z",
+          "image": null,
+          "summary": "XCancel이 진행 중인 법적 절차에서 새로운 상황이 발생해 서비스를 다시 중단함 이번 중단은 추가 공지가 있을 때까지 이어짐 서비스를 중단해야 하는 상황이며, 추가 세부 사항은 공개할 수 없음 찾고 있던 콘텐츠는",
+          "keywords": [
+            "XCancel",
+            "진행",
+            "중인",
+            "법적",
+            "절차의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "시간 속으로 사라진 키 기호, 1편: PC 편",
+          "link": "https://news.hada.io/topic?id=33691",
+          "pubDate": "2026-09-14T12:37:17.000Z",
+          "image": null,
+          "summary": "초기 IBM 컴퓨터에는 다양한 기능 키 기호가 있었지만, 사무용 PC 사용자들이 혼란스러운 기호를 거부하면서 대다수가 텍스트 표기로 대체됨 미국은 글자, 유럽은 아이콘을 선호하는 경향이 있었으며, 여러 언어를 사용하는 유럽에서는 공통 시각 언어가 국가 간 이...",
+          "keywords": [
+            "시간",
+            "속으로",
+            "사라진",
+            "기호",
+            "1편:"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "EuroBirdPortal - 유럽 전역의 실시간 조류 이동",
+          "link": "https://news.hada.io/topic?id=33690",
+          "pubDate": "2026-09-14T12:34:17.000Z",
+          "image": null,
+          "summary": "EuroBirdPortal의 LIVE 지도는 최근 52주 또는 그 직전 52주의 조류 관측 데이터를 보여줌 EBP 데이터의 99%는 매일 갱신되지만, 일부 관측 포털은 제출 간격이 길어 최근 몇 주의 해당 지역이 빈칸으로 나타날 수 있음 최신 주차는 보통 전날까지...",
+          "keywords": [
+            "EuroBirdPortal",
+            "유럽",
+            "전역의",
+            "실시간",
+            "조류"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "WebKit, Top-Level Await 버그를 고치기 위해 Safari 모듈 로더를 C++로 전면 재작성",
           "link": "https://news.hada.io/topic?id=33689",
@@ -396,60 +447,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "오픈소스 AI와 오픈 모델 읽기 목록",
-          "link": "https://news.hada.io/topic?id=33687",
-          "pubDate": "2026-09-14T09:41:37.000Z",
-          "image": null,
-          "summary": "오픈 모델의 정의, 사업 전략, 안전성부터 미중 경쟁과 증류까지 최근 몇 년의 주요 글과 연구를 모아, 분야 전반을 파악할 수 있도록 구성한 읽기 목록임 모델의 개방성은 이분법보다 라이선스, 실행 비용, 데이터 접근성의 연속선으로 볼 필요가 있으며, 기업의 ...",
-          "keywords": [
-            "오픈소스",
-            "AI와",
-            "오픈",
-            "모델",
-            "읽기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Nike, 시가총액 2,000억 달러 증발 후 18년 만에 S&amp;P 100에서 퇴출",
-          "link": "https://news.hada.io/topic?id=33686",
-          "pubDate": "2026-09-14T09:38:37.000Z",
-          "image": null,
-          "summary": "Nike가 수년간의 기업가치 하락 끝에 9월 21일 S&P 100에서 제외될 예정이며, S&P 500에는 계속 남음 시가총액은 2021년 11월 정점인 2,640억 달러에서 약 570억 달러로 78% 감소했고, 2026년에만 36% 줄어듦 2026회계연도 매출...",
-          "keywords": [
-            "Nike",
-            "시가총액",
-            "000억",
-            "달러",
-            "증발"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 클라우드 낭비 계산기 - 비용 CSV를 브라우저 안에서만 분석해 확정 낭비를 찾아줍니다",
-          "link": "https://news.hada.io/topic?id=33685",
-          "pubDate": "2026-09-14T08:07:02.000Z",
-          "image": null,
-          "summary": "지난 8월에 Show GN으로 소개했던 클라우드 청구서 채점\"의 셀프 마이너 버전입니다. 하는 일: AWS Cost Explorer CSV(사용 유형별) 또는 파트너사 정산 CSV를 드롭하면 청",
-          "keywords": [
-            "Show",
-            "GN:",
-            "클라우드",
-            "낭비",
-            "계산기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:51.673Z",
+      "fetchedAt": "2026-09-14T14:12:04.411Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -541,7 +541,7 @@
           "summaryKo": "새로운 브랜드가 비콘을 어루만집니다. 맞습니다. 이케아는 공식적으로 스카이림에 있습니다. 아니면, 공식적으로는 아니죠. 이케아는 스카이림 개발자 베데스다와 직접 파트너십을 맺지 않았으며, 대신 유명한 모더 스튜디오와 협력했습니다. 보세요, The Elder Scrolls V: Skyrim은 2011년에 나왔고, 여전히 가끔씩 업데이트를 받지만, Bethesda는 더 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:51.807Z",
+      "fetchedAt": "2026-09-14T14:12:04.605Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +615,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:51.930Z",
+      "fetchedAt": "2026-09-14T14:12:04.824Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +696,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:51.987Z",
+      "fetchedAt": "2026-09-14T14:12:04.915Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -704,6 +704,60 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "예지보전에서 팩토리 OS로…원프레딕트, 기술성평가 통과",
+          "link": "https://www.venturesquare.net/1113664/",
+          "pubDate": "2026-09-14T12:33:07.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/one-773x522.jpg",
+          "summary": "원프레딕트가 코스닥 기술특례상장을 위한 기술성평가를 통과하고 연내 상장예비심사 청구를 추진한다. 회사 집계 기준 2026년 상반기 매출은 지난해 연간 매출의 1.6배, 신규 수주는 전년 동기 대비 5.6배를 기록했다. 원프레딕트는 산업 AI 플랫폼 ‘pdx’와 데이터 ... The post 예지보전에서 팩토리 OS로…원프레딕트, 기술성평가 통과 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI네이티브팩토리",
+            "IPO",
+            "기술성평가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "베니스 수상 이어 필모그래피 세계로…넷플릭스, 이창동 명작 6편 해외 공개",
+          "link": "https://www.venturesquare.net/1113639/",
+          "pubDate": "2026-09-14T12:15:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-15-417x522.jpeg",
+          "summary": "넷플릭스가 ‘가능한 사랑’의 베니스국제영화제 심사위원대상 수상을 계기로 이창동 감독의 주요 작품 6편을 해외에서 순차 공개한다. ‘초록물고기’와 ‘밀양’, ‘박하사탕’, ‘오아시스’의 스트리밍이 일부 국가에서 시작됐으며 ‘시’와 ‘버닝’도 미국과 일본 등으로 서비스 범... The post 베니스 수상 이어 필모그래피 세계로…넷플릭스, 이창동 명작 6편 해외 공개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "K시네마",
+            "가능한사랑",
+            "넷플릭스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "QR 하나로 정품·개봉·유통이력 확인…알엑스미, 네모인 도입",
+          "link": "https://www.venturesquare.net/1113628/",
+          "pubDate": "2026-09-14T12:06:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/pam-652x522.jpg",
+          "summary": "팜에이스가 알엑스미의 쥬베클과 리쥬영에 네모인사이트의 QR 기반 정품인증 서비스를 도입했다. 소비자는 스마트폰 카메라로 정품 및 개봉 여부를 확인할 수 있으며 별도의 앱을 설치할 필요가 없다. 팜에이스는 개별 제품과 RRP 박스, 카톤박스 정보를 연계해 입·출고 및 글... The post QR 하나로 정품·개봉·유통이력 확인…알엑스미, 네모인 도입 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "K뷰티",
+            "OpenQR",
+            "PackageQR"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "한국형 벤처정책 공유…벤처기업협회, 페르가나주와 기업 교류 논의",
           "link": "https://www.venturesquare.net/1113624/",
@@ -739,63 +793,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "공장을 AI가 읽는 ‘월드모델’ 만든다…베스텔라랩, 스케일업 팁스 선정",
-          "link": "https://www.venturesquare.net/1113605/",
-          "pubDate": "2026-09-14T11:56:00.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-32-1-789x263.png",
-          "summary": "베스텔라랩이 스케일업 팁스에 선정돼 2029년 7월까지 피지컬 AI 기반 팩토리 월드모델 플랫폼을 개발한다. 정부 연구개발비는 20억 원이며 삼호그린인베스트먼트가 운영사로 참여한다. 사물주소를 활용해 공장 내 설비와 작업자, 자재, 로봇의 위치와 상태를 AI가 이해하도... The post 공장을 AI가 읽는 ‘월드모델’ 만든다…베스텔라랩, 스케일업 팁스 선정 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "공간AI",
-            "베스텔라랩",
-            "사물주소"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "전 세계서 질문 1만1000개…이정재, 틱톡서 악역·새 프로젝트 답했다",
-          "link": "https://www.venturesquare.net/1113596/",
-          "pubDate": "2026-09-14T11:51:06.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/tt-789x422.jpg",
-          "summary": "배우 이정재가 틱톡 공식 계정에서 진행한 글로벌 팬 Q&A에 일주일간 1만1000여 개의 질문이 접수됐다. 이벤트 안내와 질문 모집 콘텐츠는 각각 530만 회와 820만 회 이상의 조회수를 기록했다. 이정재는 개인적인 취향과 악역·스릴러 장르에 대한 관심을 공개하고 몇... The post 전 세계서 질문 1만1000개…이정재, 틱톡서 악역·새 프로젝트 답했다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "글로벌팬덤",
-            "디지털팬소통",
-            "배우이정재"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "K뷰티, 일본 매대에 오르기까지…우즈스튜디오, 공준식 대표와 ‘딥다이브’",
-          "link": "https://www.venturesquare.net/1113589/",
-          "pubDate": "2026-09-14T11:47:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ozoo-789x438.png",
-          "summary": "우즈스튜디오가 오는 10월 K뷰티 브랜드의 일본 진출 전략을 다루는 ‘The K-Beauty Code Vol.6’를 개최한다. 공준식 글로우데이즈 대표가 글로우픽과 앳코스메 운영 경험을 토대로 한일 뷰티 시장의 차이와 현지 유통·브랜드 성장 과정을 설명한다. 세미나는 ... The post K뷰티, 일본 매대에 오르기까지…우즈스튜디오, 공준식 대표와 ‘딥다이브’ appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "K뷰티",
-            "TheKBeautyCode",
-            "공준식"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:54.867Z",
+      "fetchedAt": "2026-09-14T14:12:07.617Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -886,7 +886,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:55.154Z",
+      "fetchedAt": "2026-09-14T14:12:07.906Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -894,6 +894,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+          "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+          "pubDate": "2026-09-14T13:55:00.000Z",
+          "image": null,
+          "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+          "keywords": [
+            "Startups",
+            "AI",
+            "Apps",
+            "Music",
+            "Spotify",
+            "boxgroup"
+          ],
+          "isForeign": true,
+          "titleKo": "시부야의 비닐 바는 인공지능 없이 재미있는 음악 앱을 제공하는 스타트업입니다.",
+          "summaryKo": "전 Spotify EXEC의 회사는 사용자가 음악 제작에 참여하는 실험적인 \"싱글\" 을 출시합니다."
+        },
         {
           "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
           "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
@@ -961,27 +979,9 @@
           "isForeign": true,
           "titleKo": "중부 유라시아, 2026년 전장으로 가는 길 수상자로 선정: Cerberus, WeGlobal AI, LOOQ",
           "summaryKo": "Cerberus, WeGlobal AI, LOOQ는 Road to TechCrunch Startup Battlefield 2026의 지역 결승전에서 상위 세 자리를 차지했으며 오는 10월 샌프란시스코의 TechCrunch Disrupt에서 열리는 Startup Battlefield 200에서 중부 유라시아를 대표할 예정입니다."
-        },
-        {
-          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-          "pubDate": "2026-09-11T18:41:49.000Z",
-          "image": null,
-          "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Anthropic",
-            "Apple",
-            "cognition",
-            "Equity podcast"
-          ],
-          "isForeign": true,
-          "titleKo": "인류 연구자의 최후의 날 경고는 매우 흥미로운 시기에 온다.",
-          "summaryKo": "인류 연구원은 이번 주에 사임하면서 X에 대한 게시물에서 회사가 \"자기 개선적인 슈퍼 인텔리전스로 곧장 달려가고 우리 삶과 함께 도박을 하고 있다\" 고 경고했다. 회사 자체의 얼라인먼트 리드는 메시지를 되돌리기보다는 공동 서명하기까지 했습니다. 이전에 AI 업계가 애교를 부렸던 파멸의 경고의 일종이지만, Anthropic이 IPO를 준비하고있는 타이밍은 다르게 착륙합니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:55.276Z",
+      "fetchedAt": "2026-09-14T14:12:09.741Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -989,6 +989,78 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "제주 로컬브랜드, 전국 장바구니로…컬리서 6개사 기획전",
+          "link": "https://www.venturesquare.net/1113657/",
+          "pubDate": "2026-09-14T12:30:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/curly-369x522.png",
+          "summary": "제주도와 제주창조경제혁신센터가 9월 30일까지 컬리에서 제주 로컬브랜드 6개사의 제품을 판매하는 온라인 기획전을 운영한다. 행사 기간 아이디당 한 차례 사용할 수 있는 20% 장바구니 할인 쿠폰이 제공되며 최대 할인액은 2만원이다. 양 기관은 오는 10월 신규 입점기업... The post 제주 로컬브랜드, 전국 장바구니로…컬리서 6개사 기획전 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "로컬창업",
+            "로컬크리에이터",
+            "온라인기획전",
+            "유통지원",
+            "제주로컬브랜드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI 기술에서 수익화까지…경기혁신센터·의정부시, 첨단산업 세미나 연다",
+          "link": "https://www.venturesquare.net/1113654/",
+          "pubDate": "2026-09-14T12:25:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ai-ai-348x522.png",
+          "summary": "경기창조경제혁신센터와 의정부시가 10월 21일 의정부시청에서 첨단산업 스케일업 AI·AX 세미나 3회차를 개최한다. 루마닉AI·퓨처워크랩·컴플리 대표가 멀티모달 NLP와 제조업 에이전틱 AI, AI 기본법을 주제로 강연한다. 종합토론에서는 AI 기술의 현장 검증과 수익... The post AI 기술에서 수익화까지…경기혁신센터·의정부시, 첨단산업 세미나 연다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI거버넌스",
+            "AI기본법",
+            "AI세미나",
+            "AX",
+            "경기창조경제혁신센터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "한국 배터리·모빌리티 기업, 미시간과 공급망 협력 논의",
+          "link": "https://www.venturesquare.net/1113642/",
+          "pubDate": "2026-09-14T12:19:44.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/micgi-789x518.jpg",
+          "summary": "한국무역협회가 그레첸 휘트머 미시간 주지사를 초청해 국내 배터리·자동차부품·첨단 제조 기업과 오찬 간담회를 개최했다. 한국 측 기업인 19명과 미시간 사절단 15명은 공급망 안정화와 무역·투자, 차세대 기술 협력 방안을 논의했다. 양측은 미시간의 제조 기반과 한국 기업... The post 한국 배터리·모빌리티 기업, 미시간과 공급망 협력 논의 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "공급망",
+            "그레첸휘트머",
+            "대미투자",
+            "미시간주",
+            "배터리"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "부산 초기기업 성장 사다리 잇는다…KAIA·큐네스티, 12개사 IR",
+          "link": "https://www.venturesquare.net/1113504/",
+          "pubDate": "2026-09-14T07:34:31.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/kaia-2-696x522.jpg",
+          "summary": "KAIA와 큐네스티가 부산 스타트업 12개사의 IR과 후속 투자 연계를 위한 ‘제2회 동남권 클럽하우스’를 개최했다. 큐네스티는 부산 글로벌브릿지 펀드를 통해 13개사 투자를 확정하고 11개사의 TIPS 추천을 완료했다. 행사에서는 민간과 공공이 지역 초기기업을 함께 ... The post 부산 초기기업 성장 사다리 잇는다…KAIA·큐네스티, 12개사 IR appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "IR데모데이",
+            "KAIA",
+            "TIPS",
+            "동남권클럽하우스",
+            "부산글로벌브릿지펀드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "창업 아이디어 사업화 문턱 낮춘다…대전혁신센터, ‘모두의 창업 2기’ 모집",
           "link": "https://www.venturesquare.net/1113478/",
@@ -1006,81 +1078,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "기술을 투자 언어로 바꾸는 2박3일…시리즈벤처스, 부산 딥테크·AX 집중 점검",
-          "link": "https://www.venturesquare.net/1113361/",
-          "pubDate": "2026-09-14T01:28:37.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789102507619-c2du2unv-783x522.jpg",
-          "summary": "시리즈벤처스가 부산 지역 유망 창업기업을 대상으로 딥테크·AX 심화 캠프를 2박3일간 운영했다. 참여기업은 시장과 투자자의 관점에서 사업모델과 투자전략을 점검하고 기업별 성장 과제를 구체화했다. 시리즈벤처스는 초기기업 투자 경험과 지역 네트워크를 활용해 후속 액셀러레이... The post 기술을 투자 언어로 바꾸는 2박3일…시리즈벤처스, 부산 딥테크·AX 집중 점검 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AX",
-            "동남권창업",
-            "딥테크",
-            "부산스타트업",
-            "사업모델"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아이디어에서 시장 시장으로… 벤처스퀘어와 함께 뛰는 ‘모두의 창업’ 2라운드 본격 돌입",
-          "link": "https://www.venturesquare.net/1113300/",
-          "pubDate": "2026-09-13T09:32:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Image_20260913_133143_237-789x365.jpeg",
-          "summary": "‘모두의 창업 프로젝트’가 2라운드에 진입하면서 창업자들의 도전도 아이디어 고도화에서 제품 제작과 시장 검증 단계로 넘어간다. 2라운드 진출자에게는 MVP 제작을 비롯해 GPU, 기술·책임멘토링, IR, 지식재산 및 규제 대응 등이 지원된다. 벤처스퀘어를 통해 2라운드... The post 아이디어에서 시장 시장으로… 벤처스퀘어와 함께 뛰는 ‘모두의 창업’ 2라운드 본격 돌입 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "MVP",
-            "경기창조경제혁신센터",
-            "모두의창업",
-            "벤처스퀘어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "의정부의 문제, 스타트업이 푼다…경콘진 ‘로컬 스타트업 챌린지’ 10개사 선발",
-          "link": "https://www.venturesquare.net/1113243/",
-          "pubDate": "2026-09-12T22:36:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/local-696x522.jpg",
-          "summary": "경기콘텐츠진흥원이 8대 1의 경쟁률을 거쳐 ‘로컬 스타트업 챌린지, 의정부 2026’ 참여기업 10개사를 선발했다. 참여기업은 의정부시 공무원 및 경기 북부 12개 대학과 연계해 2개월 동안 행정 멘토링과 PoC 고도화 지원을 받는다. 오는 11월 본선에서는 총 5,0... The post 의정부의 문제, 스타트업이 푼다…경콘진 ‘로컬 스타트업 챌린지’ 10개사 선발 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "경기북부",
-            "경기콘텐츠진흥원",
-            "기술검증",
-            "로컬스타트업챌린지",
-            "로컬창업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "무상 서비스 거절하자 ‘별점 테러’…중기부·플랫폼 6개사 해법 논의",
-          "link": "https://www.venturesquare.net/1113168/",
-          "pubDate": "2026-09-12T11:11:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-23-783x522.jpg",
-          "summary": "중소벤처기업부가 플랫폼 6개사 및 소상공인 단체와 별점·리뷰 제도의 피해 사례와 개선 방안을 논의했다. 소상공인들은 악의적 저평가를 구분할 기준과 충분한 이의신청·소명 절차, 반복 작성자 제재 강화를 요청했다. 중기부는 전문 변호사 법률상담과 분쟁 대응을 지원하고 온라... The post 무상 서비스 거절하자 ‘별점 테러’…중기부·플랫폼 6개사 해법 논의 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "네이버",
-            "배달의민족",
-            "별점제",
-            "상생간담회",
-            "소상공인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:57.677Z",
+      "fetchedAt": "2026-09-14T14:12:11.673Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1106,11 +1106,11 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 - sentv.co.kr",
+          "title": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 - 서울경제TV",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobHMtVjlGMzZrZldvcEVJSHktVXBwWU9kbnJwTU5OLUt3OW9tQms2ajlkOVhBR2NqU1NiVFlfYVdBbVdwZHpPcDk1bkZsTFF2RmNVampPY19YYW1yUEdxTjN4RE8?oc=5",
           "pubDate": "2026-09-14T07:35:47.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 sentv.co.kr",
+          "summary": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 서울경제TV",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1123,11 +1123,11 @@
           "summaryKo": null
         },
         {
-          "title": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 - pressian.com",
+          "title": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 - 프레시안",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNDEtUmtBc2RDX2pDeXpTUFUwcHRYWTJPRjZNTUFxVVIzeUp0QjlDNWMxcnJYeDhIUnJlV3NraFRLcDU4U0xKZ3N6YndqdFBvOEJIM0JWLUstemFCZjFfS3dPTFF0Y2VWRG9N?oc=5",
           "pubDate": "2026-09-14T04:50:48.000Z",
           "image": null,
-          "summary": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 pressian.com",
+          "summary": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 프레시안",
           "keywords": [
             "전북정보보호지원센터",
             "도내",
@@ -1174,7 +1174,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T12:13:58.264Z",
+      "fetchedAt": "2026-09-14T14:12:12.143Z",
       "error": null
     }
   },
@@ -1187,64 +1187,64 @@
       "change": "same"
     },
     {
-      "key": "모델",
-      "label": "모델",
+      "key": "공급망",
+      "label": "공급망",
       "count": 2,
       "rank": 2,
-      "change": "up"
-    },
-    {
-      "key": "소상공인",
-      "label": "소상공인",
-      "count": 2,
-      "rank": 3,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "모두의창업",
-      "label": "모두의창업",
-      "count": 2,
-      "rank": 9,
+      "rank": 7,
       "change": "up"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
+      "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "전북정보보호지원센터",
+      "label": "전북정보보호지원센터",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "정보보호",
+      "label": "정보보호",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1252,84 +1252,84 @@
   ],
   "trendingGlobal": [
     {
-      "key": "cognition",
-      "label": "Cognition",
-      "count": 2,
-      "rank": 1,
-      "change": "same",
-      "labelKo": "인식"
-    },
-    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 2,
-      "change": "same",
+      "rank": 1,
+      "change": "up",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 2,
+      "change": "up",
       "labelKo": "애드 센스"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "AI"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "추천 동영상"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "뉴스"
+    },
+    {
+      "key": "venture",
+      "label": "Venture",
+      "count": 3,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "벤처"
     }
   ]
 }
