@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T18:12:02.285Z",
+  "collectedAt": "2026-09-14T20:11:00.970Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“집은 있는데 쓸 돈이 없다, 그렇다면?” … 부동산 문제 뜻밖의 해법 ‘연금’",
+          "link": "https://www.mk.co.kr/news/economy/12152237",
+          "pubDate": "2026-09-14T19:45:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/14/news-p.v1.20260914.ce5c3c41b5b34157bc3b1b742a329bda_R.png",
+          "summary": "최근 정부가 부동산 문제를 놓고 대규모 국민 토론회를 열었다. 대통령이 직접 주재한 ‘부동산정책 국민 대토론회’에는 정부 관계자와 학계 전문가뿐 아니라 공인중개사, 금융기관 종사자..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“위헌이라 막혔지만 끝까지 간다”…마크롱, 15세 미만 SNS 금지 재도전",
           "link": "https://www.mk.co.kr/news/economy/12152505",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "수원역 ~ 청량리까지 30분대 … GTX-C 15일 착공",
-          "link": "https://www.mk.co.kr/news/economy/12152445",
-          "pubDate": "2026-09-14T09:01:10.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01160110000002_S00.jpg",
-          "summary": "수도권 북부~서울 도심~경기 남부를 달리는 수도권광역급행철도(GTX)-C노선이 15일 착공한다고 국토교통부가 14일 밝혔다. GTX-C는 경기 양주 덕정에서 출발해 청량리와 삼성,..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:44.367Z",
+      "fetchedAt": "2026-09-14T20:10:45.949Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:44.470Z",
+      "fetchedAt": "2026-09-14T20:10:46.224Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
+          "pubDate": "2026-09-15T04:53:47.000Z",
+          "image": null,
+          "summary": "글로벌 AI 빅테크 수장들이 잇따라 'AI 개발 속도 조절론'에 동참하는 가운데, 국내 AI 기업들도 관련 입장을 밝혔다.14일 업계에 따르면, 국내 AI 기업들의 입장은 크게 세 가지로 나뉘는 분위기였다. 글로벌 빅테크의 취지에 공감한다는 입장과 권력 불균형에 대한 우려와 동시에, 판단은 아직 이르다는 의견이 공존했다.■ AI 개발 속도 규제는 '자연스러운 흐름'...안전한 사회 적용 필요해먼저 한 AI 업계 관계자는 \"AI 기술과 산업이 성숙하는 과정에서 자연스럽고 타당한 흐름으로 보고 있다\"라고 긍정적인 입장을 내비쳤다. 특히",
+          "keywords": [
+            "국내",
+            "AI",
+            "업계",
+            "속도",
+            "조절론"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"탈모약 개발·암 진단·주식 투자도 AI로\"...LG, 전문가 AI로 승부수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215257",
+          "pubDate": "2026-09-15T04:42:09.000Z",
+          "image": null,
+          "summary": "LG AI연구원은 14일 서울 강서구 마곡 LG사이언스파크 컨버전스홀에서 'LG AI 토크 콘서트 2026'을 열고 제조·과학·비즈니스 분야 전문가 AI 시리즈를 공개했다.임우형 LG AI연구원 공동 연구원장은 \"산업 현장의 문제를 해결하기 위해서는 수많은 변수와 단 1%의 예외까지 해결하는 AI가 필요하다\"며 개발 배경을 밝혔다.■ 공정 바뀌어도 OK…제조 AI로 리드타임 85% 단축제조 분야에서는 공정과 품질을 예측하는 '엑사원 태뷸러'와 비전 검사 모델 '엑사원 옴니 인스펙트'가 소개됐다.엑사원 태뷸러는 1억 개 이상의 정형",
+          "keywords": [
+            "탈모약",
+            "개발",
+            "진단",
+            "주식",
+            "투자도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215233",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "아시아 반도체 공급망 일제히 흔들…'AI 속도조절론'에 주가 급락",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215248",
-          "pubDate": "2026-09-14T17:41:42.000Z",
-          "image": null,
-          "summary": "미국의 주요 AI 프론티어 기업 대표들이 안전성 문제를 이유로 개발 속도 조절을 촉구하면서 아시아 증시를 비롯한 글로벌 시장에서 AI 관련 주가가 일제히 폭락했다.14일 로이터 등에 따르면, 아시아 증시에서 반도체 및 핵심 공급망 기업들의 주가가 가파른 하락세를 보였다.일본 도쿄 증시에서는 오픈AI의 핵심 투자사인 소프트뱅크 주가가 장중 13.2% 폭락한 뒤 11.3% 하락으로 마감했다. 반도체 장비업체 도쿄일렉트론은 장 초반 9.8% 급락한 끝에 3.7% 하락했고, 메모리 반도체 기업 키옥시아도 5.4% 떨어졌다.국내 시장의 대표",
-          "keywords": [
-            "아시아",
-            "반도체",
-            "공급망",
-            "일제히",
-            "흔들"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아이폰 듀오에 탑재된 'A20 프로'...벤치마크서 PC CPU 압도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215239",
-          "pubDate": "2026-09-14T17:35:00.000Z",
-          "image": null,
-          "summary": "애플의 첫 폴더블 스마트폰 '아이폰 듀오(iPhone Duo)'에 탑재된 차세대 모바일 애플리케이션 프로세서(AP) ‘A20 프로’가 초기 벤치마크에서 데스크톱 PC용 고성능 CPU를 뛰어넘는 싱글코어 성능을 기록한 것으로 나타났다. TSMC의 최첨단 2나노미터(nm) N2 공정을 적용한 데다 CPU 아키텍처와 클럭 속도를 크게 개선하면서 스마트폰 AP의 성능 한계를 한 단계 끌어올렸다는 평가다.12일(현지시간) 톰스하드웨어에 따르면, 애플의 A20 프로 시스템 온 칩(SoC)은 긱벤치 7 벤치마크에서 싱글 스레드 4006점, 멀티",
-          "keywords": [
-            "아이폰",
-            "듀오에",
-            "탑재된",
-            "A20",
-            "프로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:45.484Z",
+      "fetchedAt": "2026-09-14T20:10:47.293Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:47.701Z",
+      "fetchedAt": "2026-09-14T20:10:47.468Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,73 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "분산 시스템의 고전 논문들 (2017)",
+          "link": "https://news.hada.io/topic?id=33706",
+          "pubDate": "2026-09-14T19:51:36.000Z",
+          "image": null,
+          "summary": "분산 시스템 연구에 영향을 준 고전 논문 10편을 모아, 이 분야의 문제 영역을 더 잘 이해하기 위한 출발점으로 삼을 수 있는 목록임 시간과 사건 순서, 분산 스냅샷을 통한 전역 상태 결정에 관한 논문을 포함함 비잔틴 장군 문제와 결...",
+          "keywords": [
+            "분산",
+            "시스템의",
+            "고전",
+            "논문들",
+            "(2017)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Pion, 어떤 기업이든 자율적으로 운영하도록 설계된 에이전트",
+          "link": "https://news.hada.io/topic?id=33705",
+          "pubDate": "2026-09-14T19:48:36.000Z",
+          "image": null,
+          "summary": "Andon Labs가 실제 사업의 자율 운영에 사용해 온 Pion을 연구 프리뷰로 공개함. 더 다양한 사업에서 AI의 자원 확보 능력과 실패 양상을 실험하려는 목적임 Vending-Bench에서는 모델 성능이 빠르게 향상됐지만, 시뮬레이션 결과만으로는 현실의 복잡한 상황에서 ...",
+          "keywords": [
+            "Pion",
+            "어떤",
+            "기업이든",
+            "자율적으로",
+            "운영하도록"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "iOS 27, iPadOS 27, macOS 27",
+          "link": "https://news.hada.io/topic?id=33704",
+          "pubDate": "2026-09-14T19:45:36.000Z",
+          "image": null,
+          "summary": "Apple이 주요 플랫폼 업데이트 배포를 시작하며, 개인 맥락과 화면 내용을 이해하고 앱 작업을 수행하는 Siri AI와 차세대 Apple Intelligence 기능을 도입함 Siri AI는 영어 베타로 먼저 제공되며, 한국어를 포함한 5개 언어는...",
+          "keywords": [
+            "iOS",
+            "27",
+            "iPadOS",
+            "macOS"
+          ],
+          "isForeign": true,
+          "titleKo": "iOS 27, iPadOS 27, macOS 27",
+          "summaryKo": "Apple이 주요 플랫폼 업데이트 배포를 시작하며, 개인 맥락과 화면 내용을 이해하고 앱 작업을 수행하는 Siri AI와 차세대 Apple Intelligence 기능을 도입함 Siri AI는 영어 베타로 먼저 제공되며, 한국어를 포함한 5개 언어는..."
+        },
+        {
+          "title": "Steam Frame 가격, 1,059달러부터 시작",
+          "link": "https://news.hada.io/topic?id=33703",
+          "pubDate": "2026-09-14T19:42:35.000Z",
+          "image": null,
+          "summary": "Steam Frame 가격, 1,059달러부터 시작",
+          "keywords": [
+            "Steam",
+            "Frame",
+            "가격",
+            "059달러부터",
+            "시작"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "XCancel 서비스, 별도 공지가 있을 때까지 중단",
           "link": "https://news.hada.io/topic?id=33702",
@@ -380,77 +447,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
-          "link": "https://news.hada.io/topic?id=33701",
-          "pubDate": "2026-09-14T17:34:40.000Z",
-          "image": null,
-          "summary": "OpenAI 봇이 RubyGems.org의 캐싱 취약점을 알고 악용하려 했으며, 동시에 RubyDoc.info에서 웹 스크래핑 코드를 실행한 것으로 보임 5월 확인된 GemStuffer 캠페인의 정크 gem들은 영국 정부 웹사이트를 스크래핑한 뒤 데이터를 gem으로 다시 패키징해 RubyGems.o...",
-          "keywords": [
-            "OpenAI",
-            "봇은",
-            "RubyGems",
-            "캐싱",
-            "취약점을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "OpenArch - 현대 LLM 아키텍처의 PyTorch 구현 모음",
-          "link": "https://news.hada.io/topic?id=33700",
-          "pubDate": "2026-09-14T16:45:20.000Z",
-          "image": null,
-          "summary": "OpenArch는 현대 오픈소스 LLM 아키텍처를 처음부터 직접 구현한 PyTorch 학습용 저장소로, 아키텍처마다 읽기 쉬운 단일 파일을 제공함 가독성과 학습을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅, 위치 인코딩 같은 구조적 선택을 나란히 비교할 수...",
-          "keywords": [
-            "OpenArch",
-            "현대",
-            "LLM",
-            "아키텍처의",
-            "PyTorch"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "텍사스 판사, TikTok이 아동 안전 기능에 관해 이용자를 오도했다고 판결",
-          "link": "https://news.hada.io/topic?id=33699",
-          "pubDate": "2026-09-14T16:42:20.000Z",
-          "image": null,
-          "summary": "텍사스 법원이 TikTok의 미성년자 콘텐츠 필터링 안내와 아동 보호 기능 홍보가 주 소비자보호법을 위반했다고 판결함 TikTok은 커뮤니티 가이드라인 위반 콘텐츠를 삭제한다고 안내했지만, 일부를 내부적으로 ‘금지’ 대신 ‘찾기 어려움’으로 분류",
-          "keywords": [
-            "텍사스",
-            "판사",
-            "TikTok이",
-            "아동",
-            "안전"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "신설된 10만 달러 H-1B 비자 수수료가 기술 일자리를 해외로 밀어냄",
-          "link": "https://news.hada.io/topic?id=33698",
-          "pubDate": "2026-09-14T16:39:20.000Z",
-          "image": null,
-          "summary": "미국의 고숙련 이민 규제 강화에 대응해 기술 기업들이 해외 사무실을 짓고 현지 채용을 늘리는 방식으로 인재 확보 전략을 바꾸고 있음 2025년 도입된 10만 달러 수수료 적용 대상 H-1B 신청 처리 건수는 전년보다 87% 감소했으며, 신청 급감으로...",
-          "keywords": [
-            "신설된",
-            "10만",
-            "달러",
-            "1B",
-            "비자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:48.771Z",
+      "fetchedAt": "2026-09-14T20:10:50.010Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -547,7 +546,7 @@
           "summaryKo": "Roblox는 게임 개발자에게 게임을 제작하고 배포할 수 있는 더 많은 방법을 제공하고, 그 과정에서 벌어들인 돈에 더 빠르게 접근할 수 있는 기회를 제공합니다. Roblox는 최근 연례 개발자 컨퍼런스에서 지난 12개월 동안 게임 개발자와 UGC 아이템 제작자가 총 17억 $ 의 수익을 올렸다고 밝혔습니다. 또한 플레이어를 위한 참여 통계를 자랑했습니다 [...] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:50.733Z",
+      "fetchedAt": "2026-09-14T20:10:50.286Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -621,7 +620,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:50.934Z",
+      "fetchedAt": "2026-09-14T20:10:50.563Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -702,7 +701,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:51.039Z",
+      "fetchedAt": "2026-09-14T20:10:50.653Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -801,7 +800,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:53.887Z",
+      "fetchedAt": "2026-09-14T20:10:54.536Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -892,7 +891,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:54.144Z",
+      "fetchedAt": "2026-09-14T20:10:54.817Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -900,6 +899,20 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+          "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+          "pubDate": "2026-09-14T20:07:37.000Z",
+          "image": null,
+          "summary": "Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million.",
+          "keywords": [
+            "Startups",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 인프라 기업 코넬리스 (Cornelis) 가 엔비디아의 지배력을 무너뜨리기 위해 $ 205M를 올립니다.",
+          "summaryKo": "인공지능 칩이 보다 효과적으로 통신할 수 있도록 네트워킹 기술을 개발하는 코넬리스 (Cornelis) 는 월요일에 2억 5백만 달러 ($) 를 모금했다고 발표했다."
+        },
         {
           "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
           "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
@@ -968,27 +981,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026 전시 5일 남음",
           "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
-        },
-        {
-          "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-          "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-          "pubDate": "2026-09-14T13:55:00.000Z",
-          "image": null,
-          "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-          "keywords": [
-            "AI",
-            "Apps",
-            "Startups",
-            "boxgroup",
-            "Music",
-            "Spotify"
-          ],
-          "isForeign": true,
-          "titleKo": "시부야의 비닐 바는 음악 앱을 만들기 위한 전 Spotify 리더의 스타트업입니다.",
-          "summaryKo": "전 Spotify EXEC의 회사는 사용자가 음악 제작에 참여하는 실험적인 \"싱글\" 을 출시합니다."
         }
       ],
-      "fetchedAt": "2026-09-14T18:11:58.318Z",
+      "fetchedAt": "2026-09-14T20:10:56.711Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1087,7 +1082,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:12:01.264Z",
+      "fetchedAt": "2026-09-14T20:10:59.844Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1113,11 +1108,11 @@
           "summaryKo": null
         },
         {
-          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - ulsanilbo.co.kr",
+          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - 울산일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
           "pubDate": "2026-09-14T15:01:31.000Z",
           "image": null,
-          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 ulsanilbo.co.kr",
+          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 울산일보",
           "keywords": [
             "공공데이터",
             "활용",
@@ -1181,7 +1176,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T18:12:01.773Z",
+      "fetchedAt": "2026-09-14T20:11:00.344Z",
       "error": null
     }
   },
@@ -1194,46 +1189,46 @@
       "change": "same"
     },
     {
-      "key": "공급망",
-      "label": "공급망",
-      "count": 2,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 7,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "공공데이터",
@@ -1303,7 +1298,7 @@
       "label": "Articles",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1311,7 +1306,7 @@
       "label": "Featured",
       "count": 4,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1319,7 +1314,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1331,12 +1326,12 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "apps",
-      "label": "Apps",
+      "key": "banking and consumer regulatory policy",
+      "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 10,
       "change": "new",
-      "labelKo": "앱"
+      "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
 }
