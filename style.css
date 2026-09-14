@@ -867,11 +867,11 @@ a {
 }
 
 .modal-prev-btn {
-  left: calc(50vw - 18px - (var(--modal-card-w) / 2));
+  left: max(4px, calc(50vw - (var(--modal-card-w) / 2) - 60px));
 }
 
 .modal-next-btn {
-  right: calc(50vw - 18px - (var(--modal-card-w) / 2));
+  right: max(4px, calc(50vw - (var(--modal-card-w) / 2) - 60px));
 }
 
 .modal-close {
