@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-14T20:11:00.970Z",
+  "collectedAt": "2026-09-14T22:10:45.576Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "브렌트유 105달러대…사우디 송유관 폐쇄에 국제유가 상승",
+          "link": "https://www.mk.co.kr/news/economy/12152718",
+          "pubDate": "2026-09-14T21:35:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.7f1bd82dc54346bca7a326583e6e7b51_R.jpg",
+          "summary": "사우디아라비아의 핵심 송유관이 폐쇄되면서 14일(현지시간) 국제유가가 상승했다. 이날 런던 ICE 선물거래소에서 11월 인도분 브렌트유 선물은 전장보다 1.02% 오른 배럴당 10..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“여윳돈 9억뿐? 죄송한데요”…문턱높인 PB센터, 그래도 부자 넘쳐난다",
+          "link": "https://www.mk.co.kr/news/economy/12152696",
+          "pubDate": "2026-09-14T20:51:14.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-g.v1.20260914.c831da987cfb4e129d4513ff4f1bf07a_R.jpg",
+          "summary": "4대은행 PB고객 13만명 육박 가입 기준 계속 상향조정해도 은행 관리고객 4년새 25%↑ KB·신한, 초고액 따로 분류 VVIP 기준 100억 달하기도은행권의 고액 자산가 유치 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“집을 못 사게 해놨잖아요”…2030 무주택자 급증하는데 주거비는 폭등",
+          "link": "https://www.mk.co.kr/news/economy/12152695",
+          "pubDate": "2026-09-14T20:50:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/rcv.YNA.20260914.PYH2026091409700001300_R.jpg",
+          "summary": "39세 이하 유주택 비중 29%뿐 전월세·임대 거주비중은 늘어 이자는 7년만에 101.5% 급증 평균 주거면적마저 2.7%감소집값 상승과 고금리 여파로 청년층 가운데 전월세와 공공..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“집은 있는데 쓸 돈이 없다, 그렇다면?” … 부동산 문제 뜻밖의 해법 ‘연금’",
           "link": "https://www.mk.co.kr/news/economy/12152237",
           "pubDate": "2026-09-14T19:45:00.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "20代 평균 주담대 2억 첫 돌파 … 증가율은 30대 '최고'",
-          "link": "https://www.mk.co.kr/news/economy/12152465",
-          "pubDate": "2026-09-14T09:09:58.000Z",
-          "image": null,
-          "summary": "2030세대의 주택담보대출 부담이 최근 4년 동안 전체 연령대 가운데 가장 빠르게 늘어난 것으로 나타났다. 주거 불안감이 커지면서 내 집 마련을 위해 큰 빚을 내는 20·30대가 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“주주활동 점수 매겨 돈 맡기겠다” … 국민연금, 위탁운용사 평가에 메스",
-          "link": "https://www.mk.co.kr/news/economy/12152449",
-          "pubDate": "2026-09-14T09:02:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/14/rcv.YNA.20260914.PYH2026091413790001300_R.jpg",
-          "summary": "국민연금기금 수탁자 책임활동 설명회 수탁자 책임활동 ‘질적 평가’ 본격 도입 평가 결과 따라 자금 배정·회수 연계 스튜어드십 코드 2.0 내년 상반기 윤곽 이연임 위원장 “제재 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "에너지위기에 '도로 석탄'1년새 발전량 15% 급증",
-          "link": "https://www.mk.co.kr/news/economy/12152446",
-          "pubDate": "2026-09-14T09:01:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/20260915_01160110000001_L00.jpg",
-          "summary": "정부가 2040년까지 석탄발전을 퇴출하겠다는 로드맵을 추진하고 있는 가운데 올해 실제 전력 시장에서는 석탄 의존도가 오히려 높아진 것으로 나타났다. 중동 전쟁으로 액화천연가스(LN..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:45.949Z",
+      "fetchedAt": "2026-09-14T22:10:31.036Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:46.224Z",
+      "fetchedAt": "2026-09-14T22:10:31.109Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -275,7 +275,7 @@
         }
       ],
       "fetchedAt": "2026-09-14T20:10:47.293Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://openai.com/news/rss.xml": {
       "name": "OpenAI News RSS",
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:47.468Z",
+      "fetchedAt": "2026-09-14T22:10:32.293Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,54 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "수학의 시작",
+          "link": "https://news.hada.io/topic?id=33709",
+          "pubDate": "2026-09-14T21:48:34.000Z",
+          "image": null,
+          "summary": "AI가 수학적 결과를 생산하는 능력과 인간의 수학적 이해가 분리되고 있으며, 수학계는 논문과 정리 증명 중심의 평가 체계를 바꿀 필요가 있음 지켜야 할 것은 기존 학술 제도의 형태가 아니라 좋은 수학을 생산하고 이해하는 일, 그리고 이를 이해하고 전달할 사...",
+          "keywords": [
+            "수학의",
+            "시작"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "빠른 Tokio 애플리케이션을 위한 원칙",
+          "link": "https://news.hada.io/topic?id=33708",
+          "pubDate": "2026-09-14T21:45:34.000Z",
+          "image": null,
+          "summary": "Tokio 성능은 공정성과 배치 처리, 경합과 격리의 균형에 달려 있으며, 같은 작업도 런타임에서 함께 실행되는 작업에 따라 성능이 달라짐 최적화는 긴 폴링 자체를 없애기보다 실제 개선할 지표에서 출발해야 함. 실행 준비부터 실제 폴링까지 걸리는 스케...",
+          "keywords": [
+            "빠른",
+            "Tokio",
+            "애플리케이션을",
+            "위한",
+            "원칙"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Microsoft, Windows와 Excel 패치로 오디오, 원격 접속, 붙여넣기 장애 초래",
+          "link": "https://news.hada.io/topic?id=33707",
+          "pubDate": "2026-09-14T21:42:34.000Z",
+          "image": null,
+          "summary": "Microsoft가 최신 보안 업데이트로 원격 데스크톱 서비스, 일부 USB 오디오 장치, Excel 붙여넣기에 문제가 발생할 수 있음을 확인함 원격 데스크톱 서비스(RDS) 장애는 여러 Windows 버전에 걸쳐 발생하며, 연결이 수분 뒤 끊기거나 서버와 관련 관리 도구가 응답...",
+          "keywords": [
+            "Microsoft",
+            "Windows와",
+            "Excel",
+            "패치로",
+            "오디오"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "분산 시스템의 고전 논문들 (2017)",
           "link": "https://news.hada.io/topic?id=33706",
@@ -382,74 +430,24 @@
           "summaryKo": null
         },
         {
-          "title": "Pion, 어떤 기업이든 자율적으로 운영하도록 설계된 에이전트",
+          "title": "Pion - AI에 실제 사업 운영을 맡기는 실험 플랫폼",
           "link": "https://news.hada.io/topic?id=33705",
           "pubDate": "2026-09-14T19:48:36.000Z",
           "image": null,
           "summary": "Andon Labs가 실제 사업의 자율 운영에 사용해 온 Pion을 연구 프리뷰로 공개함. 더 다양한 사업에서 AI의 자원 확보 능력과 실패 양상을 실험하려는 목적임 Vending-Bench에서는 모델 성능이 빠르게 향상됐지만, 시뮬레이션 결과만으로는 현실의 복잡한 상황에서 ...",
           "keywords": [
             "Pion",
-            "어떤",
-            "기업이든",
-            "자율적으로",
-            "운영하도록"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "iOS 27, iPadOS 27, macOS 27",
-          "link": "https://news.hada.io/topic?id=33704",
-          "pubDate": "2026-09-14T19:45:36.000Z",
-          "image": null,
-          "summary": "Apple이 주요 플랫폼 업데이트 배포를 시작하며, 개인 맥락과 화면 내용을 이해하고 앱 작업을 수행하는 Siri AI와 차세대 Apple Intelligence 기능을 도입함 Siri AI는 영어 베타로 먼저 제공되며, 한국어를 포함한 5개 언어는...",
-          "keywords": [
-            "iOS",
-            "27",
-            "iPadOS",
-            "macOS"
-          ],
-          "isForeign": true,
-          "titleKo": "iOS 27, iPadOS 27, macOS 27",
-          "summaryKo": "Apple이 주요 플랫폼 업데이트 배포를 시작하며, 개인 맥락과 화면 내용을 이해하고 앱 작업을 수행하는 Siri AI와 차세대 Apple Intelligence 기능을 도입함 Siri AI는 영어 베타로 먼저 제공되며, 한국어를 포함한 5개 언어는..."
-        },
-        {
-          "title": "Steam Frame 가격, 1,059달러부터 시작",
-          "link": "https://news.hada.io/topic?id=33703",
-          "pubDate": "2026-09-14T19:42:35.000Z",
-          "image": null,
-          "summary": "Steam Frame 가격, 1,059달러부터 시작",
-          "keywords": [
-            "Steam",
-            "Frame",
-            "가격",
-            "059달러부터",
-            "시작"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "XCancel 서비스, 별도 공지가 있을 때까지 중단",
-          "link": "https://news.hada.io/topic?id=33702",
-          "pubDate": "2026-09-14T17:37:40.000Z",
-          "image": null,
-          "summary": "XCancel이 진행 중인 법적 절차에 새로운 상황이 발생하면서 서비스를 다시 중단함 이번 중단은 법적 절차의 새로운 상황에 따라 요구된 조치임 서비스 중단은 별도 공지가 있을 때까지 이어짐 XCancel은 중단과 관련한",
-          "keywords": [
-            "XCancel",
-            "서비스",
-            "별도",
-            "공지가",
-            "있을"
+            "AI에",
+            "실제",
+            "사업",
+            "운영을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:50.010Z",
+      "fetchedAt": "2026-09-14T22:10:33.069Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -547,7 +545,7 @@
         }
       ],
       "fetchedAt": "2026-09-14T20:10:50.286Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -620,7 +618,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:50.563Z",
+      "fetchedAt": "2026-09-14T22:10:33.437Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -701,7 +699,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:50.653Z",
+      "fetchedAt": "2026-09-14T22:10:33.488Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -800,7 +798,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:54.536Z",
+      "fetchedAt": "2026-09-14T22:10:40.757Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -891,7 +889,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:54.817Z",
+      "fetchedAt": "2026-09-14T22:10:41.078Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -904,14 +902,15 @@
           "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
           "pubDate": "2026-09-14T20:07:37.000Z",
           "image": null,
-          "summary": "Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million.",
+          "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
           "keywords": [
             "Startups",
-            "AI"
+            "In Brief",
+            "nvidia"
           ],
           "isForeign": true,
           "titleKo": "AI 인프라 기업 코넬리스 (Cornelis) 가 엔비디아의 지배력을 무너뜨리기 위해 $ 205M를 올립니다.",
-          "summaryKo": "인공지능 칩이 보다 효과적으로 통신할 수 있도록 네트워킹 기술을 개발하는 코넬리스 (Cornelis) 는 월요일에 2억 5백만 달러 ($) 를 모금했다고 발표했다."
+          "summaryKo": "이 회사는 또한 데이터가 도착하기를 기다리는 데 많은 GPU 시간이 낭비된다는 사실을 목표로 하는 네트워크 기술인 액티브 컴퓨트 패브릭 (Active Compute Fabric) 이라는 제품을 발표했습니다."
         },
         {
           "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
@@ -934,7 +933,7 @@
           "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
           "pubDate": "2026-09-14T14:45:44.000Z",
           "image": null,
-          "summary": "Fathom said that it has over 400,000 monthly active users.",
+          "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
           "keywords": [
             "AI",
             "Apps",
@@ -945,7 +944,7 @@
           ],
           "isForeign": true,
           "titleKo": "생산성 플랫폼이 에이전트 작업을 추진함에 따라 Superhuman은 YC의 지원을 받는 공증인 Fathom을 인수합니다.",
-          "summaryKo": "Fathom은 40만 명이 넘는 월간 활성 사용자를 보유하고 있다고 말했습니다."
+          "summaryKo": "Notetaker는 넉넉한 무료 요금제를 제공하며, 그 결과 40만 명 이상의 월간 활성 사용자가 생겼습니다. 이 회사는 지금까지 100만 명이 넘는 사람들이 회의를 녹화했다고 말했습니다."
         },
         {
           "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
@@ -983,7 +982,7 @@
           "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:56.711Z",
+      "fetchedAt": "2026-09-14T22:10:43.205Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1082,7 +1081,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T20:10:59.844Z",
+      "fetchedAt": "2026-09-14T22:10:45.101Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1159,24 +1158,24 @@
           "summaryKo": null
         },
         {
-          "title": "국가유산 마을 경관개선 2차 사업 모집 - acn-news.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WbkU4U0trZHFma2E1Zl81QmFPQk5LSU5feGhTWnJyRTNNYXNqUWNaV2hYUXN4T1VPOG5ycW5ZekdEZl9wZXgydzZXdFNMenNKTGQxUzE5MkNFNU1aaHhrUW9LT21XSVJ4?oc=5",
-          "pubDate": "2026-09-14T08:01:45.000Z",
+          "title": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 - 뉴스더보이스헬스케어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbDV0bl9BTTVKZHZ2Q1dWaV96TUdGYTFpcHB1c2hmYU5QQkZSZTUtS2U5RnFpOHRqaFdSb0VsakNyMWpwdzJuYmozcEw0VWp4NWV4UHFpUHdNT0R0WGRYYkVhUjVoTHo2UEdHSTJR?oc=5",
+          "pubDate": "2026-09-14T21:00:00.000Z",
           "image": null,
-          "summary": "국가유산 마을 경관개선 2차 사업 모집 acn-news.com",
+          "summary": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 뉴스더보이스헬스케어",
           "keywords": [
-            "국가유산",
-            "마을",
-            "경관개선",
-            "2차",
-            "사업"
+            "중소병원",
+            "요양병원",
+            "진료지원간호사",
+            "교육과정",
+            "실무"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-14T20:11:00.344Z",
+      "fetchedAt": "2026-09-14T22:10:45.567Z",
       "error": null
     }
   },
@@ -1193,42 +1192,42 @@
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
       "rank": 7,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "공공데이터",
@@ -1270,28 +1269,28 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 5,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
@@ -1330,7 +1329,7 @@
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
