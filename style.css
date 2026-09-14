@@ -816,6 +816,7 @@ a {
   justify-content: center;
   padding: 24px;
   z-index: 100;
+  --modal-card-w: min(480px, calc(100vw - 48px));
 }
 
 .modal-overlay[hidden] {
@@ -840,8 +841,9 @@ a {
 }
 
 .modal-nav-btn {
-  position: absolute;
-  bottom: -18px;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
   width: 48px;
   height: 48px;
   border: none;
@@ -856,7 +858,7 @@ a {
 }
 
 .modal-nav-btn:hover {
-  transform: scale(1.08);
+  transform: translateY(-50%) scale(1.08);
   opacity: 0.92;
 }
 
@@ -865,11 +867,11 @@ a {
 }
 
 .modal-prev-btn {
-  left: -18px;
+  left: calc(50vw - 18px - (var(--modal-card-w) / 2));
 }
 
 .modal-next-btn {
-  right: -18px;
+  right: calc(50vw - 18px - (var(--modal-card-w) / 2));
 }
 
 .modal-close {
