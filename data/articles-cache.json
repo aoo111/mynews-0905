@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-15T04:11:09.192Z",
+  "collectedAt": "2026-09-15T06:13:47.580Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "[단독]코레일 철도차량 계약 5년간 3.3조원…현대로템 2.3조원 차지",
+          "link": "https://www.mk.co.kr/news/economy/12153114",
+          "pubDate": "2026-09-15T05:57:51.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/rcv.YNA.20260901.PYH2026090107860001300_R.jpg",
+          "summary": "2021년 이후 18건·1391량 계약 현대로템 계약금액 비중 68.5% ‘노후차 대체 계약 해지’ 문제점 지적 디젤전기차 값 3년 만에 25.8% 상승 김미애 “차량 공급 안정성..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "강호동 농협중앙회장, 국제협동조합농업기구(ICAO) 회장에 당선",
+          "link": "https://www.mk.co.kr/news/economy/12153073",
+          "pubDate": "2026-09-15T05:22:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.b3497220016d4c33bc0a575a3746507a_R.png",
+          "summary": "국제협동조합(ICA) 이사에도 재선임 “지속가능한 농업·농촌의 미래 열 것”강호동 농협중앙회장이 14일(현지시간) 파나마 파나마시티에서 열린 국제협동조합농업기구(ICAO) 총회에서..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "7월 통화량 12.7조 늘었지만…수시입출식 예금은 역대 최대 감소",
+          "link": "https://www.mk.co.kr/news/economy/12153050",
+          "pubDate": "2026-09-15T05:05:50.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.cfa3a25b90f24540ae5001aefa754b4d_R.png",
+          "summary": "지난 7월 시중 통화량이 12조7000억원 늘며 9개월 연속 증가했다. 반면 필요할 때 돈을 넣고 뺄 수 있는 수시입출식 저축성예금은 한 달 새 27조원 줄어 통계 작성 이후 최대..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“몇 푼 벌어보려다 6300만원 날렸다”…20대 여성 울린 변종 ‘보이스피싱’",
           "link": "https://www.mk.co.kr/news/economy/12153010",
           "pubDate": "2026-09-15T04:09:00.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] 한은서 싸게 돈 빌려가놓고...은행권, 중기 대출 금리 혜택 ‘반토막’",
-          "link": "https://www.mk.co.kr/news/economy/12152942",
-          "pubDate": "2026-09-15T02:05:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260914.d8b961f1291a441c967c36a10af3ef6d_R.jpg",
-          "summary": "금융중개지원 대출 금리 혜택 시중은행들 갈수록 줄여나가 신성장·일자리 지원 명목 금리 3년새 인하폭 절반 가량 줄어시중은행들이 중소기업에 저리 대출을 내주겠다며 한국은행으로부터 값..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "또 나온 유럽의 반성 ‘판 아크 보고서’ [송성훈칼럼]",
-          "link": "https://www.mk.co.kr/news/economy/12152909",
-          "pubDate": "2026-09-15T01:37:46.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260830.3d5710346780449cafc84d4f38dee036_R.png",
-          "summary": "더 커진 美·유럽 생산성 격차 AI 기술보다는 확산에서 크게 밀려 자본·노동시장 규제부터 풀어야 AI혁명발 생산성 폭발도 가능전 세계 거시경제 정책 방향을 가늠하는 두 축의 행사가..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "장사하느라 바쁘실텐데 은행 오지 마세요…국민은행, 앱으로 보증 대출 [알쓸금잡]",
-          "link": "https://www.mk.co.kr/news/economy/12152894",
-          "pubDate": "2026-09-15T01:24:55.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.63a803003d87423989f7ba9d688d161c_R.png",
-          "summary": "자영업자 대상 보증부 대출 원스톱 서비스생산적금융을 강화하기 위한 은행권 시도가 잇따르고 있다. 특히, 자영업자를 대상으로 한 서비스가 다양해지는 추세다. KB국민은행은 신용보증재..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:00.293Z",
+      "fetchedAt": "2026-09-15T06:13:39.452Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:00.342Z",
+      "fetchedAt": "2026-09-15T06:13:39.507Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "알티엠, ‘제조 AI 도입점검 프로그램’ 출시…적은 데이터로 AI 적용 여부 먼저 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215292",
+          "pubDate": "2026-09-15T15:09:26.000Z",
+          "image": null,
+          "summary": "제조 AI 전문 알티엠(RTM)이 본격적인 시스템 구축에 앞서 제조 현장의 AI 적용 가능성을 데이터로 확인하는 ‘제조 AI 도입점검 프로그램’을 출시했다고 15일 밝혔다.최근 제조기업의 AI 도입 검토가 늘고 있지만, 실제 도입까지는 수개월의 사전 협의와 대규모 데이터 준비가 필요한 경우가 많다는 지적이다. 통상 수천만원에서 수억 원 규모의 구축 사업으로 시작되는 만큼, 기업 입장에서는 자사 데이터로 AI가 실제 성과를 낼 수 있는지 사전에 확인하기 어렵다는 부담이 있었다.알티엠의 제조 AI 도입점검 프로그램은 이러한 과정을 줄이",
+          "keywords": [
+            "알티엠",
+            "제조",
+            "AI",
+            "도입점검",
+            "프로그램"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "알트먼, 트럼프와 비공개로 만났지만…AI 속도 조절 입장차 못 좁혀",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215288",
+          "pubDate": "2026-09-15T14:52:45.000Z",
+          "image": null,
+          "summary": "도널드 트럼프 미국 대통령이 공화당 중간선거 전당대회 도중 샘 알트먼 오픈AI CEO와 비공개 회담을 가졌다. 그러나 AI 산업의 미래와 규제를 둘러싼 양측의 시각차는 여전히 좁혀지지 않은 것으로 파악된다.14일(현지시간) MS 나우에 따르면, 이번 회담은 앤트로픽 전 연구원이 기술 기업들의 무책임한 개발 태도를 공개적으로 비판한 직후 알트먼 CEO의 요청으로 성사됐다. 구체적인 대화 내용은 알려지지 않았으나, AI 발전이 가져올 사회적·경제적 영향력에 대한 논의가 주를 이룬 것으로 알려졌다.하지만 이후 양측은 AI 개발 속도와 규",
+          "keywords": [
+            "알트먼",
+            "트럼프와",
+            "비공개로",
+            "만났지만",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "'AI 위협' 조회수 1.7억 폭발…앤트로픽 떠난 콕슨 '커리어 전환점'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215282",
+          "pubDate": "2026-09-15T14:08:46.000Z",
+          "image": null,
+          "summary": "앤트로픽을 사임하며 AI가 인류의 생존을 위협한다는 경고를 던진 27세 연구원 제이콥 콕슨의 행보가 그의 커리어에 결정적인 전환점이 될 것이라는 분석이다. 빅테크와의 관계는 단절됐으나, 양심과 전문성을 결합한 개인 브랜드를 구축하며 AI 안전 생태계에서 주목받는 인재로 급부상했다는 평이다.오픈AI와 앤트로픽에서 사전 학습 연구를 담당했던 콕슨은 지난 9일(현지시간) X를 통해 양사가 \"책임감 있게 행동하지 않았고, 우리의 목숨을 걸고 도박을 하고 있었다\"고 비판하며 사임을 발표했다. 게시물 조회수가 1억7000만회를 돌파하며 반향을",
+          "keywords": [
+            "AI",
+            "위협",
+            "조회수",
+            "7억",
+            "폭발"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "'AI 개발 속도 조절' 발언에 글로벌 테크·반도체주 일제히 급락",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215273",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"AI 에이전트 결제 전, 문자로 물어본다\"...SKT, GSMA RCS 회의 개최",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215272",
-          "pubDate": "2026-09-15T12:17:14.000Z",
-          "image": null,
-          "summary": "SK텔레콤(대표 정재헌)은 15일부터 나흘간 서울 SKT타워에서 세계이동통신사업자연합회(GSMA) RCS 그룹과 표준화 회의를 개최한다고 15일 밝혔다.RCS는 사진·동영상 전송 등 다양한 기능을 지원하는 차세대 메시징 표준으로 AT&T, T모바일 등 글로벌 통신사와 애플, 구글 등 16개사 실무진, GSMA 사무국 관계자 등 총 33명이 참석한다.이번 회의에는 정규 안건 외에 'AI와 메시징의 진화'를 주제로 특별 세션도 마련됐다. RCS와 AI 에이전트의 결합, AI에 대한 신뢰와 이용자 통제, AI 기반 브랜드 등록·스팸 대응",
-          "keywords": [
-            "AI",
-            "에이전트",
-            "결제",
-            "문자로",
-            "물어본다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"최고 성능에 비용은 반값\"...'라이너 모델 API' 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215271",
-          "pubDate": "2026-09-15T12:00:12.000Z",
-          "image": null,
-          "summary": "AI 에이전트 전문 라이너(대표 김진우)는 AI 오케스트레이션 솔루션인 ‘라이너 모델 API(Liner Model API)’를 출시했다고 15일 밝혔다. 현재 AI 시스템을 구축하는 대부분 기업은 답변 품질을 위해 고가의 프론티어급 모델 하나로 모든 사용자 질문을 일괄 처리하는 방법을 채택하고 있다. 하지만 질문 난이도가 제각각임에도 모두 상위 모델로 처리하다 보니 불필요한 인프라 비용이 급증하는 구조적 한계가 존재한다.이에, 라이너는 저비용 경량 모델의 품질 문제와 프론티어급 모델의 높은 도입 비용 사이에서 고민하는 기업들에 주목",
-          "keywords": [
-            "최고",
-            "성능에",
-            "비용은",
-            "반값",
-            "라이너"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "삼성전자, 네덜란드 AI칩 스타트업 유클리드 3200억 공동 투자 나서",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215270",
-          "pubDate": "2026-09-15T11:55:37.000Z",
-          "image": null,
-          "summary": "삼성전자가 네덜란드 AI 반도체 스타트업 '유클리드(Euclyd)'의 시리즈A 투자 라운드에 주요 공동 투자자로 참여했다. 이번 라운드는 총 2억유로(약 3200억원) 규모다.14일(현지시간) CNBC에 따르면, 이번 투자에는 삼성전자를 포함해 서머셋 캐피털 파트너스, EQT가 운용하는 스케일업 유럽펀드, 이노베이션 인더스트리스가 공동으로 참여했다.2024년 설립된 유클리드는 엔비디아 GPU와 다른 아키텍처의 추론용 AI 칩 시스템을 개발 중이다. 연산용 프로세서와 메모리 아키텍처를 모두 포함한다.아직 대규모 상용 환경에서 검증된",
-          "keywords": [
-            "삼성전자",
-            "네덜란드",
-            "AI칩",
-            "스타트업",
-            "유클리드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:01.947Z",
+      "fetchedAt": "2026-09-15T06:13:40.648Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:02.103Z",
+      "fetchedAt": "2026-09-15T06:13:40.808Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "GPT-5.6 Luna vs. GPT-6 Astra: 1.20달러 모델로 코드 리뷰를 해도 충분할까?",
+          "link": "https://news.hada.io/topic?id=33724",
+          "pubDate": "2026-09-15T04:50:57.000Z",
+          "image": null,
+          "summary": "공개 PR 50개에서 GPT-5.6 Luna는 검증된 버그 69개, Astra는 92개를 발견함. Luna는 Astra가 찾은 버그 수의 75%를 비용의 3.6%로 찾아, 일반적인 정확성 버그 검토에서 높은 비용 효율을 보임 정확도 차이는 뚜렷함. Luna의 지적 93건 중 24건이 검증을 통과하지...",
+          "keywords": [
+            "GPT",
+            "Luna",
+            "vs",
+            "Astra:",
+            "20달러"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "dbt Charts - AI와 대화로 만들고 Git으로 관리하는 대시보드",
+          "link": "https://news.hada.io/topic?id=33723",
+          "pubDate": "2026-09-15T04:47:57.000Z",
+          "image": null,
+          "summary": "dbt Labs가 차트와 필터, 데이터 조회를 YAML 파일 하나로 정의하는 오픈소스 대시보드 언어 dbt Charts를 공개함 AI가 보고서 하나를 만들면서 여러 언어와 파일을 늘어놓는 대신, 어떤 데이터를 어떻게 보여주는지 한 파일에서 검토하고 수정할 수 있도록 설계함...",
+          "keywords": [
+            "dbt",
+            "Charts",
+            "AI와",
+            "대화로",
+            "만들고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Show GN: 바다거북스프 — AI와 질문을 주고받으며 푸는 추리 게임",
           "link": "https://news.hada.io/topic?id=33721",
@@ -414,43 +448,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show HN: Neobrutalism.dev - Base UI 지원과 새 색상 테마 추가",
-          "link": "https://news.hada.io/topic?id=33718",
-          "pubDate": "2026-09-15T00:39:19.000Z",
-          "image": null,
-          "summary": "Neobrutalism.dev는 React와 Tailwind v4용 네오브루탈리즘 스타일 UI 구성 요소 모음임 컴포넌트, 차트, 별 모양을 합쳐 64개 제공함 shadcn/ui와 Base UI를 기반으로 구축됨 이번 업데이트로 Base UI 지원과 새 색상...",
-          "keywords": [
-            "Show",
-            "HN:",
-            "Neobrutalism",
-            "dev",
-            "Base"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "내 전자책 리더의 줄무늬를 없앤 과정",
-          "link": "https://news.hada.io/topic?id=33717",
-          "pubDate": "2026-09-15T00:36:19.000Z",
-          "image": null,
-          "summary": "초소형 전자책 리더 Xteink X3의 회색조 이미지에서 발견한 세로 줄무늬를 추적해, 화면 구동 파형을 바꾸고 눈에 보이던 결함을 없앰 CrossPoint와 freeink-sdk를 조사하면서 이미지 뷰어의 회색조 처리 누락과 어두운 회색이 검정으로 표시되는 오류도 수정함",
-          "keywords": [
-            "전자책",
-            "리더의",
-            "줄무늬를",
-            "없앤",
-            "과정"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:02.917Z",
+      "fetchedAt": "2026-09-15T06:13:41.668Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -518,8 +518,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "statistics",
             "Statistics",
+            "statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -545,7 +545,7 @@
           "summaryKo": "최근 스트림에서 Kai Cenat은 유명한 침실을 빅 애플 캣워크로 교환했습니다. 브롱크스에서 태어난 크리에이터는 뉴욕 패션 위크 (NYFW) 기간 동안 자신의 의류 브랜드 Vivet에서 나온 첫 번째 작품을 공개하면서 고향으로 돌아왔습니다. '살다' 라는 뜻의 라틴어 동사 'Vivet' 에서 따온 Vivet은 1년 이상 작품에 등장해 왔습니다. 블록버스터 트위치 계정의 중단 기간 동안 Cenat은 전문 재단사를 만나기 위해 이탈리아로 여행했으며, 그는 또한"
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:02.994Z",
+      "fetchedAt": "2026-09-15T06:13:41.786Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -619,7 +619,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:03.184Z",
+      "fetchedAt": "2026-09-15T06:13:41.905Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -700,7 +700,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:03.242Z",
+      "fetchedAt": "2026-09-15T06:13:41.953Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -708,6 +708,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "치료실 밖 언어재활 잇는다…시리즈벤처스, 골든브레인케어에 시드 투자",
+          "link": "https://www.venturesquare.net/1113804/",
+          "pubDate": "2026-09-15T05:18:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789349161307-g4vfnkva-523x522.png",
+          "summary": "시리즈벤처스가 AI 기반 언어재활 플랫폼 ‘브레인프렌즈’를 개발하는 골든브레인케어에 시드 투자했다. 브레인프렌즈는 언어기능 평가와 맞춤형 훈련, 수행 데이터 분석, 보호자 리포트를 연결해 치료실 밖에서도 재활을 이어갈 수 있도록 지원한다. 골든브레인케어는 공공 바우처와... The post 치료실 밖 언어재활 잇는다…시리즈벤처스, 골든브레인케어에 시드 투자 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "골든브레인케어",
+            "공공바우처",
+            "디지털헬스케어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "질문하면 답하고 작품 앞으로 이동…딥브레인AI, XR 전시용 AI 휴먼 구현",
+          "link": "https://www.venturesquare.net/1113783/",
+          "pubDate": "2026-09-15T01:52:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/deepbrain-2-789x473.jpg",
+          "summary": "딥브레인AI가 관람객과 실시간으로 대화하고 맞춤형 해설을 제공하는 ‘페르소나 XR AI 휴먼 SDK’를 개발했다. 개발자는 유니티 플러그인을 통해 NPC의 외형과 음성, 제스처, 페르소나 및 답변 생성 모델을 콘텐츠에 맞게 설정할 수 있다. 딥브레인AI는 전시·박물관과... The post 질문하면 답하고 작품 앞으로 이동…딥브레인AI, XR 전시용 AI 휴먼 구현 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI휴먼",
+            "NPC",
+            "XR"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "입주 의향 64%, 공급률 0.11%…시니어 주거 시장의 빈칸은 ‘중간 가격대’",
           "link": "https://www.venturesquare.net/1113780/",
@@ -761,45 +797,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년의 기록",
-          "link": "https://www.venturesquare.net/1113752/",
-          "pubDate": "2026-09-14T23:35:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789425812571-369x522.jpeg",
-          "summary": "땡스카본과 LG화학이 대한민국 사회적가치 페스타에서 여수 바다 잘피 복원 프로젝트의 4년간 성과를 공유한다. 양사는 2023년부터 잘피 7만 주를 이식하고 생육 상태와 어류·말미잘·게 등 주변 해양생물의 변화를 분기별로 관찰해 왔다. 이번 프로젝트는 기업과 공공기관, ... The post 잘피 7만 주 심은 뒤 바다는 어떻게 달라졌나…땡스카본·LG화학 4년의 기록 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "LG화학",
-            "기후테크",
-            "땡스카본"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대출 한파 속 중저신용자 창구로…핀다 생활안정대출 160억원 돌파",
-          "link": "https://www.venturesquare.net/1113749/",
-          "pubDate": "2026-09-14T23:32:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/FINDA-559x522.png",
-          "summary": "핀다의 중금리 생활안정대출 누적 취급액이 출시 두 달여 만에 160억원을 넘어섰다. 전체 실행금액의 약 95%가 신용점수 500~700점대 이용자에게 공급됐으며 건당 평균 실행금액은 약 860만원으로 집계됐다. 핀다는 저축은행과 캐피탈 등 9개 제휴 금융사를 기반으로 ... The post 대출 한파 속 중저신용자 창구로…핀다 생활안정대출 160억원 돌파 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "대출비교플랫폼",
-            "생활안정대출",
-            "서민금융"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:06.589Z",
+      "fetchedAt": "2026-09-15T06:13:45.166Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -894,7 +894,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:06.890Z",
+      "fetchedAt": "2026-09-15T06:13:45.398Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -987,7 +987,7 @@
           "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:06.913Z",
+      "fetchedAt": "2026-09-15T06:13:45.496Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -995,6 +995,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "지방행정 AI, 시민 수용성까지 설계한다…융기원·지방행정연구원 협력",
+          "link": "https://www.venturesquare.net/1113687/",
+          "pubDate": "2026-09-14T12:44:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cha-783x522.jpg",
+          "summary": "융기원과 한국지방행정연구원이 AI 기반 지방행정 혁신과 지역 전략산업 경쟁력 강화를 위해 협력한다. 양 기관은 지역문제 해결형 AI 실증, 공공서비스 고도화, 학술교류·인재 양성, 기술사업화를 공동 추진한다. 협약과 함께 열린 AICT 연구협력포럼에서는 시민 수용성, ... The post 지방행정 AI, 시민 수용성까지 설계한다…융기원·지방행정연구원 협력 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AICT연구협력포럼",
+            "AI거버넌스",
+            "공공서비스",
+            "기술실증",
+            "디지털전환"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "제주 로컬브랜드, 전국 장바구니로…컬리서 6개사 기획전",
           "link": "https://www.venturesquare.net/1113657/",
@@ -1066,27 +1084,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "창업 아이디어 사업화 문턱 낮춘다…대전혁신센터, ‘모두의 창업 2기’ 모집",
-          "link": "https://www.venturesquare.net/1113478/",
-          "pubDate": "2026-09-14T05:39:56.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/dj2-370x522.png",
-          "summary": "대전창조경제혁신센터가 9월 17일 오후 4시까지 ‘모두의 창업 2기’ 대전지역 참가자를 모집한다. 전국 선발 인원은 1기보다 두 배 많은 1만명이며, 대전에서는 12개 기관이 멘토링과 창업 연계를 지원한다. 창업 아이디어를 보유한 국민 누구나 공식 홈페이지에서 신청할 ... The post 창업 아이디어 사업화 문턱 낮춘다…대전혁신센터, ‘모두의 창업 2기’ 모집 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "대전스타트업",
-            "대전창조경제혁신센터",
-            "모두의창업",
-            "사업화",
-            "액셀러레이팅"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:08.816Z",
+      "fetchedAt": "2026-09-15T06:13:47.186Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,6 +1094,40 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 - 굿모닝충청",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yREFkdDVDTU5hZC1ZbUt3UXRvQkFwMUhOLWNSSWZzQTFNRjRCOFAwNVhkZF92NmUyUkJDQjhuQzNUb2JiV2h0dGx3Z2dDMVgycThEVHY5WjNYWU1zMTJnYXJuNXFhQTFWWEZBXzdlTVM0Zw?oc=5",
+          "pubDate": "2026-09-15T05:51:48.000Z",
+          "image": null,
+          "summary": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 굿모닝충청",
+          "keywords": [
+            "국내",
+            "생산라인도",
+            "없는데",
+            "기후부의",
+            "앞뒤"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 - 에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPWTFmUlVPdEk4UGZpdE9LaVB4dHBZNjVDQzE1bHdYVk9zdzhNcUJGYnp0dWhRVlI4SWpsYzVIWjE1RXR1OXFWZi1HMHRwamtKX2t2dWptbHpPNVE?oc=5",
+          "pubDate": "2026-09-15T05:17:54.000Z",
+          "image": null,
+          "summary": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 에너지경제신문",
+          "keywords": [
+            "국산",
+            "없는데",
+            "우선",
+            "공고",
+            "베란다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중기부, 공공데이터 스타트업 모집 15일 개시… 협업자금 최대 1억원·기술개발까지 연계 - 솔루션뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFA3QnpsSmszOVNxWkY5eV92N1RpQWJzQUpzWXBUcHBHU2ktUGpzTEd1blEzWmJnNnNXaTBxWXVid3IzQXZXTjZkRllwQjdzVHVsZ3c1RjdRa2hSQ2ZaUW5aY2dSQUdNTW1R?oc=5",
@@ -1112,11 +1146,11 @@
           "summaryKo": null
         },
         {
-          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - ulsanilbo.co.kr",
+          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - 울산일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
           "pubDate": "2026-09-14T15:01:31.000Z",
           "image": null,
-          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 ulsanilbo.co.kr",
+          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 울산일보",
           "keywords": [
             "공공데이터",
             "활용",
@@ -1144,43 +1178,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobHMtVjlGMzZrZldvcEVJSHktVXBwWU9kbnJwTU5OLUt3OW9tQms2ajlkOVhBR2NqU1NiVFlfYVdBbVdwZHpPcDk1bkZsTFF2RmNVampPY19YYW1yUEdxTjN4RE8?oc=5",
-          "pubDate": "2026-09-14T07:35:47.000Z",
-          "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원’ 스타트업 모집…최대 1억 지원 서울경제TV",
-          "keywords": [
-            "중기부",
-            "공공데이터",
-            "활용",
-            "지원",
-            "스타트업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 - 뉴스더보이스헬스케어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbDV0bl9BTTVKZHZ2Q1dWaV96TUdGYTFpcHB1c2hmYU5QQkZSZTUtS2U5RnFpOHRqaFdSb0VsakNyMWpwdzJuYmozcEw0VWp4NWV4UHFpUHdNT0R0WGRYYkVhUjVoTHo2UEdHSTJR?oc=5",
-          "pubDate": "2026-09-14T21:00:00.000Z",
-          "image": null,
-          "summary": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 뉴스더보이스헬스케어",
-          "keywords": [
-            "중소병원",
-            "요양병원",
-            "진료지원간호사",
-            "교육과정",
-            "실무"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T04:11:09.184Z",
+      "fetchedAt": "2026-09-15T06:13:47.571Z",
       "error": null
     }
   },
@@ -1188,14 +1188,14 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 5,
+      "count": 7,
       "rank": 1,
       "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
-      "count": 5,
+      "count": 3,
       "rank": 2,
       "change": "same"
     },
@@ -1235,25 +1235,25 @@
       "change": "same"
     },
     {
-      "key": "공공데이터",
-      "label": "공공데이터",
-      "count": 3,
-      "rank": 8,
-      "change": "same"
-    },
-    {
       "key": "글로벌",
       "label": "글로벌",
       "count": 3,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
-      "key": "중기부",
-      "label": "중기부",
+      "key": "디지털헬스케어",
+      "label": "디지털헬스케어",
       "count": 3,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "ai거버넌스",
+      "label": "AI거버넌스",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
