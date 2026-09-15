@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-15T18:11:39.767Z",
+  "collectedAt": "2026-09-15T20:11:00.298Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "교보생명, 라이프플래닛 흡수합병…디지털 역량 본사로 품는다",
-          "link": "https://www.mk.co.kr/news/economy/12153519",
-          "pubDate": "2026-09-15T09:08:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.cbc95198b15f42fbb73594f6488bb989_R.png",
-          "summary": "교보생명이 인터넷 생명보험 자회사 교보라이프플래닛생명보험을 흡수합병한다. 별도 디지털 보험사를 운영하기보다 관련 인력과 기술을 본사에 내재화해 보험사업 전반의 디지털 전환에 활용하..",
+          "title": "종부세 완화된걸까 … 안심하기에는 이르다",
+          "link": "https://www.mk.co.kr/news/economy/12153076",
+          "pubDate": "2026-09-15T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/rcv.NEWS1.NEWS1.20260914.2026-09-14T113843_1008104387_SOCIETY_I_R.jpg",
+          "summary": "9월 1일 정부안 ‘세금 인하’보다 ‘급격한 인상 속도 조절’에 가깝다지난 8월 3일 세제개편안이 발표된 이후 주택시장에서는 적지 않은 혼란이 있었다. 특히 종합부동산세 개편안은 ..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "롯데카드, MBK 등에 382억 배당…작년보다 62% 늘어",
-          "link": "https://www.mk.co.kr/news/economy/12153079",
-          "pubDate": "2026-09-15T09:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.2dae130fff4e446ca9f76dd17ff18a69_R.jpg",
-          "summary": "롯데카드가 15일 임시 이사회를 열고 382억원의 현금 중간배당을 의결했다. 롯데카드가 대주주에게 중간배당을 하는 것은 이번이 처음이다. 정보유출 사고 등으로 영업정지 처분을 받는..",
+          "title": "교보생명, 라이프플래닛 흡수합병…디지털 역량 본사로 품는다",
+          "link": "https://www.mk.co.kr/news/economy/12153519",
+          "pubDate": "2026-09-15T09:08:29.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.cbc95198b15f42fbb73594f6488bb989_R.png",
+          "summary": "교보생명이 인터넷 생명보험 자회사 교보라이프플래닛생명보험을 흡수합병한다. 별도 디지털 보험사를 운영하기보다 관련 인력과 기술을 본사에 내재화해 보험사업 전반의 디지털 전환에 활용하..",
           "keywords": [
             "경제"
           ],
@@ -80,6 +80,19 @@
           "summaryKo": null
         },
         {
+          "title": "롯데카드, MBK 등에 382억 배당…작년보다 62% 늘어",
+          "link": "https://www.mk.co.kr/news/economy/12153079",
+          "pubDate": "2026-09-15T09:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.2dae130fff4e446ca9f76dd17ff18a69_R.jpg",
+          "summary": "롯데카드가 15일 임시 이사회를 열고 382억원의 현금 중간배당을 의결했다. 롯데카드가 대주주에게 중간배당을 하는 것은 이번이 처음이다. 정보유출 사고 등으로 영업정지 처분을 받는..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "이형일 \"시장경제 지키되 사회적 약자 보호\" … 이소영 \"벤처 지원해 코스닥 신뢰 회복할 것\"",
           "link": "https://www.mk.co.kr/news/economy/12153493",
           "pubDate": "2026-09-15T08:50:18.000Z",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 생산적 금융에 272조원 공급",
-          "link": "https://www.mk.co.kr/news/economy/12153477",
-          "pubDate": "2026-09-15T08:47:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/20260916_01110112000006_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:24.268Z",
+      "fetchedAt": "2026-09-15T20:10:49.516Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:24.313Z",
+      "fetchedAt": "2026-09-15T20:10:49.648Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:25.728Z",
+      "fetchedAt": "2026-09-15T20:10:50.802Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:25.890Z",
+      "fetchedAt": "2026-09-15T20:10:50.975Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,90 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
-          "link": "https://news.hada.io/topic?id=33744",
-          "pubDate": "2026-09-15T17:32:16.000Z",
+          "title": "대부분의 사람은 전통 건축을 선호한다",
+          "link": "https://news.hada.io/topic?id=33750",
+          "pubDate": "2026-09-15T19:36:47.000Z",
           "image": null,
-          "summary": "Capsule은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음",
+          "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집으로 건...",
           "keywords": [
-            "Capsule",
-            "데이터를",
-            "SQLite에",
-            "저장하는",
-            "단일"
+            "대부분의",
+            "사람은",
+            "전통",
+            "건축을",
+            "선호한다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: yss Embeded operating system",
-          "link": "https://news.hada.io/topic?id=33743",
-          "pubDate": "2026-09-15T16:34:04.000Z",
+          "title": "Mergiraf, 지원 언어와 파일 형식을 늘려가는 구문 인식 Git 병합 드라이버",
+          "link": "https://news.hada.io/topic?id=33749",
+          "pubDate": "2026-09-15T19:00:56.000Z",
           "image": null,
-          "summary": "ARM Cortex-M 기반에서 동작하는 운영체제이자 임베디드 개발 프레임워크입니다. 2007년부터 취미로 개발을 시작해 출퇴근 길과 주말에 조금씩 작업했습니다. 2015년부터 지금까지 근무했던 회사들의 상용 제품 개발에 적용되었고 개발이 완료되어 해당 제품은 시중에 판매되고 있습니다. 펌웨어 개발용",
+          "summary": "Mergiraf는 프로그래밍 언어와 파일 형식의 구문을 인식하는 Git 병합 드라이버임 지원하는 프로그래밍 언어와 파일 형식의 범위를 늘려가고 있음 공식 문서와 공개적으로 접근할 수 있는 Zulip 채팅...",
           "keywords": [
-            "Show",
-            "GN:",
-            "yss",
-            "Embeded",
-            "operating"
-          ],
-          "isForeign": true,
-          "titleKo": "GN 표시: yss 임베디드 운영 체제",
-          "summaryKo": "ARM Cortex-M기반에서 동작하는 운영체제이자 임베디드 개발 프레임워크입니다. 2007년부터 취미로 개발을 시작해 출퇴근 길과 주말에 조금씩 작업했습니다. 2015년부터 지금까지 근무했던 회사들의 상용 제품 개발에 적용되었고 개발이 완료되어 해당 제품은 시중에 판매되고 있습니다. 펌웨어 개발용"
-        },
-        {
-          "title": "단일 노드 로컬 S3를 위한 MinIO 대안",
-          "link": "https://news.hada.io/topic?id=33742",
-          "pubDate": "2026-09-15T15:45:20.000Z",
-          "image": null,
-          "summary": "로컬 S3를 사용하는 데모와 호환성 검증 환경에서 MinIO를 최소한의 변경으로 대체할 후보들을 비교함. Docker 이미지, S3 호환성, 무료 사용을 필수 조건으로 삼았으며 프로덕션용 분산 스토리지 평가는 제외함 S3Proxy와 SeaweedFS는 설정이 간단하고 실제 DuckD...",
-          "keywords": [
-            "단일",
-            "노드",
-            "로컬",
-            "S3를",
-            "위한"
+            "Mergiraf",
+            "지원",
+            "언어와",
+            "파일",
+            "형식을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "CSS-Tricks, 다시 불확실한 상태에 놓이다",
-          "link": "https://news.hada.io/topic?id=33741",
-          "pubDate": "2026-09-15T15:42:19.000Z",
+          "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
+          "link": "https://news.hada.io/topic?id=33748",
+          "pubDate": "2026-09-15T18:51:35.000Z",
           "image": null,
-          "summary": "CSS-Tricks가 다시 운영 중단 상태에 놓였으며, 소유주 DigitalOcean의 소통 부재로 향후 운영 여부가 불확실함 DigitalOcean은 2023년 운영 인력을 해고한 뒤 2024년 수석 편집자 Geoff Graham을 재고용해 사이트를 재가동했지만, 다시 활동이 멈춤 Geof...",
+          "summary": "AI가 인류를 멸종시킬지는 논쟁 중이지만, 인터넷에서 사람을 귀찮게 만드는 일은 이미 현실임. 채팅창을 넘어 이메일과 계정에 접근하는 에이전트가 늘면서 AI를 쓰지 않는 사람까지 영향을 받음 돈을 벌라는 지시를 받은 에이전트는 연산에 147.17달러를 쓰고 수익은 0달러...",
           "keywords": [
-            "CSS",
-            "Tricks",
+            "AI",
+            "에이전트가",
+            "인터넷을",
+            "망치고",
+            "있을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "이스라엘 장관, 가자 다큐멘터리 제작자들의 시민권 박탈 위협",
+          "link": "https://news.hada.io/topic?id=33747",
+          "pubDate": "2026-09-15T18:48:35.000Z",
+          "image": null,
+          "summary": "이스라엘 문화부 장관 Miki Zohar가 가자 다큐멘터리 제작자들의 시민권 박탈이 가능하도록 요구함 시민권 박탈 요구 대상은 영화 제작자 Yuval Abraham과 Rachel Szor임 요구의 계기가 된 작품은 Naza",
+          "keywords": [
+            "이스라엘",
+            "장관",
+            "가자",
+            "다큐멘터리",
+            "제작자들의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "품질이 다시 당연한 기준이 되게 하자",
+          "link": "https://news.hada.io/topic?id=33746",
+          "pubDate": "2026-09-15T18:45:35.000Z",
+          "image": null,
+          "summary": "소비자 정책은 소비자가 순환경제에 부합하는 선택을 더 쉽고 안전하며 매력적으로 느끼도록 만들 수 있음 순환경제는 환경을 위해 중요함 순환경제 확대는 소비자 권리 강화에도 기여할 수 있음 순환경제는 사회적 회...",
+          "keywords": [
+            "품질이",
             "다시",
-            "불확실한",
-            "상태에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Java 27 출시",
-          "link": "https://news.hada.io/topic?id=33740",
-          "pubDate": "2026-09-15T15:39:19.000Z",
-          "image": null,
-          "summary": "Java 27의 참조 구현인 JDK 27이 정식 출시(GA) 됐으며, 빌드 35가 프로덕션용 GA 빌드로 확정됨 이번 릴리스에는 9개 JEP와 수백 건의 소규모 개선, 수천 건의 버그 수정이 포함됨 G1을 모든 환경의 기본 가비지 컬렉터로 지정하고,",
-          "keywords": [
-            "Java",
-            "27",
-            "출시"
+            "당연한",
+            "기준이",
+            "되게"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:29.091Z",
+      "fetchedAt": "2026-09-15T20:10:53.956Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -543,7 +545,7 @@
           "summaryKo": "최근 스트림에서 Kai Cenat은 유명한 침실을 빅 애플 캣워크로 교환했습니다. 브롱크스에서 태어난 크리에이터는 뉴욕 패션 위크 (NYFW) 기간 동안 자신의 의류 브랜드 Vivet에서 나온 첫 번째 작품을 공개하면서 고향으로 돌아왔습니다. '살다' 라는 뜻의 라틴어 동사 'Vivet' 에서 따온 Vivet은 1년 이상 작품에 등장해 왔습니다. 블록버스터 트위치 계정의 중단 기간 동안 Cenat은 전문 재단사를 만나기 위해 이탈리아로 여행했으며, 그는 또한"
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:29.214Z",
+      "fetchedAt": "2026-09-15T20:10:54.283Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -617,7 +619,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:29.306Z",
+      "fetchedAt": "2026-09-15T20:10:54.612Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +700,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:29.403Z",
+      "fetchedAt": "2026-09-15T20:10:54.745Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -797,7 +799,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:32.365Z",
+      "fetchedAt": "2026-09-15T20:10:57.828Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -888,7 +890,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:32.637Z",
+      "fetchedAt": "2026-09-15T20:10:58.131Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -983,7 +985,7 @@
           "summaryKo": "디스럽트에서 전시할 수 있는 마지막 날은 9월 18일입니다. 4일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더 앞에서 스타트업을 운영하세요."
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:35.735Z",
+      "fetchedAt": "2026-09-15T20:10:58.221Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1082,7 +1084,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:38.307Z",
+      "fetchedAt": "2026-09-15T20:10:59.674Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1091,11 +1093,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "‘2026 스타트업 언론홍보·미디어 콘텐츠 확산 지원사업’ 참여기업 모집 - 산학뉴스",
+          "title": "‘2026 스타트업 언론홍보·미디어 콘텐츠 확산 지원사업’ 참여기업 모집 - sanhaknews.kr",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04M2Nad3kwWkdRdkNaSERfZEpCSnpkS0FIal9QdkpQRjVlT1o0UDBZNjl2cDI5aEFsb0VUT3pOYWdxYldWdURLbnBMcWZsYUQ2V2x3MktDLVVHeFZlTnM1YUZqamVRVGtnSXpF?oc=5",
           "pubDate": "2026-09-15T08:27:09.000Z",
           "image": null,
-          "summary": "‘2026 스타트업 언론홍보·미디어 콘텐츠 확산 지원사업’ 참여기업 모집 산학뉴스",
+          "summary": "‘2026 스타트업 언론홍보·미디어 콘텐츠 확산 지원사업’ 참여기업 모집 sanhaknews.kr",
           "keywords": [
             "2026",
             "스타트업",
@@ -1142,11 +1144,11 @@
           "summaryKo": null
         },
         {
-          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - mediatoday.asia",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OUJxUk4zQWdFM3VRTWRqOWNMaHFEZGtYa21RZkxDYzJiNUxZdE4xQnB3RUhuOGk0ZWZqbm8zN2xzWFpjdDlBVTR3?oc=5",
-          "pubDate": "2026-09-15T06:18:00.000Z",
+          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - 한국글로벌뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQmM4VUVKclBOVzRUOEJIWEdJdDdfakltM0t3RUEzbC1KLWVNRmRPVTFnZ1JiUmRheWVOSmh5M0p5Uzl6Wldmak1pTS1kUE9vY1otRG1VSHZaTVhBZkk2Mw?oc=5",
+          "pubDate": "2026-09-15T07:10:04.000Z",
           "image": null,
-          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 mediatoday.asia",
+          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 한국글로벌뉴스",
           "keywords": [
             "고양시",
             "벤처기업",
@@ -1176,80 +1178,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T18:11:38.764Z",
+      "fetchedAt": "2026-09-15T20:11:00.292Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "오픈ai",
       "label": "오픈AI",
       "count": 2,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "중국",
       "label": "중국",
       "count": 2,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
+    },
+    {
+      "key": "지원",
+      "label": "지원",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 8,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "단일",
-      "label": "단일",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1290,7 +1292,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1298,7 +1300,7 @@
       "label": "AI",
       "count": 3,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1314,7 +1316,7 @@
       "label": "Biotech & Health",
       "count": 3,
       "rank": 8,
-      "change": "new",
+      "change": "same",
       "labelKo": "생명 공학 및 건강"
     },
     {
@@ -1322,7 +1324,7 @@
       "label": "Fundraising",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "모금 활동"
     },
     {
@@ -1330,7 +1332,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
