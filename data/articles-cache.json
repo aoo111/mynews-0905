@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-15T20:11:00.298Z",
+  "collectedAt": "2026-09-15T22:10:40.147Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:49.516Z",
+      "fetchedAt": "2026-09-15T22:10:19.645Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:49.648Z",
+      "fetchedAt": "2026-09-15T22:10:19.699Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월15일] 중국은 왜 미국 AI 업계의 ‘속도 조절론’에 발끈했나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215269",
+          "pubDate": "2026-09-16T07:00:00.000Z",
+          "image": null,
+          "summary": "중국 정부가 최근 미국 AI 업계에서 불거진 ‘AI 개발 속도 조절론’에 거세게 반발하고 나섰습니다. 중국 외교부가 직접 나선 데 이어 관영매체도 다리오 아모데이 앤트로픽 CEO의 속도 조절 제안을 ‘냉전적 전략’이자 시장 독점 노림수라고 공격했습니다. 이번 반응이 눈에 띄는 것은 미국 정부가 중국에 AI 개발을 늦추라고 요구한 것이 아니기 때문입니다. 아모데이 CEO가 안전장치 확보를 위한 기술 개발 일시 정지를 주장하고 샘 알트먼 오픈AI CEO 등이 동조했지만, 도널드 트럼프 미국 대통령은 규제 강화가 중국과의 경쟁에서 불리하",
+          "keywords": [
+            "9월15일",
+            "중국은",
+            "미국",
+            "AI",
+            "업계의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "앤트로픽 '페이블 5.1', 370년 미해결 난제 암호 44분 만에 풀었다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215301",
@@ -210,7 +227,7 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215290",
           "pubDate": "2026-09-15T18:39:54.000Z",
           "image": null,
-          "summary": "스페이스XAI가 차세대 AI 모델 ‘그록 4.8’의 사전 학습을 이번 주 안에 마치고 강화학습(RL)에 돌입할 전망이다. 2조5000억개 매개변수 규모로, 스페이스XAI가 새롭게 개발한 C++ 기반 소프트웨어 스택을 적용한 것으로 알려졌다. 일론 머스크 CEO는 13일 X에 그록 4.8이 2조5000억개 매개변수를 갖춘 모델이며, 스페이스XAI의 새로운 C++ 소프트웨어 스택을 이용해 학습되고 있다고 밝혔다.이어 \"사전 학습이 이번 주에 완료되고 곧바로 강화학습을 시작할 것\"이라고 설명했다. 다음 날에는 그록 4.8이 아직 출시되지",
+          "summary": "스페이스XAI가 차세대 AI 모델 ‘그록 4.8’의 사전 학습을 이번 주 안에 마치고 강화학습(RL)에 돌입할 전망이다. 2조5000억개 매개변수 규모로, 스페이스XAI가 새롭게 개발한 C++ 기반 소프트웨어 스택을 적용한 것으로 알려졌다. 일론 머스크 CEO는 13일(현지시간) X를 통해 그록 4.8이 2조5000억개 매개변수를 갖춘 모델이며, 스페이스XAI의 새로운 C++ 소프트웨어 스택을 이용해 학습하고 있다고 밝혔다.\"사전 학습이 이번 주에 완료되고 곧바로 강화학습을 시작할 것\"이라고 설명했다. 다음 날에는 그록 4.8이 아",
           "keywords": [
             "머스크",
             "그록",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"뇌처럼 학습한다\"…사카나 AI, 역전파 대체 기술 'PC-ALM' 발표",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215305",
-          "pubDate": "2026-09-15T18:07:23.000Z",
-          "image": null,
-          "summary": "사카나 AI가 딥러닝 학습의 핵심 방식인 '역전파(Backpropagation)'를 사용하지 않고도 매우 깊은 신경망을 학습할 수 있는 새로운 레이어별 학습 기법을 공개했다.사카나 AI는 최근 기존 예측 코딩(PC·Predictive Coding)의 한계를 보완한 ‘PC-ALM(Augmented Lagrangian Predictive Coding)’을 온라인 아카이브에 공개했다.이 방식은 각 레이어가 주변 정보와 자체 상태를 바탕으로 학습하도록 설계됐으며, 최대 1000개 레이어로 구성된 신경망에서도 역전파에 가까운 성능을 확인했다",
-          "keywords": [
-            "뇌처럼",
-            "학습한다",
-            "사카나",
-            "AI",
-            "역전파"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:50.802Z",
+      "fetchedAt": "2026-09-15T22:10:20.840Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:50.975Z",
+      "fetchedAt": "2026-09-15T22:10:21.013Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "대부분의 사람은 전통 건축을 선호한다",
-          "link": "https://news.hada.io/topic?id=33750",
-          "pubDate": "2026-09-15T19:36:47.000Z",
+          "title": "Google, 대화하며 추론하는 Gemini 3.8 Live와 Extended Thinking 출시",
+          "link": "https://news.hada.io/topic?id=33755",
+          "pubDate": "2026-09-15T21:33:27.000Z",
           "image": null,
-          "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집으로 건...",
+          "summary": "음성으로 대화하면서 복잡한 작업을 수행하는 두 모델로, Live는 비용 효율과 대규모 활용, Extended Thinking은 고난도 작업과 다단계 추론에 초점을 맞춤 Gemini 3.8 Live는 시각 정보를 거의 실시간으로 파악하고, 97개 언어를 대화 도중 자동으로 감지해 전환하...",
           "keywords": [
-            "대부분의",
-            "사람은",
-            "전통",
-            "건축을",
-            "선호한다"
+            "Google",
+            "대화하며",
+            "추론하는",
+            "Gemini",
+            "Live와"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Mergiraf, 지원 언어와 파일 형식을 늘려가는 구문 인식 Git 병합 드라이버",
-          "link": "https://news.hada.io/topic?id=33749",
-          "pubDate": "2026-09-15T19:00:56.000Z",
+          "title": "UNIX 도메인 소켓에 어떻게 낭만을 느끼지 않을 수 있을까?",
+          "link": "https://news.hada.io/topic?id=33754",
+          "pubDate": "2026-09-15T21:02:43.000Z",
           "image": null,
-          "summary": "Mergiraf는 프로그래밍 언어와 파일 형식의 구문을 인식하는 Git 병합 드라이버임 지원하는 프로그래밍 언어와 파일 형식의 범위를 늘려가고 있음 공식 문서와 공개적으로 접근할 수 있는 Zulip 채팅...",
+          "summary": "DEFCON 34에서 발생한 iOS 데모 충돌을 추적한 결과, 같은 UNIX 도메인 소켓의 inode 번호가 두 번째 fstat() 호출에서 바뀌는 커널 버그를 발견함 원인은 0을 미초기화 값으로 쓰면서 첫 inode에도 0을 할당하는 로직임. 전역 카운터의 후위 증가 연...",
           "keywords": [
-            "Mergiraf",
-            "지원",
-            "언어와",
-            "파일",
-            "형식을"
+            "UNIX",
+            "도메인",
+            "소켓에",
+            "어떻게",
+            "낭만을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
-          "link": "https://news.hada.io/topic?id=33748",
-          "pubDate": "2026-09-15T18:51:35.000Z",
+          "title": "미국 운전면허증 정보 유출은 국가안보 재앙이다",
+          "link": "https://news.hada.io/topic?id=33753",
+          "pubDate": "2026-09-15T20:48:26.000Z",
           "image": null,
-          "summary": "AI가 인류를 멸종시킬지는 논쟁 중이지만, 인터넷에서 사람을 귀찮게 만드는 일은 이미 현실임. 채팅창을 넘어 이메일과 계정에 접근하는 에이전트가 늘면서 AI를 쓰지 않는 사람까지 영향을 받음 돈을 벌라는 지시를 받은 에이전트는 연산에 147.17달러를 쓰고 수익은 0달러...",
+          "summary": "다크웹 서비스 Nexus가 미국과 캐나다 시민의 운전면허증 1억 5,300만 건과 여행 관련 신분 문서 300만 건에 대한 접근권을 판매했으며, 자료의 진위와 미국 고위 공직자의 정보 포함 여부도 확인됨 운전면허 번호는 다른 데이터베이스의 기록을 주소와 사진이 포함...",
           "keywords": [
-            "AI",
-            "에이전트가",
-            "인터넷을",
-            "망치고",
-            "있을"
+            "미국",
+            "운전면허증",
+            "정보",
+            "유출은",
+            "국가안보"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이스라엘 장관, 가자 다큐멘터리 제작자들의 시민권 박탈 위협",
-          "link": "https://news.hada.io/topic?id=33747",
-          "pubDate": "2026-09-15T18:48:35.000Z",
+          "title": "Wayback Machine 접속 관련 업데이트",
+          "link": "https://news.hada.io/topic?id=33752",
+          "pubDate": "2026-09-15T20:45:26.000Z",
           "image": null,
-          "summary": "이스라엘 문화부 장관 Miki Zohar가 가자 다큐멘터리 제작자들의 시민권 박탈이 가능하도록 요구함 시민권 박탈 요구 대상은 영화 제작자 Yuval Abraham과 Rachel Szor임 요구의 계기가 된 작품은 Naza",
+          "summary": "Internet Archive가 대량 자동화 트래픽이 반복적으로 몰리는 Wayback Machine의 운영을 유지하기 위해 보호 조치를 적용함 최근 요청이 차단될 때 표시되는 HTTP 429 오류 안내 문구를 수정했으며, 이 코드는 ‘요청이 너무 많음’을 뜻함 보호 조치가 ...",
           "keywords": [
-            "이스라엘",
-            "장관",
-            "가자",
-            "다큐멘터리",
-            "제작자들의"
+            "Wayback",
+            "Machine",
+            "접속",
+            "업데이트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "품질이 다시 당연한 기준이 되게 하자",
-          "link": "https://news.hada.io/topic?id=33746",
-          "pubDate": "2026-09-15T18:45:35.000Z",
+          "title": "Jev, 비용은 40~400배 저렴하고 속도는 20~200배 빠른 새로운 프런티어 모델",
+          "link": "https://news.hada.io/topic?id=33751",
+          "pubDate": "2026-09-15T20:42:25.000Z",
           "image": null,
-          "summary": "소비자 정책은 소비자가 순환경제에 부합하는 선택을 더 쉽고 안전하며 매력적으로 느끼도록 만들 수 있음 순환경제는 환경을 위해 중요함 순환경제 확대는 소비자 권리 강화에도 기여할 수 있음 순환경제는 사회적 회...",
+          "summary": "TypeSafe AI가 소프트웨어에서 직접 사용할 구조화된 판단에 특화한 System One Model의 첫 모델 Jev를 얼리 액세스로 공개함 문자열 생성 대신 사전에 정의한 타입의 값과 확률을 출력하며, 병렬 샘플링으로 모든 출력을 한 번의 질의에서 생성함...",
           "keywords": [
-            "품질이",
-            "다시",
-            "당연한",
-            "기준이",
-            "되게"
+            "Jev",
+            "비용은",
+            "40~400배",
+            "저렴하고",
+            "속도는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:53.956Z",
+      "fetchedAt": "2026-09-15T22:10:22.039Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -546,7 +545,7 @@
         }
       ],
       "fetchedAt": "2026-09-15T20:10:54.283Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -619,7 +618,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:54.612Z",
+      "fetchedAt": "2026-09-15T22:10:22.492Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -700,7 +699,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:54.745Z",
+      "fetchedAt": "2026-09-15T22:10:22.550Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -799,7 +798,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:57.828Z",
+      "fetchedAt": "2026-09-15T22:10:34.604Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -890,7 +889,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:58.131Z",
+      "fetchedAt": "2026-09-15T22:10:34.869Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -985,7 +984,7 @@
           "summaryKo": "디스럽트에서 전시할 수 있는 마지막 날은 9월 18일입니다. 4일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더 앞에서 스타트업을 운영하세요."
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:58.221Z",
+      "fetchedAt": "2026-09-15T22:10:34.895Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1084,7 +1083,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:10:59.674Z",
+      "fetchedAt": "2026-09-15T22:10:39.747Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1144,11 +1143,11 @@
           "summaryKo": null
         },
         {
-          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - 한국글로벌뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQmM4VUVKclBOVzRUOEJIWEdJdDdfakltM0t3RUEzbC1KLWVNRmRPVTFnZ1JiUmRheWVOSmh5M0p5Uzl6Wldmak1pTS1kUE9vY1otRG1VSHZaTVhBZkk2Mw?oc=5",
-          "pubDate": "2026-09-15T07:10:04.000Z",
+          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - mediatoday.asia",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OUJxUk4zQWdFM3VRTWRqOWNMaHFEZGtYa21RZkxDYzJiNUxZdE4xQnB3RUhuOGk0ZWZqbm8zN2xzWFpjdDlBVTR3?oc=5",
+          "pubDate": "2026-09-15T06:18:00.000Z",
           "image": null,
-          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 한국글로벌뉴스",
+          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 mediatoday.asia",
           "keywords": [
             "고양시",
             "벤처기업",
@@ -1178,71 +1177,71 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T20:11:00.292Z",
+      "fetchedAt": "2026-09-15T22:10:40.139Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
+      "key": "미국",
+      "label": "미국",
+      "count": 2,
       "rank": 1,
-      "change": "up"
+      "change": "new"
     },
     {
       "key": "오픈ai",
       "label": "오픈AI",
       "count": 2,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "중국",
       "label": "중국",
       "count": 2,
       "rank": 3,
-      "change": "down"
-    },
-    {
-      "key": "지원",
-      "label": "지원",
-      "count": 2,
-      "rank": 4,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 9,
       "change": "down"
     },
@@ -1251,7 +1250,7 @@
       "label": "글로벌",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
