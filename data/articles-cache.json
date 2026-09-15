@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-15T16:11:06.380Z",
+  "collectedAt": "2026-09-15T18:11:39.767Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:50.764Z",
+      "fetchedAt": "2026-09-15T18:11:24.268Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:50.851Z",
+      "fetchedAt": "2026-09-15T18:11:24.313Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:51.728Z",
+      "fetchedAt": "2026-09-15T18:11:25.728Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:51.896Z",
+      "fetchedAt": "2026-09-15T18:11:25.890Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
+          "link": "https://news.hada.io/topic?id=33744",
+          "pubDate": "2026-09-15T17:32:16.000Z",
+          "image": null,
+          "summary": "Capsule은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음",
+          "keywords": [
+            "Capsule",
+            "데이터를",
+            "SQLite에",
+            "저장하는",
+            "단일"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: yss Embeded operating system",
+          "link": "https://news.hada.io/topic?id=33743",
+          "pubDate": "2026-09-15T16:34:04.000Z",
+          "image": null,
+          "summary": "ARM Cortex-M 기반에서 동작하는 운영체제이자 임베디드 개발 프레임워크입니다. 2007년부터 취미로 개발을 시작해 출퇴근 길과 주말에 조금씩 작업했습니다. 2015년부터 지금까지 근무했던 회사들의 상용 제품 개발에 적용되었고 개발이 완료되어 해당 제품은 시중에 판매되고 있습니다. 펌웨어 개발용",
+          "keywords": [
+            "Show",
+            "GN:",
+            "yss",
+            "Embeded",
+            "operating"
+          ],
+          "isForeign": true,
+          "titleKo": "GN 표시: yss 임베디드 운영 체제",
+          "summaryKo": "ARM Cortex-M기반에서 동작하는 운영체제이자 임베디드 개발 프레임워크입니다. 2007년부터 취미로 개발을 시작해 출퇴근 길과 주말에 조금씩 작업했습니다. 2015년부터 지금까지 근무했던 회사들의 상용 제품 개발에 적용되었고 개발이 완료되어 해당 제품은 시중에 판매되고 있습니다. 펌웨어 개발용"
+        },
         {
           "title": "단일 노드 로컬 S3를 위한 MinIO 대안",
           "link": "https://news.hada.io/topic?id=33742",
@@ -412,43 +446,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
-          "link": "https://news.hada.io/topic?id=33739",
-          "pubDate": "2026-09-15T14:51:59.000Z",
-          "image": null,
-          "summary": "OpenArm은 접촉이 많은 환경에서 피지컬 AI를 연구하고 배치하기 위한 7자유도 휴머노이드 로봇 팔임 높은 역구동성(backdrivability)과 순응성(compliance) 을 갖추고, 안전한 인간-로봇 상호작용과 실제 응용에 필요한 가반하중을 고려해 설계됨 사람 크...",
-          "keywords": [
-            "OpenArm",
-            "오픈소스",
-            "7자유도",
-            "휴머노이드",
-            "로봇"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "미국, 우주 무기 배치 사실 처음으로 인정",
-          "link": "https://news.hada.io/topic?id=33738",
-          "pubDate": "2026-09-15T14:48:59.000Z",
-          "image": null,
-          "summary": "미국이 지구 궤도에 우주 무기를 배치했다는 사실을 처음으로 공식 인정함 Troy Meink 미 공군 장관은 적대 행위로부터 미군을 보호하기 위해 필요하다고 밝혔지만, 무기의 성능과 배치 시점은 공개하지 않음 미 우주군은 우주 통제 임무에 물리적...",
-          "keywords": [
-            "미국",
-            "우주",
-            "무기",
-            "배치",
-            "사실"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:52.551Z",
+      "fetchedAt": "2026-09-15T18:11:29.091Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -516,8 +516,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -543,7 +543,7 @@
           "summaryKo": "최근 스트림에서 Kai Cenat은 유명한 침실을 빅 애플 캣워크로 교환했습니다. 브롱크스에서 태어난 크리에이터는 뉴욕 패션 위크 (NYFW) 기간 동안 자신의 의류 브랜드 Vivet에서 나온 첫 번째 작품을 공개하면서 고향으로 돌아왔습니다. '살다' 라는 뜻의 라틴어 동사 'Vivet' 에서 따온 Vivet은 1년 이상 작품에 등장해 왔습니다. 블록버스터 트위치 계정의 중단 기간 동안 Cenat은 전문 재단사를 만나기 위해 이탈리아로 여행했으며, 그는 또한"
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:53.249Z",
+      "fetchedAt": "2026-09-15T18:11:29.214Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -617,7 +617,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:53.467Z",
+      "fetchedAt": "2026-09-15T18:11:29.306Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +698,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:53.546Z",
+      "fetchedAt": "2026-09-15T18:11:29.403Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -797,7 +797,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:56.346Z",
+      "fetchedAt": "2026-09-15T18:11:32.365Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -888,7 +888,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:10:56.631Z",
+      "fetchedAt": "2026-09-15T18:11:32.637Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -896,6 +896,23 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+          "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+          "pubDate": "2026-09-15T17:02:04.000Z",
+          "image": null,
+          "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
+          "keywords": [
+            "Biotech & Health",
+            "Fintech",
+            "Startups",
+            "Thatch",
+            "unicorn"
+          ],
+          "isForeign": true,
+          "titleKo": "의료비가 급증함에 따라 의료 보험 플랫폼 대치가 $ 10B 평가액에 도달",
+          "summaryKo": "대치는 회사가 회사 전체의 모든 사람을 하나의 플랜에 등록하는 대신 직원 자신의 개별 보험 플랜에 자금을 지원할 수 있는 모델인 개별 보장 건강 상환 배열을 통해 개별 플랜 시장을 제공함으로써 고용주가 의료 비용을 관리할 수 있도록 돕습니다."
+        },
         {
           "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
           "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
@@ -919,11 +936,10 @@
           "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
           "pubDate": "2026-09-15T14:30:00.000Z",
           "image": null,
-          "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+          "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
           "keywords": [
             "AI",
             "Startups",
-            "TC",
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
@@ -965,25 +981,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026 전시 4일 남음",
           "summaryKo": "디스럽트에서 전시할 수 있는 마지막 날은 9월 18일입니다. 4일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더 앞에서 스타트업을 운영하세요."
-        },
-        {
-          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-          "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-          "pubDate": "2026-09-15T13:00:00.000Z",
-          "image": null,
-          "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "TC",
-            "ai agent"
-          ],
-          "isForeign": true,
-          "titleKo": "초기 인류 고용, 전 METR COO는 악의적 인 AI 요원을 단속 할 수있는 방법을 찾았습니다.",
-          "summaryKo": "그들의 스타트업인 AIUC (Artificial Intelligence Underwriting Company) 는 퍼스트 하모닉 (First Harmonic) 의 참여로 리빗 캐피털 (Ribbit Capital) 이 이끄는 시리즈 A 라운드에서 4천만 달러 ($) 를 모금했습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T16:11:02.180Z",
+      "fetchedAt": "2026-09-15T18:11:35.735Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1082,7 +1082,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:11:05.290Z",
+      "fetchedAt": "2026-09-15T18:11:38.307Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1108,34 +1108,17 @@
           "summaryKo": null
         },
         {
-          "title": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 - goodmorningcc.com",
+          "title": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 - 굿모닝충청",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yREFkdDVDTU5hZC1ZbUt3UXRvQkFwMUhOLWNSSWZzQTFNRjRCOFAwNVhkZF92NmUyUkJDQjhuQzNUb2JiV2h0dGx3Z2dDMVgycThEVHY5WjNYWU1zMTJnYXJuNXFhQTFWWEZBXzdlTVM0Zw?oc=5",
           "pubDate": "2026-09-15T05:51:48.000Z",
           "image": null,
-          "summary": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 goodmorningcc.com",
+          "summary": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 굿모닝충청",
           "keywords": [
             "국내",
             "생산라인도",
             "없는데",
             "기후부의",
             "앞뒤"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - 한국글로벌뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQmM4VUVKclBOVzRUOEJIWEdJdDdfakltM0t3RUEzbC1KLWVNRmRPVTFnZ1JiUmRheWVOSmh5M0p5Uzl6Wldmak1pTS1kUE9vY1otRG1VSHZaTVhBZkk2Mw?oc=5",
-          "pubDate": "2026-09-15T07:10:04.000Z",
-          "image": null,
-          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 한국글로벌뉴스",
-          "keywords": [
-            "고양시",
-            "벤처기업",
-            "인증",
-            "비용",
-            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1159,6 +1142,23 @@
           "summaryKo": null
         },
         {
+          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - mediatoday.asia",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OUJxUk4zQWdFM3VRTWRqOWNMaHFEZGtYa21RZkxDYzJiNUxZdE4xQnB3RUhuOGk0ZWZqbm8zN2xzWFpjdDlBVTR3?oc=5",
+          "pubDate": "2026-09-15T06:18:00.000Z",
+          "image": null,
+          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 mediatoday.asia",
+          "keywords": [
+            "고양시",
+            "벤처기업",
+            "인증",
+            "비용",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "제주 개인하수처리시설 수질개선 지원 참여시설 모집 - 헤드라인제주",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZTBzdXFfMkF1RGhIR2VJbnZGUk5ib2RNWkdBcG5UcVBOV29kX1cwVF81cm43U1BCRDZVLTYwZExCd1dJT3BVQnhUWldoRFhONWtjMEh3RS1SNW9lSE5ubXZvOVpXd2trWDdacXZBWW9pQzQ?oc=5",
           "pubDate": "2026-09-15T03:11:08.000Z",
@@ -1176,7 +1176,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T16:11:05.723Z",
+      "fetchedAt": "2026-09-15T18:11:38.764Z",
       "error": null
     }
   },
@@ -1245,11 +1245,11 @@
       "change": "same"
     },
     {
-      "key": "대구창조경제혁신센터",
-      "label": "대구창조경제혁신센터",
+      "key": "단일",
+      "label": "단일",
       "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1286,20 +1286,20 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "up",
-      "labelKo": "AI"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
       "rank": 6,
       "change": "down",
-      "labelKo": "다음을 따르세요"
+      "labelKo": "AI"
     },
     {
       "key": "articles",
@@ -1310,28 +1310,28 @@
       "labelKo": "기사"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "biotech & health",
+      "label": "Biotech & Health",
       "count": 3,
       "rank": 8,
       "change": "new",
+      "labelKo": "생명 공학 및 건강"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 3,
+      "rank": 9,
+      "change": "down",
       "labelKo": "모금 활동"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 9,
-      "change": "down",
-      "labelKo": "뉴스"
-    },
-    {
-      "key": "statistics",
-      "label": "Statistics",
-      "count": 3,
       "rank": 10,
       "change": "down",
-      "labelKo": "스탯"
+      "labelKo": "뉴스"
     }
   ]
 }
