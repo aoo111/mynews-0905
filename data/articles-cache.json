@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-15T12:13:17.302Z",
+  "collectedAt": "2026-09-15T14:11:09.475Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:06.631Z",
+      "fetchedAt": "2026-09-15T14:10:53.577Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:06.867Z",
+      "fetchedAt": "2026-09-15T14:10:53.644Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:08.090Z",
+      "fetchedAt": "2026-09-15T14:10:54.886Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:08.231Z",
+      "fetchedAt": "2026-09-15T14:10:55.059Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,38 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "아직도 코드를 읽나요?",
+          "link": "https://news.hada.io/topic?id=33735",
+          "pubDate": "2026-09-15T13:05:05.000Z",
+          "image": null,
+          "summary": "AI 활용 방식은 구현 이해를 유지하는 가속형 개발자와 구현 및 수정을 위임하는 바이브코더로 나뉨. 차이는 AI가 작성한 코드의 양이 아니라 결과물을 이해하고 유지보수하는 방식에 있음 프로그래밍의 핵심 자산은 코드보다 도메인에 대한 모델과 이해...",
+          "keywords": [
+            "아직도",
+            "코드를",
+            "읽나요"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "파괴공작 의심 사건으로 네덜란드 철도 운행에 대규모 차질",
+          "link": "https://news.hada.io/topic?id=33734",
+          "pubDate": "2026-09-15T12:32:33.000Z",
+          "image": null,
+          "summary": "네덜란드 여러 지역의 선로에서 장애물이 발견돼 Amsterdam을 포함한 지역의 철도 운행에 대규모 차질이 발생했으며, 철도 인프라 운영사 ProRail은 파괴공작을 의심하고 있음 현지 매체에 따르면 여러 지점의 선로에 파이프와 케이블이 놓여 있었...",
+          "keywords": [
+            "파괴공작",
+            "의심",
+            "사건으로",
+            "네덜란드",
+            "철도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "파푸아뉴기니 생각을 멈출 수 없다",
           "link": "https://news.hada.io/topic?id=33733",
@@ -411,43 +443,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: JetBatang NF - JetBrains Mono Nerd Font에 RIDIBatang 한글을 합친 터미널 글꼴",
-          "link": "https://news.hada.io/topic?id=33730",
-          "pubDate": "2026-09-15T08:25:58.000Z",
-          "image": null,
-          "summary": "안녕하세요. Alacritty를 쓰는데 글꼴 폴백 목록이 없더라구요. family를 하나만 받고, Windows에서는 시스템이 알아서 한글 글꼴을 골라버려서 뭐가 쓰일지 지정할 수가 없었습니다. 한글만 따로 지정하는",
-          "keywords": [
-            "Show",
-            "GN:",
-            "JetBatang",
-            "NF",
-            "JetBrains"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "전 FTC 위원장 Khan, 1934년 판례 들며 “AI CEO들에게 수갑을 채워라”",
-          "link": "https://news.hada.io/topic?id=33729",
-          "pubDate": "2026-09-15T07:33:59.000Z",
-          "image": null,
-          "summary": "Lina Khan 전 FTC 위원장은 기존 법률만으로도 위험하거나 검증되지 않은 AI를 출시한 기업과, 일부 상황에서는 경영진에게 책임을 물을 수 있다며 새 입법을 기다릴 필요가 없다고 강조함 검증되지 않은 모델 출시와 결함 있는 에이전트에 대한 안전조치 부족은 소비자보호...",
-          "keywords": [
-            "FTC",
-            "위원장",
-            "Khan",
-            "1934년",
-            "판례"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:09.053Z",
+      "fetchedAt": "2026-09-15T14:10:55.835Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -542,7 +540,7 @@
           "summaryKo": "최근 스트림에서 Kai Cenat은 유명한 침실을 빅 애플 캣워크로 교환했습니다. 브롱크스에서 태어난 크리에이터는 뉴욕 패션 위크 (NYFW) 기간 동안 자신의 의류 브랜드 Vivet에서 나온 첫 번째 작품을 공개하면서 고향으로 돌아왔습니다. '살다' 라는 뜻의 라틴어 동사 'Vivet' 에서 따온 Vivet은 1년 이상 작품에 등장해 왔습니다. 블록버스터 트위치 계정의 중단 기간 동안 Cenat은 전문 재단사를 만나기 위해 이탈리아로 여행했으며, 그는 또한"
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:09.273Z",
+      "fetchedAt": "2026-09-15T14:10:56.085Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -616,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:09.587Z",
+      "fetchedAt": "2026-09-15T14:10:56.401Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -697,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:09.682Z",
+      "fetchedAt": "2026-09-15T14:10:56.485Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -706,97 +704,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "성수에 펼쳐진 거대한 플레이리스트…스포티파이 하우스 서울 나흘의 기록",
-          "link": "https://www.venturesquare.net/1113893/",
-          "pubDate": "2026-09-15T10:43:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/spoty-653x522.jpg",
-          "summary": "역대 최대 규모로 열린 ‘스포티파이 하우스 서울’이 서울 성수동에서 나흘간의 일정을 마쳤다. 디플로와 라이즈, 잔나비, 혁오, 타이거 JK 등 국내외 아티스트가 일렉트로닉·K-팝·인디 록·힙합 무대를 꾸몄다. 스포티파이는 공연과 체험 프로그램을 결합해 앱 속 음악 발견... The post 성수에 펼쳐진 거대한 플레이리스트…스포티파이 하우스 서울 나흘의 기록 appeared first on 벤처스퀘어.",
+          "title": "임플란트 품질, 표면 잔여물까지 본다…덴티스 AXEL 독일 인증",
+          "link": "https://www.venturesquare.net/1113982/",
+          "pubDate": "2026-09-15T13:54:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/AXEL-733x522.jpg",
+          "summary": "덴티스의 프리미엄 임플란트 AXEL이 독일 클린임플란트재단의 TRUSTED QUALITY 인증을 획득했다. 재단은 무작위로 선정한 완제품을 SEM과 EDS 등으로 분석해 표면 잔여물과 오염 여부를 평가한다. 덴티스는 SQ에 이어 AXEL까지 인증 범위를 넓히며 C-SL... The post 임플란트 품질, 표면 잔여물까지 본다…덴티스 AXEL 독일 인증 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "ROOTS",
-            "디플로",
-            "라이즈"
+            "AXEL",
+            "C-SLA",
+            "TRUSTEDQUALITY"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "K-점술도 한류가 될까…K-데스티니, 대만서 한 달간 유료 상담 30건",
-          "link": "https://www.venturesquare.net/1113876/",
-          "pubDate": "2026-09-15T10:22:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/K-destiny-img-604x522.png",
-          "summary": "해외 점술 상담 중개 플랫폼 K-데스티니가 서비스 시작 한 달 만에 해외 문의 440건을 접수하고 대만에서 30건 이상의 유료 상담을 진행했다. 플랫폼은 상담가 매칭부터 일정 조율, 달러 결제, 전문 통역사 배정까지 50분 영상 상담의 전 과정을 중개한다. 향후 점술 ... The post K-점술도 한류가 될까…K-데스티니, 대만서 한 달간 유료 상담 30건 appeared first on 벤처스퀘어.",
+          "title": "이익보다 ‘함께 행복한 기업’…행복한경영대학 20기 CEO 83명 입학",
+          "link": "https://www.venturesquare.net/1113971/",
+          "pubDate": "2026-09-15T13:48:53.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20-789x344.jpeg",
+          "summary": "행복한성공이 운영하고 휴넷이 후원하는 행복한경영대학 20기에 중소·중견기업 CEO 83명이 입학했다. 과정은 3개월 동안 온·오프라인으로 무료 운영되며 행복경영과 리더십, 조직문화 등을 다룬다. 2016년 개설 이후 약 1200개 기업의 CEO가 수료했으며 휴넷은 10... The post 이익보다 ‘함께 행복한 기업’…행복한경영대학 20기 CEO 83명 입학 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI통역",
-            "K데스티니",
-            "K사주"
+            "CEO네트워크",
+            "경영교육",
+            "기업문화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "온톨로지 AI, 산업 현장으로…인포시즈, SK텔레콤 출신 박준 CBO 영입",
-          "link": "https://www.venturesquare.net/1113828/",
-          "pubDate": "2026-09-15T07:02:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CBO_260915-409x522.jpg",
-          "summary": "인포시즈가 SK텔레콤과 SK AX에서 기업용 AI 사업을 이끈 박준 전 부사장을 최고사업책임자로 선임했다. 박준 CBO는 반도체·에너지·제조·금융 분야의 사업 전략과 대기업 고객 확보, 전략적 파트너십을 총괄한다. 인포시즈는 온톨로지와 그래프 DB 기반 기술을 산업별 ... The post 온톨로지 AI, 산업 현장으로…인포시즈, SK텔레콤 출신 박준 CBO 영입 appeared first on 벤처스퀘어.",
+          "title": "도면이 공장 데이터로 이어질 때…위즈코어, IMTS서 CAD·제조 AI 연결",
+          "link": "https://www.venturesquare.net/1113964/",
+          "pubDate": "2026-09-15T13:45:56.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-24-696x522.jpg",
+          "summary": "위즈코어가 미국 시카고에서 열린 IMTS 2026에서 AI 기반 설계·제조 통합 솔루션을 시연했다. AI-CAD가 이미지 도면을 구조화하고 CAD 도면과 자재명세서 생성을 지원하면 NEXPOM과 Widdy가 이를 제조 현장 데이터와 연결한다. 위즈코어는 19일까지 제품... The post 도면이 공장 데이터로 이어질 때…위즈코어, IMTS서 CAD·제조 AI 연결 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI전환",
-            "CBO",
-            "SKAX"
+            "AICAD",
+            "CADian",
+            "IMTS2026"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "질문만 답하던 AI, 다음 학습까지 잇는다…울산 공교육에 국산 LLM 적용",
-          "link": "https://www.venturesquare.net/1113802/",
-          "pubDate": "2026-09-15T05:21:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/llm-522x522.jpg",
-          "summary": "베스핀글로벌과 업스테이지가 에이전틱 AI 플랫폼과 국산 LLM을 결합해 공교육용 AI 서비스를 고도화한다. 첫 적용 대상인 울산교육청 ‘우리 아이(AI)’는 학생의 질문과 학습 맥락을 이해하고 다음 학습 활동까지 연결하는 서비스로 개발된다. 양사는 울산에서 플랫폼 구조... The post 질문만 답하던 AI, 다음 학습까지 잇는다…울산 공교육에 국산 LLM 적용 appeared first on 벤처스퀘어.",
+          "title": "베트남이 끌고 라이브가 밀었다…쇼피 9.9서 한국 셀러 판매량 7배",
+          "link": "https://www.venturesquare.net/1113956/",
+          "pubDate": "2026-09-15T13:42:02.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/shopee-789x443.png",
+          "summary": "쇼피 9.9 메가데이에서 한국 셀러 판매량이 올해 2분기 일평균의 7배를 기록했다. 지난해 같은 행사와 비교한 주문량은 41% 늘었으며 베트남과 쇼피 라이브 주문량은 각각 2분기 일평균의 13배와 12배에 달했다. 현지 풀필먼트를 이용한 주문량도 전년 대비 90% 증가... The post 베트남이 끌고 라이브가 밀었다…쇼피 9.9서 한국 셀러 판매량 7배 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "공교육AI",
-            "국산LLM",
-            "베스핀글로벌"
+            "9.9메가데이",
+            "K뷰티",
+            "K패션"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "치료실 밖 언어재활 잇는다…시리즈벤처스, 골든브레인케어에 시드 투자",
-          "link": "https://www.venturesquare.net/1113804/",
-          "pubDate": "2026-09-15T05:18:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789349161307-g4vfnkva-523x522.png",
-          "summary": "시리즈벤처스가 AI 기반 언어재활 플랫폼 ‘브레인프렌즈’를 개발하는 골든브레인케어에 시드 투자했다. 브레인프렌즈는 언어기능 평가와 맞춤형 훈련, 수행 데이터 분석, 보호자 리포트를 연결해 치료실 밖에서도 재활을 이어갈 수 있도록 지원한다. 골든브레인케어는 공공 바우처와... The post 치료실 밖 언어재활 잇는다…시리즈벤처스, 골든브레인케어에 시드 투자 appeared first on 벤처스퀘어.",
+          "title": "전자책 서재도 ‘꾸미는 공간’으로…리디, 책장 커버·통합검색 개편",
+          "link": "https://www.venturesquare.net/1113953/",
+          "pubDate": "2026-09-15T13:37:50.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ridi-789x473.jpg",
+          "summary": "리디가 구매한 작품을 취향에 따라 분류하고 꾸밀 수 있도록 ‘내 서재’를 전면 개편한다. 이용자는 작품 표지를 책장 커버로 설정하고 통합검색과 다운로드 전용 탭, 독서노트 모아보기 기능 등을 사용할 수 있다. 업데이트는 각 앱 마켓을 통해 순차적으로 배포된다. The post 전자책 서재도 ‘꾸미는 공간’으로…리디, 책장 커버·통합검색 개편 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "골든브레인케어",
-            "공공바우처",
-            "디지털헬스케어"
+            "IP팬덤",
+            "내서재",
+            "독서노트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:12.623Z",
+      "fetchedAt": "2026-09-15T14:10:59.768Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -887,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:13.163Z",
+      "fetchedAt": "2026-09-15T14:11:00.047Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -895,6 +893,58 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-15T14:00:00.000Z",
+          "image": null,
+          "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 전시 4일 남음",
+          "summaryKo": "디스럽트에서 전시할 수 있는 마지막 날은 9월 18일입니다. 4일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더 앞에서 스타트업을 운영하세요."
+        },
+        {
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+          "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+          "pubDate": "2026-09-15T13:00:00.000Z",
+          "image": null,
+          "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "TC",
+            "ai agent"
+          ],
+          "isForeign": true,
+          "titleKo": "초기 인류 고용, 전 METR COO는 악의적 인 AI 요원을 단속 할 수있는 방법을 찾았습니다.",
+          "summaryKo": "그들의 스타트업인 AIUC (Artificial Intelligence Underwriting Company) 는 퍼스트 하모닉 (First Harmonic) 의 참여로 리빗 캐피털 (Ribbit Capital) 이 이끄는 시리즈 A 라운드에서 4천만 달러 ($) 를 모금했습니다."
+        },
+        {
+          "title": "New Italian unicorn Exein rides the physical AI wave",
+          "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+          "pubDate": "2026-09-15T12:19:38.000Z",
+          "image": null,
+          "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+          "keywords": [
+            "Fundraising",
+            "Security",
+            "Startups",
+            "cybersecurity",
+            "Exein",
+            "physical ai"
+          ],
+          "isForeign": true,
+          "titleKo": "새로운 이탈리아 유니콘 엑세인이 인공지능의 물결을 타고 있다",
+          "summaryKo": "이탈리아 스타트업 Exein은 Headline이 이끄는 $ 270,000,000 라운드의 자금을 $ 17억 가치로 조달했습니다."
+        },
         {
           "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
           "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
@@ -925,62 +975,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026에서만: OpenAI가 로드맵을 전달하면 어떻게 됩니까?",
           "summaryKo": "AI 회사를 설립하는 경우, 재단 모델이 계속 발전할 것인지 여부가 문제가 아닙니다. 귀사가 가치 창출을 계속할 것인지 여부입니다. TechCrunch Disrupt 2026의 Builders Stage에서 진행되는 이 인터랙티브 세션을 놓치지 마세요."
-        },
-        {
-          "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-          "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-          "pubDate": "2026-09-14T14:45:44.000Z",
-          "image": null,
-          "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-          "keywords": [
-            "AI",
-            "Apps",
-            "Startups",
-            "AI notetakers",
-            "fathom",
-            "grammarly"
-          ],
-          "isForeign": true,
-          "titleKo": "생산성 플랫폼이 에이전트 작업을 추진함에 따라 Superhuman은 YC의 지원을 받는 공증인 Fathom을 인수합니다.",
-          "summaryKo": "Notetaker는 넉넉한 무료 요금제를 제공하며, 그 결과 40만 명 이상의 월간 활성 사용자가 생겼습니다. 이 회사는 지금까지 100만 명이 넘는 사람들이 회의를 녹화했다고 말했습니다."
-        },
-        {
-          "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-14T14:30:00.000Z",
-          "image": null,
-          "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Climate",
-            "Startups",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 AI가 어떻게 자연의 복귀를 설계할 수 있는지 들어보세요",
-          "summaryKo": "얼마 전까지만 해도 멸종된 종을 다시 살리는 것은 공상 과학 소설에 속했습니다. 오늘날, 그것은 수십억 달러 규모의 스타트업의 사명입니다. 기술 분야에서 가장 독창적인 창업자 중 한 명과 함께 대화에 참여하세요. 지금 Disrupt 이용권을 확보하세요."
-        },
-        {
-          "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-          "pubDate": "2026-09-14T14:00:00.000Z",
-          "image": null,
-          "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Fintech",
-            "Fundraising",
-            "Startups",
-            "TC"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 전시 5일 남음",
-          "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:13.294Z",
+      "fetchedAt": "2026-09-15T14:11:05.645Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -988,6 +985,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "좋은 기술을 ‘투자자의 언어’로…대구 스타트업 8개사, IP 전략 들고 IR 무대",
+          "link": "https://www.venturesquare.net/1113946/",
+          "pubDate": "2026-09-15T13:34:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/deagu-369x522.png",
+          "summary": "제64차 대구스타트업 리더스포럼이 9월 16일 대구창조경제혁신센터에서 열린다. 유망 스타트업 8개사가 IR에 참여하고 인포뱅크 아이엑셀 홍종철 대표가 특허 기반 투자유치 전략을 공유한다. 2016년 시작된 포럼의 누적 참여기업은 이번 행사를 포함해 401개사로 늘어난다... The post 좋은 기술을 ‘투자자의 언어’로…대구 스타트업 8개사, IP 전략 들고 IR 무대 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "TIPS",
+            "대구경북스타트업페스티벌",
+            "대구광역시",
+            "대구스타트업리더스포럼",
+            "대구창조경제혁신센터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "한 번의 IR을 다음 투자 미팅으로…대구 스타트업 6개사, 수도권 VC 만났다",
+          "link": "https://www.venturesquare.net/1113934/",
+          "pubDate": "2026-09-15T13:29:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/leadup-696x522.jpg",
+          "summary": "대구창조경제혁신센터가 초기창업패키지 참여기업 6개사와 수도권 투자자 15명을 연결하는 ‘대구 스타트업 리드업 IR’을 개최했다. AI와 제조기술, 콘텐츠, 로컬 유통 등 다양한 분야의 기업이 사업모델을 발표하고 투자자와 일대일 상담을 진행했다. 대구센터는 현장에서 나온... The post 한 번의 IR을 다음 투자 미팅으로…대구 스타트업 6개사, 수도권 VC 만났다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "IR피칭",
+            "대구경북창업페스티벌",
+            "대구스타트업",
+            "대구창조경제혁신센터",
+            "리드업IR"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "감자 막걸리부터 메밀 젤라또까지…강원 로컬 5개사, 마곡서 ‘구황장’",
+          "link": "https://www.venturesquare.net/1113905/",
+          "pubDate": "2026-09-15T10:57:49.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/kangwon-3-370x522.jpg",
+          "summary": "강원창조경제혁신센터와 무인양품이 9월 18일부터 20일까지 서울 마곡 원그로브에서 팝업마켓 ‘구황장’을 연다. 행사에는 소상공인 도약지원 사업에 참여한 강원 로컬기업 5개사가 감자 막걸리와 메밀 젤라또, 간편식, 공예품, 농산물 등을 선보인다. 참여기업은 현장 판매와 ... The post 감자 막걸리부터 메밀 젤라또까지…강원 로컬 5개사, 마곡서 ‘구황장’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "강원로컬브랜드",
+            "강원창조경제혁신센터",
+            "구황장",
+            "로컬푸드",
+            "마곡원그로브"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "R&D 인건비 어디까지 공제되나…이노비즈기업, 국세청에 판단 기준 명확화 요청",
           "link": "https://www.venturesquare.net/1113886/",
@@ -1023,63 +1074,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[문지은의 미래산업 리포트 ①] 머스크와 젠슨 황은 무엇을 소유하는가…지상과 우주를 잇는 미래기축산업",
-          "link": "https://www.venturesquare.net/1113863/",
-          "pubDate": "2026-09-15T09:41:53.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/0915-789x444.png",
-          "summary": "일론 머스크는 전기차와 에너지, 로봇, 위성통신과 AI를 ‘행동하는 지능의 영토’로 연결하고 있으며 젠슨 황은 반도체와 소프트웨어, 데이터센터와 금융을 결합해 ‘지능 생산의 표준’을 구축하고 있다. 2035년의 기술 패권은 AI 모델 하나보다 에너지·컴퓨팅·지능·행동·... The post [문지은의 미래산업 리포트 ①] 머스크와 젠슨 황은 무엇을 소유하는가…지상과 우주를 잇는 미래기축산업 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "Ai인프라",
-            "기술주권",
-            "문지은의미래산업리포트",
-            "미래기축산업",
-            "미래산업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“기술만 좋아선 안 된다”…딥테크 6개사가 투자자 앞에서 꺼낸 ‘시장 해법’",
-          "link": "https://www.venturesquare.net/1113719/",
-          "pubDate": "2026-09-15T09:15:45.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/라플라스파트너스-한인수-대표-2-3-783x522.jpg",
-          "summary": "첨단소재·비전AI·수소에너지·스포츠AI·AI반도체·AI바이오 분야 6개 기업이 ‘2026 라플라스×ETRI 딥테크 투자포럼’에서 기술의 제품화와 시장 진입 전략을 투자자들에게 공개했다. 투자자들의 질문은 기술 성능보다 실제 고객과 사용처, 가격과 생산, 반복 가능한 사... The post “기술만 좋아선 안 된다”…딥테크 6개사가 투자자 앞에서 꺼낸 ‘시장 해법’ appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "AI반도체",
-            "ETRI",
-            "기술사업화",
-            "딥테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "스타트업 ‘발굴’ 넘어 ‘설계’로…KAIA, 벤처스튜디오 도입 해법을 논의하다",
-          "link": "https://www.venturesquare.net/1113820/",
-          "pubDate": "2026-09-15T05:31:57.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/kaia-3-696x522.jpg",
-          "summary": "초기투자액셀러레이터협회가 창업기획자 관계자 40여 명과 함께 벤처스튜디오의 제도적 쟁점과 도입 전략을 점검했다. 세미나에서는 벤처투자법 개정안과 법적 리스크를 살피고 블루포인트파트너스와 MYSC의 대기업 협업형·로컬·크로스보더형 운영 사례를 공유했다. 협회는 현장 의견... The post 스타트업 ‘발굴’ 넘어 ‘설계’로…KAIA, 벤처스튜디오 도입 해법을 논의하다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "KAIA",
-            "MYSC",
-            "법무법인DLG",
-            "벤처스튜디오",
-            "벤처투자법"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:14.890Z",
+      "fetchedAt": "2026-09-15T14:11:09.042Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1122,34 +1119,17 @@
           "summaryKo": null
         },
         {
-          "title": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 - 기후에너지데이터뱅크",
+          "title": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 - edata.ekn.kr",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0temdEd2N2M0xMbkg2ZXl2VTRCYzN3bm9WX3JYNlg3cXF5bEZ1NU9IUF9FUk95OXRMYnBybVh2eG11MWh6T1dCRXZFcU4yV0djTzFXTlBLUXpCZ09fZmc?oc=5",
           "pubDate": "2026-09-15T06:10:03.000Z",
           "image": null,
-          "summary": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 기후에너지데이터뱅크",
+          "summary": "국산 없는데 ‘국산 우선’ 공고…베란다 태양광 사업 논란 edata.ekn.kr",
           "keywords": [
             "국산",
             "없는데",
             "우선",
             "공고",
             "베란다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - kgfnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQmM4VUVKclBOVzRUOEJIWEdJdDdfakltM0t3RUEzbC1KLWVNRmRPVTFnZ1JiUmRheWVOSmh5M0p5Uzl6Wldmak1pTS1kUE9vY1otRG1VSHZaTVhBZkk2Mw?oc=5",
-          "pubDate": "2026-09-15T07:10:04.000Z",
-          "image": null,
-          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 kgfnews.com",
-          "keywords": [
-            "고양시",
-            "벤처기업",
-            "인증",
-            "비용",
-            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1171,9 +1151,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 - mediatoday.asia",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50OUJxUk4zQWdFM3VRTWRqOWNMaHFEZGtYa21RZkxDYzJiNUxZdE4xQnB3RUhuOGk0ZWZqbm8zN2xzWFpjdDlBVTR3?oc=5",
+          "pubDate": "2026-09-15T06:18:00.000Z",
+          "image": null,
+          "summary": "고양시, ‘벤처기업 인증 비용 지원사업’ 막바지 접수 mediatoday.asia",
+          "keywords": [
+            "고양시",
+            "벤처기업",
+            "인증",
+            "비용",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T12:13:17.290Z",
+      "fetchedAt": "2026-09-15T14:11:09.466Z",
       "error": null
     }
   },
@@ -1183,67 +1180,67 @@
       "label": "오픈AI",
       "count": 2,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "중국",
       "label": "중국",
       "count": 2,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "없는데",
-      "label": "없는데",
+      "key": "대구창조경제혁신센터",
+      "label": "대구창조경제혁신센터",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1283,20 +1280,20 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
