@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-15T02:12:09.590Z",
+  "collectedAt": "2026-09-15T04:11:09.192Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“몇 푼 벌어보려다 6300만원 날렸다”…20대 여성 울린 변종 ‘보이스피싱’",
+          "link": "https://www.mk.co.kr/news/economy/12153010",
+          "pubDate": "2026-09-15T04:09:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.9b3335251ec9430bb941df7d819a7768_R.png",
+          "summary": "금감원, 신용카드 직접 결제 주의보 보이스피싱 의심거래 탐지룰 대폭 강화구직 사이트에서 ‘물품 대리 주문·결제 부업’을 시작했던 20대 여성 A씨가 6300만원이 넘는 사기 피해를..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "침묵하던 김동연, 추미애에 “재정위기 아니다” 반격",
           "link": "https://www.mk.co.kr/news/economy/12152946",
           "pubDate": "2026-09-15T02:08:10.000Z",
@@ -54,7 +67,7 @@
           "summaryKo": null
         },
         {
-          "title": "[단독] 은행들 한은서 ‘싼 돈’ 받아놓고...中企 금리 혜택 갈수록 줄였다",
+          "title": "[단독] 한은서 싸게 돈 빌려가놓고...은행권, 중기 대출 금리 혜택 ‘반토막’",
           "link": "https://www.mk.co.kr/news/economy/12152942",
           "pubDate": "2026-09-15T02:05:16.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260914.d8b961f1291a441c967c36a10af3ef6d_R.jpg",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "신한금융, 국내 최초 ‘노쇼 사기 피해지원 보상보험’ 출시",
-          "link": "https://www.mk.co.kr/news/economy/12152880",
-          "pubDate": "2026-09-15T01:21:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.dc83d9e39b90461b8fb02e197b5950c1_R.png",
-          "summary": "‘땡겨요’ 가맹점주 15만명에게 무료 제공 경찰 수사결과 따라 최대 300만원 지급신한금융이 국내 최초로 ‘노쇼 사기’를 당한 음식점주에게 피해를 보상하는 보험을 출시했다. 신한..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:11:57.879Z",
+      "fetchedAt": "2026-09-15T04:11:00.293Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-15T02:11:57.970Z",
+      "fetchedAt": "2026-09-15T04:11:00.342Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[9월14일] 잘나가던 AI 기업들이 ‘속도 늦추자’고 합의한 이유…‘죄수의 딜레마’",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215218",
-          "pubDate": "2026-09-15T07:00:00.000Z",
+          "title": "'AI 개발 속도 조절' 발언에 글로벌 테크·반도체주 일제히 급락",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215273",
+          "pubDate": "2026-09-15T12:43:47.000Z",
           "image": null,
-          "summary": "다리오 아모데이 앤트로픽 CEO가 AI 개발 속도를 늦추자고 하자, 샘 알트먼 오픈AI CEO와 일론 머스크 CEO까지 동의했습니다. 이어 데미스 허사비스 구글 딥마인드 회장과 사티아 나델라 마이크로소프트 CEO까지 여기에 합류했습니다.최근 AI 에이전트가 실제 시스템을 공격하거나 악용되는 사례가 잇따르면서, 모델의 능력이 안전장치보다 빠르게 발전하고 있다는 판단이 커진 것이 직접적인 이유로 보입니다. 아모데이는 개발을 중단하자는 것이 아니라 안전·정렬·모니터링이 따라올 시간을 벌자는 입장입니다.그런데 혼자 속도를 늦출 수 없다는",
+          "summary": "AI 업계 주요 경영진이 안전을 위해 최첨단 AI 모델 개발 속도를 늦춰야 한다고 잇따라 촉구하면서 글로벌 기술주와 반도체주가 일제히 급락했다. AI 모델 개발 둔화가 고성능 반도체와 데이터센터에 대한 막대한 투자와 수요를 위축시킬 수 있다는 우려가 커지며, 그동안 AI 투자 붐의 최대 수혜주로 꼽혀온 기업들이 집중적인 매도 압력을 받았다.월스트리트저널(WSJ) 등에 따르면, 14일(현지시간) 미국 증시에서는 반도체주가 가장 큰 낙폭을 기록했다.마벨 테크놀로지는 7% 이상 떨어졌고 인텔과 마이크론 테크놀로지, 샌디스크도 약 5~6%",
           "keywords": [
-            "9월14일",
-            "잘나가던",
             "AI",
-            "기업들이",
-            "속도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
-          "pubDate": "2026-09-15T04:53:47.000Z",
-          "image": null,
-          "summary": "글로벌 AI 빅테크 수장들이 잇따라 'AI 개발 속도 조절론'에 동참하는 가운데, 국내 AI 기업들도 관련 입장을 밝혔다.14일 업계에 따르면, 국내 AI 기업들의 입장은 크게 세 가지로 나뉘는 분위기였다. 글로벌 빅테크의 취지에 공감한다는 입장과 권력 불균형에 대한 우려와 동시에, 판단은 아직 이르다는 의견이 공존했다.■ AI 개발 속도 규제는 '자연스러운 흐름'...안전한 사회 적용 필요해먼저 한 AI 업계 관계자는 \"AI 기술과 산업이 성숙하는 과정에서 자연스럽고 타당한 흐름으로 보고 있다\"라고 긍정적인 입장을 내비쳤다. 특히",
-          "keywords": [
-            "국내",
-            "AI",
-            "업계",
-            "속도",
-            "조절론"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"탈모약 개발·암 진단·주식 투자도 AI로\"...LG, 전문가 AI로 승부수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215257",
-          "pubDate": "2026-09-15T04:42:09.000Z",
-          "image": null,
-          "summary": "LG AI연구원은 14일 서울 강서구 마곡 LG사이언스파크 컨버전스홀에서 'LG AI 토크 콘서트 2026'을 열고 제조·과학·비즈니스 분야 전문가 AI 시리즈를 공개했다.임우형 LG AI연구원 공동 연구원장은 \"산업 현장의 문제를 해결하기 위해서는 수많은 변수와 단 1%의 예외까지 해결하는 AI가 필요하다\"며 개발 배경을 밝혔다.■ 공정 바뀌어도 OK…제조 AI로 리드타임 85% 단축제조 분야에서는 공정과 품질을 예측하는 '엑사원 태뷸러'와 비전 검사 모델 '엑사원 옴니 인스펙트'가 소개됐다.엑사원 태뷸러는 1억 개 이상의 정형",
-          "keywords": [
-            "탈모약",
             "개발",
-            "진단",
-            "주식",
-            "투자도"
+            "속도",
+            "조절",
+            "발언에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215233",
-          "pubDate": "2026-09-14T17:55:01.000Z",
+          "title": "트럼프 \"아모데이는 위선자...AI 안전 우려는 사기\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215264",
+          "pubDate": "2026-09-15T12:28:58.000Z",
           "image": null,
-          "summary": "AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션이 문샷 AI의 '키미 K3'를 기반으로 사후학습한 새로운 코딩 모델을 선보이며 비용 대비 성능 경쟁에 뛰어들었다. 코그니션은 11일(현지시간) 키미 K3를 단 한 번의 강화학습(RL) 과정으로 사후학습한 새로운 코딩 모델 ‘SWE-2’를 공개했다.SWE-2는 코딩 작업 성능을 평가하는 주요 벤치마크에서 '페이블 5.1'에 근접한 성능을 내면서도 추론 비용은 64% 낮춘 것이 특징이다.키미 K3는 약 2.8조개의 매개변수를 가진 모델로, SWE-2는 코그니션의 전작인 'SWE",
+          "summary": "도널드 트럼프 미국 대통령이 AI 개발 속도를 늦추고 안전장치를 강화해야 한다는 업계의 요구를 정면으로 반박했다. 특히 AI 안전 규제를 촉구해 온 앤트로픽의 다리오 아모데이 CEO를 직접 언급하며, AI의 위험성을 둘러싼 우려를 ‘사기(hoax)’로 규정했다.트럼프 대통령은 14일(현지시간) 워싱턴에서 열린 ‘AI 경선 승리’ 정상회담 연설과 자신의 트루스소셜 게시글을 통해 AI에 대한 추가적인 연방 규제 필요성을 일축했다.그는 “AI에 필요한 유일한 통제나 가드레일은 강력하고 똑똑한 대통령”이라며 자신이 이를 충족한다고 주장했다",
           "keywords": [
-            "코그니션",
-            "키미",
-            "K3",
-            "기반",
-            "코딩"
+            "트럼프",
+            "아모데이는",
+            "위선자",
+            "AI",
+            "안전"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "텐센트, 음성 생성·편집 모델 'AuK' 공개...\"오디오용 나노바나나\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215235",
-          "pubDate": "2026-09-14T17:50:00.000Z",
+          "title": "\"AI 에이전트 결제 전, 문자로 물어본다\"...SKT, GSMA RCS 회의 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215272",
+          "pubDate": "2026-09-15T12:17:14.000Z",
           "image": null,
-          "summary": "텐센트가 텍스트를 음성으로 변환하는 것은 물론 기존 음성의 내용과 음색, 감정, 억양 등을 자연어 지시만으로 수정할 수 있는 오픈소스 AI 모델을 공개했다. 하나의 모델에서 음성 생성과 편집을 통합적으로 처리한다는 점을 강조하며 ‘오디오용 나노바나나(Nano Banana for Audio)’라는 별칭을 내세웠다.텐센트는 10일(현지시간) 음성 생성 및 편집을 통합한 AI 파운데이션 모델 ‘AuK’를 공개했다.자연어 지시어와 참조 오디오를 하나의 인터페이스에서 처리하는 통합 모델이다. 기존에는 음성 생성과 음성 편집, 음질 개선 등에",
+          "summary": "SK텔레콤(대표 정재헌)은 15일부터 나흘간 서울 SKT타워에서 세계이동통신사업자연합회(GSMA) RCS 그룹과 표준화 회의를 개최한다고 15일 밝혔다.RCS는 사진·동영상 전송 등 다양한 기능을 지원하는 차세대 메시징 표준으로 AT&T, T모바일 등 글로벌 통신사와 애플, 구글 등 16개사 실무진, GSMA 사무국 관계자 등 총 33명이 참석한다.이번 회의에는 정규 안건 외에 'AI와 메시징의 진화'를 주제로 특별 세션도 마련됐다. RCS와 AI 에이전트의 결합, AI에 대한 신뢰와 이용자 통제, AI 기반 브랜드 등록·스팸 대응",
           "keywords": [
-            "텐센트",
-            "음성",
-            "생성",
-            "편집",
-            "모델"
+            "AI",
+            "에이전트",
+            "결제",
+            "문자로",
+            "물어본다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"최고 성능에 비용은 반값\"...'라이너 모델 API' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215271",
+          "pubDate": "2026-09-15T12:00:12.000Z",
+          "image": null,
+          "summary": "AI 에이전트 전문 라이너(대표 김진우)는 AI 오케스트레이션 솔루션인 ‘라이너 모델 API(Liner Model API)’를 출시했다고 15일 밝혔다. 현재 AI 시스템을 구축하는 대부분 기업은 답변 품질을 위해 고가의 프론티어급 모델 하나로 모든 사용자 질문을 일괄 처리하는 방법을 채택하고 있다. 하지만 질문 난이도가 제각각임에도 모두 상위 모델로 처리하다 보니 불필요한 인프라 비용이 급증하는 구조적 한계가 존재한다.이에, 라이너는 저비용 경량 모델의 품질 문제와 프론티어급 모델의 높은 도입 비용 사이에서 고민하는 기업들에 주목",
+          "keywords": [
+            "최고",
+            "성능에",
+            "비용은",
+            "반값",
+            "라이너"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "삼성전자, 네덜란드 AI칩 스타트업 유클리드 3200억 공동 투자 나서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215270",
+          "pubDate": "2026-09-15T11:55:37.000Z",
+          "image": null,
+          "summary": "삼성전자가 네덜란드 AI 반도체 스타트업 '유클리드(Euclyd)'의 시리즈A 투자 라운드에 주요 공동 투자자로 참여했다. 이번 라운드는 총 2억유로(약 3200억원) 규모다.14일(현지시간) CNBC에 따르면, 이번 투자에는 삼성전자를 포함해 서머셋 캐피털 파트너스, EQT가 운용하는 스케일업 유럽펀드, 이노베이션 인더스트리스가 공동으로 참여했다.2024년 설립된 유클리드는 엔비디아 GPU와 다른 아키텍처의 추론용 AI 칩 시스템을 개발 중이다. 연산용 프로세서와 메모리 아키텍처를 모두 포함한다.아직 대규모 상용 환경에서 검증된",
+          "keywords": [
+            "삼성전자",
+            "네덜란드",
+            "AI칩",
+            "스타트업",
+            "유클리드"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:11:59.204Z",
+      "fetchedAt": "2026-09-15T04:11:01.947Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-15T02:11:59.492Z",
+      "fetchedAt": "2026-09-15T04:11:02.103Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -450,7 +450,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:00.177Z",
+      "fetchedAt": "2026-09-15T04:11:02.917Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -518,8 +518,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -545,7 +545,7 @@
           "summaryKo": "최근 스트림에서 Kai Cenat은 유명한 침실을 빅 애플 캣워크로 교환했습니다. 브롱크스에서 태어난 크리에이터는 뉴욕 패션 위크 (NYFW) 기간 동안 자신의 의류 브랜드 Vivet에서 나온 첫 번째 작품을 공개하면서 고향으로 돌아왔습니다. '살다' 라는 뜻의 라틴어 동사 'Vivet' 에서 따온 Vivet은 1년 이상 작품에 등장해 왔습니다. 블록버스터 트위치 계정의 중단 기간 동안 Cenat은 전문 재단사를 만나기 위해 이탈리아로 여행했으며, 그는 또한"
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:02.436Z",
+      "fetchedAt": "2026-09-15T04:11:02.994Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -619,7 +619,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:02.689Z",
+      "fetchedAt": "2026-09-15T04:11:03.184Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -700,7 +700,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:02.772Z",
+      "fetchedAt": "2026-09-15T04:11:03.242Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -799,7 +799,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:05.615Z",
+      "fetchedAt": "2026-09-15T04:11:06.589Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -894,7 +894,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:06.781Z",
+      "fetchedAt": "2026-09-15T04:11:06.890Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -987,7 +987,7 @@
           "summaryKo": "9월 18일 TechCrunch Disrupt 2026에서 전시 테이블을 신청한 마지막 날. 5일 남았습니다. 엑스포 홀 층에 자리를 확보하고 10,000명 이상의 창업자, 투자자 및 기술 리더에게 비즈니스를 알리세요."
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:06.875Z",
+      "fetchedAt": "2026-09-15T04:11:06.913Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1086,7 +1086,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:08.270Z",
+      "fetchedAt": "2026-09-15T04:11:08.816Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1112,6 +1112,23 @@
           "summaryKo": null
         },
         {
+          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - ulsanilbo.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
+          "pubDate": "2026-09-14T15:01:31.000Z",
+          "image": null,
+          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 ulsanilbo.co.kr",
+          "keywords": [
+            "공공데이터",
+            "활용",
+            "스타트업",
+            "모집",
+            "중기부"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
           "pubDate": "2026-09-14T03:01:16.000Z",
@@ -1123,23 +1140,6 @@
             "정보보호",
             "지원사업",
             "수요기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - 울산일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
-          "pubDate": "2026-09-14T15:01:31.000Z",
-          "image": null,
-          "summary": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 울산일보",
-          "keywords": [
-            "공공데이터",
-            "활용",
-            "스타트업",
-            "모집",
-            "중기부"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1163,24 +1163,24 @@
           "summaryKo": null
         },
         {
-          "title": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 - 프레시안",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNDEtUmtBc2RDX2pDeXpTUFUwcHRYWTJPRjZNTUFxVVIzeUp0QjlDNWMxcnJYeDhIUnJlV3NraFRLcDU4U0xKZ3N6YndqdFBvOEJIM0JWLUstemFCZjFfS3dPTFF0Y2VWRG9N?oc=5",
-          "pubDate": "2026-09-14T04:50:48.000Z",
+          "title": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 - 뉴스더보이스헬스케어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbDV0bl9BTTVKZHZ2Q1dWaV96TUdGYTFpcHB1c2hmYU5QQkZSZTUtS2U5RnFpOHRqaFdSb0VsakNyMWpwdzJuYmozcEw0VWp4NWV4UHFpUHdNT0R0WGRYYkVhUjVoTHo2UEdHSTJR?oc=5",
+          "pubDate": "2026-09-14T21:00:00.000Z",
           "image": null,
-          "summary": "전북정보보호지원센터, 도내 중소기업 대상 '정보보호 지원사업' 참여 기업 모집 프레시안",
+          "summary": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 뉴스더보이스헬스케어",
           "keywords": [
-            "전북정보보호지원센터",
-            "도내",
-            "중소기업",
-            "대상",
-            "정보보호"
+            "중소병원",
+            "요양병원",
+            "진료지원간호사",
+            "교육과정",
+            "실무"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-15T02:12:08.722Z",
+      "fetchedAt": "2026-09-15T04:11:09.184Z",
       "error": null
     }
   },
@@ -1188,14 +1188,14 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
+      "count": 5,
       "rank": 1,
       "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
-      "count": 4,
+      "count": 5,
       "rank": 2,
       "change": "same"
     },
@@ -1211,49 +1211,49 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "공공데이터",
       "label": "공공데이터",
       "count": 3,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "중기부",
       "label": "중기부",
       "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1302,7 +1302,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1310,7 +1310,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1334,7 +1334,7 @@
       "label": "YouTube",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "유튜브"
     }
   ]
