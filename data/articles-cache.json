@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T18:12:43.457Z",
+  "collectedAt": "2026-09-16T20:11:12.975Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,37 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[속보] 3년만에 금리 올린 연준…연내 추가 인상 예고",
-          "link": "https://www.mk.co.kr/news/economy/12154882",
+          "title": "워시 “인플레 너무 높아” 추가 인상 예고...美증시·채권 약세",
+          "link": "https://www.mk.co.kr/news/economy/12154906",
+          "pubDate": "2026-09-16T20:07:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-a.v1.20260917.8d6385b883474d77b8b04d5b8597a64b_R.jpg",
+          "summary": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“대미 투자하느라 달러빚 냈는데”…금리발작에 떨고있는 업종은",
+          "link": "https://www.mk.co.kr/news/economy/12154900",
+          "pubDate": "2026-09-16T19:54:04.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260916.0612b0bcaaf346e68282b2ca88978f50_R.png",
+          "summary": "美금리 고공행진에 재계 비상 달러 빚내서 현지투자 확늘린 배터리업계, 이자비용 부담↑ 항공·석유화학도 예의주시고유가 국면에 전 세계 금리의 잣대가 되는 미국 10년물 국채금리가 급..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "3년만에 금리 올린 연준…연내 추가 인상 예고",
+          "link": "https://www.mk.co.kr/news/world/12154882",
           "pubDate": "2026-09-16T18:09:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.4767b7600b994197adff8ba30fcbd8e6_R.jpg",
-          "summary": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 12명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격..",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.f91c5541978145e3a64c2e3ca23f02b8_R.png",
+          "summary": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 16명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격..",
           "keywords": [
             "경제"
           ],
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“추미애 사퇴 다시 촉구” 경기도청원 홈피 도배",
-          "link": "https://www.mk.co.kr/news/economy/12154629",
-          "pubDate": "2026-09-16T09:39:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.df9039d191f64089b395d491e511419a_R.jpg",
-          "summary": "3만명 동의한 ‘사퇴 청원’ 조기종료 후 ‘재청원’ 쇄도 민생예산 삭감 비판도 급증경기도가 도민 3만명 이상이 동의한 ‘추미애 경기도지사 사퇴 촉구’ 청원을 ‘답변 완료’ 처리하면..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“카자흐 자원과 한국 소재기술 결합…희소금속 공급망 다변화”",
-          "link": "https://www.mk.co.kr/news/economy/12154617",
-          "pubDate": "2026-09-16T09:24:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.8ded48ef531142e9a9294b7cdd9fc9b0_R.png",
-          "summary": "박경태 국가희소금속센터 소장 인터뷰 알마티에 희소금속 기술협력 기반 구축 한국 기업 19곳·카자흐 기업·기관 9곳 참여 공급계약·공동생산·투자로 협력 구체화“희소금속은 채굴·생산뿐..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:17.480Z",
+      "fetchedAt": "2026-09-16T20:10:59.148Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:20.757Z",
+      "fetchedAt": "2026-09-16T20:10:59.260Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:22.204Z",
+      "fetchedAt": "2026-09-16T20:11:00.267Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -309,6 +309,19 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         },
         {
+          "title": "How to connect AI usage to business value",
+          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "pubDate": "2026-09-16T12:00:00.000Z",
+          "image": null,
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 사용을 비즈니스 가치로 연결하는 방법",
+          "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
+        },
+        {
           "title": "How workers are unlocking new ways of working",
           "link": "https://openai.com/index/unlocking-new-ways-of-working",
           "pubDate": "2026-09-16T09:00:00.000Z",
@@ -333,26 +346,9 @@
           "isForeign": true,
           "titleKo": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법",
           "summaryKo": "Fyxer는 OpenAI 모델, 미세 조정, 메모리 및 실제 사용자 피드백을 사용하여 각 사용자의 음성으로 받은 편지함과 이메일 초안을 구성합니다."
-        },
-        {
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "pubDate": "2026-09-14T00:00:00.000Z",
-          "image": null,
-          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-          "keywords": [
-            "Perplexity",
-            "trusts",
-            "GPT",
-            "Astra",
-            "with"
-          ],
-          "isForeign": true,
-          "titleKo": "Perplexity는 엔드 투 엔드 시스템을 갖춘 GPT-6 Astra를 신뢰합니다",
-          "summaryKo": "Perplexity는 Astra를 사용하여 통신을 작성하고, 소프트웨어를 변경하고, 생산 시스템을 모니터링하고, 이전 모델보다 훨씬 적은 빈도로 체크인합니다."
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:25.113Z",
+      "fetchedAt": "2026-09-16T20:11:02.413Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +356,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
+          "link": "https://news.hada.io/topic?id=33801",
+          "pubDate": "2026-09-16T19:32:48.000Z",
+          "image": null,
+          "summary": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents를 미국 일부 광고주와 테스트 중임 후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됨 광고주는",
+          "keywords": [
+            "OpenAI",
+            "Sponsored",
+            "Agents로",
+            "ChatGPT",
+            "광고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "발표가 좋았다면 발표자에게 말해주세요",
+          "link": "https://news.hada.io/topic?id=33800",
+          "pubDate": "2026-09-16T18:34:19.000Z",
+          "image": null,
+          "summary": "발표가 좋았다면 짧게라도 발표자에게 직접 전할 가치가 있음. 발표자는 많은 노력을 들여 준비하며, 청중이 즐겼는지와 발표가 괜찮았는지 알고 싶어 함 피드백 없는 침묵은 발표자를 불안하게 만들 수 있음. 온라인 반응이 하나도 없어 발표가 와닿지 않았는지 걱...",
+          "keywords": [
+            "발표가",
+            "좋았다면",
+            "발표자에게",
+            "말해주세요"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
           "link": "https://news.hada.io/topic?id=33799",
@@ -410,42 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "2026년의 추론 하드웨어 혁명",
-          "link": "https://news.hada.io/topic?id=33796",
-          "pubDate": "2026-09-16T17:47:37.000Z",
-          "image": null,
-          "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
-          "keywords": [
-            "2026년의",
-            "추론",
-            "하드웨어",
-            "혁명"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "초기 Sony PlayStation 2 보안 칩, 26년 만에 ‘완전히 뚫렸다’",
-          "link": "https://news.hada.io/topic?id=33795",
-          "pubDate": "2026-09-16T16:54:02.000Z",
-          "image": null,
-          "summary": "레트로 하드웨어 개발자 DiscoStarslayer가 4년간의 작업 끝에 초기 PS2 Fat의 CXP102064 MechaCon 칩을 역공학하고 데이터를 추출하는 데 성공함 MechaCon은 드라이브 제어뿐 아니라 광디스크 보안, Magic Gate 메모리 카드와 KELF 실행 파일 복...",
-          "keywords": [
-            "초기",
-            "Sony",
-            "PlayStation",
-            "보안",
-            "26년"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:25.945Z",
+      "fetchedAt": "2026-09-16T20:11:03.210Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -542,7 +538,7 @@
           "summaryKo": "YouTube와 Netflix는 서로 협력하고 있습니다. 엄마와 아빠는 Streaming Access and Choice Alliance (SACA) 의 창립 멤버로 통합하기 위해 콘텐츠 제작자 양육권 전쟁을 일시적으로 제쳐두었습니다. 그들은 동료 스트리머/기술 거물 아마존과 TechNet에 합류했습니다. TechNet은 자신을 \"기술 CEO의 국가적 초당적 네트워크\" 라고 설명합니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:26.214Z",
+      "fetchedAt": "2026-09-16T20:11:03.423Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -616,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:26.402Z",
+      "fetchedAt": "2026-09-16T20:11:03.664Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -697,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:26.457Z",
+      "fetchedAt": "2026-09-16T20:11:03.747Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -796,7 +792,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:29.893Z",
+      "fetchedAt": "2026-09-16T20:11:07.898Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -887,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:30.174Z",
+      "fetchedAt": "2026-09-16T20:11:08.218Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -896,21 +892,21 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-16T16:00:00.000Z",
+          "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-16T18:45:35.000Z",
           "image": null,
-          "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+          "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
           "keywords": [
-            "Startups",
             "Biotech & Health",
-            "TechCrunch Disrupt",
+            "Startups",
             "Neuralink",
-            "Science Corporation"
+            "Science Corporation",
+            "TechCrunch Disrupt"
           ],
           "isForeign": true,
-          "titleKo": "뉴럴링크의 공동 창업자 맥스 호닥 (Max Hodak) 이 TechCrunch Disrupt 2026에서 스크린 시대가 끝나고 있다고 말하는 이유를 들어보세요.",
-          "summaryKo": "올해 Disrupt에서 Neuralink의 공동 설립자 Max Hodak은 의료 지원까지 제공할 수 있는 화면 없는 인터페이스에 대한 비전을 제시할 것입니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
+          "titleKo": "사이언스 코퍼레이션 (Science Corp) 의 CEO 맥스 호닥 (Max Hodak) 이 '테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026)",
+          "summaryKo": "올해 Disrupt에서 Science Corp의 CEO Max Hodak은 의료 지원까지 제공할 수 있는 화면 없는 인터페이스에 대한 비전을 제시할 것입니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
         },
         {
           "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
@@ -984,7 +980,7 @@
           "summaryKo": "TechCrunch Disrupt 2026에서 Startup Battlefield 200 경쟁자를 심사하는 다음 5명의 최상위 투자자를 만나보세요. 9월 25일 전에 등록하여 최대 $ 200를 절약하고 최고의 스타트업 피치 경쟁의 순간을 놓치지 마세요."
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:38.947Z",
+      "fetchedAt": "2026-09-16T20:11:10.038Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1083,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:41.900Z",
+      "fetchedAt": "2026-09-16T20:11:12.483Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1126,23 +1122,6 @@
           "summaryKo": null
         },
         {
-          "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - 충청메시지",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVG5hbG1nSS1kaEROd2c1bVp0ZGFXMGptWE83SmsxbXAzOTl4b1BGNkNmTldkVy1JTzJLMXd5RU9qemZlNGtvOFkwbkk1NXJiM2hxMUFmalhfeHUxdi1RNEg3LUVmcEFlcFZz?oc=5",
-          "pubDate": "2026-09-16T12:03:33.000Z",
-          "image": null,
-          "summary": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 충청메시지",
-          "keywords": [
-            "충남청년센터",
-            "청년도전지원사업",
-            "단기",
-            "과정",
-            "참여자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 - beSUCCESS",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ldHZrenRjWlUwWl9YSTJQQWk2WFBtdjVqUjJIMmNaUGIxcjZaaF9adXBlakRuNS1meGZUMEoyU0NGeDNwckE?oc=5",
           "pubDate": "2026-09-16T07:11:58.000Z",
@@ -1154,6 +1133,23 @@
             "사업재편",
             "지원사업",
             "참여기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - ccmessage.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVG5hbG1nSS1kaEROd2c1bVp0ZGFXMGptWE83SmsxbXAzOTl4b1BGNkNmTldkVy1JTzJLMXd5RU9qemZlNGtvOFkwbkk1NXJiM2hxMUFmalhfeHUxdi1RNEg3LUVmcEFlcFZz?oc=5",
+          "pubDate": "2026-09-16T12:03:33.000Z",
+          "image": null,
+          "summary": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 ccmessage.kr",
+          "keywords": [
+            "충남청년센터",
+            "청년도전지원사업",
+            "단기",
+            "과정",
+            "참여자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1177,7 +1173,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T18:12:42.361Z",
+      "fetchedAt": "2026-09-16T20:11:12.970Z",
       "error": null
     }
   },
@@ -1243,14 +1239,14 @@
       "label": "모델",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1331,7 +1327,7 @@
       "label": "AI wearables",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "AI 웨어러블"
     }
   ]
