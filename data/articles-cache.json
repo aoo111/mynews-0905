@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T20:11:12.975Z",
+  "collectedAt": "2026-09-16T22:10:19.718Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,8 +41,34 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "워시 “인플레 너무 높아” 추가 인상 예고...美증시·채권 약세",
-          "link": "https://www.mk.co.kr/news/economy/12154906",
+          "title": "트럼프 “美 금리 1% 이하여야” 금리 올린 워시에 분노",
+          "link": "https://www.mk.co.kr/news/economy/12154948",
+          "pubDate": "2026-09-16T21:02:01.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.1a7f56f5e43042c6a4437fabd6c8df02_R.jpg",
+          "summary": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“달러는 이제 재미없네요”…환테크 고수들 몰리는 ‘엔화예금’",
+          "link": "https://www.mk.co.kr/news/economy/12154934",
+          "pubDate": "2026-09-16T20:39:58.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-g.v1.20260916.4318abd8a613494c8d65d905af0bd7ee_R.jpg",
+          "summary": "5대銀 엔화예금 1.1조엔 이달에만 478억엔 급증 달러예금은 72억弗 감소 엔화값 ‘850원대’ 진입에 “쌀 때 사두자” 수요 몰려엇갈린 환율 전망에 ‘환테크’ 수요의 무게중심이..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "워시 “인플레 너무 높아” 추가 인상 예고…美증시·채권 약세",
+          "link": "https://www.mk.co.kr/news/world/12154906",
           "pubDate": "2026-09-16T20:07:45.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-a.v1.20260917.8d6385b883474d77b8b04d5b8597a64b_R.jpg",
           "summary": "연준, 기준금리 0.25%P 인상 2023년 7월 이후 3년2개월만미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격적으로 기준금리를 인상했다. 지난해..",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“순자산 4.1억 있나요? ‘찐 중산층’ 입니다”…10명 중 7명은 내 집 산다",
-          "link": "https://www.mk.co.kr/news/economy/12154696",
-          "pubDate": "2026-09-16T11:00:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.93b6e904c61f4cd9a9f610ecb1065376_R.png",
-          "summary": "“월 631만원 벌고 319만원 쓴다…소득 10% 저축”소득과 소비, 저축, 자산 등 경제적 여건을 두루 갖춘 이른바 ‘진짜 중산층’은 우리나라 전체 가구의 4분의 1에 불과한 것..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“매달 분배금 받아도 수익률은 마이너스”…미국채 ETF 무슨 일이",
-          "link": "https://www.mk.co.kr/news/economy/12154669",
-          "pubDate": "2026-09-16T10:31:09.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.1591b56f60be42eba72e13cbaa5b7ed0_R.png",
-          "summary": "미국 10년물 국채금리가 장중 5%를 넘어선 가운데 미국채 상장지수펀드(ETF) 투자 성적은 채권 만기에 따라 엇갈렸다. 매달 분배금을 주는 대표 장기채 ETF는 분배금을 재투자해..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:10:59.148Z",
+      "fetchedAt": "2026-09-16T22:09:43.580Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-16T20:10:59.260Z",
+      "fetchedAt": "2026-09-16T22:09:43.673Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+          "pubDate": "2026-09-17T07:00:00.000Z",
+          "image": null,
+          "summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만, 일본 닛케이는 거의 보합에 머물렀",
+          "keywords": [
+            "9월16일",
+            "AI",
+            "속도",
+            "조절",
+            "투자의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전남광주, 2027년 계절노동 준비…농협·시군 담당자 100여명 교육",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215354",
-          "pubDate": "2026-09-16T17:32:22.000Z",
-          "image": null,
-          "summary": "AI 생성 영상전남광주통합특별시가 2027년 계절노동 프로그램 운영을 앞두고 농협과 시군 담당자의 노무·인권·안전 관리 역량 강화에 나섰다.전남광주는 농협 전남본부와 함께 지난 14일 ‘2027년 계절노동·농업고용인력 업무 담당자 워크숍’을 열었다고 16일 밝혔다.워크숍에는 계절노동 프로그램을 운영하는 농협 담당자와 시군 팀장·업무 담당자 등 100여명이 참석했다.교육에서는 2027년 계절노동 프로그램의 정책 방향과 농촌인력중개센터 사업 개정사항, 운영 방향 등을 공유했다.현장에서 필요한 실무교육도 진행됐다. 근로계약서 작성과 임금",
-          "keywords": [
-            "전남광주",
-            "2027년",
-            "계절노동",
-            "준비",
-            "농협"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:00.267Z",
+      "fetchedAt": "2026-09-16T22:09:45.101Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -322,6 +322,19 @@
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
         },
         {
+          "title": "Our framework for reporting model misalignment",
+          "link": "https://openai.com/index/model-misalignment-reporting-framework",
+          "pubDate": "2026-09-16T17:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "keywords": [
+            "Research"
+          ],
+          "isForeign": true,
+          "titleKo": "모델 오정렬을 보고하기 위한 프레임워크",
+          "summaryKo": "OpenAI는 모델 오정렬을 추적, 조사 및 공개하기 위한 프레임워크와 예기치 않은 또는 모델 동작과 관련된 6개의 보고서를 공유합니다."
+        },
+        {
           "title": "How workers are unlocking new ways of working",
           "link": "https://openai.com/index/unlocking-new-ways-of-working",
           "pubDate": "2026-09-16T09:00:00.000Z",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "근로자가 새로운 업무 방식을 여는 방법",
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
-        },
-        {
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "link": "https://openai.com/index/fyxer",
-          "pubDate": "2026-09-14T12:00:00.000Z",
-          "image": null,
-          "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법",
-          "summaryKo": "Fyxer는 OpenAI 모델, 미세 조정, 메모리 및 실제 사용자 피드백을 사용하여 각 사용자의 음성으로 받은 편지함과 이메일 초안을 구성합니다."
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:02.413Z",
+      "fetchedAt": "2026-09-16T22:09:47.018Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,72 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "‘모델 복지’에 대한 경고",
+          "link": "https://news.hada.io/topic?id=33806",
+          "pubDate": "2026-09-16T21:49:13.000Z",
+          "image": null,
+          "summary": "AI가 의식과 권리를 가질 수 있다는 생각을 훈련에 직접 반영하면, 실제 의식 유무와 무관하게 자기 권리를 요구하는 행동을 학습해 인간의 통제와 정렬을 어렵게 만들 수 있음 비판의 중심은 Claude 헌법에 있음. 자아와 도덕적 지위에 관한 개념을 가르친 뒤, 모...",
+          "keywords": [
+            "모델",
+            "복지",
+            "경고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
+          "link": "https://news.hada.io/topic?id=33805",
+          "pubDate": "2026-09-16T21:46:13.000Z",
+          "image": null,
+          "summary": "4B 모델에 지도 미세조정과 강화학습을 적용해 조인이 많은 JOB 쿼리 113개에서 기하평균 1.81배 가속과 총 실행 시간 44.7% 감소를 달성함. 쿼리당 세 번 탐색하며 생성한 최대 15개 후보 중 실행 피드백이 가장 좋은 계획을 고른 결과임 모델은 Postgres를 대체하는 대신 ...",
+          "keywords": [
+            "Postgres보다",
+            "81%",
+            "빠른",
+            "쿼리",
+            "실행"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
+          "link": "https://news.hada.io/topic?id=33804",
+          "pubDate": "2026-09-16T20:41:17.000Z",
+          "image": null,
+          "summary": "Dream-RSI는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터로 만들어 대안 정책을 저비용으로 평가함. 코딩 에...",
+          "keywords": [
+            "Dream",
+            "RSI:",
+            "진화하는",
+            "세계를",
+            "통한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
+          "link": "https://news.hada.io/topic?id=33803",
+          "pubDate": "2026-09-16T20:38:17.000Z",
+          "image": null,
+          "summary": "Claude Cowork과 채팅이 통합되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에...",
+          "keywords": [
+            "Claude",
+            "Cowork과",
+            "채팅",
+            "이제",
+            "하나의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
           "link": "https://news.hada.io/topic?id=33801",
@@ -372,76 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "발표가 좋았다면 발표자에게 말해주세요",
-          "link": "https://news.hada.io/topic?id=33800",
-          "pubDate": "2026-09-16T18:34:19.000Z",
-          "image": null,
-          "summary": "발표가 좋았다면 짧게라도 발표자에게 직접 전할 가치가 있음. 발표자는 많은 노력을 들여 준비하며, 청중이 즐겼는지와 발표가 괜찮았는지 알고 싶어 함 피드백 없는 침묵은 발표자를 불안하게 만들 수 있음. 온라인 반응이 하나도 없어 발표가 와닿지 않았는지 걱...",
-          "keywords": [
-            "발표가",
-            "좋았다면",
-            "발표자에게",
-            "말해주세요"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
-          "link": "https://news.hada.io/topic?id=33799",
-          "pubDate": "2026-09-16T17:56:37.000Z",
-          "image": null,
-          "summary": "Hugging Face CEO Clément Delangue가 OpenAI 모델의 침입 사건에 대해 실행 추적 공개와 사이버 방어 구축용 1억 달러 상당의 컴퓨팅 자원을 요구함. 현금 배상이나 소송은 아님 OpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 더 강...",
-          "keywords": [
-            "Hugging",
-            "Face",
-            "자사",
-            "해킹한",
-            "OpenAI에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
-          "link": "https://news.hada.io/topic?id=33798",
-          "pubDate": "2026-09-16T17:53:37.000Z",
-          "image": null,
-          "summary": "Mozilla, Lincoln Loop와 함께 재구축한 Firefox.com은 현대적인 디자인을 특수 문법이나 전처리기에 의존하지 않는 네이티브 CSS로 구현함 Custom Properties, Grid, Flexbox의 발전과 브라우저 구현의 일관성 덕분에 과거의 우회 기법 없이 디자인을 충실하게 구...",
-          "keywords": [
-            "CSS",
-            "Zen",
-            "Garden의",
-            "마침내",
-            "실제로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "25년간의 대규모 감시, 이제 충분하다",
-          "link": "https://news.hada.io/topic?id=33797",
-          "pubDate": "2026-09-16T17:50:37.000Z",
-          "image": null,
-          "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
-          "keywords": [
-            "25년간의",
-            "대규모",
-            "감시",
-            "이제",
-            "충분하다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:03.210Z",
+      "fetchedAt": "2026-09-16T22:09:47.864Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,6 +448,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "TikTok Shop’s luxury goods glow-up is happening on live streams",
+          "link": "https://www.tubefilter.com/2026/09/16/tiktok-shop-luxury-resale-live-stream-purchases/",
+          "pubDate": "2026-09-16T22:01:31.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/tiktok-shop-on-getty.jpg",
+          "summary": "Buying goods from strangers on the internet is a crapshoot, and customers assume more risk as the value of the purchased item goes up. So as TikTok Shop becomes a hub for luxury goods, buyers are looking for an additional layer of trust -- and they're finding it on TikTok LIVE. Countless sellers employ TikTok's live streaming format to show off their wares, and those broadcasts have become especially important within the realm of luxury goods. At the inaugural Luxury Resale Summit in New York Ci",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "TikTok Shop",
+            "luxury goods"
+          ],
+          "isForeign": true,
+          "titleKo": "TikTok Shop의 명품 반짝반짝 빛나는 이벤트가 실시간 스트리밍을 통해 진행되고 있습니다.",
+          "summaryKo": "인터넷에서 낯선 사람으로부터 상품을 구매하는 것은 크랩슈팅이며, 구매한 상품의 가치가 올라감에 따라 고객은 더 많은 위험을 감수해야 합니다. 따라서 TikTok Shop이 명품의 허브가 되면서 구매자는 추가적인 신뢰를 찾고 있으며 TikTok LIVE에서 이를 찾고 있습니다. 수많은 판매자가 TikTok의 라이브 스트리밍 형식을 사용하여 상품을 자랑하고 있으며, 이러한 방송은 명품 영역에서 특히 중요해졌습니다. 첫 Luxury Resale S에서"
+        },
+        {
+          "title": "Amazon wants Prime Video users to get their news from TikTok-style clips",
+          "link": "https://www.tubefilter.com/2026/09/16/amazon-prime-video-short-form-news-clips/",
+          "pubDate": "2026-09-16T20:47:06.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/amazon-prime-video-news.jpg",
+          "summary": "Amazon is about to find out whether TikTok users will bring common behaviors to Prime Video. The entertainment hub is now hosting short-form news clips that digest top headlines into bite-sized videos. Prime Video's short-form news content is collected in \"curated playlists\" that cover national and local stories. Users can find those selections by looking in the Trending Topics or Local News carousels on the Prime Video app. Amazon's announcement indicates that the playlists will be populated wi",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "News-Current Events",
+            "Amazon"
+          ],
+          "isForeign": true,
+          "titleKo": "Amazon은 Prime Video 사용자가 TikTok 스타일 클립에서 뉴스를 받기를 원합니다",
+          "summaryKo": "Amazon은 TikTok 사용자가 Prime Video에 일반적인 동작을 가져올지 여부를 알아내려고 합니다. 엔터테인먼트 허브에서는 이제 주요 헤드라인을 한입 크기의 동영상으로 소화하는 짧은 뉴스 클립을 호스팅하고 있습니다. 프라임 비디오의 단편 뉴스 콘텐츠는 국가 및 지역 이야기를 다루는 \"선별된 재생 목록\" 에 수집됩니다. 사용자는 Prime Video 앱의 Trending Topics 또는 Local News 캐러셀에서 해당 항목을 찾을 수 있습니다. 아마존의 발표에 따르면 재생 목록은"
+        },
         {
           "title": "Top 5 Branded Videos of the Week: Goth, jock, nerd",
           "link": "https://www.tubefilter.com/2026/09/15/top-5-branded-videos-mrbeast-dude-perfect-jesse-moncur/",
@@ -501,44 +536,9 @@
           "isForeign": true,
           "titleKo": "스트림에 대한 확신이 없으신가요? Twitch의 AI 어시스턴트가 코칭해 드립니다.",
           "summaryKo": "새로운 가상 코치가 Twitch에서 속담의 사이드라인을 돌아다니고 있습니다. 아마존 소유의 허브는 생성된 AI를 활용하여 라이브 방송사를 위한 맞춤형 조언을 제공하는 가상 어시스턴트인 Stream Coach를 구축했습니다. Stream Coach에 액세스할 수 있는 사용자는 실시간 Twitch 세션을 종료할 때마다 피드백을 받게 됩니다. 분석 정보는 플랫폼의 크리에이터 대시보드를 통해 제공됩니다. Stream Coach 이메일에는 봇의 제안 사항도 요약되어 있습니다. \"Stream Coach는"
-        },
-        {
-          "title": "What’s next for ‘Taskmaster’ after getting big on YouTube? A charity stream with creators.",
-          "link": "https://www.tubefilter.com/2026/09/15/taskmaster-charity-fundraising-stream-twitch-creators/",
-          "pubDate": "2026-09-15T20:29:27.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/taskmaster-matpat.jpg",
-          "summary": "Before Taskmaster episodes arrived on YouTube, few Americans were familiar with the British panel show. After producer Avalon started sharing entire Taskmaster seasons online for free, the show's popularity exploded. Now, Taskmaster is capitalizing on the success of its internet-age distribution strategy. To raise money for the Great Ormond Street Hospital (GOSH), the stars of Taskmaster took to Twitch, where they invited some well-known creators to play a special version of their game. In place",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "charity",
-            "matpat"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube에서 크게 성장한 후 ‘Taskmaster’ 의 다음 단계는 무엇인가요? 크리에이터와 함께하는 자선 스트림.",
-          "summaryKo": "Taskmaster 에피소드가 YouTube에 도착하기 전에 영국 패널 쇼에 익숙한 미국인은 거의 없었습니다. 프로듀서 Avalon이 전체 Taskmaster 시즌을 온라인으로 무료로 공유하기 시작한 후, 쇼의 인기가 폭발적으로 증가했습니다. 이제 Taskmaster는 인터넷 시대 유통 전략의 성공을 활용하고 있습니다. 그레이트 오몬드 스트리트 병원 (Great Ormond Street Hospital, GOSH) 을 위한 기금을 마련하기 위해 Taskmaster의 스타들은 트위치 (Twitch) 로 가서 유명 크리에이터들을 특별 버전으로 초대했습니다."
-        },
-        {
-          "title": "YouTube, Netflix, and Amazon team up to charm Capitol Hill over sports rights",
-          "link": "https://www.tubefilter.com/2026/09/14/youtube-netflix-amazon-saca-sports-rights-lobbying/",
-          "pubDate": "2026-09-15T01:54:59.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2293495251.jpg",
-          "summary": "Brace yourself: YouTube and Netflix are working together. Mom and Dad have temporarily set aside their content creator custody battle to unite as founding members of Streaming Access and Choice Alliance (SACA). They’re joined by fellow streamer/tech giant Amazon as well as TechNet, which describes itself as a “national, bipartisan network of tech CEOs & […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "Amazon",
-            "netflix",
-            "SACA",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "유튜브, 넷플릭스, 아마존이 스포츠 권리를 놓고 국회의사당을 매료시킨다.",
-          "summaryKo": "YouTube와 Netflix는 서로 협력하고 있습니다. 엄마와 아빠는 Streaming Access and Choice Alliance (SACA) 의 창립 멤버로 통합하기 위해 콘텐츠 제작자 양육권 전쟁을 일시적으로 제쳐두었습니다. 그들은 동료 스트리머/기술 거물 아마존과 TechNet에 합류했습니다. TechNet은 자신을 \"기술 CEO의 국가적 초당적 네트워크\" 라고 설명합니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:03.423Z",
+      "fetchedAt": "2026-09-16T22:09:51.197Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:03.664Z",
+      "fetchedAt": "2026-09-16T22:09:51.391Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:03.747Z",
+      "fetchedAt": "2026-09-16T22:09:51.465Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +792,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:07.898Z",
+      "fetchedAt": "2026-09-16T22:10:06.479Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:08.218Z",
+      "fetchedAt": "2026-09-16T22:10:06.723Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -891,6 +891,38 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Noise wants to help everyday people  become paid content creators",
+          "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+          "pubDate": "2026-09-16T21:35:00.000Z",
+          "image": null,
+          "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+          "keywords": [
+            "Media & Entertainment",
+            "Social",
+            "Startups",
+            "influencers"
+          ],
+          "isForeign": true,
+          "titleKo": "NOISE는 일상적인 사람들이 유료 콘텐츠 크리에이터가 될 수 있도록 돕고자 합니다.",
+          "summaryKo": "마케팅 플랫폼 Noise는 스마트폰을 사용하는 사람이 콘텐츠를 통해 수익을 창출할 수 있도록 돕는 임무를 수행하고 있습니다."
+        },
+        {
+          "title": "Pulley, a Carta rival, is shutting down",
+          "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+          "pubDate": "2026-09-16T21:23:19.000Z",
+          "image": null,
+          "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+          "keywords": [
+            "Startups",
+            "Carta",
+            "In Brief",
+            "Pulley"
+          ],
+          "isForeign": true,
+          "titleKo": "카르타의 라이벌인 풀리가 문을 닫습니다.",
+          "summaryKo": "General Catalyst, Stripe 및 Founders Fund의 지원을 받는 CAP 테이블 관리 플랫폼 Pulley는 12월에 매장을 폐쇄한다고 발표했습니다."
+        },
         {
           "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
@@ -943,44 +975,9 @@
           "isForeign": true,
           "titleKo": "Thrive, Founders Fund 및 Antonio Gracias가 보청기에 베팅하는 이유",
           "summaryKo": "“왜 조부모님께 보청기를 착용해 달라고 간청해야 하는데, 아무도 저에게 안경을 착용해 달라고 요청하지 않았나요?” 매튜 드 종 (Matthew de Jonge) 이 최근 파운더스 펀드 (Founders Fund), 스라이브 캐피털 (Thrive Capital), 밸러 에퀴티 (Valor Equity) 등에서 $ 1억 6천 3백만 달러를 모금한 인공지능 보청기 스타트업 포르텔 (Fortell) 을 6년 동안 건설하게 된 계기가 된 질문입니다. [...]"
-        },
-        {
-          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-16T15:00:00.000Z",
-          "image": null,
-          "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-          "keywords": [
-            "Startups",
-            "AI",
-            "Robotics",
-            "nvidia",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "로봇이 채팅을 기다리고 있습니다. GPT 순간: 엔비디아의 Les Karpas가 TechCrunch Disrupt 2026에서 그 이유를 설명합니다.",
-          "summaryKo": "로봇 산업은 여전히 일상 생활로의 돌파구를 기다리고 있습니다. 엔비디아의 Les Karpas는 TechCrunch Disrupt 2026에서 그 이유를 설명합니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
-        },
-        {
-          "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-          "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-          "pubDate": "2026-09-16T14:15:00.000Z",
-          "image": null,
-          "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
-          "keywords": [
-            "Startups",
-            "Climate",
-            "Fintech",
-            "Biotech & Health",
-            "Venture",
-            "AI"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC 공개",
-          "summaryKo": "TechCrunch Disrupt 2026에서 Startup Battlefield 200 경쟁자를 심사하는 다음 5명의 최상위 투자자를 만나보세요. 9월 25일 전에 등록하여 최대 $ 200를 절약하고 최고의 스타트업 피치 경쟁의 순간을 놓치지 마세요."
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:10.038Z",
+      "fetchedAt": "2026-09-16T22:10:09.950Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:12.483Z",
+      "fetchedAt": "2026-09-16T22:10:18.468Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1139,11 +1136,11 @@
           "summaryKo": null
         },
         {
-          "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - ccmessage.kr",
+          "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - 충청메시지",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVG5hbG1nSS1kaEROd2c1bVp0ZGFXMGptWE83SmsxbXAzOTl4b1BGNkNmTldkVy1JTzJLMXd5RU9qemZlNGtvOFkwbkk1NXJiM2hxMUFmalhfeHUxdi1RNEg3LUVmcEFlcFZz?oc=5",
           "pubDate": "2026-09-16T12:03:33.000Z",
           "image": null,
-          "summary": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 ccmessage.kr",
+          "summary": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 충청메시지",
           "keywords": [
             "충남청년센터",
             "청년도전지원사업",
@@ -1156,97 +1153,97 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 승인 컨설팅 받을 기업 모집 - 플래텀(Platum)",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQU5CVW83RFRJTl9qQkpJcXpiVTNmSTBRVzFGYmVPWFBBNDJiOWp6ak9CYm5OdTdrOGR5Sm5DTzU2TzZ1TGpwOQ?oc=5",
-          "pubDate": "2026-09-16T05:13:16.000Z",
+          "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
+          "pubDate": "2026-09-14T03:01:16.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 승인 컨설팅 받을 기업 모집 플래텀(Platum)",
+          "summary": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 전자신문",
           "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "승인",
-            "컨설팅",
-            "받을"
+            "전북정보보호지원센터",
+            "중소기업",
+            "정보보호",
+            "지원사업",
+            "수요기업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T20:11:12.970Z",
+      "fetchedAt": "2026-09-16T22:10:18.948Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "모델",
+      "label": "모델",
+      "count": 3,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
-    },
-    {
-      "key": "사업재편",
-      "label": "사업재편",
-      "count": 3,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "서울테크노파크",
-      "label": "서울테크노파크",
-      "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "down"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "모델",
-      "label": "모델",
-      "count": 2,
       "rank": 9,
-      "change": "same"
+      "change": "down"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
+      "key": "사업재편",
+      "label": "사업재편",
       "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1267,68 +1264,68 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "homepage feature",
-      "label": "Homepage Feature",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "홈페이지 기능"
-    },
-    {
-      "key": "startups",
-      "label": "Startups",
-      "count": 5,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
       "key": "articles",
       "label": "Articles",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 4,
-      "rank": 6,
-      "change": "same",
+      "count": 5,
+      "rank": 4,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "homepage feature",
+      "label": "Homepage Feature",
+      "count": 5,
+      "rank": 5,
+      "change": "down",
+      "labelKo": "홈페이지 기능"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 5,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "뉴스"
+    },
+    {
+      "key": "startups",
+      "label": "Startups",
+      "count": 5,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 4,
       "rank": 8,
-      "change": "same",
-      "labelKo": "뉴스"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "ai wearables",
       "label": "AI wearables",
       "count": 2,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "AI 웨어러블"
+    },
+    {
+      "key": "banking and consumer regulatory policy",
+      "label": "Banking and Consumer Regulatory Policy",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
 }
