@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T16:11:40.297Z",
+  "collectedAt": "2026-09-16T18:12:43.457Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "[속보] 3년만에 금리 올린 연준…연내 추가 인상 예고",
+          "link": "https://www.mk.co.kr/news/economy/12154882",
+          "pubDate": "2026-09-16T18:09:36.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.4767b7600b994197adff8ba30fcbd8e6_R.jpg",
+          "summary": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 12명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“순자산 4.1억 있나요? ‘찐 중산층’ 입니다”…10명 중 7명은 내 집 산다",
           "link": "https://www.mk.co.kr/news/economy/12154696",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "장관님 혹시 뉴스 안보시나요?…국채금리 발작중인데 “최고의 성과”",
-          "link": "https://www.mk.co.kr/news/economy/12154615",
-          "pubDate": "2026-09-16T09:21:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260902.3a5b8c024d22427bb9923c26fb3c72b5_R.png",
-          "summary": "10년물 금리 이틀째 5% 넘어 정부개입·바이백 효과 안통해 추가 긴축정책 내놓을지 주목이란 전쟁발 유가 급등과 미국 연방준비제도(Fed· 연준)의 금리 인상 전망에 미 국채시장이..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:27.643Z",
+      "fetchedAt": "2026-09-16T18:12:17.480Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,32 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+          "pubDate": "2026-09-16T18:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve issues FOMC statement",
+          "keywords": [
+            "Monetary Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "연방 준비 제도 이사회 문제 FOMC 성명서",
+          "summaryKo": "연방 준비 제도 이사회 문제 FOMC 성명서"
+        },
+        {
+          "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+          "pubDate": "2026-09-16T18:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+          "keywords": [
+            "Monetary Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
+        },
         {
           "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
@@ -152,35 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp.",
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
-        },
-        {
-          "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-          "pubDate": "2026-08-27T15:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-          "keywords": [
-            "Enforcement Actions"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 푸에르토리코 방코 포퓰러 (Banco Popular de Puerto Rico) 의 전 직원에게 집행 조치를 내립니다.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 푸에르토리코 방코 포퓰러 (Banco Popular de Puerto Rico) 의 전 직원"
-        },
-        {
-          "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-          "pubDate": "2026-08-25T18:00:00.000Z",
-          "image": null,
-          "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-          "keywords": [
-            "Monetary Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록",
-          "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:27.730Z",
+      "fetchedAt": "2026-09-16T18:12:20.757Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+          "pubDate": "2026-09-16T18:25:00.000Z",
+          "image": null,
+          "summary": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의 종합·분류·회귀 엘로(Elo) 평가에서 1위를 차지했다고 16일 밝혔다.코실로는 51개 데이터셋을 대상으로 진행한 종합 성적을 포함해 범주를 구분하는 분류와 숫자를 예측하는 회귀 평가에서 구글 리서치 '탭FM(TabFM)', 아마존 '미트라-v2(Mitra-v2)', 샤오미 '탭LDM(Xiaomi-TabLDM)' 등 빅테크 모델을 제치고 1위를 기록했다.이는 탭아레나 운영진",
+          "keywords": [
+            "넘즈AI",
+            "정형",
+            "데이터",
+            "모델",
+            "코실로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "\"클로드 코드에 타사 모델 연결했더니 계정 정지\"...앤트로픽 \"차단 안 한다\" 해명",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215343",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "구글, '제미나이 노트북'에 맞춤형 학습 기능 추가...\"듣고 말하며 공부한다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215347",
-          "pubDate": "2026-09-16T17:30:31.000Z",
-          "image": null,
-          "summary": "구글이 AI를 활용한 학습 경험을 강화한다. 단순히 학습 자료를 요약하는 수준을 넘어 사용자가 AI와 직접 음성으로 대화하고, 자신의 학습 수준에 맞춰 퀴즈와 영상까지 활용할 수 있도록 ‘제미나이 노트북(Gemini Notebook)’의 기능을 대폭 확장했다. 구글은 15일(현지시간) AI 학습 도구 제미나이 노트북에 실시간 음성 대화와 맞춤형 학습 기능을 추가했다. 사용자가 보유한 학습 자료를 기반으로 AI와 대화하면서 복잡한 주제를 단계적으로 이해하고, 퀴즈와 영상 등을 활용해 학습할 수 있도록 기능을 확장했다.이번 업데이트의",
-          "keywords": [
-            "구글",
-            "제미나이",
-            "노트북",
-            "맞춤형",
-            "학습"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:28.950Z",
+      "fetchedAt": "2026-09-16T18:12:22.204Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -292,8 +292,8 @@
             "Global Affairs"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "고령자가 일상 생활에서 AI를 사용할 수 있도록 지원",
+          "summaryKo": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시에서 1,000명의 고령자를 대상으로 무료 실습 ChatGPT 워크숍을 개최합니다."
         },
         {
           "title": "Reimagining advertising with AI",
@@ -307,6 +307,19 @@
           "isForeign": true,
           "titleKo": "AI로 광고 재창조하기",
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
+        },
+        {
+          "title": "How workers are unlocking new ways of working",
+          "link": "https://openai.com/index/unlocking-new-ways-of-working",
+          "pubDate": "2026-09-16T09:00:00.000Z",
+          "image": null,
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "keywords": [
+            "Global Affairs"
+          ],
+          "isForeign": true,
+          "titleKo": "근로자가 새로운 업무 방식을 여는 방법",
+          "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         },
         {
           "title": "How Fyxer built an AI executive assistant people trust",
@@ -337,22 +350,9 @@
           "isForeign": true,
           "titleKo": "Perplexity는 엔드 투 엔드 시스템을 갖춘 GPT-6 Astra를 신뢰합니다",
           "summaryKo": "Perplexity는 Astra를 사용하여 통신을 작성하고, 소프트웨어를 변경하고, 생산 시스템을 모니터링하고, 이전 모델보다 훨씬 적은 빈도로 체크인합니다."
-        },
-        {
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "pubDate": "2026-09-11T10:00:00.000Z",
-          "image": null,
-          "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-          "keywords": [
-            "Engineering"
-          ],
-          "isForeign": true,
-          "titleKo": "온라인 스토리지를 신속하게 확장하여 10억 명 이상의 ChatGPT 사용자에게 서비스를 제공합니다.",
-          "summaryKo": "OpenAI가 어떻게 해비텟을 파이썬 라이브러리에서 10억 명의 ChatGPT 사용자와 초당 2200만 건의 요청을 처리하는 전 세계적으로 분산된 스토리지 플랫폼으로 진화시켰는지 알아보십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:30.127Z",
+      "fetchedAt": "2026-09-16T18:12:25.113Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "해커들이 Flock 카메라 내부에 접근, 데이터로 드러난 시스템 작동 방식",
-          "link": "https://news.hada.io/topic?id=33791",
-          "pubDate": "2026-09-16T15:35:44.000Z",
+          "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
+          "link": "https://news.hada.io/topic?id=33799",
+          "pubDate": "2026-09-16T17:56:37.000Z",
           "image": null,
-          "summary": "해커 집단이 Flock 카메라 한 대를 철거한 뒤 내부 데이터를 추출함 확보한 파일에는 수천 개의 동영상이 포함돼 있음 장치의 이미지 촬영 기록을 담은 로그도 함께 추출함 로그에 따르면 이 카메라는 21일 동안 이미지...",
+          "summary": "Hugging Face CEO Clément Delangue가 OpenAI 모델의 침입 사건에 대해 실행 추적 공개와 사이버 방어 구축용 1억 달러 상당의 컴퓨팅 자원을 요구함. 현금 배상이나 소송은 아님 OpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 더 강...",
           "keywords": [
-            "해커들이",
-            "Flock",
-            "카메라",
-            "내부에",
-            "접근"
+            "Hugging",
+            "Face",
+            "자사",
+            "해킹한",
+            "OpenAI에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Salesforce 전 세계 서비스 장애",
-          "link": "https://news.hada.io/topic?id=33790",
-          "pubDate": "2026-09-16T15:32:44.000Z",
+          "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
+          "link": "https://news.hada.io/topic?id=33798",
+          "pubDate": "2026-09-16T17:53:37.000Z",
           "image": null,
-          "summary": "Salesforce 전 세계 서비스 장애",
+          "summary": "Mozilla, Lincoln Loop와 함께 재구축한 Firefox.com은 현대적인 디자인을 특수 문법이나 전처리기에 의존하지 않는 네이티브 CSS로 구현함 Custom Properties, Grid, Flexbox의 발전과 브라우저 구현의 일관성 덕분에 과거의 우회 기법 없이 디자인을 충실하게 구...",
           "keywords": [
-            "Salesforce",
-            "세계",
-            "서비스",
-            "장애"
+            "CSS",
+            "Zen",
+            "Garden의",
+            "마침내",
+            "실제로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
-          "link": "https://news.hada.io/topic?id=33789",
-          "pubDate": "2026-09-16T14:41:25.000Z",
+          "title": "25년간의 대규모 감시, 이제 충분하다",
+          "link": "https://news.hada.io/topic?id=33797",
+          "pubDate": "2026-09-16T17:50:37.000Z",
           "image": null,
-          "summary": "zSST는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
+          "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
           "keywords": [
-            "FPGA로",
-            "Voodoo",
-            "Graphics와",
-            "1990년대",
-            "후반"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
-          "link": "https://news.hada.io/topic?id=33788",
-          "pubDate": "2026-09-16T14:38:51.000Z",
-          "image": null,
-          "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환을 목표로 한영 키 유틸 gksdud을 만들어봤습",
-          "keywords": [
-            "Show",
-            "GN:",
-            "gksdud",
-            "씹힘",
-            "없고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
-          "link": "https://news.hada.io/topic?id=33787",
-          "pubDate": "2026-09-16T14:38:25.000Z",
-          "image": null,
-          "summary": "Google Play 앱 심사에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
-          "keywords": [
-            "Google",
-            "Play",
-            "심사",
+            "25년간의",
+            "대규모",
+            "감시",
             "이제",
-            "일주일을"
+            "충분하다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "2026년의 추론 하드웨어 혁명",
+          "link": "https://news.hada.io/topic?id=33796",
+          "pubDate": "2026-09-16T17:47:37.000Z",
+          "image": null,
+          "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
+          "keywords": [
+            "2026년의",
+            "추론",
+            "하드웨어",
+            "혁명"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "초기 Sony PlayStation 2 보안 칩, 26년 만에 ‘완전히 뚫렸다’",
+          "link": "https://news.hada.io/topic?id=33795",
+          "pubDate": "2026-09-16T16:54:02.000Z",
+          "image": null,
+          "summary": "레트로 하드웨어 개발자 DiscoStarslayer가 4년간의 작업 끝에 초기 PS2 Fat의 CXP102064 MechaCon 칩을 역공학하고 데이터를 추출하는 데 성공함 MechaCon은 드라이브 제어뿐 아니라 광디스크 보안, Magic Gate 메모리 카드와 KELF 실행 파일 복...",
+          "keywords": [
+            "초기",
+            "Sony",
+            "PlayStation",
+            "보안",
+            "26년"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:31.025Z",
+      "fetchedAt": "2026-09-16T18:12:25.945Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -542,7 +542,7 @@
           "summaryKo": "YouTube와 Netflix는 서로 협력하고 있습니다. 엄마와 아빠는 Streaming Access and Choice Alliance (SACA) 의 창립 멤버로 통합하기 위해 콘텐츠 제작자 양육권 전쟁을 일시적으로 제쳐두었습니다. 그들은 동료 스트리머/기술 거물 아마존과 TechNet에 합류했습니다. TechNet은 자신을 \"기술 CEO의 국가적 초당적 네트워크\" 라고 설명합니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:31.185Z",
+      "fetchedAt": "2026-09-16T18:12:26.214Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -616,7 +616,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:31.315Z",
+      "fetchedAt": "2026-09-16T18:12:26.402Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -697,7 +697,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:31.367Z",
+      "fetchedAt": "2026-09-16T18:12:26.457Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -796,7 +796,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:34.966Z",
+      "fetchedAt": "2026-09-16T18:12:29.893Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -887,7 +887,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:35.223Z",
+      "fetchedAt": "2026-09-16T18:12:30.174Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -895,6 +895,41 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-16T16:00:00.000Z",
+          "image": null,
+          "summary": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+          "keywords": [
+            "Startups",
+            "Biotech & Health",
+            "TechCrunch Disrupt",
+            "Neuralink",
+            "Science Corporation"
+          ],
+          "isForeign": true,
+          "titleKo": "뉴럴링크의 공동 창업자 맥스 호닥 (Max Hodak) 이 TechCrunch Disrupt 2026에서 스크린 시대가 끝나고 있다고 말하는 이유를 들어보세요.",
+          "summaryKo": "올해 Disrupt에서 Neuralink의 공동 설립자 Max Hodak은 의료 지원까지 제공할 수 있는 화면 없는 인터페이스에 대한 비전을 제시할 것입니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
+        },
+        {
+          "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+          "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+          "pubDate": "2026-09-16T16:00:00.000Z",
+          "image": null,
+          "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
+          "keywords": [
+            "Gadgets",
+            "Startups",
+            "AI wearables",
+            "Founders Fund",
+            "hearing aids",
+            "Thrive Capital"
+          ],
+          "isForeign": true,
+          "titleKo": "Fortell이 AI (및 $ 163M) 를 사용하여 보청기 독점을 해독하는 방법",
+          "summaryKo": "“왜 조부모님께 보청기를 착용해 달라고 간청해야 하는데, 아무도 저에게 안경을 착용해 달라고 요청하지 않았나요?” 매튜 드 종 (Matthew de Jonge) 이 최근 파운더스 펀드 (Founders Fund), 스라이브 캐피털 (Thrive Capital), 밸러 에퀴티 (Valor Equity) 등에서 $ 1억 6천 3백만 달러를 모금한 인공지능 보청기 스타트업 포르텔 (Fortell) 을 6년 동안 건설하게 된 계기가 된 질문입니다. [...]"
+        },
         {
           "title": "Why Thrive, Founders Fund, and Antonio Gracias are betting on hearing aids",
           "link": "https://techcrunch.com/podcast/why-thrive-founders-fund-and-antonio-gracias-are-betting-on-hearing-aids/",
@@ -910,8 +945,8 @@
             "Thrive Capital"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "Thrive, Founders Fund 및 Antonio Gracias가 보청기에 베팅하는 이유",
+          "summaryKo": "“왜 조부모님께 보청기를 착용해 달라고 간청해야 하는데, 아무도 저에게 안경을 착용해 달라고 요청하지 않았나요?” 매튜 드 종 (Matthew de Jonge) 이 최근 파운더스 펀드 (Founders Fund), 스라이브 캐피털 (Thrive Capital), 밸러 에퀴티 (Valor Equity) 등에서 $ 1억 6천 3백만 달러를 모금한 인공지능 보청기 스타트업 포르텔 (Fortell) 을 6년 동안 건설하게 된 계기가 된 질문입니다. [...]"
         },
         {
           "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -927,8 +962,8 @@
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
+          "titleKo": "로봇이 채팅을 기다리고 있습니다. GPT 순간: 엔비디아의 Les Karpas가 TechCrunch Disrupt 2026에서 그 이유를 설명합니다.",
+          "summaryKo": "로봇 산업은 여전히 일상 생활로의 돌파구를 기다리고 있습니다. 엔비디아의 Les Karpas는 TechCrunch Disrupt 2026에서 그 이유를 설명합니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
         },
         {
           "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
@@ -945,47 +980,11 @@
             "AI"
           ],
           "isForeign": true,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-16T14:00:00.000Z",
-          "image": null,
-          "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-          "keywords": [
-            "Startups",
-            "Fintech",
-            "Biotech & Health",
-            "Venture",
-            "AI",
-            "Fundraising"
-          ],
-          "isForeign": true,
-          "titleKo": "전시회 3일 남음: TechCrunch Disrupt 2026에서 브랜드를 VC와 고부가가치 잠재 고객 앞에 내세우세요.",
-          "summaryKo": "Disrupt에서 전시 테이블을 예약할 수 있는 마지막 날은 9월 18일입니다. 3일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자, 기술 리더에게 스타트업을 소개하세요."
-        },
-        {
-          "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-          "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-          "pubDate": "2026-09-16T13:00:00.000Z",
-          "image": null,
-          "summary": "Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-          "keywords": [
-            "Climate",
-            "Startups",
-            "clean tech",
-            "Exclusive",
-            "nuclear power",
-            "uranium"
-          ],
-          "isForeign": true,
-          "titleKo": "청정 기술 스타트업 플럭스늄 (Fluxnium) 은 5만 년 분량의 핵연료를 활용할 수 있는 방법을 찾았습니다.",
-          "summaryKo": "플럭스늄의 섬유는 수천 세대에 전력을 공급하기에 충분한 핵 연료를 가진 바닷물에서 직접 우라늄을 추출할 수 있습니다."
+          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC 공개",
+          "summaryKo": "TechCrunch Disrupt 2026에서 Startup Battlefield 200 경쟁자를 심사하는 다음 5명의 최상위 투자자를 만나보세요. 9월 25일 전에 등록하여 최대 $ 200를 절약하고 최고의 스타트업 피치 경쟁의 순간을 놓치지 마세요."
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:37.345Z",
+      "fetchedAt": "2026-09-16T18:12:38.947Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1084,7 +1083,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:39.599Z",
+      "fetchedAt": "2026-09-16T18:12:41.900Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1110,11 +1109,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
-          "pubDate": "2026-09-16T01:38:53.000Z",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
+          "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1178,7 +1177,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T16:11:40.288Z",
+      "fetchedAt": "2026-09-16T18:12:42.361Z",
       "error": null
     }
   },
@@ -1237,21 +1236,21 @@
       "label": "글로벌",
       "count": 2,
       "rank": 8,
-      "change": "up"
+      "change": "same"
+    },
+    {
+      "key": "모델",
+      "label": "모델",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 2,
-      "rank": 9,
-      "change": "up"
-    },
-    {
-      "key": "참여기업",
-      "label": "참여기업",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1322,18 +1321,18 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 2,
       "rank": 9,
       "change": "same",
       "labelKo": "AI"
     },
     {
-      "key": "banking and consumer regulatory policy",
-      "label": "Banking and Consumer Regulatory Policy",
+      "key": "ai wearables",
+      "label": "AI wearables",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "은행 및 소비자 규제 정책"
+      "change": "new",
+      "labelKo": "AI 웨어러블"
     }
   ]
 }
