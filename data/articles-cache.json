@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T14:11:45.421Z",
+  "collectedAt": "2026-09-16T16:11:40.297Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:29.315Z",
+      "fetchedAt": "2026-09-16T16:11:27.643Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:29.375Z",
+      "fetchedAt": "2026-09-16T16:11:27.730Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:30.352Z",
+      "fetchedAt": "2026-09-16T16:11:28.950Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Helping older adults use AI in everyday life",
+          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "pubDate": "2026-09-16T16:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "keywords": [
+            "Global Affairs"
+          ],
+          "isForeign": true,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Reimagining advertising with AI",
           "link": "https://openai.com/index/reimagining-advertising-with-ai",
@@ -337,26 +350,9 @@
           "isForeign": true,
           "titleKo": "온라인 스토리지를 신속하게 확장하여 10억 명 이상의 ChatGPT 사용자에게 서비스를 제공합니다.",
           "summaryKo": "OpenAI가 어떻게 해비텟을 파이썬 라이브러리에서 10억 명의 ChatGPT 사용자와 초당 2200만 건의 요청을 처리하는 전 세계적으로 분산된 스토리지 플랫폼으로 진화시켰는지 알아보십시오."
-        },
-        {
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "pubDate": "2026-09-11T16:00:00.000Z",
-          "image": null,
-          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-          "keywords": [
-            "Cognition",
-            "helps",
-            "Devin",
-            "test",
-            "its"
-          ],
-          "isForeign": true,
-          "titleKo": "Cognition은 Devin이 GPT ‑ 6 Astra로 자체 작업을 테스트하는 데 도움이 됩니다",
-          "summaryKo": "GPT ‑ 6 Astra는 엔지니어가 더 적은 코드를 검토하고 더 많은 코드를 제공하도록 돕는 것을 목표로 Devin의 소프트웨어를 테스트하고 작동함을 보여주는 능력을 향상시킵니다."
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:32.715Z",
+      "fetchedAt": "2026-09-16T16:11:30.127Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,91 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "OpenBSD용 GEFS: 극초기 미리보기",
-          "link": "https://news.hada.io/topic?id=33786",
-          "pubDate": "2026-09-16T14:01:56.000Z",
+          "title": "해커들이 Flock 카메라 내부에 접근, 데이터로 드러난 시스템 작동 방식",
+          "link": "https://news.hada.io/topic?id=33791",
+          "pubDate": "2026-09-16T15:35:44.000Z",
           "image": null,
-          "summary": "9front용으로 개발한 GEFS의 OpenBSD 이식판이 실험 가능한 단계에 도달함. 버그가 많은 초기 상태로, 프로덕션 사용은 불가하며 특히 오류 발생 시 데이터 손실이 예상됨 GEFS는 충돌 안전성, 스냅샷, 쓰기 시 복사(CoW) 를 갖춘 파일 시스템이며...",
+          "summary": "해커 집단이 Flock 카메라 한 대를 철거한 뒤 내부 데이터를 추출함 확보한 파일에는 수천 개의 동영상이 포함돼 있음 장치의 이미지 촬영 기록을 담은 로그도 함께 추출함 로그에 따르면 이 카메라는 21일 동안 이미지...",
           "keywords": [
-            "OpenBSD용",
-            "GEFS:",
-            "극초기",
-            "미리보기"
+            "해커들이",
+            "Flock",
+            "카메라",
+            "내부에",
+            "접근"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Mistral x Mozilla: 프라이버시를 지키는 다국어 AI 브라우징",
-          "link": "https://news.hada.io/topic?id=33785",
-          "pubDate": "2026-09-16T13:32:34.000Z",
+          "title": "Salesforce 전 세계 서비스 장애",
+          "link": "https://news.hada.io/topic?id=33790",
+          "pubDate": "2026-09-16T15:32:44.000Z",
           "image": null,
-          "summary": "Mistral과 Mozilla가 협력해 Firefox의 AI 브라우징 도우미 Smart Window 베타에 Mistral 모델을 적용함 Smart Window는 복잡한 검색을 이해하고, 이전에 열었다가 떠난 중요한 내용을 기억하며, 브라우저 탭을 바탕으로 필요한 정보를 찾도록 도움 Mistr...",
+          "summary": "Salesforce 전 세계 서비스 장애",
           "keywords": [
-            "Mistral",
-            "Mozilla:",
-            "프라이버시를",
-            "지키는",
-            "다국어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "EU 집행위원장, 캐나다의 ‘준회원국’ 가입 가능성 열어",
-          "link": "https://news.hada.io/topic?id=33784",
-          "pubDate": "2026-09-16T11:32:29.000Z",
-          "image": null,
-          "summary": "우르줄라 폰데어라이엔 EU 집행위원장이 캐나다를 EU 최초의 ‘준회원국’으로 받아들이는 구상을 지지하며 주요 분야의 관계 강화를 추진하겠다고 밝힘 제조업, 기술, AI, 국방 등을 핵심 협력 분야로 꼽았지만, 캐나다의 회원 지위가 구체적으로 어떻게 작동할지...",
-          "keywords": [
-            "EU",
-            "집행위원장",
-            "캐나다의",
-            "준회원국",
-            "가입"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "WangNet - 1.8 MB, 외부 의존성 없이 11개 언어로 Numberwang 판정",
-          "link": "https://news.hada.io/topic?id=33783",
-          "pubDate": "2026-09-16T10:32:33.000Z",
-          "image": null,
-          "summary": "1.8 MB JSON 모델과 약 100줄의 Python 표준 라이브러리 코드로 숫자가 Numberwang인지 판정하는 소형 신경망임 숫자와 숫자를 나타내는 단어, 산술식, 로마 숫자, 서수 등을 11개 언어로 받아들이며, 같은 숫자는 언어와 관계없이 같은 판정을 받음",
-          "keywords": [
-            "WangNet",
-            "MB",
-            "외부",
-            "의존성",
-            "없이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "세계 채권 금리, 2008년 이후 최고 수준으로 올라 대규모 차입자 부담 확대",
-          "link": "https://news.hada.io/topic?id=33781",
-          "pubDate": "2026-09-16T09:39:16.000Z",
-          "image": null,
-          "summary": "G7 평균 10년물 국채 금리가 4.285% 로 2008년 중반 이후 최고치를 기록함. 미국 10년물도 장중 5%를 넘어서며 정부와 기업의 차입 부담을 높임 이란 전쟁 확대로 유가가 다시 배럴당 100달러를 넘으면서 인플레이션과 기준금리 인상 압력이 커짐. 단기금융시장은 ...",
-          "keywords": [
+            "Salesforce",
             "세계",
-            "채권",
-            "금리",
-            "2008년",
-            "최고"
+            "서비스",
+            "장애"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
+          "link": "https://news.hada.io/topic?id=33789",
+          "pubDate": "2026-09-16T14:41:25.000Z",
+          "image": null,
+          "summary": "zSST는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
+          "keywords": [
+            "FPGA로",
+            "Voodoo",
+            "Graphics와",
+            "1990년대",
+            "후반"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
+          "link": "https://news.hada.io/topic?id=33788",
+          "pubDate": "2026-09-16T14:38:51.000Z",
+          "image": null,
+          "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환을 목표로 한영 키 유틸 gksdud을 만들어봤습",
+          "keywords": [
+            "Show",
+            "GN:",
+            "gksdud",
+            "씹힘",
+            "없고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
+          "link": "https://news.hada.io/topic?id=33787",
+          "pubDate": "2026-09-16T14:38:25.000Z",
+          "image": null,
+          "summary": "Google Play 앱 심사에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
+          "keywords": [
+            "Google",
+            "Play",
+            "심사",
+            "이제",
+            "일주일을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:33.289Z",
+      "fetchedAt": "2026-09-16T16:11:31.025Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -546,7 +542,7 @@
           "summaryKo": "YouTube와 Netflix는 서로 협력하고 있습니다. 엄마와 아빠는 Streaming Access and Choice Alliance (SACA) 의 창립 멤버로 통합하기 위해 콘텐츠 제작자 양육권 전쟁을 일시적으로 제쳐두었습니다. 그들은 동료 스트리머/기술 거물 아마존과 TechNet에 합류했습니다. TechNet은 자신을 \"기술 CEO의 국가적 초당적 네트워크\" 라고 설명합니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:33.409Z",
+      "fetchedAt": "2026-09-16T16:11:31.185Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -620,7 +616,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:33.633Z",
+      "fetchedAt": "2026-09-16T16:11:31.315Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -701,7 +697,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:33.717Z",
+      "fetchedAt": "2026-09-16T16:11:31.367Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -710,97 +706,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "메가존클라우드·데이터독, 은행 장애 90분 안에 잡아라…IT 엔지니어 56명 실전 경쟁",
-          "link": "https://www.venturesquare.net/1114413/",
-          "pubDate": "2026-09-16T14:02:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/mega-789x400.png",
-          "summary": "염동훈 대표가 이끄는 메가존클라우드가 데이터독과 함께 실제 은행 서비스 환경을 본뜬 장애 대응 챌린지 ‘Datadog Game Day’를 개최했다. 금융·통신·게임·커머스 분야 IT 엔지니어 56명이 17개 팀으로 참여해 90분 동안 결제 지연과 에러 폭증, 외부 공격... The post 메가존클라우드·데이터독, 은행 장애 90분 안에 잡아라…IT 엔지니어 56명 실전 경쟁 appeared first on 벤처스퀘어.",
+          "title": "씨위드, 한우 세포배양 단백질 반려동물 사료로…한동과 첫 상용화 추진",
+          "link": "https://www.venturesquare.net/1114464/",
+          "pubDate": "2026-09-16T14:31:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-77-789x478.jpg",
+          "summary": "금준호 대표가 이끄는 씨위드가 동물용의약품 기업 한동과 한우 세포배양 단백질을 활용한 반려동물 사료 상용화에 나선다. 양사는 소고기 알러지로 기존 소고기 사료 섭취가 어려운 반려동물을 겨냥해 알러지 저감형 단백질 소재 개발을 우선 추진한다. 씨위드의 세포배양 기술과 한... The post 씨위드, 한우 세포배양 단백질 반려동물 사료로…한동과 첫 상용화 추진 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Datadog",
-            "DatadogGameDay",
-            "DevOps"
+            "경북세포배양식품규제자유특구",
+            "금준호",
+            "반려동물"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "로버트 월터스 코리아, AI 시대 CEO의 숙제는 통제보다 신뢰…리더십 포럼 개최",
-          "link": "https://www.venturesquare.net/1114386/",
-          "pubDate": "2026-09-16T13:50:31.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image002-7-783x522.jpg",
-          "summary": "로버트 월터스 코리아가 기업 CEO와 임원 약 40명이 참석한 가운데 AI 시대의 법적 리스크와 조직·인재 전략을 다루는 리더십 포럼을 개최했다. 참석자들은 개정 개인정보보호법에 따른 경영진의 책임과 생성형 AI 사용 과정에서 발생할 수 있는 기밀정보 유출, 할루시네이... The post 로버트 월터스 코리아, AI 시대 CEO의 숙제는 통제보다 신뢰…리더십 포럼 개최 appeared first on 벤처스퀘어.",
+          "title": "해시드 김서준, 아부다비를 인도·아프리카 확장 거점으로…ADIF 서울서 전략 공유",
+          "link": "https://www.venturesquare.net/1114461/",
+          "pubDate": "2026-09-16T14:27:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/hassed.png",
+          "summary": "김서준 대표가 이끄는 해시드가 아부다비 투자진흥청이 서울에서 개최하는 ‘아부다비 투자 포럼(ADIF)’에 참여한다. 김 대표는 ‘Deploy Once, Scale Globally’ 대담을 통해 아부다비에서 사업 기반을 마련한 뒤 인도와 아프리카 등 주변 시장으로 확장하... The post 해시드 김서준, 아부다비를 인도·아프리카 확장 거점으로…ADIF 서울서 전략 공유 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI거버넌스",
-            "AI리더십",
-            "AI리터러시"
+            "ADIF",
+            "ADIO",
+            "Ai"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "네이버, AI 위험 110개로 쪼개 관리한다…서비스 전 과정 안전성 체계 공개",
-          "link": "https://www.venturesquare.net/1114383/",
-          "pubDate": "2026-09-16T13:46:49.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789357985165.png",
-          "summary": "최수연 대표가 이끄는 네이버가 자체 AI 안전성 체계 ‘ASF 2.0’의 실제 서비스 적용 사례를 담은 첫 ‘AI Safety Progress Report’를 발간했다. 네이버는 ‘N-ARTI’를 통해 AI 서비스에서 발생 가능한 위험을 110개 세부 항목으로 분류하고... The post 네이버, AI 위험 110개로 쪼개 관리한다…서비스 전 과정 안전성 체계 공개 appeared first on 벤처스퀘어.",
+          "title": "제이앤피메디, 규제·임상·투자 한자리에…라이프사이언스 협업 해법 찾는다",
+          "link": "https://www.venturesquare.net/1114454/",
+          "pubDate": "2026-09-16T14:25:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/jnp-688x522.jpg",
+          "summary": "정권호 대표가 이끄는 제이앤피메디가 오는 11월 6일 규제·기술·개발·투자 전문가가 참여하는 ‘2026 제이앤피메디 커넥트’를 개최한다. 올해 행사는 글로벌 규제 표준과 기술 혁신, 개발 전주기 실행, 라이프사이언스 투자와 성장 전략 등 3개 세션으로 구성된다. FDA... The post 제이앤피메디, 규제·임상·투자 한자리에…라이프사이언스 협업 해법 찾는다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AISafety",
-            "AI가드레일",
-            "AI거버넌스"
+            "AI헬스케어",
+            "CRO",
+            "FDA"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "청연, 60세 이상 4000명 직무교육 나선다…수료 후 취업까지 연결",
-          "link": "https://www.venturesquare.net/1114368/",
-          "pubDate": "2026-09-16T13:39:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cheong-789x466.jpg",
-          "summary": "연현주 대표가 이끄는 청연이 보건복지부 산하 한국노인인력개발원의 ‘민간 취업교육센터 시범사업’ 수행기관으로 선정돼 시니어 직무교육을 운영한다. 연말까지 만 60세 이상 약 4000명을 대상으로 생활청소와 시니어 일상케어 중심의 이론·실무·서비스·안전 교육을 무료로 제공... The post 청연, 60세 이상 4000명 직무교육 나선다…수료 후 취업까지 연결 appeared first on 벤처스퀘어.",
+          "title": "디셈버앤컴퍼니 핀트, 증시 오르면 섹터·내리면 채권…AI가 ETF 비중 바꾼다",
+          "link": "https://www.venturesquare.net/1114445/",
+          "pubDate": "2026-09-16T14:22:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/fint-2-789x475.jpg",
+          "summary": "송인성 대표가 이끄는 디셈버앤컴퍼니가 AI 투자엔진 ‘아이작’을 활용한 핀트의 ‘한국ETF 국면대응’ 자문 솔루션을 출시했다. 아이작이 코스피200과 섹터ETF 데이터를 분석해 상승 국면에서는 섹터ETF, 하락 국면에서는 채권ETF 비중을 확대하는 방식이다. 투자자는 ... The post 디셈버앤컴퍼니 핀트, 증시 오르면 섹터·내리면 채권…AI가 ETF 비중 바꾼다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "노인일자리",
-            "라이프케어",
-            "민간취업교육센터"
+            "AI투자",
+            "ETF",
+            "ISA"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "넷플릭스, 부산서 아시아 창작자 키운다…AI·스토리텔링까지 크리에이티브 아시아 확대",
-          "link": "https://www.venturesquare.net/1114356/",
-          "pubDate": "2026-09-16T13:31:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-18-488x522.jpeg",
-          "summary": "넷플릭스가 부산국제영화제에서 아시아 차세대 창작자를 위한 교육 프로그램 ‘크리에이티브 아시아’를 3년 연속 개최한다. 올해는 부산국제영화제·AFCNet·미국영화협회와 공동 기획해 마스터클래스와 업계 대담, 워크숍 등 역대 최대 규모로 프로그램을 구성했다. 한준희 감독과... The post 넷플릭스, 부산서 아시아 창작자 키운다…AI·스토리텔링까지 크리에이티브 아시아 확대 appeared first on 벤처스퀘어.",
+          "title": "애딧앤아크, 작은 매거진 400명 한자리에…오가닉 뷰로 커지는 마이크로미디어",
+          "link": "https://www.venturesquare.net/1114442/",
+          "pubDate": "2026-09-16T14:19:10.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/edit-418x522.png",
+          "summary": "최형빈 대표가 이끄는 애딧앤아크코퍼레이션이 독립 매거진 운영자와 에디터, 마케터 등 400명 이상이 참여한 두 번째 ‘마이크로진 나이트’를 지원했다. 행사는 소규모 독립 매거진과 마이크로미디어 창작자들이 콘텐츠 기획과 채널 운영 경험을 공유하고 새로운 연결을 만드는 커... The post 애딧앤아크, 작은 매거진 400명 한자리에…오가닉 뷰로 커지는 마이크로미디어 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "BIFF",
-            "CreativeAsia",
-            "Netflix"
+            "독립매거진",
+            "디지털매거진",
+            "마이크로미디어"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:36.442Z",
+      "fetchedAt": "2026-09-16T16:11:34.966Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -891,7 +887,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:36.652Z",
+      "fetchedAt": "2026-09-16T16:11:35.223Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -899,6 +895,59 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Why Thrive, Founders Fund, and Antonio Gracias are betting on hearing aids",
+          "link": "https://techcrunch.com/podcast/why-thrive-founders-fund-and-antonio-gracias-are-betting-on-hearing-aids/",
+          "pubDate": "2026-09-16T15:30:43.000Z",
+          "image": null,
+          "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
+          "keywords": [
+            "Hardware",
+            "Startups",
+            "AI wearables",
+            "Equity podcast",
+            "hearing aids",
+            "Thrive Capital"
+          ],
+          "isForeign": true,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-16T15:00:00.000Z",
+          "image": null,
+          "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+          "keywords": [
+            "Startups",
+            "AI",
+            "Robotics",
+            "nvidia",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+          "pubDate": "2026-09-16T14:15:00.000Z",
+          "image": null,
+          "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+          "keywords": [
+            "Startups",
+            "Climate",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
@@ -934,62 +983,9 @@
           "isForeign": true,
           "titleKo": "청정 기술 스타트업 플럭스늄 (Fluxnium) 은 5만 년 분량의 핵연료를 활용할 수 있는 방법을 찾았습니다.",
           "summaryKo": "플럭스늄의 섬유는 수천 세대에 전력을 공급하기에 충분한 핵 연료를 가진 바닷물에서 직접 우라늄을 추출할 수 있습니다."
-        },
-        {
-          "title": "Former Infosys chief’s AI startup nabs another $53M",
-          "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-          "pubDate": "2026-09-16T13:00:00.000Z",
-          "image": null,
-          "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Exclusive",
-            "Hang Ten Systems",
-            "infosys",
-            "Vishal Sikka"
-          ],
-          "isForeign": true,
-          "titleKo": "전 인포시스 수석의 AI 스타트업이 또 다른 $ 53M를 벌금으로 내다",
-          "summaryKo": "팔로알토 스타트업은 출시 몇 달 만에 여러 건의 7자 엔터프라이즈 계약을 체결했다고 밝혔습니다."
-        },
-        {
-          "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-          "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-          "pubDate": "2026-09-15T17:02:04.000Z",
-          "image": null,
-          "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.",
-          "keywords": [
-            "Biotech & Health",
-            "Fintech",
-            "Startups",
-            "Thatch",
-            "unicorn"
-          ],
-          "isForeign": true,
-          "titleKo": "의료비가 급증함에 따라 의료 보험 플랫폼 대치가 $ 10B 평가액에 도달",
-          "summaryKo": "대치는 회사가 회사 전체의 모든 사람을 하나의 플랜에 등록하는 대신 직원 자신의 개별 보험 플랜에 자금을 지원할 수 있는 모델인 개별 보장 건강 상환 배열을 통해 개별 플랜 시장을 제공함으로써 고용주가 의료 비용을 관리할 수 있도록 돕습니다."
-        },
-        {
-          "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-          "pubDate": "2026-09-15T15:22:48.000Z",
-          "image": null,
-          "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-          "keywords": [
-            "AI",
-            "Commerce",
-            "Fundraising",
-            "Startups",
-            "generative engine optimization",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "AEO 스타트업 Profound가 유니콘 밸류에이션을 달성하고, 마지막 라운드 후 7개월 만에 $ 180M 시리즈 D를 모금합니다.",
-          "summaryKo": "Profound는 18억 달러의 가치로 1억 8천만 달러의 시리즈 D를 모금했으며, 이는 9천 6백만 달러의 시리즈 C를 모금한 지 7개월이 지나지 않은 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:41.868Z",
+      "fetchedAt": "2026-09-16T16:11:37.345Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1088,7 +1084,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:44.101Z",
+      "fetchedAt": "2026-09-16T16:11:39.599Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1182,7 +1178,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T14:11:44.531Z",
+      "fetchedAt": "2026-09-16T16:11:40.288Z",
       "error": null
     }
   },
@@ -1199,28 +1195,28 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "사업재편",
@@ -1237,25 +1233,25 @@
       "change": "same"
     },
     {
-      "key": "ai거버넌스",
-      "label": "AI거버넌스",
-      "count": 2,
-      "rank": 8,
-      "change": "new"
-    },
-    {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "참여기업",
+      "label": "참여기업",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1336,7 +1332,7 @@
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
