@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T04:10:42.716Z",
+  "collectedAt": "2026-09-16T06:13:58.000Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "기획처 예산실장에 김명중…“소탈한 인품으로 후배들에 두터운 신망”",
+          "link": "https://www.mk.co.kr/news/economy/12154270",
+          "pubDate": "2026-09-16T06:02:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.c66f3fbfd9f9416687ae37ee8204df1f_R.png",
+          "summary": "행시 40회… 호남 출신 6년 만에 기용 내년도 820조9000억 예산 통과 과제 162조원 규모 미래대응기금 신설 중책 이재명 정부 출범 초기 요직 두루 거쳐 소탈한 인품으로 후..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "보이스피싱 막은 시민 10명 ‘KB국민 지키미상’",
+          "link": "https://www.mk.co.kr/news/economy/12154260",
+          "pubDate": "2026-09-16T05:54:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.f583f080501e4de2867802f6c4ef11ec_R.jpeg",
+          "summary": "경찰청과 함께 4회 개최 10명에 100만원씩 수여지난15일 KB국민은행이 경찰청과 제4회 ‘KB국민 지키미상’ 시상식을 개최했다고 16일 밝혔다. 서울 여의도 국민은행 신관에서 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "‘연 19% 금리효과’ 청년미래적금, 내달 7일부터 2차 모집",
           "link": "https://www.mk.co.kr/news/economy/12154128",
           "pubDate": "2026-09-16T03:00:00.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "美 국채 5% 시대 열렸다.. 물가 발작에 전 세계 비상",
-          "link": "https://www.mk.co.kr/news/stock/12153917",
-          "pubDate": "2026-09-16T00:24:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-m.v1.20260916.dc0941d02c86412395ba829a5a0b772e_R.jpg",
-          "summary": "오늘 글로벌 자본 시장을 강타한 가장 무서운 숫자는 바로 ‘5%’입니다. 전 세계 모든 대출과 투자의 기준점이 되는 미국 10년물 국채 금리가 5%를 돌파했습니다. 가장 안전해야 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“은행 대출 22% 늘 때 부실은 82% 급증”…은행권 연체 뇌관 터지나",
-          "link": "https://www.mk.co.kr/news/economy/12153868",
-          "pubDate": "2026-09-15T23:48:07.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.5a97c4788a4f47b1a7acf9d788e013aa_R.png",
-          "summary": "은행권 기업대출 2000조원 육박 “지방은행 등 부실 증가 면밀히 살펴야”은행권 기업대출이 2000조원에 육박한 가운데 부실여신 증가세가 심상치 않다. 특히 지방은행을 중심으로 기..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:32.822Z",
+      "fetchedAt": "2026-09-16T06:13:49.306Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:32.904Z",
+      "fetchedAt": "2026-09-16T06:13:49.354Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "\"AI 학습 데이터 무단 도용 멈춰\"...멘탯, 제이펍과 도서 AI 라이선싱 계약",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215335",
-          "pubDate": "2026-09-16T13:07:34.000Z",
+          "title": "버즈니, 비스킷AI에 '클립 만들기' 추가... 숏폼부터 미들폼·카드뉴스 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215345",
+          "pubDate": "2026-09-16T14:35:43.000Z",
           "image": null,
-          "summary": "멘탯(대표 전병욱)은 IT 전문 출판사 제이펍과 AI 라이선싱 계약을 체결했다고 16일 밝혔다.멘탯은 출판사와 AI 기업을 연결해 도서 콘텐츠의 AI 학습·인용을 지원하는 도서 라이선싱 플랫폼이다. 이번 계약으로 정식 라이선스에 따라 제이펍의 IT 전문서 100여종이 AI 학습 및 인용 데이터로 활용된다.대상 도서에는 프로그래밍, 개발자 실무, AI, 데이터 과학, 컴퓨터 활용 등 IT 전문서와 실용·교양서가 포함된다.출판 콘텐츠는 'AI 학습용 데이터셋'과 '참조·인용 API' 방식으로 AI 기업에 제공된다. 출판사는 제공할 도서",
+          "summary": "버즈니가 '비스킷AI' 서비스에 클립, 미들폼, 카드뉴스 제작 기능을 추가하며 AI 콘텐츠 제작 생태계'를 넓혀 나가고 있다.커머스 AI 전문 버즈니(대표 남상협, 김성국)는 AI 숏폼 콘텐츠 제작 서비스 '비스킷AI(VISKIT AI)'에 짧은 영상 클립을 손쉽게 제작할 수 있는 '클립 만들기' 기능을 새롭게 추가했다고 16일 밝혔다.비스킷AI의 대표 기능인 '숏폼 제작하기'가 완성된 숏폼 영상을 만들어주는 자동완성형 도구라면, 이번에 새로 추가된 ‘클립 만들기’는 특정 형식의 짧은 클립이 필요한 경우를 위해 마련됐다. 11가지",
           "keywords": [
+            "버즈니",
+            "비스킷AI에",
+            "클립",
+            "만들기",
+            "추가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "머스크, 테슬라·스페이스X 합병 재차 시사...\"가능성 열려있어\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215339",
+          "pubDate": "2026-09-16T14:29:19.000Z",
+          "image": null,
+          "summary": "일론 머스크 CEO가 테슬라와 스페이스X의 합병 가능성을 다시 한번 시사했다. 두 회사가 다양한 분야에서 협력을 확대하고 있는 만큼, 앞으로 두 기업의 관계가 어떤 형태로 발전할지는 정해지지 않았다는 취지다.디 인포메이션에 따르면, 머스크는 15일(현지시간) 열린 ‘올인 서밋’에 화상으로 참석해 테슬라와 스페이스X가 별도 회사로 존재하는 이유를 묻자 “매우 중요한 질문”이라고 답했다.이어 “많은 분야에서 긴밀한 협력이 이뤄지고 있는 상황에서 어떤 결과가 나올지 누가 알겠느냐”고 말했다.이는 두 회사의 협력이 단순한 기술 제휴를 넘어",
+          "keywords": [
+            "머스크",
+            "테슬라",
+            "스페이스X",
+            "합병",
+            "재차"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "모레, 이기종 AI 가속기 하나처럼 활용하는 ‘토큰 팩토리 OS’ 제시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215341",
+          "pubDate": "2026-09-16T14:23:24.000Z",
+          "image": null,
+          "summary": "모레(대표 조강원)가 토큰 생산 효율을 극대화하는 새로운 인프라 소프트웨어 개념을 제시했다.AI 인프라 전문 모레는 15~17일(현지시간) 미국 산타클라라 컨벤션센터에서 열리는 ‘AI 인프라 서밋 2026’에 참가해 AI 데이터센터의 새로운 운영 패러다임으로 ‘토큰 팩토리(Token Factory)’를 제시하고, 이를 구현하기 위한 ‘토큰 팩토리 OS’와 이기종 가속기 기반 분산 추론 기술을 소개했다.토큰 팩토리 OS는 특정 GPU나 특정 추론 엔진에 종속되지 않고 데이터센터에 존재하는 다양한 가속기를 하나의 자원 풀처럼 활용해 토",
+          "keywords": [
+            "모레",
+            "이기종",
             "AI",
-            "학습",
-            "데이터",
-            "무단",
-            "도용"
+            "가속기",
+            "하나처럼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[기고] 삼성은 왜 공짜로 쓸 수 있는 미스트랄 모델에 돈을 냈나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215321",
-          "pubDate": "2026-09-16T13:06:27.000Z",
+          "title": "네이버, 실제 서비스에 ‘AI 안전성 체계’ 적용...세이프티 리포트 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215340",
+          "pubDate": "2026-09-16T14:21:16.000Z",
           "image": null,
-          "summary": "삼성전자가 최근 프랑스 AI 기업 미스트랄의 시리즈 D 투자를 주도했다고 발표했다.라운드 총액은 30억유로, 투자 후 기업 가치는 210억유로 이상이다. 유럽 기술 기업이 유치한 지분 투자 가운데 역대 최대 규모다.두 회사는 파트너십도 맺었다. 삼성전자 DS부문이 미스트랄의 대표 모델 '미스트랄 라지'를 포함한 제품군을 반도체 사업 전반에 들여와 자사 인프라 경계 안에서 돌아가는 맞춤형 온프레미스 모델을 함께 만든다는 내용이다.삼성은 용처로 결함 검출과 장비 최적화, 수율 안정화를 들었다.직전 라운드도 구조가 비슷했다. 지난해 9월",
+          "summary": "네이버(대표 최수연)가 자체 AI 안전성 체계 ‘ASF 2.0’의 실제 서비스 적용 과정과 구체적 실행 사례를 담은 ‘AI 세이프티 프로그레스 리포트’를 처음 발간했다고 16일 밝혔다.ASF 2.0은 AI 모델의 성능과 위험 수준은 물론, 이용자와 서비스 보호까지 포괄하는 네이버의 AI 안전성 관리 체계다. AI 서비스의 설계·개발부터 출시, 운영에 이르는 전 과정에서 체계적인 안전성 관리를 목표로 한다.이번 리포트에서는 ASF 2.0를 토대로 하는 실행 체계 ‘CHEC 2.0’이 실제 서비스에 어떻게 적용되고 작동하는지 구체적인",
           "keywords": [
-            "기고",
-            "삼성은",
-            "공짜로",
-            "있는",
-            "미스트랄"
+            "네이버",
+            "실제",
+            "서비스에",
+            "AI",
+            "안전성"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "\"AI로 날씨 예측한다\"...엔라이튼, 태양광 발전량 예측 기술 특허 획득",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215333",
-          "pubDate": "2026-09-16T12:56:19.000Z",
+          "title": "알트먼 \"이번 주 대형 제품 출시\"...‘데브데이’까지 연속 배포 예고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215342",
+          "pubDate": "2026-09-16T14:19:24.000Z",
           "image": null,
-          "summary": "엔라이튼(대표 이영호)은 'AI 기반 태양광 발전량 예측 기술'로 특허를 획득했다고 16일 밝혔다.이번에 획득한 특허는 '태양광 발전량을 예측하는 전자 장치 및 방법'이다. 좁은 지역을 정밀 분석하는 '국지예보'와 넓은 지역을 커버하는 '전지구예보'를 결합해 기상 예보의 예측 정밀도를 극대화한 것이 특징이다.특히 AI 기반 '크로스 어텐션' 기법을 적용해 각 예보의 데이터를 선별적으로 추출·융합해 단일 예보 대비 예측 정확도를 높였으며, 5% 내외의 오차율로 안정적인 예측이 가능하다는 설명이다.예측 오차가 클수록 정산금 손실과 계통",
+          "summary": "샘 알트먼 오픈AI CEO가 이번 주 대형 제품 출시와 함께 다가오는 개발자 컨퍼런스에서의 연쇄 발표를 예고하며 업계의 이목을 집중시키고 있다.알트먼 CEO는 15일(현지시간) X를 통해 \"이번 주에 큰 배포가 예정돼 있으며, 데브데이에는 더 거대한 배포가 이어질 것\"이라는 글을 게재했다. 게시글에는 출시(ship)를 의미하는 배 이모지가 이번 주 용으로 1개, 데브데이 용으로 6개가 함께 첨부돼 대규모 기술 공개가 잇따를 것임을 암시했다.이번 발표는 29일 미국 샌프란시스코 포트 메이슨에서 개최되는 '데브데이 2026'을 2주 앞",
           "keywords": [
-            "AI로",
-            "날씨",
-            "예측한다",
-            "엔라이튼",
-            "태양광"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "구글 딥마인드 연구원도 사직 후 'AI 위험' 경고...\"시간 얼마 안 남아\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215325",
-          "pubDate": "2026-09-16T12:38:13.000Z",
-          "image": null,
-          "summary": "구글 딥마인드에서 AI 안전 및 정렬 연구를 담당했던 빌랄 추그타이 연구원이 사임한 뒤 AI 기술의 잠재적 위험에 대해 강한 우려를 제기했다. 최근 주요 AI 기업의 연구원들이 잇달아 AI 개발 속도와 안전 문제를 경고하며 회사를 떠나는 추세다.추그타이 연구원은 15일(현지시간) X와 링크드인에 올린 글에서 최근 구글 딥마인드를 떠났으며, 재직 당시 AI 개발 과정을 직접 지켜본 결과 “이 기술의 기본적인 방향성에 대해 극도로 우려하고 있다”고 밝혔다.이어 “AI가 우리 모두를 파멸로 이끌 잠재력이 있다고 진심으로 믿으며, 이를 피",
-          "keywords": [
-            "구글",
-            "딥마인드",
-            "연구원도",
-            "사직",
-            "AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"새로운 문서 양식도 OK\"...한국딥러닝, 문서 AI 솔루션 '딥에이전트' 리뉴얼",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215330",
-          "pubDate": "2026-09-16T12:29:09.000Z",
-          "image": null,
-          "summary": "한국딥러닝(대표 김지현)은 자체 문서 AI 솔루션 '딥에이전트'를 리뉴얼했다고 16일 밝혔다.이번 리뉴얼로 문서 AI 운영 기능인 '딥옵스'를 결합해 문서 양식의 제한을 없애고, 문서 입력 단계의 자동화 범위를 확대했다.딥에이전트는 문서 분류·정보 추출·검수를 담당하며, 딥옵스는 신규 문서 추가, 추출 조건 변경, 품질 평가, 버전 관리 등 운영 영역을 지원하는 방식이다.이를 통해 새로운 양식이 추가되거나 업무 기준이 변경되더라도 고객사가 설정을 변경해 직접 확장할 수 있으며, 새 양식을 반영할 때마다 별도의 개발·검증·배포에 소요",
-          "keywords": [
-            "새로운",
-            "문서",
-            "양식도",
-            "OK",
-            "한국딥러닝"
+            "알트먼",
+            "대형",
+            "제품",
+            "출시",
+            "데브데이"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:34.341Z",
+      "fetchedAt": "2026-09-16T06:13:50.742Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:34.487Z",
+      "fetchedAt": "2026-09-16T06:13:50.891Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,74 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Show GN: 오데덕 - API 신청까지 대신하며 공공데이터를 파고드는 AI 도구",
+          "link": "https://news.hada.io/topic?id=33770",
+          "pubDate": "2026-09-16T05:14:25.000Z",
+          "image": null,
+          "summary": "공공데이터를 찾아 활용신청부터 실제 조회까지 이어가는 오픈소스, 오데덕(odeduck)을 만들었습니다. 공공데이터는 공개되어 있어도 쓰기까지 할 일이 많습니다. 자료를 찾고, 명세를 읽고, 신청하고, 인증키를 받아 호출해야 합니다. 이 과정을 AI 에이전트가 맡도록 만들었습니다. 목표 하나로 찾아",
+          "keywords": [
+            "Show",
+            "GN:",
+            "오데덕",
+            "API",
+            "신청까지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: RiftWake - 설치 없이 브라우저에서 즐기는 3D 뱀서류 생존 게임",
+          "link": "https://news.hada.io/topic?id=33769",
+          "pubDate": "2026-09-16T04:48:30.000Z",
+          "image": null,
+          "summary": "안녕하세요. PC와 모바일 브라우저에서 플레이할 수 있는 3D 생존 액션 게임, RiftWake(리프트웨이크) 를 만들고 있습니다. 게임은 무료이고, 회원가입 없이도 연습 플레이를 바로 시작할 수 있습니다. 게임 플레이하기: https://riftwak",
+          "keywords": [
+            "Show",
+            "GN:",
+            "RiftWake",
+            "설치",
+            "없이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Ask GN: 홈페이지 외주 납품 후에 오는 수정 요청 어떻게 처리하시나요??",
+          "link": "https://news.hada.io/topic?id=33768",
+          "pubDate": "2026-09-16T04:38:26.000Z",
+          "image": null,
+          "summary": "지인 부탁으로 소규모 홈페이지를 몇 개 만들어 드린 적이 있습니다!!😊 하지만 만드는 것보다 그 다음이 애매했어요.. 그래서 외주나 프리랜서",
+          "keywords": [
+            "Ask",
+            "GN:",
+            "홈페이지",
+            "외주",
+            "납품"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "독일 Rheinmetall, Battlesuite 연결형 무기 시스템 프로토콜을 오픈소스로 공개",
+          "link": "https://news.hada.io/topic?id=33767",
+          "pubDate": "2026-09-16T04:32:26.000Z",
+          "image": null,
+          "summary": "onboardapi는 센서 시스템과 소프트웨어 구성 요소 사이의 통신을 위한 인터페이스 라이브러리이자 미들웨어로, 표준화된 데이터 모델을 통해 상호운용성을 지원함 ddkit 기반으로 OMG의 DDS 표준을 사용하며, 데이터 중심 발행/구독 구조로 신뢰...",
+          "keywords": [
+            "독일",
+            "Rheinmetall",
+            "Battlesuite",
+            "연결형",
+            "무기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Navier-Stokes 이후에도 LLM 전망을 여전히 비관하는 이유",
           "link": "https://news.hada.io/topic?id=33766",
@@ -380,76 +448,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: 보시오와 보아요 프로젝트 - 정이십면체 프레임버퍼를 이용한 RTL/WM 프로젝트",
-          "link": "https://news.hada.io/topic?id=33765",
-          "pubDate": "2026-09-16T03:15:05.000Z",
-          "image": null,
-          "summary": "안녕하세요, 저는 방구석 개발자 VARZero (비으비) 입니다. 3DoF(3축) VR/AR HMD을 위한 구 공간의 디스플레잉 시스템을 만들어보고 싶었고, 요새 바이브 코딩, 에이전틱 AI가 발전해서 개발이 빨라졌다? 개발이 쉬",
-          "keywords": [
-            "Show",
-            "GN:",
-            "보시오와",
-            "보아요",
-            "프로젝트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한 달 만에 M4 Mac Mini용 Linux GPU 드라이버 만들기",
-          "link": "https://news.hada.io/topic?id=33764",
-          "pubDate": "2026-09-16T02:36:06.000Z",
-          "image": null,
-          "summary": "Cody Ho와 Niklas가 약 한 달 만에 M4 Mac Mini와 MacBook Neo용 OpenGL ES 3.0 완전 준수 GPU 드라이버를 개발함 기존 하이퍼바이저로 macOS의 GPU 동작을 관찰하고 재생하면서 AGX 펌웨어 ABI를 역공학했으며, Apple 바이너리를 보지 않는 클린룸 방식으로 실험을...",
-          "keywords": [
-            "만에",
-            "M4",
-            "Mac",
-            "Mini용",
-            "Linux"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "래블업(lablup) 개발자 컨퍼런스 2026",
-          "link": "https://news.hada.io/topic?id=33763",
-          "pubDate": "2026-09-16T01:17:58.000Z",
-          "image": null,
-          "summary": "래블업의 기술을 바탕으로 AI를 만들어가는 사람들과 함께하는 개발자 컨퍼런스에 여러분을 초대합니다. 2021년 온라인으로 첫 발을 내딛은 lab | up >/conf는, 래블업이 만들어 온 Backend.AI와 AI 기술을 바탕으로 시작된 정기 컨퍼런스입니다. 해마다 A를 만들어가는 많은 분들이 함께해 주시면서 이제는 수백 ...",
-          "keywords": [
-            "래블업(lablup)",
-            "개발자",
-            "컨퍼런스",
-            "2026"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
-          "link": "https://news.hada.io/topic?id=33760",
-          "pubDate": "2026-09-16T00:30:02.000Z",
-          "image": null,
-          "summary": "웹 개발에 익숙한 HTML, CSS와 DOM API로 터미널 UI와 대화형 CLI를 만드는 JavaScript/TypeScript 라이브러리 별도의 터미널 위젯 API를 배우는 대신, HTML 요소를 만들고 DOM을 수정하는 방식으로 화면을 구성 노드가 바뀌면 스타일과 배치를 다시 계산하고, 이전...",
-          "keywords": [
-            "TermDOM",
-            "HTML",
-            "CSS와",
-            "DOM으로",
-            "터미널"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:35.436Z",
+      "fetchedAt": "2026-09-16T06:13:51.615Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -546,7 +547,7 @@
           "summaryKo": "YouTube와 Netflix는 서로 협력하고 있습니다. 엄마와 아빠는 Streaming Access and Choice Alliance (SACA) 의 창립 멤버로 통합하기 위해 콘텐츠 제작자 양육권 전쟁을 일시적으로 제쳐두었습니다. 그들은 동료 스트리머/기술 거물 아마존과 TechNet에 합류했습니다. TechNet은 자신을 \"기술 CEO의 국가적 초당적 네트워크\" 라고 설명합니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:37.382Z",
+      "fetchedAt": "2026-09-16T06:13:51.799Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -620,7 +621,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:37.532Z",
+      "fetchedAt": "2026-09-16T06:13:52.021Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -701,7 +702,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:37.582Z",
+      "fetchedAt": "2026-09-16T06:13:52.072Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -710,97 +711,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "기초예술 창작과 한-아세안 교류 잇는다…한세예스24문화재단·서울문화재단 맞손",
-          "link": "https://www.venturesquare.net/1114066/",
-          "pubDate": "2026-09-16T01:26:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/yes24-789x430.jpg",
-          "summary": "한세예스24문화재단과 서울문화재단이 클래식 가곡·문학·순수미술 등 기초예술 분야의 창작 지원을 위한 업무협약을 체결했다. 양 기관은 국제문화교류전과 동남아시아문학총서, 서울문화재단의 창작공간·예술교육 인프라를 연결해 유망 예술가 발굴과 공동 프로젝트를 추진한다. 지난 ... The post 기초예술 창작과 한-아세안 교류 잇는다…한세예스24문화재단·서울문화재단 맞손 appeared first on 벤처스퀘어.",
+          "title": "엘리스스쿨, 교사 업무부터 학생 수업까지…교육용 AI 헬피챗 기능 확장",
+          "link": "https://www.venturesquare.net/1114121/",
+          "pubDate": "2026-09-16T05:39:13.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ELICE-2-789x444.jpg",
+          "summary": "엘리스그룹의 공교육 AI 교육 솔루션 브랜드 엘리스스쿨이 ‘2026 에듀테크 코리아 페어’에서 생성형 AI 솔루션 ‘헬피챗’의 교사·학생 맞춤형 기능을 공개한다. 교사용 한글 뷰어는 HWP·워드 문서의 AI 기반 수정과 생성, 미리보기를 지원해 학교 문서 업무와 생성형... The post 엘리스스쿨, 교사 업무부터 학생 수업까지…교육용 AI 헬피챗 기능 확장 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "국제문화교류전",
-            "기초예술",
-            "동남아시아문학총서"
+            "AI교육",
+            "AI수업",
+            "공교육"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "화주·차주 매칭 넘어 운송관리 SaaS로…센디, 30억 브릿지 투자 유치",
-          "link": "https://www.venturesquare.net/1114042/",
-          "pubDate": "2026-09-16T00:47:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/sendyai_sendyX-789x444.png",
-          "summary": "화물 운송 플랫폼 센디가 현대투자파트너스와 콜즈다이나믹스로부터 30억 원 규모의 시리즈B 브릿지 투자를 유치했다. 투자금은 배차와 모니터링, 결제·정산을 연결하는 AI 운송 관리 솔루션 sendyX의 기능 개발과 고객 확보에 사용된다. 센디는 운송 수수료에 솔루션 구독... The post 화주·차주 매칭 넘어 운송관리 SaaS로…센디, 30억 브릿지 투자 유치 appeared first on 벤처스퀘어.",
+          "title": "포티투마루, LLM42·RAG42 정부 확인제 동시 인증…공공 AI 조달 접점 넓힌다",
+          "link": "https://www.venturesquare.net/1114112/",
+          "pubDate": "2026-09-16T05:34:50.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-38-789x494.png",
+          "summary": "포티투마루의 ‘LLM42 v.1.1’과 ‘RAG42 v.1.3’이 정부 인공지능 제품·서비스 확인제 인증을 동시에 취득했다. LLM42는 폐쇄망에서도 구동할 수 있는 도메인 특화 경량 언어모델이며 RAG42는 기관 내부 문서를 검색해 근거 기반 답변 생성을 지원하는 엔... The post 포티투마루, LLM42·RAG42 정부 확인제 동시 인증…공공 AI 조달 접점 넓힌다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "sendyX",
-            "물류테크",
-            "브릿지투자"
+            "42maru",
+            "AI전환",
+            "LLM"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "조선소의 ‘땡크’도 알아듣는다…플리토·한화, 현장형 AI 통번역 ‘오톡’ 구축",
-          "link": "https://www.venturesquare.net/1114035/",
-          "pubDate": "2026-09-16T00:42:24.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/fullito-2-696x522.jpg",
-          "summary": "플리토가 한화오션·한화시스템과 조선 현장 맞춤형 AI 통번역 솔루션 ‘오톡’을 구축했다. 오톡은 조선 전문용어와 은어, 사투리를 학습하고 소음 환경에 대응하는 5단계 수음 조정과 7개 언어 통번역 기능을 제공한다. 시범 운영에서 외국인 근로자 사용률 약 96%를 기록했... The post 조선소의 ‘땡크’도 알아듣는다…플리토·한화, 현장형 AI 통번역 ‘오톡’ 구축 appeared first on 벤처스퀘어.",
+          "title": "쓰리빌리언, 신생아 유전체 검사 중남미 첫발…도미니카공화국 3B-NEO 공급",
+          "link": "https://www.venturesquare.net/1114100/",
+          "pubDate": "2026-09-16T05:29:48.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/3B-789x493.png",
+          "summary": "쓰리빌리언이 도미니카공화국 페탈 플러스와 신생아 유전체 선별검사 ‘3B-NEO’ 공급 계약을 체결하며 중남미 시장에 진입했다. 3B-NEO는 생후 90일 이내 신생아를 대상으로 소아기 발병 가능성과 조기 치료 가능성을 고려한 희귀 유전질환 관련 704개 유전자를 분석한... The post 쓰리빌리언, 신생아 유전체 검사 중남미 첫발…도미니카공화국 3B-NEO 공급 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI통번역",
-            "AX",
-            "산업안전"
+            "3BNEO",
+            "FetalPlus",
+            "WES"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "해외 브랜드의 한국 첫 고객 찾기…와디즈, ‘공식 에이전시’로 진입 장벽 낮춘다",
-          "link": "https://www.venturesquare.net/1114032/",
-          "pubDate": "2026-09-16T00:33:51.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/WADIZ-696x522.jpg",
-          "summary": "와디즈가 해외 브랜드와 국내 전문 파트너를 연결하는 글로벌 공식 에이전시 프로그램을 가동한다. 공식 에이전시는 KC인증·통관부터 콘텐츠, 광고, CS, 배송과 후속 유통까지 한국 시장 진입 실무를 맡는다. 와디즈는 엑스지미와 유그린 등의 펀딩 사례를 토대로 참여 에이전... The post 해외 브랜드의 한국 첫 고객 찾기…와디즈, ‘공식 에이전시’로 진입 장벽 낮춘다 appeared first on 벤처스퀘어.",
+          "title": "아파트아이, 앱 가입 없이 관리비 전자고지서 받는다…웹 신청 문턱 낮춰",
+          "link": "https://www.venturesquare.net/1114097/",
+          "pubDate": "2026-09-16T05:25:10.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/APTAI-522x522.png",
+          "summary": "아파트아이가 기존 앱 중심의 전자고지서 신청 서비스를 웹으로 확대했다. 아파트아이 회원이 아니더라도 웹에서 거주 단지를 확인하고 관리비 전자고지서를 신청할 수 있으며 XpERP 이용 단지 입주민도 대상에 포함된다. 전자고지서는 매월 발행되는 종이 관리비 고지서를 모바일... The post 아파트아이, 앱 가입 없이 관리비 전자고지서 받는다…웹 신청 문턱 낮춰 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "KC인증",
-            "글로벌에이전시",
-            "엑스지미"
+            "XpERP",
+            "공동주택",
+            "관리비고지서"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "투자 AI, 답변 넘어 시장까지 추적한다…뉴로퓨전 ‘Valley AI’ 에이전트 공개",
-          "link": "https://www.venturesquare.net/1114010/",
-          "pubDate": "2026-09-15T14:29:03.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Valley-AI-789x443.png",
-          "summary": "뉴로퓨전이 Valley AI에 대화형 분석과 조건형 시장 모니터링, 분석 결과 관리를 지원하는 투자 리서치 AI 에이전트를 탑재했다. 에이전트에는 530개 이상의 데이터 파이프라인과 금융 특화 MCP 107개, 전문 분석 스킬 30종이 적용됐다. 금융 질의 정확도 95... The post 투자 AI, 답변 넘어 시장까지 추적한다…뉴로퓨전 ‘Valley AI’ 에이전트 공개 appeared first on 벤처스퀘어.",
+          "title": "솔트웨어, 기업 AI 통제 해법 실습으로 풀었다…AI Gateway·Claude Code 핸즈온",
+          "link": "https://www.venturesquare.net/1114085/",
+          "pubDate": "2026-09-16T05:17:13.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SALTWARE-789x444.jpg",
+          "summary": "솔트웨어가 LiteLLM과 아마존 베드락을 활용한 ‘AI Gateway & Claude Code’ 핸즈온 세미나를 개최했다. 참가자들은 여러 LLM을 단일 엔드포인트로 연결하고 사용자별 권한과 비용, 캐싱, 민감정보 보호, 로깅 등을 관리하는 기업형 AI Gateway... The post 솔트웨어, 기업 AI 통제 해법 실습으로 풀었다…AI Gateway·Claude Code 핸즈온 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI에이전트",
-            "MCP",
-            "ValleyAI"
+            "AIGateway",
+            "AI보안",
+            "Ai인프라"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:40.417Z",
+      "fetchedAt": "2026-09-16T06:13:55.396Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -891,7 +892,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:40.723Z",
+      "fetchedAt": "2026-09-16T06:13:55.641Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -986,7 +987,7 @@
           "summaryKo": "디스럽트에서 전시할 수 있는 마지막 날은 9월 18일입니다. 4일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더 앞에서 스타트업을 운영하세요."
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:40.764Z",
+      "fetchedAt": "2026-09-16T06:13:55.760Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1085,7 +1086,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:42.286Z",
+      "fetchedAt": "2026-09-16T06:13:57.579Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1128,6 +1129,40 @@
           "summaryKo": null
         },
         {
+          "title": "서울테크노파크, 사업재편 승인 컨설팅 받을 기업 모집 - 플래텀(Platum)",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQU5CVW83RFRJTl9qQkpJcXpiVTNmSTBRVzFGYmVPWFBBNDJiOWp6ak9CYm5OdTdrOGR5Sm5DTzU2TzZ1TGpwOQ?oc=5",
+          "pubDate": "2026-09-16T05:13:16.000Z",
+          "image": null,
+          "summary": "서울테크노파크, 사업재편 승인 컨설팅 받을 기업 모집 플래텀(Platum)",
+          "keywords": [
+            "서울테크노파크",
+            "사업재편",
+            "승인",
+            "컨설팅",
+            "받을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 - 데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONUg5UGZ3aWx5UFNQbXY2amVkZnBwTktXU3JWdndpM3pldEZqWWxMS0hfWS14NkJnYXktcXluRkNUZ2xOTVZ6MGRHWDJOdTU0dmZIMkgxZDkxcDR5YW5CYWVTWWU0elFGVVhuRzZ5U2ZqaGUyZE05ZzBSc05wSi1RbERhRWVPRTlRS3A0bFhrX2gxZXNfd2pyNl9SM1VNcS1NNVdCYnBqNGJ0R1J2UzFhRlBDVVgwby1CSmZ1Sk0xRXJsRkN1TGlkTWk0OGFRVnRISFhYMklrZjlRT21jZnExMkpFeDZrVEhhT3VaRl94NzhMYVlqZTd0MmZwSm9HcHRtNUN2T1YyNGMzYURuZXVxVDRIYS1zZUY0aWpldDN2TFdqVmVDTllkNkEyU2xzRzNpclZBWWpPbC10MGNiR0pWRUlZSW1ObkRvY1dBcW92Y2JOYUdLWGNvQw?oc=5",
+          "pubDate": "2026-09-15T12:34:00.000Z",
+          "image": null,
+          "summary": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 데일리뉴스",
+          "keywords": [
+            "「2017년",
+            "중소",
+            "중견기업",
+            "기술개발",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 - 인천투데이",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUnpFbEVLRUhCVjFOaHN0X19QN2x0VVQyVGx1bUZFZWJGN2MtZjRja3pzeTRyMjh0UkVHTEZqNDAteU5PSWowODEyNHVBNTRjMFNubDdnVEN2eVBBRTZiWHJEeVhja0dmR0d2R3dfa08?oc=5",
           "pubDate": "2026-09-16T01:22:06.000Z",
@@ -1143,113 +1178,79 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[AI서머리] 서울테크노파크, 사업재편 지원사업 참여기업 모집‧2026 제이앤피메디 커넥트 개최 - startuprecipe.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zdGp5STBjd1dqNVpGWmdCTXpfU2VGTG9TQTFJMnNsOHU2NWpzdGdhc254OTJEd0Y2V1VySG9VQ2VwZnVlczIzMU9LNHZRVTh2NzNvRzNtRQ?oc=5",
-          "pubDate": "2026-09-15T23:45:23.000Z",
-          "image": null,
-          "summary": "[AI서머리] 서울테크노파크, 사업재편 지원사업 참여기업 모집‧2026 제이앤피메디 커넥트 개최 startuprecipe.co.kr",
-          "keywords": [
-            "AI서머리",
-            "서울테크노파크",
-            "사업재편",
-            "지원사업",
-            "참여기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "신산업·DX 전환 기업 지원...서울테크노파크, 사업재편 기업 모집 - 한경매거진&북",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GLTZpN3JxNS16WWdPRFhNSXdsVTRxX0hJTF8wLTRFNktnZlphVXVoZFNhNUQ0ZHc5eDFQTm9uUDR5dlJURnRLRFJFZm5Od0pYa0o3aTBQTTJjaDF3bjJXbGxMdmFCQk01OHlN?oc=5",
-          "pubDate": "2026-09-16T00:35:00.000Z",
-          "image": null,
-          "summary": "신산업·DX 전환 기업 지원...서울테크노파크, 사업재편 기업 모집 한경매거진&북",
-          "keywords": [
-            "신산업",
-            "DX",
-            "전환",
-            "기업",
-            "지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T04:10:42.703Z",
+      "fetchedAt": "2026-09-16T06:13:57.991Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "llm",
+      "label": "LLM",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "up"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
+    },
+    {
+      "key": "gn:",
+      "label": "GN:",
+      "count": 3,
+      "rank": 7,
+      "change": "new"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 6,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "글로벌",
-      "label": "글로벌",
-      "count": 2,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "대구창조경제혁신센터",
-      "label": "대구창조경제혁신센터",
-      "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "사업재편",
-      "label": "사업재편",
+      "key": "show",
+      "label": "Show",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1301,7 +1302,7 @@
       "label": "Featured",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1309,7 +1310,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1317,7 +1318,7 @@
       "label": "News",
       "count": 4,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
@@ -1325,7 +1326,7 @@
       "label": "AI",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1333,7 +1334,7 @@
       "label": "Biotech & Health",
       "count": 3,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "생명 공학 및 건강"
     }
   ]
