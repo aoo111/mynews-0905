@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T10:10:46.328Z",
+  "collectedAt": "2026-09-16T12:13:39.438Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,37 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“순자산 4.1억 있나요? ‘찐 중산층’ 입니다”…10명 중 7명은 내 집 산다",
+          "link": "https://www.mk.co.kr/news/economy/12154696",
+          "pubDate": "2026-09-16T11:00:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.93b6e904c61f4cd9a9f610ecb1065376_R.png",
+          "summary": "“월 631만원 벌고 319만원 쓴다…소득 10% 저축”소득과 소비, 저축, 자산 등 경제적 여건을 두루 갖춘 이른바 ‘진짜 중산층’은 우리나라 전체 가구의 4분의 1에 불과한 것..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“매달 분배금 받아도 수익률은 마이너스”…미국채 ETF 무슨 일이",
+          "link": "https://www.mk.co.kr/news/economy/12154669",
+          "pubDate": "2026-09-16T10:31:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.1591b56f60be42eba72e13cbaa5b7ed0_R.png",
+          "summary": "미국 10년물 국채금리가 장중 5%를 넘어선 가운데 미국채 상장지수펀드(ETF) 투자 성적은 채권 만기에 따라 엇갈렸다. 매달 분배금을 주는 대표 장기채 ETF는 분배금을 재투자해..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“추미애 사퇴 다시 촉구” 경기도청원 홈피 도배",
           "link": "https://www.mk.co.kr/news/economy/12154629",
           "pubDate": "2026-09-16T09:39:29.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/16/news-p.v1.20260916.df9039d191f64089b395d491e511419a_R.jpg",
-          "summary": "3만명이 동의한 ‘사퇴 청원’ 조기종료 후 재청원 쇄도해 민생예산 삭감 비판도 급증경기도민 3만명 이상이 동의한 ‘추미애 경기도지사 사퇴 촉구’ 청원이 ‘답변 완료’ 처리와 동시에..",
+          "summary": "3만명 동의한 ‘사퇴 청원’ 조기종료 후 ‘재청원’ 쇄도 민생예산 삭감 비판도 급증경기도가 도민 3만명 이상이 동의한 ‘추미애 경기도지사 사퇴 촉구’ 청원을 ‘답변 완료’ 처리하면..",
           "keywords": [
             "경제"
           ],
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "가업상속공제 이대로면 90% 탈락",
-          "link": "https://www.mk.co.kr/news/economy/12154601",
-          "pubDate": "2026-09-16T09:00:24.000Z",
-          "image": null,
-          "summary": "올해 세제개편안에 담겨 국회로 넘어가 있는 가업상속공제 개편을 놓고 산업계에서 혼란이 커지고 있다. 정부안대로 상속공제를 받기 위한 경영기간 요건이 10년에서 30년으로 강화될 경..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "기획처 예산실장에 김명중",
-          "link": "https://www.mk.co.kr/news/economy/12154584",
-          "pubDate": "2026-09-16T08:57:17.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/20260917_01110110000007_S00.jpg",
-          "summary": "기획예산처가 조용범 차관의 승진으로 공석이던 예산실장에 김명중 기획조정실장(사진)을 임명했다고 16일 밝혔다. 전남광주 출생인 김 실장은 광주 서석고와 서울대 경영학과를 졸업하고..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:37.559Z",
+      "fetchedAt": "2026-09-16T12:13:32.892Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 7월 20일과 7월 29일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:37.671Z",
+      "fetchedAt": "2026-09-16T12:13:32.945Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:39.086Z",
+      "fetchedAt": "2026-09-16T12:13:33.801Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "César de la Fuente의 실험실은 CODEX와 ChatGPT를 사용하여 약물 내성 감염과 싸우기 위해 항균제 후보를 찾기 위해 살아있는 멸종된 게놈을 검색합니다."
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:39.298Z",
+      "fetchedAt": "2026-09-16T12:13:33.947Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "EU 집행위원장, 캐나다의 ‘준회원국’ 가입 가능성 열어",
+          "link": "https://news.hada.io/topic?id=33784",
+          "pubDate": "2026-09-16T11:32:29.000Z",
+          "image": null,
+          "summary": "우르줄라 폰데어라이엔 EU 집행위원장이 캐나다를 EU 최초의 ‘준회원국’으로 받아들이는 구상을 지지하며 주요 분야의 관계 강화를 추진하겠다고 밝힘 제조업, 기술, AI, 국방 등을 핵심 협력 분야로 꼽았지만, 캐나다의 회원 지위가 구체적으로 어떻게 작동할지...",
+          "keywords": [
+            "EU",
+            "집행위원장",
+            "캐나다의",
+            "준회원국",
+            "가입"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "WangNet - 1.8 MB, 외부 의존성 없이 11개 언어로 Numberwang 판정",
+          "link": "https://news.hada.io/topic?id=33783",
+          "pubDate": "2026-09-16T10:32:33.000Z",
+          "image": null,
+          "summary": "1.8 MB JSON 모델과 약 100줄의 Python 표준 라이브러리 코드로 숫자가 Numberwang인지 판정하는 소형 신경망임 숫자와 숫자를 나타내는 단어, 산술식, 로마 숫자, 서수 등을 11개 언어로 받아들이며, 같은 숫자는 언어와 관계없이 같은 판정을 받음",
+          "keywords": [
+            "WangNet",
+            "MB",
+            "외부",
+            "의존성",
+            "없이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "세계 채권 금리, 2008년 이후 최고 수준으로 올라 대규모 차입자 부담 확대",
           "link": "https://news.hada.io/topic?id=33781",
@@ -414,40 +448,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "작은 프로그래밍 요령들",
-          "link": "https://news.hada.io/topic?id=33778",
-          "pubDate": "2026-09-16T08:37:02.000Z",
-          "image": null,
-          "summary": "엔지니어링 생산성의 상당 부분은 언어 기능, 명령어, 디버깅 단서 같은 작은 지식에서 나옴 특히 많은 사전 지식 없이 활용할 수 있는 요령이 유용하며, Python을 몰라도 python3 -m http.server로 현재 디렉터리에 간단한 서버를 띄울 수 있음 ...",
-          "keywords": [
-            "작은",
-            "프로그래밍",
-            "요령들"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Coreutils - 거절된 기능 요청들",
-          "link": "https://news.hada.io/topic?id=33777",
-          "pubDate": "2026-09-16T08:33:39.000Z",
-          "image": null,
-          "summary": "Coreutils는 기존 도구로 충분히 구현할 수 있거나 복잡성에 비해 효용이 작은 기능 요청을 채택하지 않았으며, 요청별 거절 이유와 메일링 리스트 논의를 정리해 둠 기존 도구의 조합이 여러 기능 요청의 대안이 됨. cp --resume에는 rsync",
-          "keywords": [
-            "Coreutils",
-            "거절된",
-            "기능",
-            "요청들"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:39.911Z",
+      "fetchedAt": "2026-09-16T12:13:34.530Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -544,7 +547,7 @@
           "summaryKo": "YouTube와 Netflix는 서로 협력하고 있습니다. 엄마와 아빠는 Streaming Access and Choice Alliance (SACA) 의 창립 멤버로 통합하기 위해 콘텐츠 제작자 양육권 전쟁을 일시적으로 제쳐두었습니다. 그들은 동료 스트리머/기술 거물 아마존과 TechNet에 합류했습니다. TechNet은 자신을 \"기술 CEO의 국가적 초당적 네트워크\" 라고 설명합니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:40.137Z",
+      "fetchedAt": "2026-09-16T12:13:34.673Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -618,7 +621,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:40.341Z",
+      "fetchedAt": "2026-09-16T12:13:34.974Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -699,7 +702,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:40.396Z",
+      "fetchedAt": "2026-09-16T12:13:35.060Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -707,6 +710,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "모레, GPU를 넘어 토큰 생산으로…AI 데이터센터용 토큰 팩토리 OS 공개",
+          "link": "https://www.venturesquare.net/1114196/",
+          "pubDate": "2026-09-16T11:52:43.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/AI-Infra-Summit-2026_1-696x522.jpg",
+          "summary": "모레가 ‘AI 인프라 서밋 2026’에서 서로 다른 AI 가속기를 하나의 자원 풀로 운영하는 ‘토큰 팩토리 OS’를 공개했다. 엔비디아·AMD·텐스토렌트 등 이기종 가속기의 특성에 따라 추론 작업을 분산해 데이터센터 전체의 토큰 생산 효율을 높이는 구조다. 엔비디아 H... The post 모레, GPU를 넘어 토큰 생산으로…AI 데이터센터용 토큰 팩토리 OS 공개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI데이터센터",
+            "Ai인프라",
+            "AMD"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "팝업 하나가 건물값까지 움직인다?…스위트스팟이 데이터로 본 ‘팝업 경제학’",
+          "link": "https://www.venturesquare.net/1114165/",
+          "pubDate": "2026-09-16T09:08:23.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/sweet-spot-e1789549215512-789x483.png",
+          "summary": "2026년 상반기 국내 팝업스토어가 2130건으로 전년 동기 대비 44.9% 늘면서 팝업이 브랜드 마케팅을 넘어 상업용 부동산의 집객과 임대 전략으로 활용되고 있다. 윤인석 스위트스팟 리테일 부동산 본부 PM팀장은 청주 서문 CGV 빌딩과 STAGE X 익선 사례를 통... The post 팝업 하나가 건물값까지 움직인다?…스위트스팟이 데이터로 본 ‘팝업 경제학’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "스타트업 트렌드",
+            "STAGEX",
+            "리테일"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "어셈블코퍼레이션, B2B 유통 강화…상반기 매출 149억원",
           "link": "https://www.venturesquare.net/1114144/",
@@ -760,45 +799,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "포티투마루, LLM42·RAG42 정부 확인제 동시 인증…공공 AI 조달 접점 넓힌다",
-          "link": "https://www.venturesquare.net/1114112/",
-          "pubDate": "2026-09-16T05:34:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-38-789x494.png",
-          "summary": "포티투마루의 ‘LLM42 v.1.1’과 ‘RAG42 v.1.3’이 정부 인공지능 제품·서비스 확인제 인증을 동시에 취득했다. LLM42는 폐쇄망에서도 구동할 수 있는 도메인 특화 경량 언어모델이며 RAG42는 기관 내부 문서를 검색해 근거 기반 답변 생성을 지원하는 엔... The post 포티투마루, LLM42·RAG42 정부 확인제 동시 인증…공공 AI 조달 접점 넓힌다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "42maru",
-            "AI전환",
-            "LLM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "쓰리빌리언, 신생아 유전체 검사 중남미 첫발…도미니카공화국 3B-NEO 공급",
-          "link": "https://www.venturesquare.net/1114100/",
-          "pubDate": "2026-09-16T05:29:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/3B-789x493.png",
-          "summary": "쓰리빌리언이 도미니카공화국 페탈 플러스와 신생아 유전체 선별검사 ‘3B-NEO’ 공급 계약을 체결하며 중남미 시장에 진입했다. 3B-NEO는 생후 90일 이내 신생아를 대상으로 소아기 발병 가능성과 조기 치료 가능성을 고려한 희귀 유전질환 관련 704개 유전자를 분석한... The post 쓰리빌리언, 신생아 유전체 검사 중남미 첫발…도미니카공화국 3B-NEO 공급 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "3BNEO",
-            "FetalPlus",
-            "WES"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:43.502Z",
+      "fetchedAt": "2026-09-16T12:13:37.387Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -889,7 +892,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:43.788Z",
+      "fetchedAt": "2026-09-16T12:13:37.579Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -984,7 +987,7 @@
           "summaryKo": "디스럽트에서 전시할 수 있는 마지막 날은 9월 18일입니다. 4일 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더 앞에서 스타트업을 운영하세요."
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:43.924Z",
+      "fetchedAt": "2026-09-16T12:13:37.633Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -992,6 +995,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[문지은의 미래산업 리포트 ②] 150조원, 나눌 것인가 미래의 산업지도를 살 것인가",
+          "link": "https://www.venturesquare.net/1114172/",
+          "pubDate": "2026-09-16T09:46:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/0916-789x444.png",
+          "summary": "문지은 미래학자·스타벤처스 대표는 삼성전자와 SK하이닉스가 발표한 최대 150조원 규모의 주주환원을 계기로 한국의 미래 산업을 위한 자본배분 전략을 제안한다. 주주가치를 지키는 동시에 AI 컴퓨팅과 에너지, Physical AI, 우주·통신 등 세계가 반드시 필요로 할... The post [문지은의 미래산업 리포트 ②] 150조원, 나눌 것인가 미래의 산업지도를 살 것인가 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI컴퓨팅",
+            "HBM",
+            "SK하이닉스",
+            "기술주권",
+            "문지은"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "투자 판단의 ‘기억’을 시스템으로…블루포인트, ‘래티스 AI’ 가동",
           "link": "https://www.venturesquare.net/1114056/",
@@ -1063,27 +1084,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "감자 막걸리부터 메밀 젤라또까지…강원 로컬 5개사, 마곡서 ‘구황장’",
-          "link": "https://www.venturesquare.net/1113905/",
-          "pubDate": "2026-09-15T10:57:49.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/kangwon-3-370x522.jpg",
-          "summary": "강원창조경제혁신센터와 무인양품이 9월 18일부터 20일까지 서울 마곡 원그로브에서 팝업마켓 ‘구황장’을 연다. 행사에는 소상공인 도약지원 사업에 참여한 강원 로컬기업 5개사가 감자 막걸리와 메밀 젤라또, 간편식, 공예품, 농산물 등을 선보인다. 참여기업은 현장 판매와 ... The post 감자 막걸리부터 메밀 젤라또까지…강원 로컬 5개사, 마곡서 ‘구황장’ appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "강원로컬브랜드",
-            "강원창조경제혁신센터",
-            "구황장",
-            "로컬푸드",
-            "마곡원그로브"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:45.531Z",
+      "fetchedAt": "2026-09-16T12:13:38.997Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1160,24 +1163,24 @@
           "summaryKo": null
         },
         {
-          "title": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 - 데일리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONUg5UGZ3aWx5UFNQbXY2amVkZnBwTktXU3JWdndpM3pldEZqWWxMS0hfWS14NkJnYXktcXluRkNUZ2xOTVZ6MGRHWDJOdTU0dmZIMkgxZDkxcDR5YW5CYWVTWWU0elFGVVhuRzZ5U2ZqaGUyZE05ZzBSc05wSi1RbERhRWVPRTlRS3A0bFhrX2gxZXNfd2pyNl9SM1VNcS1NNVdCYnBqNGJ0R1J2UzFhRlBDVVgwby1CSmZ1Sk0xRXJsRkN1TGlkTWk0OGFRVnRISFhYMklrZjlRT21jZnExMkpFeDZrVEhhT3VaRl94NzhMYVlqZTd0MmZwSm9HcHRtNUN2T1YyNGMzYURuZXVxVDRIYS1zZUY0aWpldDN2TFdqVmVDTllkNkEyU2xzRzNpclZBWWpPbC10MGNiR0pWRUlZSW1ObkRvY1dBcW92Y2JOYUdLWGNvQw?oc=5",
-          "pubDate": "2026-09-15T12:34:00.000Z",
+          "title": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 - 인천투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUnpFbEVLRUhCVjFOaHN0X19QN2x0VVQyVGx1bUZFZWJGN2MtZjRja3pzeTRyMjh0UkVHTEZqNDAteU5PSWowODEyNHVBNTRjMFNubDdnVEN2eVBBRTZiWHJEeVhja0dmR0d2R3dfa08?oc=5",
+          "pubDate": "2026-09-16T01:22:06.000Z",
           "image": null,
-          "summary": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 데일리뉴스",
+          "summary": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 인천투데이",
           "keywords": [
-            "「2017년",
-            "중소",
-            "중견기업",
-            "기술개발",
-            "지원사업"
+            "인천시",
+            "신중년",
+            "지원사업",
+            "국비지원",
+            "연장돼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T10:10:46.321Z",
+      "fetchedAt": "2026-09-16T12:13:39.429Z",
       "error": null
     }
   },
@@ -1190,46 +1193,46 @@
       "change": "same"
     },
     {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 4,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
       "rank": 5,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "사업재편",
       "label": "사업재편",
       "count": 3,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "서울테크노파크",
       "label": "서울테크노파크",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
@@ -1243,14 +1246,14 @@
       "label": "글로벌",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "대구창조경제혁신센터",
       "label": "대구창조경제혁신센터",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
