@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T10:10:36.515Z",
+  "collectedAt": "2026-09-17T12:13:40.404Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -80,7 +80,7 @@
           "summaryKo": null
         },
         {
-          "title": "우리금융, 생산적금융 속도 … 8월에 올해 목표 25조 달성",
+          "title": "우리금융, 생산적금융 속도…8월에 올해 목표 25조 달성",
           "link": "https://www.mk.co.kr/news/economy/12155731",
           "pubDate": "2026-09-17T08:50:40.000Z",
           "image": null,
@@ -96,7 +96,7 @@
           "title": "남북협력기금 1% 썼는데 … 내년 예산 1조로 쑥",
           "link": "https://www.mk.co.kr/news/economy/12155732",
           "pubDate": "2026-09-17T08:50:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01110112000005_S00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01160112000003_S00.jpg",
           "summary": "남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. 17일 김상훈 국민의힘 의원이 확보한 한국수출입은행 자료에..",
           "keywords": [
             "경제"
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:26.892Z",
+      "fetchedAt": "2026-09-17T12:13:29.092Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:26.958Z",
+      "fetchedAt": "2026-09-17T12:13:29.204Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:28.154Z",
+      "fetchedAt": "2026-09-17T12:13:30.438Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:28.293Z",
+      "fetchedAt": "2026-09-17T12:13:30.642Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Show GN: 텐배거랩 - 미국주식 탐색부터 분석·기록·회고까지 한곳에서",
+          "link": "https://news.hada.io/topic?id=33835",
+          "pubDate": "2026-09-17T10:28:59.000Z",
+          "image": null,
+          "summary": "안녕하세요. 미국주식 리서치 서비스 ‘텐배거랩’을 운영하고 있습니다. 미국주식 투자를 하면서 기업 하나를 공부하는 데도 여러 서비스를 오가게 됐습니다. 재무 데이터는 A에서, 차트와 시장 정보는 B에서 보고, 공시와 거시경제 자료는 또 다른 곳에서 찾아보고, 영문 자료는 또 AI에게",
+          "keywords": [
+            "Show",
+            "GN:",
+            "텐배거랩",
+            "미국주식",
+            "탐색부터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "SQL 데이터베이스 스키마란 무엇이며 어떻게 설계할까?",
           "link": "https://news.hada.io/topic?id=33833",
@@ -420,24 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "백업은 단순하지 않다",
-          "link": "https://news.hada.io/topic?id=33827",
-          "pubDate": "2026-09-17T06:42:12.000Z",
-          "image": null,
-          "summary": "신뢰할 수 있는 백업은 파일을 다른 곳에 복사하는 것만으로 완성되지 않음. 장치 고장뿐 아니라 실수, 랜섬웨어, 데이터 손상에 대응하려면 과거 상태로 돌아갈 수 있어야 함 복구 시점 목표(RPO) 에 따라 스냅샷 주기를 정하고, 최근 백업은 촘촘하게, 오래된 백...",
-          "keywords": [
-            "백업은",
-            "단순하지",
-            "않다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:29.187Z",
+      "fetchedAt": "2026-09-17T12:13:31.459Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -530,7 +532,7 @@
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:29.251Z",
+      "fetchedAt": "2026-09-17T12:13:31.792Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:29.367Z",
+      "fetchedAt": "2026-09-17T12:13:32.045Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:29.415Z",
+      "fetchedAt": "2026-09-17T12:13:32.094Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -784,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:33.220Z",
+      "fetchedAt": "2026-09-17T12:13:34.748Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -793,91 +795,90 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "AI로 간 비트코인 채굴장, 코인 값이 올라도 돌아오기 어렵다",
-          "link": "https://platum.kr/archives/294726?utm_source=rss&utm_medium=rss&utm_campaign=ai%25eb%25a1%259c-%25ea%25b0%2584-%25eb%25b9%2584%25ed%258a%25b8%25ec%25bd%2594%25ec%259d%25b8-%25ec%25b1%2584%25ea%25b5%25b4%25ec%259e%25a5-%25ec%25bd%2594%25ec%259d%25b8-%25ea%25b0%2592%25ec%259d%25b4-%25ec%2598%25ac%25eb%259d%25bc%25eb%258f%2584-%25eb%258f%258c%25ec%2595%2584%25ec%2598%25a4%25ea%25b8%25b0-%25ec%2596%25b4",
-          "pubDate": "2026-09-16T10:13:54.000Z",
+          "title": "GPU 40장 공동으로 쓴다, 경남 중소 제조기업용 ‘제조 AI 센터’ 문 열어",
+          "link": "https://platum.kr/archives/294818?utm_source=rss&utm_medium=rss&utm_campaign=gpu-40%25ec%259e%25a5-%25ea%25b3%25b5%25eb%258f%2599%25ec%259c%25bc%25eb%25a1%259c-%25ec%2593%25b4%25eb%258b%25a4-%25ea%25b2%25bd%25eb%2582%25a8-%25ec%25a4%2591%25ec%2586%258c-%25ec%25a0%259c%25ec%25a1%25b0%25ea%25b8%25b0%25ec%2597%2585%25ec%259a%25a9-%25ec%25a0%259c%25ec%25a1%25b0-ai-%25ec%2584%25bc%25ed%2584%25b0",
+          "pubDate": "2026-09-17T08:19:08.000Z",
           "image": null,
-          "summary": "비트코인 가격이 회복돼도 AI 인프라로 방향을 튼 상장 채굴업체들이 채굴로 되돌아갈 가능성은 낮다는 분석이 나왔다. 지금 AI가 더 남는 장사라는 이유만은 아니다. 15년 이상 장기 임대 계약을 맺고, 전력과 부지를 AI용으로 재배치하고, 돈을 물어주며 채굴 장비 주문까지 취소하는 과정에서 사업 구조가 이미 바뀌었기 때문이다. 디지털자산 운용사 코인셰어스(CoinShares)는 15일 공개한 2026년 2분기 비트코인 채굴 보고서에서 “비트코인 ... 더 읽기",
-          "keywords": [
-            "글로벌",
-            "트렌드",
-            "가상자산",
-            "디지털자산",
-            "비트코인",
-            "비트코인 채굴"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI 속도 조절론, 반도체는 팔고 플랫폼은 샀다",
-          "link": "https://platum.kr/archives/294722?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%2586%258d%25eb%258f%2584-%25ec%25a1%25b0%25ec%25a0%2588%25eb%25a1%25a0-%25eb%25b0%2598%25eb%258f%2584%25ec%25b2%25b4%25eb%258a%2594-%25ed%258c%2594%25ea%25b3%25a0-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc%25ec%259d%2580-%25ec%2583%2580%25eb%258b%25a4",
-          "pubDate": "2026-09-16T09:54:08.000Z",
-          "image": null,
-          "summary": "AI 개발 속도를 늦춰야 한다는 앤트로픽의 제안에 오픈AI·xAI·구글 딥마인드 수장들이 주말 사이 잇달아 동조했다. 14일 문을 연 글로벌 시장의 반응은 한 방향이 아니었다. 반도체 공급망 종목은 급락했고, 알파벳·마이크로소프트·메타 같은 대형 플랫폼 기업 주가는 올랐다. 위험을 경고한 당사자가 그 기술을 만드는 기업들이라는 점에서, 시장은 이 발언을 안전 문제로도, 비용 문제로도 읽었다. 무슨 일이 있었나 다리오 아모데이 ... 더 읽기",
-          "keywords": [
-            "글로벌",
-            "트렌드",
-            "xAI",
-            "구글 딥마인드",
-            "앤트로픽",
-            "오픈AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "티오더, 8월 테이블오더 결제액 6,000억 원… 전년 동월 대비 14% 증가",
-          "link": "https://platum.kr/archives/294707?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258b%25b0%25ec%2598%25a4%25eb%258d%2594-8%25ec%259b%2594-%25ed%2585%258c%25ec%259d%25b4%25eb%25b8%2594%25ec%2598%25a4%25eb%258d%2594-%25ea%25b2%25b0%25ec%25a0%259c%25ec%2595%25a1-6000%25ec%2596%25b5-%25ec%259b%2590-%25ec%25a0%2584%25eb%2585%2584-%25eb%258f%2599%25ec%259b%2594-%25eb%258c%2580",
-          "pubDate": "2026-09-16T08:43:56.000Z",
-          "image": null,
-          "summary": "테이블오더 기업 티오더가 지난 8월 한 달간 자사 태블릿을 통한 결제 금액이 6,000억 원을 넘었다. 하루 평균 약 200억 원 규모의 외식 결제가 티오더 태블릿으로 이뤄진 것으로, 전년 동월 대비 약 14% 늘었다. 티오더는 전국에 누적 35만 대 이상의 태블릿을 설치했다. 티오더는 결제액 증가 배경으로 도입 매장 확대를 들었다. 인건비 부담과 구인난이 이어지는 외식업에서 무인·비대면 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "매출",
-            "실적",
-            "티오더"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "국내 헬스케어 스타트업 9곳, 싱가포르 실증 프로그램에서 현지 유통 파트너 확보 나서",
-          "link": "https://platum.kr/archives/294702?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ad%25eb%2582%25b4-%25ed%2597%25ac%25ec%258a%25a4%25ec%25bc%2580%25ec%2596%25b4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-9%25ea%25b3%25b3-%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4-%25ec%258b%25a4%25ec%25a6%259d-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%25a8",
-          "pubDate": "2026-09-16T08:37:22.000Z",
-          "image": null,
-          "summary": "대전·대구·광주의 의료AI·디지털헬스 기업 9곳이 지난 7일부터 11일까지 싱가포르에서 진행된 ‘K-Health 글로벌 실증 지원 사업’ PoC 프로그램에 참가해 현지 전시와 바이어 미팅을 진행했다. 운영기관인 헬스케어 사업화 전문기업 벤처블릭은 16일 참가기업 가운데 픽셀로가 동남아 유통사 등과 MOU 2건을 맺고 영앤·에이아이플랫폼·코트라스가 유통계약과 MOU 체결을 추진 중이라고 밝혔다. K-Health 글로벌 실증 지원 사업은 과학기술정보통신부와 정보통신산업진흥원(NIPA)의 ‘K-Health 국민의료 AI서비스 및 ... 더 읽기",
+          "summary": "경남 지역 중소 제조기업이 AI 모델 개발과 실증에 필요한 컴퓨팅 자원을 함께 쓸 수 있는 공공 시설이 창원에 문을 열었다. ‘경남 제조 AI 센터’가 17일 경남창원산학융합원에서 개소식을 열고 운영에 들어갔다. 경남에 공공형 제조 AI 센터가 생긴 것은 처음이다. 센터에는 고성능 그래픽처리장치(GPU) 40장과 고사양 작업용 컴퓨터(워크스테이션) 15대 등이 갖춰졌다. 자체적으로 연산 장비를 마련하기 어려운 중소 제조기업이 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "K-Health",
-            "벤처블릭",
-            "싱가포르"
+            "경남 제조 AI 센터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "플리토, 사투리도 알아듣는 외국인 근로자용 AI 통번역 구축",
-          "link": "https://platum.kr/archives/294692?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%258c%25eb%25a6%25ac%25ed%2586%25a0-%25ec%2582%25ac%25ed%2588%25ac%25eb%25a6%25ac%25eb%258f%2584-%25ec%2595%258c%25ec%2595%2584%25eb%2593%25a3%25eb%258a%2594-%25ec%2599%25b8%25ea%25b5%25ad%25ec%259d%25b8-%25ea%25b7%25bc%25eb%25a1%259c%25ec%259e%2590%25ec%259a%25a9-ai-%25ed%2586%25b5%25eb%25b2%2588%25ec%2597%25ad",
-          "pubDate": "2026-09-16T08:29:54.000Z",
+          "title": "모델은 미국이 앞서는데, AI를 더 많이 쓰는 쪽은 중국",
+          "link": "https://platum.kr/archives/294815?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25eb%258d%25b8%25ec%259d%2580-%25eb%25af%25b8%25ea%25b5%25ad%25ec%259d%25b4-%25ec%2595%259e%25ec%2584%259c%25eb%258a%2594%25eb%258d%25b0-ai%25eb%25a5%25bc-%25eb%258d%2594-%25eb%25a7%258e%25ec%259d%25b4-%25ec%2593%25b0%25eb%258a%2594-%25ec%25aa%25bd%25ec%259d%2580-%25ec%25a4%2591%25ea%25b5%25ad",
+          "pubDate": "2026-09-17T07:30:52.000Z",
           "image": null,
-          "summary": "AI 데이터·솔루션 기업 플리토가 조선 현장의 외국인 근로자와 내국인 근로자 간 소통을 돕는 AI 통번역 솔루션 ‘오톡(OTalk)’을 한화오션에 구축했다. 한화오션 AX사업부가 현장 요구를 바탕으로 기획하고 한화시스템과 플리토가 함께 만든 솔루션으로, 조선소 특유의 은어와 억양 센 사투리 때문에 즉각적인 소통이 어렵고 작업 이해도가 떨어지는 문제를 줄이는 것이 목적이다. 한화오션은 작업 현장에서 쓰는 조선 전문용어와 은어, 사투리 ... 더 읽기",
+          "summary": "중국 소비자의 80%가 개인적인 목적으로 인공지능(AI)을 주 1회 이상 사용한다는 조사 결과가 나왔다. 미국은 54%였다. 모건스탠리가 자체 조사 조직 알파와이즈(AlphaWise)를 통해 실시하고 14일 보고서로 공개한 설문 결과다. 모건스탠리는 이 차이를 모델 성능이 아니라 배포 방식에서 찾았다. 미국이 최첨단 모델의 성능에서는 여전히 앞서 있지만, 소비자가 AI를 실제로 쓰게 만드는 데서는 중국이 앞서 있다는 것이다. 가장 뛰어난 ... 더 읽기",
           "keywords": [
-            "스타트업",
-            "AI 통번역",
-            "플리토",
-            "한화오션"
+            "글로벌",
+            "AI",
+            "China",
+            "모건스탠리",
+            "미국",
+            "중국"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "충남 초기 소부장 기업에 돈 댄다, 충남혁신센터·호서대 공동 운용 펀드 결성",
+          "link": "https://platum.kr/archives/294812?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b6%25a9%25eb%2582%25a8-%25ec%25b4%2588%25ea%25b8%25b0-%25ec%2586%258c%25eb%25b6%2580%25ec%259e%25a5-%25ea%25b8%25b0%25ec%2597%2585%25ec%2597%2590-%25eb%258f%2588-%25eb%258c%2584%25eb%258b%25a4-%25ec%25b6%25a9%25eb%2582%25a8%25ed%2598%2581%25ec%258b%25a0%25ec%2584%25bc%25ed%2584%25b0%25c2%25b7%25ed%2598%25b8",
+          "pubDate": "2026-09-17T07:16:00.000Z",
+          "image": null,
+          "summary": "충남 지역 소재·부품·장비(소부장) 분야 초기 기업에 투자할 100억원 규모 펀드가 만들어졌다. 17일 충남창업마루나비에서 ‘충남 소부장 혁신호서 기업성장 투자조합’ 결성총회가 열렸다. 이 조합은 한국벤처투자의 2026년 지역 모펀드 출자사업 중 ‘충남 기업성장 벤처펀드’ 운용사로 선정되면서 결성됐다. 모태펀드는 정부 예산 등을 모아 민간 벤처펀드에 출자하는 재원이며, 이번 조합에는 80억원이 들어갔다. 운용은 충남혁신센터와 호서대학교 산학협력단이 공동 업무집행조합원(GP)을 맡아 함께 ... 더 읽기",
+          "keywords": [
+            "투자",
+            "소부장",
+            "충남 소부장 혁신호서 기업성장 투자조합",
+            "충남창조경제혁신센터",
+            "펀드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중견기업 된 벤처는 왜 벤처가 아닌가",
+          "link": "https://platum.kr/archives/294780?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b2%25ac%25ea%25b8%25b0%25ec%2597%2585-%25eb%2590%259c-%25eb%25b2%25a4%25ec%25b2%2598%25eb%258a%2594-%25ec%2599%259c-%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b0%2580-%25ec%2595%2584%25eb%258b%258c%25ea%25b0%2580",
+          "pubDate": "2026-09-17T07:06:33.000Z",
+          "image": null,
+          "summary": "중소기업 범위를 벗어나 중견기업이 된 벤처기업은 벤처기업 확인이 취소된다. 벤처기업확인제도가 민간으로 이관된 2021년 이후 이렇게 확인이 취소된 기업은 191개사다. 17일 국회의원회관 제6간담회의실에서 열린 ‘제5회 벤처·스타트업 성장 포럼’에서는 이 단절 문제와 함께 주식 기반 성과보상, 연구개발 인력의 근로시간 제도 개선안이 나왔다. 포럼 주제는 ‘혁신기업 인재 유치 및 지속 성장 전략’이다. 더불어민주당 장철민 의원이 대표 주최하고 백혜련·김의겸·오세희·허성무·박희승·임문영·권향엽·송재봉 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "벤처·스타트업 성장 포럼",
+            "벤처기업협회",
+            "벤처기업확인제도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI 속도 조절론에 엇갈린 시선…한국 “늦출 여유 없다”, 프랑스 “선두 기업 이해관계”",
+          "link": "https://platum.kr/archives/294806?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%2586%258d%25eb%258f%2584-%25ec%25a1%25b0%25ec%25a0%2588%25eb%25a1%25a0%25ec%2597%2590-%25ec%2597%2587%25ea%25b0%2588%25eb%25a6%25b0-%25ec%258b%259c%25ec%2584%25a0%25ed%2595%259c%25ea%25b5%25ad-%25eb%258a%25a6%25ec%25b6%259c-%25ec%2597%25ac%25ec%259c%25a0-%25ec%2597%2586%25eb%258b%25a4",
+          "pubDate": "2026-09-17T06:11:50.000Z",
+          "image": null,
+          "summary": "최첨단 인공지능(AI) 모델의 개발 속도를 늦추자는 미국 AI 업계의 제안에 프랑스와 한국의 고위 당국자들이 잇달아 반론을 제기했다. 프랑스에서는 이미 선두에 선 기업들이 후발주자의 속도를 늦춰 현재의 우위를 지키려는 것 아니냐는 문제 제기가 나왔다. 한국에서는 추격국이 스스로 개발 속도를 낮추는 것은 선도국의 감속과 전혀 다른 문제라는 주장이 나왔다. 논쟁의 발단은 앤트로픽 CEO 다리오 아모데이가 지난 12일 ... 더 읽기",
+          "keywords": [
+            "트렌드",
+            "글로벌",
+            "다리오 아모데이",
+            "롤랑 르스퀴르 재무장관",
+            "배경훈 부총리",
+            "샘 올트먼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:33.475Z",
+      "fetchedAt": "2026-09-17T12:13:35.563Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -885,6 +886,21 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+          "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+          "pubDate": "2026-09-17T11:00:00.000Z",
+          "image": null,
+          "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "cybersecurity"
+          ],
+          "isForeign": true,
+          "titleKo": "Comp AI는 보안 및 규정 준수를 위해 지속적으로 에이전트적인 미래를 주시합니다.",
+          "summaryKo": "사이버 보안 및 컴플라이언스 스타트업인 Comp AI는 Roo Capital과 Grand Ventures가 주도하는 $ 34,000,000 시리즈 A 라운드를 발표했습니다."
+        },
         {
           "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
@@ -948,27 +964,9 @@
           "isForeign": true,
           "titleKo": "사이언스 코퍼레이션 (Science Corp) 의 CEO 맥스 호닥 (Max Hodak) 이 '테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026)",
           "summaryKo": "올해 Disrupt에서 Science Corp의 CEO Max Hodak은 의료 지원까지 제공할 수 있는 화면 없는 인터페이스에 대한 비전을 제시할 것입니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
-        },
-        {
-          "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-          "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-          "pubDate": "2026-09-16T16:00:00.000Z",
-          "image": null,
-          "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
-          "keywords": [
-            "Gadgets",
-            "Startups",
-            "AI wearables",
-            "Founders Fund",
-            "hearing aids",
-            "Thrive Capital"
-          ],
-          "isForeign": true,
-          "titleKo": "Fortell이 AI (및 $ 163M) 를 사용하여 보청기 독점을 해독하는 방법",
-          "summaryKo": "“왜 조부모님께 보청기를 착용해 달라고 간청해야 하는데, 아무도 저에게 안경을 착용해 달라고 요청하지 않았나요?” 매튜 드 종 (Matthew de Jonge) 이 최근 파운더스 펀드 (Founders Fund), 스라이브 캐피털 (Thrive Capital), 밸러 에퀴티 (Valor Equity) 등에서 $ 1억 6천 3백만 달러를 모금한 인공지능 보청기 스타트업 포르텔 (Fortell) 을 6년 동안 건설하게 된 계기가 된 질문입니다. [...]"
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:33.579Z",
+      "fetchedAt": "2026-09-17T12:13:37.662Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1065,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:36.115Z",
+      "fetchedAt": "2026-09-17T12:13:39.822Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1076,11 +1074,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
+          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - yna.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
           "pubDate": "2026-09-17T02:12:38.000Z",
           "image": null,
-          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
+          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 yna.co.kr",
           "keywords": [
             "이천소식",
             "최대",
@@ -1110,17 +1108,17 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - vtimes.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
-          "pubDate": "2026-09-16T00:00:00.000Z",
+          "title": "이천시, `2026년 하반기 중소기업 청년노동자 근속장려금` 참여자 모집 - 경기평화신문",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvNmxMbjViWUMya2VDWU1mTnBBOVZ4WjVUbXFaNXRzUzQ4NHdvQ0Y3WVdSalF2ZVZLZkZSeU9sV1BPYm1BU1hhVXln?oc=5",
+          "pubDate": "2026-09-17T03:55:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 vtimes.kr",
+          "summary": "이천시, `2026년 하반기 중소기업 청년노동자 근속장려금` 참여자 모집 경기평화신문",
           "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "지원사업",
-            "참여기업",
-            "모집"
+            "이천시",
+            "`2026년",
+            "하반기",
+            "중소기업",
+            "청년노동자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1144,97 +1142,97 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
-          "pubDate": "2026-09-16T00:03:21.000Z",
+          "title": "이천시 중소기업 청년노동자 근속장려금 지원사업 참여자 모집 - 모닝투데이",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJNkRZMEhNWVM4Y0VGVEhCX3dhUEkxNDczdEY0d1lCNGpJUV9LRUtEeVlmU3BLNW5nUXNOZGFmbS1BRE9fMXE2NWp6Ylc?oc=5",
+          "pubDate": "2026-09-17T02:11:00.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "이천시 중소기업 청년노동자 근속장려금 지원사업 참여자 모집 모닝투데이",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "이천시",
+            "중소기업",
+            "청년노동자",
+            "근속장려금",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T10:10:36.500Z",
+      "fetchedAt": "2026-09-17T12:13:40.395Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 6,
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
+      "count": 6,
       "rank": 2,
       "change": "down"
+    },
+    {
+      "key": "미국",
+      "label": "미국",
+      "count": 3,
+      "rank": 3,
+      "change": "up"
+    },
+    {
+      "key": "벤처기업협회",
+      "label": "벤처기업협회",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 4,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 5,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
-      "rank": 6,
+      "rank": 8,
       "change": "down"
+    },
+    {
+      "key": "중소기업",
+      "label": "중소기업",
+      "count": 3,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "글로벌",
-      "label": "글로벌",
-      "count": 2,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "미국",
-      "label": "미국",
-      "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
