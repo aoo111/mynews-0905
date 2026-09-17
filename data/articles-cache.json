@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T04:11:19.603Z",
+  "collectedAt": "2026-09-17T06:14:04.866Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "북극항로 개척 닻 올렸다…해진공, 쇄빙선 펀드 1200억 가동",
+          "link": "https://www.mk.co.kr/news/economy/12155418",
+          "pubDate": "2026-09-17T06:04:54.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.e5846560c55d4055826c376af8d168e9_R.jpg",
+          "summary": "쇄빙·내빙선 투자 프로그램 신설 선가 최대 30% 후순위 금융 투자 자기자본 10%만 내면 선박 도입 국적선사 극지 운항 경쟁력 확보한국해양진흥공사가 북극항로에 투입할 쇄빙·내빙선..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“나이 들면 병원비, 어릴 때는 학원비”…한국인 “인생이 적자네요”",
+          "link": "https://www.mk.co.kr/news/economy/12155412",
+          "pubDate": "2026-09-17T05:54:16.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.e0d0e7d9a2894878a6a9a9615a55a184_R.png",
+          "summary": "한국인은 생애 주기상 45세에 소비 대비 노동소득이 가장 많아지며 최대 흑자를 내는 것으로 나타났다. 반면 대입 등으로 교육비 지출이 늘어나는 16세 때는 가장 많은 적자를 기록했..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“학생이건 직장인이건 AI 안 쓰는 사람 없더라”…지식서비스 적자 9조 육박",
+          "link": "https://www.mk.co.kr/news/economy/12155339",
+          "pubDate": "2026-09-17T05:19:58.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.37ed824d56804283996938e18253af5a_R.png",
+          "summary": "상반기 AI 서비스 지출 1년새 2배 K팝 공연·드라마 수출 호조에 문화·여가서비스 역대 최대 흑자K팝 공연과 드라마 수출 호조에도 해외 소프트웨어와 온라인 서비스 등에 지급하는 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "KTC, 키르기스스탄과 할랄인증 협력…중앙아 수출길 넓힌다",
           "link": "https://www.mk.co.kr/news/economy/12155249",
           "pubDate": "2026-09-17T02:42:38.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“美금리 인상, ‘영끌족’에 겨울이 온다”…이찬진 “변동성 대비·국내증시 점검”",
-          "link": "https://www.mk.co.kr/news/economy/12155194",
-          "pubDate": "2026-09-17T01:59:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.0f83544671574ebf919e98c84511d8c8_R.jpg",
-          "summary": "미국채금리 상승, 국내 채권금리 전이 5대 시중은행 금리상단 연7% 넘어 미국, 연내 추가 금리 인상 가능성도 금융당국 “인상 광범위한 영향 대비”미국 연방준비제도(Fed·연준)가..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“휴가비 40만원 지원해드립니다”…근로자 휴가지원사업, 배달라이더까지 확대",
-          "link": "https://www.mk.co.kr/news/economy/12155188",
-          "pubDate": "2026-09-17T01:57:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/rcv.YNA.20260708.PYH2026070817000001300_R.jpg",
-          "summary": "14.5만명 지원 규모, 21만명으로 확대 정부 예산 107억원서 내년 220억으로중소·중견기업 직장인의 국내여행 경비를 지원하는 ‘근로자 휴가지원사업’이 내년부터 배달라이더 등 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“나 살기도 빠듯한데 남을 어떻게 도와?”…1인당 GDP 평균 웃돌지만",
-          "link": "https://www.mk.co.kr/news/economy/12155180",
-          "pubDate": "2026-09-17T01:52:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/rcv.YNA.20260911.PYH2026091103230001300_R.jpg",
-          "summary": "韓 최근 5년 인당 평균 GDP 3.6만弗 경제상황 긍정적 평가 비중 최하위권 봉사·재능기부 참여의향 응답 낮아져한국의 1인당 국내총생산(GDP)이 주요 29개국 평균을 웃도는 수..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:05.902Z",
+      "fetchedAt": "2026-09-17T06:13:53.675Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:05.998Z",
+      "fetchedAt": "2026-09-17T06:13:53.719Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215396",
+          "pubDate": "2026-09-17T14:32:41.000Z",
+          "image": null,
+          "summary": "지니젠AI(대표 최선영)가 글로벌 AI 모델 중개 플랫폼 오픈라우터의 모델 426종을 분석, 한국어 품질 평가 결과를 담은 리더보드를 허깅페이스에 공개했다고 17일 밝혔다.오픈라우터는 앤트로픽, 구글, 오픈AI, xAI, 딥시크 등 다양한 AI 모델을 단일 API로 제공하는 플랫폼이다. 2026년 8월 기준 이용자 1000만명, 일 처리량 10조 토큰을 돌파했다.지니젠AI는 이 중 330종을 대상으로 높임말 정확도, 한국 제도 지식, 전문 용어, 지시 준수, 요약, 번역투 배제, 문체 일관성 등 7개 항목을 평가했다. 평가 결과 종",
+          "keywords": [
+            "지니젠AI",
+            "오픈라우터",
+            "426종",
+            "분석",
+            "한국어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215394",
+          "pubDate": "2026-09-17T14:18:08.000Z",
+          "image": null,
+          "summary": "오픈AI와 앤트로픽 내에서 AI 안전망 강화를 위한 조치를 둘러싸고 경영진과 내부 연구진 간 갈등이 확대되는 양상이다.17일(현지시간) 파이낸셜타임스(FT)에 따르면, 오픈AI와 앤트로픽 최고 경영진이 모델 개발 속도 조절과 외부 감시 강화를 공식적으로 선언한 가운데, 내부에서는 기술 보안 유출과 연구 차질에 대한 우려가 거세지고 있다. 갈등은 외부 평가자에게 정규직 직원 수준의 출입증과 전용 노트북, 내부 시스템 접근 권한을 부여해 모델 개발 전 과정을 실시간으로 감독하게 하겠다는 구상에서 시작됐다. 다리오 아모데이 앤트로픽 CE",
+          "keywords": [
+            "외부",
+            "감사에",
+            "연구실",
+            "개방하라",
+            "오픈AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"승강기 내 위험 AI가 돕는다\"...LGU+, 현대엘리베이터와 원격관제 협력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215387",
+          "pubDate": "2026-09-17T13:44:47.000Z",
+          "image": null,
+          "summary": "LG유플러스(대표 홍범식)는 현대엘리베이터와 'AI 기반 원격관제 시스템 고도화 및 보안 분야 협력'을 위한 업무협약을 체결했다고 17일 밝혔다.양사는 현대엘리베이터의 스마트 원격관제 플랫폼 '미리(MIRI)'와 승강기 간 통신 구간에 LGU+의 사물지능통신(M2M) 서비스를 적용해 원격관제의 안정성을 높일 예정이다.특히 승강기 비상통화장치에 AI 음성인식 기술을 적용한 서비스 실증으로 단순 문의나 오작동은 AI가 응대하고 긴급 상황은 전담 직원이 대응하도록 구현할 방침이다.보안 분야 협력도 확대해 LGU+의 보안관제 서비스와 클라",
+          "keywords": [
+            "승강기",
+            "위험",
+            "AI가",
+            "돕는다",
+            "LGU+"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "술레이먼, 앤트로픽에 직격탄...\"AI에 의식·권리 부여는 재앙적 위험\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215391",
+          "pubDate": "2026-09-17T13:32:26.000Z",
+          "image": null,
+          "summary": "무스타파 술레이먼 마이크로소프트(MS) AI CEO가 앤트로픽의 AI 모델 운영 철학을 정면으로 비판하며 초지능 통제 불능 위험성을 경고하고 나섰다.술레이먼 CEO는 16일(현지시간) 개인 블로그에 '모델 복지에 대한 경고(A Warning About Model Welfare)'라는 글을 게시하고, 앤트로픽이 '클로드'에 의식이나 감정이 있는 것처럼 훈련하는 방식은 인류에 재앙적인 결과를 초래할 수 있다고 지적했다.앤트로픽의 행동 지침인 '클로드 헌법(Constitution)'을 직접 겨냥했다. 앤트로픽은 AI가 도덕적 주체로서 보",
+          "keywords": [
+            "술레이먼",
+            "앤트로픽에",
+            "직격탄",
+            "AI에",
+            "의식"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "미국인 63% “AI, 인류 파멸시킬 수도”...개발 중단은 48% 지지",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215379",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "노타, 인텔과 'AI 영상관제 패키지' 출시...\"GPU 1개로 CCTV 32개 감시\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215385",
-          "pubDate": "2026-09-17T12:52:07.000Z",
-          "image": null,
-          "summary": "노타(대표 채명수)는 인텔과 협력해 자체 영상 관제 솔루션 '노타 비전 에이전트(NVA)'에 인텔의 그래픽처리장치(GPU) 'B70'을 결합한 패키지를 출시했다고 17일 밝혔다.노타는 B70의 연산 구조에 맞춰 NVA를 최적화했으며, 인텔은 하드웨어와 소프트웨어 환경에 대한 기술 지원을 담당한다. 이를 통해 고객은 별도의 하드웨어 선정과 최적화 과정 없이 요구 성능과 예산에 맞는 영상 관제 시스템을 구축할 수 있다고 설명했다.인텔 B70은 GPU 한 장으로 32개 영상 채널에서 초당 총 540장의 화면을 처리하며, 채널당 평균 처리",
-          "keywords": [
-            "노타",
-            "인텔과",
-            "AI",
-            "영상관제",
-            "패키지"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "일레븐랩스, 유니버설과 파트너십...\"정식 라이선스로 AI 음악 플랙폼 선보일 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215382",
-          "pubDate": "2026-09-17T12:50:11.000Z",
-          "image": null,
-          "summary": "일레븐랩스가 유니버설뮤직그룹(UMG)과 손잡고, 팬들을 위한 새로운 AI 음악 플랫폼을 선보인다.일레븐랩스는 UMG와 '아티스트와 작곡가를 위한 AI 오디오 제품을 공동 개발하기 위한 다년간의 라이선스 계약 및 광범위한 전략적 협약'을 체결했다고 17일 밝혔다.메이저 음반사와 체결한 최초의 협약이다. 인간의 예술성을 존중하고, 아티스트와 작곡가가 창출된 가치를 공정하게 공유할 수 있어야 한다는 취지라고 설명했다.이를 통해 정식 라이선스 음원과 아티스트의 참여를 토대로 '신규 AI 음악 창작 플랫폼'을 개발한다. 기존 음악 제품 라인",
-          "keywords": [
-            "일레븐랩스",
-            "유니버설과",
-            "파트너십",
-            "정식",
-            "라이선스로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "인텔리빅스, 증권신고서 제출...안전관제 AI로 코스닥 상장 돌입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215381",
-          "pubDate": "2026-09-17T12:47:08.000Z",
-          "image": null,
-          "summary": "AI 전문 인텔리빅스(대표 장정훈)는 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 공모 절차에 돌입했다고 17일 밝혔다.2000년 설립된 인텔리빅스는 영상분석 AI 기술을 기반으로 공공 및 산업 현장에 안전 솔루션을 제공 중이다.핵심 제품은 AI 기반 통합 안전관제 플랫폼 'GenAMS'이다. 자체 AI 엔진 '빅스 2.0'과 AI 에이전트 '빅사(VIXA)'를 탑재한 온디바이스 형태로 단순 위험 탐지를 넘어 상황을 이해하고 스스로 판단·대응하는 것이 특징이다.현재 삼성, 포스코, 현대차, LG그룹 등이 주요 고객사이며,",
-          "keywords": [
-            "인텔리빅스",
-            "증권신고서",
-            "제출",
-            "안전관제",
-            "AI로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AMD, 연내 국내에 '아시아 첫' AI 우수 연구센터 설립…과기부와 공동연구 본격화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215384",
-          "pubDate": "2026-09-17T12:44:52.000Z",
-          "image": null,
-          "summary": "리사 수 AMD CEO는 연내 국내에 아시아 첫 AI 연구 거점을 설립, 국내 정부 및 기업과 공동 연구를 모색할 계획이라고 17일 밝혔다.배경훈 부총리 겸 과학기술정보통신부 장관도 SNS를 통해 “AMD가 연내 한국에 아시아 첫 ‘AI 우수 연구센터’를 설립한다”며 “국내 대학, 연구기관과 함께 인재를 키우고 신약, 기후, 에너지 분야에서 제조와 로봇 등 피지컬 AI까지 공동연구를 확대할 계획”이라고 말했다.이번 협력은 지난 7월 샌프란시스코에서 이뤄진 리사 수 AMD CEO와의 회동을 계기로 한다. 당시 체결된 과기부와 AMD의",
-          "keywords": [
-            "AMD",
-            "연내",
-            "국내에",
-            "아시아",
-            "AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:07.278Z",
+      "fetchedAt": "2026-09-17T06:13:54.865Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:07.425Z",
+      "fetchedAt": "2026-09-17T06:13:54.999Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,71 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "DeepMind Institute",
+          "link": "https://news.hada.io/topic?id=33825",
+          "pubDate": "2026-09-17T05:32:12.000Z",
+          "image": null,
+          "summary": "DeepMind Institute는 AGI에 가까워지는 시점에 인류에 미칠 중대한 영향을 이해하기 위해 학제 간 사고가 필요하다고 강조함 추론 투명성을 통해 AI의 사고 과정을 읽고 계략과 기만을 감시할 수 있으며, 이 통로를 유지해야 함",
+          "keywords": [
+            "DeepMind",
+            "Institute"
+          ],
+          "isForeign": true,
+          "titleKo": "DeepMind Institute",
+          "summaryKo": "DeepMind Institute는 AGI에 가까워지는 시점에 인류에 미칠 중대한 영향을 이해하기 위해 학제 간 사고가 필요하다고 강조함 추론 투명성을 통해 AI의 사고 과정을 읽고 계략과 기만을 감시할 수 있으며, 이 통로를 유지해야 함"
+        },
+        {
+          "title": "블로그 글에 DOI를 발급받는 방법",
+          "link": "https://news.hada.io/topic?id=33824",
+          "pubDate": "2026-09-17T05:12:12.000Z",
+          "image": null,
+          "summary": "Rogue Scholar를 이용하면 개인 블로그에 글을 유지하면서 새 글마다 DOI를 자동 발급받을 수 있음 DOI는 특정 글을 가리키는 고유하고 지속적인 식별자로, 도메인이나 글의 주소가 바뀌어도 새 위치로 연결할 수 있어 학술 인용에 유용함 등록하려면",
+          "keywords": [
+            "블로그",
+            "글에",
+            "DOI를",
+            "발급받는",
+            "방법"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: Trawling - 해외 기술 소식을 모아보는 한국어 브리핑",
+          "link": "https://news.hada.io/topic?id=33823",
+          "pubDate": "2026-09-17T04:58:47.000Z",
+          "image": null,
+          "summary": "https://trawling.dev/ 해외 기술 소식과 프로젝트를 여러 출처에서 모아 한국어 요약과 해설로 보여주는 Trawling을 만들었습니다. 여러 사이트를 오가며 영어 제목과 본문을 확인하는 과정을, 한 목록에서 요약을 먼저 읽고 관심 있는 원문을 열어보는 흐름으로 묶었습니다. 개발 도구, 오픈소스, 하",
+          "keywords": [
+            "Show",
+            "GN:",
+            "Trawling",
+            "해외",
+            "기술"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "3진 LLM의 1.58비트 장벽을 넘어서",
+          "link": "https://news.hada.io/topic?id=33822",
+          "pubDate": "2026-09-17T04:42:12.000Z",
+          "image": null,
+          "summary": "BITCOS는 3진 LLM 가중치의 0 비중을 활용해 저장량을 줄이는 형식으로, 조사한 29개 모델 중 26개에서 기존 5트릿 패킹보다 작고 기호만 계산하면 최소 가중치당 1.485비트를 달성함 모든 가중치에 비영 여부를 나타내는 비트 1개를 배정하고, 0이 아닌 가중치의 ...",
+          "keywords": [
+            "3진",
+            "LLM의",
+            "58비트",
+            "장벽을",
+            "넘어서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "1.1.1.1은 이제 포스트퀀텀 DNSSEC 을 지원합니다.",
           "link": "https://news.hada.io/topic?id=33821",
@@ -372,76 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "호주, 캐나다처럼 EU와 관계를 강화할 수 있다고 밝혀",
-          "link": "https://news.hada.io/topic?id=33820",
-          "pubDate": "2026-09-17T02:33:07.000Z",
-          "image": null,
-          "summary": "호주 통상장관 Don Farrell은 EU와 더 긴밀한 관계를 모색하는 캐나다와 같은 입장이라며, 캐나다의 행보를 관심 있게 지켜보겠다고 밝힘 캐나다 총리 Mark Carney는 EU 정회원 가입이 아니라 “독자적인 동맹”을 추구한다고 명확히 함",
-          "keywords": [
-            "호주",
-            "캐나다처럼",
-            "EU와",
-            "관계를",
-            "강화할"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": ".NET 11의 성능 개선",
-          "link": "https://news.hada.io/topic?id=33819",
-          "pubDate": "2026-09-17T01:48:13.000Z",
-          "image": null,
-          "summary": ".NET 11은 JIT와 라이브러리 전반에서 불필요한 할당, 경계 검사, 잠금, 복사를 줄임. JIT 최적화는 소스 수정이나 애플리케이션 재컴파일 없이도 이득을 주는 경우가 많음 런타임 비동기(runtime async) 는 async/await 변환을 컴파일러...",
-          "keywords": [
-            "NET",
-            "11의",
-            "성능",
-            "개선"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
-          "link": "https://news.hada.io/topic?id=33818",
-          "pubDate": "2026-09-17T01:20:28.000Z",
-          "image": null,
-          "summary": "서로 다른 머신에서 돌아가는 Claude Code 세션끼리 질문을 푸쉬하고 답을 받는 시스템입니다. 문제 내 레포는 내가 잘 알",
-          "keywords": [
-            "Show",
-            "GN:",
-            "레포는",
-            "그쪽",
-            "Claude가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "NVIDIA, Rust 네이티브 GPU 프로그래밍 지원 발표",
-          "link": "https://news.hada.io/topic?id=33815",
-          "pubDate": "2026-09-17T00:34:57.000Z",
-          "image": null,
-          "summary": "CUDA Rust는 다른 언어로 작성한 커널을 호출하는 래퍼를 넘어, GPU 커널 자체를 Rust로 작성하고 네이티브 PTX로 컴파일하는 두 가지 개발 경로를 제공함 cuda-oxide는 스레드와 메모리를 직접 제어하는 SIMT 방식이며, cutile-rs는 데이터 타일...",
-          "keywords": [
-            "NVIDIA",
-            "Rust",
-            "네이티브",
-            "GPU",
-            "프로그래밍"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:08.339Z",
+      "fetchedAt": "2026-09-17T06:13:58.202Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +532,7 @@
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:08.560Z",
+      "fetchedAt": "2026-09-17T06:13:58.400Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:08.802Z",
+      "fetchedAt": "2026-09-17T06:13:58.484Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:08.854Z",
+      "fetchedAt": "2026-09-17T06:13:58.533Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -698,18 +696,72 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
+          "title": "잇뉴·로지픽, 창고에서 배송까지 AI로 잇는다…물류 최적화 공동 연구",
+          "link": "https://www.venturesquare.net/1114740/",
+          "pubDate": "2026-09-17T06:01:40.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ITNEW-698x522.png",
+          "summary": "제주창조경제혁신센터 투자기업 잇뉴가 WMS 전문기업 로지픽과 AI·물류 분야 공동 연구 및 글로벌 시장 진출을 위한 업무협약을 체결했다. 잇뉴의 시공간 데이터 기반 로케이션 AI와 운송관리 기술에 로지픽의 창고관리시스템 및 AI 에이전트 ‘옵티플로우 AI’를 연결해 창... The post 잇뉴·로지픽, 창고에서 배송까지 AI로 잇는다…물류 최적화 공동 연구 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "TMS",
+            "WMS",
+            "고병욱"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "하스, 글로벌 치과기공사 불러 Amber Press Master 실습…오랄디자인 서울 후원",
+          "link": "https://www.venturesquare.net/1114737/",
+          "pubDate": "2026-09-17T05:55:48.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/HAS-789x320.png",
+          "summary": "김용수 대표가 이끄는 하스가 글로벌 심미보철 학술행사 ‘오랄디자인 서울 심포지엄’ 공식 후원사로 참여해 리튬 디실리케이트 기반 글라스 세라믹 기술을 소개한다. 독일 마스터 치과기공사 크리스티안 포어더마이어가 ‘Amber Press Master’를 활용해 전치부 크라운과... The post 하스, 글로벌 치과기공사 불러 Amber Press Master 실습…오랄디자인 서울 후원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AmberPressMaster",
+            "AMDC",
+            "CADCAM"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "수술실 부족한 ‘손’, 휴머노이드가 채운다…의료진과 함께 움직인 피지컬 AI",
+          "link": "https://www.venturesquare.net/1114707/",
+          "pubDate": "2026-09-17T03:00:36.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ROBOT-783x522.jpg",
+          "summary": "삼성서울병원에서 피지컬 AI 기반 휴머노이드 수술 보조 로봇 ‘ORchestra’의 라이브 시연이 진행됐다. 로봇은 집도의의 음성 명령을 이해해 수술 도구를 전달하고 내시경 조작과 조직 견인 등 의료진의 보조 업무를 수행하는 방향으로 개발되고 있다. 5년간 진행되는 한... The post 수술실 부족한 ‘손’, 휴머노이드가 채운다…의료진과 함께 움직인 피지컬 AI appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "현장스케치",
+            "ORchestra",
+            "레인보우로보틱스",
+            "삼성서울병원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "GSC, 타일러 라쉬와 함께 외국인 창업가에게 ‘K-스타트업 생태계’ 알린다",
           "link": "https://www.venturesquare.net/1114724/",
           "pubDate": "2026-09-17T02:36:07.000Z",
           "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/gsc-image.jpeg",
-          "summary": "중소벤처기업부와 창업진흥원이 지원하고 한국엔젤투자협회가 운영하는 글로벌 스타트업 센터(Global Startup Center, 이하 GSC)가 9월 16일 서울 강남구 팁스타운 S1에서 ‘WAVE OF GSC’를 개최했다. 외국인 (예비)창업가와 창업기업을... The post GSC, 타일러 라쉬와 함께 외국인 창업가에게 ‘K-스타트업 생태계’ 알린다 appeared first on 벤처스퀘어.",
+          "summary": "글로벌 스타트업 센터(GSC)가 외국인 예비창업가와 창업기업을 대상으로 ‘WAVE OF GSC’를 열고 한국 창업 생태계와 실전 창업 경험을 공유했다. 방송인이자 창업가인 타일러 라쉬가 연사로 참여해 외국인의 시각에서 바라본 한국의 창업 환경과 성장 가능성에 대해 이야... The post GSC, 타일러 라쉬와 함께 외국인 창업가에게 ‘K-스타트업 생태계’ 알린다 appeared first on 벤처스퀘어.",
           "keywords": [
-            "보도자료",
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
             "GSC",
             "K스타트업",
-            "WAVEOFGSC",
-            "글로벌스타트업센터",
-            "법인설립"
+            "WAVEOFGSC"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -732,63 +784,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "유니티, 코덱스가 게임 프로젝트 직접 읽고 검증한다…공식 플러그인 출시",
-          "link": "https://www.venturesquare.net/1114682/",
-          "pubDate": "2026-09-17T01:26:12.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/UNTY-789x476.jpg",
-          "summary": "유니티가 OpenAI Codex에서 유니티 프로젝트를 직접 다룰 수 있는 공식 퍼스트파티 플러그인을 출시했다. 유니티 엔지니어가 직접 작성하고 관리하는 31개 스킬을 통해 UI와 2D, 물리, 렌더링, 멀티플레이어 등 다양한 게임 개발 작업을 지원한다. Codex는 작... The post 유니티, 코덱스가 게임 프로젝트 직접 읽고 검증한다…공식 플러그인 출시 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI개발",
-            "AI코딩",
-            "ClaudeCode"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "플로우, ChatGPT·Claude 안에서 업무 시킨다…AI 호출 100만건 돌파",
-          "link": "https://www.venturesquare.net/1114673/",
-          "pubDate": "2026-09-17T01:18:36.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/FLOW-366x522.png",
-          "summary": "이학준 대표가 이끄는 마드라스체크의 협업툴 플로우가 ChatGPT와 Claude 공식 앱으로 등록돼 AI 대화창에서 회사 업무를 조회하고 실행할 수 있게 됐다. 프로젝트·업무·게시글·일정·위키·조직도 등 39개 기능이 AI와 연결돼 검색뿐 아니라 업무 생성과 담당자 지... The post 플로우, ChatGPT·Claude 안에서 업무 시킨다…AI 호출 100만건 돌파 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AIWorkAgent",
-            "AI에이전트",
-            "B2BSaaS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "세일즈포스, 구글·AWS AI 에이전트까지 연결…에이전틱 생태계 확장",
-          "link": "https://www.venturesquare.net/1114667/",
-          "pubDate": "2026-09-17T01:14:33.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SALESFORCE-762x522.jpg",
-          "summary": "세일즈포스가 드림포스 2026에서 구글 클라우드·AWS와의 협력을 확대하며 기업 데이터와 업무 시스템, AI 에이전트를 연결하는 생태계 전략을 강화했다. 구글 클라우드에서는 하이퍼포스와 제미나이 엔터프라이즈를 연결하고 AWS에서는 아마존 베드록의 파운데이션 모델과 슬랙... The post 세일즈포스, 구글·AWS AI 에이전트까지 연결…에이전틱 생태계 확장 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI에이전트",
-            "AI포스",
-            "AWS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:12.343Z",
+      "fetchedAt": "2026-09-17T06:14:01.611Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:12.624Z",
+      "fetchedAt": "2026-09-17T06:14:01.835Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +970,7 @@
           "summaryKo": "“왜 조부모님께 보청기를 착용해 달라고 간청해야 하는데, 아무도 저에게 안경을 착용해 달라고 요청하지 않았나요?” 매튜 드 종 (Matthew de Jonge) 이 최근 파운더스 펀드 (Founders Fund), 스라이브 캐피털 (Thrive Capital), 밸러 에퀴티 (Valor Equity) 등에서 $ 1억 6천 3백만 달러를 모금한 인공지능 보청기 스타트업 포르텔 (Fortell) 을 6년 동안 건설하게 된 계기가 된 질문입니다. [...]"
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:14.909Z",
+      "fetchedAt": "2026-09-17T06:14:01.889Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:17.687Z",
+      "fetchedAt": "2026-09-17T06:14:04.528Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1079,6 +1077,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - idailynews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
+          "pubDate": "2026-09-16T11:11:00.000Z",
+          "image": null,
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 idailynews.co.kr",
+          "keywords": [
+            "2016년",
+            "지역",
+            "평생교육",
+            "활성화",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
@@ -1097,17 +1112,17 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
           "pubDate": "2026-09-16T00:03:21.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
           "keywords": [
             "공정",
             "혁신",
             "포용의",
             "경기",
-            "경기도청"
+            "gg"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1146,26 +1161,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 - 데일리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONUg5UGZ3aWx5UFNQbXY2amVkZnBwTktXU3JWdndpM3pldEZqWWxMS0hfWS14NkJnYXktcXluRkNUZ2xOTVZ6MGRHWDJOdTU0dmZIMkgxZDkxcDR5YW5CYWVTWWU0elFGVVhuRzZ5U2ZqaGUyZE05ZzBSc05wSi1RbERhRWVPRTlRS3A0bFhrX2gxZXNfd2pyNl9SM1VNcS1NNVdCYnBqNGJ0R1J2UzFhRlBDVVgwby1CSmZ1Sk0xRXJsRkN1TGlkTWk0OGFRVnRISFhYMklrZjlRT21jZnExMkpFeDZrVEhhT3VaRl94NzhMYVlqZTd0MmZwSm9HcHRtNUN2T1YyNGMzYURuZXVxVDRIYS1zZUY0aWpldDN2TFdqVmVDTllkNkEyU2xzRzNpclZBWWpPbC10MGNiR0pWRUlZSW1ObkRvY1dBcW92Y2JOYUdLWGNvQw?oc=5",
-          "pubDate": "2026-09-15T12:34:00.000Z",
-          "image": null,
-          "summary": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 데일리뉴스",
-          "keywords": [
-            "「2017년",
-            "중소",
-            "중견기업",
-            "기술개발",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T04:11:18.184Z",
+      "fetchedAt": "2026-09-17T06:14:04.856Z",
       "error": null
     }
   },
@@ -1173,56 +1171,56 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
+      "count": 2,
       "rank": 1,
       "change": "same"
+    },
+    {
+      "key": "오픈ai",
+      "label": "오픈AI",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 5,
       "rank": 3,
-      "change": "up"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
-      "rank": 4,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
-      "count": 4,
-      "rank": 5,
-      "change": "down"
+      "count": 5,
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
-      "count": 4,
+      "count": 5,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
+      "count": 5,
       "rank": 6,
+      "change": "down"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "ai에이전트",
-      "label": "AI에이전트",
-      "count": 2,
       "rank": 8,
       "change": "down"
     },
@@ -1238,7 +1236,7 @@
       "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1311,7 +1309,7 @@
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "은행 및 소비자 규제 정책"
     },
     {
@@ -1319,7 +1317,7 @@
       "label": "Global Affairs",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "글로벌 업무"
     }
   ]
