@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T16:11:27.866Z",
+  "collectedAt": "2026-09-17T18:12:29.100Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:17.179Z",
+      "fetchedAt": "2026-09-17T18:12:16.123Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:17.271Z",
+      "fetchedAt": "2026-09-17T18:12:16.178Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:18.191Z",
+      "fetchedAt": "2026-09-17T18:12:17.401Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:18.355Z",
+      "fetchedAt": "2026-09-17T18:12:17.644Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
+          "link": "https://news.hada.io/topic?id=33852",
+          "pubDate": "2026-09-17T17:32:14.000Z",
+          "image": null,
+          "summary": "코딩 에이전트를 보안 감사 도구로 전환하는 스킬로, 격리된 에이전트들을 조율해 코드베이스 정찰부터 취약점 탐색, 검증, 보고서 작성까지 수행함 커버리지 장부를 기준으로 탐색 작업을 배정하고, 발견한 에이전트와 별개의 검증 에이전트가 취약점 후보를 반증...",
+          "keywords": [
+            "security",
+            "audit",
+            "코딩",
+            "에이전트를",
+            "보안"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: JD 기반 자기소개서 첨삭 Codex Skill",
+          "link": "https://news.hada.io/topic?id=33851",
+          "pubDate": "2026-09-17T16:54:42.000Z",
+          "image": null,
+          "summary": "자기소개서 작성과 첨삭을 돕는 Codex Skill을 만들었어요. 채용공고/JD, 자소서 문항, 글자수 제한, 초안을 입력하면 문항의 의도와 JD를 분석해 제출용 자기소개서로 다듬어줘요. 단순히 문장을 자연스럽게 만드는 것보다 원문에 있는 경험과 어필 포인트를 최대한 보존하는 데 집중했어요. 없는 경험",
+          "keywords": [
+            "Show",
+            "GN:",
+            "JD",
+            "기반",
+            "자기소개서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI 안전은 대부분 섹스 컬트다",
+          "link": "https://news.hada.io/topic?id=33850",
+          "pubDate": "2026-09-17T16:42:14.000Z",
+          "image": null,
+          "summary": "SE Gyges의 비판적 논평으로, AI 안전 담론의 중심에 있는 Eliezer Yudkowsky와 합리주의 공동체의 인적 관계와 종말론적 믿음이 정책에 미치는 영향을 문제 삼음 초지능 등장, 통제 상실, 인류 멸망이라는 Yudkowsky의 구도가 AI 안전과 정렬 논의를 지배하며, 효...",
+          "keywords": [
+            "AI",
+            "안전은",
+            "대부분",
+            "섹스",
+            "컬트다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "CCC, 모든 모범 시민을 40C3에 초대하다",
           "link": "https://news.hada.io/topic?id=33849",
@@ -389,57 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "이란 학교 폭격, 미국이 참사 배후라고 믿을 근거 있다고 유엔 판단",
-          "link": "https://news.hada.io/topic?id=33847",
-          "pubDate": "2026-09-17T15:52:14.000Z",
-          "image": null,
-          "summary": "유엔 독립 진상조사단은 2월 28일 이란 학교와 체육시설 공격에 대해, 미국이 무차별 공격에 따른 전쟁범죄를 저질렀다고 믿을 합리적 근거가 있다고 판단함 Minab의 Shajareh Tayyebeh 초등학교 공격으로 어린이 120명을 포함한 민간인 156명이 숨졌으며, 조사단은...",
-          "keywords": [
-            "이란",
-            "학교",
-            "폭격",
-            "미국이",
-            "참사"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "캐나다, EU의 ‘준회원국’ 가입 제안 환영",
-          "link": "https://news.hada.io/topic?id=33846",
-          "pubDate": "2026-09-17T15:42:14.000Z",
-          "image": null,
-          "summary": "캐나다 총리 Mark Carney가 캐나다를 EU 최초의 준회원국으로 받아들이자는 제안을 환영하며 국방, 핵심 광물, 에너지 안보 분야의 협력 확대를 촉구함 준회원국 지위는 현재 EU에 없는 제도로, 구체적 형태가 불분명하고 도입에 수년이 걸릴 수 ...",
-          "keywords": [
-            "캐나다",
-            "EU의",
-            "준회원국",
-            "가입",
-            "제안"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Unicode 18.0.0",
-          "link": "https://news.hada.io/topic?id=33845",
-          "pubDate": "2026-09-17T15:12:14.000Z",
-          "image": null,
-          "summary": "Unicode 18.0 초안은 문자 13,007개를 추가해 총 172,808개를 수록하며, Proto-Cuneiform 숫자, Jurchen, Seal 문자 체계를 새로 지원함 줄바꿈과 자소 클러스터 분할 규칙이 바뀌며, 대시/하이픈 처리와 Balinese, Zanabazar Square, Bengali 텍스트의 분할 동작을...",
-          "keywords": [
-            "Unicode",
-            "18"
-          ],
-          "isForeign": true,
-          "titleKo": "유니코드 18.0.0",
-          "summaryKo": "Unicode 18.0 초안은 문자 13,007개를 추가해 총 172,808개를 수록하며, Proto-Cuneiform숫자, Jurchen, Seal문자 체계를 새로 지원함 줄바꿈과 자소 클러스터 분할 규칙이 바뀌며,대시/하이픈 처리와Balinese, Zanabazar Square, Bengali텍스트의 분할 동작을..."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:21.106Z",
+      "fetchedAt": "2026-09-17T18:12:18.613Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +535,7 @@
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:21.345Z",
+      "fetchedAt": "2026-09-17T18:12:18.738Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:21.585Z",
+      "fetchedAt": "2026-09-17T18:12:18.919Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:21.660Z",
+      "fetchedAt": "2026-09-17T18:12:18.985Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:24.122Z",
+      "fetchedAt": "2026-09-17T18:12:23.459Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:24.367Z",
+      "fetchedAt": "2026-09-17T18:12:23.708Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,6 +889,21 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+          "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+          "pubDate": "2026-09-17T16:34:36.000Z",
+          "image": null,
+          "summary": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
+          "keywords": [
+            "Social",
+            "Startups",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 사이드 이벤트 일정: NMI, Backblaze, PeakXV Partners, Augment 등 호스팅 관련 정보",
+          "summaryKo": "TechCrunch Disrupt는 기술 커뮤니티가 모여 구축, 토론 및 연결하는 곳입니다. 그리고 10 월 13 일부터 15 일까지 메인 이벤트가 Moscone West를 장악하지만 엑스포 홀이 문을 닫을 때 대화가 멈추지 않습니다."
+        },
         {
           "title": "Last call: Disrupt volunteer application closes soon",
           "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
@@ -948,25 +966,9 @@
           "isForeign": true,
           "titleKo": "스타트업의 다음 팀원은 AI 에이전트일 수 있습니다. Gusto, Insight Partners, Leland는 TechCrunch Disrupt 2026에서 어떤 변화가 있는지 설명합니다.",
           "summaryKo": "이 세션에서는 초기 단계의 회사가 인간과 AI 요원이 함께 일하는 팀을 구축하는 방법과 창업자가 속도, 책임감 또는 문화를 희생하지 않고 어떻게 할 수 있는지 살펴봅니다. TechCrunch Disrupt 2026에서 자세히 알아보세요. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
-        },
-        {
-          "title": "Noise wants to help everyday people  become paid content creators",
-          "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-          "pubDate": "2026-09-16T21:35:00.000Z",
-          "image": null,
-          "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-          "keywords": [
-            "Media & Entertainment",
-            "Social",
-            "Startups",
-            "influencers"
-          ],
-          "isForeign": true,
-          "titleKo": "NOISE는 일상적인 사람들이 유료 콘텐츠 크리에이터가 될 수 있도록 돕고자 합니다.",
-          "summaryKo": "마케팅 플랫폼 Noise는 스마트폰을 사용하는 사람이 콘텐츠를 통해 수익을 창출할 수 있도록 돕는 임무를 수행하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:25.930Z",
+      "fetchedAt": "2026-09-17T18:12:25.632Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1065,7 +1067,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:27.419Z",
+      "fetchedAt": "2026-09-17T18:12:27.867Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1091,11 +1093,11 @@
           "summaryKo": null
         },
         {
-          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - idailynews.co.kr",
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
           "pubDate": "2026-09-16T11:11:00.000Z",
           "image": null,
-          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 idailynews.co.kr",
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
           "keywords": [
             "2016년",
             "지역",
@@ -1125,28 +1127,28 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
           "pubDate": "2026-09-16T00:03:21.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
             "공정",
             "혁신",
             "포용의",
             "경기",
-            "gg"
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - vtimes.kr",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
           "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 vtimes.kr",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1159,7 +1161,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T16:11:27.857Z",
+      "fetchedAt": "2026-09-17T18:12:28.436Z",
       "error": null
     }
   },
@@ -1167,7 +1169,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 5,
+      "count": 6,
       "rank": 1,
       "change": "same"
     },
@@ -1218,21 +1220,21 @@
       "label": "지원사업",
       "count": 3,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "fujitsu",
       "label": "Fujitsu",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1301,20 +1303,20 @@
       "labelKo": "뉴스"
     },
     {
+      "key": "techcrunch disrupt",
+      "label": "TechCrunch Disrupt",
+      "count": 3,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "TechCrunch Disrupt"
+    },
+    {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
-      "key": "banking and consumer regulatory policy",
-      "label": "Banking and Consumer Regulatory Policy",
-      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "은행 및 소비자 규제 정책"
+      "change": "down",
+      "labelKo": "AI"
     }
   ]
 }
