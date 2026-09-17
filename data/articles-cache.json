@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T18:12:29.100Z",
+  "collectedAt": "2026-09-17T20:11:04.590Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[단독] 올해 1% 밖에 안 쓴 남북협력기금...내년에도 1조원 편성한다는데",
-          "link": "https://www.mk.co.kr/news/economy/12155747",
-          "pubDate": "2026-09-17T08:55:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.c583dc780da64fcaab2499cad8d93914_R.jpg",
-          "summary": "남북관계 경색에 쓸곳 없는데 李정부 들어 예산은 계속 늘어남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. ..",
+          "title": "“연금 30년 받으면 수백만원 차이” … 국민연금, 모르면 손해 보는 ‘이것들’",
+          "link": "https://www.mk.co.kr/news/economy/12155539",
+          "pubDate": "2026-09-17T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20250209.83a14efabd1e41b3846dc9770d36b29a_R.jpg",
+          "summary": "월급명세서를 받을 때 마다 매달 어김없이 빠져나가는 돈이 있다. 바로 국민연금 보험료다. 자영업자나 사업소득자는 소득 신고 과정에서 일정 부분 조정의 여지가 있지만 직장인은 사정이..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지",
-          "link": "https://www.mk.co.kr/news/economy/12155733",
-          "pubDate": "2026-09-17T08:50:41.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01110112000006_L00.jpg",
-          "summary": "",
+          "title": "[단독] 올해 1% 밖에 안 쓴 남북협력기금...내년에도 1조원 편성한다는데",
+          "link": "https://www.mk.co.kr/news/economy/12155747",
+          "pubDate": "2026-09-17T08:55:30.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.c583dc780da64fcaab2499cad8d93914_R.jpg",
+          "summary": "남북관계 경색에 쓸곳 없는데 李정부 들어 예산은 계속 늘어남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. ..",
           "keywords": [
             "경제"
           ],
@@ -80,6 +80,19 @@
           "summaryKo": null
         },
         {
+          "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지",
+          "link": "https://www.mk.co.kr/news/economy/12155733",
+          "pubDate": "2026-09-17T08:50:41.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01110112000006_L00.jpg",
+          "summary": "",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "우리금융, 생산적금융 속도…8월에 올해 목표 25조 달성",
           "link": "https://www.mk.co.kr/news/economy/12155731",
           "pubDate": "2026-09-17T08:50:40.000Z",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "남북협력기금 1% 썼는데 … 내년 예산 1조로 쑥",
-          "link": "https://www.mk.co.kr/news/economy/12155732",
-          "pubDate": "2026-09-17T08:50:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01160112000003_S00.jpg",
-          "summary": "남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. 17일 김상훈 국민의힘 의원이 확보한 한국수출입은행 자료에..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:16.123Z",
+      "fetchedAt": "2026-09-17T20:10:53.475Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:16.178Z",
+      "fetchedAt": "2026-09-17T20:10:53.547Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -206,17 +206,17 @@
           "summaryKo": null
         },
         {
-          "title": "새로운 스텔스 모델 '유니온 알파' 등장...\"GPT-5.6 테라 가격으로 페이블 5급 성능\"",
+          "title": "스텔스 모델 '유니온 알파' 등장...\"페이블 5급 성능\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215398",
           "pubDate": "2026-09-17T18:05:51.000Z",
           "image": null,
           "summary": "정체가 공개되지 않은 새로운 AI 모델 '유니온 알파(Union Alpha)'가 등장했다. 개발사나 연구소 이름, 모델 카드, 가중치 등을 공개하지 않은 '스텔스 모델'로, 무료로 사용할 수 있다는 점과 최첨단 모델에 근접한 성능을 내세우면서 AI 개발자들의 관심을 받고 있다.유니온 알파는 16일(현지시간) 오픈라우터(OpenRouter)와 오픈코드(OpenCode)에 익명 모델로 등록됐다. 제공 업체는 '스텔스'로만 표시됐으며, 별도의 개발사 정보는 공개되지 않았다.공개된 사양에 따르면, 26만2144토큰의 컨텍스트 창과 최대 1",
           "keywords": [
-            "새로운",
             "스텔스",
             "모델",
             "유니온",
-            "알파"
+            "알파",
+            "등장"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:17.401Z",
+      "fetchedAt": "2026-09-17T20:10:54.918Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:17.644Z",
+      "fetchedAt": "2026-09-17T20:10:55.058Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Jean-Pierre Serre, 100세를 맞다",
+          "link": "https://news.hada.io/topic?id=33855",
+          "pubDate": "2026-09-17T19:52:17.000Z",
+          "image": null,
+          "summary": "Jean-Pierre Serre는 대수적 위상수학, 대수기하학, 대수적 정수론에 중요한 공헌을 한 프랑스 수학자로, 여러 수학 분야가 현대적 형태를 갖추는 데 핵심 역할을 함 스펙트럴 열(spectral sequence) 을 올다발의 호몰로지 연구에 적용해 호몰로지 군과 호모토피 군...",
+          "keywords": [
+            "Jean",
+            "Pierre",
+            "Serre",
+            "100세를",
+            "맞다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "역공학으로 구현한 Jev 유사 모델",
+          "link": "https://news.hada.io/topic?id=33854",
+          "pubDate": "2026-09-17T19:52:16.000Z",
+          "image": null,
+          "summary": "Jevlike는 텍스트 문맥과 매번 달라질 수 있는 선택지 목록을 받아, 답을 단어별로 생성하지 않고 한 번의 처리로 선택지별 확률을 계산하는 소형 모델임 각 선택지를 쿼리 벡터로 만들어 문맥 토큰에 어텐션을 적용하고, 선택지별 문맥 벡터와의 점수를 계산한 뒤...",
+          "keywords": [
+            "역공학으로",
+            "구현한",
+            "Jev",
+            "유사",
+            "모델"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "나는 LLM이 마음에 들지 않는다",
+          "link": "https://news.hada.io/topic?id=33853",
+          "pubDate": "2026-09-17T19:52:15.000Z",
+          "image": null,
+          "summary": "AI와 LLM의 생산성 향상 가능성에 대한 기대와 위험에 대한 두려움이 공존하지만, 직접 대화할 때 가장 강하게 드는 감정은 비호감임 LLM은 유용한 답변과 지어낸 내용을 똑같이 확신에 찬 태도로 말하며, 오류를 지적받아도 겉으로만 후회하는 듯...",
+          "keywords": [
+            "나는",
+            "LLM이",
+            "마음에",
+            "들지",
+            "않는다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
           "link": "https://news.hada.io/topic?id=33852",
@@ -389,60 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "AI 안전은 대부분 섹스 컬트다",
-          "link": "https://news.hada.io/topic?id=33850",
-          "pubDate": "2026-09-17T16:42:14.000Z",
-          "image": null,
-          "summary": "SE Gyges의 비판적 논평으로, AI 안전 담론의 중심에 있는 Eliezer Yudkowsky와 합리주의 공동체의 인적 관계와 종말론적 믿음이 정책에 미치는 영향을 문제 삼음 초지능 등장, 통제 상실, 인류 멸망이라는 Yudkowsky의 구도가 AI 안전과 정렬 논의를 지배하며, 효...",
-          "keywords": [
-            "AI",
-            "안전은",
-            "대부분",
-            "섹스",
-            "컬트다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "CCC, 모든 모범 시민을 40C3에 초대하다",
-          "link": "https://news.hada.io/topic?id=33849",
-          "pubDate": "2026-09-17T15:52:16.000Z",
-          "image": null,
-          "summary": "Chaos Computer Club이 2026년 12월 27~30일 제40회 Chaos Communication Congress인 40C3를 개최하며, 강연과 예술, 음악 등 프로그램 참여자를 모집함 행사장을 함부르크 전시장으로 옮기면서 창의적인 아이디어를 펼칠 공간이 넓어졌으며, 참가...",
-          "keywords": [
-            "CCC",
-            "모든",
-            "모범",
-            "시민을",
-            "40C3에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Fujitsu, 일본산 차세대 CPU FUJITSU-MONAKA 출시",
-          "link": "https://news.hada.io/topic?id=33848",
-          "pubDate": "2026-09-17T15:52:15.000Z",
-          "image": null,
-          "summary": "Fujitsu가 일본에서 설계하고 개발한 FUJITSU-MONAKA CPU와 이를 탑재한 일본산 서버를 발표하고, 2026년 11월부터 판매를 시작할 예정임 2nm 코어와 5nm 캐시/I/O를 결합한 3D 적층 구조를 사용하며, 최대 동작 주파수 3.8GHz와 메모리 전송 속도 8800MT/s를 지원...",
-          "keywords": [
-            "Fujitsu",
-            "일본산",
-            "차세대",
-            "CPU",
-            "FUJITSU"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:18.613Z",
+      "fetchedAt": "2026-09-17T20:10:56.056Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +450,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "VidCon is leaving Anaheim to become a Cannes Lions offshoot",
+          "link": "https://www.tubefilter.com/2026/09/17/vidcon-anaheim-informa-cannes-lions-event/",
+          "pubDate": "2026-09-17T19:18:50.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/anaheim-convention-center.jpg",
+          "summary": "Since 2012, VidCon has been an (almost) annual summertime fixture at the Anaheim Convention Center in Orange County. But that's about to change. Informa, the owner of the eminent creator convention, is taking VidCon out of Anaheim. Going forward, VidCon will be linked up with another Informa property: The Cannes Lions International Festival of Creativity. To acknowledge the growing impact of creators within the worlds of advertising and marketing, Informa is establishing an event series called V",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "VidCon",
+            "cannes lions"
+          ],
+          "isForeign": true,
+          "titleKo": "VidCon이 애너하임을 떠나 칸 라이온스 오프슈팅에 참여합니다",
+          "summaryKo": "2012년부터 VidCon은 오렌지 카운티의 애너하임 컨벤션 센터에서 (거의) 연례 여름 행사였습니다. 하지만 곧 바뀔 것입니다. 저명한 크리에이터 컨벤션의 소유주인 Informa는 VidCon을 애너하임에서 빼앗고 있습니다. 앞으로 VidCon은 Cannes Lions International Festival of Creativity라는 또 다른 Informa 시설과 연계될 예정입니다. Informa는 광고 및 마케팅 분야에서 크리에이터의 영향력이 커지고 있음을 인정하기 위해"
+        },
         {
           "title": "Is a new ChatGPT plugin a sign that the how-to economy is shifting from YouTube to AI?",
           "link": "https://www.tubefilter.com/2026/09/16/camtasia-how-to-video-chatgpt-ai-plugin/",
@@ -516,26 +534,9 @@
           "isForeign": true,
           "titleKo": "EU는 어린이들의 소셜 미디어 사용을 금지하고 싶지 않습니다. 챗봇과 게임도 차단하고 있습니다.",
           "summaryKo": "유럽 연합은 15세 미만의 어린이를 위한 전면적인 새로운 소셜 미디어, 챗봇 및 게임 금지를 제안할 예정입니다. 로이터는 유럽위원회 (European Commission) 의 우르술라 폰 데르 레이엔 (Ursula von der Leyen) 대통령과 유럽 기술 주권, 안보 및 민주주의 위원회 (European Commission for Technological Sovereignty, Security, and Democracy) 의 헤나 버크쿠넨 (Henna Virkkunen) 총재가 9월 17일 유럽연합 (EU) 의 일환으로 이 제안을 발표할 것이라고 보도했습니다. […] 더 많은 훌륭한 이야기를 보려면 튜브필터를 방문하세요."
-        },
-        {
-          "title": "Top 5 Branded Videos of the Week: Goth, jock, nerd",
-          "link": "https://www.tubefilter.com/2026/09/15/top-5-branded-videos-mrbeast-dude-perfect-jesse-moncur/",
-          "pubDate": "2026-09-16T03:15:28.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/mrbeast-cops.jpg",
-          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for the ranking. And – as the name […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Brands",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "금주의 톱 5 브랜드 동영상: 고스, 조크, 너드",
-          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:18.738Z",
+      "fetchedAt": "2026-09-17T20:10:58.138Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:18.919Z",
+      "fetchedAt": "2026-09-17T20:10:58.574Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:18.985Z",
+      "fetchedAt": "2026-09-17T20:10:58.749Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:23.459Z",
+      "fetchedAt": "2026-09-17T20:11:02.035Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:23.708Z",
+      "fetchedAt": "2026-09-17T20:11:02.278Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -968,7 +969,7 @@
           "summaryKo": "이 세션에서는 초기 단계의 회사가 인간과 AI 요원이 함께 일하는 팀을 구축하는 방법과 창업자가 속도, 책임감 또는 문화를 희생하지 않고 어떻게 할 수 있는지 살펴봅니다. TechCrunch Disrupt 2026에서 자세히 알아보세요. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:25.632Z",
+      "fetchedAt": "2026-09-17T20:11:02.351Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:27.867Z",
+      "fetchedAt": "2026-09-17T20:11:04.124Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1075,23 +1076,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
-          "pubDate": "2026-09-17T02:12:38.000Z",
-          "image": null,
-          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
-          "keywords": [
-            "이천소식",
-            "최대",
-            "300만원",
-            "청년",
-            "근속장려금"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
@@ -1104,6 +1088,23 @@
             "평생교육",
             "활성화",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
+          "pubDate": "2026-09-17T02:12:38.000Z",
+          "image": null,
+          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
+          "keywords": [
+            "이천소식",
+            "최대",
+            "300만원",
+            "청년",
+            "근속장려금"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1144,11 +1145,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - vtimes.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
           "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 vtimes.kr",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1161,7 +1162,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T18:12:28.436Z",
+      "fetchedAt": "2026-09-17T20:11:04.582Z",
       "error": null
     }
   },
@@ -1169,7 +1170,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 6,
+      "count": 5,
       "rank": 1,
       "change": "same"
     },
@@ -1181,53 +1182,53 @@
       "change": "same"
     },
     {
+      "key": "모델",
+      "label": "모델",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "fujitsu",
-      "label": "Fujitsu",
-      "count": 2,
       "rank": 9,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "글로벌",
@@ -1307,7 +1308,7 @@
       "label": "TechCrunch Disrupt",
       "count": 3,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "TechCrunch Disrupt"
     },
     {
@@ -1315,7 +1316,7 @@
       "label": "AI",
       "count": 2,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     }
   ]
