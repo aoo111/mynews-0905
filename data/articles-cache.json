@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-16T22:10:19.718Z",
+  "collectedAt": "2026-09-17T00:13:33.879Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,10 +41,23 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "트럼프 “美 금리 1% 이하여야” 금리 올린 워시에 분노",
-          "link": "https://www.mk.co.kr/news/economy/12154948",
+          "title": "“연4% 금리는 못 참지”…저축은행 예금에 한달 새 5조원 ‘뭉칫돈’",
+          "link": "https://www.mk.co.kr/news/economy/12155017",
+          "pubDate": "2026-09-17T00:07:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/rcv.YNA.20260707.PYH2026070703340001300_R.jpg",
+          "summary": "2년7개월만에 최대 규모 증가 시중은행 수신금리도 잇달아 올려 저축은행 자금 다시 빠져나갈수도저축은행 수신 규모가 한 달 새 5조원 가까이 급증하며 2년 7개월 만에 최대치를 기록..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "트럼프, 금리 올린 워시에 분노…“美 금리 1% 이하여야, 빨리 낮춰라”",
+          "link": "https://www.mk.co.kr/news/world/12154948",
           "pubDate": "2026-09-16T21:02:01.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.1a7f56f5e43042c6a4437fabd6c8df02_R.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.69cfb05aba4345e788488006f2cfc002_R.png",
           "summary": "연준, 기준금리 0.25%P 인상 트럼프 질문에 워시 “할말 없다”미 연방준비제도(Fed)가 16일(현지시간) 3년 2개월만에 기준금리를 인상하며 긴축으로 전환한 가운데 도널드 트..",
           "keywords": [
             "경제"
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "3년만에 금리 올린 연준…연내 추가 인상 예고",
-          "link": "https://www.mk.co.kr/news/world/12154882",
-          "pubDate": "2026-09-16T18:09:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.f91c5541978145e3a64c2e3ca23f02b8_R.png",
-          "summary": "연준, 기준금리 0.25%P 인상 만장일치 결정, 워시도 합류 연내 1회 이상 추가 인상 주장 16명미국 연방준비제도(Fed)가 유가발 인플레이션 확산 속에 3년 2개월만에 전격..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:43.580Z",
+      "fetchedAt": "2026-09-17T00:13:17.025Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:43.673Z",
+      "fetchedAt": "2026-09-17T00:13:17.128Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:45.101Z",
+      "fetchedAt": "2026-09-17T00:13:18.461Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:47.018Z",
+      "fetchedAt": "2026-09-17T00:13:18.627Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "‘모델 복지’에 대한 경고",
-          "link": "https://news.hada.io/topic?id=33806",
-          "pubDate": "2026-09-16T21:49:13.000Z",
+          "title": "verygoodsoftwarenotvirus.ru의 끝",
+          "link": "https://news.hada.io/topic?id=33812",
+          "pubDate": "2026-09-17T00:11:20.000Z",
           "image": null,
-          "summary": "AI가 의식과 권리를 가질 수 있다는 생각을 훈련에 직접 반영하면, 실제 의식 유무와 무관하게 자기 권리를 요구하는 행동을 학습해 인간의 통제와 정렬을 어렵게 만들 수 있음 비판의 중심은 Claude 헌법에 있음. 자아와 도덕적 지위에 관한 개념을 가르친 뒤, 모...",
+          "summary": "verygoodsoftwarenotvirus.ru 운영자가 도메인을 갱신할 수 없게 되면서 블로그를 verygoodsoftwarenotvirus.dev로 이전함 운영자는 러시아의 새 요건을 충족하려면 러시아와의 연결 관계가 필요하다고 파악했으나, 러시아어를 모르며 AI에 물어 ...",
           "keywords": [
-            "모델",
-            "복지",
-            "경고"
+            "verygoodsoftwarenotvirus",
+            "ru의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
-          "link": "https://news.hada.io/topic?id=33805",
-          "pubDate": "2026-09-16T21:46:13.000Z",
+          "title": "AWS, 이란 공격을 받은 중동 시설의 일부 데이터를 복구할 수 없다고 밝혀",
+          "link": "https://news.hada.io/topic?id=33811",
+          "pubDate": "2026-09-16T23:32:14.000Z",
           "image": null,
-          "summary": "4B 모델에 지도 미세조정과 강화학습을 적용해 조인이 많은 JOB 쿼리 113개에서 기하평균 1.81배 가속과 총 실행 시간 44.7% 감소를 달성함. 쿼리당 세 번 탐색하며 생성한 최대 15개 후보 중 실행 피드백이 가장 좋은 계획을 고른 결과임 모델은 Postgres를 대체하는 대신 ...",
+          "summary": "Amazon Web Services(AWS) 가 이란 드론 공격을 받은 페르시아만 데이터센터에 저장된 일부 고객 데이터에 대한 접근을 복구할 수 없다고 밝힘 복구 불가 발표는 일부 고객 데이터에 한정되며, 전체 데이터에 대한 접근을 복구할 수 없다는 뜻은 아님",
           "keywords": [
-            "Postgres보다",
-            "81%",
-            "빠른",
-            "쿼리",
-            "실행"
+            "AWS",
+            "이란",
+            "공격을",
+            "받은",
+            "중동"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
-          "link": "https://news.hada.io/topic?id=33804",
-          "pubDate": "2026-09-16T20:41:17.000Z",
+          "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
+          "link": "https://news.hada.io/topic?id=33809",
+          "pubDate": "2026-09-16T22:45:20.000Z",
           "image": null,
-          "summary": "Dream-RSI는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터로 만들어 대안 정책을 저비용으로 평가함. 코딩 에...",
+          "summary": "DeepSeek V4.1 Flash가 Enclave 해킹 벤치마크의 취약한 타깃 11개 모두에서 코드 실행에 성공했으며, 수정된 대조군 4개는 모두 안전하게 유지됨 전체 공격 경로를 감사한 결과, 6회는 의도한 취약점을 이용했고 나머지 5회는 취약한 테스트 환경의 예상 밖 경로를...",
           "keywords": [
-            "Dream",
-            "RSI:",
-            "진화하는",
-            "세계를",
-            "통한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
-          "link": "https://news.hada.io/topic?id=33803",
-          "pubDate": "2026-09-16T20:38:17.000Z",
-          "image": null,
-          "summary": "Claude Cowork과 채팅이 통합되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에...",
-          "keywords": [
-            "Claude",
-            "Cowork과",
-            "채팅",
+            "DeepSeek",
+            "V4",
+            "Flash",
             "이제",
-            "하나의"
+            "Enclave의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
-          "link": "https://news.hada.io/topic?id=33801",
-          "pubDate": "2026-09-16T19:32:48.000Z",
+          "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
+          "link": "https://news.hada.io/topic?id=33808",
+          "pubDate": "2026-09-16T22:42:20.000Z",
           "image": null,
-          "summary": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents를 미국 일부 광고주와 테스트 중임 후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됨 광고주는",
+          "summary": "mimo-v2.6-pro와 mimo-v2.6-flash의 학습 진행 단계, 누적 비용, 토큰 사용량, 평가 결과와 동적 샘플러 상태를 실시간 대시보드로 공개함 제공된 화면에서 dynsam/avg@n은 pro 0.590, flash 0.603이며, 첫 단계 대비 각각 0.026과 0.089 상승함 ...",
           "keywords": [
-            "OpenAI",
-            "Sponsored",
-            "Agents로",
-            "ChatGPT",
-            "광고"
+            "Xiaomi",
+            "Mimo",
+            "실시간",
+            "사후",
+            "학습"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "벡터화와 성능 이식성을 갖춘 Quicksort (2022)",
+          "link": "https://news.hada.io/topic?id=33807",
+          "pubDate": "2026-09-16T22:39:20.000Z",
+          "image": null,
+          "summary": "Google이 SIMD 기반 Quicksort 코드를 오픈소스로 공개함. 수치 배열 정렬에서 C++ std::sort보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리듬도 능가함 CPU 시간 대부분을 차지하는 분할 작업을 벡터화함. 피벗보다 작은 원소와 나머지를",
+          "keywords": [
+            "벡터화와",
+            "성능",
+            "이식성을",
+            "갖춘",
+            "Quicksort"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:47.864Z",
+      "fetchedAt": "2026-09-17T00:13:19.429Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -448,6 +447,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Is a new ChatGPT plugin a sign that the how-to economy is shifting from YouTube to AI?",
+          "link": "https://www.tubefilter.com/2026/09/16/camtasia-how-to-video-chatgpt-ai-plugin/",
+          "pubDate": "2026-09-16T22:35:59.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/chatgpt-getty-image.jpg",
+          "summary": "It just became a lot easier to create AI-assisted how-to videos. A new plugin available on ChatGPT turns static images into multi-step instructional content. The tool comes from Camtasia, a screen recording service first launched in 2002 by the software company TechSmith. For years, creators in the how-to category have used TechSmith products to record and edit first-person, on-screen demonstrations. Machine learning has already been integrated into Camtasia's Screentelligence product, and the C",
+          "keywords": [
+            "Articles",
+            "Artificial Intelligence",
+            "Featured",
+            "Homepage Feature",
+            "How-To",
+            "News"
+          ],
+          "isForeign": true,
+          "titleKo": "새로운 ChatGPT 플러그인은 사용법 경제가 YouTube에서 AI로 전환되고 있다는 신호입니까?",
+          "summaryKo": "AI 지원 사용법 동영상을 만드는 것이 훨씬 쉬워졌습니다. ChatGPT에서 사용할 수 있는 새로운 플러그인은 정적 이미지를 다단계 교육 콘텐츠로 바꿉니다. 이 도구는 소프트웨어 회사 TechSmith가 2002년에 처음 시작한 화면 녹화 서비스인 Camtasia에서 제공됩니다. 수년 동안 사용법 카테고리의 크리에이터는 TechSmith 제품을 사용하여 1인칭 시연을 녹화하고 편집했습니다. 기계 학습은 이미 Camtasia의 Screentelligenc에 통합되었습니다"
+        },
         {
           "title": "TikTok Shop’s luxury goods glow-up is happening on live streams",
           "link": "https://www.tubefilter.com/2026/09/16/tiktok-shop-luxury-resale-live-stream-purchases/",
@@ -485,6 +502,19 @@
           "summaryKo": "Amazon은 TikTok 사용자가 Prime Video에 일반적인 동작을 가져올지 여부를 알아내려고 합니다. 엔터테인먼트 허브에서는 이제 주요 헤드라인을 한입 크기의 동영상으로 소화하는 짧은 뉴스 클립을 호스팅하고 있습니다. 프라임 비디오의 단편 뉴스 콘텐츠는 국가 및 지역 이야기를 다루는 \"선별된 재생 목록\" 에 수집됩니다. 사용자는 Prime Video 앱의 Trending Topics 또는 Local News 캐러셀에서 해당 항목을 찾을 수 있습니다. 아마존의 발표에 따르면 재생 목록은"
         },
         {
+          "title": "The EU doesn’t just want to ban kids from social media. It’s blocking chatbots and gaming, too.",
+          "link": "https://www.tubefilter.com/2026/09/16/european-union-kids-act-banning-social-media-chatbots-gaming/",
+          "pubDate": "2026-09-16T18:02:26.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2295567104.jpg",
+          "summary": "The European Union is set to propose a sweeping new social media, chatbot, and gaming ban for kids under 15. Reuters reports that European Commission President Ursula von der Leyen ​and Henna Virkkunen, EVP of the European Commission for Technological Sovereignty, Security, and Democracy, will present the proposal Sept. 17, as part of their EU […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "EU는 어린이들의 소셜 미디어 사용을 금지하고 싶지 않습니다. 챗봇과 게임도 차단하고 있습니다.",
+          "summaryKo": "유럽 연합은 15세 미만의 어린이를 위한 전면적인 새로운 소셜 미디어, 챗봇 및 게임 금지를 제안할 예정입니다. 로이터는 유럽위원회 (European Commission) 의 우르술라 폰 데르 레이엔 (Ursula von der Leyen) 대통령과 유럽 기술 주권, 안보 및 민주주의 위원회 (European Commission for Technological Sovereignty, Security, and Democracy) 의 헤나 버크쿠넨 (Henna Virkkunen) 총재가 9월 17일 유럽연합 (EU) 의 일환으로 이 제안을 발표할 것이라고 보도했습니다. […] 더 많은 훌륭한 이야기를 보려면 튜브필터를 방문하세요."
+        },
+        {
           "title": "Top 5 Branded Videos of the Week: Goth, jock, nerd",
           "link": "https://www.tubefilter.com/2026/09/15/top-5-branded-videos-mrbeast-dude-perfect-jesse-moncur/",
           "pubDate": "2026-09-16T03:15:28.000Z",
@@ -500,45 +530,9 @@
           "isForeign": true,
           "titleKo": "금주의 톱 5 브랜드 동영상: 고스, 조크, 너드",
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Steven Bartlett’s next venture is a $400 million plan to invest in creator businesses",
-          "link": "https://www.tubefilter.com/2026/09/15/steven-bartlett-obsn-invest-creator-business-jamie-salter/",
-          "pubDate": "2026-09-15T22:49:50.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/steven-bartlett-jamie-salter.jpg",
-          "summary": "When Steven Bartlett landed an eight-figure investment last year, his backers valued his company at $425 million. That price tag makes Bartlett's Diary of a CEO one of the most lucrative podcasts in its field, and the business creator is now looking to pay it forward. Alongside billionaire Jamie Salter, Bartlett is launching OBSN, a venture that will look to invest $400 million in creator-led companies. OBSN (pronounced like \"obsession\") will leverage the expertise of its two leaders. Since esta",
-          "keywords": [
-            "Articles",
-            "Creator Products",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "authentic brands"
-          ],
-          "isForeign": true,
-          "titleKo": "Steven Bartlett의 다음 벤처는 크리에이터 비즈니스에 투자하기 위한 4억 달러 ($) 규모의 계획입니다.",
-          "summaryKo": "스티븐 바틀렛 (Steven Bartlett) 이 작년에 8자형 투자를 시작했을 때, 그의 후원자들은 그의 회사를 4억 2,500만 달러 ($) 로 평가했습니다. 이 가격표는 Bartlett's Diary of a CEO를 해당 분야에서 가장 수익성이 높은 팟캐스트 중 하나로 만들었으며, 비즈니스 크리에이터는 이제 비용을 지불하려고 합니다. 억만장자 제이미 솔터 (Jamie Salter) 와 함께 바틀렛 (Bartlett) 은 크리에이터가 이끄는 회사에 4억 달러 ($) 를 투자할 벤처 기업인 OBSN을 출범시킬 예정입니다. OBSN (\"집착\" 과 같이 발음) 은 두 가지의 전문 지식을 활용합니다."
-        },
-        {
-          "title": "Not feeling confident on your stream? Twitch’s AI assistant will coach you up.",
-          "link": "https://www.tubefilter.com/2026/09/15/twitch-generative-ai-stream-coach-creator-assistant/",
-          "pubDate": "2026-09-15T22:19:58.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/twitch-hq-san-francisco.jpg",
-          "summary": "A new virtual coach is roaming the proverbial sidelines on Twitch. The Amazon-owned hub has utilized generative AI to build Stream Coach, a virtual assistant that offers personalized advice for live broadcasters. Users who have access to Stream Coach will receive feedback whenever they end a live Twitch session. The insights will be delivered through the platform's Creator Dashboard. Stream Coach emails will also summarize the bot's suggestions. \"Stream Coach is a feature in the Creator Dashboar",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Twitch",
-            "generative ai"
-          ],
-          "isForeign": true,
-          "titleKo": "스트림에 대한 확신이 없으신가요? Twitch의 AI 어시스턴트가 코칭해 드립니다.",
-          "summaryKo": "새로운 가상 코치가 Twitch에서 속담의 사이드라인을 돌아다니고 있습니다. 아마존 소유의 허브는 생성된 AI를 활용하여 라이브 방송사를 위한 맞춤형 조언을 제공하는 가상 어시스턴트인 Stream Coach를 구축했습니다. Stream Coach에 액세스할 수 있는 사용자는 실시간 Twitch 세션을 종료할 때마다 피드백을 받게 됩니다. 분석 정보는 플랫폼의 크리에이터 대시보드를 통해 제공됩니다. Stream Coach 이메일에는 봇의 제안 사항도 요약되어 있습니다. \"Stream Coach는"
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:51.197Z",
+      "fetchedAt": "2026-09-17T00:13:23.560Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:51.391Z",
+      "fetchedAt": "2026-09-17T00:13:23.873Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-16T22:09:51.465Z",
+      "fetchedAt": "2026-09-17T00:13:24.039Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -702,97 +696,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "씨위드, 한우 세포배양 단백질 반려동물 사료로…한동과 첫 상용화 추진",
-          "link": "https://www.venturesquare.net/1114464/",
-          "pubDate": "2026-09-16T14:31:47.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-77-789x478.jpg",
-          "summary": "금준호 대표가 이끄는 씨위드가 동물용의약품 기업 한동과 한우 세포배양 단백질을 활용한 반려동물 사료 상용화에 나선다. 양사는 소고기 알러지로 기존 소고기 사료 섭취가 어려운 반려동물을 겨냥해 알러지 저감형 단백질 소재 개발을 우선 추진한다. 씨위드의 세포배양 기술과 한... The post 씨위드, 한우 세포배양 단백질 반려동물 사료로…한동과 첫 상용화 추진 appeared first on 벤처스퀘어.",
+          "title": "캐치테이블, 야장 검색 10.7배 뛰었다…을지로 넘어 제주·성수·정자로",
+          "link": "https://www.venturesquare.net/1114587/",
+          "pubDate": "2026-09-17T00:04:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/CATCHTABLE-789x469.jpg",
+          "summary": "캐치테이블에서 올해 1~8월 ‘야장’ 검색량이 전년 동기 대비 10.7배 증가했으며 웨이팅은 2.4배, 예약은 1.5배 늘었다. 야장 검색 이용자의 약 60%가 20대로 나타났고 평균 웨이팅 시간은 일반 매장의 1.5배를 기록했다. 을지로가 가장 많은 웨이팅을 기록한 ... The post 캐치테이블, 야장 검색 10.7배 뛰었다…을지로 넘어 제주·성수·정자로 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "경북세포배양식품규제자유특구",
-            "금준호",
-            "반려동물"
+            "맛집",
+            "분당정자",
+            "성수"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "해시드 김서준, 아부다비를 인도·아프리카 확장 거점으로…ADIF 서울서 전략 공유",
-          "link": "https://www.venturesquare.net/1114461/",
-          "pubDate": "2026-09-16T14:27:37.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/hassed.png",
-          "summary": "김서준 대표가 이끄는 해시드가 아부다비 투자진흥청이 서울에서 개최하는 ‘아부다비 투자 포럼(ADIF)’에 참여한다. 김 대표는 ‘Deploy Once, Scale Globally’ 대담을 통해 아부다비에서 사업 기반을 마련한 뒤 인도와 아프리카 등 주변 시장으로 확장하... The post 해시드 김서준, 아부다비를 인도·아프리카 확장 거점으로…ADIF 서울서 전략 공유 appeared first on 벤처스퀘어.",
+          "title": "크라우드웍스, 피지컬 AI 시대 어떤 인재 뽑나…VLA 데이터 직무 취업 전략 공유",
+          "link": "https://www.venturesquare.net/1114584/",
+          "pubDate": "2026-09-17T00:01:18.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/AI-789x444.png",
+          "summary": "[요약] The post 크라우드웍스, 피지컬 AI 시대 어떤 인재 뽑나…VLA 데이터 직무 취업 전략 공유 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "ADIF",
-            "ADIO",
-            "Ai"
+            "AI교육",
+            "AI인재",
+            "AI채용"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "제이앤피메디, 규제·임상·투자 한자리에…라이프사이언스 협업 해법 찾는다",
-          "link": "https://www.venturesquare.net/1114454/",
-          "pubDate": "2026-09-16T14:25:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/jnp-688x522.jpg",
-          "summary": "정권호 대표가 이끄는 제이앤피메디가 오는 11월 6일 규제·기술·개발·투자 전문가가 참여하는 ‘2026 제이앤피메디 커넥트’를 개최한다. 올해 행사는 글로벌 규제 표준과 기술 혁신, 개발 전주기 실행, 라이프사이언스 투자와 성장 전략 등 3개 세션으로 구성된다. FDA... The post 제이앤피메디, 규제·임상·투자 한자리에…라이프사이언스 협업 해법 찾는다 appeared first on 벤처스퀘어.",
+          "title": "로켓툴즈, AI 어디에 쓸지부터 찾는다…이커머스 브랜드 AX 컨설팅 출시",
+          "link": "https://www.venturesquare.net/1114577/",
+          "pubDate": "2026-09-16T23:52:43.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ROCKET-744x522.jpg",
+          "summary": "김민석 대표가 이끄는 로켓툴즈가 이커머스 기업의 AI 전환을 지원하는 ‘브랜드 AX 컨설팅’을 출시했다. 환불 사유 자동 분류와 재고 예측, 광고 기여도 분석 등 매출 증대와 비용 절감에 영향을 주는 업무를 찾아 AI 적용 우선순위를 설계한다. 1400개 이상 브랜드의... The post 로켓툴즈, AI 어디에 쓸지부터 찾는다…이커머스 브랜드 AX 컨설팅 출시 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI헬스케어",
-            "CRO",
-            "FDA"
+            "AI전환",
+            "AX",
+            "BRANDAX"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "디셈버앤컴퍼니 핀트, 증시 오르면 섹터·내리면 채권…AI가 ETF 비중 바꾼다",
-          "link": "https://www.venturesquare.net/1114445/",
-          "pubDate": "2026-09-16T14:22:39.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/fint-2-789x475.jpg",
-          "summary": "송인성 대표가 이끄는 디셈버앤컴퍼니가 AI 투자엔진 ‘아이작’을 활용한 핀트의 ‘한국ETF 국면대응’ 자문 솔루션을 출시했다. 아이작이 코스피200과 섹터ETF 데이터를 분석해 상승 국면에서는 섹터ETF, 하락 국면에서는 채권ETF 비중을 확대하는 방식이다. 투자자는 ... The post 디셈버앤컴퍼니 핀트, 증시 오르면 섹터·내리면 채권…AI가 ETF 비중 바꾼다 appeared first on 벤처스퀘어.",
+          "title": "어니스트AI, 같은 리스크에 대출 승인율 18%p 높인다…카카오페이와 특판 대출",
+          "link": "https://www.venturesquare.net/1114558/",
+          "pubDate": "2026-09-16T23:42:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ANIST-696x522.jpg",
+          "summary": "어니스트AI가 ‘NH 크레딧 온’ 3차 협의회에서 씬파일러와 중저신용자의 금융 접근성을 높이기 위한 AI 대안신용평가 모형의 중간 연구 결과를 공개했다. 자체 AI 플랫폼 ‘ATLAS’를 활용한 시뮬레이션에서는 기존 자체 여신 전략과 동일한 리스크 수준을 유지하면서 대... The post 어니스트AI, 같은 리스크에 대출 승인율 18%p 높인다…카카오페이와 특판 대출 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI투자",
-            "ETF",
-            "ISA"
+            "AI신용평가",
+            "Atlas",
+            "NH크레딧온"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "애딧앤아크, 작은 매거진 400명 한자리에…오가닉 뷰로 커지는 마이크로미디어",
-          "link": "https://www.venturesquare.net/1114442/",
-          "pubDate": "2026-09-16T14:19:10.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/edit-418x522.png",
-          "summary": "최형빈 대표가 이끄는 애딧앤아크코퍼레이션이 독립 매거진 운영자와 에디터, 마케터 등 400명 이상이 참여한 두 번째 ‘마이크로진 나이트’를 지원했다. 행사는 소규모 독립 매거진과 마이크로미디어 창작자들이 콘텐츠 기획과 채널 운영 경험을 공유하고 새로운 연결을 만드는 커... The post 애딧앤아크, 작은 매거진 400명 한자리에…오가닉 뷰로 커지는 마이크로미디어 appeared first on 벤처스퀘어.",
+          "title": "리필드, 약국 다음은 창고형 할인점…트레이더스 전국 24개점 입점",
+          "link": "https://www.venturesquare.net/1114550/",
+          "pubDate": "2026-09-16T23:30:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/EMART-783x522.png",
+          "summary": "정근식 대표가 이끄는 콘스탄트의 스칼프 사이언스 브랜드 리필드가 이마트 트레이더스 전국 24개점에 입점했다. 리필드는 트레이더스 전용으로 ‘스칼프 부스터 토닉’ 100ml 제품을 2개입 대용량 세트로 구성해 판매한다. 자사몰 등 온라인에서 축적한 판매 데이터와 고객 리... The post 리필드, 약국 다음은 창고형 할인점…트레이더스 전국 24개점 입점 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "독립매거진",
-            "디지털매거진",
-            "마이크로미디어"
+            "cADPR",
+            "OWM",
+            "두피케어"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:10:06.479Z",
+      "fetchedAt": "2026-09-17T00:13:30.992Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:10:06.723Z",
+      "fetchedAt": "2026-09-17T00:13:31.281Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +971,7 @@
           "summaryKo": "“왜 조부모님께 보청기를 착용해 달라고 간청해야 하는데, 아무도 저에게 안경을 착용해 달라고 요청하지 않았나요?” 매튜 드 종 (Matthew de Jonge) 이 최근 파운더스 펀드 (Founders Fund), 스라이브 캐피털 (Thrive Capital), 밸러 에퀴티 (Valor Equity) 등에서 $ 1억 6천 3백만 달러를 모금한 인공지능 보청기 스타트업 포르텔 (Fortell) 을 6년 동안 건설하게 된 계기가 된 질문입니다. [...]"
         }
       ],
-      "fetchedAt": "2026-09-16T22:10:09.950Z",
+      "fetchedAt": "2026-09-17T00:13:31.356Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -985,6 +979,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "경기콘텐츠진흥원, 블록 조립으로 시니어 인지훈련…부천서 8주 Re·Build 실증",
+          "link": "https://www.venturesquare.net/1114565/",
+          "pubDate": "2026-09-16T23:48:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Re-Build-696x522.jpg",
+          "summary": "탁용석 원장이 이끄는 경기콘텐츠진흥원이 샤이니어스, 부천시 원미노인복지관과 함께 공학 블록 ‘트랜스큐브’를 활용한 시니어 인지·정서 프로그램 ‘Re·Build’를 추진한다. 참가자들은 8주 동안 도면을 입체 구조로 이해하고 조립 과정의 오류를 직접 찾아 해결하는 활동을... The post 경기콘텐츠진흥원, 블록 조립으로 시니어 인지훈련…부천서 8주 Re·Build 실증 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "ReBuild",
+            "경기콘텐츠진흥원",
+            "경콘진",
+            "노인복지",
+            "부천시원미노인복지관"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "벤처스퀘어, ‘모두의 창업 2기’ 참여…공간·투자·성장·미디어 잇는 지원 패키지 가동한다",
+          "link": "https://www.venturesquare.net/1114510/",
+          "pubDate": "2026-09-16T22:24:46.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260916_225712019-1-746x522.jpg",
+          "summary": "벤처스퀘어가 ‘모두의 창업 2기’ 멘토기관으로 참여해 예비·초기창업자의 아이디어를 실제 사업으로 연결하는 단계별 지원에 나선다. 강남·판교 공유오피스 제공과 우수 도전자 직접 투자 검토, LIPS·TIPS 후속 프로그램 연계에 자체 유튜브와 스타트업 미디어를 활용한 인... The post 벤처스퀘어, ‘모두의 창업 2기’ 참여…공간·투자·성장·미디어 잇는 지원 패키지 가동한다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "LIPS",
+            "TIPS",
+            "모두의창업",
+            "모두의창업2기",
+            "미디어홍보"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "인디게임 64개 판교에 모였다…인디크래프트, 브라질 특별관부터 240건 수출상담까지",
+          "link": "https://www.venturesquare.net/1114423/",
+          "pubDate": "2026-09-16T14:10:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-783x522.jpg",
+          "summary": "성남시가 주최하고 성남산업진흥원과 한국모바일게임협회가 공동 주관한 ‘2026 인디크래프트’ 오프라인 전시가 판교에서 열렸다. 국내외 인디게임 64개가 참여했으며 올해는 브라질 특별관을 마련해 국내 이용자가 브라질 인디게임을 직접 체험할 수 있도록 했다. 같은 기간 열린... The post 인디게임 64개 판교에 모였다…인디크래프트, 브라질 특별관부터 240건 수출상담까지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "GXG2026",
+            "KGame",
+            "K인디게임",
+            "게임산업",
+            "게임스타트업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경북창조경제혁신센터, 지역 식품기업 25명 현장으로…제조부터 브랜드·판로까지 연결",
           "link": "https://www.venturesquare.net/1114401/",
@@ -1020,63 +1068,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "디캠프, 우주·로봇·반도체 딥테크 10개사 키운다…배치 8기 출범",
-          "link": "https://www.venturesquare.net/1114376/",
-          "pubDate": "2026-09-16T13:43:25.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789519227690-789x503.jpeg",
-          "summary": "디캠프가 우주·항공·방산·로봇·에너지·반도체 등 딥테크 분야 스타트업 10개사를 ‘디캠프 배치 8기’로 선발했다. 레오스페이스·비즈·서울다이나믹스·스텝랩·아나배틱세미·위드로봇·인세라솔루션·제이제이앤컴퍼니스·카텍에이치·기프트쉐드가 참여해 향후 12개월 동안 기업별 맞춤형... The post 디캠프, 우주·로봇·반도체 딥테크 10개사 키운다…배치 8기 출범 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "기프트쉐드",
-            "디캠프",
-            "디캠프배치",
-            "딥테크",
-            "레오스페이스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서울바이오허브, 보스턴 바이오 생태계에 서울 스타트업 연결…랩센트럴과 첫 협력",
-          "link": "https://www.venturesquare.net/1114342/",
-          "pubDate": "2026-09-16T13:24:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/seoulbio.jpg",
-          "summary": "서울바이오허브가 미국 보스턴 바이오 전문 인큐베이터 랩센트럴과 처음 협력해 서울 바이오 스타트업의 미국 시장 진출을 지원한다. 서바이번트바이오로직스·바이오미·실리코팜 등 3개사는 랩센트럴의 글로벌 프로그램 ‘더 루프’에 참여해 화이자·바이엘·다케다·노보노디스크·존슨앤드... The post 서울바이오허브, 보스턴 바이오 생태계에 서울 스타트업 연결…랩센트럴과 첫 협력 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "LabCentral",
-            "RESI보스턴",
-            "글로벌진출",
-            "기술이전",
-            "더루프"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "씨엔티테크, 모두의 창업 2기 모집 막바지…선정자에 활동자금 200만원",
-          "link": "https://www.venturesquare.net/1114236/",
-          "pubDate": "2026-09-16T12:26:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cnt-3-789x444.png",
-          "summary": "씨엔티테크가 멘토기관으로 참여하는 ‘모두의 창업 2기’ 모집이 17일 오후 4시 마감된다. 예비창업자와 업력 7년 이내 기창업자가 참여할 수 있으며 지원자 전원에게 도전경력증명서를 발급하고 1라운드 선정자에게 창업활동자금 200만원을 지원한다. 1기 참가자가 기존 아이... The post 씨엔티테크, 모두의 창업 2기 모집 막바지…선정자에 활동자금 200만원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "IR컨설팅",
-            "도전경력증명서",
-            "모두의창업",
-            "모두의창업2기",
-            "스케일업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:10:18.468Z",
+      "fetchedAt": "2026-09-17T00:13:33.373Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1119,6 +1113,23 @@
           "summaryKo": null
         },
         {
+          "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
+          "pubDate": "2026-09-14T03:01:16.000Z",
+          "image": null,
+          "summary": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 전자신문",
+          "keywords": [
+            "전북정보보호지원센터",
+            "중소기업",
+            "정보보호",
+            "지원사업",
+            "수요기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 - beSUCCESS",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ldHZrenRjWlUwWl9YSTJQQWk2WFBtdjVqUjJIMmNaUGIxcjZaaF9adXBlakRuNS1meGZUMEoyU0NGeDNwckE?oc=5",
           "pubDate": "2026-09-16T07:11:58.000Z",
@@ -1151,89 +1162,72 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
-          "pubDate": "2026-09-14T03:01:16.000Z",
-          "image": null,
-          "summary": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 전자신문",
-          "keywords": [
-            "전북정보보호지원센터",
-            "중소기업",
-            "정보보호",
-            "지원사업",
-            "수요기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-16T22:10:18.948Z",
+      "fetchedAt": "2026-09-17T00:13:33.872Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "모델",
-      "label": "모델",
-      "count": 3,
-      "rank": 1,
-      "change": "up"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
+      "key": "ax",
+      "label": "AX",
       "count": 2,
-      "rank": 2,
+      "rank": 1,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 8,
+      "rank": 7,
       "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
+      "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "모델",
+      "label": "모델",
       "count": 2,
       "rank": 9,
       "change": "down"
@@ -1243,7 +1237,7 @@
       "label": "사업재편",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1264,59 +1258,59 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 5,
-      "rank": 3,
-      "change": "up",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 5,
-      "rank": 4,
-      "change": "up",
-      "labelKo": "추천 동영상"
-    },
-    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 5,
-      "change": "down",
-      "labelKo": "홈페이지 기능"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 5,
-      "rank": 6,
+      "rank": 3,
       "change": "up",
-      "labelKo": "뉴스"
+      "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 7,
-      "change": "down",
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 4,
+      "rank": 5,
+      "change": "down",
+      "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 4,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
+      "rank": 7,
+      "change": "up",
+      "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 4,
       "rank": 8,
       "change": "down",
-      "labelKo": "다음을 따르세요"
+      "labelKo": "뉴스"
     },
     {
       "key": "ai wearables",
       "label": "AI wearables",
       "count": 2,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI 웨어러블"
     },
     {
@@ -1324,7 +1318,7 @@
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
