@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T20:11:04.590Z",
+  "collectedAt": "2026-09-17T22:10:29.261Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:53.475Z",
+      "fetchedAt": "2026-09-17T22:10:17.422Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -181,13 +181,30 @@
         }
       ],
       "fetchedAt": "2026-09-17T20:10:53.547Z",
-      "error": null
+      "error": "HTTP 404"
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월17일] 초지능 경고에서 에이전트 통제까지...'p(doom)'이 다시 주목받는 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215372",
+          "pubDate": "2026-09-18T07:00:00.000Z",
+          "image": null,
+          "summary": "‘AI 종말론’이 다시 부각되면서 ‘p(doom)’이라는 표현도 주목받고 있습니다. AI의 대부로 불리는 제프리 힌튼 교수는 최근 인터뷰에서 “앞으로 10년 안에 AI가 인류를 멸종시킬 확률이 10%라는 추정은 비합리적이지 않다”​고 말했습니다. 다만 정확한 확률을 어떻게 계산해야 하는지는 아무도 모른다는 단서도 붙였습니다.p(doom)의 p는 확률을 뜻하는 ‘probability’의 첫 글자로, ‘Probability of Doom’, 즉 AI로 인해 인류가 멸종하거나 이에 준하는 파멸적 결과가 발생할 확률을 뜻합니다.하지만 공식",
+          "keywords": [
+            "9월17일",
+            "초지능",
+            "경고에서",
+            "에이전트",
+            "통제까지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "게임 중 '멘붕' 온 아스트라...마인크래프트서 아이템 잃고 감자만 깼다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215401",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전남광주, 반도체·에너지·모빌리티 R&D에 131억원 투입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215368",
-          "pubDate": "2026-09-17T17:54:52.000Z",
-          "image": null,
-          "summary": "AI 생성 영상전남광주통합특별시가 반도체와 에너지, 모빌리티 분야에서 지역 산업과 기업의 수요를 반영한 연구개발(R&D)을 지역 주도로 추진한다. 올해 호남권 사업에는 131억원이 투입된다.전남광주는 과학기술정보통신부의 ‘4극3특 지역 자율 R&D 사업’을 통해 호남권 연구개발 사업을 본격 추진한다고 17일 밝혔다.지역 자율 R&D는 중앙정부 중심의 연구개발 지원방식에서 벗어나 지역이 산업 여건과 과학기술 역량, 기업의 기술 수요 등을 바탕으로 필요한 과제를 직접 기획하고 수행하는 사업이다.과기정통부는 호남권을 포함한 전국 7개 권",
-          "keywords": [
-            "전남광주",
-            "반도체",
-            "에너지",
-            "모빌리티",
-            "R&D에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:54.918Z",
+      "fetchedAt": "2026-09-17T22:10:18.754Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Introducing Astra for Law",
+          "link": "https://openai.com/index/astra-for-law",
+          "pubDate": "2026-09-17T00:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "법학 분야를 위한 아스트라 소개",
+          "summaryKo": "OpenAI for Law는 법률, 맞춤 회사 워크플로우, 연결된 법률 데이터 소스 및 기밀 클라이언트 작업을 위한 법적 수준의 통제를 위한 프론티어 인텔리전스를 제공합니다."
+        },
         {
           "title": "Helping older adults use AI in everyday life",
           "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "모델 오정렬을 보고하기 위한 프레임워크",
           "summaryKo": "OpenAI는 모델 오정렬을 추적, 조사 및 공개하기 위한 프레임워크와 예기치 않은 또는 모델 동작과 관련된 6개의 보고서를 공유합니다."
-        },
-        {
-          "title": "How workers are unlocking new ways of working",
-          "link": "https://openai.com/index/unlocking-new-ways-of-working",
-          "pubDate": "2026-09-16T09:00:00.000Z",
-          "image": null,
-          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-          "keywords": [
-            "Global Affairs"
-          ],
-          "isForeign": true,
-          "titleKo": "근로자가 새로운 업무 방식을 여는 방법",
-          "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:55.058Z",
+      "fetchedAt": "2026-09-17T22:10:20.691Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,85 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Jean-Pierre Serre, 100세를 맞다",
-          "link": "https://news.hada.io/topic?id=33855",
-          "pubDate": "2026-09-17T19:52:17.000Z",
+          "title": "모두가 제정신을 잃었다",
+          "link": "https://news.hada.io/topic?id=33862",
+          "pubDate": "2026-09-17T22:02:15.000Z",
           "image": null,
-          "summary": "Jean-Pierre Serre는 대수적 위상수학, 대수기하학, 대수적 정수론에 중요한 공헌을 한 프랑스 수학자로, 여러 수학 분야가 현대적 형태를 갖추는 데 핵심 역할을 함 스펙트럴 열(spectral sequence) 을 올다발의 호몰로지 연구에 적용해 호몰로지 군과 호모토피 군...",
+          "summary": "AI 대응이 하루 업무의 75% 이상을 차지하면서 일의 즐거움까지 잃은 경험에서 출발해, 윤리와 실제 효과를 따지지 않는 조직의 AI 도입 열풍을 비판함 보안의 병목은 취약점을 찾는 것이 아니라 실제 시스템에 패치를 적용하는 일인데, 조직들은 AI로 수천 건의 취...",
           "keywords": [
-            "Jean",
-            "Pierre",
-            "Serre",
-            "100세를",
-            "맞다"
+            "모두가",
+            "제정신을",
+            "잃었다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "역공학으로 구현한 Jev 유사 모델",
-          "link": "https://news.hada.io/topic?id=33854",
-          "pubDate": "2026-09-17T19:52:16.000Z",
+          "title": "Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티",
+          "link": "https://news.hada.io/topic?id=33861",
+          "pubDate": "2026-09-17T21:52:16.000Z",
           "image": null,
-          "summary": "Jevlike는 텍스트 문맥과 매번 달라질 수 있는 선택지 목록을 받아, 답을 단어별로 생성하지 않고 한 번의 처리로 선택지별 확률을 계산하는 소형 모델임 각 선택지를 쿼리 벡터로 만들어 문맥 토큰에 어텐션을 적용하고, 선택지별 문맥 벡터와의 점수를 계산한 뒤...",
+          "summary": "어떤 모델을 쓰는지뿐 아니라 에이전트, 스킬, 연결 도구를 어떻게 조합해 일하는지 공개하고 서로 배우는 공간 개인별 페이지에 작업 흐름과 설정, 시행착오를 정리하며, 변경 이력과 팔로우로 다른 사람의 환경이 바뀌는 과정도 따라갈 수 있음 여러 에...",
           "keywords": [
-            "역공학으로",
-            "구현한",
-            "Jev",
-            "유사",
-            "모델"
+            "Mysetup",
+            "다른",
+            "사람의",
+            "AI",
+            "도구와"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "나는 LLM이 마음에 들지 않는다",
-          "link": "https://news.hada.io/topic?id=33853",
-          "pubDate": "2026-09-17T19:52:15.000Z",
+          "title": "셀프스토리지라는 미국의 종교",
+          "link": "https://news.hada.io/topic?id=33860",
+          "pubDate": "2026-09-17T21:52:15.000Z",
           "image": null,
-          "summary": "AI와 LLM의 생산성 향상 가능성에 대한 기대와 위험에 대한 두려움이 공존하지만, 직접 대화할 때 가장 강하게 드는 감정은 비호감임 LLM은 유용한 답변과 지어낸 내용을 똑같이 확신에 찬 태도로 말하며, 오류를 지적받아도 겉으로만 후회하는 듯...",
+          "summary": "미국은 세계 셀프스토리지 보관 용량의 약 90% 를 차지하며, 연간 매출은 400억 달러 이상으로 추산됨. 집에 둘 곳이 없는 물건을 보관하는 사업이 기관투자자도 투자하는 부동산 자산군으로 성장함 업계의 주요 수요는 사망, 거처 상실, 이혼, 주거 규모 축소라는 ‘4D",
           "keywords": [
-            "나는",
-            "LLM이",
-            "마음에",
-            "들지",
-            "않는다"
+            "셀프스토리지라는",
+            "미국의",
+            "종교"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
-          "link": "https://news.hada.io/topic?id=33852",
-          "pubDate": "2026-09-17T17:32:14.000Z",
+          "title": "항공유 절약하기",
+          "link": "https://news.hada.io/topic?id=33859",
+          "pubDate": "2026-09-17T21:02:16.000Z",
           "image": null,
-          "summary": "코딩 에이전트를 보안 감사 도구로 전환하는 스킬로, 격리된 에이전트들을 조율해 코드베이스 정찰부터 취약점 탐색, 검증, 보고서 작성까지 수행함 커버리지 장부를 기준으로 탐색 작업을 배정하고, 발견한 에이전트와 별개의 검증 에이전트가 취약점 후보를 반증...",
+          "summary": "Scikit-decide, OpenAP, NOAA 바람 데이터를 결합하면 바람 조건을 반영해 연료 소비를 줄이는 비행 경로를 오픈소스로 탐색할 수 있음 항공기 성능 모델과 경로 탐색을 연결해 기종, 중량, 속도, 고도, 기상 조건을 설정하고 연료 소비를 목적 함수로 최적화함",
           "keywords": [
-            "security",
-            "audit",
-            "코딩",
-            "에이전트를",
-            "보안"
+            "항공유",
+            "절약하기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: JD 기반 자기소개서 첨삭 Codex Skill",
-          "link": "https://news.hada.io/topic?id=33851",
-          "pubDate": "2026-09-17T16:54:42.000Z",
+          "title": "가동률 백분율 표기, 이제 그만하면 안 될까?",
+          "link": "https://news.hada.io/topic?id=33858",
+          "pubDate": "2026-09-17T21:02:15.000Z",
           "image": null,
-          "summary": "자기소개서 작성과 첨삭을 돕는 Codex Skill을 만들었어요. 채용공고/JD, 자소서 문항, 글자수 제한, 초안을 입력하면 문항의 의도와 JD를 분석해 제출용 자기소개서로 다듬어줘요. 단순히 문장을 자연스럽게 만드는 것보다 원문에 있는 경험과 어필 포인트를 최대한 보존하는 데 집중했어요. 없는 경험",
+          "summary": "서비스 상태 페이지가 인프라 전문가뿐 아니라 일반 사용자도 보는 공개 인터페이스가 된 만큼, 가동률 백분율만으로는 장애의 체감 규모를 전달하기 어려움 99.9%와 99.99% 는 비슷해 보이지만, 다운타임은 후자가 전자의 10분의 1임 인프라 전문가는",
           "keywords": [
-            "Show",
-            "GN:",
-            "JD",
-            "기반",
-            "자기소개서"
+            "가동률",
+            "백분율",
+            "표기",
+            "이제",
+            "그만하면"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:56.056Z",
+      "fetchedAt": "2026-09-17T22:10:21.676Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +530,7 @@
         }
       ],
       "fetchedAt": "2026-09-17T20:10:58.138Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -610,7 +603,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:58.574Z",
+      "fetchedAt": "2026-09-17T22:10:22.392Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +684,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:58.749Z",
+      "fetchedAt": "2026-09-17T22:10:22.481Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +783,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:11:02.035Z",
+      "fetchedAt": "2026-09-17T22:10:26.315Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:11:02.278Z",
+      "fetchedAt": "2026-09-17T22:10:26.607Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +962,7 @@
           "summaryKo": "이 세션에서는 초기 단계의 회사가 인간과 AI 요원이 함께 일하는 팀을 구축하는 방법과 창업자가 속도, 책임감 또는 문화를 희생하지 않고 어떻게 할 수 있는지 살펴봅니다. TechCrunch Disrupt 2026에서 자세히 알아보세요. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
         }
       ],
-      "fetchedAt": "2026-09-17T20:11:02.351Z",
+      "fetchedAt": "2026-09-17T22:10:26.746Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1061,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:11:04.124Z",
+      "fetchedAt": "2026-09-17T22:10:28.731Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1088,23 +1081,6 @@
             "평생교육",
             "활성화",
             "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
-          "pubDate": "2026-09-17T02:12:38.000Z",
-          "image": null,
-          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
-          "keywords": [
-            "이천소식",
-            "최대",
-            "300만원",
-            "청년",
-            "근속장려금"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1145,11 +1121,28 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - vtimes.kr",
+          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
+          "pubDate": "2026-09-17T02:12:38.000Z",
+          "image": null,
+          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
+          "keywords": [
+            "이천소식",
+            "최대",
+            "300만원",
+            "청년",
+            "근속장려금"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
           "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 vtimes.kr",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1162,7 +1155,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T20:11:04.582Z",
+      "fetchedAt": "2026-09-17T22:10:29.253Z",
       "error": null
     }
   },
@@ -1170,7 +1163,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 5,
+      "count": 6,
       "rank": 1,
       "change": "same"
     },
@@ -1182,60 +1175,60 @@
       "change": "same"
     },
     {
-      "key": "모델",
-      "label": "모델",
-      "count": 2,
-      "rank": 3,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 9,
-      "change": "down"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
