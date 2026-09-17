@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T12:13:40.404Z",
+  "collectedAt": "2026-09-17T14:12:02.461Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:29.092Z",
+      "fetchedAt": "2026-09-17T14:11:50.421Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:29.204Z",
+      "fetchedAt": "2026-09-17T14:11:50.532Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:30.438Z",
+      "fetchedAt": "2026-09-17T14:11:51.553Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "새로운 OpenAI 경제 리서치는 근로자가 전통적인 역할을 넘어 AI를 사용하는 방법과 새로운 활동이 업무의 반복적인 부분이 되는 방법을 보여줍니다."
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:30.642Z",
+      "fetchedAt": "2026-09-17T14:11:51.700Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,89 +357,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: 텐배거랩 - 미국주식 탐색부터 분석·기록·회고까지 한곳에서",
-          "link": "https://news.hada.io/topic?id=33835",
-          "pubDate": "2026-09-17T10:28:59.000Z",
+          "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+          "link": "https://news.hada.io/topic?id=33842",
+          "pubDate": "2026-09-17T13:52:14.000Z",
           "image": null,
-          "summary": "안녕하세요. 미국주식 리서치 서비스 ‘텐배거랩’을 운영하고 있습니다. 미국주식 투자를 하면서 기업 하나를 공부하는 데도 여러 서비스를 오가게 됐습니다. 재무 데이터는 A에서, 차트와 시장 정보는 B에서 보고, 공시와 거시경제 자료는 또 다른 곳에서 찾아보고, 영문 자료는 또 AI에게",
+          "summary": "7개 모델과 3개 하네스의 21개 조합을 평가한 결과, 두 벤치마크에서 하네스 선택은 작업 성공률보다 토큰 비용에 더 큰 영향을 미쳤으며, 같은 모델이 비슷한 성공률을 내는 데 비용은 최대 5배 차이 났음 Claude Code는 공통 모델 기준 SWE-ben...",
           "keywords": [
-            "Show",
-            "GN:",
-            "텐배거랩",
-            "미국주식",
-            "탐색부터"
+            "HarnessTax:",
+            "코딩",
+            "에이전트에서",
+            "하네스는",
+            "얼마나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "SQL 데이터베이스 스키마란 무엇이며 어떻게 설계할까?",
-          "link": "https://news.hada.io/topic?id=33833",
-          "pubDate": "2026-09-17T09:54:00.000Z",
+          "title": "OpenSpec - 가볍고 구성을 조정할 수 있는 AI 명세 프레임워크",
+          "link": "https://news.hada.io/topic?id=33841",
+          "pubDate": "2026-09-17T13:42:15.000Z",
           "image": null,
-          "summary": "SQL 데이터베이스 스키마를 구성하는 테이블, 컬럼, 데이터 타입, 기본 키, 외래 키, 제약 조건, 인덱스를 하나의 MySQL 예제로 설명했습니다. 14개의 테이블로 구성된 티켓 예매 데이터베이스를 살펴보며, 테이블 간 관계가 어떻게 만들어지는지, 다대다 관계에서 연결 테이블이 왜 필요한지, 1NF부터 3NF까지",
+          "summary": "OpenSpec은 만들려는 소프트웨어의 요구사항을 명세로 작성하고 관리하며, 작업이 진행되는 동안 팀과 코딩 에이전트가 같은 목표를 유지하도록 돕는 프레임워크임 요구사항을 구체화하고 원하는 대상을 제대로 기술하는지 확인하며, 구현이 명세와 일치하...",
           "keywords": [
-            "SQL",
-            "데이터베이스",
-            "스키마란",
-            "무엇이며",
-            "어떻게"
+            "OpenSpec",
+            "가볍고",
+            "구성을",
+            "조정할",
+            "있는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "키는 빠져 있었다: 미국 운전면허증 바코드의 서명 키 복구하기",
-          "link": "https://news.hada.io/topic?id=33832",
-          "pubDate": "2026-09-17T09:42:13.000Z",
+          "title": "Neovim, 2023년 받은 약 80만 달러 상당의 Bitcoin 기부금이 사용되지 않은 채 남아 있음",
+          "link": "https://news.hada.io/topic?id=33840",
+          "pubDate": "2026-09-17T13:42:14.000Z",
           "image": null,
-          "summary": "New York과 Virginia 운전면허증 바코드의 비공개 서명 방식을 분석해 검증용 공개키를 복구함으로써, 발급 DMV 외부에서도 데이터의 진위를 확인할 수 있게 됨 Canadian Bank Note의 서명은 ECDSA P-256이며, 서명 필드를 같은 길이의 0으로 채운 전...",
+          "summary": "Neovim 기부 주소에 2023년 입금된 10 Bitcoin이 사용되지 않은 채 남아 있다는 게시물이 올라옴 이 기부금의 가치는 게시물 기준 약 80만 달러임 확인에 사용한 주소는 Neovim 웹사이트 하단에 있는 Bitcoin 기부 주소임 거래...",
           "keywords": [
-            "키는",
-            "빠져",
-            "있었다:",
-            "미국",
-            "운전면허증"
+            "Neovim",
+            "2023년",
+            "받은",
+            "80만",
+            "달러"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GNOME 51 소개",
-          "link": "https://news.hada.io/topic?id=33831",
-          "pubDate": "2026-09-17T08:12:13.000Z",
+          "title": "온라인 도박 시장 확대 후 도박장애로 인한 응급실 방문 두 배로 증가",
+          "link": "https://news.hada.io/topic?id=33838",
+          "pubDate": "2026-09-17T12:52:13.000Z",
           "image": null,
-          "summary": "GNOME 51은 Mutter의 프레임 스케줄링과 화면 녹화 처리를 개선해 데스크톱 반응성을 높이고, 설정과 기본 앱의 사용성을 확장함 Maps의 오프라인 지도로 원하는 지역을 내려받아 네트워크 없이 이용할 수 있으며, 대중교통 안내에 실시간 운행 정보와 도보 이동 시...",
+          "summary": "캐나다 온타리오주에서 단일 경기 스포츠 베팅 합법화와 온라인 도박 시장 확대 이후 도박장애 관련 응급실 방문이 두 배로 늘었으며, 증가세는 주로 젊은 남성에게 집중됨 연구 종료 시점의 방문 건수는 10~29세 남성에서 예상치보다 154%, 30~44세 남성에서 116%...",
           "keywords": [
-            "GNOME",
-            "51",
-            "소개"
+            "온라인",
+            "도박",
+            "시장",
+            "확대",
+            "도박장애로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 전략비축유를 뒷받침하는 공학",
-          "link": "https://news.hada.io/topic?id=33828",
-          "pubDate": "2026-09-17T06:42:14.000Z",
+          "title": "후원으로 이어온 Servo 개발 1년",
+          "link": "https://news.hada.io/topic?id=33837",
+          "pubDate": "2026-09-17T12:42:14.000Z",
           "image": null,
-          "summary": "미국 전략비축유는 수억 배럴의 원유를 장기간 안전하게 보관하고 신속히 방출하기 위해 지하 소금 공동을 활용함 상업용 지상 저장탱크로 전체 용량을 확보하려면 막대한 부지가 필요하며, 탱크 손상에 따른 유출과 화재에도 취약함 소금 지층은",
+          "summary": "Servo는 월간 기부금으로 운영하는 첫 유급 역할을 통해 장기 메인테이너 Josh Bowman-Matthews가 파트타임으로 기여자 경험을 개선하도록 지원함 지난 1년 동안 풀 리퀘스트 1,150건을 검토하고 신규 메인테이너 8명을 추천하며 기여자 지원에 집중함 신...",
           "keywords": [
-            "미국",
-            "전략비축유를",
-            "뒷받침하는",
-            "공학"
+            "후원으로",
+            "이어온",
+            "Servo",
+            "개발",
+            "1년"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:31.459Z",
+      "fetchedAt": "2026-09-17T14:11:52.577Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +535,7 @@
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:31.792Z",
+      "fetchedAt": "2026-09-17T14:11:52.857Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:32.045Z",
+      "fetchedAt": "2026-09-17T14:11:53.478Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:32.094Z",
+      "fetchedAt": "2026-09-17T14:11:53.822Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -696,97 +699,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "엘앤에프, SK온에 LFP 양극재 1600억원 공급…6만톤 생산체제 간다",
-          "link": "https://www.venturesquare.net/1114808/",
-          "pubDate": "2026-09-17T09:56:03.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/LNF-727x522.jpg",
-          "summary": "엘앤에프가 SK온과 2028년 말까지 약 1600억원 규모의 LFP 양극재 공급계약을 체결했다. 엘앤에프플러스는 3분기 말 연산 3만톤 규모의 고밀도 3세대 LFP 양극재 양산을 시작하고 2027년 상반기까지 최대 연산 6만톤의 생산능력을 확보할 예정이다. 양산 제품은... The post 엘앤에프, SK온에 LFP 양극재 1600억원 공급…6만톤 생산체제 간다 appeared first on 벤처스퀘어.",
+          "title": "해시드, 아부다비 투자진흥청과 맞손…한국 기업 중동 진출 연결한다",
+          "link": "https://www.venturesquare.net/1114860/",
+          "pubDate": "2026-09-17T13:53:32.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/HASHED.png",
+          "summary": "김서준 대표가 이끄는 해시드가 아부다비 투자진흥청(ADIO)과 업무협약을 맺고 한국 기업과 투자자의 아부다비 진출을 지원하는 장기 전략적 파트너십을 구축한다. 양측은 유망 기업과 투자자를 공동 발굴하고 투자 과정 지원과 시장 정보 제공, 현지 행사·사절단 및 기관 네트... The post 해시드, 아부다비 투자진흥청과 맞손…한국 기업 중동 진출 연결한다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "ESS",
-            "LFP",
-            "LFP양극재"
+            "ADIF",
+            "ADIO",
+            "Hashed"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "부산연합기술지주, ‘2026 부니콘 육성사업 PRE-IR 데모데이’ 개최…초기기업 투자역량 강화",
-          "link": "https://www.venturesquare.net/1114771/",
-          "pubDate": "2026-09-17T09:28:56.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260917_Busan_builup-783x522.png",
-          "summary": "부산연합기술지주가 ‘2026 부니콘 육성사업: 실전 투자 역량강화 PRE-IR 데모데이’를 열고 부산 지역 초기 스타트업 12개사의 투자유치 역량 강화에 나섰다. 참여기업들은 실제 투자유치와 유사한 환경에서 IR 피칭을 진행하고 투자심사역과 변리사로부터 사업모델과 시장... The post 부산연합기술지주, ‘2026 부니콘 육성사업 PRE-IR 데모데이’ 개최…초기기업 투자역량 강화 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "현장스케치",
-            "IR 피칭",
-            "PRE-IR",
-            "데모데이",
-            "변리사"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엑스와이지, 무신사 매장에서 커피 만드는 로봇…리테일 Physical AI 실전 투입",
-          "link": "https://www.venturesquare.net/1114755/",
-          "pubDate": "2026-09-17T06:17:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/BREW-783x522.jpg",
-          "summary": "황성재 대표가 이끄는 엑스와이지가 ‘무신사 뷰티 홍대’ 아즈니섬 카페에 로봇 바리스타 ‘바리스브루’를 적용해 실제 고객 주문과 음료 제조를 수행하고 있다. 엑스와이지는 현장에서 발생하는 주문·제조·운영 데이터를 축적해 로봇의 작업 수행과 운영 안정성을 개선하는 Phys... The post 엑스와이지, 무신사 매장에서 커피 만드는 로봇…리테일 Physical AI 실전 투입 appeared first on 벤처스퀘어.",
+          "title": "NC AI, 전북·경남 피지컬 AI 국책과제 동시 참여…공장·로봇 스스로 판단하게 만든다",
+          "link": "https://www.venturesquare.net/1114853/",
+          "pubDate": "2026-09-17T13:50:25.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NC-AI-3-789x444.jpg",
+          "summary": "이연수 대표가 이끄는 NC AI가 2026년부터 2030년까지 총 1조4131억원 규모로 추진되는 전북·경남 피지컬 AI 국가 연구개발 프로젝트의 주요 과제에 참여한다. 전북에서는 디지털트윈 기반 가상 학습환경과 무인공장용 피지컬 AI 파운데이션 모델을 개발하고 경남에... The post NC AI, 전북·경남 피지컬 AI 국책과제 동시 참여…공장·로봇 스스로 판단하게 만든다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI로보틱스",
+            "NCAI",
             "PhysicalAI",
-            "XYZ"
+            "RFM"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "보이스루, AI 더빙도 최대 5번 검수한다…70개 언어 지원 폴리타 출시",
-          "link": "https://www.venturesquare.net/1114752/",
-          "pubDate": "2026-09-17T06:10:16.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/VOICELOO-789x443.png",
-          "summary": "이상헌 대표가 이끄는 보이스루가 AI 더빙과 전문가 검수를 결합한 B2B 콘텐츠 현지화 서비스 ‘폴리타’를 출시했다. 영상을 분석해 화자를 식별한 뒤 AI 음성을 생성하고 누적 30만건의 번역 데이터와 1300여명의 언어 작업자 인프라를 활용해 스크립트와 결과물을 검수... The post 보이스루, AI 더빙도 최대 5번 검수한다…70개 언어 지원 폴리타 출시 appeared first on 벤처스퀘어.",
+          "title": "휴넷, 직장인 53.3% 내 일 바꿀 최대 변수는 AI…사업계획 1순위도 AI",
+          "link": "https://www.venturesquare.net/1114850/",
+          "pubDate": "2026-09-17T13:46:02.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/clipboardImage-3-780x522.png",
+          "summary": "조영탁 대표가 이끄는 휴넷이 직장인 420명을 대상으로 조사한 결과 53.3%가 2027년 자신의 일자리와 직무에 가장 큰 영향을 줄 요인으로 AI와 자동화를 꼽았다. 기업의 2027년 사업계획에서 중요하게 검토해야 할 분야 역시 ‘AI 및 기술 변화’가 49.5%로 ... The post 휴넷, 직장인 53.3% 내 일 바꿀 최대 변수는 AI…사업계획 1순위도 AI appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI더빙",
-            "B2B",
-            "OTT"
+            "2027사업계획",
+            "Ai",
+            "AX"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "잇뉴·로지픽, 창고에서 배송까지 AI로 잇는다…물류 최적화 공동 연구",
-          "link": "https://www.venturesquare.net/1114740/",
-          "pubDate": "2026-09-17T06:01:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ITNEW-698x522.png",
-          "summary": "제주창조경제혁신센터 투자기업 잇뉴가 WMS 전문기업 로지픽과 AI·물류 분야 공동 연구 및 글로벌 시장 진출을 위한 업무협약을 체결했다. 잇뉴의 시공간 데이터 기반 로케이션 AI와 운송관리 기술에 로지픽의 창고관리시스템 및 AI 에이전트 ‘옵티플로우 AI’를 연결해 창... The post 잇뉴·로지픽, 창고에서 배송까지 AI로 잇는다…물류 최적화 공동 연구 appeared first on 벤처스퀘어.",
+          "title": "딜, 전 세계 대학생 27만명 취업 돕는다…AI 면접부터 원격근무까지 연결",
+          "link": "https://www.venturesquare.net/1114818/",
+          "pubDate": "2026-09-17T12:00:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/DEEL-2.png",
+          "summary": "글로벌 HR·급여 플랫폼 딜이 유니버시티 오브 더 피플과 협력해 전 세계 27만명 이상의 학생을 위한 ‘커리어 리소스 센터’를 출범했다. 학생들은 AI 기반 면접 코칭과 이력서 작성·첨삭, 직무교육, 가상 업무 프로그램, 구직 전략 및 연봉 협상 지원 도구 등을 이용할... The post 딜, 전 세계 대학생 27만명 취업 돕는다…AI 면접부터 원격근무까지 연결 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "TMS",
-            "WMS",
-            "고병욱"
+            "#취업지원",
+            "AI면접",
+            "Deel"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "에버퓨어, 기업 데이터 3분의 1 이상 잠자고 있다…AI 운영 막는 다크 데이터",
+          "link": "https://www.venturesquare.net/1114811/",
+          "pubDate": "2026-09-17T10:01:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/EVERPURE-789x263.png",
+          "summary": "에버퓨어와 옴디아가 기업의 AI 활용과 데이터 관리 현황을 분석한 ‘기업 데이터 준비도 격차 분석’ 보고서를 발표했다. 조사 조직의 99%가 거의 활용되지 않는 다크 데이터를 보유했으며 51~75%의 조직에서는 다크 데이터가 전체 데이터의 37% 이상을 차지한 것으로 ... The post 에버퓨어, 기업 데이터 3분의 1 이상 잠자고 있다…AI 운영 막는 다크 데이터 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "Ai",
+            "Ai인프라",
+            "ROT데이터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:34.748Z",
+      "fetchedAt": "2026-09-17T14:11:57.178Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:35.563Z",
+      "fetchedAt": "2026-09-17T14:11:57.463Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,6 +889,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-17T14:00:00.000Z",
+          "image": null,
+          "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 전시 2일 남음",
+          "summaryKo": "Disrupt에서 전시 테이블을 예약할 수 있는 마지막 날은 9월 18일입니다. 이틀 남았습니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자, 기술 리더에게 스타트업을 소개하세요."
+        },
         {
           "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
           "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
@@ -895,6 +916,7 @@
           "keywords": [
             "Startups",
             "Venture",
+            "compliance",
             "cybersecurity"
           ],
           "isForeign": true,
@@ -947,26 +969,9 @@
           "isForeign": true,
           "titleKo": "카르타의 라이벌인 풀리가 문을 닫습니다.",
           "summaryKo": "General Catalyst, Stripe 및 Founders Fund의 지원을 받는 CAP 테이블 관리 플랫폼 Pulley는 12월에 매장을 폐쇄한다고 발표했습니다."
-        },
-        {
-          "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-16T18:45:35.000Z",
-          "image": null,
-          "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-          "keywords": [
-            "Biotech & Health",
-            "Startups",
-            "Neuralink",
-            "Science Corporation",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "사이언스 코퍼레이션 (Science Corp) 의 CEO 맥스 호닥 (Max Hodak) 이 '테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026)",
-          "summaryKo": "올해 Disrupt에서 Science Corp의 CEO Max Hodak은 의료 지원까지 제공할 수 있는 화면 없는 인터페이스에 대한 비전을 제시할 것입니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 받으세요."
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:37.662Z",
+      "fetchedAt": "2026-09-17T14:11:59.353Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -974,6 +979,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "부산연합기술지주, ‘2026 부니콘 육성사업 PRE-IR 데모데이’ 개최…초기기업 투자역량 강화",
+          "link": "https://www.venturesquare.net/1114771/",
+          "pubDate": "2026-09-17T09:28:56.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/260917_Busan_builup-783x522.png",
+          "summary": "부산연합기술지주가 ‘2026 부니콘 육성사업: 실전 투자 역량강화 PRE-IR 데모데이’를 열고 부산 지역 초기 스타트업 12개사의 투자유치 역량 강화에 나섰다. 참여기업들은 실제 투자유치와 유사한 환경에서 IR 피칭을 진행하고 투자심사역과 변리사로부터 사업모델과 시장... The post 부산연합기술지주, ‘2026 부니콘 육성사업 PRE-IR 데모데이’ 개최…초기기업 투자역량 강화 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "현장스케치",
+            "IR 피칭",
+            "PRE-IR",
+            "데모데이",
+            "변리사"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경기혁신센터·재단법인 밴드, 초기 기술기업에 최대 2억원…넥스트밸류 그라운드 모집",
           "link": "https://www.venturesquare.net/1114787/",
@@ -1045,27 +1068,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "벤처기업협회, 중견기업 되면 벤처 지위도 끝?…성장 이후 제도 단절 논의",
-          "link": "https://www.venturesquare.net/1114628/",
-          "pubDate": "2026-09-17T00:54:14.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/venture-3-789x444.png",
-          "summary": "송병준 회장이 이끄는 벤처기업협회가 국회에서 ‘제5회 벤처·스타트업 성장 포럼’을 열고 혁신기업이 성장 과정에서 마주하는 제도적 과제를 논의했다. 중견기업으로 성장한 혁신기업의 벤처기업 확인 범위를 비롯해 RSU·RSA 등 주식기반 성과보상제도 개선방안이 제시됐다. A... The post 벤처기업협회, 중견기업 되면 벤처 지위도 끝?…성장 이후 제도 단절 논의 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "RSA",
-            "RSU",
-            "근로시간제",
-            "벤처기업",
-            "벤처기업협회"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:39.822Z",
+      "fetchedAt": "2026-09-17T14:12:01.398Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1074,11 +1079,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - yna.co.kr",
+          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
           "pubDate": "2026-09-17T02:12:38.000Z",
           "image": null,
-          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 yna.co.kr",
+          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
           "keywords": [
             "이천소식",
             "최대",
@@ -1142,24 +1147,24 @@
           "summaryKo": null
         },
         {
-          "title": "이천시 중소기업 청년노동자 근속장려금 지원사업 참여자 모집 - 모닝투데이",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJNkRZMEhNWVM4Y0VGVEhCX3dhUEkxNDczdEY0d1lCNGpJUV9LRUtEeVlmU3BLNW5nUXNOZGFmbS1BRE9fMXE2NWp6Ylc?oc=5",
-          "pubDate": "2026-09-17T02:11:00.000Z",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
           "image": null,
-          "summary": "이천시 중소기업 청년노동자 근속장려금 지원사업 참여자 모집 모닝투데이",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
-            "이천시",
-            "중소기업",
-            "청년노동자",
-            "근속장려금",
-            "지원사업"
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T12:13:40.395Z",
+      "fetchedAt": "2026-09-17T14:12:01.990Z",
       "error": null
     }
   },
@@ -1167,70 +1172,70 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 5,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 6,
-      "rank": 2,
-      "change": "down"
-    },
-    {
-      "key": "미국",
-      "label": "미국",
-      "count": 3,
-      "rank": 3,
-      "change": "up"
-    },
-    {
-      "key": "벤처기업협회",
-      "label": "벤처기업협회",
+      "key": "ax",
+      "label": "AX",
       "count": 2,
-      "rank": 4,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
-      "count": 4,
-      "rank": 6,
-      "change": "down"
+      "count": 5,
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
-      "count": 4,
-      "rank": 7,
-      "change": "down"
+      "count": 5,
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
-      "count": 4,
-      "rank": 8,
+      "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
+      "count": 5,
+      "rank": 7,
       "change": "down"
     },
     {
-      "key": "중소기업",
-      "label": "중소기업",
-      "count": 3,
+      "key": "글로벌",
+      "label": "글로벌",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
+      "key": "중소기업",
+      "label": "중소기업",
+      "count": 2,
       "rank": 10,
       "change": "down"
     }
@@ -1301,20 +1306,20 @@
       "labelKo": "뉴스"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "AI"
+    },
+    {
       "key": "banking and consumer regulatory policy",
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "은행 및 소비자 규제 정책"
-    },
-    {
-      "key": "global affairs",
-      "label": "Global Affairs",
-      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "글로벌 업무"
+      "change": "down",
+      "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
 }
