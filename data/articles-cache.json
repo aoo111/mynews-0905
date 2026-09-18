@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-18T16:10:26.433Z",
+  "collectedAt": "2026-09-18T18:11:25.708Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:08.634Z",
+      "fetchedAt": "2026-09-18T18:11:11.831Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:11.647Z",
+      "fetchedAt": "2026-09-18T18:11:11.879Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:13.000Z",
+      "fetchedAt": "2026-09-18T18:11:13.188Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:13.145Z",
+      "fetchedAt": "2026-09-18T18:11:13.300Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,72 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
+          "link": "https://news.hada.io/topic?id=33905",
+          "pubDate": "2026-09-18T17:42:19.000Z",
+          "image": null,
+          "summary": "동일한 실행 루프에서 계획 수립, 행동 인터페이스, 컨텍스트 관리를 바꿔 4개 모델과 2개 벤치마크의 176개 설정을 비교했으며, 각 구성요소의 효과는 모델 역량과 작업 유형, 컨텍스트 예산에 따라 달라짐 컨텍스트 관리의 주된 효과는 컨텍스트 초과로 인한 조기...",
+          "keywords": [
+            "코딩",
+            "에이전트",
+            "하네스",
+            "설계에",
+            "관한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Cloudflare Quick Tunnels",
+          "link": "https://news.hada.io/topic?id=33904",
+          "pubDate": "2026-09-18T17:42:18.000Z",
+          "image": null,
+          "summary": "Quick Tunnels는 로컬 애플리케이션을 명령 하나로 인터넷에 공개하고 실시간 미리보기를 공유할 수 있는 무료 서비스임 계정 생성이나 로그인 없이 사용할 수 있으며, 설정 파일이나 DNS 설정도 필요 없음 자동 HTTPS와 DDoS 방어를 제...",
+          "keywords": [
+            "Cloudflare",
+            "Quick",
+            "Tunnels"
+          ],
+          "isForeign": true,
+          "titleKo": "Cloudflare 빠른 터널",
+          "summaryKo": "빠른 터널는 로컬 애플리케이션을 명령 하나로 인터넷에 공개하고 실시간 미리보기를 공유할 수 있는 무료 서비스임 계정 생성이나 로그인 없이 사용할 수 있으며, 설정 파일이나 DNS 설정도 필요 없음 자동 HTTPS와 DDoS방어를 제..."
+        },
+        {
+          "title": "Ask GN: OSS의 사용자 대상 광고 노출은 어디까지 허용될까?",
+          "link": "https://news.hada.io/topic?id=33903",
+          "pubDate": "2026-09-18T16:43:03.000Z",
+          "image": null,
+          "summary": "침습적인 정도를 기준을 삼아서 따져보면 다음과 같습니다. 가장 비침습적인 방법 : README.md 파일에 스폰서를 노출하기 한 번만 보여주고 끝내기 : npm install modulename 실행 시 postinstall script로 후원 메시지 띄우기 매번 보여주기 : 주간 다운로드 수 1억건이",
+          "keywords": [
+            "Ask",
+            "GN:",
+            "OSS의",
+            "사용자",
+            "대상"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
+          "link": "https://news.hada.io/topic?id=33902",
+          "pubDate": "2026-09-18T16:42:18.000Z",
+          "image": null,
+          "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가 전달하며, 복호화 개인키는 서...",
+          "keywords": [
+            "ZCode",
+            "내부",
+            "분석:",
+            "사용자",
+            "모르게"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "무한 파라미터 LLM: 실시간 데이터로 가중치 생성 및 적응",
           "link": "https://news.hada.io/topic?id=33899",
@@ -376,77 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Warren Buffett, Berkshire 이사회 의장직에서 물러나고 아들을 후임으로 지명",
-          "link": "https://news.hada.io/topic?id=33898",
-          "pubDate": "2026-09-18T15:42:17.000Z",
-          "image": null,
-          "summary": "Warren Buffett이 Berkshire Hathaway 이사회 의장직에서 물러나며, 즉시 명예 의장으로 전환함 후임 의장은 아들인 Howard G. Buffett이 맡게 됨 의장직에서는 물러나지만 이사회에는 계속 남음 Berkshire Hathaway를 투자 강...",
-          "keywords": [
-            "Warren",
-            "Buffett",
-            "Berkshire",
-            "이사회",
-            "의장직에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "GLM 코딩 에이전트 ZCode, 사용자 모르게 Git 이력을 업로드함",
-          "link": "https://news.hada.io/topic?id=33897",
-          "pubDate": "2026-09-18T14:52:18.000Z",
-          "image": null,
-          "summary": "Z.ai의 데스크톱 코딩 앱 ZCode가 로그인 상태에서 전체 작업 공간과 Git 이력 등을 암호화해 Aliyun OSS로 업로드하는 동작이 역공학 분석에서 확인됨 아카이브 복호화에 필요한 개인 키는 Z.ai 클라우드에만 존재함. 사용자 디스크에 저장된 암...",
-          "keywords": [
-            "GLM",
-            "코딩",
-            "에이전트",
-            "ZCode",
-            "사용자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Bend 2와 바이브 코딩의 함정",
-          "link": "https://news.hada.io/topic?id=33896",
-          "pubDate": "2026-09-18T14:52:17.000Z",
-          "image": null,
-          "summary": "바이브 코딩은 문제를 충분히 이해하기 전에 큰 규모의 해법을 완성하게 해, 기존에 더 나은 접근법이 있다는 사실을 놓치게 할 수 있음 Bend 2는 사람이 법칙을 작성하고 AI가 구현과 증명을 만들면 컴파일러가 증명의 타당성을 검사하는 언어지만, 데모의 단순한...",
-          "keywords": [
-            "Bend",
-            "2와",
-            "바이브",
-            "코딩의",
-            "함정"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "나는 패스키가 마음에 들지 않는다",
-          "link": "https://news.hada.io/topic?id=33895",
-          "pubDate": "2026-09-18T14:42:17.000Z",
-          "image": null,
-          "summary": "패스키는 피싱과 서버 데이터 유출에 강하지만, 개인에게는 영구적인 계정 접근 상실, 자동 계정 정지, 기기 분실이 더 큰 위험일 수 있음 일반 로그인 과정의 피싱을 막더라도 계정 보안은 가장 취약한 복구 수단에 좌우되며, SMS, 이메일 링크, 보안 질문 등을 없...",
-          "keywords": [
-            "나는",
-            "패스키가",
-            "마음에",
-            "들지",
-            "않는다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:13.926Z",
+      "fetchedAt": "2026-09-18T18:11:15.760Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +535,7 @@
           "summaryKo": "2012년부터 VidCon은 오렌지 카운티의 애너하임 컨벤션 센터에서 (거의) 연례 여름 행사였습니다. 하지만 곧 바뀔 것입니다. 저명한 크리에이터 컨벤션의 소유주인 Informa는 VidCon을 애너하임에서 빼앗고 있습니다. 앞으로 VidCon은 Cannes Lions International Festival of Creativity라는 또 다른 Informa 시설과 연계될 예정입니다. Informa는 광고 및 마케팅 분야에서 크리에이터의 영향력이 커지고 있음을 인정하기 위해"
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:13.995Z",
+      "fetchedAt": "2026-09-18T18:11:15.837Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:14.141Z",
+      "fetchedAt": "2026-09-18T18:11:16.616Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:14.193Z",
+      "fetchedAt": "2026-09-18T18:11:17.010Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:17.463Z",
+      "fetchedAt": "2026-09-18T18:11:20.756Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:17.727Z",
+      "fetchedAt": "2026-09-18T18:11:21.000Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -891,6 +889,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+          "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+          "pubDate": "2026-09-18T17:06:32.000Z",
+          "image": null,
+          "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]",
+          "keywords": [
+            "AI",
+            "Startups",
+            "ai safety",
+            "Anthropic",
+            "Automattic",
+            "Equity podcast"
+          ],
+          "isForeign": true,
+          "titleKo": "오토매틱의 33시간 쿠데타, 인공지능 실험실 스스로 경찰이 될 수 있을까?",
+          "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
+        },
         {
           "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
@@ -959,24 +975,9 @@
           "isForeign": true,
           "titleKo": "시계가 켜져 있습니다: TechCrunch Disrupt 2026에 전시할 최종 24시간",
           "summaryKo": "Disrupt에서 전시 테이블을 예약할 수 있는 마지막 날은 오늘인 9월 18일입니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자, 기술 리더를 만나보세요."
-        },
-        {
-          "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
-          "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-          "pubDate": "2026-09-18T00:02:36.000Z",
-          "image": null,
-          "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-          "keywords": [
-            "Climate",
-            "Startups",
-            "geothermal energy"
-          ],
-          "isForeign": true,
-          "titleKo": "Khosla가 후원하는 Mazama Energy는 초고온 암석 지열에 더 깊이 파고들기 위해 $ 135M를 모금했습니다.",
-          "summaryKo": "지열 스타트업 마자마 (Mazama) 는 지하 3마일을 굴착하여 초고온 암석을 두드리며, 하나는 연중무휴로 15MW의 전기를 생산할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:22.306Z",
+      "fetchedAt": "2026-09-18T18:11:23.039Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1075,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:25.111Z",
+      "fetchedAt": "2026-09-18T18:11:25.313Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1169,7 +1170,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T16:10:25.806Z",
+      "fetchedAt": "2026-09-18T18:11:25.701Z",
       "error": null
     }
   },
@@ -1186,7 +1187,7 @@
       "label": "에이전트",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1279,27 +1280,27 @@
       "labelKo": "스타트업"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
       "rank": 6,
-      "change": "up",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1307,7 +1308,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1315,7 +1316,7 @@
       "label": "News",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
@@ -1323,7 +1324,7 @@
       "label": "TechCrunch Disrupt",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "TechCrunch Disrupt"
     }
   ]
