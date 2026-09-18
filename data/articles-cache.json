@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-18T06:13:34.580Z",
+  "collectedAt": "2026-09-18T08:11:32.113Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "대출 받았더니 예·적금도 가입?…中企 ‘꺾기 의심거래’ 상반기만 7조",
+          "link": "https://www.mk.co.kr/news/economy/12156554",
+          "pubDate": "2026-09-18T06:45:41.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.YNA.20260722.PYH2026072208050001300_R.jpg",
+          "summary": "의심거래 4만3827건 달해 은행권 금액 비중 최고 8.07%중소기업이 은행에서 대출을 받은 전후로 예·적금 등 금융상품에 가입한 이른바 ‘꺾기 의심거래’가 올해 상반기에만 7조원..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "1800만원 넣으면 2300만원으로…높은 환급률에 비과세 혜택까지 주는 보험상품",
+          "link": "https://www.mk.co.kr/news/economy/12156547",
+          "pubDate": "2026-09-18T06:37:32.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.50f64281ab8b4360b16a4d566501b4c0_R.jpeg",
+          "summary": "목돈마련 저축·달러연금보험 관심 10년 이상 유지해야 높은 환급 대상 중간 해약하면 원금 손실 상당히 커국내 증시가 큰 변동성을 보인 뒤 사실상 박스권에 갇히자 최근 저축 수요가 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "떠나는 구윤철 “주택·청년 일자리 등 과제 산적…공직사회 힘 모아달라”",
+          "link": "https://www.mk.co.kr/news/economy/12156523",
+          "pubDate": "2026-09-18T06:18:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.cc6fb12fbafd4b89a93fdfd032303de2_R.png",
+          "summary": "1년2개월간 경제사령탑 역할 마쳐 이임식 열고 37년 공직생활 마무리 “세계 1등 제품·서비스 만들어야 중동전쟁으로 현장 못 가 아쉬워”“앞으로도 ‘대체불가 대한민국’을 현실로 만..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "농협 “대포통장 꼼짝마”… 올해 피해액 39% 줄었다",
+          "link": "https://www.mk.co.kr/news/economy/12156518",
+          "pubDate": "2026-09-18T06:15:43.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.NEWSIS.NEWSIS.20260918.NISI20260918_0021443019_R.jpg",
+          "summary": "올 1분기 적발 계좌 1076좌 기록 현장점검 확대로 법인 피해 급감 휴대전화 개통 이력 FDS에 반영 365일 24시간 철통 모니터링 체제농·축협에서 발생한 대포통장 피해액이 지..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "석탄발전 19기 2030년까지 폐쇄한다 … LNG 발전으로 전환",
           "link": "https://www.mk.co.kr/news/economy/12156511",
           "pubDate": "2026-09-18T06:09:36.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "시중은행 예금금리 줄인상…인뱅·저축銀 잠잠한 이유",
-          "link": "https://www.mk.co.kr/news/economy/12156502",
-          "pubDate": "2026-09-18T05:57:09.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260715.b32681c020bc4c8fa305670f347a7136_R.png",
-          "summary": "5대銀 금리 3.4%대 올랐지만 추가 인상 없고 오히려 하락세 대출 관리 속 파킹통장은 인상시장금리 상승에 시중은행들이 앞다퉈 정기예금 금리를 올리고 있지만, 인터넷전문은행(인뱅)..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“동네 주유소 문 닫으란 소리냐”…추석 고유가 대책에 주유소협회 반발",
-          "link": "https://www.mk.co.kr/news/economy/12156498",
-          "pubDate": "2026-09-18T05:51:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.YNA.20260918.PYH2026091815090001300_R.jpg",
-          "summary": "사단법인 한국주유소협회가 정부의 추석 연휴 고속도로 주유소 유류가격 인하 방침에 대해 일반 주유소의 경영난을 가중할 수 있다며 반발했다. 협회는 18일 정부가 추석 연휴 기간 한국..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "씀씀이 커진 정부·공기업… 공공부문 살림살이 83조 ‘펑크’",
-          "link": "https://www.mk.co.kr/news/economy/12156497",
-          "pubDate": "2026-09-18T05:51:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.NEWS1.NEWS1.20260906.2026-09-06T151700_1008090432_ECONOMY_I_R.jpg",
-          "summary": "작년 공공부문 수지 83.1조 적자 2007년 통계 작성 이후 최대 규모 소비쿠폰 등 경상이전 지출 증가 내년엔 반도체 호황 흑자 전환 전망지난해 중앙·지방정부와 공기업 등을 아우..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[화제의 신간] 한국금융인재개발원, 금융사기예방전문가 자격시험 교재 출시",
-          "link": "https://www.mk.co.kr/news/economy/12156478",
-          "pubDate": "2026-09-18T05:27:12.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.dabf5f09920a4b81b5dba523bc131e46_R.jpg",
-          "summary": "자격시험 대비 및 실무 교육용 교재로 활용 가능한국금융인재개발원 금융범죄예방교육센터가 금융사기예방전문가(FPS) 자격시험 공식 교재인 ‘금융사기예방전문가’를 출간했다고 18일 밝혔..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:26.500Z",
+      "fetchedAt": "2026-09-18T08:11:22.597Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:26.627Z",
+      "fetchedAt": "2026-09-18T08:11:22.666Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI, '대형 신제품' 출시 일주일 연기…'GPT-6 솔' 기대감 고조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215462",
+          "pubDate": "2026-09-18T16:05:45.000Z",
+          "image": null,
+          "summary": "샘 알트먼 오픈AI CEO가 이번 주 예정이던 대형 신제품의 출시 일정을 다음 주로 연기했다.알트먼 CEO는 17일(현지시간) X를 통해 \"이번 주 출시를 가장 기대했던 메인 제품이 다음 주로 연기됐다\"라며 \"그러나 기다릴 만한 충분한 가치가 있을 것\"이라고 밝혔다. 이유는 언급하지 않았다.그는 이틀 전인 15일 이번 주 대형 신제품 출시와 더불어 '데브데이' 현장에서 추가 제품 다수를 선보일 예정이라고 밝힌 바 있다.the main thing i was excited about launching this week will be n",
+          "keywords": [
+            "오픈AI",
+            "대형",
+            "신제품",
+            "출시",
+            "일주일"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215450",
+          "pubDate": "2026-09-18T15:42:42.000Z",
+          "image": null,
+          "summary": "오픈AI가 단순한 법률 정보 검색과 문서 분석을 넘어, 법률회사가 보유한 전문 지식과 고유한 업무 방식을 AI에 접목할 수 있는 맞춤형 법률 AI를 선보였다. 오픈AI는 17일(현지시간) 법률 업무에 특화한 AI 플랫폼 ‘법률용 아스트라(Astra for Law)’를 공개했다.최신 모델인 'GPT-6 아스트라'에 법률 검색 기능과 법률 분석·작성에 최적화된 지침, 전문 도구를 결합해 변호사의 법률 조사와 문서 작성은 물론 법률회사와 법률 기술 기업이 자체 AI 서비스와 업무 흐름을 구축할 수 있도록 한 것이 특징이다.미국 판례와 법",
+          "keywords": [
+            "오픈AI",
+            "법률용",
+            "아스트라",
+            "발표",
+            "로펌"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"워드 안에서 챗GPT 쓴다\"...오픈AI, MS 워드 통합 기능 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215448",
+          "pubDate": "2026-09-18T15:25:56.000Z",
+          "image": null,
+          "summary": "'챗GPT'를 MS 워드(Microsoft Word)에서 직접 사용할 수 있게 됐다. 별도의 AI 서비스로 이동하지 않아도 워드 안에서 메모를 바탕으로 문서 초안을 만들고, 까다로운 문장을 정리하거나 오탈자를 점검하는 것은 물론 문장 수정안까지 제안받을 수 있다. 오픈AI는 17일(현지시간) MS 워드에 챗GPT를 통합하고 무료 사용자를 포함한 전체 요금제로 서비스를 확대했다. 챗GPT는 워드 작업 창 옆에 표시되는 사이드바를 통해 이용할 수 있다. 사용자가 작성해 둔 메모를 바탕으로 문서 초안을 만들거나 길고 복잡한 문서를 요약할",
+          "keywords": [
+            "워드",
+            "안에서",
+            "챗GPT",
+            "쓴다",
+            "오픈AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "위버스브레인, 18년 축적 학습 데이터로 '습관 설계 AI' 개발 나서",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215458",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...\"대규모 연결로 엔비디아 추격\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215455",
-          "pubDate": "2026-09-18T14:56:24.000Z",
-          "image": null,
-          "summary": "화웨이가 미국의 반도체 규제가 이어지는 가운데 차세대 AI 칩 출시 일정을 앞당기며 엔비디아 추격에 속도를 내고 있다. 개별 칩의 성능 격차를 대규모 칩 연결과 고속 데이터 전송 기술로 보완하는 방식으로 AI 컴퓨팅 경쟁력을 높이고 중국 내 AI 반도체 자립을 강화한다는 전략이다.화웨이는 17일 상하이에서 열린 '커넥트' 행사를 통해 차세대 AI 가속기인 ‘어센드(Ascend) 960DT’를 2027년 1분기에 출시할 계획이라고 밝혔다. 당초 2027년 3분기 출시 예정이었던 일정을 약 두 분기 앞당긴 것이다.이후 ‘어센드 960P",
-          "keywords": [
-            "화웨이",
-            "차세대",
-            "AI",
-            "출시",
-            "앞당긴다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "셀렉트스타 \"AI 검증, 일회성 시험 아냐\"...전 주기 상시 평가 체계 강조",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215439",
-          "pubDate": "2026-09-18T14:37:06.000Z",
-          "image": null,
-          "summary": "셀렉트스타(대표 김세엽)는 17일 서울 포스코타워 역삼에서 한국능률협회컨설팅(KMAC), 법무법인 린과 공동으로 'AI 기본법 이후의 실전 대응: 책임·거버넌스·검증' 세미나를 개최했다고 밝혔다.이번 세미나는 AI 기본법 시행 이후 기업과 공공기관이 갖춰야 할 대응 방안을 법률·규제 해석부터 조직 거버넌스, 실제 AI 서비스의 기술적 검증 등을 다뤘다.오프닝 축사는 강상욱 과학기술정보통신부 기획조정실장이 담당했으며, KMAC 오철세 상무가 환영사를 전했다. 이후 린이 AI 공공조달과 보안 규제 변화를, KMAC이 책임 있는 AI 운",
-          "keywords": [
-            "셀렉트스타",
-            "AI",
-            "검증",
-            "일회성",
-            "시험"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한국인 76% \"AI가 내 일자리 뺏을 것\"...고용 불안도 세계 최고 수준",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215449",
-          "pubDate": "2026-09-18T14:35:07.000Z",
-          "image": null,
-          "summary": "전 세계 37개국 조사에서 다수의 응답자가 AI가 향후 20년간 새로운 일자리를 만드는 것보다 기존 일자리를 더 많이 없앨 것이라고 답했다.퓨 리서치 센터(Pew Research Center)는 지난 2월8일부터 5월13일까지 37개국 성인 4만 2151명을 대상으로 AI가 고용과 일상, 소득 불평등에 미치는 영향에 대한 인식을 조사했다.17일(현지시간) 공개한 결과 보고서에 따르면, 37개국 중 34개국에서 AI가 신규 일자리 창출보다 기존 일자리를 없앨 것이라는 응답이 더 높게 나타났다. 호주와 한국이 각각 76%로 가장 높았고",
-          "keywords": [
-            "한국인",
-            "76%",
-            "AI가",
-            "일자리",
-            "뺏을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:27.886Z",
+      "fetchedAt": "2026-09-18T08:11:23.549Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:28.025Z",
+      "fetchedAt": "2026-09-18T08:11:23.708Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,21 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Qwen 3.8 Omni Flash",
+          "link": "https://news.hada.io/topic?id=33884",
+          "pubDate": "2026-09-18T07:42:16.000Z",
+          "image": null,
+          "summary": "Qwen3.8-Omni-Flash는 텍스트, 이미지, 오디오, 비디오를 입력받아 콘텐츠 이해부터 작업 계획, 도구 호출, 결과물 제작까지 수행하는 네이티브 옴니모달 모델로, 100만 토큰 컨텍스트를 지원함 Qwen 공개 평가에서 이전 Qwen3.5-Omni-Plus보다 29개 평가 ...",
+          "keywords": [
+            "Qwen",
+            "Omni",
+            "Flash"
+          ],
+          "isForeign": true,
+          "titleKo": "Qwen 3.8 Omni Flash",
+          "summaryKo": "Qwen3.8-Omni-Flash는 텍스트,이미지,,오디오,비디오를 입력받아 콘텐츠 이해부터 작업 계획,도구 호출,결과물 제작까지 수행하는 네이티브 옴니모달 모델로,, 100만 토큰 컨텍스트를 지원함 Qwen 공개 평가에서 이전 Qwen3.5-Omni-Plus보다 29개 평가..."
+        },
         {
           "title": "Show GN: SQLBraid - SQL을 그대로 쓰는 TypeScript 라이브러리",
           "link": "https://news.hada.io/topic?id=33881",
@@ -424,26 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "일본의 100세 이상 인구, 10만 명 넘어",
-          "link": "https://news.hada.io/topic?id=33877",
-          "pubDate": "2026-09-18T03:42:16.000Z",
-          "image": null,
-          "summary": "일본 후생노동성 집계에서 100세 이상 인구가 처음으로 10만 명을 넘어 10만 7,677명을 기록했으며, 이 가운데 88%가 여성임 전문가들은 일본인의 장수 요인으로 건강한 식단과 활동적인 생활을 꼽으며, 고령층도 걷기, 대중교통 이용, 자전거 타기, 스트레칭을 꾸...",
-          "keywords": [
-            "일본의",
-            "100세",
-            "이상",
-            "인구",
-            "10만"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:28.890Z",
+      "fetchedAt": "2026-09-18T08:11:26.302Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +532,7 @@
           "summaryKo": "2012년부터 VidCon은 오렌지 카운티의 애너하임 컨벤션 센터에서 (거의) 연례 여름 행사였습니다. 하지만 곧 바뀔 것입니다. 저명한 크리에이터 컨벤션의 소유주인 Informa는 VidCon을 애너하임에서 빼앗고 있습니다. 앞으로 VidCon은 Cannes Lions International Festival of Creativity라는 또 다른 Informa 시설과 연계될 예정입니다. Informa는 광고 및 마케팅 분야에서 크리에이터의 영향력이 커지고 있음을 인정하기 위해"
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:29.102Z",
+      "fetchedAt": "2026-09-18T08:11:26.509Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:29.305Z",
+      "fetchedAt": "2026-09-18T08:11:26.657Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:29.365Z",
+      "fetchedAt": "2026-09-18T08:11:26.735Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -697,6 +695,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "미소정보기술, 공장이 스스로 판단하고 움직이게…M.AX 제조 AI 전문기업 선정",
+          "link": "https://www.venturesquare.net/1115202/",
+          "pubDate": "2026-09-18T06:16:46.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MISO_AI_MAX-738x522.jpg",
+          "summary": "남상도 대표가 이끄는 미소정보기술이 산업통상부와 한국산업기술기획평가원이 추진하는 M.AX 제조 AI 전문기업의 AI 솔루션 기업 부문에 선정됐다. 미소정보기술은 제조 AI 플랫폼 ‘닥시’를 통해 설비·공정·품질·생산 데이터를 통합하고 AI 기반 이상징후 예측과 품질관리... The post 미소정보기술, 공장이 스스로 판단하고 움직이게…M.AX 제조 AI 전문기업 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI팩토리",
+            "DAXI",
+            "MAX"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "위버스브레인, 첫 주 매일 공부하면 장기학습 14배…장동선 박사와 습관 설계 AI 개발",
+          "link": "https://www.venturesquare.net/1115190/",
+          "pubDate": "2026-09-18T06:08:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260917172907_1ecf0464-054e-447d-a400-9b0f4425f202-696x522.jpg",
+          "summary": "조세원·이용국 공동대표가 이끄는 위버스브레인이 뇌과학자 장동선 박사와 함께 학습 행동의 지속을 돕는 ‘습관 설계 AI’를 개발한다. 회사가 이용자 약 1만7000명의 24개월 기록을 분석한 결과 첫 주 매일 학습한 이용자가 장기 우수학습자로 이어진 비율은 첫 주 학습을... The post 위버스브레인, 첫 주 매일 공부하면 장기학습 14배…장동선 박사와 습관 설계 AI 개발 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI튜터",
+            "교육AI",
+            "뇌과학"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "알서포트, 추석에 키오스크 멈춰도 스마트폰으로 조치…공장 OT까지 원격 제어",
           "link": "https://www.venturesquare.net/1115175/",
@@ -750,45 +784,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "틱톡, 한국 브랜드 15곳 미국 틱톡샵 키운다…4개월 실전 부트캠프",
-          "link": "https://www.venturesquare.net/1115134/",
-          "pubDate": "2026-09-18T05:32:00.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/TIKTOP-789x444.jpg",
-          "summary": "틱톡이 미국 틱톡샵을 운영하는 국내 브랜드 약 15개사를 대상으로 4개월간 ‘미국 틱톡샵 부트캠프’를 진행한다. 참가 기업은 상품 전략과 콘텐츠 제작, 크리에이터 어필리에이트, GMV Max 광고 등을 실제 틱톡샵 운영과 연계해 익히게 된다. 틱톡은 온라인·오프라인 교... The post 틱톡, 한국 브랜드 15곳 미국 틱톡샵 키운다…4개월 실전 부트캠프 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "2022 패션 이커머스 벤치마크 리포트",
-            "GMVMax",
-            "K브랜드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "제논, GPU 8장으로 3970억 파라미터 AI에 컴퓨터 조작 능력 더했다",
-          "link": "https://www.venturesquare.net/1115122/",
-          "pubDate": "2026-09-18T05:28:00.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Hunmin-VLM-397B-752x522.jpg",
-          "summary": "고석태 대표가 이끄는 제논이 3970억 파라미터 규모 AI에 컴퓨터 조작 능력을 추가한 ‘훈민 VLM 397B’를 오픈소스로 공개했다. 제논은 엔비디아 B200 GPU 8장을 활용해 Qwen3.5-397B를 후학습했으며 ScreenSpot-Pro에서 75.6점, OSW... The post 제논, GPU 8장으로 3970억 파라미터 AI에 컴퓨터 조작 능력 더했다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI에이전트",
-            "B200",
-            "HunminVLM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:32.230Z",
+      "fetchedAt": "2026-09-18T08:11:29.815Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:32.508Z",
+      "fetchedAt": "2026-09-18T08:11:30.035Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -967,7 +965,7 @@
           "summaryKo": "사이버 보안 및 컴플라이언스 스타트업인 Comp AI는 Roo Capital과 Grand Ventures가 주도하는 $ 34,000,000 시리즈 A 라운드를 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:32.577Z",
+      "fetchedAt": "2026-09-18T08:11:30.212Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1066,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:34.145Z",
+      "fetchedAt": "2026-09-18T08:11:31.659Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1074,6 +1072,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
+          "pubDate": "2026-09-18T06:23:20.000Z",
+          "image": null,
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "keywords": [
+            "경기",
+            "~9/29(화)",
+            "성남시",
+            "청년",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
@@ -1086,6 +1101,23 @@
             "평생교육",
             "활성화",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "gg"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1109,11 +1141,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - vtimes.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
           "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 vtimes.kr",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1124,95 +1156,61 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - yna.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
-          "pubDate": "2026-09-17T02:12:38.000Z",
-          "image": null,
-          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 yna.co.kr",
-          "keywords": [
-            "이천소식",
-            "최대",
-            "300만원",
-            "청년",
-            "근속장려금"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 - 굿모닝충청",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yREFkdDVDTU5hZC1ZbUt3UXRvQkFwMUhOLWNSSWZzQTFNRjRCOFAwNVhkZF92NmUyUkJDQjhuQzNUb2JiV2h0dGx3Z2dDMVgycThEVHY5WjNYWU1zMTJnYXJuNXFhQTFWWEZBXzdlTVM0Zw?oc=5",
-          "pubDate": "2026-09-15T05:51:48.000Z",
-          "image": null,
-          "summary": "국내 생산라인도 없는데?...기후부의 앞뒤 안 맞는 사업공고 굿모닝충청",
-          "keywords": [
-            "국내",
-            "생산라인도",
-            "없는데",
-            "기후부의",
-            "앞뒤"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T06:13:34.574Z",
+      "fetchedAt": "2026-09-18T08:11:32.104Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 1,
-      "change": "same"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
+      "count": 4,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "오픈ai",
+      "label": "오픈AI",
       "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "18",
@@ -1226,14 +1224,14 @@
       "label": "AI스타트업",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "iphone",
       "label": "iPhone",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
