@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-18T20:10:19.183Z",
+  "collectedAt": "2026-09-18T22:10:01.334Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“나라안에서 해결되는데 왜 무역합니까” … 천재경제학자의 답변이",
+          "link": "https://www.mk.co.kr/news/economy/12156559",
+          "pubDate": "2026-09-18T20:40:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-a.v1.20260918.e44d1a586e8d4514975c02d13913d5ef_R.png",
+          "summary": "⑬특화와 무역이 만드는 이익■ 애덤 스미스의 통찰: 특화와 분업의 이익 1776년 애덤 스미스는 영국 스코틀랜드의 한 작은 핀 공장을 관찰하며 전율을 느꼈습니다. 혼자서 머리부터 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "기뢰 한 발에 국제유가 ‘출렁’ … 열린듯 닫힌 호르무즈의 역설",
           "link": "https://www.mk.co.kr/news/economy/12156610",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“고속도로만 기름값 할인, 사형선고 아니냐”…동네 주유소들 ‘반발’",
-          "link": "https://www.mk.co.kr/news/economy/12156807",
-          "pubDate": "2026-09-18T10:35:41.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.YNA.20260918.PYH2026091815090001300_R.jpg",
-          "summary": "정부가 추석 연휴 고속도로 주유소의 기름값을 ℓ당 100원씩 낮추기로 하자 일반 주유소업계가 “고속도로 주유소에만 혜택을 주는 역차별 정책”이라며 반발하고 있다. 18일 한국주유소..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:08.220Z",
+      "fetchedAt": "2026-09-18T22:09:49.717Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:08.270Z",
+      "fetchedAt": "2026-09-18T22:09:49.850Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215440",
+          "pubDate": "2026-09-19T06:45:00.000Z",
+          "image": null,
+          "summary": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task summary)’에 원래 없던 지시를 스스로 추가한 사례를 공개했습니다.이런 요약문은 단순한 메모가 아닙니다",
+          "keywords": [
+            "9월18일",
+            "AI가",
+            "다음",
+            "AI에게",
+            "지시를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+          "pubDate": "2026-09-19T06:16:26.000Z",
+          "image": null,
+          "summary": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)의 이미지 파일 처리 방식에서 보안 취약점을 발견하면서 시작됐다. 연구진은 사이버 보안 전문가용으로 제공된",
+          "keywords": [
+            "오픈AI",
+            "앤트로픽",
+            "클로드",
+            "뚫렸다",
+            "핵심"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215459",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215465",
-          "pubDate": "2026-09-18T18:01:15.000Z",
-          "image": null,
-          "summary": "논문에 포함된 복잡한 분석 코드와 연구 방법을 자동으로 검증하고, 자연어로 실행할 수 있는 대화형 AI 에이전트로 바꾸는 오픈소스 시스템이 등장했다. 스탠포드대학교 연구진은 16일(현지시간) 논문과 코드 저장소를 분석해 연구 방법을 실행 가능한 도구로 변환하는 '페이퍼투에이전트(Paper2Agent)'를 네이처를 통해 공개했다. 단순히 논문 내용을 요약하는 것을 넘어, 논문에 담긴 연구 방법을 검증 가능한 실행 도구로 바꾼다는 점이 핵심이다.컴퓨터과학이나 바이오메디컬 분야의 연구 논문은 코드가 함께 공개되더라도 일반 연구자가 직접",
-          "keywords": [
-            "스탠포드",
-            "논문을",
-            "대화형",
-            "에이전트",
-            "만드는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215470",
-          "pubDate": "2026-09-18T17:49:22.000Z",
-          "image": null,
-          "summary": "휴머노이드 로봇이 한 번도 방문하지 않은 가정에서도 별도의 환경 적응이나 추가 데이터 수집 없이 집안일을 수행할 수 있다는 실험 결과가 나왔다. 이번 결과는 작업 장소마다 별도로 학습하는 방식에서 벗어나, 인간의 행동 경험을 사전 학습해 실제 환경에 바로 적용하는 방향으로 발전할 가능성을 보여준다.피규어 AI는 17일(현지시간) 인간의 행동 데이터를 대규모로 사전 학습한 신경망 모델을 기반으로 새로운 환경에서도 즉시 작업할 수 있는 '제로샷(Zero-Shot)' 전신 제어 능력을 구현했다고 밝혔다.이번에 공개한 '헬릭스 2.5(He",
-          "keywords": [
-            "낯선",
-            "가정서",
-            "집안일",
-            "척척",
-            "피규어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:09.075Z",
+      "fetchedAt": "2026-09-18T22:09:50.653Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:09.199Z",
+      "fetchedAt": "2026-09-18T22:09:50.816Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "미군, AI 환각으로 만들어진 정보 보고서 활용하다 위기 겪어",
-          "link": "https://news.hada.io/topic?id=33907",
-          "pubDate": "2026-09-18T19:42:18.000Z",
+          "title": "북한 핵실험이 수년간 이어지는 지진을 촉발함",
+          "link": "https://news.hada.io/topic?id=33912",
+          "pubDate": "2026-09-18T21:42:20.000Z",
           "image": null,
-          "summary": "미군이 중국 선박에 핵무기 프로그램 관련 부품이 실렸다는 허위 정보를 토대로 차단 작전을 준비했으며, 작전 직전에야 AI가 화물을 잘못 식별한 사실을 확인함 특수작전사령부 분석관은 챗봇으로 공개출처정보와 기밀 신호정보를 종합한 뒤, AI를 다시 사용해 결...",
+          "summary": "2017년 북한의 최대 규모 핵실험 이후 풍계리 주변의 지진 활동이 줄지 않고 2025년까지 증가했으며, 일부 지진은 실험장에서 20~30km 떨어진 곳에서도 발생함 중국과 한국에서 수집한 지진 기록을 분석해 지진 1,399건을 찾아냈으며, 대부분 규모 2 미만이지만 발...",
           "keywords": [
-            "미군",
-            "AI",
-            "환각으로",
-            "만들어진",
-            "정보"
+            "북한",
+            "핵실험이",
+            "수년간",
+            "이어지는",
+            "지진을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "선그리스어: 고대 그리스어 속에 숨겨진 잃어버린 언어",
-          "link": "https://news.hada.io/topic?id=33906",
-          "pubDate": "2026-09-18T18:52:18.000Z",
+          "title": "한국, 개인정보 유출 과징금 상한을 매출의 10%로 인상",
+          "link": "https://news.hada.io/topic?id=33911",
+          "pubDate": "2026-09-18T21:42:19.000Z",
           "image": null,
-          "summary": "고대 그리스어의 약 1,000개 단어는 인도유럽어족이나 주변의 알려진 언어로 기원을 추적하기 어려우며, 그리스인 도래 이전 에게해 주민들의 언어가 남긴 흔적으로 볼 수 있음 차용어 판별에는 어원 부재뿐 아니라 규칙적인 음운 변화로 설명되지 않는 소리, 불규...",
+          "summary": "개정 개인정보보호법에 따라 고의나 중대한 과실로 1,000만 명 이상의 개인정보를 유출한 기업에는 전체 매출의 최대 10% 과징금을 부과할 수 있으며, 기존 상한은 3%였음 유출이 확정되지 않아도 개인정보 노출 가능성이 높다고 판단하면 72시간 이내 이용...",
           "keywords": [
-            "선그리스어:",
-            "고대",
-            "그리스어",
-            "속에",
-            "숨겨진"
+            "한국",
+            "개인정보",
+            "유출",
+            "과징금",
+            "상한을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
-          "link": "https://news.hada.io/topic?id=33905",
-          "pubDate": "2026-09-18T17:42:19.000Z",
+          "title": "Android 17, 3.x 이후 처음으로 AOSP에 공개하지 않고 새 API 추가",
+          "link": "https://news.hada.io/topic?id=33910",
+          "pubDate": "2026-09-18T21:02:18.000Z",
           "image": null,
-          "summary": "동일한 실행 루프에서 계획 수립, 행동 인터페이스, 컨텍스트 관리를 바꿔 4개 모델과 2개 벤치마크의 176개 설정을 비교했으며, 각 구성요소의 효과는 모델 역량과 작업 유형, 컨텍스트 예산에 따라 달라짐 컨텍스트 관리의 주된 효과는 컨텍스트 초과로 인한 조기...",
+          "summary": "Android 17 QPR1에 추가된 표준 Android API가 현재 Pixel에만 제공되며, AOSP와 다른 제조사에는 2026년 12월 QPR2를 통해 공개될 예정임 GrapheneOS에 따르면 Pixel 외 기기에도 필요한 표준 Android 플랫폼 보안 패치 일부가 일반 보안 공지와 사전 제공 패치에...",
           "keywords": [
-            "코딩",
-            "에이전트",
-            "하네스",
-            "설계에",
-            "관한"
+            "Android",
+            "17",
+            "처음으로",
+            "AOSP에",
+            "공개하지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Cloudflare Quick Tunnels",
-          "link": "https://news.hada.io/topic?id=33904",
-          "pubDate": "2026-09-18T17:42:18.000Z",
+          "title": "생각을 멈추는 방식이 통하는 시점은 오지 않음",
+          "link": "https://news.hada.io/topic?id=33909",
+          "pubDate": "2026-09-18T20:52:20.000Z",
           "image": null,
-          "summary": "Quick Tunnels는 로컬 애플리케이션을 명령 하나로 인터넷에 공개하고 실시간 미리보기를 공유할 수 있는 무료 서비스임 계정 생성이나 로그인 없이 사용할 수 있으며, 설정 파일이나 DNS 설정도 필요 없음 자동 HTTPS와 DDoS 방어를 제...",
+          "summary": "LLM의 결과를 검증 없이 받아들이거나 오류 수정을 다시 맡기기만 하는 방식은 모델이 발전해도 직원에게 유효한 전략이 되지 못함 지금은 이런 방식으로 만든 소프트웨어에 심각한 문제가 남고, 미래에 LLM이 혼자 훌륭한 소프트웨어를 만들게 된다면 기업은 중간에서 요청...",
           "keywords": [
-            "Cloudflare",
-            "Quick",
-            "Tunnels"
+            "생각을",
+            "멈추는",
+            "방식이",
+            "통하는",
+            "시점은"
           ],
-          "isForeign": true,
-          "titleKo": "Cloudflare 빠른 터널",
-          "summaryKo": "빠른 터널는 로컬 애플리케이션을 명령 하나로 인터넷에 공개하고 실시간 미리보기를 공유할 수 있는 무료 서비스임 계정 생성이나 로그인 없이 사용할 수 있으며, 설정 파일이나 DNS 설정도 필요 없음 자동 HTTPS와 DDoS방어를 제..."
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         },
         {
-          "title": "Ask GN: OSS의 사용자 대상 광고 노출은 어디까지 허용될까?",
-          "link": "https://news.hada.io/topic?id=33903",
-          "pubDate": "2026-09-18T16:43:03.000Z",
+          "title": "Conway의 추측을 바이브 코딩으로 증명해 봤다",
+          "link": "https://news.hada.io/topic?id=33908",
+          "pubDate": "2026-09-18T20:52:18.000Z",
           "image": null,
-          "summary": "침습적인 정도를 기준을 삼아서 따져보면 다음과 같습니다. 가장 비침습적인 방법 : README.md 파일에 스폰서를 노출하기 한 번만 보여주고 끝내기 : npm install modulename 실행 시 postinstall script로 후원 메시지 띄우기 매번 보여주기 : 주간 다운로드 수 1억건이",
+          "summary": "수학 비전문가가 약 한 달간 AI 에이전트와 Lean을 활용해 50년 된 Conway의 세분화 추측에 대한 형식 증명을 얻음. 기계적 검사는 통과했지만, 수학자들의 독립 검증은 아직 받지 않음 AI에게 한 번에 증명을 맡기거나 여러 에이전트가 서로 검토하게 하는 것만으...",
           "keywords": [
-            "Ask",
-            "GN:",
-            "OSS의",
-            "사용자",
-            "대상"
+            "Conway의",
+            "추측을",
+            "바이브",
+            "코딩으로",
+            "증명해"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:09.908Z",
+      "fetchedAt": "2026-09-18T22:09:51.388Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -609,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:10.780Z",
+      "fetchedAt": "2026-09-18T22:09:52.134Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:10.883Z",
+      "fetchedAt": "2026-09-18T22:09:52.211Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:13.753Z",
+      "fetchedAt": "2026-09-18T22:09:54.996Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:13.974Z",
+      "fetchedAt": "2026-09-18T22:09:55.229Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -889,6 +891,39 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+          "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+          "pubDate": "2026-09-18T20:24:33.000Z",
+          "image": null,
+          "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+          "keywords": [
+            "Biotech & Health",
+            "Fundraising",
+            "Startups",
+            "TC",
+            "In Brief",
+            "insurance tech"
+          ],
+          "isForeign": true,
+          "titleKo": "Y Combinator insurance tech alum Angle Health hits $ 27억 밸류에이션",
+          "summaryKo": "Angle Health는 5,000명의 고객으로 성장했으며 중소기업이 \"레벨 펀딩\" 건강 보험에 가입할 수 있도록 지원하여 수익성을 높였습니다."
+        },
+        {
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+          "pubDate": "2026-09-18T18:49:30.000Z",
+          "image": null,
+          "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "typesafe"
+          ],
+          "isForeign": true,
+          "titleKo": "ChatGPT 발명가의 새로운 종류의 AI 모델이 개발자들을 흥분시키고 있습니다.",
+          "summaryKo": "새로운 종류의 AI 모델인 Jev는 개발자들에게 소프트웨어 인텔리전스로 가는 더 저렴하고 빠른 길을 보여주고 있습니다."
+        },
         {
           "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
           "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
@@ -939,44 +974,9 @@
           "isForeign": true,
           "titleKo": "인공지능을 열었나요, 닫았나요? 엔비디아의 네이더 칼릴 (Nader Khalil) 과 시드니 사이크스 (Sydney Sykes) 는 테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 에서 차세대 스타트업을 형성하는 결정 중 하나를 내립니다.",
           "summaryKo": "엔비디아의 네이더 칼릴 (Nader Khalil) 과 시드니 사이크스 (Sydney Sykes) 는 테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 에서 빌더스 스테이지 (Builders Stage) 에서 차세대 스타트업을 형성하는 결정 중 하나를 논의합니다."
-        },
-        {
-          "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-18T15:00:00.000Z",
-          "image": null,
-          "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-          "keywords": [
-            "Startups",
-            "Fintech",
-            "AI",
-            "TechCrunch Disrupt",
-            "Robinhood"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 현대 금융 소비자를 획득한 Robinhood의 Abhishek Fatehpuria",
-          "summaryKo": "Robinhood의 Abhishek Fatehpuria는 TechCrunch Disrupt 2026에서 현대 금융 소비자를 이겼습니다. 지금 등록하고 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 최대 $ 200를 할인받으세요."
-        },
-        {
-          "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-18T14:30:00.000Z",
-          "image": null,
-          "summary": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-          "keywords": [
-            "Startups",
-            "Climate",
-            "Venture",
-            "Fundraising",
-            "TechCrunch Disrupt",
-            "Twilio"
-          ],
-          "isForeign": true,
-          "titleKo": "관성 공동 설립자 제프 로슨의 다음 큰 내기는 융합입니다: TechCrunch Disrupt 2026에서 그 안에 들어가십시오.",
-          "summaryKo": "관성 공동 설립자이자 CEO인 제프 로슨 (Jeff Lawson) 이 TechCrunch Disrupt 2026의 스마트 시스템 스테이지에 합류합니다. 지금 등록하고 9월 25일까지 최대 $ 200의 할인 혜택을 누리세요."
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:16.129Z",
+      "fetchedAt": "2026-09-18T22:09:58.685Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1075,7 +1075,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:18.153Z",
+      "fetchedAt": "2026-09-18T22:10:00.901Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1135,11 +1135,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - vtimes.kr",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
           "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 vtimes.kr",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1169,7 +1169,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T20:10:18.625Z",
+      "fetchedAt": "2026-09-18T22:10:01.325Z",
       "error": null
     }
   },
@@ -1177,72 +1177,72 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
+      "count": 3,
       "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "에이전트",
-      "label": "에이전트",
-      "count": 2,
-      "rank": 2,
       "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 8,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "문제",
+      "label": "문제",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1251,7 +1251,7 @@
       "label": "meta",
       "count": 2,
       "rank": 1,
-      "change": "new",
+      "change": "same",
       "labelKo": "메타"
     },
     {
@@ -1259,7 +1259,7 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 2,
-      "change": "down",
+      "change": "same",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
@@ -1267,7 +1267,7 @@
       "label": "AdSense",
       "count": 5,
       "rank": 3,
-      "change": "down",
+      "change": "same",
       "labelKo": "애드 센스"
     },
     {
@@ -1275,7 +1275,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 4,
-      "change": "down",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1283,7 +1283,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1291,7 +1291,7 @@
       "label": "AI",
       "count": 4,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1299,7 +1299,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1307,7 +1307,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1315,7 +1315,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1323,7 +1323,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
