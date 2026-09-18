@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-18T00:14:29.358Z",
+  "collectedAt": "2026-09-18T02:10:23.856Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,24 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "한때, 성폭력 전담검사로 빛났던 박은정 의원에 대한 얘기입니다 [논설실 Pick]",
-          "link": "https://www.mk.co.kr/news/economy/12156071",
-          "pubDate": "2026-09-17T23:56:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.8f6a40d1ecdc462093b4b741840ffe9f_R.jpg",
-          "summary": "기사 제목이 스포일러가 된 점, 독자들께 미리 양해를 구합니다. 현재 범여권 국회의원으로 활약하고 있는 전직 검사 A에 관한 얘기입니다. 과거의 현재의 인물이 동일 정체성인지 의문..",
+          "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
+          "link": "https://www.mk.co.kr/news/economy/12156260",
+          "pubDate": "2026-09-18T01:40:42.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.0fb53ca8d72742a5935519cddab3f6d4_R.png",
+          "summary": "달러수급 변화에 단기적 원화 약세 중장기적으로 펀더멘털 기반 안정 한은, 11월 추가 금리 인상 가능성글로벌 투자은행(IB) 스테이트스트리트가 달러당 원화값이 단기적으로 1400원..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 집값 25억·LTV 40% 초과 주담대…위험가중치 최대 4배 높인다",
+          "link": "https://www.mk.co.kr/news/economy/12156251",
+          "pubDate": "2026-09-18T01:36:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.YNA.20260913.PYH2026091308450001300_R.jpg",
+          "summary": "현행 LTV 60% 초과 가중치 2배 적용 고가·고LTV 주담대 위험가중치 상향 부동산침체기 대비 은행 건전성 강화금융당국이 주택가격이 25억원을 넘으면서 담보인정비율(LTV) 4..",
           "keywords": [
             "경제"
           ],
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“연금 30년 받으면 수백만원 차이” … 국민연금, 모르면 손해 보는 ‘이것들’",
-          "link": "https://www.mk.co.kr/news/economy/12155539",
-          "pubDate": "2026-09-17T19:30:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20250209.83a14efabd1e41b3846dc9770d36b29a_R.jpg",
-          "summary": "월급명세서를 받을 때 마다 매달 어김없이 빠져나가는 돈이 있다. 바로 국민연금 보험료다. 자영업자나 사업소득자는 소득 신고 과정에서 일정 부분 조정의 여지가 있지만 직장인은 사정이..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:05.232Z",
+      "fetchedAt": "2026-09-18T02:10:14.710Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:05.302Z",
+      "fetchedAt": "2026-09-18T02:10:14.764Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:06.624Z",
+      "fetchedAt": "2026-09-18T02:10:15.815Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:10.216Z",
+      "fetchedAt": "2026-09-18T02:10:15.949Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,87 +361,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "GitLab.com의 요청 속도 제한이 변경됨",
-          "link": "https://news.hada.io/topic?id=33867",
-          "pubDate": "2026-09-17T23:42:15.000Z",
+          "title": "섹스, AI, 그리고 종말",
+          "link": "https://news.hada.io/topic?id=33876",
+          "pubDate": "2026-09-18T02:02:16.000Z",
           "image": null,
-          "summary": "GitLab.com이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일, Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회로 제한됨. 유료 계정 대상 자동화도 인...",
+          "summary": "미국 AI 안전 논의를 이끄는 인물과 기관에는 합리주의 커뮤니티의 인적 관계와 자금망이 깊이 얽혀 있음. AI 멸종 경고의 타당성과 별개로, 이들의 판단과 감독 체계를 독립적으로 검증할 필요가 있음 LessWrong, Harry Potter 팬픽, 교육 워크숍과 공동 의례는 인류를 구할...",
           "keywords": [
-            "GitLab",
-            "com의",
-            "요청",
-            "속도",
-            "제한이"
+            "섹스",
+            "AI",
+            "종말"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "왁스 모터",
-          "link": "https://news.hada.io/topic?id=33865",
-          "pubDate": "2026-09-17T22:52:16.000Z",
+          "title": "macOS 27 Golden Gate 리뷰",
+          "link": "https://news.hada.io/topic?id=33875",
+          "pubDate": "2026-09-18T01:52:16.000Z",
           "image": null,
-          "summary": "왁스 모터는 왁스가 녹고 굳을 때의 부피 변화를 이용해 열에너지를 직선 운동으로 바꾸는 장치로, 왁스는 녹을 때 보통 5~20% 팽창함 밀폐된 왁스가 가열되면 플런저를 밀어내고, 냉각되어 수축하면 스프링이나 추의 힘으로 플런저가 복귀하는 구...",
+          "summary": "Apple Intelligence가 첫 대규모 업그레이드를 받으며 Siri의 실용성이 높아졌지만, AI 전체를 끄고 모델을 삭제하는 옵션은 사라짐 Liquid Glass는 효과 강도 조절, 일관된 창 모서리, 명확한 제목 표시줄과 사이드바로 Tahoe의 주요 불편을 줄임",
           "keywords": [
-            "왁스",
-            "모터"
+            "macOS",
+            "27",
+            "Golden",
+            "Gate",
+            "리뷰"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Bend - 증명으로 AI의 실수를 막고 GPU에서 실행되는 언어",
-          "link": "https://news.hada.io/topic?id=33864",
-          "pubDate": "2026-09-17T22:52:15.000Z",
+          "title": "스타트업을 피벗해야 할까? [동영상]",
+          "link": "https://news.hada.io/topic?id=33874",
+          "pubDate": "2026-09-18T01:15:01.000Z",
           "image": null,
-          "summary": "반드시 지켜야 할 조건을 코드로 선언하고 AI가 구현과 증명을 함께 작성하게 해, 요구사항을 어기는 변경을 검증 단계에서 걸러내는 프로그래밍 언어 LAWS.bend에 규칙을, PROOF.bend에 증명을 작성하며, 타입 검사기가 증명도 검사해 ...",
+          "summary": "피벗 여부는 창업팀의 맥락과 검증 수준에 따라 판단해야 함. 고객을 만나지도 않은 채 어려움을 피해 아이디어를 바꾸는 것과, 핵심 가설을 충분히 시험한 뒤 방향을 바꾸는 것은 다름 AI가 기존 사업의 핵심 전제를 무너뜨렸다면 계속 버티는 기회비용이 커질 수...",
           "keywords": [
-            "Bend",
-            "증명으로",
-            "AI의",
-            "실수를",
-            "막고"
+            "스타트업을",
+            "피벗해야",
+            "할까",
+            "동영상"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Astra for Law - 법률 업무용 AI",
-          "link": "https://news.hada.io/topic?id=33863",
-          "pubDate": "2026-09-17T22:42:15.000Z",
+          "title": "SpaceXAI가 한 달 만에 Grok Bot을 만든 방법 [동영상]",
+          "link": "https://news.hada.io/topic?id=33872",
+          "pubDate": "2026-09-18T00:55:02.000Z",
           "image": null,
-          "summary": "OpenAI가 GPT‑6 Astra에 법률 검색, 분석 및 작성 지침을 결합한 Astra for Law를 공개함. 로펌과 법률 기술 기업이 자체 전문성을 바탕으로 AI 제품과 업무 흐름을 구축할 수 있음 2억 3,000만 개 이상의 URL을 대상으로 미국 판례, 법률, 규정 등을 검색하며, F...",
+          "summary": "Grok Bot은 개발자뿐 아니라 일반 지식 노동자가 업무를 맡길 수 있도록, 소규모 전담팀이 기존 제품과 분리해 처음부터 만든 AI 에이전트 제품임 핵심 설계는 클라우드에서 지속적으로 작동하는 봇과 봇이 직접 사용하는 컴퓨터임. 사용자 기기의...",
           "keywords": [
-            "Astra",
-            "for",
-            "Law",
-            "법률",
-            "업무용"
+            "SpaceXAI가",
+            "만에",
+            "Grok",
+            "Bot을",
+            "만든"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "모두가 제정신을 잃었다",
-          "link": "https://news.hada.io/topic?id=33862",
-          "pubDate": "2026-09-17T22:02:15.000Z",
+          "title": "Anthropic, AI가 AI를 개발하는 내부 현황과 감독 지표 공개",
+          "link": "https://news.hada.io/topic?id=33871",
+          "pubDate": "2026-09-18T00:52:15.000Z",
           "image": null,
-          "summary": "AI 대응이 하루 업무의 75% 이상을 차지하면서 일의 즐거움까지 잃은 경험에서 출발해, 윤리와 실제 효과를 따지지 않는 조직의 AI 도입 열풍을 비판함 보안의 병목은 취약점을 찾는 것이 아니라 실제 시스템에 패치를 적용하는 일인데, 조직들은 AI로 수천 건의 취...",
+          "summary": "모델의 성능뿐 아니라 AI가 연구개발을 얼마나 맡고, 그 행동을 어떻게 감독하며, 컴퓨팅 자원을 어디에 쓰는지 측정해 개발 과정을 외부에 공개함 2026년 8월 내부 평가에서 Claude는 AI 연구개발 업무의 26%를 주도하고 90% 이상에서 협업 이상의 역할을 맡았지만...",
           "keywords": [
-            "모두가",
-            "제정신을",
-            "잃었다"
+            "Anthropic",
+            "AI가",
+            "AI를",
+            "개발하는",
+            "내부"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:10.881Z",
+      "fetchedAt": "2026-09-18T02:10:16.541Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +538,7 @@
           "summaryKo": "AI 지원 사용법 동영상을 만드는 것이 훨씬 쉬워졌습니다. ChatGPT에서 사용할 수 있는 새로운 플러그인은 정적 이미지를 다단계 교육 콘텐츠로 바꿉니다. 이 도구는 소프트웨어 회사 TechSmith가 2002년에 처음 시작한 화면 녹화 서비스인 Camtasia에서 제공됩니다. 수년 동안 사용법 카테고리의 크리에이터는 TechSmith 제품을 사용하여 1인칭 시연을 녹화하고 편집했습니다. 기계 학습은 이미 Camtasia의 Screentelligenc에 통합되었습니다"
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:18.173Z",
+      "fetchedAt": "2026-09-18T02:10:16.620Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:18.333Z",
+      "fetchedAt": "2026-09-18T02:10:16.886Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:18.388Z",
+      "fetchedAt": "2026-09-18T02:10:16.986Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -700,97 +702,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "알스퀘어, 서울 빌딩 7월 2조6272억원 거래…초대형 한 건 대신 1000억원대 6건",
-          "link": "https://www.venturesquare.net/1114945/",
-          "pubDate": "2026-09-18T00:05:07.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-78-789x504.jpg",
-          "summary": "알스퀘어 RA가 국토교통부 실거래가 자료를 분석한 결과 2026년 7월 서울 상업·업무용 부동산 거래는 184건, 2조6272억원으로 집계됐다. 거래건수는 전월 대비 7.0% 늘었지만 거래규모는 6.6%, 건당 평균 거래액은 12.6% 감소했다. 1000억원 이상 거래... The post 알스퀘어, 서울 빌딩 7월 2조6272억원 거래…초대형 한 건 대신 1000억원대 6건 appeared first on 벤처스퀘어.",
+          "title": "위얼라이브, 매출 2년 새 7.7배 성장…시리즈A 투자로 아시아 공연 IP 확장",
+          "link": "https://www.venturesquare.net/1114983/",
+          "pubDate": "2026-09-18T00:26:53.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/WEAL-789x454.jpg",
+          "summary": "위얼라이브가 국내 복수의 벤처캐피탈 등으로부터 시리즈A 투자를 유치했으며 투자 금액은 공개하지 않았다. 회사 매출은 2023년 10억6000만원에서 2025년 82억1000만원으로 약 7.7배 증가했으며 올해 100억원 이상을 목표로 하고 있다. 자체 뮤직 IP 플랫폼... The post 위얼라이브, 매출 2년 새 7.7배 성장…시리즈A 투자로 아시아 공연 IP 확장 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "LC타워",
-            "강남358타워",
-            "부동산데이터"
+            "ualive",
+            "wealive",
+            "공연IP"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미미박스 누니, 립오일 하나로 510만개 팔았다…美 얼루어 뷰티 어워드 수상",
-          "link": "https://www.venturesquare.net/1114940/",
-          "pubDate": "2026-09-17T23:57:02.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/allure-2-789x444.jpg",
-          "summary": "하형석 대표가 이끄는 미미박스의 K-뷰티 브랜드 누니가 ‘누니 애플 립 오일’로 미국 얼루어의 ‘2026 Allure CLEAN Best of Beauty Award for Lip Oil’을 수상했다. 누니 애플 립 오일은 글로벌 누적 510만개 이상 판매됐으며 틱톡 ... The post 미미박스 누니, 립오일 하나로 510만개 팔았다…美 얼루어 뷰티 어워드 수상 appeared first on 벤처스퀘어.",
+          "title": "메타코리아, K-뷰티 광고 미국서 7.3배·유럽·중동 26배…다음 시장은 다변화",
+          "link": "https://www.venturesquare.net/1114980/",
+          "pubDate": "2026-09-18T00:24:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/META-789x471.jpg",
+          "summary": "메타코리아가 ‘K-뷰티 3.0: Multiply the Play’를 주제로 K-뷰티 브랜드의 미국 이후 글로벌 성장 전략을 논의하는 ‘메타 K-뷰티 서밋 2026’을 개최했다. 메타 플랫폼에서 K-뷰티 브랜드의 미국 크로스보더 광고 집행액은 최근 2년간 7.3배, 영국... The post 메타코리아, K-뷰티 광고 미국서 7.3배·유럽·중동 26배…다음 시장은 다변화 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Allure",
             "K뷰티",
-            "MBX"
+            "K뷰티서밋",
+            "MetaKBeautySummit"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "나라스페이스, 카자흐스탄 메탄 배출 위성으로 잡는다…국영우주공사에 데이터 공급",
-          "link": "https://www.venturesquare.net/1114931/",
-          "pubDate": "2026-09-17T23:49:36.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NARASPACE-783x522.jpg",
-          "summary": "박재필 대표가 이끄는 나라스페이스가 카자흐스탄 국영우주공사 KGS와 초소형 메탄 관측 위성 데이터 공급 계약을 체결했다. 경기도와 추진하는 경기샛-2A·2B와 자체 위성군 나르샤에서 확보한 데이터를 활용해 카자흐스탄 정유·천연가스 시설의 메탄 배출을 관측한다. 25m급... The post 나라스페이스, 카자흐스탄 메탄 배출 위성으로 잡는다…국영우주공사에 데이터 공급 appeared first on 벤처스퀘어.",
+          "title": "와디즈, 달리면서 속도·심박수 눈앞에 띄운다…AI 스포츠 글래스 제니스 프로 단독 론칭",
+          "link": "https://www.venturesquare.net/1114968/",
+          "pubDate": "2026-09-18T00:19:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/WADIZ-3-696x522.jpg",
+          "summary": "신혜성 대표가 이끄는 와디즈가 글로벌 웨어러블 브랜드 사이버사이트의 AI 스포츠 글래스 ‘제니스 프로’를 9월 24일 단독 론칭한다. 제니스 프로는 속도와 심박수, 주행거리 등 60종 이상의 운동 데이터를 양안 HUD에 표시해 러닝이나 라이딩 중 손목이나 계기판을 보지... The post 와디즈, 달리면서 속도·심박수 눈앞에 띄운다…AI 스포츠 글래스 제니스 프로 단독 론칭 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "GYEONGGISat",
-            "KGS",
-            "MRV"
+            "AI스포츠글래스",
+            "AI안경",
+            "CYBERSIGHT"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에누마, AI가 영어 첨삭하고 공부 순서까지 짠다…토도영어 아카데미 일본 선출시",
-          "link": "https://www.venturesquare.net/1114922/",
-          "pubDate": "2026-09-17T23:43:45.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/TODO-789x410.jpg",
-          "summary": "이수인 대표가 이끄는 에누마가 초등학교 고학년부터 중학생 연령을 위한 AI 영어 학습 서비스 ‘토도영어 아카데미’를 일본에서 먼저 출시했다. 쓰기에서는 철자·어휘·문법을 AI가 첨삭하고 단어와 회화에서도 개인별 수준에 맞춘 학습 경험을 제공한다. 새롭게 도입한 ‘AI ... The post 에누마, AI가 영어 첨삭하고 공부 순서까지 짠다…토도영어 아카데미 일본 선출시 appeared first on 벤처스퀘어.",
+          "title": "로보메이션, 코딩 화면 밖으로 꺼낸 피지컬AI…교육용 로봇팔 라쿤봇 공개",
+          "link": "https://www.venturesquare.net/1114961/",
+          "pubDate": "2026-09-18T00:15:19.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/file_0000000035fc820bbc41a70e04d48210-789x444.png",
+          "summary": "김경진 대표가 이끄는 로보메이션이 2026 에듀테크 코리아 페어에서 피지컬AI 교육용 로봇팔 ‘라쿤봇’을 선보인다. 관람객은 산업통상부 AX산업교육훈련관에서 비대면 피지컬 컴퓨팅 플랫폼을 이용해 교육용 로봇팔을 실시간으로 제어할 수 있다. 라쿤봇은 학생이 명령과 제어,... The post 로보메이션, 코딩 화면 밖으로 꺼낸 피지컬AI…교육용 로봇팔 라쿤봇 공개 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
             "AI교육",
-            "Ai코치",
-            "TodoEnglishAcademy"
+            "PhysicalAI",
+            "RaccoonBot"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "숨고, 청소·도배 고수들 빽가와 뭉쳤다…독립유공자 후손 30년 집 새단장",
-          "link": "https://www.venturesquare.net/1114910/",
-          "pubDate": "2026-09-17T23:16:55.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SOOMG-789x444.png",
-          "summary": "김강세 대표가 이끄는 숨고가 코요태 멤버 빽가와 함께 대한민국 임시정부 조완구 선생 후손이 30여 년간 거주한 노후주택의 주거환경을 개선했다. 숨고에서 활동하는 청소·도배·정리정돈 등 분야별 고수들이 재능기부로 참여해 곰팡이 제거와 도배·장판 교체, 문턱 제거, LED... The post 숨고, 청소·도배 고수들 빽가와 뭉쳤다…독립유공자 후손 30년 집 새단장 appeared first on 벤처스퀘어.",
+          "title": "메이킷AI랩스, PDF 한 장을 참여형 수업으로…Makit AI Learning OS 에듀테크 최우수상",
+          "link": "https://www.venturesquare.net/1114953/",
+          "pubDate": "2026-09-18T00:10:57.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/MAKTITAI-696x522.jpg",
+          "summary": "이형우 대표가 이끄는 메이킷AI랩스가 ‘Makit AI Learning OS’로 2026 K-에듀테크 콘테스트 교육혁신 에듀테크 부문 최우수상을 수상했다. Makit AI Learning OS는 PDF 교안이나 수업 주제를 입력하면 개념 설명과 퀴즈, 시뮬레이터 등을 ... The post 메이킷AI랩스, PDF 한 장을 참여형 수업으로…Makit AI Learning OS 에듀테크 최우수상 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "김강세",
-            "노후주택",
-            "독립유공자"
+            "AI교육",
+            "AI학습",
+            "K에듀테크콘테스트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:23.570Z",
+      "fetchedAt": "2026-09-18T02:10:20.889Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:23.877Z",
+      "fetchedAt": "2026-09-18T02:10:21.097Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +971,7 @@
           "summaryKo": "사이버 보안 및 컴플라이언스 스타트업인 Comp AI는 Roo Capital과 Grand Ventures가 주도하는 $ 34,000,000 시리즈 A 라운드를 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:25.492Z",
+      "fetchedAt": "2026-09-18T02:10:21.188Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:28.217Z",
+      "fetchedAt": "2026-09-18T02:10:23.410Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1077,11 +1079,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - idailynews.co.kr",
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
           "pubDate": "2026-09-16T11:11:00.000Z",
           "image": null,
-          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 idailynews.co.kr",
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
           "keywords": [
             "2016년",
             "지역",
@@ -1094,17 +1096,17 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
           "pubDate": "2026-09-16T00:03:21.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
             "공정",
             "혁신",
             "포용의",
             "경기",
-            "gg"
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1162,7 +1164,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T00:14:28.760Z",
+      "fetchedAt": "2026-09-18T02:10:23.848Z",
       "error": null
     }
   },
@@ -1170,7 +1172,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 4,
       "rank": 1,
       "change": "same"
     },
@@ -1179,63 +1181,63 @@
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
+    },
+    {
+      "key": "ai교육",
+      "label": "AI교육",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
-      "rank": 8,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
-      "rank": 9,
-      "change": "up"
-    },
-    {
-      "key": "2016년",
-      "label": "2016년",
-      "count": 1,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1308,7 +1310,7 @@
       "label": "AI",
       "count": 2,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1316,7 +1318,7 @@
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
