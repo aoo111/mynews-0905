@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-17T22:10:29.261Z",
+  "collectedAt": "2026-09-18T00:14:29.358Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "한때, 성폭력 전담검사로 빛났던 박은정 의원에 대한 얘기입니다 [논설실 Pick]",
+          "link": "https://www.mk.co.kr/news/economy/12156071",
+          "pubDate": "2026-09-17T23:56:02.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.8f6a40d1ecdc462093b4b741840ffe9f_R.jpg",
+          "summary": "기사 제목이 스포일러가 된 점, 독자들께 미리 양해를 구합니다. 현재 범여권 국회의원으로 활약하고 있는 전직 검사 A에 관한 얘기입니다. 과거의 현재의 인물이 동일 정체성인지 의문..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“외국인 코스피 사고, 코스닥 팔았다”…국내주식 올해 첫 ‘순매수’",
+          "link": "https://www.mk.co.kr/news/economy/12156066",
+          "pubDate": "2026-09-17T23:48:41.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.ea881c0e10754053b493876b2f4cb312_R.png",
+          "summary": "외국인 국내 주식 3440억 순매수외국인 투자자들이 지난달 국내 주식을 3000억원 넘게 사들이며 올해 들어 처음으로 순매수로 돌아섰다. 반면 채권시장에서는 4개월 만에 자금을 순..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "시금치 51.9%↑·돼지고기 5.4%↑…생산자물가 한 달 만에 반등",
+          "link": "https://www.mk.co.kr/news/economy/12156060",
+          "pubDate": "2026-09-17T23:32:30.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.5634d305ac0e40e39a9f3504660f7b55_R.png",
+          "summary": "지난달 국내 생산자물가가 폭염과 유가상승 등의 영향으로 한 달 만에 반등한 것으로 나타났다. 18일 한은에 따르면 올해 8월 생산자물가는 129.64로 전월(129.43) 대비 0..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[속보] 유류세 인하 11월 말까지 두 달 연장…“국민 유류비 부담 경감”",
+          "link": "https://www.mk.co.kr/news/economy/12156047",
+          "pubDate": "2026-09-17T23:03:13.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.6ec5e5451ab4408896e99f1e8af0f5e8_R.png",
+          "summary": "이달 말 종료 예정인 유류세 한시적 인하 조치를 2개월 연장하기로 했다. 재경부는 18일 구윤철 부총리 겸 재정경제부 장관 주재로 열린 비상경제본부 회의 겸 경제관계장관회의에서 중..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“연금 30년 받으면 수백만원 차이” … 국민연금, 모르면 손해 보는 ‘이것들’",
           "link": "https://www.mk.co.kr/news/economy/12155539",
           "pubDate": "2026-09-17T19:30:00.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] 올해 1% 밖에 안 쓴 남북협력기금...내년에도 1조원 편성한다는데",
-          "link": "https://www.mk.co.kr/news/economy/12155747",
-          "pubDate": "2026-09-17T08:55:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/17/news-p.v1.20260917.c583dc780da64fcaab2499cad8d93914_R.jpg",
-          "summary": "남북관계 경색에 쓸곳 없는데 李정부 들어 예산은 계속 늘어남북 관계가 장기간 경색되며 남북협력기금이 거의 쓰이지 않고 있는데도 이재명 정부 들어 관련 예산이 계속 늘어나고 있다. ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12155734",
-          "pubDate": "2026-09-17T08:50:41.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01110112000007_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지",
-          "link": "https://www.mk.co.kr/news/economy/12155733",
-          "pubDate": "2026-09-17T08:50:41.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/20260918_01110112000006_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "우리금융, 생산적금융 속도…8월에 올해 목표 25조 달성",
-          "link": "https://www.mk.co.kr/news/economy/12155731",
-          "pubDate": "2026-09-17T08:50:40.000Z",
-          "image": null,
-          "summary": "우리금융그룹이 올해 1~8월 생산적 금융 부문에 25조3000억원을 공급했다고 17일 밝혔다. 투자자금으로 1조5000억원, 융자자금으로 23조8000억원을 지원했다는 것이다. 이..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:17.422Z",
+      "fetchedAt": "2026-09-18T00:14:05.232Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,8 +180,8 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:53.547Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-09-18T00:14:05.302Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:18.754Z",
+      "fetchedAt": "2026-09-18T00:14:06.624Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "link": "https://openai.com/index/cooley-gopublic",
+          "pubDate": "2026-09-17T12:00:00.000Z",
+          "image": null,
+          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+          "keywords": [
+            "How",
+            "Cooley",
+            "is",
+            "accelerating",
+            "IPO"
+          ],
+          "isForeign": true,
+          "titleKo": "쿨리가 ChatGPT로 IPO 업무를 가속화하는 방법",
+          "summaryKo": "Cooley는 IPO 프로세스에 인텔리전스를 제공하기 위해 ChatGPT Work로 GO Public을 구축하여 변호사가 문제를 조기에 표면화하고 가장 중요한 곳에 판단을 집중할 수 있도록 지원했습니다."
+        },
         {
           "title": "Introducing Astra for Law",
           "link": "https://openai.com/index/astra-for-law",
@@ -333,22 +350,9 @@
           "isForeign": true,
           "titleKo": "AI 사용을 비즈니스 가치로 연결하는 방법",
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
-        },
-        {
-          "title": "Our framework for reporting model misalignment",
-          "link": "https://openai.com/index/model-misalignment-reporting-framework",
-          "pubDate": "2026-09-16T17:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-          "keywords": [
-            "Research"
-          ],
-          "isForeign": true,
-          "titleKo": "모델 오정렬을 보고하기 위한 프레임워크",
-          "summaryKo": "OpenAI는 모델 오정렬을 추적, 조사 및 공개하기 위한 프레임워크와 예기치 않은 또는 모델 동작과 관련된 6개의 보고서를 공유합니다."
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:20.691Z",
+      "fetchedAt": "2026-09-18T00:14:10.216Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +360,71 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "GitLab.com의 요청 속도 제한이 변경됨",
+          "link": "https://news.hada.io/topic?id=33867",
+          "pubDate": "2026-09-17T23:42:15.000Z",
+          "image": null,
+          "summary": "GitLab.com이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일, Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회로 제한됨. 유료 계정 대상 자동화도 인...",
+          "keywords": [
+            "GitLab",
+            "com의",
+            "요청",
+            "속도",
+            "제한이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "왁스 모터",
+          "link": "https://news.hada.io/topic?id=33865",
+          "pubDate": "2026-09-17T22:52:16.000Z",
+          "image": null,
+          "summary": "왁스 모터는 왁스가 녹고 굳을 때의 부피 변화를 이용해 열에너지를 직선 운동으로 바꾸는 장치로, 왁스는 녹을 때 보통 5~20% 팽창함 밀폐된 왁스가 가열되면 플런저를 밀어내고, 냉각되어 수축하면 스프링이나 추의 힘으로 플런저가 복귀하는 구...",
+          "keywords": [
+            "왁스",
+            "모터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Bend - 증명으로 AI의 실수를 막고 GPU에서 실행되는 언어",
+          "link": "https://news.hada.io/topic?id=33864",
+          "pubDate": "2026-09-17T22:52:15.000Z",
+          "image": null,
+          "summary": "반드시 지켜야 할 조건을 코드로 선언하고 AI가 구현과 증명을 함께 작성하게 해, 요구사항을 어기는 변경을 검증 단계에서 걸러내는 프로그래밍 언어 LAWS.bend에 규칙을, PROOF.bend에 증명을 작성하며, 타입 검사기가 증명도 검사해 ...",
+          "keywords": [
+            "Bend",
+            "증명으로",
+            "AI의",
+            "실수를",
+            "막고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Astra for Law - 법률 업무용 AI",
+          "link": "https://news.hada.io/topic?id=33863",
+          "pubDate": "2026-09-17T22:42:15.000Z",
+          "image": null,
+          "summary": "OpenAI가 GPT‑6 Astra에 법률 검색, 분석 및 작성 지침을 결합한 Astra for Law를 공개함. 로펌과 법률 기술 기업이 자체 전문성을 바탕으로 AI 제품과 업무 흐름을 구축할 수 있음 2억 3,000만 개 이상의 URL을 대상으로 미국 판례, 법률, 규정 등을 검색하며, F...",
+          "keywords": [
+            "Astra",
+            "for",
+            "Law",
+            "법률",
+            "업무용"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "모두가 제정신을 잃었다",
           "link": "https://news.hada.io/topic?id=33862",
@@ -370,72 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티",
-          "link": "https://news.hada.io/topic?id=33861",
-          "pubDate": "2026-09-17T21:52:16.000Z",
-          "image": null,
-          "summary": "어떤 모델을 쓰는지뿐 아니라 에이전트, 스킬, 연결 도구를 어떻게 조합해 일하는지 공개하고 서로 배우는 공간 개인별 페이지에 작업 흐름과 설정, 시행착오를 정리하며, 변경 이력과 팔로우로 다른 사람의 환경이 바뀌는 과정도 따라갈 수 있음 여러 에...",
-          "keywords": [
-            "Mysetup",
-            "다른",
-            "사람의",
-            "AI",
-            "도구와"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "셀프스토리지라는 미국의 종교",
-          "link": "https://news.hada.io/topic?id=33860",
-          "pubDate": "2026-09-17T21:52:15.000Z",
-          "image": null,
-          "summary": "미국은 세계 셀프스토리지 보관 용량의 약 90% 를 차지하며, 연간 매출은 400억 달러 이상으로 추산됨. 집에 둘 곳이 없는 물건을 보관하는 사업이 기관투자자도 투자하는 부동산 자산군으로 성장함 업계의 주요 수요는 사망, 거처 상실, 이혼, 주거 규모 축소라는 ‘4D",
-          "keywords": [
-            "셀프스토리지라는",
-            "미국의",
-            "종교"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "항공유 절약하기",
-          "link": "https://news.hada.io/topic?id=33859",
-          "pubDate": "2026-09-17T21:02:16.000Z",
-          "image": null,
-          "summary": "Scikit-decide, OpenAP, NOAA 바람 데이터를 결합하면 바람 조건을 반영해 연료 소비를 줄이는 비행 경로를 오픈소스로 탐색할 수 있음 항공기 성능 모델과 경로 탐색을 연결해 기종, 중량, 속도, 고도, 기상 조건을 설정하고 연료 소비를 목적 함수로 최적화함",
-          "keywords": [
-            "항공유",
-            "절약하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "가동률 백분율 표기, 이제 그만하면 안 될까?",
-          "link": "https://news.hada.io/topic?id=33858",
-          "pubDate": "2026-09-17T21:02:15.000Z",
-          "image": null,
-          "summary": "서비스 상태 페이지가 인프라 전문가뿐 아니라 일반 사용자도 보는 공개 인터페이스가 된 만큼, 가동률 백분율만으로는 장애의 체감 규모를 전달하기 어려움 99.9%와 99.99% 는 비슷해 보이지만, 다운타임은 후자가 전자의 10분의 1임 인프라 전문가는",
-          "keywords": [
-            "가동률",
-            "백분율",
-            "표기",
-            "이제",
-            "그만하면"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:21.676Z",
+      "fetchedAt": "2026-09-18T00:14:10.881Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -443,6 +449,56 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Whatnot says its new terms include “the lowest commission rates in the industry”",
+          "link": "https://www.tubefilter.com/2026/09/17/whatnot-new-commission-rates-lower-three-percent/",
+          "pubDate": "2026-09-17T22:21:00.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/whatnot-convention.jpg",
+          "summary": "Whatnot just made a compelling offer to its community: The more they sell, the bigger their cut will be. That's the gist of Whatnot's updated commission rates, which bring a new financial structure to the live shopping platform. Vendors who achieve $15,000 of monthly sales through Whatnot will have a percentage point knocked off their commission rate. That rate will continue to decrease as monthly sales go above $250,000. For its \"custom\" top tier, Whatnot says its commission rate can go as low ",
+          "keywords": [
+            "Articles",
+            "Creator Economy",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Whatnot"
+          ],
+          "isForeign": true,
+          "titleKo": "Whatnot은 새로운 용어에 \"업계에서 가장 낮은 수수료율\" 이 포함된다고 말합니다.",
+          "summaryKo": "커뮤니티에 설득력 있는 제안을 한 것은 아닙니다. 판매량이 많을수록 인하 규모가 커질 것입니다. 이것이 Whatnot의 업데이트된 수수료율의 요지이며, 이는 라이브 쇼핑 플랫폼에 새로운 재무 구조를 가져옵니다. Whatnot을 통해 월 매출 $ 15,000를 달성한 벤더는 일정 비율의 포인트를 수수료율에서 제외시킵니다. 월 매출이 $ 250,000를 넘어감에 따라 이 비율은 계속 감소할 것입니다. Whatnot은 \"맞춤\" 최상위 등급의 경우 수수료가"
+        },
+        {
+          "title": "MIPCOM 2026: a “convergence” point for every entertainment industry to talk vertical series, branded content, gen AI, and more",
+          "link": "https://www.tubefilter.com/2026/09/17/mipcom-2026-conference-programming-vertial-series-branded-content-gen-ai/",
+          "pubDate": "2026-09-17T22:02:18.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2240766096.jpg",
+          "summary": "When more than 10,000 people arrive on the shores of the French Riviera for MIPCOM 2026, they’ll be greeted by an event designed with one theme in mind: convergence. MIPCOM, which Director Lucy Smith calls “the global gateway to the media and content business,” has long been a meeting, networking, and dealmaking tentpole of the […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature",
+            "MIPCOM"
+          ],
+          "isForeign": true,
+          "titleKo": "MIPCOM 2026: 모든 엔터테인먼트 업계가 수직 시리즈, 브랜드 콘텐츠, 세대 AI 등에 대해 이야기할 수 있는 \"융합\" 포인트",
+          "summaryKo": "MIPCOM 2026을 위해 10,000명 이상의 사람들이 프랑스 리비에라 해안에 도착하면 하나의 테마인 컨버전스를 염두에 두고 마련된 이벤트가 여러분을 맞이할 것입니다. 루시 스미스 (Lucy Smith) 이사가 \"미디어 및 콘텐츠 비즈니스의 글로벌 관문\" 이라고 부르는 MIPCOM은 오랫동안 회의, 네트워킹 및 딜 메이킹의 장막극이었습니다. [...] 더 많은 훌륭한 이야기를 보려면 Tubefilter를 방문하십시오."
+        },
+        {
+          "title": "Like Nastya is in the (mouse) house thanks to Disney development deal",
+          "link": "https://www.tubefilter.com/2026/09/17/like-nastya-radzinskaia-disney-plus-development-deal/",
+          "pubDate": "2026-09-17T21:46:53.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/like-nastya-disney.jpg",
+          "summary": "Five years after becoming the first kid creator to reach 250 million subscribers on YouTube, Anastasiia Radzinskaia has set her sights on a new platform: Disney+. Radzinskaia is the face of the Like Nastya channel, which will reach more preschool-age viewers thanks to a development deal with Disney. Like Nastya's YouTube success began when its titular star was just a toddler, and the Radzinskaia family has since sustained its presence among the internet's top family creators. Through a wide rang",
+          "keywords": [
+            "Articles",
+            "Disney",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Anastasiia Radzinskaia"
+          ],
+          "isForeign": true,
+          "titleKo": "Nastya가 디즈니 개발 거래 덕분에 (마우스) 집에 있는 것처럼",
+          "summaryKo": "Anastasiia Radzinskaia는 유튜브 구독자 2억 5천만 명을 달성한 최초의 어린이 크리에이터가 된 지 5년 만에 새로운 플랫폼인 Disney + 를 선보였습니다. Radzinskaia는 디즈니와의 개발 계약 덕분에 더 많은 취학 전 시청자에게 다가갈 Like Nastya 채널의 얼굴입니다. Nastya의 YouTube 성공은 타이틀 스타가 유아 였을 때 시작되었으며 Radzinskaia 가족은 이후 인터넷의 최고 가족 크리에이터들 사이에서 존재감을 유지해 왔습니다."
+        },
         {
           "title": "VidCon is leaving Anaheim to become a Cannes Lions offshoot",
           "link": "https://www.tubefilter.com/2026/09/17/vidcon-anaheim-informa-cannes-lions-event/",
@@ -478,59 +534,10 @@
           "isForeign": true,
           "titleKo": "새로운 ChatGPT 플러그인은 사용법 경제가 YouTube에서 AI로 전환되고 있다는 신호입니까?",
           "summaryKo": "AI 지원 사용법 동영상을 만드는 것이 훨씬 쉬워졌습니다. ChatGPT에서 사용할 수 있는 새로운 플러그인은 정적 이미지를 다단계 교육 콘텐츠로 바꿉니다. 이 도구는 소프트웨어 회사 TechSmith가 2002년에 처음 시작한 화면 녹화 서비스인 Camtasia에서 제공됩니다. 수년 동안 사용법 카테고리의 크리에이터는 TechSmith 제품을 사용하여 1인칭 시연을 녹화하고 편집했습니다. 기계 학습은 이미 Camtasia의 Screentelligenc에 통합되었습니다"
-        },
-        {
-          "title": "TikTok Shop’s luxury goods glow-up is happening on live streams",
-          "link": "https://www.tubefilter.com/2026/09/16/tiktok-shop-luxury-resale-live-stream-purchases/",
-          "pubDate": "2026-09-16T22:01:31.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/tiktok-shop-on-getty.jpg",
-          "summary": "Buying goods from strangers on the internet is a crapshoot, and customers assume more risk as the value of the purchased item goes up. So as TikTok Shop becomes a hub for luxury goods, buyers are looking for an additional layer of trust -- and they're finding it on TikTok LIVE. Countless sellers employ TikTok's live streaming format to show off their wares, and those broadcasts have become especially important within the realm of luxury goods. At the inaugural Luxury Resale Summit in New York Ci",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "TikTok Shop",
-            "luxury goods"
-          ],
-          "isForeign": true,
-          "titleKo": "TikTok Shop의 명품 반짝반짝 빛나는 이벤트가 실시간 스트리밍을 통해 진행되고 있습니다.",
-          "summaryKo": "인터넷에서 낯선 사람으로부터 상품을 구매하는 것은 크랩슈팅이며, 구매한 상품의 가치가 올라감에 따라 고객은 더 많은 위험을 감수해야 합니다. 따라서 TikTok Shop이 명품의 허브가 되면서 구매자는 추가적인 신뢰를 찾고 있으며 TikTok LIVE에서 이를 찾고 있습니다. 수많은 판매자가 TikTok의 라이브 스트리밍 형식을 사용하여 상품을 자랑하고 있으며, 이러한 방송은 명품 영역에서 특히 중요해졌습니다. 첫 Luxury Resale S에서"
-        },
-        {
-          "title": "Amazon wants Prime Video users to get their news from TikTok-style clips",
-          "link": "https://www.tubefilter.com/2026/09/16/amazon-prime-video-short-form-news-clips/",
-          "pubDate": "2026-09-16T20:47:06.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/amazon-prime-video-news.jpg",
-          "summary": "Amazon is about to find out whether TikTok users will bring common behaviors to Prime Video. The entertainment hub is now hosting short-form news clips that digest top headlines into bite-sized videos. Prime Video's short-form news content is collected in \"curated playlists\" that cover national and local stories. Users can find those selections by looking in the Trending Topics or Local News carousels on the Prime Video app. Amazon's announcement indicates that the playlists will be populated wi",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "News-Current Events",
-            "Amazon"
-          ],
-          "isForeign": true,
-          "titleKo": "Amazon은 Prime Video 사용자가 TikTok 스타일 클립에서 뉴스를 받기를 원합니다",
-          "summaryKo": "Amazon은 TikTok 사용자가 Prime Video에 일반적인 동작을 가져올지 여부를 알아내려고 합니다. 엔터테인먼트 허브에서는 이제 주요 헤드라인을 한입 크기의 동영상으로 소화하는 짧은 뉴스 클립을 호스팅하고 있습니다. 프라임 비디오의 단편 뉴스 콘텐츠는 국가 및 지역 이야기를 다루는 \"선별된 재생 목록\" 에 수집됩니다. 사용자는 Prime Video 앱의 Trending Topics 또는 Local News 캐러셀에서 해당 항목을 찾을 수 있습니다. 아마존의 발표에 따르면 재생 목록은"
-        },
-        {
-          "title": "The EU doesn’t just want to ban kids from social media. It’s blocking chatbots and gaming, too.",
-          "link": "https://www.tubefilter.com/2026/09/16/european-union-kids-act-banning-social-media-chatbots-gaming/",
-          "pubDate": "2026-09-16T18:02:26.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2295567104.jpg",
-          "summary": "The European Union is set to propose a sweeping new social media, chatbot, and gaming ban for kids under 15. Reuters reports that European Commission President Ursula von der Leyen ​and Henna Virkkunen, EVP of the European Commission for Technological Sovereignty, Security, and Democracy, will present the proposal Sept. 17, as part of their EU […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "EU는 어린이들의 소셜 미디어 사용을 금지하고 싶지 않습니다. 챗봇과 게임도 차단하고 있습니다.",
-          "summaryKo": "유럽 연합은 15세 미만의 어린이를 위한 전면적인 새로운 소셜 미디어, 챗봇 및 게임 금지를 제안할 예정입니다. 로이터는 유럽위원회 (European Commission) 의 우르술라 폰 데르 레이엔 (Ursula von der Leyen) 대통령과 유럽 기술 주권, 안보 및 민주주의 위원회 (European Commission for Technological Sovereignty, Security, and Democracy) 의 헤나 버크쿠넨 (Henna Virkkunen) 총재가 9월 17일 유럽연합 (EU) 의 일환으로 이 제안을 발표할 것이라고 보도했습니다. […] 더 많은 훌륭한 이야기를 보려면 튜브필터를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-09-17T20:10:58.138Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-18T00:14:18.173Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -603,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:22.392Z",
+      "fetchedAt": "2026-09-18T00:14:18.333Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:22.481Z",
+      "fetchedAt": "2026-09-18T00:14:18.388Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -693,97 +700,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "해시드, 아부다비 투자진흥청과 맞손…한국 기업 중동 진출 연결한다",
-          "link": "https://www.venturesquare.net/1114860/",
-          "pubDate": "2026-09-17T13:53:32.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/HASHED.png",
-          "summary": "김서준 대표가 이끄는 해시드가 아부다비 투자진흥청(ADIO)과 업무협약을 맺고 한국 기업과 투자자의 아부다비 진출을 지원하는 장기 전략적 파트너십을 구축한다. 양측은 유망 기업과 투자자를 공동 발굴하고 투자 과정 지원과 시장 정보 제공, 현지 행사·사절단 및 기관 네트... The post 해시드, 아부다비 투자진흥청과 맞손…한국 기업 중동 진출 연결한다 appeared first on 벤처스퀘어.",
+          "title": "알스퀘어, 서울 빌딩 7월 2조6272억원 거래…초대형 한 건 대신 1000억원대 6건",
+          "link": "https://www.venturesquare.net/1114945/",
+          "pubDate": "2026-09-18T00:05:07.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-78-789x504.jpg",
+          "summary": "알스퀘어 RA가 국토교통부 실거래가 자료를 분석한 결과 2026년 7월 서울 상업·업무용 부동산 거래는 184건, 2조6272억원으로 집계됐다. 거래건수는 전월 대비 7.0% 늘었지만 거래규모는 6.6%, 건당 평균 거래액은 12.6% 감소했다. 1000억원 이상 거래... The post 알스퀘어, 서울 빌딩 7월 2조6272억원 거래…초대형 한 건 대신 1000억원대 6건 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "ADIF",
-            "ADIO",
-            "Hashed"
+            "LC타워",
+            "강남358타워",
+            "부동산데이터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "NC AI, 전북·경남 피지컬 AI 국책과제 동시 참여…공장·로봇 스스로 판단하게 만든다",
-          "link": "https://www.venturesquare.net/1114853/",
-          "pubDate": "2026-09-17T13:50:25.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NC-AI-3-789x444.jpg",
-          "summary": "이연수 대표가 이끄는 NC AI가 2026년부터 2030년까지 총 1조4131억원 규모로 추진되는 전북·경남 피지컬 AI 국가 연구개발 프로젝트의 주요 과제에 참여한다. 전북에서는 디지털트윈 기반 가상 학습환경과 무인공장용 피지컬 AI 파운데이션 모델을 개발하고 경남에... The post NC AI, 전북·경남 피지컬 AI 국책과제 동시 참여…공장·로봇 스스로 판단하게 만든다 appeared first on 벤처스퀘어.",
+          "title": "미미박스 누니, 립오일 하나로 510만개 팔았다…美 얼루어 뷰티 어워드 수상",
+          "link": "https://www.venturesquare.net/1114940/",
+          "pubDate": "2026-09-17T23:57:02.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/allure-2-789x444.jpg",
+          "summary": "하형석 대표가 이끄는 미미박스의 K-뷰티 브랜드 누니가 ‘누니 애플 립 오일’로 미국 얼루어의 ‘2026 Allure CLEAN Best of Beauty Award for Lip Oil’을 수상했다. 누니 애플 립 오일은 글로벌 누적 510만개 이상 판매됐으며 틱톡 ... The post 미미박스 누니, 립오일 하나로 510만개 팔았다…美 얼루어 뷰티 어워드 수상 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "NCAI",
-            "PhysicalAI",
-            "RFM"
+            "Allure",
+            "K뷰티",
+            "MBX"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "휴넷, 직장인 53.3% 내 일 바꿀 최대 변수는 AI…사업계획 1순위도 AI",
-          "link": "https://www.venturesquare.net/1114850/",
-          "pubDate": "2026-09-17T13:46:02.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/clipboardImage-3-780x522.png",
-          "summary": "조영탁 대표가 이끄는 휴넷이 직장인 420명을 대상으로 조사한 결과 53.3%가 2027년 자신의 일자리와 직무에 가장 큰 영향을 줄 요인으로 AI와 자동화를 꼽았다. 기업의 2027년 사업계획에서 중요하게 검토해야 할 분야 역시 ‘AI 및 기술 변화’가 49.5%로 ... The post 휴넷, 직장인 53.3% 내 일 바꿀 최대 변수는 AI…사업계획 1순위도 AI appeared first on 벤처스퀘어.",
+          "title": "나라스페이스, 카자흐스탄 메탄 배출 위성으로 잡는다…국영우주공사에 데이터 공급",
+          "link": "https://www.venturesquare.net/1114931/",
+          "pubDate": "2026-09-17T23:49:36.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NARASPACE-783x522.jpg",
+          "summary": "박재필 대표가 이끄는 나라스페이스가 카자흐스탄 국영우주공사 KGS와 초소형 메탄 관측 위성 데이터 공급 계약을 체결했다. 경기도와 추진하는 경기샛-2A·2B와 자체 위성군 나르샤에서 확보한 데이터를 활용해 카자흐스탄 정유·천연가스 시설의 메탄 배출을 관측한다. 25m급... The post 나라스페이스, 카자흐스탄 메탄 배출 위성으로 잡는다…국영우주공사에 데이터 공급 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "2027사업계획",
-            "Ai",
-            "AX"
+            "GYEONGGISat",
+            "KGS",
+            "MRV"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "딜, 전 세계 대학생 27만명 취업 돕는다…AI 면접부터 원격근무까지 연결",
-          "link": "https://www.venturesquare.net/1114818/",
-          "pubDate": "2026-09-17T12:00:14.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/DEEL-2.png",
-          "summary": "글로벌 HR·급여 플랫폼 딜이 유니버시티 오브 더 피플과 협력해 전 세계 27만명 이상의 학생을 위한 ‘커리어 리소스 센터’를 출범했다. 학생들은 AI 기반 면접 코칭과 이력서 작성·첨삭, 직무교육, 가상 업무 프로그램, 구직 전략 및 연봉 협상 지원 도구 등을 이용할... The post 딜, 전 세계 대학생 27만명 취업 돕는다…AI 면접부터 원격근무까지 연결 appeared first on 벤처스퀘어.",
+          "title": "에누마, AI가 영어 첨삭하고 공부 순서까지 짠다…토도영어 아카데미 일본 선출시",
+          "link": "https://www.venturesquare.net/1114922/",
+          "pubDate": "2026-09-17T23:43:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/TODO-789x410.jpg",
+          "summary": "이수인 대표가 이끄는 에누마가 초등학교 고학년부터 중학생 연령을 위한 AI 영어 학습 서비스 ‘토도영어 아카데미’를 일본에서 먼저 출시했다. 쓰기에서는 철자·어휘·문법을 AI가 첨삭하고 단어와 회화에서도 개인별 수준에 맞춘 학습 경험을 제공한다. 새롭게 도입한 ‘AI ... The post 에누마, AI가 영어 첨삭하고 공부 순서까지 짠다…토도영어 아카데미 일본 선출시 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "#취업지원",
-            "AI면접",
-            "Deel"
+            "AI교육",
+            "Ai코치",
+            "TodoEnglishAcademy"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에버퓨어, 기업 데이터 3분의 1 이상 잠자고 있다…AI 운영 막는 다크 데이터",
-          "link": "https://www.venturesquare.net/1114811/",
-          "pubDate": "2026-09-17T10:01:45.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/EVERPURE-789x263.png",
-          "summary": "에버퓨어와 옴디아가 기업의 AI 활용과 데이터 관리 현황을 분석한 ‘기업 데이터 준비도 격차 분석’ 보고서를 발표했다. 조사 조직의 99%가 거의 활용되지 않는 다크 데이터를 보유했으며 51~75%의 조직에서는 다크 데이터가 전체 데이터의 37% 이상을 차지한 것으로 ... The post 에버퓨어, 기업 데이터 3분의 1 이상 잠자고 있다…AI 운영 막는 다크 데이터 appeared first on 벤처스퀘어.",
+          "title": "숨고, 청소·도배 고수들 빽가와 뭉쳤다…독립유공자 후손 30년 집 새단장",
+          "link": "https://www.venturesquare.net/1114910/",
+          "pubDate": "2026-09-17T23:16:55.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SOOMG-789x444.png",
+          "summary": "김강세 대표가 이끄는 숨고가 코요태 멤버 빽가와 함께 대한민국 임시정부 조완구 선생 후손이 30여 년간 거주한 노후주택의 주거환경을 개선했다. 숨고에서 활동하는 청소·도배·정리정돈 등 분야별 고수들이 재능기부로 참여해 곰팡이 제거와 도배·장판 교체, 문턱 제거, LED... The post 숨고, 청소·도배 고수들 빽가와 뭉쳤다…독립유공자 후손 30년 집 새단장 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Ai",
-            "Ai인프라",
-            "ROT데이터"
+            "김강세",
+            "노후주택",
+            "독립유공자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:26.315Z",
+      "fetchedAt": "2026-09-18T00:14:23.570Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:26.607Z",
+      "fetchedAt": "2026-09-18T00:14:23.877Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -883,6 +890,21 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "PrismML hopes its tiny LLM will change how we all use AI",
+          "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+          "pubDate": "2026-09-17T22:34:09.000Z",
+          "image": null,
+          "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "LLMs"
+          ],
+          "isForeign": true,
+          "titleKo": "PrismML은 작은 LLM이 우리 모두가 AI를 사용하는 방식을 바꿀 수 있기를 희망합니다.",
+          "summaryKo": "인공지능 실험실 PrismML이 아직 레이더에 없는 경우, 레이더에 있어야 합니다."
+        },
         {
           "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
           "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
@@ -945,24 +967,9 @@
           "isForeign": true,
           "titleKo": "Comp AI는 보안 및 규정 준수를 위해 지속적으로 에이전트적인 미래를 주시합니다.",
           "summaryKo": "사이버 보안 및 컴플라이언스 스타트업인 Comp AI는 Roo Capital과 Grand Ventures가 주도하는 $ 34,000,000 시리즈 A 라운드를 발표했습니다."
-        },
-        {
-          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-17T03:30:00.000Z",
-          "image": null,
-          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-          "keywords": [
-            "Startups",
-            "AI",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "스타트업의 다음 팀원은 AI 에이전트일 수 있습니다. Gusto, Insight Partners, Leland는 TechCrunch Disrupt 2026에서 어떤 변화가 있는지 설명합니다.",
-          "summaryKo": "이 세션에서는 초기 단계의 회사가 인간과 AI 요원이 함께 일하는 팀을 구축하는 방법과 창업자가 속도, 책임감 또는 문화를 희생하지 않고 어떻게 할 수 있는지 살펴봅니다. TechCrunch Disrupt 2026에서 자세히 알아보세요. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:26.746Z",
+      "fetchedAt": "2026-09-18T00:14:25.492Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1061,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:28.731Z",
+      "fetchedAt": "2026-09-18T00:14:28.217Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1070,17 +1077,34 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - idailynews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
           "pubDate": "2026-09-16T11:11:00.000Z",
           "image": null,
-          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 idailynews.co.kr",
           "keywords": [
             "2016년",
             "지역",
             "평생교육",
             "활성화",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "gg"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1104,17 +1128,17 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
-          "pubDate": "2026-09-16T00:03:21.000Z",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
+          "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "서울테크노파크",
+            "사업재편",
+            "지원사업",
+            "참여기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1136,26 +1160,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
-          "pubDate": "2026-09-16T00:00:00.000Z",
-          "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
-          "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "지원사업",
-            "참여기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-17T22:10:29.253Z",
+      "fetchedAt": "2026-09-18T00:14:28.760Z",
       "error": null
     }
   },
@@ -1163,70 +1170,70 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 6,
+      "count": 3,
       "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "ax",
-      "label": "AX",
-      "count": 2,
-      "rank": 2,
       "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
+      "rank": 5,
       "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
+      "rank": 6,
       "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 8,
+      "rank": 7,
       "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
-      "rank": 9,
+      "rank": 8,
       "change": "up"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "2016년",
+      "label": "2016년",
+      "count": 1,
       "rank": 10,
       "change": "new"
     }
@@ -1297,20 +1304,20 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "techcrunch disrupt",
-      "label": "TechCrunch Disrupt",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "TechCrunch Disrupt"
-    },
-    {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "AI"
+    },
+    {
+      "key": "banking and consumer regulatory policy",
+      "label": "Banking and Consumer Regulatory Policy",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
 }
