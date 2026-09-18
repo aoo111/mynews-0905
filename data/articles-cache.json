@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-18T10:10:55.959Z",
+  "collectedAt": "2026-09-18T12:12:50.099Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "중간선거 불리해진 트럼프? 공화당에 쏠린 정치 후원금",
+          "link": "https://www.mk.co.kr/news/stock/12156826",
+          "pubDate": "2026-09-18T11:35:51.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-m.v1.20260918.bbdbaefaf33b4707878a4a96e79a1fea_R.jpg",
+          "summary": "미국 연방준비위원회가 3년 만에 기준금리를 0.25%포인트 인상하면서 한국과의 금리 차는 1%포인트로 벌어졌습니다. 금리 인하를 압박하던 트럼프 대통령은 중간선거를 40여일 앞두고..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“고속도로만 기름값 할인, 사형선고 아니냐”…동네 주유소들 ‘반발’",
+          "link": "https://www.mk.co.kr/news/economy/12156807",
+          "pubDate": "2026-09-18T10:35:41.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/18/rcv.YNA.20260918.PYH2026091815090001300_R.jpg",
+          "summary": "정부가 추석 연휴 고속도로 주유소의 기름값을 ℓ당 100원씩 낮추기로 하자 일반 주유소업계가 “고속도로 주유소에만 혜택을 주는 역차별 정책”이라며 반발하고 있다. 18일 한국주유소..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "유류세 인하 11월까지 '두 달 더'",
           "link": "https://www.mk.co.kr/news/economy/12156722",
           "pubDate": "2026-09-18T09:01:00.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "日 기준금리 1.0→1.25% … 31년來 최고",
-          "link": "https://www.mk.co.kr/news/economy/12156721",
-          "pubDate": "2026-09-18T08:50:21.000Z",
-          "image": null,
-          "summary": "일본은행(BOJ)이 18일 기준금리에 해당하는 정책금리를 기존 1.0%에서 1.25%로 0.25%포인트 인상했다. 지난 6월에 이어 3개월 만에 추가 인상에 나선 것이다. 이에 따..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] '아이마음 놀이터' 조성하는 현대해상",
-          "link": "https://www.mk.co.kr/news/economy/12156673",
-          "pubDate": "2026-09-18T08:30:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/19/20260919_01110109000009_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:47.731Z",
+      "fetchedAt": "2026-09-18T12:12:40.412Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp."
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:47.813Z",
+      "fetchedAt": "2026-09-18T12:12:40.503Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:49.002Z",
+      "fetchedAt": "2026-09-18T12:12:41.639Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "ChatGPT Work 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구를 파악하고, 도입을 비즈니스 성과와 연결하는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:49.172Z",
+      "fetchedAt": "2026-09-18T12:12:41.821Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,51 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Microsoft 임원, AI 스크래핑을 ‘인류 역사상 최대 규모의 노동 절도’라고 칭해",
+          "link": "https://news.hada.io/topic?id=33890",
+          "pubDate": "2026-09-18T11:52:19.000Z",
+          "image": null,
+          "summary": "The New York Times의 저작권 소송에서 새로 공개된 서면에 AI 학습을 절도에 빗댄 Microsoft 내부 발언과 언론사의 존립을 위협할 수 있다는 OpenAI 경영진의 발언이 담김 다만 새 정보 상당수는 The Times 측 준비서면에서 나왔으며, 근거 증거물은 여전히 비공개...",
+          "keywords": [
+            "Microsoft",
+            "임원",
+            "AI",
+            "스크래핑을",
+            "인류"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "x86 에뮬레이션의 골칫거리",
+          "link": "https://news.hada.io/topic?id=33889",
+          "pubDate": "2026-09-18T11:52:18.000Z",
+          "image": null,
+          "summary": "ARM에서 x86 프로그램을 실행하려면 x86-TSO 메모리 모델을 재현해야 하며, ARM의 느슨한 메모리 순서 규칙과의 차이가 성능과 정확성 모두에 부담을 줌 FEAT_LRCPC는 일반적인 메모리 읽기 성능을 크게 개선하지만, 비정렬 접근과 쓰기까지 모두 해결하지는 못함...",
+          "keywords": [
+            "x86",
+            "에뮬레이션의",
+            "골칫거리"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Jemalloc 5.4.0",
+          "link": "https://news.hada.io/topic?id=33888",
+          "pubDate": "2026-09-18T11:52:17.000Z",
+          "image": null,
+          "summary": "160개 이상의 커밋을 담은 릴리스로, 리팩터링과 버그 수정, 테스트 커버리지 개선, 옵션 정리 등 기술 부채 해소와 이식성 개선에 집중함 tcache 정책이 고정된 재충전/비우기 방식에서 관측 수요에 적응하는 방식으로 바뀜. 기존 제어 옵션 7개가 제거되며, 해당...",
+          "keywords": [
+            "Jemalloc"
+          ],
+          "isForeign": true,
+          "titleKo": "Jemalloc 5.4.0",
+          "summaryKo": "160개 이상의 커밋을 담은 릴리스로,리팩터링과 버그 수정,테스트 커버리지 개선, 옵션 정리 등 기술 부채 해소와 이식성 개선에 집중함 tcache정책이 고정된 재충전/비우기 방식에서 관측 수요에 적응하는 방식으로 바뀜. 기존 제어 옵션 7개가 제거되며,해당..."
+        },
         {
           "title": "LLM과 함께 글 쓰는 법",
           "link": "https://news.hada.io/topic?id=33887",
@@ -391,58 +436,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: 채널톡, intercom 에 지친 팀들을 위해,,  레닛(lenit)을 소개합니다.",
-          "link": "https://news.hada.io/topic?id=33885",
-          "pubDate": "2026-09-18T08:40:41.000Z",
-          "image": null,
-          "summary": "Saas 나 웹 서비스를 운영하는 스타트업들은 채널톡이나 intercom 을 통해 CS 를 처리하고, 피드백 수집을 위해 featurebase 나 canny 도 많이 사용하고 있더라구요. 하지만 이 서비스들을 사용하면 크게 두가지 문제를 직면할 수 있어요. 가격 죽은 게시판 <l",
-          "keywords": [
-            "Show",
-            "GN:",
-            "채널톡",
-            "intercom",
-            "지친"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Qwen 3.8 Omni Flash",
-          "link": "https://news.hada.io/topic?id=33884",
-          "pubDate": "2026-09-18T07:42:16.000Z",
-          "image": null,
-          "summary": "Qwen3.8-Omni-Flash는 텍스트, 이미지, 오디오, 비디오를 입력받아 콘텐츠 이해부터 작업 계획, 도구 호출, 결과물 제작까지 수행하는 네이티브 옴니모달 모델로, 100만 토큰 컨텍스트를 지원함 Qwen 공개 평가에서 이전 Qwen3.5-Omni-Plus보다 29개 평가 ...",
-          "keywords": [
-            "Qwen",
-            "Omni",
-            "Flash"
-          ],
-          "isForeign": true,
-          "titleKo": "Qwen 3.8 Omni Flash",
-          "summaryKo": "Qwen3.8-Omni-Flash는 텍스트,이미지,,오디오,비디오를 입력받아 콘텐츠 이해부터 작업 계획,도구 호출,결과물 제작까지 수행하는 네이티브 옴니모달 모델로,, 100만 토큰 컨텍스트를 지원함 Qwen 공개 평가에서 이전 Qwen3.5-Omni-Plus보다 29개 평가..."
-        },
-        {
-          "title": "Show GN: SQLBraid - SQL을 그대로 쓰는 TypeScript 라이브러리",
-          "link": "https://news.hada.io/topic?id=33881",
-          "pubDate": "2026-09-18T05:50:40.000Z",
-          "image": null,
-          "summary": "배경 저는 java 기반 자체 프레임워크를 쓰는 회사에서 프레임워크 코어 개발자 역할 겸임으로 일하고 있습니다. 해당 프레임워크는 내부적으로 mybatis/ibatis 와 비슷한 xml 문법으로 쿼리를 작성하고 여느 SI 회사처럼 수천줄 이상의 긴 SQL에 대부분의 로직을 작성합니다. 개인프로젝트 할 때는",
-          "keywords": [
-            "Show",
-            "GN:",
-            "SQLBraid",
-            "SQL을",
-            "그대로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:49.950Z",
+      "fetchedAt": "2026-09-18T12:12:44.541Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +529,7 @@
           "summaryKo": "2012년부터 VidCon은 오렌지 카운티의 애너하임 컨벤션 센터에서 (거의) 연례 여름 행사였습니다. 하지만 곧 바뀔 것입니다. 저명한 크리에이터 컨벤션의 소유주인 Informa는 VidCon을 애너하임에서 빼앗고 있습니다. 앞으로 VidCon은 Cannes Lions International Festival of Creativity라는 또 다른 Informa 시설과 연계될 예정입니다. Informa는 광고 및 마케팅 분야에서 크리에이터의 영향력이 커지고 있음을 인정하기 위해"
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:50.173Z",
+      "fetchedAt": "2026-09-18T12:12:44.731Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +603,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:50.353Z",
+      "fetchedAt": "2026-09-18T12:12:44.981Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +684,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:50.410Z",
+      "fetchedAt": "2026-09-18T12:12:45.095Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +783,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:53.388Z",
+      "fetchedAt": "2026-09-18T12:12:47.620Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:53.656Z",
+      "fetchedAt": "2026-09-18T12:12:48.003Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -966,7 +962,7 @@
           "summaryKo": "사이버 보안 및 컴플라이언스 스타트업인 Comp AI는 Roo Capital과 Grand Ventures가 주도하는 $ 34,000,000 시리즈 A 라운드를 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:53.769Z",
+      "fetchedAt": "2026-09-18T12:12:48.068Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1065,7 +1061,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:55.381Z",
+      "fetchedAt": "2026-09-18T12:12:49.540Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1091,6 +1087,40 @@
           "summaryKo": null
         },
         {
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
+          "pubDate": "2026-09-16T11:11:00.000Z",
+          "image": null,
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "keywords": [
+            "2016년",
+            "지역",
+            "평생교육",
+            "활성화",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
           "pubDate": "2026-09-14T03:01:16.000Z",
@@ -1108,45 +1138,11 @@
           "summaryKo": null
         },
         {
-          "title": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 - idailynews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONUg5UGZ3aWx5UFNQbXY2amVkZnBwTktXU3JWdndpM3pldEZqWWxMS0hfWS14NkJnYXktcXluRkNUZ2xOTVZ6MGRHWDJOdTU0dmZIMkgxZDkxcDR5YW5CYWVTWWU0elFGVVhuRzZ5U2ZqaGUyZE05ZzBSc05wSi1RbERhRWVPRTlRS3A0bFhrX2gxZXNfd2pyNl9SM1VNcS1NNVdCYnBqNGJ0R1J2UzFhRlBDVVgwby1CSmZ1Sk0xRXJsRkN1TGlkTWk0OGFRVnRISFhYMklrZjlRT21jZnExMkpFeDZrVEhhT3VaRl94NzhMYVlqZTd0MmZwSm9HcHRtNUN2T1YyNGMzYURuZXVxVDRIYS1zZUY0aWpldDN2TFdqVmVDTllkNkEyU2xzRzNpclZBWWpPbC10MGNiR0pWRUlZSW1ObkRvY1dBcW92Y2JOYUdLWGNvQw?oc=5",
-          "pubDate": "2026-09-15T12:34:00.000Z",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
+          "pubDate": "2026-09-16T00:00:00.000Z",
           "image": null,
-          "summary": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 idailynews.co.kr",
-          "keywords": [
-            "「2017년",
-            "중소",
-            "중견기업",
-            "기술개발",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Qm9OX2RUR3A1OVpWd3BoX3M0WGlpZ3R3X1hsbVpyYnJ6UFAzWHk3bzJZa2QtbFV1U2FzejZTZTYxeVJodW42WUVyTlJFX0YtWEVWVUlpOVVETFXSAWBBVV95cUxPSWVScHJPcDRjejRXbUJyTi1ITTJwWTRXMjNUdm5EZTNmV0VQSEVGRG50WnR0b1B5LVNjbEdZanh3WHI3N3ZucnpYSzZUN1dPSFc3LVpJcG82dnhVSXcxeVo?oc=5",
-          "pubDate": "2026-09-17T02:12:38.000Z",
-          "image": null,
-          "summary": "[이천소식] '최대 300만원' 청년 근속장려금 희망자 40명 모집 연합뉴스",
-          "keywords": [
-            "이천소식",
-            "최대",
-            "300만원",
-            "청년",
-            "근속장려금"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
-          "pubDate": "2026-09-16T01:38:53.000Z",
-          "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1159,7 +1155,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-18T10:10:55.950Z",
+      "fetchedAt": "2026-09-18T12:12:50.086Z",
       "error": null
     }
   },
@@ -1167,72 +1163,72 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 4,
       "rank": 1,
+      "change": "same"
+    },
+    {
+      "key": "인류",
+      "label": "인류",
+      "count": 2,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
+      "rank": 3,
       "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
+      "rank": 4,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
+      "rank": 5,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 3,
       "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "show",
-      "label": "Show",
-      "count": 3,
-      "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "경기",
+      "label": "경기",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
