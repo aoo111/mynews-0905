@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T10:10:13.918Z",
+  "collectedAt": "2026-09-19T12:12:31.425Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:06.102Z",
+      "fetchedAt": "2026-09-19T12:12:23.343Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:06.239Z",
+      "fetchedAt": "2026-09-19T12:12:23.389Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+          "pubDate": "2026-09-19T19:46:59.000Z",
+          "image": null,
+          "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를 신중히 검토 중이라고 보도했다.현재",
+          "keywords": [
+            "오픈AI",
+            "기업",
+            "시장",
+            "점유율",
+            "역전"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215478",
-          "pubDate": "2026-09-19T17:03:03.000Z",
-          "image": null,
-          "summary": "메타의 개인용 AI 에이전트 ‘뮤즈(Muse)’가 맥(Mac)으로 서비스를 확대하면서 AI가 사용자의 컴퓨터에서 직접 작업을 수행하는 시대가 본격화하고 있다. 또 뮤즈는 모바일 버전이 앱스토어 1위에 오르며 폭발적인 인기를 끌고 있지만, 사용자 데이터 접근에 따른 개인정보 보호와 보안 문제는 넘어야 할 최대 과제로 꼽힌다.메타는 17일(현지시간) 맥용 뮤즈를 공식 출시했다. 모바일과 웹에 이어 맥 데스크톱 환경으로 영역을 넓혀 파일, 메시지, 캘린더, 메모, 이메일 등 PC 내 주요 애플리케이션 및 시스템 파일과 직접 연동된다.이를",
-          "keywords": [
-            "메타",
-            "에이전트",
-            "뮤즈",
-            "맥으로",
-            "확대"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:07.304Z",
+      "fetchedAt": "2026-09-19T12:12:24.341Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:07.453Z",
+      "fetchedAt": "2026-09-19T12:12:24.477Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
+          "link": "https://news.hada.io/topic?id=33939",
+          "pubDate": "2026-09-19T11:42:21.000Z",
+          "image": null,
+          "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
+          "keywords": [
+            "AI로",
+            "생성한",
+            "포스터가",
+            "형편없을",
+            "필요는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "NestJS에서 got을 편하게 쓸 수 있는 smile-nestjs-got을 만들었습니다",
+          "link": "https://news.hada.io/topic?id=33938",
+          "pubDate": "2026-09-19T11:30:18.000Z",
+          "image": null,
+          "summary": "안녕하세요 NestJS를 사용하는 백엔드 개발자 여러분 NestJS에서 외부 API를 호출할 때 대부분 공식 모듈인 @nestjs/axios를 많이 사용하실 겁니다 하지만 got을 한번이라도 써보셨던 개발자라면 got이 그리워질 때가 있습니다 @nestjs/axios와 동일한 개발 경험을 제공하면서 got의 강력한 기능을...",
+          "keywords": [
+            "NestJS에서",
+            "got을",
+            "편하게",
+            "있는",
+            "smile"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Warez: 불법 복제의 인프라와 미학 (2021)",
+          "link": "https://news.hada.io/topic?id=33937",
+          "pubDate": "2026-09-19T10:42:21.000Z",
+          "image": null,
+          "summary": "Scene은 음악, 영상, 게임, 소프트웨어를 공식 판매일 전에 입수하고, 서로 먼저 무료로 배포하려 경쟁하는 전 세계 지하 불법 복제 그룹 네트워크임 Warez는 이 하위문화를 다룬 최초의 학술 연구서로, Scene이 자체적으로 생산한 문서 자료를 통해 운영 방식과 인...",
+          "keywords": [
+            "Warez:",
+            "불법",
+            "복제의",
+            "인프라와",
+            "미학"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "C++26: 단순 무한 루프는 더 이상 미정의 동작이 아님",
           "link": "https://news.hada.io/topic?id=33936",
@@ -393,59 +444,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "샌프란시스코 양파 선물 회사",
-          "link": "https://news.hada.io/topic?id=33934",
-          "pubDate": "2026-09-19T08:32:20.000Z",
-          "image": null,
-          "summary": "노란 양파를 미래에 실물 인도하는 계약을 개인 구매자에게 사적으로 판매하며, 계약은 다른 사람에게 양도할 수 있음 최대 6개월 뒤 인도분까지 판매하며, 가격은 양파 1개당 3~12달러임 회사는 미국법의 양파 미래 인도 계약 금지가 거...",
-          "keywords": [
-            "샌프란시스코",
-            "양파",
-            "선물",
-            "회사"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 발품 - 발품 팔아서 스크린 타임 벌어요",
-          "link": "https://news.hada.io/topic?id=33933",
-          "pubDate": "2026-09-19T07:09:21.000Z",
-          "image": null,
-          "summary": "애플워치를 쓰고 있는지는 벌써 몇 년이 되었어요. 처음에는 모두 새롭고 신기했습니다. 이렇게 정확하고 체계적으로 걸음수, 심박수, 운동시간 기록해주다니! 그런데 링을 못 채운다고 무슨 일이 일어나진 않다 보니, 애플워치를 찬다고 무슨 일이 일어나지 않더라고요 🥲 움직이기 싫어하고 밖에 잘 안",
-          "keywords": [
-            "Show",
-            "GN:",
-            "발품",
-            "팔아서",
-            "스크린"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "광자 방출로 유도한 레이저 결함 주입으로 RP2350의 보안 디버그 활성화",
-          "link": "https://news.hada.io/topic?id=33931",
-          "pubDate": "2026-09-19T04:42:20.000Z",
-          "image": null,
-          "summary": "RP2350 A4에서 영구적으로 비활성화한 디버그 기능을 레이저 결함 주입으로 다시 활성화해, Secure 영역의 메모리 접근과 코어 제어에 성공함 광자 방출 현미경(PEM) 으로 DEBUGEN 비트 변화에 따른 발광 위치를 좁힌 뒤, 수 마이크로미터 떨어진 두 ...",
-          "keywords": [
-            "광자",
-            "방출로",
-            "유도한",
-            "레이저",
-            "결함"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:08.014Z",
+      "fetchedAt": "2026-09-19T12:12:25.283Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +536,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:08.229Z",
+      "fetchedAt": "2026-09-19T12:12:25.496Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:08.456Z",
+      "fetchedAt": "2026-09-19T12:12:25.655Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:08.529Z",
+      "fetchedAt": "2026-09-19T12:12:25.745Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:11.253Z",
+      "fetchedAt": "2026-09-19T12:12:28.798Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:11.473Z",
+      "fetchedAt": "2026-09-19T12:12:28.987Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -971,7 +972,7 @@
           "summaryKo": "올해 초 Meta와의 합병을 단절해야 했던 Manus는 40억 달러의 가치 평가로 5억 달러를 모으기 위한 논의 중입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:11.608Z",
+      "fetchedAt": "2026-09-19T12:12:29.041Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:13.301Z",
+      "fetchedAt": "2026-09-19T12:12:31.021Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1130,6 +1131,23 @@
           "summaryKo": null
         },
         {
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
+          "pubDate": "2026-09-18T06:23:20.000Z",
+          "image": null,
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "keywords": [
+            "경기",
+            "~9/29(화)",
+            "성남시",
+            "청년",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "신안신재생에너지재단, 청년도전지원사업 추가 모집 - 대한뉴스통신",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QWW9TTWFVSFJSZ2dlQ0tULWszVGlNbGNBNjFJbk9zTHNaUkctN0dJOWlLVGhQdUFUaFJYeHNYM2lXM25LYkc2OUpoaHNzNURMaVNVb19wVQ?oc=5",
           "pubDate": "2026-09-18T15:19:00.000Z",
@@ -1145,26 +1163,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
-          "pubDate": "2026-09-18T06:23:20.000Z",
-          "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
-          "keywords": [
-            "경기",
-            "~9/29(화)",
-            "성남시",
-            "청년",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T10:10:13.910Z",
+      "fetchedAt": "2026-09-19T12:12:31.416Z",
       "error": null
     }
   },
@@ -1216,28 +1217,28 @@
       "label": "ai",
       "count": 2,
       "rank": 7,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "경기",
       "label": "경기",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "모집",
       "label": "모집",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
