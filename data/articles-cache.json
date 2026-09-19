@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T16:10:18.458Z",
+  "collectedAt": "2026-09-19T18:11:24.614Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:04.591Z",
+      "fetchedAt": "2026-09-19T18:11:11.298Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:04.655Z",
+      "fetchedAt": "2026-09-19T18:11:11.409Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:05.858Z",
+      "fetchedAt": "2026-09-19T18:11:12.834Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:06.327Z",
+      "fetchedAt": "2026-09-19T18:11:13.020Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
+          "link": "https://news.hada.io/topic?id=33951",
+          "pubDate": "2026-09-19T17:52:23.000Z",
+          "image": null,
+          "summary": "외국 중앙은행과 정부의 미국 국채 보유액이 2026년 7월 3조 7,700억 달러로 줄었으며, 시장성 국채 잔액에서 차지하는 비중은 12.8% 로 1993년 이후 최저치를 기록함 미국의 막대한 재정적자 조달은 외국 공공부문 의존도가 낮아지는 대신, 미국...",
+          "keywords": [
+            "외국",
+            "중앙은행과",
+            "정부에",
+            "매력을",
+            "잃은"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
+          "link": "https://news.hada.io/topic?id=33950",
+          "pubDate": "2026-09-19T17:52:22.000Z",
+          "image": null,
+          "summary": "소비자용 금융 앱의 문서 허브와 알림 센터는 단순한 요구에서 출발해 복잡한 범용 플랫폼으로 커지며, 조직의 부담을 사용자에게 떠넘길 수 있음 기능 추가를 재고하게 만드는 데는 초기 개발비보다 수년에 걸친 운영 비용을 보여주는 것이 효과적임 고객...",
+          "keywords": [
+            "가장",
+            "중요한",
+            "제품",
+            "결정은",
+            "무엇을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Stallman: 수천 명 사망, 수백만 명의 자유 박탈 (2001)",
+          "link": "https://news.hada.io/topic?id=33949",
+          "pubDate": "2026-09-19T17:42:22.000Z",
+          "image": null,
+          "summary": "뉴욕과 워싱턴 테러 이후 의회가 자유를 빼앗는 예방 조치를 채택한다면, 공격에 대한 대응이 더 큰 2차 피해를 일으킬 수 있음 무기만 확인하고 무기가 없는 사람의 기록을 남기지 않는 공항 검색과, 통화와 이메일 및 이동을 대상으로 하는 대규모 감시...",
+          "keywords": [
+            "Stallman:",
+            "수천",
+            "사망",
+            "수백만",
+            "명의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "OpenAI는 자체 LLM으로 Jalapeño 칩을 어떻게 설계했나",
           "link": "https://news.hada.io/topic?id=33945",
@@ -392,60 +443,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "수학이 증명 이상이라면, 증명 이외의 기여도 더 높이 평가해야 한다",
-          "link": "https://news.hada.io/topic?id=33943",
-          "pubDate": "2026-09-19T13:42:21.000Z",
-          "image": null,
-          "summary": "수학의 목표가 인간의 이해를 넓히는 것이라면, 새로운 증명뿐 아니라 아이디어를 어떻게 떠올릴 수 있는지 밝혀 주는 설명에도 비슷한 수준의 학문적 인정을 부여해야 함 발상의 동기를 드러내는 설명(motivated explanation) 은 정의와 구성을 처음부터 주기보다...",
-          "keywords": [
-            "수학이",
-            "증명",
-            "이상이라면",
-            "이외의",
-            "기여도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
-          "link": "https://news.hada.io/topic?id=33942",
-          "pubDate": "2026-09-19T12:42:21.000Z",
-          "image": null,
-          "summary": "GPT-6 Astra가 1918년 11월 27일 송신된 독일의 ADFGVX 무선 암호문을 해독함. 다만 최초 해독인지는 확인되지 않았으며, 알려진 선행 해독 사례가 없다는 단서가 있음 복원한 메시지는 영국 순양함의 세바스토폴 입항과 26일 연합국 함대...",
-          "keywords": [
-            "GPT",
-            "Astra",
-            "제1차",
-            "세계대전",
-            "독일"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
-          "link": "https://news.hada.io/topic?id=33941",
-          "pubDate": "2026-09-19T12:39:05.000Z",
-          "image": null,
-          "summary": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레이터입니다. 설치하지 않고 웹 버전을 먼저 실행해 볼 수 있으며",
-          "keywords": [
-            "Show",
-            "GN:",
-            "ARAM",
-            "Emulator",
-            "WIPI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:06.965Z",
+      "fetchedAt": "2026-09-19T18:11:13.779Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +535,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:07.008Z",
+      "fetchedAt": "2026-09-19T18:11:14.102Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:07.166Z",
+      "fetchedAt": "2026-09-19T18:11:14.298Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:07.213Z",
+      "fetchedAt": "2026-09-19T18:11:14.346Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:12.167Z",
+      "fetchedAt": "2026-09-19T18:11:19.704Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:12.522Z",
+      "fetchedAt": "2026-09-19T18:11:19.990Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +972,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:14.242Z",
+      "fetchedAt": "2026-09-19T18:11:20.170Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:17.395Z",
+      "fetchedAt": "2026-09-19T18:11:24.117Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1080,33 +1080,33 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
-          "pubDate": "2026-09-16T00:03:21.000Z",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
+          "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
             "경기",
-            "경기도청"
+            "~9/29(화)",
+            "성남시",
+            "청년",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
-          "pubDate": "2026-09-18T06:23:20.000Z",
+          "title": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 - 데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONUg5UGZ3aWx5UFNQbXY2amVkZnBwTktXU3JWdndpM3pldEZqWWxMS0hfWS14NkJnYXktcXluRkNUZ2xOTVZ6MGRHWDJOdTU0dmZIMkgxZDkxcDR5YW5CYWVTWWU0elFGVVhuRzZ5U2ZqaGUyZE05ZzBSc05wSi1RbERhRWVPRTlRS3A0bFhrX2gxZXNfd2pyNl9SM1VNcS1NNVdCYnBqNGJ0R1J2UzFhRlBDVVgwby1CSmZ1Sk0xRXJsRkN1TGlkTWk0OGFRVnRISFhYMklrZjlRT21jZnExMkpFeDZrVEhhT3VaRl94NzhMYVlqZTd0MmZwSm9HcHRtNUN2T1YyNGMzYURuZXVxVDRIYS1zZUY0aWpldDN2TFdqVmVDTllkNkEyU2xzRzNpclZBWWpPbC10MGNiR0pWRUlZSW1ObkRvY1dBcW92Y2JOYUdLWGNvQw?oc=5",
+          "pubDate": "2026-09-15T12:34:00.000Z",
           "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "summary": "「2017년 중소·중견기업 기술개발 지원사업 통합공고」 데일리뉴스",
           "keywords": [
-            "경기",
-            "~9/29(화)",
-            "성남시",
-            "청년",
+            "「2017년",
+            "중소",
+            "중견기업",
+            "기술개발",
             "지원사업"
           ],
           "isForeign": false,
@@ -1131,11 +1131,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 - beSUCCESS",
+          "title": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 - besuccess.com",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ldHZrenRjWlUwWl9YSTJQQWk2WFBtdjVqUjJIMmNaUGIxcjZaaF9adXBlakRuNS1meGZUMEoyU0NGeDNwckE?oc=5",
           "pubDate": "2026-09-16T07:11:58.000Z",
           "image": null,
-          "summary": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 beSUCCESS",
+          "summary": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 besuccess.com",
           "keywords": [
             "서울테크노파크",
             "2026",
@@ -1165,7 +1165,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T16:10:17.899Z",
+      "fetchedAt": "2026-09-19T18:11:24.606Z",
       "error": null
     }
   },
@@ -1206,18 +1206,18 @@
       "change": "same"
     },
     {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 4,
+      "rank": 6,
+      "change": "up"
+    },
+    {
       "key": "ai",
       "label": "AI",
       "count": 3,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "ai스타트업",
@@ -1227,18 +1227,18 @@
       "change": "same"
     },
     {
-      "key": "경기",
-      "label": "경기",
-      "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
       "key": "모집",
       "label": "모집",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "사업재편",
+      "label": "사업재편",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1247,7 +1247,7 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 1,
-      "change": "up",
+      "change": "same",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
@@ -1255,7 +1255,7 @@
       "label": "AdSense",
       "count": 5,
       "rank": 2,
-      "change": "up",
+      "change": "same",
       "labelKo": "애드 센스"
     },
     {
@@ -1263,7 +1263,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1271,7 +1271,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1279,7 +1279,7 @@
       "label": "AI",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1287,7 +1287,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1295,7 +1295,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1303,7 +1303,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1311,7 +1311,7 @@
       "label": "Fundraising",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "모금 활동"
     },
     {
@@ -1319,7 +1319,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
