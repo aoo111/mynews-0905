@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T00:14:19.884Z",
+  "collectedAt": "2026-09-19T02:10:20.965Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "한동훈 “지금 가상자산 과세 안돼…민주당, 밀어붙이지 말고 토론하자”",
+          "link": "https://www.mk.co.kr/news/economy/12157039",
+          "pubDate": "2026-09-19T01:25:11.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/19/news-p.v1.20260919.c04ccb5334e6400e9b64b1342b24b44f_R.jpg",
+          "summary": "정부가 내년 1월 가상자산 과세 시행을 예고한 가운데 한동훈 무소속 의원이 “지금 가상자산 과세는 안 된다”며 “다시 유예해야 한다”고 19일 촉구했다. 한 의원은 이날 사회관계망..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“나라안에서 해결되는데 왜 무역합니까” … 천재경제학자의 답변이",
           "link": "https://www.mk.co.kr/news/economy/12156559",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "중간선거 불리해진 트럼프? 공화당에 쏠린 정치 후원금",
-          "link": "https://www.mk.co.kr/news/stock/12156826",
-          "pubDate": "2026-09-18T11:35:51.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-m.v1.20260918.bbdbaefaf33b4707878a4a96e79a1fea_R.jpg",
-          "summary": "미국 연방준비위원회가 3년 만에 기준금리를 0.25%포인트 인상하면서 한국과의 금리 차는 1%포인트로 벌어졌습니다. 금리 인하를 압박하던 트럼프 대통령은 중간선거를 40여일 앞두고..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:13:56.477Z",
+      "fetchedAt": "2026-09-19T02:10:10.149Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T00:13:56.560Z",
+      "fetchedAt": "2026-09-19T02:10:10.214Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215440",
-          "pubDate": "2026-09-19T06:45:00.000Z",
+          "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215484",
+          "pubDate": "2026-09-19T10:47:54.000Z",
           "image": null,
-          "summary": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task summary)’에 원래 없던 지시를 스스로 추가한 사례를 공개했습니다.이런 요약문은 단순한 메모가 아닙니다",
+          "summary": "앤트로픽의 기업공개(IPO)가 임박하면서 월가 투자자들의 신중론이 확대되고 있다. 올해 연간 매출이 1000억달러(약 138조8000억원)를 돌파할 것이라는 가파른 성장 전망에 환호하면서도, 급증하는 컴퓨팅 인프라 비용으로 인해 다시 적자로 돌아설 수 있다는 우려가 커진 탓이다.뉴욕타임스(NYT)는 18일(현지시간) 소식통을 인용해 앤트로픽이 올해 말까지 연간 매출 1000억달러를 돌파할 것으로 예상된다고 보도했다. 이는 7월 기준 연간 매출 전망치였던 650억달러에서 불과 2달 만에 350억달러가 급증한 수치다. 투자자들은 이러한",
           "keywords": [
-            "9월18일",
-            "AI가",
-            "다음",
-            "AI에게",
-            "지시를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
-          "pubDate": "2026-09-19T06:16:26.000Z",
-          "image": null,
-          "summary": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)의 이미지 파일 처리 방식에서 보안 취약점을 발견하면서 시작됐다. 연구진은 사이버 보안 전문가용으로 제공된",
-          "keywords": [
-            "오픈AI",
             "앤트로픽",
-            "클로드",
-            "뚫렸다",
-            "핵심"
+            "IPO에",
+            "월가",
+            "신중론",
+            "1000억달러"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215459",
-          "pubDate": "2026-09-18T18:37:07.000Z",
+          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215482",
+          "pubDate": "2026-09-19T10:04:42.000Z",
           "image": null,
-          "summary": "구글이 AI 에이전트의 문제 해결 과정에 재귀적 자기개선(RSI)을 적용하면서도 탐색에 필요한 실행 비용을 크게 줄이는 새로운 방법을 공개했다. 구글은 17일(현지시간) AI 코딩 및 문제 해결(탐색) 에이전트가 실패한 경로를 반복 실행하며 막대한 연산 비용을 낭비하는 문제를 해결하기 위해, 과거의 경로 탐색 기록을 재사용하는 '드림-RSI(Dream-RSI)' 시스템을 공개했다.과거 탐색 기록을 일종의 시뮬레이터로 활용해 수천개의 새로운 탐색 전략을 실제 코드 실행 없이 평가하는 것이 핵심이다.RSI는 AI가 문제를 해결하는 과정",
+          "summary": "미국 캘리포니아주가 첨단 AI 모델의 비상 정지 기능인 '킬 스위치' 도입과 제3자 독립 감사 의무화를 포함한 강력한 행정명령을 발표하며 지방정부 차원의 규제 강수를 뒀다.개빈 뉴섬 캘리포니아 주지사는 18일(현지시간) AI 기술의 잠재적 위험성에 대처하고 주정부의 안전 및 보안 감독 체계를 대폭 강화하는 행정명령에 서명했다.주정부는 전담 전문가 실무 그룹을 신속하게 구성해 2달 안에 최첨단 AI 연구소에 대한 독립 평가자 배치, 안전 계획의 외부 검증, 비상시 작동하는 킬 스위치 구축 등 기술적 타당성을 담은 강화 가이드라인을 제",
           "keywords": [
-            "구글",
+            "캘리포니아",
             "AI",
-            "문제",
-            "해결에",
-            "재귀적"
+            "스위치",
+            "의무화",
+            "추진"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215461",
-          "pubDate": "2026-09-18T18:26:15.000Z",
+          "title": "[내면 지도 그리기] 34 Inner Mapping: 나를 찾는 지도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215475",
+          "pubDate": "2026-09-19T10:00:00.000Z",
           "image": null,
-          "summary": "초지능 AI가 인류를 멸종시킬 수 있다는 경고가 잇따르는 가운데, AI 분야의 개척자로 꼽히는 앤드류 응 스탠포드대학교 교수가 이러한 주장을 강하게 비판했다. 그는 AI의 현실적인 위험에 대해서는 대응해야 하지만, 이를 인류 멸종 위협으로 확대하는 것은 과학적 근거보다 SF에 가깝다고 주장했다.응 교수는 17일(현지시간) 블룸버그TV와의 인터뷰에서 빅테크 기업과 AI 연구진이 AI 붐 초기부터 잠재적인 재앙을 강조하며 과도한 홍보 효과를 누리고, 자신들에게 유리한 규제 환경을 조성하려 했다고 지적했다.그는 최근 다시 AI의 실존적",
+          "summary": "내면지도_추석특집서로의 별에 다녀오는 밤설날에 우리는 누구나 자기만의 별에서 살아간다고 이야기했습니다.겉으로는 같은 집, 같은 식탁, 같은 명절에 모인 것 같지만, 사실 우리는 저마다 다른 중력과 날씨, 다른 걱정과 규칙을 가진 별에서 살아갑니다. 누군가는 일의 별에서, 누군가는 멈춤의 별에서, 누군가는 검진 결과를 기다리는 별에서, 누군가는 알림이 쉬지 않고 울리는 별에서 하루를 보냅니다.추석은 그 별들이 잠시 가까워지는 시간입니다.누군가는 명절 전날까지 회의에 들어가고, 누군가는 부모님 병원 예약을 챙기고, 누군가는 아이 숙제와",
           "keywords": [
-            "앤드류",
-            "AI",
-            "인류",
-            "멸종",
-            "위협은"
+            "내면",
+            "지도",
+            "그리기",
+            "34",
+            "Inner"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 또 다른 밀레니엄 수학 문제 '호지 추측' 해결에 근접",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215443",
-          "pubDate": "2026-09-18T18:15:15.000Z",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, 그걸로 숙제하지 말라고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215474",
+          "pubDate": "2026-09-19T10:00:00.000Z",
           "image": null,
-          "summary": "오픈AI가 밀레니엄 수학 난제 가운데 하나인 ‘나비에-스토크스 존재성과 매끄러움 문제’ 해결에 이어서 또 다른 난제 ‘호지 추측(Hodge Conjecture)’ 해결에 가까워진 것으로 전해졌다. 17일(현지시간) 디 인포메이션에 따르면, 오픈AI는 호지 추측의 해법을 비교적 가까운 시일 내 도출할 수 있을 것으로 기대하고 있다.호지 추측은 다항식 방정식으로 정의되는 도형의 특정 기하학적 특징을 더 단순한 대수적 요소를 이용해 표현할 수 있는지를 묻는 문제다. 2000년 클레이 수학연구소가 선정한 7개의 ‘밀레니엄 수학 문제’ 가운",
+          "summary": "글·그림 Dr. Alf",
           "keywords": [
-            "오픈AI",
-            "다른",
-            "밀레니엄",
-            "수학",
-            "문제"
+            "AI카툰",
+            "Bob",
+            "Senior",
+            "IT",
+            "guy"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "방글라데시, 옥상태양광 등 재생에너지에 1690억원 저리금융",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215429",
+          "pubDate": "2026-09-19T09:45:00.000Z",
+          "image": null,
+          "summary": "방글라데시가 옥상태양광 등 재생에너지 보급을 확대하기 위해 150억타카(약 1690억원) 규모의 저리금융 프로그램을 가동한다. 정부가 참여 금융기관에 저리로 자금을 공급하고, 이들 기관이 가정과 기업 등 최종 이용자에게 대출할 때 각종 수수료를 포함한 실효 연이율을 최대 6%로 제한해 초기 투자 부담을 낮춘다는 계획이다.방글라데시 재무부 재정국이 지난 14일(현지시간) 발행한 회람에 따르면 프로그램 규모는 150억타카에 해당한다. 인프라개발공사(IDCOL), 방글라데시인프라금융기금(BIFFL), 농촌고용지원재단(PKSF) 등 3개",
+          "keywords": [
+            "방글라데시",
+            "옥상태양광",
+            "재생에너지에",
+            "1690억원",
+            "저리금융"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:13:57.572Z",
+      "fetchedAt": "2026-09-19T02:10:11.567Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 Hex의 데이터 에이전트가 직원들이 자랑스럽게 공유하는 대화형 시각화로 답변을 전환하는 데 도움을 줍니다."
         }
       ],
-      "fetchedAt": "2026-09-19T00:13:59.891Z",
+      "fetchedAt": "2026-09-19T02:10:11.738Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,88 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "기술 분야에서 여전히 가슴 뛰게 하는 것은 무엇인가요?",
-          "link": "https://news.hada.io/topic?id=33917",
-          "pubDate": "2026-09-19T00:12:19.000Z",
+          "title": "SQPOLL은 불안형 여친이다",
+          "link": "https://news.hada.io/topic?id=33929",
+          "pubDate": "2026-09-19T02:01:09.000Z",
           "image": null,
-          "summary": "1990년대부터 이어진 기술에 대한 설렘과 달리, 지금은 새 소프트웨어와 변경 기록, 낯선 프로젝트의 알파/베타 버전을 기다리던 즐거움이 희미해졌다는 문제의식에서 출발함 상용 소프트웨어의 상투적인 변경 기록, AI 통합에 따른 품질 저하 우려와 자유 소프트웨...",
+          "summary": "SQPOLL은 CPU 자원을 많이 소모하는 대신 작업의 지연을 줄임 I/O Uring의 기본 동작 모드에 비해 시스템 콜의 낭비를 줄여 지연 시간을 감축할 수 있음 그러나 CPU 소모와 성능 지향 사이에서 균형을 찾기 위해서는 실제적으로는 더 고민이 필요함 IORING_SETUP_SQ_AFF까지 키거나...",
           "keywords": [
-            "기술",
-            "분야에서",
-            "여전히",
-            "가슴",
-            "뛰게"
+            "SQPOLL은",
+            "불안형",
+            "여친이다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Minimal Phone 2",
-          "link": "https://news.hada.io/topic?id=33916",
-          "pubDate": "2026-09-18T23:42:20.000Z",
+          "title": "이란 전쟁 중 미군 사망자, 국방부 집계보다 최소 4명 많아",
+          "link": "https://news.hada.io/topic?id=33928",
+          "pubDate": "2026-09-19T01:52:20.000Z",
           "image": null,
-          "summary": "Minimal Phone 2는 물리 키보드와 Android 기반 Minimal OS를 결합한 소형 스마트폰으로, 앱 접근을 유지하면서 알림과 화면 사용을 줄이는 데 초점을 맞춤 화면은 E Ink가 아닌 4인치 AMOLED이며, 터치 입력을 지원하는 백라이트 키보드는 출시 시 한국어 두벌식을...",
+          "summary": "Washington Post 보도에 따르면 미국과 이스라엘의 대이란 전쟁 기간 미군 사망자는 미 국방부가 공개한 수보다 많음 익명의 관계자 5명에 따르면 사망자는 최소 22명으로, 국방부 공개 데이터베이스에 기록된 수보다 4명 많음 다만 다른 익명 관계자에 따...",
           "keywords": [
-            "Minimal",
-            "Phone"
-          ],
-          "isForeign": true,
-          "titleKo": "최소 전화번호 2",
-          "summaryKo": "미니멀 폰 2는 물리 키보드와 안드로이드 기반 미니멀 OS를 결합한 소형 스마트폰으로, 앱 접근을 유지하면서 알림과 화면 사용을 줄이는 데 초점을 맞춤 화면은 E 잉크가 아닌 4인치 AMOLED이며,터치 입력을 지원하는 백라이트 키보드는 출시 시 한국어 두벌식을..."
-        },
-        {
-          "title": "RAM 100TB 추가 절감",
-          "link": "https://news.hada.io/topic?id=33915",
-          "pubDate": "2026-09-18T23:42:19.000Z",
-          "image": null,
-          "summary": "Cloudflare가 내부 부하 분산 서비스 Pingora Backend Router(PBR) 의 일관된 해싱 구현을 최적화해 전 세계에서 100TB 이상의 RAM을 회수함 서버별 부하를 고르게 나누기 위한 해시, 저장 용량에 따른 가중치, 기능 조합별 별도 링이 겹치면서 해시 저장 ...",
-          "keywords": [
-            "RAM",
-            "100TB",
-            "추가",
-            "절감"
+            "이란",
+            "전쟁",
+            "미군",
+            "사망자",
+            "국방부"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "국경 요원, 영장이나 합리적 의심 없이 휴대전화 수색 가능",
-          "link": "https://news.hada.io/topic?id=33914",
-          "pubDate": "2026-09-18T23:02:19.000Z",
+          "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
+          "link": "https://news.hada.io/topic?id=33927",
+          "pubDate": "2026-09-19T01:52:19.000Z",
           "image": null,
-          "summary": "미국 제2연방항소법원이 국경에서 여행자의 휴대전화 내용을 수동으로 살펴보는 수색에는 영장이나 합리적 의심이 필요하지 않다고 판결함 재판부는 휴대전화를 짐과 같은 소지품으로 보고, 국경에서 이루어지는 통상적 수색에는 별도의 의심이 필요하지 않다는 기...",
+          "summary": "Raptor 3는 Raptor 1보다 추력이 약 35% 커지면서 질량과 외부 부품이 크게 줄었지만, 전유량 다단연소라는 기본 구조는 유지함 외관을 간결하게 만든 변화에는 개발용 센서 축소, 밸브 통합, 주연소실 점화기 제거, 볼트 체결부의 용접 전환 등이...",
           "keywords": [
-            "국경",
-            "요원",
-            "영장이나",
-            "합리적",
-            "의심"
+            "SpaceX는",
+            "Raptor",
+            "엔진을",
+            "어떻게",
+            "간결하게"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
-          "link": "https://news.hada.io/topic?id=33913",
-          "pubDate": "2026-09-18T22:52:19.000Z",
+          "title": "100년 만에 처음 발견된 고양잇과 신종",
+          "link": "https://news.hada.io/topic?id=33926",
+          "pubDate": "2026-09-19T01:42:19.000Z",
           "image": null,
-          "summary": "프로젝트에 CLAUDE.md가 없으면 AGENTS.md를 대신 읽는 기능이 추가됨 해당 동작은 /config의 “Project instructions”에서 변경할 수 있으며, Bedrock, Vertex, Foundry에서는 아직 지원하지 않음 비대...",
+          "summary": "볼리비아에서 발견한 작은 야생 고양이가 Leopardus tilcayo라는 신종으로 제안됨. 기존 종을 재확인하거나 아종을 종으로 격상한 사례가 아니라, 과학계에 알려지지 않았던 고양잇과 동물임 Leopardus속 38개체의 전체 유전체를 비교한 결과, 다른 타이거캣 종들과...",
+          "keywords": [
+            "100년",
+            "만에",
+            "처음",
+            "발견된",
+            "고양잇과"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude Code, 이제 AGENTS.md도 지원",
+          "link": "https://news.hada.io/topic?id=33925",
+          "pubDate": "2026-09-19T01:38:31.000Z",
+          "image": null,
+          "summary": "Claude Code 2.1.277부터 프로젝트에 \"CLAUDE.md\"가 없으면 \"AGENTS.md\"를 프로젝트 지침으로 자동 사용 여러 코딩 에이전트가 공통으로 사용하는 \"AGENTS.md\"를 위해 별도의 \"CLAUDE.md\"를 복제하거나 심볼릭 링크로 연결할 필요가 없어짐 \"/...",
           "keywords": [
             "Claude",
             "Code",
             "이제",
-            "CLAUDE",
-            "md가"
+            "AGENTS",
+            "md도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:01.977Z",
+      "fetchedAt": "2026-09-19T02:10:12.402Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:08.832Z",
+      "fetchedAt": "2026-09-19T02:10:12.478Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:09.028Z",
+      "fetchedAt": "2026-09-19T02:10:12.657Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:09.087Z",
+      "fetchedAt": "2026-09-19T02:10:12.722Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:14.292Z",
+      "fetchedAt": "2026-09-19T02:10:16.535Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:15.021Z",
+      "fetchedAt": "2026-09-19T02:10:16.816Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -887,7 +889,7 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
           "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
           "pubDate": "2026-09-18T23:25:01.000Z",
           "image": null,
@@ -895,10 +897,11 @@
           "keywords": [
             "AI",
             "Fundraising",
-            "Startups"
+            "Startups",
+            "UpLabs"
           ],
           "isForeign": true,
-          "titleKo": "다른 스타트업을 키우는 스타트업이 $ 100M을 모금했으며, 실제 AI에 올인하고 있습니다.",
+          "titleKo": "다른 신생 기업을 구축하는 신생 기업은 $ 100M을 모금했으며 실제 AI에 올인하고 있습니다.",
           "summaryKo": "UP.Labs는 현재 Vantora라는 이름으로 비즈니스를 수행하고 있으며 산업 기업을 위한 스타트업을 구축하고 있습니다."
         },
         {
@@ -970,7 +973,7 @@
           "summaryKo": "올해 초 Meta와의 합병을 단절해야 했던 Manus는 40억 달러의 가치 평가로 5억 달러를 모으기 위한 논의 중입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:16.806Z",
+      "fetchedAt": "2026-09-19T02:10:17.940Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:18.841Z",
+      "fetchedAt": "2026-09-19T02:10:20.510Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1095,6 +1098,40 @@
           "summaryKo": null
         },
         {
+          "title": "신안신재생에너지재단, 청년도전지원사업 추가 모집 - 대한뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QWW9TTWFVSFJSZ2dlQ0tULWszVGlNbGNBNjFJbk9zTHNaUkctN0dJOWlLVGhQdUFUaFJYeHNYM2lXM25LYkc2OUpoaHNzNURMaVNVb19wVQ?oc=5",
+          "pubDate": "2026-09-18T15:19:00.000Z",
+          "image": null,
+          "summary": "신안신재생에너지재단, 청년도전지원사업 추가 모집 대한뉴스통신",
+          "keywords": [
+            "신안신재생에너지재단",
+            "청년도전지원사업",
+            "추가",
+            "모집",
+            "대한뉴스통신"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "전북정보보호지원센터, 중소기업 정보보호 지원사업 수요기업 모집 - 전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS0lvTGhwZUpvSXBKMXNZYk1DZzAwMHREeGQwSWVvUmk0bk9qMEJTcXJET3BCcnhGNGVsMTRtRXFFeWd6b2xLbkQzQnJZUQ?oc=5",
           "pubDate": "2026-09-14T03:01:16.000Z",
@@ -1106,40 +1143,6 @@
             "정보보호",
             "지원사업",
             "수요기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
-          "pubDate": "2026-09-16T01:38:53.000Z",
-          "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
-          "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "지원사업",
-            "참여기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 - beSUCCESS",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ldHZrenRjWlUwWl9YSTJQQWk2WFBtdjVqUjJIMmNaUGIxcjZaaF9adXBlakRuNS1meGZUMEoyU0NGeDNwckE?oc=5",
-          "pubDate": "2026-09-16T07:11:58.000Z",
-          "image": null,
-          "summary": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 beSUCCESS",
-          "keywords": [
-            "서울테크노파크",
-            "2026",
-            "사업재편",
-            "지원사업",
-            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1163,7 +1166,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T00:14:19.385Z",
+      "fetchedAt": "2026-09-19T02:10:20.956Z",
       "error": null
     }
   },
@@ -1171,7 +1174,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 2,
       "rank": 1,
       "change": "same"
     },
@@ -1211,32 +1214,32 @@
       "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
-      "rank": 7,
-      "change": "same"
-    },
-    {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 8,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
-      "key": "claude",
-      "label": "Claude",
+      "key": "경기",
+      "label": "경기",
       "count": 2,
-      "rank": 9,
+      "rank": 8,
       "change": "new"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1317,7 +1320,7 @@
       "label": "Fundraising",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "모금 활동"
     }
   ]
