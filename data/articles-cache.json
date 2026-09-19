@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T12:12:31.425Z",
+  "collectedAt": "2026-09-19T14:09:56.045Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:23.343Z",
+      "fetchedAt": "2026-09-19T14:09:48.437Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:23.389Z",
+      "fetchedAt": "2026-09-19T14:09:48.554Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+          "pubDate": "2026-09-19T21:57:09.000Z",
+          "image": null,
+          "summary": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정(4.76%)'으로 이성주 iMBC 경영이사와 전동건 전 울산MBC 사장 중 이사회 투표를 거쳐 이성주 이사가",
+          "keywords": [
+            "AI",
+            "이슈트렌드",
+            "역대급",
+            "수출",
+            "실적"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
-          "pubDate": "2026-09-19T17:36:34.000Z",
-          "image": null,
-          "summary": "애플의 인수 검토설로 주목받은 AI 스타트업 프리즘ML(PrismML)이 한층 진화한 온디바이스 AI 압축 모델을 선보였다. 270억 매개변수급 대형언어모델(LLM)을 5.9기가바이트(GB) 수준으로 압축해 일반 PC와 노트북, 고성능 스마트폰에서도 원활하게 작동하는 신규 모델을 공개했다.캘리포니아 공과대학(Caltech) 스핀오프 기업인 프리즘ML은 지난 7월 54GB 크기의 모델을 4GB 미만으로 줄여 아이폰 17 프로에서 구동하는 데 성공하며 애플 등 빅테크의 인수 및 협력 검토 대상으로 떠오른 바 있다. 이어 17일(현지시간",
-          "keywords": [
-            "애플",
-            "인수설",
-            "프리즘ML",
-            "270억",
-            "매개변수"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:24.341Z",
+      "fetchedAt": "2026-09-19T14:09:49.587Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:24.477Z",
+      "fetchedAt": "2026-09-19T14:09:49.768Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
-          "link": "https://news.hada.io/topic?id=33939",
-          "pubDate": "2026-09-19T11:42:21.000Z",
+          "title": "Laya - Jev의 오픈소스 버전",
+          "link": "https://news.hada.io/topic?id=33944",
+          "pubDate": "2026-09-19T13:52:21.000Z",
           "image": null,
-          "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
+          "summary": "Laya는 텍스트를 생성하는 대신 구조화된 질문에 선택지, 점수, 불리언 확률을 반환하는 비자기회귀형 의사결정 모델군으로, 여러 질문을 한 번의 순전파로 처리함 양방향 인코더 기반으로 단일 GPU에서 질문 하나를 32.8ms, 질문 10개를 배치 처리할 때 질문당",
           "keywords": [
-            "AI로",
-            "생성한",
-            "포스터가",
-            "형편없을",
-            "필요는"
+            "Laya",
+            "Jev의",
+            "오픈소스",
+            "버전"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "NestJS에서 got을 편하게 쓸 수 있는 smile-nestjs-got을 만들었습니다",
-          "link": "https://news.hada.io/topic?id=33938",
-          "pubDate": "2026-09-19T11:30:18.000Z",
+          "title": "수학이 증명 이상이라면, 증명 이외의 기여도 더 높이 평가해야 한다",
+          "link": "https://news.hada.io/topic?id=33943",
+          "pubDate": "2026-09-19T13:42:21.000Z",
           "image": null,
-          "summary": "안녕하세요 NestJS를 사용하는 백엔드 개발자 여러분 NestJS에서 외부 API를 호출할 때 대부분 공식 모듈인 @nestjs/axios를 많이 사용하실 겁니다 하지만 got을 한번이라도 써보셨던 개발자라면 got이 그리워질 때가 있습니다 @nestjs/axios와 동일한 개발 경험을 제공하면서 got의 강력한 기능을...",
+          "summary": "수학의 목표가 인간의 이해를 넓히는 것이라면, 새로운 증명뿐 아니라 아이디어를 어떻게 떠올릴 수 있는지 밝혀 주는 설명에도 비슷한 수준의 학문적 인정을 부여해야 함 발상의 동기를 드러내는 설명(motivated explanation) 은 정의와 구성을 처음부터 주기보다...",
           "keywords": [
-            "NestJS에서",
-            "got을",
-            "편하게",
-            "있는",
-            "smile"
+            "수학이",
+            "증명",
+            "이상이라면",
+            "이외의",
+            "기여도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Warez: 불법 복제의 인프라와 미학 (2021)",
-          "link": "https://news.hada.io/topic?id=33937",
-          "pubDate": "2026-09-19T10:42:21.000Z",
+          "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
+          "link": "https://news.hada.io/topic?id=33942",
+          "pubDate": "2026-09-19T12:42:21.000Z",
           "image": null,
-          "summary": "Scene은 음악, 영상, 게임, 소프트웨어를 공식 판매일 전에 입수하고, 서로 먼저 무료로 배포하려 경쟁하는 전 세계 지하 불법 복제 그룹 네트워크임 Warez는 이 하위문화를 다룬 최초의 학술 연구서로, Scene이 자체적으로 생산한 문서 자료를 통해 운영 방식과 인...",
+          "summary": "GPT-6 Astra가 1918년 11월 27일 송신된 독일의 ADFGVX 무선 암호문을 해독함. 다만 최초 해독인지는 확인되지 않았으며, 알려진 선행 해독 사례가 없다는 단서가 있음 복원한 메시지는 영국 순양함의 세바스토폴 입항과 26일 연합국 함대...",
           "keywords": [
-            "Warez:",
-            "불법",
-            "복제의",
-            "인프라와",
-            "미학"
+            "GPT",
+            "Astra",
+            "제1차",
+            "세계대전",
+            "독일"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "C++26: 단순 무한 루프는 더 이상 미정의 동작이 아님",
-          "link": "https://news.hada.io/topic?id=33936",
-          "pubDate": "2026-09-19T09:42:22.000Z",
+          "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
+          "link": "https://news.hada.io/topic?id=33941",
+          "pubDate": "2026-09-19T12:39:05.000Z",
           "image": null,
-          "summary": "C++26은 while (true);처럼 조건이 항상 참이고 본문이 비어 있는 단순 무한 루프(trivial infinite loop) 의 동작을 정의하며, 컴파일러가 미정의 동작을 근거로 이를 제거할 수 없게 함 기존 전방 진행 보장(forward progress guarantee)...",
+          "summary": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레이터입니다. 설치하지 않고 웹 버전을 먼저 실행해 볼 수 있으며",
           "keywords": [
-            "C++26:",
-            "단순",
-            "무한",
-            "루프는",
-            "이상"
+            "Show",
+            "GN:",
+            "ARAM",
+            "Emulator",
+            "WIPI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "인간의 뇌는 서로 다른 두 기관, Stanford Medicine 주도 연구에서 확인",
-          "link": "https://news.hada.io/topic?id=33935",
-          "pubDate": "2026-09-19T09:42:20.000Z",
+          "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+          "link": "https://news.hada.io/topic?id=33940",
+          "pubDate": "2026-09-19T12:35:42.000Z",
           "image": null,
-          "summary": "뇌 전체가 하나의 전구세포에서 발달한다는 기존 모델과 달리, 전뇌/중뇌와 후뇌가 서로 다른 전구세포에서 시작해 독립적인 발달 경로를 따르는 것으로 나타남 생쥐 배아에서 Otx2를 발현하는 전구세포는 전뇌/중뇌로, Gbx2를 발현하는 전구세포...",
+          "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
           "keywords": [
-            "인간의",
-            "뇌는",
-            "서로",
-            "다른",
-            "기관"
+            "유닛",
+            "테스트는",
+            "버그를",
+            "잡는다기보다",
+            "영역"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:25.283Z",
+      "fetchedAt": "2026-09-19T14:09:50.429Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +535,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:25.496Z",
+      "fetchedAt": "2026-09-19T14:09:50.637Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:25.655Z",
+      "fetchedAt": "2026-09-19T14:09:50.864Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:25.745Z",
+      "fetchedAt": "2026-09-19T14:09:50.959Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:28.798Z",
+      "fetchedAt": "2026-09-19T14:09:53.620Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:28.987Z",
+      "fetchedAt": "2026-09-19T14:09:53.901Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +971,7 @@
           "summaryKo": "올해 초 Meta와의 합병을 단절해야 했던 Manus는 40억 달러의 가치 평가로 5억 달러를 모으기 위한 논의 중입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:29.041Z",
+      "fetchedAt": "2026-09-19T14:09:54.094Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:31.021Z",
+      "fetchedAt": "2026-09-19T14:09:55.493Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1131,11 +1130,11 @@
           "summaryKo": null
         },
         {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
           "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
           "keywords": [
             "경기",
             "~9/29(화)",
@@ -1165,7 +1164,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T12:12:31.416Z",
+      "fetchedAt": "2026-09-19T14:09:56.037Z",
       "error": null
     }
   },
@@ -1206,18 +1205,18 @@
       "change": "same"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "up"
+    },
+    {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "ai",
-      "count": 2,
       "rank": 7,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "ai스타트업",
