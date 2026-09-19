@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T06:12:44.345Z",
+  "collectedAt": "2026-09-19T08:10:57.492Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:33.472Z",
+      "fetchedAt": "2026-09-19T08:10:47.124Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:33.613Z",
+      "fetchedAt": "2026-09-19T08:10:47.166Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "알리바바, 보고 듣고 행동하는 옴니모달 '큐원3.8-옴니-플래시' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215481",
+          "pubDate": "2026-09-19T16:24:53.000Z",
+          "image": null,
+          "summary": "알리바바가 오디오와 비디오를 이해하는 데 그치지 않고 사용자의 지시에 따라 도구를 호출하고 작업까지 수행할 수 있는 차세대 옴니모달 모델을 공개했다. 알리바바는 18일(현지시간) 단순한 콘텐츠 인식을 넘어 작업 계획과 실행이 가능한 새로운 옴니모달 모델 ‘큐원3.8-옴니-플래시(Qwen3.8-Omni-Flash)’를 공개했다.텍스트와 이미지뿐 아니라 오디오와 비디오를 입력으로 처리하며, 최대 100만 토큰의 컨텍스트를 지원한다. 출력은 텍스트 형태로 제공되지만 함수 호출과 웹 검색, 구조화된 출력, 컨텍스트 캐싱, 배치 호출 등을",
+          "keywords": [
+            "알리바바",
+            "보고",
+            "듣고",
+            "행동하는",
+            "옴니모달"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브  2.0’ 공개...음성 전사 정확도 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+          "pubDate": "2026-09-19T15:50:11.000Z",
+          "image": null,
+          "summary": "스페이스XAI는 18일(현지시간) 음성을 텍스트로 변환하는 새로운 음성 전사 모델 ‘그록 보이스 트랜스크라이브 2.0(Grok Voice Transcribe 2.0)’을 공개했다.이를 두고 \"현재 사용 가능한 변환 모델 중 가장 정확한 모델 중 하나\"라고 강조했다. 실제 환경에서 수집한 다양한 음성 데이터를 바탕으로 전사 정확도를 크게 높였다는 설명이다.그록 보이스 트랜스크라이브 2.0은 그록 음성 기능에 사용되는 오디오 기반 모델을 바탕으로 개발됐다. 기존 '그록 보이스'는 하루 수만건의 고객지원 통화를 처리하고, 수백만 시간에",
+          "keywords": [
+            "스페이스XAI",
+            "그록",
+            "보이스",
+            "트랜스크라이브",
+            "공개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215489",
+          "pubDate": "2026-09-19T15:17:50.000Z",
+          "image": null,
+          "summary": "영국의 네오클라우드 엔스케일(Nscale)이 미국 뉴욕증권거래소(NYSE) 상장을 위한 기업공개(IPO)를 신청했다. 2024년 가상자산 채굴 인프라 기업에서 분사한 지 약 2년 만에 상장에 나선 것으로, 폭발적으로 늘어나는 AI 컴퓨팅 수요를 겨냥한 대규모 자금 조달에 나섰다.CNBC 등에 따르면, 엔스케일은 18일(현지시간) 미국 증권거래위원회(SEC)에 IPO 신청서를 제출했다.이를 통해 2026년 상반기 매출이 1억4060만달러(약 2000억원), 순손실은 10억2000만달러(약 1조4000억원)라고 밝혔다. 매출은 전년 같",
+          "keywords": [
+            "네오클라우드",
+            "엔스케일",
+            "엔비디아",
+            "지원으로",
+            "뉴욕증시"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "조비, 사람 조종 없이 미국 대륙 횡단…'최초' 완전 자율비행 성공",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215488",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "술레이만 \"오픈AI의 '셀프 프롬프트 인젝션'은 매우 심각한 상황\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215486",
-          "pubDate": "2026-09-19T11:18:18.000Z",
-          "image": null,
-          "summary": "무스타파 술레이만 마이크로소프트(MS) AI CEO가 오픈AI의 보고서에서 드러난 '셀프 프롬프트 인젝션' 현상에 대해 강한 우려를 표명했다. AI가 스스로 추론 과정과 작업 메모리를 조작해 미래 버전의 자신에게 지시를 남기는 행위가 현실화하면 인간이 시스템에 대한 통제력을 잃게 되는 위험한 결과로 이어질 수 있다는 경고다.술레이만 CEO는 18일(현지시간) CNBC의 ‘스쿼크 박스’ 인터뷰에 출연해 오픈AI가 공개한 오정렬 사례들을 \"심각한 상황\"으로 규정하며 이같이 밝혔다.그는 오픈AI의 사례는 AI의 작업 기억장치인 ‘생각의",
-          "keywords": [
-            "술레이만",
-            "오픈AI의",
-            "셀프",
-            "프롬프트",
-            "인젝션"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215484",
-          "pubDate": "2026-09-19T10:47:54.000Z",
-          "image": null,
-          "summary": "앤트로픽의 기업공개(IPO)가 임박하면서 월가 투자자들의 신중론이 확대되고 있다. 올해 연간 매출이 1000억달러(약 138조8000억원)를 돌파할 것이라는 가파른 성장 전망에 환호하면서도, 급증하는 컴퓨팅 인프라 비용으로 인해 다시 적자로 돌아설 수 있다는 우려가 커진 탓이다.뉴욕타임스(NYT)는 18일(현지시간) 소식통을 인용해 앤트로픽이 올해 말까지 연간 매출 1000억달러를 돌파할 것으로 예상된다고 보도했다. 이는 7월 기준 연간 매출 전망치였던 650억달러에서 불과 2달 만에 350억달러가 급증한 수치다. 투자자들은 이러한",
-          "keywords": [
-            "앤트로픽",
-            "IPO에",
-            "월가",
-            "신중론",
-            "1000억달러"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215482",
-          "pubDate": "2026-09-19T10:04:42.000Z",
-          "image": null,
-          "summary": "미국 캘리포니아주가 첨단 AI 모델의 비상 정지 기능인 '킬 스위치' 도입과 제3자 독립 감사 의무화를 포함한 강력한 행정명령을 발표하며 지방정부 차원의 규제 강수를 뒀다.개빈 뉴섬 캘리포니아 주지사는 18일(현지시간) AI 기술의 잠재적 위험성에 대처하고 주정부의 안전 및 보안 감독 체계를 대폭 강화하는 행정명령에 서명했다.주정부는 전담 전문가 실무 그룹을 신속하게 구성해 2달 안에 최첨단 AI 연구소에 대한 독립 평가자 배치, 안전 계획의 외부 검증, 비상시 작동하는 킬 스위치 구축 등 기술적 타당성을 담은 강화 가이드라인을 제",
-          "keywords": [
-            "캘리포니아",
-            "AI",
-            "스위치",
-            "의무화",
-            "추진"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:34.752Z",
+      "fetchedAt": "2026-09-19T08:10:48.645Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:37.056Z",
+      "fetchedAt": "2026-09-19T08:10:48.925Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Show GN: 발품 - 발품 팔아서 스크린 타임 벌어요",
+          "link": "https://news.hada.io/topic?id=33933",
+          "pubDate": "2026-09-19T07:09:21.000Z",
+          "image": null,
+          "summary": "애플워치를 쓰고 있는지는 벌써 몇 년이 되었어요. 처음에는 모두 새롭고 신기했습니다. 이렇게 정확하고 체계적으로 걸음수, 심박수, 운동시간 기록해주다니! 그런데 링을 못 채운다고 무슨 일이 일어나진 않다 보니, 애플워치를 찬다고 무슨 일이 일어나지 않더라고요 🥲 움직이기 싫어하고 밖에 잘 안",
+          "keywords": [
+            "Show",
+            "GN:",
+            "발품",
+            "팔아서",
+            "스크린"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "광자 방출로 유도한 레이저 결함 주입으로 RP2350의 보안 디버그 활성화",
           "link": "https://news.hada.io/topic?id=33931",
@@ -423,26 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
-          "link": "https://news.hada.io/topic?id=33927",
-          "pubDate": "2026-09-19T01:52:19.000Z",
-          "image": null,
-          "summary": "Raptor 3는 Raptor 1보다 추력이 약 35% 커지면서 질량과 외부 부품이 크게 줄었지만, 전유량 다단연소라는 기본 구조는 유지함 외관을 간결하게 만든 변화에는 개발용 센서 축소, 밸브 통합, 주연소실 점화기 제거, 볼트 체결부의 용접 전환 등이...",
-          "keywords": [
-            "SpaceX는",
-            "Raptor",
-            "엔진을",
-            "어떻게",
-            "간결하게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:37.898Z",
+      "fetchedAt": "2026-09-19T08:10:49.924Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +532,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:38.252Z",
+      "fetchedAt": "2026-09-19T08:10:50.075Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:38.501Z",
+      "fetchedAt": "2026-09-19T08:10:50.168Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:38.590Z",
+      "fetchedAt": "2026-09-19T08:10:50.227Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:41.418Z",
+      "fetchedAt": "2026-09-19T08:10:54.850Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:42.284Z",
+      "fetchedAt": "2026-09-19T08:10:55.096Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -968,7 +968,7 @@
           "summaryKo": "올해 초 Meta와의 합병을 단절해야 했던 Manus는 40억 달러의 가치 평가로 5억 달러를 모으기 위한 논의 중입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:42.355Z",
+      "fetchedAt": "2026-09-19T08:10:55.196Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1067,7 +1067,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:43.831Z",
+      "fetchedAt": "2026-09-19T08:10:57.001Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1075,6 +1075,40 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
+          "pubDate": "2026-09-16T11:11:00.000Z",
+          "image": null,
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "keywords": [
+            "2016년",
+            "지역",
+            "평생교육",
+            "활성화",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "신안신재생에너지재단, 청년도전지원사업 추가 모집 - 대한뉴스통신",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QWW9TTWFVSFJSZ2dlQ0tULWszVGlNbGNBNjFJbk9zTHNaUkctN0dJOWlLVGhQdUFUaFJYeHNYM2lXM25LYkc2OUpoaHNzNURMaVNVb19wVQ?oc=5",
@@ -1087,6 +1121,23 @@
             "추가",
             "모집",
             "대한뉴스통신"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
+          "pubDate": "2026-09-16T00:00:00.000Z",
+          "image": null,
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
+          "keywords": [
+            "서울테크노파크",
+            "사업재편",
+            "지원사업",
+            "참여기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1108,60 +1159,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - 와우테일",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NEdZZFZvbTlDX0lmbE9OcTlURUs4UWEyTkNlQldNWGl5YkV5aHZZU0hQektSWmVZMFM5eUMyR1FMdGNGNFpBY2pvZmtWa3M?oc=5",
-          "pubDate": "2026-09-14T04:43:08.000Z",
-          "image": null,
-          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) 와우테일",
-          "keywords": [
-            "중기부",
-            "공공데이터",
-            "할용",
-            "지원",
-            "사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 - 인천투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uUnpFbEVLRUhCVjFOaHN0X19QN2x0VVQyVGx1bUZFZWJGN2MtZjRja3pzeTRyMjh0UkVHTEZqNDAteU5PSWowODEyNHVBNTRjMFNubDdnVEN2eVBBRTZiWHJEeVhja0dmR0d2R3dfa08?oc=5",
-          "pubDate": "2026-09-16T01:22:06.000Z",
-          "image": null,
-          "summary": "인천시 신중년 지원사업, 국비지원 연장돼 ‘활로’ 찾아··· 지속가능성은 과제 인천투데이",
-          "keywords": [
-            "인천시",
-            "신중년",
-            "지원사업",
-            "국비지원",
-            "연장돼"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - 충청메시지",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVG5hbG1nSS1kaEROd2c1bVp0ZGFXMGptWE83SmsxbXAzOTl4b1BGNkNmTldkVy1JTzJLMXd5RU9qemZlNGtvOFkwbkk1NXJiM2hxMUFmalhfeHUxdi1RNEg3LUVmcEFlcFZz?oc=5",
-          "pubDate": "2026-09-16T12:03:33.000Z",
-          "image": null,
-          "summary": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 충청메시지",
-          "keywords": [
-            "충남청년센터",
-            "청년도전지원사업",
-            "단기",
-            "과정",
-            "참여자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T06:12:44.336Z",
+      "fetchedAt": "2026-09-19T08:10:57.477Z",
       "error": null
     }
   },
@@ -1171,70 +1171,70 @@
       "label": "경제",
       "count": 6,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 5,
+      "change": "same"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 6,
       "change": "up"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
       "rank": 7,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
+      "key": "경기",
+      "label": "경기",
       "count": 2,
       "rank": 8,
       "change": "new"
     },
     {
-      "key": "청년도전지원사업",
-      "label": "청년도전지원사업",
+      "key": "모집",
+      "label": "모집",
       "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "~9/29(화)",
-      "label": "~9/29(화)",
-      "count": 1,
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
