@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T18:11:24.614Z",
+  "collectedAt": "2026-09-19T20:09:52.958Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:11.298Z",
+      "fetchedAt": "2026-09-19T20:09:43.431Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:11.409Z",
+      "fetchedAt": "2026-09-19T20:09:43.530Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:12.834Z",
+      "fetchedAt": "2026-09-19T20:09:44.856Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:13.020Z",
+      "fetchedAt": "2026-09-19T20:09:45.025Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,38 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Xcode 27.1 베타 릴리스 노트",
+          "link": "https://news.hada.io/topic?id=33953",
+          "pubDate": "2026-09-19T18:42:23.000Z",
+          "image": null,
+          "summary": "Xcode 27.1 베타는 Swift 6.4와 iOS 27.1 등 각 플랫폼 SDK를 포함하며, 실행하려면 macOS Tahoe 26.6 이상이 필요함 미리보기 캔버스의 설정 재정의 선택기에 Display 그룹이 추가되어 기기의 다른 디스플레이에서 콘텐츠를 미리 볼 수 있음",
+          "keywords": [
+            "Xcode",
+            "27",
+            "베타",
+            "릴리스",
+            "노트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Microsoft, 네가 싫다",
+          "link": "https://news.hada.io/topic?id=33952",
+          "pubDate": "2026-09-19T18:42:22.000Z",
+          "image": null,
+          "summary": "대학 기관 계정으로 PowerPoint 문서를 열었지만, “이 계정으로는 Mac에서 편집할 수 없다”는 안내를 받아 편집이 막힘 대학이 Microsoft와 수십만 유로 규모로 추정되는 계약을 맺고도 Mac에서 편집하지 못하는 상황에 강한 불만을 드러냄 이러한",
+          "keywords": [
+            "Microsoft",
+            "네가",
+            "싫다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
           "link": "https://news.hada.io/topic?id=33951",
@@ -410,42 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "OpenAI는 자체 LLM으로 Jalapeño 칩을 어떻게 설계했나",
-          "link": "https://news.hada.io/topic?id=33945",
-          "pubDate": "2026-09-19T14:42:21.000Z",
-          "image": null,
-          "summary": "OpenAI는 자체 LLM으로 첫 AI 가속기 Jalapeño의 설계를 가속했으며, 초기 아키텍처 구상부터 첫 실리콘까지 20개월 미만, 첫 RTL부터 제조용 설계 확정까지 9개월이 걸림 프로젝트 기간 평균 100명 미만의 OpenAI 팀이 시스템 설계를 맡고, Broadcom",
-          "keywords": [
-            "OpenAI는",
-            "자체",
-            "LLM으로",
-            "Jalapeño",
-            "칩을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Laya - Jev의 오픈소스 버전",
-          "link": "https://news.hada.io/topic?id=33944",
-          "pubDate": "2026-09-19T13:52:21.000Z",
-          "image": null,
-          "summary": "Laya는 텍스트를 생성하는 대신 구조화된 질문에 선택지, 점수, 불리언 확률을 반환하는 비자기회귀형 의사결정 모델군으로, 여러 질문을 한 번의 순전파로 처리함 양방향 인코더 기반으로 단일 GPU에서 질문 하나를 32.8ms, 질문 10개를 배치 처리할 때 질문당",
-          "keywords": [
-            "Laya",
-            "Jev의",
-            "오픈소스",
-            "버전"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:13.779Z",
+      "fetchedAt": "2026-09-19T20:09:45.921Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:14.102Z",
+      "fetchedAt": "2026-09-19T20:09:46.202Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:14.298Z",
+      "fetchedAt": "2026-09-19T20:09:46.462Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:14.346Z",
+      "fetchedAt": "2026-09-19T20:09:46.559Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:19.704Z",
+      "fetchedAt": "2026-09-19T20:09:50.468Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:19.990Z",
+      "fetchedAt": "2026-09-19T20:09:50.728Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +971,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:20.170Z",
+      "fetchedAt": "2026-09-19T20:09:50.895Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:24.117Z",
+      "fetchedAt": "2026-09-19T20:09:52.410Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1080,11 +1079,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
           "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
           "keywords": [
             "경기",
             "~9/29(화)",
@@ -1165,7 +1164,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T18:11:24.606Z",
+      "fetchedAt": "2026-09-19T20:09:52.950Z",
       "error": null
     }
   },
@@ -1210,14 +1209,14 @@
       "label": "지원사업",
       "count": 4,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "ai스타트업",
@@ -1231,14 +1230,14 @@
       "label": "모집",
       "count": 2,
       "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "사업재편",
       "label": "사업재편",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
