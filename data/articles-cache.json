@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-19T22:09:41.845Z",
+  "collectedAt": "2026-09-20T00:14:38.317Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“집도 있고 소득도 괜찮은데 거지라고?”…4명 중 3명 노후 비상, 왜?",
+          "link": "https://www.mk.co.kr/news/economy/12157269",
+          "pubDate": "2026-09-19T23:23:14.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260918.d8a0fb00f8e540fdbdd25ae9e7b37f99_R.jpg",
+          "summary": "“당신은 중산층입니까?” 이 질문에 선뜻 “그렇다”고 답하는 사람은 많지 않다. 소득이 평균보다 높더라도 주택대출과 자녀 교육비 부담이 크면 생활에 여유가 없다고 느낀다. 수억원의..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“AI, 경제 성장시키고 사람 몫 줄일 것” … 앤트로픽의 섬뜩한 경고",
           "link": "https://www.mk.co.kr/news/economy/12156627",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“보험금 돌려주면 끝인 줄 알았는데”…보험사기 유죄, 보험계약까지 해지된다 [어쩌다 세상이]",
-          "link": "https://www.mk.co.kr/news/economy/12157058",
-          "pubDate": "2026-09-19T02:26:57.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/19/news-p.v1.20260918.ee46ca96fe1a49c387b997040967f284_R.jpeg",
-          "summary": "보험사기 유죄 확정 뒤 일부 금액 공탁 법원 “보험계약은 높은 선의·신뢰 요구” 약관에 없어도 중대한 사유 땐 해지 가능보험사기로 유죄를 받으면 편취한 보험금을 돌려주고 형사처벌을..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:34.858Z",
+      "fetchedAt": "2026-09-20T00:14:27.675Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:34.947Z",
+      "fetchedAt": "2026-09-20T00:14:27.909Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:36.056Z",
+      "fetchedAt": "2026-09-20T00:14:28.956Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:36.202Z",
+      "fetchedAt": "2026-09-20T00:14:29.148Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,87 +361,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "TIN - Postgres용 전문 검색",
-          "link": "https://news.hada.io/topic?id=33955",
-          "pubDate": "2026-09-19T21:42:22.000Z",
+          "title": "아키텍처 우주비행사들에게 겁먹지 말라 (2001)",
+          "link": "https://news.hada.io/topic?id=33963",
+          "pubDate": "2026-09-20T00:02:24.000Z",
           "image": null,
-          "summary": "PlanetScale이 Postgres 전문 검색 확장 TIN(Text INdex) 을 정식 출시함. PlanetScale의 모든 Postgres 및 Neki 데이터베이스에서 사용할 수 있음 불리언/구문/스팬 검색, 퍼지/와일드카드/정규식 매칭부터 COUNT(*)와 BM25 상위 결과 검색...",
+          "summary": "추상화를 지나치게 밀어붙이면 구체적인 문제는 사라지고, 모든 것을 포괄하지만 실제로는 아무 의미 없는 아키텍처만 남음 Napster의 매력은 P2P 구조가 아니라 노래 이름을 입력하면 곧바로 들을 수 있다는 데 있음 아키텍처 자체가 나쁘다는 것이 아니...",
           "keywords": [
-            "TIN",
-            "Postgres용",
-            "전문",
-            "검색"
+            "아키텍처",
+            "우주비행사들에게",
+            "겁먹지",
+            "말라",
+            "(2001)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "과학은 오픈 소프트웨어다",
-          "link": "https://news.hada.io/topic?id=33954",
-          "pubDate": "2026-09-19T20:42:22.000Z",
+          "title": "Waymo의 싱가포르 진출",
+          "link": "https://news.hada.io/topic?id=33962",
+          "pubDate": "2026-09-20T00:02:23.000Z",
           "image": null,
-          "summary": "현대 과학, 적어도 계산과학에서 오픈소스 소프트웨어는 과학 그 자체임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임 재현성은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고, 검...",
+          "summary": "Waymo가 싱가포르 교통부와 육상교통청과 협력해 2028년 완전 자율주행 상용 호출 서비스 출시를 준비함 초기에는 사람이 직접 운전하며 지도 작성과 검증을 진행하고, 현지 자율주행 전문 인력이 운전석에 탑승하는 단계를 거쳐 완전 무인 운행으...",
           "keywords": [
-            "과학은",
-            "오픈",
-            "소프트웨어다"
+            "Waymo의",
+            "싱가포르",
+            "진출"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Xcode 27.1 베타 릴리스 노트",
-          "link": "https://news.hada.io/topic?id=33953",
-          "pubDate": "2026-09-19T18:42:23.000Z",
+          "title": "ZX Spectrum용 그래픽 데스크톱",
+          "link": "https://news.hada.io/topic?id=33961",
+          "pubDate": "2026-09-19T23:52:24.000Z",
           "image": null,
-          "summary": "Xcode 27.1 베타는 Swift 6.4와 iOS 27.1 등 각 플랫폼 SDK를 포함하며, 실행하려면 macOS Tahoe 26.6 이상이 필요함 미리보기 캔버스의 설정 재정의 선택기에 Display 그룹이 추가되어 기기의 다른 디스플레이에서 콘텐츠를 미리 볼 수 있음",
+          "summary": "ZX Desk는 Z80 어셈블리로 작성한 ZX Spectrum 48K용 데스크톱으로, 겹치는 창과 메뉴, 메모장, 시계, 달력, 파일 관리자를 48K 안에 구현하고 실제 하드웨어에서 실행함 실측 기반 최적화로 창 드래그 처리 시간을 프레임당 69,888 T 상태 이내인 59,858 T로 줄여...",
           "keywords": [
-            "Xcode",
-            "27",
-            "베타",
-            "릴리스",
-            "노트"
+            "ZX",
+            "Spectrum용",
+            "그래픽",
+            "데스크톱"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Microsoft, 네가 싫다",
-          "link": "https://news.hada.io/topic?id=33952",
-          "pubDate": "2026-09-19T18:42:22.000Z",
+          "title": "두 신경외배엽 전구세포 계통이 병렬적으로 뇌 발달에 기여함",
+          "link": "https://news.hada.io/topic?id=33960",
+          "pubDate": "2026-09-19T23:52:23.000Z",
           "image": null,
-          "summary": "대학 기관 계정으로 PowerPoint 문서를 열었지만, “이 계정으로는 Mac에서 편집할 수 없다”는 안내를 받아 편집이 막힘 대학이 Microsoft와 수십만 유로 규모로 추정되는 계약을 맺고도 Mac에서 편집하지 못하는 상황에 강한 불만을 드러냄 이러한",
+          "summary": "사람과 여러 동물의 뇌 앞부분과 뒷부분은 기존에 생각했던 공통 기원이 아니라 서로 다른 전구세포에서 발달함 생쥐 배아에서 OTX2를 발현하는 전구세포는 전뇌와 중뇌 뉴런으로, GBX2를 발현하는 전구세포는 후뇌 뉴런으로 분화하며, 인간 세포...",
           "keywords": [
-            "Microsoft",
-            "네가",
-            "싫다"
+            "신경외배엽",
+            "전구세포",
+            "계통이",
+            "병렬적으로",
+            "발달에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
-          "link": "https://news.hada.io/topic?id=33951",
-          "pubDate": "2026-09-19T17:52:23.000Z",
+          "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
+          "link": "https://news.hada.io/topic?id=33959",
+          "pubDate": "2026-09-19T22:52:25.000Z",
           "image": null,
-          "summary": "외국 중앙은행과 정부의 미국 국채 보유액이 2026년 7월 3조 7,700억 달러로 줄었으며, 시장성 국채 잔액에서 차지하는 비중은 12.8% 로 1993년 이후 최저치를 기록함 미국의 막대한 재정적자 조달은 외국 공공부문 의존도가 낮아지는 대신, 미국...",
+          "summary": "AI 에이전트가 웹사이트를 조작하고 데이터를 추출하는 오픈소스 SDK로, Playwright와 비슷한 코드에 자연어 명령을 함께 사용할 수 있음 브라우저를 제어할 때마다 외부 스크립트와 통신하던 구조를 바꿔, 브라우저 안의 확장 프로그램에서 명령을 처리하고 여러 ...",
           "keywords": [
-            "외국",
-            "중앙은행과",
-            "정부에",
-            "매력을",
-            "잃은"
+            "Stagehand",
+            "v4",
+            "Playwright보다",
+            "2배",
+            "빠르고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:36.814Z",
+      "fetchedAt": "2026-09-20T00:14:29.781Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -531,7 +533,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:37.002Z",
+      "fetchedAt": "2026-09-20T00:14:29.965Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:37.135Z",
+      "fetchedAt": "2026-09-20T00:14:30.169Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:37.214Z",
+      "fetchedAt": "2026-09-20T00:14:30.242Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -785,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:39.597Z",
+      "fetchedAt": "2026-09-20T00:14:34.780Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -874,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:39.906Z",
+      "fetchedAt": "2026-09-20T00:14:35.660Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -968,7 +970,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:39.955Z",
+      "fetchedAt": "2026-09-20T00:14:35.708Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -976,6 +978,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[AI 시대 리더의 대화법] 똑같이 말했는데 한 사람만 움직인다…리더가 먼저 확인할 두 가지",
+          "link": "https://www.venturesquare.net/1115265/",
+          "pubDate": "2026-09-19T09:00:48.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-resize-789x422.png",
+          "summary": "같은 지시를 해도 팀원마다 받아들이고 움직이는 방식은 다르다. 배경을 먼저 이해해야 하는 사람과 구체적인 할 일이 정해져야 하는 사람에게 필요한 대화 방식도 달라진다. AI 시대에는 팀원의 업무 과정이 잘 드러나지 않는 만큼 리더가 각자의 업무 스타일을 파악하고 전달 ... The post [AI 시대 리더의 대화법] 똑같이 말했는데 한 사람만 움직인다…리더가 먼저 확인할 두 가지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI리더십",
+            "AI시대리더의대화법",
+            "리더십",
+            "리더커뮤니케이션"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "한국산업단지공단, AI·로봇 스타트업 찾는다…G밸리 창업경진대회 3200만원 시상",
           "link": "https://www.venturesquare.net/1115162/",
@@ -1047,27 +1067,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "부산창경, 스타트업 5곳 시민 실증에서 해외 바이어까지…WSCE서 84.7억원 상담",
-          "link": "https://www.venturesquare.net/1115062/",
-          "pubDate": "2026-09-18T04:15:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/WSCE-2-696x522.jpg",
-          "summary": "부산광역시와 부산창조경제혁신센터가 ‘2026 월드 스마트시티 엑스포’에서 부산지역 스타트업 5개사와 솔루션 리빙랩관을 운영했다. 참여기업들은 시민 실증을 거쳐 개선한 IoT·AI·안전·펫케어 등 스마트시티 솔루션을 국내외 시장 관계자에게 소개했다. 현장에서 총 40건,... The post 부산창경, 스타트업 5곳 시민 실증에서 해외 바이어까지…WSCE서 84.7억원 상담 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "LMSS",
-            "WSCE2026",
-            "김용우",
-            "더페이스",
-            "부산스타트업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:41.366Z",
+      "fetchedAt": "2026-09-20T00:14:37.807Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1110,11 +1112,28 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
-          "pubDate": "2026-09-16T00:00:00.000Z",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
+          "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
+          "keywords": [
+            "경기",
+            "~9/29(화)",
+            "성남시",
+            "청년",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
+          "pubDate": "2026-09-16T01:38:53.000Z",
+          "image": null,
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1142,26 +1161,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "서울테크노파크, 사업재편 승인 컨설팅 받을 기업 모집 - 플래텀(Platum)",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQU5CVW83RFRJTl9qQkpJcXpiVTNmSTBRVzFGYmVPWFBBNDJiOWp6ak9CYm5OdTdrOGR5Sm5DTzU2TzZ1TGpwOQ?oc=5",
-          "pubDate": "2026-09-16T05:13:16.000Z",
-          "image": null,
-          "summary": "서울테크노파크, 사업재편 승인 컨설팅 받을 기업 모집 플래텀(Platum)",
-          "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "승인",
-            "컨설팅",
-            "받을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-19T22:09:41.835Z",
+      "fetchedAt": "2026-09-20T00:14:38.310Z",
       "error": null
     }
   },
@@ -1202,36 +1204,36 @@
       "change": "same"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 4,
       "rank": 6,
       "change": "up"
     },
     {
-      "key": "사업재편",
-      "label": "사업재편",
+      "key": "ai",
+      "label": "AI",
       "count": 3,
       "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "서울테크노파크",
-      "label": "서울테크노파크",
-      "count": 3,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 9,
       "change": "down"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
+      "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "경기",
+      "label": "경기",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "사업재편",
+      "label": "사업재편",
       "count": 2,
       "rank": 10,
       "change": "down"
