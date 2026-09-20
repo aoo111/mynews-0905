@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T06:13:08.145Z",
+  "collectedAt": "2026-09-20T08:10:42.202Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "삼전닉스 실적에 국가재정 ‘널뛰기’… 내년 법인세 비중 37%",
+          "link": "https://www.mk.co.kr/news/economy/12157421",
+          "pubDate": "2026-09-20T08:10:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260430.44f850b7f2ea4e5ea35b888ec7b3eac5_R.png",
+          "summary": "내년 법인세 216.7조 전망 2017년 보다 3.7배 증가할듯 법인세 변동성 총국세의 두 배 삼성·SK등 소수 기업 의존 높아 부가세등 안정적 기반 확보 시급반도체 호황에 힘..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘추석 연휴’ 고속도로 통행료 면제…일평균 통행량 12% 증가한 605만대 전망",
+          "link": "https://www.mk.co.kr/news/economy/12157432",
+          "pubDate": "2026-09-20T06:48:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20251008.38ad44cd1c6945c4b9f7f267c700c0c8_R.jpg",
+          "summary": "국토교통부, 특별교통대책기간 지정 추석 일평균 통행량 11.8% 늘듯 4일간 고속도로 통행료 면제하고 고속도로 기름값은 100원 인하 출국장은 최대 30분 조기 오픈정부가 추석 연..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 일손 달리는 근로감독관 ... 중대재해사건 1명이 4건씩 떠안아",
+          "link": "https://www.mk.co.kr/news/economy/12157431",
+          "pubDate": "2026-09-20T06:42:27.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260920.c2a27c14f0934c4089c53e3565cde6bf_R.png",
+          "summary": "김소희 국민의힘 의원실 분석 경영자 책임 확인 등 범위 방대 시행후 미처리 비율 55.1% 달해중대산업재해 수사를 담당하는 근로감독관 1명이 평균 4건의 중대재해처벌법 사건을 떠안..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "노동부, 반도체 사업장 ‘안전 불감증’ 집중단속 ... 위반 딱지 절반이 SK하이닉스",
+          "link": "https://www.mk.co.kr/news/economy/12157428",
+          "pubDate": "2026-09-20T06:33:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20250424.1ba7262a82824ab1b4ff632129309269_R.png",
+          "summary": "적발된 338건 중 SK하이닉스가 절반 화재위험등 안전 위반 28건 사법처리 위법 사업장 과태료 1억1200만원 부과 작업절차 미준수 이천캠은 도급승인 취소 류현철 “최고수준 안전..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "NH농협생명, 추석 맞아 700명에게 ‘송편 나눔’",
           "link": "https://www.mk.co.kr/news/economy/12157417",
           "pubDate": "2026-09-20T06:02:52.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "연체율 44%, 저신용 자영업자의 위기",
-          "link": "https://www.mk.co.kr/news/economy/12157369",
-          "pubDate": "2026-09-20T04:08:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260920.bd5677d621154f2e83a8d27f7f9e2f3d_R.png",
-          "summary": "5대은행 개인사업자 대출 10등급 차주 연체율 8개월 만 6%P 올라 7~9등급 전반적 상승최저 신용등급 자영업자의 대출 연체율이 44%를 넘어서는 등 개인사업자 위기가 심화하..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“환전 몇푼 챙기려다” 돈세탁 연루…“명절선물 문자 눌렀다가” 피싱 당해",
-          "link": "https://www.mk.co.kr/news/economy/12157368",
-          "pubDate": "2026-09-20T04:06:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260918.141bc19a3e9e4362ae1fc15e6fbda081_R.png",
-          "summary": "온라인 중고 플랫폼 환전상 주의보 추석선물 배송 미끼 스미싱도 기승 정보유출 보상 빙자한 사기도 주의추석 연휴에 해외여행을 다녀온 뒤 남은 외화를 온라인 중고플랫폼에서 거래한다면 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“똑같이 1시간 고장 나도 위험은 다르다”…항행시설 장애평가 확 바꾼다",
-          "link": "https://www.mk.co.kr/news/economy/12157347",
-          "pubDate": "2026-09-20T02:18:06.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260716.c35d75e094e24b729a1900e3fffc9261_R.jpg",
-          "summary": "시설 중요도·운항 영향 등 반영 ‘가중 장애시간’ 도입도 검토국토교통부가 레이더와 계기착륙시설 등 항행안전시설의 장애 관리방식을 시설별 중요도와 운항 영향에 따라 차등화한다. 18..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“신규 회원 늘리려 개인정보 19만건 넘겼다”…진화하는 카드 모집 불법영업",
-          "link": "https://www.mk.co.kr/news/economy/12157345",
-          "pubDate": "2026-09-20T02:17:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/20/rcv.YNA.20260728.PYH2026072808460001300_R.jpg",
-          "summary": "5년간 모집인 제재 확정분 분석 경품 살포에서 개인정보 악용으로과거 주로 현금·경품 제공 등으로 나타났던 카드모집인의 불법영업이 최근에는 개인정보 유출이라는 신종 수법으로 진화하고..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:53.957Z",
+      "fetchedAt": "2026-09-20T08:10:30.853Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:54.187Z",
+      "fetchedAt": "2026-09-20T08:10:30.899Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215504",
+          "pubDate": "2026-09-20T16:58:04.000Z",
+          "image": null,
+          "summary": "앤트로픽이 가상 시뮬레이션을 넘어 물리적 생물학 연구를 직접 수행하기 위해 샌프란시스코 베이 지역에 자체 연구소를 조용히 설립했다. 앤트로픽은 18일(현지시간) 로이터를 통해 희귀 질환 치료제 개발과 생명과학 분야 AI 기술 적용을 가속하기 위해 실제 습식 연구소(Wet Lab)를 운영 중이라고 확인했다.이는 기존 건식 연구소(Dry Lab) 기반의 데이터 분석을 넘어 클로드가 최소한의 인간 개입으로 실험실 내 로봇 장비를 직접 제어해 과학 실험을 수행하는 생물학 자동화 기술을 검증하기 위한 것이다. 앤트로픽의 생명과학 부문 책임자",
+          "keywords": [
+            "앤트로픽",
+            "자체",
+            "생물학",
+            "연구소",
+            "설립"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중국, 앤트로픽 겨냥 “미 정보기관에 사용자 데이터 넘길 수도”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215495",
+          "pubDate": "2026-09-20T16:00:24.000Z",
+          "image": null,
+          "summary": "앤트로픽의 개인정보 보호정책 개정으로 사용자 데이터가 미국 정보기관에 공유될 위험이 커졌다는 중국 측 주장이 나왔다.블룸버그에 따르면, 관영매체인 중국중앙TV(CCTV) 계열 소셜미디어 계정 위위안탄톈은 19일(현지시간) 게시물을 통해 앤트로픽이 필요하다고 판단할 경우 법적 절차 없이 사용자 정보를 미국 정보기관과 공유할 수 있도록 개인정보 정책을 변경했다고 주장했다.위위안탄톈에 따르면 앤트로픽은 2023년 이후 개인정보 보호정책을 13차례 개정했다. 이 과정에서 캐나다와 브라질, 한국, 유럽연합(EU) 사용자의 데이터를 미국으로",
+          "keywords": [
+            "중국",
+            "앤트로픽",
+            "겨냥",
+            "정보기관에",
+            "사용자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "젠슨 황, AI 종말론 또 일축... \"2030년 세계 끝날 확률 0%\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215496",
+          "pubDate": "2026-09-20T15:31:42.000Z",
+          "image": null,
+          "summary": "젠슨 황 엔비디아 CEO가 AI로 인해 인류가 멸종하거나 2030년 세계가 끝날 가능성은 없다고 다시 한번 강조했다. 최근 AI 업계 일각에서 제기된 종말론적 우려에 대해 거듭 강하게 반박한 것이다.황 CEO는 18일(현지시간) CBS 뉴스의 '선데이 모닝' 인터뷰에서 AI가 초래할 수 있는 종말론적 시나리오와 관련해 “어떻게 표현하든 2030년이 세계의 종말이 되는 일은 없을 것”이라며 “세계가 끝날 가능성은 0%”라고 말했다.이번 인터뷰는 앤트로픽 출신 연구진이 \"AI를 만드는 사람들은 이번 10년이 끝날 때까지(by the e",
+          "keywords": [
+            "젠슨",
+            "AI",
+            "종말론",
+            "일축",
+            "2030년"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215497",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215502",
-          "pubDate": "2026-09-20T11:09:22.000Z",
-          "image": null,
-          "summary": "주요 AI 기업들이 안전 확보를 명목으로 제시한 '개발 속도 조절' 구상이 반독점법 위반 논란에 휩싸였다. 안전장치 마련을 위한 업계 자율 협력을 선언한 지 불과 일주일 만에 소비자들로부터 담합 혐의로 고소를 당했다.AP와 CBS 뉴스 등에 따르면, 18일(현지시간) 미국 캘리포니아 북부 지방법원에는 챗GPT와 클로드, 제미나이, 그록 등 주요 AI 서비스의 유료 구독자 4명이 소장을 제출했다. 이들은 미국의 유료 구독자들을 대표해 앤트로픽과 오픈AI, 구글, 스페이스XAI를 상대로 집단소송을 제기했다. 원고 측은 이들 기업이 모델",
-          "keywords": [
-            "안전",
-            "핑계",
-            "대고",
-            "밀실",
-            "담합"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"AI 환각에 중국과 충돌할 뻔\"…미군, 정보 오류에 ‘식은땀’",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215501",
-          "pubDate": "2026-09-20T10:34:03.000Z",
-          "image": null,
-          "summary": "미군이 AI의 잘못된 분석 결과를 바탕으로 중국 선박을 차단하려다 직전에 철회하는 사건이 발생했다.18일(현지시간) CNN에 따르면, 올봄 이란과의 전쟁이 한창이던 당시 중동에 있 중국 선박이 핵무기 개발 프로그램 부품을 운반 중이라는 정보 보고서가 미군 지휘부 전반에 배포됐다.보고서를 접한 미군은 즉시 작전에 착수했다. 무장한 미군 병력이 선박 승선을 준비하고 상공에는 군용기까지 출격하는 등 긴장감이 최고조에 달했다.그러나 작전 개시 직전, 보고서를 재검토하는 과정에서 치명적인 오류가 발견됐다. 해당 보고서는 하와이 본부의 태평양",
-          "keywords": [
-            "AI",
-            "환각에",
-            "중국과",
-            "충돌할",
-            "미군"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215500",
-          "pubDate": "2026-09-20T10:03:18.000Z",
-          "image": null,
-          "summary": "오픈AI가 오는 2030년까지 수천억달러에 달하는 현금을 소진, 2028년에는 보유한 자금이 모두 떨어질 것이라는 전망이 나왔다. 경쟁사인 앤트로픽도 가파른 매출 성장세 뒤에 감춰진 인프라 비용 폭증과 적자 전환 우려로 기업공개(IPO)를 앞두고 월가의 신중론에 직면하는 등 양대 프런티어 AI 기업의 재무적 부담이 만만치 않은 상황이다.파이낸셜 타임스(FT)는 19일(현지시간) 비공개 투자자 발표 자료를 입수, 오픈AI가 2026년부터 2030년까지 5년간 2780억달러(약 386조원)에 달하는 마이너스 잉여현금흐름을 기록할 것으로",
-          "keywords": [
-            "오픈AI",
-            "2030년까지",
-            "386조",
-            "소진",
-            "컴퓨팅"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:55.431Z",
+      "fetchedAt": "2026-09-20T08:10:32.071Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:55.681Z",
+      "fetchedAt": "2026-09-20T08:10:32.198Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Cache-to-Cache: LLM 간 직접 의미 전달 (2025)",
-          "link": "https://news.hada.io/topic?id=33983",
-          "pubDate": "2026-09-20T05:52:25.000Z",
+          "title": "Show GN: 이번 주말 - 온톨로지 기반 이벤트 지도",
+          "link": "https://news.hada.io/topic?id=33989",
+          "pubDate": "2026-09-20T07:58:55.000Z",
           "image": null,
-          "summary": "Cache-to-Cache(C2C) 는 여러 LLM이 중간 텍스트 대신 KV-Cache를 교환해 각 모델의 의미 정보를 직접 전달하는 통신 방식임 기존 텍스트 기반 통신(T2T) 은 고차원 내부 표현을 문자열로 압축하면서 정보를 잃고, 자연어의 모호성과 토큰 단위 순차 생성 지연을 수...",
+          "summary": "말은 온톨로지라고 거창하게 썼지만, 사실은 그냥 neo4j 활용한게 다인 행사 지도입니다. 주말마다 와이프랑 어디 가야할지 고민하는게 슬슬 힘들어져서 만들고 있어요. 기능으로는 아래와 같습니다. 아무 노드 클릭 시 연결된 장소, 지역, 행사 종류 노드를 엣지로 연결 지역 노",
           "keywords": [
-            "Cache",
-            "to",
-            "Cache:",
-            "LLM",
-            "직접"
+            "Show",
+            "GN:",
+            "주말",
+            "온톨로지",
+            "기반"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
-          "link": "https://news.hada.io/topic?id=33982",
-          "pubDate": "2026-09-20T05:52:24.000Z",
+          "title": "Chrono Trigger의 Dream Devourer는 정수 오버플로로 쓰러뜨릴 수 있음",
+          "link": "https://news.hada.io/topic?id=33988",
+          "pubDate": "2026-09-20T07:42:25.000Z",
           "image": null,
-          "summary": "modern-fs-benchmark는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지...",
+          "summary": "Dream Devourer는 HP가 32,000으로, 피해를 주는 대신 회복시켜 정수 오버플로를 일으키는 방식으로도 쓰러뜨릴 수 있음 두 번째 전투 단계에서 보스가 흡수하는 강력한 마법을 사용해 HP를 일시적으로 32,767 초과로 올리면, 부호 있는 16비트 정...",
           "keywords": [
-            "기존",
-            "벤치마크가",
-            "놓치는",
-            "워크로드에서의",
-            "Btrfs/ZFS/bcachefs"
+            "Chrono",
+            "Trigger의",
+            "Dream",
+            "Devourer는",
+            "정수"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
-          "link": "https://news.hada.io/topic?id=33981",
-          "pubDate": "2026-09-20T05:42:24.000Z",
+          "title": "RSA-896",
+          "link": "https://news.hada.io/topic?id=33987",
+          "pubDate": "2026-09-20T07:42:24.000Z",
           "image": null,
-          "summary": "Apple M6 Pro가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점, 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz로 등록됨 코어 클러스터는 6코어와 12코어로 나뉘며, 시...",
+          "summary": "RSA-896을 소인수분해했다는 결과가 공개됨 대상은 RSA 챌린지 수인 RSA-896임 소인수분해에는 Claude를 사용했다고 함 작업 날짜는 2026년 9월 19일임 RSA-896의 전체 값과 두 인수 p, q...",
           "keywords": [
-            "Apple",
-            "M6",
-            "Pro",
-            "Geekbench",
-            "7에서"
+            "RSA",
+            "896"
+          ],
+          "isForeign": true,
+          "titleKo": "RSA-896",
+          "summaryKo": "RSA-896 을 소인수분해했다는 결과가 공개됨 대상은 RSA-896 챌린지 수인 임 소인수분해에는 Claude를 사용했다고 함 작업 날짜는 2026년 9월 19일임 RSA-896의 전체 값과 두 인수 p, q..."
+        },
+        {
+          "title": "경쟁 해자와 진입 장벽에 관하여",
+          "link": "https://news.hada.io/topic?id=33986",
+          "pubDate": "2026-09-20T06:42:24.000Z",
+          "image": null,
+          "summary": "AI로 비슷한 제품을 만들기는 쉬워져도 기존 고객을 데려오기까지 쉬워지는 것은 아님. 시장 진입 장벽이 낮아지는 것과 경쟁 해자가 사라지는 것은 서로 다른 문제임 개인용 AI 에이전트에 작업, 선호도와 계정 정보를 쌓을수록 다른 제품으로 옮기는 수고도 커짐...",
+          "keywords": [
+            "경쟁",
+            "해자와",
+            "진입",
+            "장벽에",
+            "관하여"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "인터넷 검열 측정하기",
-          "link": "https://news.hada.io/topic?id=33979",
-          "pubDate": "2026-09-20T04:32:23.000Z",
+          "title": "Show GN: konfirm - kubectl context 지정 실수 방지를 위한 cli",
+          "link": "https://news.hada.io/topic?id=33985",
+          "pubDate": "2026-09-20T06:38:45.000Z",
           "image": null,
-          "summary": "OONI Probe로 자국에서 차단된 웹사이트를 확인하고, 세계 최대의 인터넷 검열 공개 데이터셋에 기여할 수 있음 WhatsApp, Facebook Messenger, Telegram의 차단 여부와 네트워크에서 검열 우회 도구가 작동하는지 테스트할 수 있음 M-Lab",
+          "summary": "여러 kubernetes 컨텍스트를 오가면서 작업할 때, 실수가 발생하지 않도록 명령 실행 전 대상 컨텍스트를 확인할 수 있도록 만든 도구입니다. kubectl get, describe 등 대상 컨텍스트 확인 필요가 없다고 생각되는 하위 kubectl 명령어에 대해 컨텍스트 별 allowlist를 지정해 관리할 수 있습니다. 내",
           "keywords": [
-            "인터넷",
-            "검열",
-            "측정하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
-          "link": "https://news.hada.io/topic?id=33978",
-          "pubDate": "2026-09-20T04:22:23.000Z",
-          "image": null,
-          "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고, 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
-          "keywords": [
-            "Jev",
-            "활용",
-            "가이드",
-            "빠른",
-            "AI"
+            "Show",
+            "GN:",
+            "konfirm",
+            "kubectl",
+            "context"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:56.806Z",
+      "fetchedAt": "2026-09-20T08:10:34.528Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +533,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:57.137Z",
+      "fetchedAt": "2026-09-20T08:10:34.709Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:57.507Z",
+      "fetchedAt": "2026-09-20T08:10:34.871Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T06:12:57.579Z",
+      "fetchedAt": "2026-09-20T08:10:34.904Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:13:04.518Z",
+      "fetchedAt": "2026-09-20T08:10:39.001Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:13:04.924Z",
+      "fetchedAt": "2026-09-20T08:10:39.250Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -971,7 +970,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-20T06:13:05.155Z",
+      "fetchedAt": "2026-09-20T08:10:39.369Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:13:07.111Z",
+      "fetchedAt": "2026-09-20T08:10:41.772Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1147,24 +1146,24 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - 와우테일",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NEdZZFZvbTlDX0lmbE9OcTlURUs4UWEyTkNlQldNWGl5YkV5aHZZU0hQektSWmVZMFM5eUMyR1FMdGNGNFpBY2pvZmtWa3M?oc=5",
-          "pubDate": "2026-09-14T04:43:08.000Z",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
+          "pubDate": "2026-07-23T07:00:00.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) 와우테일",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
-            "중기부",
-            "공공데이터",
-            "할용",
-            "지원",
-            "사업"
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T06:13:08.138Z",
+      "fetchedAt": "2026-09-20T08:10:42.195Z",
       "error": null
     }
   },
@@ -1177,64 +1176,64 @@
       "change": "same"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
+      "key": "gn:",
+      "label": "GN:",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "show",
+      "label": "Show",
       "count": 2,
       "rank": 9,
-      "change": "same"
+      "change": "new"
     },
     {
-      "key": "지원",
-      "label": "지원",
+      "key": "경기",
+      "label": "경기",
       "count": 2,
       "rank": 10,
       "change": "new"
