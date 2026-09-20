@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T14:09:59.082Z",
+  "collectedAt": "2026-09-20T16:10:39.949Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:50.094Z",
+      "fetchedAt": "2026-09-20T16:10:24.315Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:50.212Z",
+      "fetchedAt": "2026-09-20T16:10:24.402Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:51.681Z",
+      "fetchedAt": "2026-09-20T16:10:25.663Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:51.854Z",
+      "fetchedAt": "2026-09-20T16:10:25.849Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "다른 언어를 배우는 것이 뇌 건강을 유지하는 가장 좋은 방법 중 하나일 수 있음",
-          "link": "https://news.hada.io/topic?id=34001",
-          "pubDate": "2026-09-20T13:42:26.000Z",
+          "title": "Show GN: My Best Photo - 사진 후보를 비교 평가하고 선택 이유를 확인하는 서비스",
+          "link": "https://news.hada.io/topic?id=34007",
+          "pubDate": "2026-09-20T15:52:34.000Z",
           "image": null,
-          "summary": "언어 학습은 기억, 소리 구별, 규칙 파악, 표현 인출을 동시에 요구하는 복합적인 정신 활동으로, 고령자를 포함한 성인의 인지 기능에 도움이 될 수 있음 두 언어를 관리하며 주의력과 인지 통제력을 지속적으로 사용하는 과정은 노화나 뇌 손상에도 인지 기능을 유지하는 ...",
+          "summary": "제가 직접 만든 사진 비교·평가 웹서비스입니다. 후보 사진을 올리면 다른 사용자들이 두 장씩 비교하고, 등록한 사람은 선택 비율과 선택 이유를 확인할 수 있습니다. 프로필·일상·여행·반려동물 사진처럼 여러 후보 중 한 장을 고를 때 활용하도록 만들었습니다. 홈에서 실제 동작을 설명하는 예시",
           "keywords": [
-            "다른",
-            "언어를",
-            "배우는",
-            "것이",
-            "건강을"
+            "Show",
+            "GN:",
+            "My",
+            "Best",
+            "Photo"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI와 창작 공유지의 파괴",
-          "link": "https://news.hada.io/topic?id=34000",
-          "pubDate": "2026-09-20T13:42:25.000Z",
+          "title": "Step 5 Preview: 파레토 경계 확장",
+          "link": "https://news.hada.io/topic?id=34006",
+          "pubDate": "2026-09-20T15:52:28.000Z",
           "image": null,
-          "summary": "LLM의 무차별적인 온라인 콘텐츠 수집은 저작권과 라이선스를 통해 유지해 온 개방과 보호의 균형을 깨뜨리고 있음 카피레프트는 파생 저작물에도 원래의 권리를 이어가도록 요구하지만, LLM의 결과물이 이를 지키는지는 불확실하고 법적 강제 의지도 거의 보이지 ...",
+          "summary": "StepFun이 에이전트 작업용 플래그십 모델 Step 5 Preview를 공개함. 소프트웨어 엔지니어링과 전문 지식 업무, 특히 금융에 초점을 맞췄으며, 비슷한 지능 수준의 모델보다 작업 비용이 상당히 낮다고 밝힘 희소 MoE 구조로 전체 파라미터 6,000억 개 중 토큰당 2...",
           "keywords": [
-            "AI와",
-            "창작",
-            "공유지의",
-            "파괴"
+            "Step",
+            "Preview:",
+            "파레토",
+            "경계",
+            "확장"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "StepFun, 차세대 플래그십 AI 모델 Step 5 Preview 공개",
-          "link": "https://news.hada.io/topic?id=33999",
-          "pubDate": "2026-09-20T13:30:42.000Z",
+          "title": "채팅 기반 대규모 언어 모델은 심령술사 사기의 작동 방식을 재현한다",
+          "link": "https://news.hada.io/topic?id=34005",
+          "pubDate": "2026-09-20T15:52:27.000Z",
           "image": null,
-          "summary": "StepFun이 소프트웨어 엔지니어링과 금융 전문 업무에 특화한 차세대 플래그십 모델 Step 5 Preview를 공개하고 오는 10월 15일 가중치를 배포한다. 전문 번역 StepFun이 파레토 프론티어를 한 단계 넓힌 차세대 플래그십 모델 Step 5 Preview를 선보인다. 이 모델은 지능",
+          "summary": "LLMentalist 효과는 챗봇에서 느끼는 지능이 모델 내부의 사고가 아니라, 통계적으로 그럴듯한 답변에서 개인적 의미를 찾는 사용자의 심리에서 비롯된다는 가설임 핵심 연결고리는 심령술사의 콜드 리딩(cold reading) 과 주관적 타당화임. 일반...",
           "keywords": [
-            "StepFun",
-            "차세대",
-            "플래그십",
-            "AI",
-            "모델"
+            "채팅",
+            "기반",
+            "대규모",
+            "언어",
+            "모델은"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "영어 6글자 단어 313개를 전수 집계해보니: 48%가 같은 글자를 반복한다",
-          "link": "https://news.hada.io/topic?id=33998",
-          "pubDate": "2026-09-20T12:55:51.000Z",
+          "title": "Qwen-Image-2.1, 소형 고효율 통합 이미지 생성 모델",
+          "link": "https://news.hada.io/topic?id=34004",
+          "pubDate": "2026-09-20T15:52:25.000Z",
           "image": null,
-          "summary": "직접 만든 단어 게임의 6글자 정답 313개(글자 1,878개)를 전수 집계해봤습니다. 153개(48%)가 같은 글자를 2번 이상 씁니다. 초반에 서로 다른 글자만 채워 넣는 일반적인 전략과 정면으로 어긋납니다. 네 자리를 맞춰놓고 남은 두 칸에 새 글자가 안 들어갈 때, 답은 대개 이미 가진 글자를 한 번 더",
+          "summary": "Qwen-Image-2.1이 오픈소스로 공개됨. 시각 생성 구성 요소가 7B 파라미터인 단일 모델에 텍스트 기반 이미지 생성과 이미지 편집을 통합함 혼합 세분도 어텐션과 KV 캐시 재사용으로 추론 효율을 높이고 메모리 사용량을 줄이며...",
           "keywords": [
-            "영어",
-            "6글자",
-            "단어",
-            "313개를",
-            "전수"
+            "Qwen",
+            "Image",
+            "소형",
+            "고효율",
+            "통합"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "블랙홀인가, 블랙홀 별인가? ‘작은 붉은 점’을 둘러싼 천문학자들의 논쟁",
-          "link": "https://news.hada.io/topic?id=33997",
-          "pubDate": "2026-09-20T12:52:25.000Z",
+          "title": "Show GN: AutoRAG Agent - 컴퓨터에 있는 모든 것을 검색해주는 에이전트 (파일, 메신저 대화 기록, 이메일, 노션...",
+          "link": "https://news.hada.io/topic?id=34003",
+          "pubDate": "2026-09-20T15:03:37.000Z",
           "image": null,
-          "summary": "James Webb 우주망원경이 관측한 작은 붉은 점 가운데 특히 붉은 두 천체가, 중심에 블랙홀을 품은 거대한 수소 천체인 블랙홀 별일 수 있다는 가설이 나옴 두 천체는 은하에 필적하는 밝기를 내면서도 약 5,000K의 항성 표면을 닮은 스펙트럼을 ...",
+          "summary": "AutoRAG는 RAG 자동 최적화 프레임워크였으나, 에이전트 시대 고정된 하나의 RAG 파이프라인을 찾는 것보다는 진정한 RAG 에이전트 구축에 필요성을 느낌 이에 AutoRAG 팀과 RAG 전문회사 브레인크루, 투이컨설팅이 컨소시엄을 이루어 'AutoRAG Agent'를 개발함 AutoRAG Agent는 사용자의 컴...",
           "keywords": [
-            "블랙홀인가",
-            "블랙홀",
-            "별인가",
-            "작은",
-            "붉은"
+            "Show",
+            "GN:",
+            "AutoRAG",
+            "Agent",
+            "컴퓨터에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:52.751Z",
+      "fetchedAt": "2026-09-20T16:10:26.568Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +536,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:53.044Z",
+      "fetchedAt": "2026-09-20T16:10:26.728Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:53.214Z",
+      "fetchedAt": "2026-09-20T16:10:26.933Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:53.268Z",
+      "fetchedAt": "2026-09-20T16:10:26.967Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:56.545Z",
+      "fetchedAt": "2026-09-20T16:10:30.412Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:56.827Z",
+      "fetchedAt": "2026-09-20T16:10:30.678Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,11 +887,45 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "A small but growing number of founders are betting on bringing people together offline",
+          "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+          "pubDate": "2026-09-20T15:00:00.000Z",
+          "image": null,
+          "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. […]",
+          "keywords": [
+            "Startups",
+            "Tristan Walker",
+            "board",
+            "Brynn Putnam"
+          ],
+          "isForeign": true,
+          "titleKo": "작지만 점점 더 많은 창업자들이 오프라인에서 사람들을 모으는 것에 베팅하고 있습니다.",
+          "summaryKo": "브린 퍼트넘 (Brynn Putnam) 과 트리스탄 워커 (Tristan Walker) 는 이미 대부분의 창업자들이 꿈꾸는 일을 해냈습니다. 더 큰 의상이 그들을 샀을 정도로 설득력 있는 회사를 만들었습니다. 퍼트넘, 부티크 스튜디오의 작은 체인과 훈련 발레리나, 연결 피트니스 회사 거울을 구축하고 3 년 미만 현금 5 억 달러에 룰루레몬에 판매했다. […]"
+        },
+        {
+          "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-20T14:00:00.000Z",
+          "image": null,
+          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Fintech",
+            "Fundraising",
+            "Robotics",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026에서 앞서나갈 수 있는 시간이 6일 남았습니다",
+          "summaryKo": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 6일 후에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요."
+        },
+        {
           "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
           "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
           "pubDate": "2026-09-19T14:00:00.000Z",
           "image": null,
-          "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+          "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
           "keywords": [
             "AI",
             "Biotech & Health",
@@ -936,42 +971,9 @@
           "isForeign": true,
           "titleKo": "Y Combinator insurance tech alum Angle Health hits $ 27억 밸류에이션",
           "summaryKo": "Angle Health는 5,000명의 고객으로 성장했으며 중소기업이 \"레벨 펀딩\" 건강 보험에 가입할 수 있도록 지원하여 수익성을 높였습니다."
-        },
-        {
-          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-          "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-          "pubDate": "2026-09-18T18:49:30.000Z",
-          "image": null,
-          "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "typesafe"
-          ],
-          "isForeign": true,
-          "titleKo": "ChatGPT 발명가의 새로운 종류의 AI 모델이 개발자들을 흥분시키고 있습니다.",
-          "summaryKo": "새로운 종류의 AI 모델인 Jev는 개발자들에게 소프트웨어 인텔리전스로 가는 더 저렴하고 빠른 길을 보여주고 있습니다."
-        },
-        {
-          "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-          "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-          "pubDate": "2026-09-18T17:06:32.000Z",
-          "image": null,
-          "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]",
-          "keywords": [
-            "AI",
-            "Startups",
-            "ai safety",
-            "Anthropic",
-            "Automattic",
-            "Equity podcast"
-          ],
-          "isForeign": true,
-          "titleKo": "오토매틱의 33시간 쿠데타, 인공지능 실험실 스스로 경찰이 될 수 있을까?",
-          "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:56.991Z",
+      "fetchedAt": "2026-09-20T16:10:35.011Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:58.566Z",
+      "fetchedAt": "2026-09-20T16:10:38.111Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1096,6 +1098,23 @@
           "summaryKo": null
         },
         {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
+          "pubDate": "2026-09-16T00:03:21.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
           "pubDate": "2026-09-18T06:23:20.000Z",
@@ -1107,23 +1126,6 @@
             "성남시",
             "청년",
             "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대전시 임산부 친환경농산물 지원…630명 추가 모집 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS3NSUWp5NGlCa3pPbjI4VVBkNklVNS1LOGtVLWp0U2d6ZWFRS2N4TzZ3M3A5aUxqRXBoVEV2X25fVTVUcTZTNnNYUWpsa0E?oc=5",
-          "pubDate": "2026-09-20T04:45:29.000Z",
-          "image": null,
-          "summary": "대전시 임산부 친환경농산물 지원…630명 추가 모집 v.daum.net",
-          "keywords": [
-            "대전시",
-            "임산부",
-            "친환경농산물",
-            "지원",
-            "630명"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1147,24 +1149,24 @@
           "summaryKo": null
         },
         {
-          "title": "KB금융-중진공, ‘중소기업 산업안전 구축 지원사업’ 참여기업 모집 - 동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLW1GMk4wQzdPNW4zQ194YUx6cEt2Z0Q2OTcyVlRLckNaSEtrT3NENk9RZkpEZnE4UUhWQ1I0YmtDZDdnT0hwV0QwQUdUY1cxd3JKX3JtRFRiWVJrTEYzZGl2WWpNa2dKTkNHRU4xZ05Xb283LXfSAWZBVV95cUxQN3pjUml0OUtoYjdXVWJIWkgtX2QyUDEybUpDN09nd0JmR215cklqRUNMV2htU0dRUnVSbk54ZHhNS2dHb0dVUlE3ajFiQjdYQVRJVXJpQWx4Yl9TN01xcTZTdGZ0ZWc?oc=5",
-          "pubDate": "2026-08-27T07:00:00.000Z",
+          "title": "대전시 임산부 친환경농산물 지원…630명 추가 모집 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS3NSUWp5NGlCa3pPbjI4VVBkNklVNS1LOGtVLWp0U2d6ZWFRS2N4TzZ3M3A5aUxqRXBoVEV2X25fVTVUcTZTNnNYUWpsa0E?oc=5",
+          "pubDate": "2026-09-20T04:45:29.000Z",
           "image": null,
-          "summary": "KB금융-중진공, ‘중소기업 산업안전 구축 지원사업’ 참여기업 모집 동아일보",
+          "summary": "대전시 임산부 친환경농산물 지원…630명 추가 모집 v.daum.net",
           "keywords": [
-            "KB금융",
-            "중진공",
-            "중소기업",
-            "산업안전",
-            "구축"
+            "대전시",
+            "임산부",
+            "친환경농산물",
+            "지원",
+            "630명"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T14:09:59.072Z",
+      "fetchedAt": "2026-09-20T16:10:39.075Z",
       "error": null
     }
   },
@@ -1177,53 +1179,53 @@
       "change": "same"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "gn:",
+      "label": "GN:",
+      "count": 2,
       "rank": 8,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "lips",
@@ -1233,11 +1235,11 @@
       "change": "same"
     },
     {
-      "key": "special post",
-      "label": "Special Post",
+      "key": "show",
+      "label": "Show",
       "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1274,12 +1276,12 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "fundraising",
+      "label": "Fundraising",
       "count": 4,
       "rank": 5,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "up",
+      "labelKo": "모금 활동"
     },
     {
       "key": "google ads",
@@ -1290,36 +1292,36 @@
       "labelKo": "다음을 따르세요"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "AI"
+    },
+    {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 8,
+      "change": "down",
       "labelKo": "기사"
+    },
+    {
+      "key": "biotech & health",
+      "label": "Biotech & Health",
+      "count": 3,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "생명 공학 및 건강"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "fundraising",
-      "label": "Fundraising",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "모금 활동"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "뉴스"
+      "change": "down",
+      "labelKo": "추천 동영상"
     }
   ]
 }
