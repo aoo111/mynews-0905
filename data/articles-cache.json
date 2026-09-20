@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T18:11:20.796Z",
+  "collectedAt": "2026-09-20T20:09:56.182Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:12.602Z",
+      "fetchedAt": "2026-09-20T20:09:37.305Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:12.677Z",
+      "fetchedAt": "2026-09-20T20:09:37.465Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:13.966Z",
+      "fetchedAt": "2026-09-20T20:09:38.810Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:14.108Z",
+      "fetchedAt": "2026-09-20T20:09:38.985Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
+          "link": "https://news.hada.io/topic?id=34012",
+          "pubDate": "2026-09-20T19:11:12.000Z",
+          "image": null,
+          "summary": "여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다는 느낌이 들어서, 지난 3주 동안 에이전트에게 보낸 메시지를 전부 내보낸 뒤, 모델이 메시지를 하나씩 읽고 용도별로 분류하게 했습니다. 키워드 검색은 쓰지 않았습니다. ...",
+          "keywords": [
+            "Ask",
+            "GN:",
+            "3주간",
+            "코딩",
+            "에이전트에게"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
           "link": "https://news.hada.io/topic?id=34011",
@@ -425,26 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Step 5 Preview: 파레토 경계 확장",
-          "link": "https://news.hada.io/topic?id=34006",
-          "pubDate": "2026-09-20T15:52:28.000Z",
-          "image": null,
-          "summary": "StepFun이 에이전트 작업용 플래그십 모델 Step 5 Preview를 공개함. 소프트웨어 엔지니어링과 전문 지식 업무, 특히 금융에 초점을 맞췄으며, 비슷한 지능 수준의 모델보다 작업 비용이 상당히 낮다고 밝힘 희소 MoE 구조로 전체 파라미터 6,000억 개 중 토큰당 2...",
-          "keywords": [
-            "Step",
-            "Preview:",
-            "파레토",
-            "경계",
-            "확장"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:15.008Z",
+      "fetchedAt": "2026-09-20T20:09:39.904Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:15.052Z",
+      "fetchedAt": "2026-09-20T20:09:40.112Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:15.118Z",
+      "fetchedAt": "2026-09-20T20:09:40.437Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:15.167Z",
+      "fetchedAt": "2026-09-20T20:09:40.523Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:18.478Z",
+      "fetchedAt": "2026-09-20T20:09:43.472Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:18.769Z",
+      "fetchedAt": "2026-09-20T20:09:43.761Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +884,23 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "ScrollEd wants to turn textbooks into TikTok",
+          "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+          "pubDate": "2026-09-20T18:00:00.000Z",
+          "image": null,
+          "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+          "keywords": [
+            "Startups",
+            "AI",
+            "Social",
+            "TechCrunch Disrupt",
+            "Startup Battlefield 200"
+          ],
+          "isForeign": true,
+          "titleKo": "ScrollEd는 교과서를 TikTok으로 전환하고자 합니다",
+          "summaryKo": "ScrollEd는 교과서를 비디오, 오디오 및 퀴즈와 함께 스크롤 가능한 Instagram 같은 피드로 변환합니다. 학생 공동 창업자 (및 배우자) 인 우차브 굽타 (Utsav Gupta) 와 레베카 네프 (Rebecca Neff) 가 테크크런치 디스럽트 (TechCrunch Disrupt) 에서 설립한 팔로알토 (Palo Alto) 스타트업."
+        },
         {
           "title": "A small but growing number of founders are betting on bringing people together offline",
           "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
@@ -951,27 +968,9 @@
           "isForeign": true,
           "titleKo": "다른 신생 기업을 구축하는 신생 기업은 $ 100M을 모금했으며 실제 AI에 올인하고 있습니다.",
           "summaryKo": "UP.Labs는 현재 Vantora라는 이름으로 비즈니스를 수행하고 있으며 산업 기업을 위한 스타트업을 구축하고 있습니다."
-        },
-        {
-          "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-          "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-          "pubDate": "2026-09-18T20:24:33.000Z",
-          "image": null,
-          "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-          "keywords": [
-            "Biotech & Health",
-            "Fundraising",
-            "Startups",
-            "TC",
-            "In Brief",
-            "insurance tech"
-          ],
-          "isForeign": true,
-          "titleKo": "Y Combinator insurance tech alum Angle Health hits $ 27억 밸류에이션",
-          "summaryKo": "Angle Health는 5,000명의 고객으로 성장했으며 중소기업이 \"레벨 펀딩\" 건강 보험에 가입할 수 있도록 지원하여 수익성을 높였습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:18.798Z",
+      "fetchedAt": "2026-09-20T20:09:46.012Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:20.366Z",
+      "fetchedAt": "2026-09-20T20:09:48.098Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1165,7 +1164,7 @@
         }
       ],
       "fetchedAt": "2026-09-20T18:11:20.787Z",
-      "error": null
+      "error": "HTTP 503"
     }
   },
   "trendingDomestic": [
@@ -1219,25 +1218,25 @@
       "change": "same"
     },
     {
+      "key": "gn:",
+      "label": "GN:",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
       "key": "lips",
       "label": "LIPS",
       "count": 2,
-      "rank": 8,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "경기",
-      "label": "경기",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1274,12 +1273,12 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "ai",
+      "label": "AI",
       "count": 4,
       "rank": 5,
-      "change": "same",
-      "labelKo": "모금 활동"
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "google ads",
@@ -1290,36 +1289,36 @@
       "labelKo": "다음을 따르세요"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "기사"
-    },
-    {
-      "key": "biotech & health",
-      "label": "Biotech & Health",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "생명 공학 및 건강"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 10,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 3,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "모금 활동"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "뉴스"
     }
   ]
 }
