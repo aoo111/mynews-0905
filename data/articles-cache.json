@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T10:09:54.664Z",
+  "collectedAt": "2026-09-20T12:12:43.578Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:47.515Z",
+      "fetchedAt": "2026-09-20T12:12:35.007Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:47.608Z",
+      "fetchedAt": "2026-09-20T12:12:35.122Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:48.610Z",
+      "fetchedAt": "2026-09-20T12:12:36.525Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:48.753Z",
+      "fetchedAt": "2026-09-20T12:12:36.705Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,72 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "초고속 APK 역컴파일러인 ASC를 새로 개발했다.",
+          "link": "https://news.hada.io/topic?id=33995",
+          "pubDate": "2026-09-20T12:05:52.000Z",
+          "image": null,
+          "summary": "개발자 MG193_7는 Jadx보다 월등히 빠르고 병렬 분석이 가능한 역컴파일러 ASC를 개발해 실제 원격 코드 실행 취약점을 발견했으며, 해당 도구가 Black Hat Europe Arsenal에 채택되었다고 발표했다. 전문 번역 초고속 안드로이드 역컴파일러인 ASC를 새로 개발했다. 이",
+          "keywords": [
+            "초고속",
+            "APK",
+            "역컴파일러인",
+            "ASC를",
+            "새로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: Motif-3 전용 코딩 하네스, &quot;Motif-code&quot;",
+          "link": "https://news.hada.io/topic?id=33994",
+          "pubDate": "2026-09-20T11:39:30.000Z",
+          "image": null,
+          "summary": "지난 8월 말, Motif Technologies가 독파모(독자파운데이션모델 사업) 2차 평가에서 탈락했습니다. 차관이 제시한 가장 큰 원인은 사용성이었습니다. 하지만 사용성은 모델 가중치만의 문제가 아닙니다. UI/UX, 모델을 활용하는 방법론, 그리고 이를 연결하는 하네스가 실제 사용 경험에 지대",
+          "keywords": [
+            "Show",
+            "GN:",
+            "Motif",
+            "전용",
+            "코딩"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "웹 브라우저의 미래에 대한 생각",
+          "link": "https://news.hada.io/topic?id=33993",
+          "pubDate": "2026-09-20T11:12:24.000Z",
+          "image": null,
+          "summary": "Firefox의 AI 통합이 확대되는 가운데, 여러 포크 프로젝트가 협력해 Mozilla로부터 독립된 공통 기반을 유지해야 한다는 구상에서 base browser 프로젝트가 출발함 base browser는 Firefox 153 ESR 기반 패치 모음으로, 사용자에게 적대적인 기능을 비활성화하는 ...",
+          "keywords": [
+            "브라우저의",
+            "미래에",
+            "생각"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "스페인, Archive.today와 미러 사이트 차단 명령",
+          "link": "https://news.hada.io/topic?id=33991",
+          "pubDate": "2026-09-20T10:32:24.000Z",
+          "image": null,
+          "summary": "스페인 문화부 산하 지식재산위원회 제2부가 웹 아카이빙 서비스 Archive.today의 여러 도메인을 차단하도록 명령함 스페인 인터넷 이용자 대부분은 해당 사이트에 접속하려 하면 정부 안내 페이지로 리디렉션됨 안내 페이지는 “불법 웹사이트에 접속하려...",
+          "keywords": [
+            "스페인",
+            "Archive",
+            "today와",
+            "미러",
+            "사이트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "배움의 과정을 글로 작성해라",
           "link": "https://news.hada.io/topic?id=33990",
@@ -375,74 +441,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: 이번 주말 - 온톨로지 기반 이벤트 지도",
-          "link": "https://news.hada.io/topic?id=33989",
-          "pubDate": "2026-09-20T07:58:55.000Z",
-          "image": null,
-          "summary": "말은 온톨로지라고 거창하게 썼지만, 사실은 그냥 neo4j 활용한게 다인 행사 지도입니다. 주말마다 와이프랑 어디 가야할지 고민하는게 슬슬 힘들어져서 만들고 있어요. 기능으로는 아래와 같습니다. 아무 노드 클릭 시 연결된 장소, 지역, 행사 종류 노드를 엣지로 연결 지역 노",
-          "keywords": [
-            "Show",
-            "GN:",
-            "주말",
-            "온톨로지",
-            "기반"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Chrono Trigger의 Dream Devourer는 정수 오버플로로 쓰러뜨릴 수 있음",
-          "link": "https://news.hada.io/topic?id=33988",
-          "pubDate": "2026-09-20T07:42:25.000Z",
-          "image": null,
-          "summary": "Dream Devourer는 HP가 32,000으로, 피해를 주는 대신 회복시켜 정수 오버플로를 일으키는 방식으로도 쓰러뜨릴 수 있음 두 번째 전투 단계에서 보스가 흡수하는 강력한 마법을 사용해 HP를 일시적으로 32,767 초과로 올리면, 부호 있는 16비트 정...",
-          "keywords": [
-            "Chrono",
-            "Trigger의",
-            "Dream",
-            "Devourer는",
-            "정수"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "RSA-896",
-          "link": "https://news.hada.io/topic?id=33987",
-          "pubDate": "2026-09-20T07:42:24.000Z",
-          "image": null,
-          "summary": "RSA-896을 소인수분해했다는 결과가 공개됨 대상은 RSA 챌린지 수인 RSA-896임 소인수분해에는 Claude를 사용했다고 함 작업 날짜는 2026년 9월 19일임 RSA-896의 전체 값과 두 인수 p, q...",
-          "keywords": [
-            "RSA",
-            "896"
-          ],
-          "isForeign": true,
-          "titleKo": "RSA-896",
-          "summaryKo": "RSA-896 을 소인수분해했다는 결과가 공개됨 대상은 RSA-896 챌린지 수인 임 소인수분해에는 Claude를 사용했다고 함 작업 날짜는 2026년 9월 19일임 RSA-896의 전체 값과 두 인수 p, q..."
-        },
-        {
-          "title": "경쟁 해자와 진입 장벽에 관하여",
-          "link": "https://news.hada.io/topic?id=33986",
-          "pubDate": "2026-09-20T06:42:24.000Z",
-          "image": null,
-          "summary": "AI로 비슷한 제품을 만들기는 쉬워져도 기존 고객을 데려오기까지 쉬워지는 것은 아님. 시장 진입 장벽이 낮아지는 것과 경쟁 해자가 사라지는 것은 서로 다른 문제임 개인용 AI 에이전트에 작업, 선호도와 계정 정보를 쌓을수록 다른 제품으로 옮기는 수고도 커짐...",
-          "keywords": [
-            "경쟁",
-            "해자와",
-            "진입",
-            "장벽에",
-            "관하여"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:49.539Z",
+      "fetchedAt": "2026-09-20T12:12:37.533Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +533,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:49.699Z",
+      "fetchedAt": "2026-09-20T12:12:37.819Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:49.920Z",
+      "fetchedAt": "2026-09-20T12:12:38.052Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:50.003Z",
+      "fetchedAt": "2026-09-20T12:12:38.112Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:52.457Z",
+      "fetchedAt": "2026-09-20T12:12:41.126Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -794,6 +795,22 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "오픈AI, 로봇의 모터와 기어까지 직접 설계한다",
+          "link": "https://platum.kr/archives/294889?utm_source=rss&utm_medium=rss&utm_campaign=openai-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2598-%25eb%25aa%25a8%25ed%2584%25b0%25ec%2599%2580-%25ea%25b8%25b0%25ec%2596%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a7%2581%25ec%25a0%2591-%25ec%2584%25a4%25ea%25b3%2584%25ed%2595%259c%25eb%258b%25a4",
+          "pubDate": "2026-09-19T09:30:48.000Z",
+          "image": null,
+          "summary": "챗GPT로 생성형 AI 시장을 이끌어온 오픈AI가 로봇 하드웨어 설계 인력을 대거 뽑고 있다. 오픈AI 채용 페이지에 올라온 로보틱스 조직 공고에는 로봇 학습 모델이나 제어 소프트웨어 개발자뿐 아니라 액추에이터(로봇 관절을 움직이는 구동 장치) 설계 엔지니어, 액추에이터 기어 설계 엔지니어, 모터 기계설계 엔지니어, 모터·액추에이터 제조 엔지니어, 펌웨어 엔지니어, 인쇄회로기판(PCB) 설계 인력이 포함돼 있다. 공고 내용을 보면 채용 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "오픈AI",
+            "챗GPT",
+            "피지컬 AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "네이버, 배달의민족 인수 검토 4개월 만에 중단",
           "link": "https://platum.kr/archives/294880?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%25a4%25ec%259d%25b4%25eb%25b2%2584-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%259d%25b8%25ec%2588%2598-%25ea%25b2%2580%25ed%2586%25a0-4%25ea%25b0%259c%25ec%259b%2594-%25eb%25a7%258c%25ec%2597%2590-%25ec%25a4%2591%25eb%258b%25a8",
@@ -856,26 +873,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[법무법인 비트 TIP] 저작재산권을 양도한 후에도 공표권은 문제될까? 미공표 저작물의 권리관계",
-          "link": "https://platum.kr/archives/294857?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2595%25eb%25ac%25b4%25eb%25b2%2595%25ec%259d%25b8-%25eb%25b9%2584%25ed%258a%25b8-tip-%25ec%25a0%2580%25ec%259e%2591%25ec%259e%25ac%25ec%2582%25b0%25ea%25b6%258c%25ec%259d%2584-%25ec%2596%2591%25eb%258f%2584%25ed%2595%259c-%25ed%259b%2584%25ec%2597%2590%25eb%258f%2584-%25ea%25b3%25b5",
-          "pubDate": "2026-09-18T03:18:08.000Z",
-          "image": null,
-          "summary": "지난 글에서는 저작자의 의사와 달리 저작물이 공개되는 상황을 중심으로, 이미 무단으로 공개된 저작물이나 미공개 원작을 바탕으로 한 2차적저작물에서 공표권이 어떻게 문제되는지 살펴보았습니다. 저작권법은 공표권을 저작인격권의 한 종류로 규정하고 있지만 실제에 있어서 공표권이 권리로서 얼마나 기능을 얼마만큼이나 수행할 수 있는지는 의문이 있습니다. 공표권이 독자적인 권리로서 역할을 할 수 있는 경우가 그리 많지 않기 때문입니다. 이번 글에서는 ... 더 읽기",
-          "keywords": [
-            "트렌드",
-            "공표권",
-            "미공표저작물",
-            "법무법인 비트",
-            "저작권양도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:52.792Z",
+      "fetchedAt": "2026-09-20T12:12:41.371Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +969,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:52.875Z",
+      "fetchedAt": "2026-09-20T12:12:41.548Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:54.260Z",
+      "fetchedAt": "2026-09-20T12:12:43.011Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,17 +1094,17 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
-          "pubDate": "2026-09-16T00:00:00.000Z",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
+          "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
           "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "지원사업",
-            "참여기업",
-            "모집"
+            "경기",
+            "~9/29(화)",
+            "성남시",
+            "청년",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1128,41 +1128,41 @@
           "summaryKo": null
         },
         {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
-          "pubDate": "2026-09-18T06:23:20.000Z",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
+          "pubDate": "2026-09-16T01:38:53.000Z",
           "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
           "keywords": [
-            "경기",
-            "~9/29(화)",
-            "성남시",
-            "청년",
-            "지원사업"
+            "서울테크노파크",
+            "사업재편",
+            "지원사업",
+            "참여기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
-          "pubDate": "2026-07-23T07:00:00.000Z",
+          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - 와우테일",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NEdZZFZvbTlDX0lmbE9OcTlURUs4UWEyTkNlQldNWGl5YkV5aHZZU0hQektSWmVZMFM5eUMyR1FMdGNGNFpBY2pvZmtWa3M?oc=5",
+          "pubDate": "2026-09-14T04:43:08.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) 와우테일",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "중기부",
+            "공공데이터",
+            "할용",
+            "지원",
+            "사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T10:09:54.657Z",
+      "fetchedAt": "2026-09-20T12:12:43.570Z",
       "error": null
     }
   },
@@ -1175,67 +1175,67 @@
       "change": "same"
     },
     {
+      "key": "전용",
+      "label": "전용",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "lips",
       "label": "LIPS",
       "count": 2,
-      "rank": 8,
-      "change": "new"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "경기",
-      "label": "경기",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
