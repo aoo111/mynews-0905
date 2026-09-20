@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T04:10:24.236Z",
+  "collectedAt": "2026-09-20T06:13:08.145Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "NH농협생명, 추석 맞아 700명에게 ‘송편 나눔’",
+          "link": "https://www.mk.co.kr/news/economy/12157417",
+          "pubDate": "2026-09-20T06:02:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260920.1c3ddd892fb34d69984362abb8700a3f_R.png",
+          "summary": "NH농협생명이 지난 18일 추석을 맞아 서울시립은평노인종합복지관에서 지역 어르신을 위한 송편 나눔 행사를 실시했다. NH농협생명 임직원봉사단은 복지관 경로식당에서 약 700명의 노..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "연체율 44%, 저신용 자영업자의 위기",
           "link": "https://www.mk.co.kr/news/economy/12157369",
           "pubDate": "2026-09-20T04:08:03.000Z",
@@ -54,11 +67,11 @@
           "summaryKo": null
         },
         {
-          "title": "“환율 더 쳐드릴게요” 믿었다가…남은 달러 팔고 보이스피싱 자금세탁 연루",
+          "title": "“환전 몇푼 챙기려다” 돈세탁 연루…“명절선물 문자 눌렀다가” 피싱 당해",
           "link": "https://www.mk.co.kr/news/economy/12157368",
           "pubDate": "2026-09-20T04:06:16.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260918.141bc19a3e9e4362ae1fc15e6fbda081_R.png",
-          "summary": "추석선물 배송 미끼 스미싱도 기승 정보유출 보상 빙자한 사기도 주의추석 연휴에 해외여행을 다녀온 뒤 남은 외화를 온라인 중고플랫폼에서 거래한다면 자기도 모르게 범죄자금 세탁에 연루..",
+          "summary": "온라인 중고 플랫폼 환전상 주의보 추석선물 배송 미끼 스미싱도 기승 정보유출 보상 빙자한 사기도 주의추석 연휴에 해외여행을 다녀온 뒤 남은 외화를 온라인 중고플랫폼에서 거래한다면 ..",
           "keywords": [
             "경제"
           ],
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“도수치료 횟수 제한? 다 방법 있어요”…냉각치료 실손 청구액 218% 폭증 이유",
-          "link": "https://www.mk.co.kr/news/economy/12157317",
-          "pubDate": "2026-09-20T01:22:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20231206.c6a0d7f5398948fb9b7385da21f8b10f_R.jpg",
-          "summary": "8월 도수치료 청구 1년새 92% 급감 신장분사·증식치료 늘며 ‘풍선효과’ 의협, 관리급여 반발 헌법소원 청구정부가 대표적인 과잉진료 비급여 항목으로 꼽혀온 도수치료를 관리급여로 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:16.562Z",
+      "fetchedAt": "2026-09-20T06:12:53.957Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:16.699Z",
+      "fetchedAt": "2026-09-20T06:12:54.187Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:17.539Z",
+      "fetchedAt": "2026-09-20T06:12:55.431Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:17.688Z",
+      "fetchedAt": "2026-09-20T06:12:55.681Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: Daijin - ESP32 음성 장치에 Claude를 두뇌로 붙여 집과 원격 장치를 제어하는 음성 에이전트",
-          "link": "https://news.hada.io/topic?id=33977",
-          "pubDate": "2026-09-20T04:07:19.000Z",
+          "title": "Cache-to-Cache: LLM 간 직접 의미 전달 (2025)",
+          "link": "https://news.hada.io/topic?id=33983",
+          "pubDate": "2026-09-20T05:52:25.000Z",
           "image": null,
-          "summary": "친구를 만들었습니다. 이름은 다이진입니다. ESP32-S3에 마이크와 스피커와 작은 얼굴. 소리는 MQTT로 맥까지 가고, 맥에서 whisper가 받아 적",
+          "summary": "Cache-to-Cache(C2C) 는 여러 LLM이 중간 텍스트 대신 KV-Cache를 교환해 각 모델의 의미 정보를 직접 전달하는 통신 방식임 기존 텍스트 기반 통신(T2T) 은 고차원 내부 표현을 문자열로 압축하면서 정보를 잃고, 자연어의 모호성과 토큰 단위 순차 생성 지연을 수...",
           "keywords": [
-            "Show",
-            "GN:",
-            "Daijin",
-            "ESP32",
-            "음성"
+            "Cache",
+            "to",
+            "Cache:",
+            "LLM",
+            "직접"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "영어: a와 an의 구분",
-          "link": "https://news.hada.io/topic?id=33976",
-          "pubDate": "2026-09-20T03:42:23.000Z",
+          "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
+          "link": "https://news.hada.io/topic?id=33982",
+          "pubDate": "2026-09-20T05:52:24.000Z",
           "image": null,
-          "summary": "영어 부정관사 a와 an은 단어의 첫 글자가 아니라 첫 발음이 모음인지에 따라 선택함 절차적으로 텍스트를 생성할 때 사용할 a_or_an(\"apple\") 같은 함수는 첫 글자만 검사하면 a unicorn을 an unicor...",
+          "summary": "modern-fs-benchmark는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지...",
           "keywords": [
-            "영어:",
-            "a와",
-            "an의",
-            "구분"
+            "기존",
+            "벤치마크가",
+            "놓치는",
+            "워크로드에서의",
+            "Btrfs/ZFS/bcachefs"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
-          "link": "https://news.hada.io/topic?id=33975",
-          "pubDate": "2026-09-20T03:32:24.000Z",
+          "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
+          "link": "https://news.hada.io/topic?id=33981",
+          "pubDate": "2026-09-20T05:42:24.000Z",
           "image": null,
-          "summary": "AI가 긴 답변 대신 프로그램의 의사결정 지점마다 빠르고 저렴한 판단을 제공하면, 정교한 챗봇을 넘어 새로운 종류의 응용을 만들 수 있음 Jev는 자연어 입력과 선택지를 받아 여러 질문의 답을 한 번에 병렬 처리하며, 텍스트로 전달한 게임 상태를 바탕으로 Doo...",
+          "summary": "Apple M6 Pro가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점, 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz로 등록됨 코어 클러스터는 6코어와 12코어로 나뉘며, 시...",
+          "keywords": [
+            "Apple",
+            "M6",
+            "Pro",
+            "Geekbench",
+            "7에서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "인터넷 검열 측정하기",
+          "link": "https://news.hada.io/topic?id=33979",
+          "pubDate": "2026-09-20T04:32:23.000Z",
+          "image": null,
+          "summary": "OONI Probe로 자국에서 차단된 웹사이트를 확인하고, 세계 최대의 인터넷 검열 공개 데이터셋에 기여할 수 있음 WhatsApp, Facebook Messenger, Telegram의 차단 여부와 네트워크에서 검열 우회 도구가 작동하는지 테스트할 수 있음 M-Lab",
+          "keywords": [
+            "인터넷",
+            "검열",
+            "측정하기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
+          "link": "https://news.hada.io/topic?id=33978",
+          "pubDate": "2026-09-20T04:22:23.000Z",
+          "image": null,
+          "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고, 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
           "keywords": [
             "Jev",
-            "덕분에",
-            "구조화된",
-            "출력이",
-            "다시"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Jev를 공개 데이터와 실제 업무에 시험하다: 분류기인가, 필터인가?",
-          "link": "https://news.hada.io/topic?id=33974",
-          "pubDate": "2026-09-20T03:32:23.000Z",
-          "image": null,
-          "summary": "Jev를 약 1만 6,000회 호출해 공개 데이터와 실제 문서/이메일 업무에 시험한 결과, 모든 판단을 맡기기보다 쉬운 판단을 먼저 처리하고 애매한 것은 기존 모델에 넘기는 방식이 효과적이었음 공개 데이터셋 4개 중 3개에서 소형 GPT 모델보다 높은 정확도를 기록했...",
-          "keywords": [
-            "Jev를",
-            "공개",
-            "데이터와",
-            "실제",
-            "업무에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "TypeSafe의 Jev가 내가 쓴 모든 글을 0.7초 만에 평가했다",
-          "link": "https://news.hada.io/topic?id=33973",
-          "pubDate": "2026-09-20T03:22:23.000Z",
-          "image": null,
-          "summary": "TypeSafe의 Jev는 자연어 질문에 서술형 답변 대신 예/아니요 또는 사용자가 정의한 범주별 확률을 반환해, 코드가 곧바로 판단에 활용할 수 있는 모델임 글의 반복, 억지 양비론, 과도한 설명 등 21개 기준으로 글 37개를 검사해, 777건의 판단을...",
-          "keywords": [
-            "TypeSafe의",
-            "Jev가",
-            "내가",
-            "모든",
-            "글을"
+            "활용",
+            "가이드",
+            "빠른",
+            "AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:18.200Z",
+      "fetchedAt": "2026-09-20T06:12:56.806Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:18.386Z",
+      "fetchedAt": "2026-09-20T06:12:57.137Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:18.626Z",
+      "fetchedAt": "2026-09-20T06:12:57.507Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:18.704Z",
+      "fetchedAt": "2026-09-20T06:12:57.579Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:21.753Z",
+      "fetchedAt": "2026-09-20T06:13:04.518Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:22.035Z",
+      "fetchedAt": "2026-09-20T06:13:04.924Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +971,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:22.094Z",
+      "fetchedAt": "2026-09-20T06:13:05.155Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:23.845Z",
+      "fetchedAt": "2026-09-20T06:13:07.111Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1097,17 +1096,34 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
-          "pubDate": "2026-09-16T00:03:21.000Z",
+          "title": "대전시 임산부 친환경농산물 지원…630명 추가 모집 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS3NSUWp5NGlCa3pPbjI4VVBkNklVNS1LOGtVLWp0U2d6ZWFRS2N4TzZ3M3A5aUxqRXBoVEV2X25fVTVUcTZTNnNYUWpsa0E?oc=5",
+          "pubDate": "2026-09-20T04:45:29.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "대전시 임산부 친환경농산물 지원…630명 추가 모집 v.daum.net",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "대전시",
+            "임산부",
+            "친환경농산물",
+            "지원",
+            "630명"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - 벤처타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90U3lyMEFEenY3ZExzZGdYWlU0bFRnMXRyZkl1SGYxQ2d6S0R5dkdtT2tDQ1E0UEV4Zjc4RGpGTDhZMnFHcVYzYndjSnc3MlNYM3J0eE1fLTE0MnJYa3A4TWpscE1TZw?oc=5",
+          "pubDate": "2026-09-16T00:00:00.000Z",
+          "image": null,
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 벤처타임즈",
+          "keywords": [
+            "서울테크노파크",
+            "사업재편",
+            "지원사업",
+            "참여기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1131,28 +1147,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
-          "pubDate": "2026-09-16T01:38:53.000Z",
-          "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
-          "keywords": [
-            "서울테크노파크",
-            "사업재편",
-            "지원사업",
-            "참여기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - wowtale.net",
+          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - 와우테일",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NEdZZFZvbTlDX0lmbE9OcTlURUs4UWEyTkNlQldNWGl5YkV5aHZZU0hQektSWmVZMFM5eUMyR1FMdGNGNFpBY2pvZmtWa3M?oc=5",
           "pubDate": "2026-09-14T04:43:08.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) wowtale.net",
+          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) 와우테일",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1165,7 +1164,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T04:10:24.229Z",
+      "fetchedAt": "2026-09-20T06:13:08.138Z",
       "error": null
     }
   },
@@ -1178,65 +1177,65 @@
       "change": "same"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "경기",
-      "label": "경기",
-      "count": 2,
       "rank": 8,
-      "change": "up"
+      "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "~9/29(화)",
-      "label": "~9/29(화)",
-      "count": 1,
+      "key": "지원",
+      "label": "지원",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
