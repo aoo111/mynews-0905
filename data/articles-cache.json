@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T20:09:56.182Z",
+  "collectedAt": "2026-09-20T22:09:35.633Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:37.305Z",
+      "fetchedAt": "2026-09-20T22:09:25.546Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -181,7 +181,7 @@
         }
       ],
       "fetchedAt": "2026-09-20T20:09:37.465Z",
-      "error": null
+      "error": "HTTP 404"
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:38.810Z",
+      "fetchedAt": "2026-09-20T22:09:26.611Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:38.985Z",
+      "fetchedAt": "2026-09-20T22:09:26.739Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -444,7 +444,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:39.904Z",
+      "fetchedAt": "2026-09-20T22:09:27.646Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:40.112Z",
+      "fetchedAt": "2026-09-20T22:09:27.759Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:40.437Z",
+      "fetchedAt": "2026-09-20T22:09:28.035Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:40.523Z",
+      "fetchedAt": "2026-09-20T22:09:28.134Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:43.472Z",
+      "fetchedAt": "2026-09-20T22:09:31.942Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:43.761Z",
+      "fetchedAt": "2026-09-20T22:09:32.121Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +884,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-20T21:41:08.000Z",
+          "image": null,
+          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Fintech",
+            "Fundraising",
+            "Robotics",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026에 최대 $ 200를 절약할 수 있는 기간이 6일 남았습니다",
+          "summaryKo": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 6일 후에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요."
+        },
         {
           "title": "ScrollEd wants to turn textbooks into TikTok",
           "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
@@ -916,24 +934,6 @@
           "isForeign": true,
           "titleKo": "작지만 점점 더 많은 창업자들이 오프라인에서 사람들을 모으는 것에 베팅하고 있습니다.",
           "summaryKo": "브린 퍼트넘 (Brynn Putnam) 과 트리스탄 워커 (Tristan Walker) 는 이미 대부분의 창업자들이 꿈꾸는 일을 해냈습니다. 더 큰 의상이 그들을 샀을 정도로 설득력 있는 회사를 만들었습니다. 퍼트넘, 부티크 스튜디오의 작은 체인과 훈련 발레리나, 연결 피트니스 회사 거울을 구축하고 3 년 미만 현금 5 억 달러에 룰루레몬에 판매했다. […]"
-        },
-        {
-          "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-20T14:00:00.000Z",
-          "image": null,
-          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Fintech",
-            "Fundraising",
-            "Robotics",
-            "Startups"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 앞서나갈 수 있는 시간이 6일 남았습니다",
-          "summaryKo": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 6일 후에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요."
         },
         {
           "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
@@ -970,7 +970,7 @@
           "summaryKo": "UP.Labs는 현재 Vantora라는 이름으로 비즈니스를 수행하고 있으며 산업 기업을 위한 스타트업을 구축하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:46.012Z",
+      "fetchedAt": "2026-09-20T22:09:33.250Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -978,6 +978,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "모집 기간 줄었는데 9만명 몰렸다…‘모두의 창업’ 2차, 지역·청년 도전 커졌다",
+          "link": "https://www.venturesquare.net/1115296/",
+          "pubDate": "2026-09-20T09:00:15.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/모창-2차-포스터_리사이징3.png",
+          "summary": "‘2026 모두의 창업 프로젝트’ 2차 모집에 9만2838명이 신청해 1차 6만2944명을 크게 넘어섰다. 비수도권 신청 비중은 63.3%, 39세 이하 청년층은 71.8%로 각각 1차보다 높아졌으며 1차 탈락자 가운데 1만9111명도 다시 도전했다. 강원에서도 2차 ... The post 모집 기간 줄었는데 9만명 몰렸다…‘모두의 창업’ 2차, 지역·청년 도전 커졌다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "MVP",
+            "강원창업",
+            "기술창업",
+            "로컬창업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "창업은 캠퍼스에서, 성장은 시장에서…‘PARTNER CONNECT’가 만든 연결",
           "link": "https://www.venturesquare.net/1115285/",
@@ -1049,27 +1067,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경기혁신센터, 디지털트윈·배터리·유전자치료 스타트업 6곳 투자사 앞에",
-          "link": "https://www.venturesquare.net/1115116/",
-          "pubDate": "2026-09-18T05:20:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789647884877-696x522.png",
-          "summary": "경기창조경제혁신센터가 판교 창업존에서 AI·딥테크 분야 스타트업 6개사가 참여한 ‘제39회 스타트업 815 IR 연합’을 개최했다. 경기도경제과학진흥원, 성남산업진흥원, 용인산업진흥원, 한국발명진흥회가 발굴·추천한 기업들이 초개인화 AI 디자인, 디지털트윈, 탄소감축,... The post 경기혁신센터, 디지털트윈·배터리·유전자치료 스타트업 6곳 투자사 앞에 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI스타트업",
-            "IR",
-            "경기창조경제혁신센터",
-            "경기혁신센터",
-            "딥테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:48.098Z",
+      "fetchedAt": "2026-09-20T22:09:35.181Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1129,11 +1129,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
           "pubDate": "2026-09-16T01:38:53.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4.co.kr",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1146,25 +1146,25 @@
           "summaryKo": null
         },
         {
-          "title": "대전시 임산부 친환경농산물 지원…630명 추가 모집 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS3NSUWp5NGlCa3pPbjI4VVBkNklVNS1LOGtVLWp0U2d6ZWFRS2N4TzZ3M3A5aUxqRXBoVEV2X25fVTVUcTZTNnNYUWpsa0E?oc=5",
-          "pubDate": "2026-09-20T04:45:29.000Z",
+          "title": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 - beSUCCESS",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ldHZrenRjWlUwWl9YSTJQQWk2WFBtdjVqUjJIMmNaUGIxcjZaaF9adXBlakRuNS1meGZUMEoyU0NGeDNwckE?oc=5",
+          "pubDate": "2026-09-16T07:11:58.000Z",
           "image": null,
-          "summary": "대전시 임산부 친환경농산물 지원…630명 추가 모집 v.daum.net",
+          "summary": "서울테크노파크, 2026 사업재편 지원사업 참여기업 모집…세제·금융 혜택 제공 beSUCCESS",
           "keywords": [
-            "대전시",
-            "임산부",
-            "친환경농산물",
-            "지원",
-            "630명"
+            "서울테크노파크",
+            "2026",
+            "사업재편",
+            "지원사업",
+            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T18:11:20.787Z",
-      "error": "HTTP 503"
+      "fetchedAt": "2026-09-20T22:09:35.624Z",
+      "error": null
     }
   },
   "trendingDomestic": [
@@ -1206,37 +1206,37 @@
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 3,
+      "count": 4,
       "rank": 6,
       "change": "same"
     },
     {
-      "key": "ai스타트업",
-      "label": "AI스타트업",
-      "count": 2,
+      "key": "special post",
+      "label": "Special Post",
+      "count": 3,
       "rank": 7,
-      "change": "same"
+      "change": "up"
     },
     {
       "key": "gn:",
       "label": "GN:",
       "count": 2,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "lips",
       "label": "LIPS",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "special post",
-      "label": "Special Post",
+      "key": "경기",
+      "label": "경기",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1277,7 +1277,7 @@
       "label": "AI",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1293,7 +1293,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1301,7 +1301,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1309,7 +1309,7 @@
       "label": "Fundraising",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "모금 활동"
     },
     {
@@ -1317,7 +1317,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
