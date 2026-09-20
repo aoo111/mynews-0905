@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T16:10:39.949Z",
+  "collectedAt": "2026-09-20T18:11:20.796Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:24.315Z",
+      "fetchedAt": "2026-09-20T18:11:12.602Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:24.402Z",
+      "fetchedAt": "2026-09-20T18:11:12.677Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:25.663Z",
+      "fetchedAt": "2026-09-20T18:11:13.966Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:25.849Z",
+      "fetchedAt": "2026-09-20T18:11:14.108Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,55 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
+          "link": "https://news.hada.io/topic?id=34011",
+          "pubDate": "2026-09-20T17:42:25.000Z",
+          "image": null,
+          "summary": "Pirate Face는 Hugging Face의 오픈 모델을 체크섬으로 검증한 토렌트로 미러링하고, 단일 기업 대신 P2P 네트워크가 보관하도록 하는 서비스임 토렌트에 내장된 Hugging Face 웹 시드로 피어가 없어도 다운로드할 수 있으며, 원본이 삭제되면 시...",
+          "keywords": [
+            "Pirate",
+            "Face",
+            "LLM",
+            "모델을",
+            "삭제로부터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "UTF-8000: 무제한 UTF-8",
+          "link": "https://news.hada.io/topic?id=34010",
+          "pubDate": "2026-09-20T16:52:25.000Z",
+          "image": null,
+          "summary": "UTF-8000은 ASCII와 UTF-8을 포함하면서 임의 크기의 정수를 인코딩하도록 확장한 독립 제안으로, Unicode Consortium이 승인하거나 대표하는 표준은 아님 UTF-8의 선두 비트를 자기 동기화 비트와 길이 표시 비트로 분리하고, 길이 표시 비트를 연속 바이트에 걸쳐...",
+          "keywords": [
+            "UTF",
+            "8000:",
+            "무제한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "ZK-JPEG - 영지식 이미지 편집 및 압축",
+          "link": "https://news.hada.io/topic?id=34009",
+          "pubDate": "2026-09-20T16:42:25.000Z",
+          "image": null,
+          "summary": "ZK-JPEG은 비밀로 유지되는 커밋된 입력으로부터 이미지가 올바르게 JPEG 압축되었음을 증명하는 암호학적 도구임 카메라의 디지털 서명은 이미지 출처를 증명하지만, 손실 압축이나 피사체 보호를 위한 흐림 처리와 영역 가리기도 서명을 무효화함 기존 ...",
+          "keywords": [
+            "ZK",
+            "JPEG",
+            "영지식",
+            "이미지",
+            "편집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Show GN: My Best Photo - 사진 후보를 비교 평가하고 선택 이유를 확인하는 서비스",
           "link": "https://news.hada.io/topic?id=34007",
@@ -393,60 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "채팅 기반 대규모 언어 모델은 심령술사 사기의 작동 방식을 재현한다",
-          "link": "https://news.hada.io/topic?id=34005",
-          "pubDate": "2026-09-20T15:52:27.000Z",
-          "image": null,
-          "summary": "LLMentalist 효과는 챗봇에서 느끼는 지능이 모델 내부의 사고가 아니라, 통계적으로 그럴듯한 답변에서 개인적 의미를 찾는 사용자의 심리에서 비롯된다는 가설임 핵심 연결고리는 심령술사의 콜드 리딩(cold reading) 과 주관적 타당화임. 일반...",
-          "keywords": [
-            "채팅",
-            "기반",
-            "대규모",
-            "언어",
-            "모델은"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Qwen-Image-2.1, 소형 고효율 통합 이미지 생성 모델",
-          "link": "https://news.hada.io/topic?id=34004",
-          "pubDate": "2026-09-20T15:52:25.000Z",
-          "image": null,
-          "summary": "Qwen-Image-2.1이 오픈소스로 공개됨. 시각 생성 구성 요소가 7B 파라미터인 단일 모델에 텍스트 기반 이미지 생성과 이미지 편집을 통합함 혼합 세분도 어텐션과 KV 캐시 재사용으로 추론 효율을 높이고 메모리 사용량을 줄이며...",
-          "keywords": [
-            "Qwen",
-            "Image",
-            "소형",
-            "고효율",
-            "통합"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: AutoRAG Agent - 컴퓨터에 있는 모든 것을 검색해주는 에이전트 (파일, 메신저 대화 기록, 이메일, 노션...",
-          "link": "https://news.hada.io/topic?id=34003",
-          "pubDate": "2026-09-20T15:03:37.000Z",
-          "image": null,
-          "summary": "AutoRAG는 RAG 자동 최적화 프레임워크였으나, 에이전트 시대 고정된 하나의 RAG 파이프라인을 찾는 것보다는 진정한 RAG 에이전트 구축에 필요성을 느낌 이에 AutoRAG 팀과 RAG 전문회사 브레인크루, 투이컨설팅이 컨소시엄을 이루어 'AutoRAG Agent'를 개발함 AutoRAG Agent는 사용자의 컴...",
-          "keywords": [
-            "Show",
-            "GN:",
-            "AutoRAG",
-            "Agent",
-            "컴퓨터에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:26.568Z",
+      "fetchedAt": "2026-09-20T18:11:15.008Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:26.728Z",
+      "fetchedAt": "2026-09-20T18:11:15.052Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:26.933Z",
+      "fetchedAt": "2026-09-20T18:11:15.118Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:26.967Z",
+      "fetchedAt": "2026-09-20T18:11:15.167Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:30.412Z",
+      "fetchedAt": "2026-09-20T18:11:18.478Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:30.678Z",
+      "fetchedAt": "2026-09-20T18:11:18.769Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -894,9 +892,9 @@
           "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. […]",
           "keywords": [
             "Startups",
-            "Tristan Walker",
             "board",
-            "Brynn Putnam"
+            "Brynn Putnam",
+            "Tristan Walker"
           ],
           "isForeign": true,
           "titleKo": "작지만 점점 더 많은 창업자들이 오프라인에서 사람들을 모으는 것에 베팅하고 있습니다.",
@@ -973,7 +971,7 @@
           "summaryKo": "Angle Health는 5,000명의 고객으로 성장했으며 중소기업이 \"레벨 펀딩\" 건강 보험에 가입할 수 있도록 지원하여 수익성을 높였습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:35.011Z",
+      "fetchedAt": "2026-09-20T18:11:18.798Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1072,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:38.111Z",
+      "fetchedAt": "2026-09-20T18:11:20.366Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1166,7 +1164,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T16:10:39.075Z",
+      "fetchedAt": "2026-09-20T18:11:20.787Z",
       "error": null
     }
   },
@@ -1183,60 +1181,60 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
       "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 2,
-      "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "lips",
       "label": "LIPS",
       "count": 2,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
-      "key": "show",
-      "label": "Show",
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "경기",
+      "label": "경기",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1280,7 +1278,7 @@
       "label": "Fundraising",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "모금 활동"
     },
     {
@@ -1296,7 +1294,7 @@
       "label": "AI",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1304,7 +1302,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1312,7 +1310,7 @@
       "label": "Biotech & Health",
       "count": 3,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "생명 공학 및 건강"
     },
     {
@@ -1320,7 +1318,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "추천 동영상"
     }
   ]
