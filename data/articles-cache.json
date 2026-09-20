@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T12:12:43.578Z",
+  "collectedAt": "2026-09-20T14:09:59.082Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“신혼부부의 돈 고민, 전문가들이 답한다”…‘금융문화 토크쇼’ 내달 열린다",
+          "link": "https://www.mk.co.kr/news/economy/12157685",
+          "pubDate": "2026-09-20T13:58:43.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260920.fae9e7a7dca842e190583771588f578e_R.jpg",
+          "summary": "금융과행복네트워크, 신혼부부 100쌍 초청 “심리·재무·자산관리 ‘맞춤형’ 설계”신혼부부들이 결혼생활에서 부딪히는 돈 문제를 전문가들과 함께 풀어보는 금융문화 토크쇼가 열린다. 생..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“내 돈 빌려가놓고 탕감하자고요?”…대부업 15.9% 채무조정 거절",
           "link": "https://www.mk.co.kr/news/economy/12157642",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12157608",
-          "pubDate": "2026-09-20T08:45:57.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/21/20260921_01110112000006_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:35.007Z",
+      "fetchedAt": "2026-09-20T14:09:50.094Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:35.122Z",
+      "fetchedAt": "2026-09-20T14:09:50.212Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:36.525Z",
+      "fetchedAt": "2026-09-20T14:09:51.681Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:36.705Z",
+      "fetchedAt": "2026-09-20T14:09:51.854Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,89 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "초고속 APK 역컴파일러인 ASC를 새로 개발했다.",
-          "link": "https://news.hada.io/topic?id=33995",
-          "pubDate": "2026-09-20T12:05:52.000Z",
+          "title": "다른 언어를 배우는 것이 뇌 건강을 유지하는 가장 좋은 방법 중 하나일 수 있음",
+          "link": "https://news.hada.io/topic?id=34001",
+          "pubDate": "2026-09-20T13:42:26.000Z",
           "image": null,
-          "summary": "개발자 MG193_7는 Jadx보다 월등히 빠르고 병렬 분석이 가능한 역컴파일러 ASC를 개발해 실제 원격 코드 실행 취약점을 발견했으며, 해당 도구가 Black Hat Europe Arsenal에 채택되었다고 발표했다. 전문 번역 초고속 안드로이드 역컴파일러인 ASC를 새로 개발했다. 이",
+          "summary": "언어 학습은 기억, 소리 구별, 규칙 파악, 표현 인출을 동시에 요구하는 복합적인 정신 활동으로, 고령자를 포함한 성인의 인지 기능에 도움이 될 수 있음 두 언어를 관리하며 주의력과 인지 통제력을 지속적으로 사용하는 과정은 노화나 뇌 손상에도 인지 기능을 유지하는 ...",
           "keywords": [
-            "초고속",
-            "APK",
-            "역컴파일러인",
-            "ASC를",
-            "새로"
+            "다른",
+            "언어를",
+            "배우는",
+            "것이",
+            "건강을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Motif-3 전용 코딩 하네스, &quot;Motif-code&quot;",
-          "link": "https://news.hada.io/topic?id=33994",
-          "pubDate": "2026-09-20T11:39:30.000Z",
+          "title": "AI와 창작 공유지의 파괴",
+          "link": "https://news.hada.io/topic?id=34000",
+          "pubDate": "2026-09-20T13:42:25.000Z",
           "image": null,
-          "summary": "지난 8월 말, Motif Technologies가 독파모(독자파운데이션모델 사업) 2차 평가에서 탈락했습니다. 차관이 제시한 가장 큰 원인은 사용성이었습니다. 하지만 사용성은 모델 가중치만의 문제가 아닙니다. UI/UX, 모델을 활용하는 방법론, 그리고 이를 연결하는 하네스가 실제 사용 경험에 지대",
+          "summary": "LLM의 무차별적인 온라인 콘텐츠 수집은 저작권과 라이선스를 통해 유지해 온 개방과 보호의 균형을 깨뜨리고 있음 카피레프트는 파생 저작물에도 원래의 권리를 이어가도록 요구하지만, LLM의 결과물이 이를 지키는지는 불확실하고 법적 강제 의지도 거의 보이지 ...",
           "keywords": [
-            "Show",
-            "GN:",
-            "Motif",
-            "전용",
-            "코딩"
+            "AI와",
+            "창작",
+            "공유지의",
+            "파괴"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "웹 브라우저의 미래에 대한 생각",
-          "link": "https://news.hada.io/topic?id=33993",
-          "pubDate": "2026-09-20T11:12:24.000Z",
+          "title": "StepFun, 차세대 플래그십 AI 모델 Step 5 Preview 공개",
+          "link": "https://news.hada.io/topic?id=33999",
+          "pubDate": "2026-09-20T13:30:42.000Z",
           "image": null,
-          "summary": "Firefox의 AI 통합이 확대되는 가운데, 여러 포크 프로젝트가 협력해 Mozilla로부터 독립된 공통 기반을 유지해야 한다는 구상에서 base browser 프로젝트가 출발함 base browser는 Firefox 153 ESR 기반 패치 모음으로, 사용자에게 적대적인 기능을 비활성화하는 ...",
+          "summary": "StepFun이 소프트웨어 엔지니어링과 금융 전문 업무에 특화한 차세대 플래그십 모델 Step 5 Preview를 공개하고 오는 10월 15일 가중치를 배포한다. 전문 번역 StepFun이 파레토 프론티어를 한 단계 넓힌 차세대 플래그십 모델 Step 5 Preview를 선보인다. 이 모델은 지능",
           "keywords": [
-            "브라우저의",
-            "미래에",
-            "생각"
+            "StepFun",
+            "차세대",
+            "플래그십",
+            "AI",
+            "모델"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "스페인, Archive.today와 미러 사이트 차단 명령",
-          "link": "https://news.hada.io/topic?id=33991",
-          "pubDate": "2026-09-20T10:32:24.000Z",
+          "title": "영어 6글자 단어 313개를 전수 집계해보니: 48%가 같은 글자를 반복한다",
+          "link": "https://news.hada.io/topic?id=33998",
+          "pubDate": "2026-09-20T12:55:51.000Z",
           "image": null,
-          "summary": "스페인 문화부 산하 지식재산위원회 제2부가 웹 아카이빙 서비스 Archive.today의 여러 도메인을 차단하도록 명령함 스페인 인터넷 이용자 대부분은 해당 사이트에 접속하려 하면 정부 안내 페이지로 리디렉션됨 안내 페이지는 “불법 웹사이트에 접속하려...",
+          "summary": "직접 만든 단어 게임의 6글자 정답 313개(글자 1,878개)를 전수 집계해봤습니다. 153개(48%)가 같은 글자를 2번 이상 씁니다. 초반에 서로 다른 글자만 채워 넣는 일반적인 전략과 정면으로 어긋납니다. 네 자리를 맞춰놓고 남은 두 칸에 새 글자가 안 들어갈 때, 답은 대개 이미 가진 글자를 한 번 더",
           "keywords": [
-            "스페인",
-            "Archive",
-            "today와",
-            "미러",
-            "사이트"
+            "영어",
+            "6글자",
+            "단어",
+            "313개를",
+            "전수"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "배움의 과정을 글로 작성해라",
-          "link": "https://news.hada.io/topic?id=33990",
-          "pubDate": "2026-09-20T09:02:56.000Z",
+          "title": "블랙홀인가, 블랙홀 별인가? ‘작은 붉은 점’을 둘러싼 천문학자들의 논쟁",
+          "link": "https://news.hada.io/topic?id=33997",
+          "pubDate": "2026-09-20T12:52:25.000Z",
           "image": null,
-          "summary": "전문가와 입문자 사이의 정보 공백 새로운 기술을 배울 때 생기는 여러 의문(예를 들자면 \"왜 같은 일을 하는 API가 두 개인가?\", \"예제대로 했는데 왜 안 될까?\")은 관련 용어나 내부 구조를 이해하고 나면 쉬워 보이지만, 초심자 입장에서는 연결 고리를 찾기 어려움 ...",
+          "summary": "James Webb 우주망원경이 관측한 작은 붉은 점 가운데 특히 붉은 두 천체가, 중심에 블랙홀을 품은 거대한 수소 천체인 블랙홀 별일 수 있다는 가설이 나옴 두 천체는 은하에 필적하는 밝기를 내면서도 약 5,000K의 항성 표면을 닮은 스펙트럼을 ...",
           "keywords": [
-            "배움의",
-            "과정을",
-            "글로",
-            "작성해라"
+            "블랙홀인가",
+            "블랙홀",
+            "별인가",
+            "작은",
+            "붉은"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:37.533Z",
+      "fetchedAt": "2026-09-20T14:09:52.751Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +535,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:37.819Z",
+      "fetchedAt": "2026-09-20T14:09:53.044Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:38.052Z",
+      "fetchedAt": "2026-09-20T14:09:53.214Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:38.112Z",
+      "fetchedAt": "2026-09-20T14:09:53.268Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:41.126Z",
+      "fetchedAt": "2026-09-20T14:09:56.545Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:41.371Z",
+      "fetchedAt": "2026-09-20T14:09:56.827Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +971,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:41.548Z",
+      "fetchedAt": "2026-09-20T14:09:56.991Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:43.011Z",
+      "fetchedAt": "2026-09-20T14:09:58.566Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1145,24 +1147,24 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) - 와우테일",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NEdZZFZvbTlDX0lmbE9OcTlURUs4UWEyTkNlQldNWGl5YkV5aHZZU0hQektSWmVZMFM5eUMyR1FMdGNGNFpBY2pvZmtWa3M?oc=5",
-          "pubDate": "2026-09-14T04:43:08.000Z",
+          "title": "KB금융-중진공, ‘중소기업 산업안전 구축 지원사업’ 참여기업 모집 - 동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLW1GMk4wQzdPNW4zQ194YUx6cEt2Z0Q2OTcyVlRLckNaSEtrT3NENk9RZkpEZnE4UUhWQ1I0YmtDZDdnT0hwV0QwQUdUY1cxd3JKX3JtRFRiWVJrTEYzZGl2WWpNa2dKTkNHRU4xZ05Xb283LXfSAWZBVV95cUxQN3pjUml0OUtoYjdXVWJIWkgtX2QyUDEybUpDN09nd0JmR215cklqRUNMV2htU0dRUnVSbk54ZHhNS2dHb0dVUlE3ajFiQjdYQVRJVXJpQWx4Yl9TN01xcTZTdGZ0ZWc?oc=5",
+          "pubDate": "2026-08-27T07:00:00.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 할용 지원 사업’ 참여 스타트업 모집(~10월6일) 와우테일",
+          "summary": "KB금융-중진공, ‘중소기업 산업안전 구축 지원사업’ 참여기업 모집 동아일보",
           "keywords": [
-            "중기부",
-            "공공데이터",
-            "할용",
-            "지원",
-            "사업"
+            "KB금융",
+            "중진공",
+            "중소기업",
+            "산업안전",
+            "구축"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T12:12:43.570Z",
+      "fetchedAt": "2026-09-20T14:09:59.072Z",
       "error": null
     }
   },
@@ -1175,8 +1177,8 @@
       "change": "same"
     },
     {
-      "key": "전용",
-      "label": "전용",
+      "key": "ai",
+      "label": "AI",
       "count": 2,
       "rank": 2,
       "change": "new"
@@ -1186,56 +1188,56 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "lips",
       "label": "LIPS",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
