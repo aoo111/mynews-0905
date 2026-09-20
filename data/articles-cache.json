@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T00:14:38.317Z",
+  "collectedAt": "2026-09-20T02:10:26.009Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,7 +41,33 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "“집도 있고 소득도 괜찮은데 거지라고?”…4명 중 3명 노후 비상, 왜?",
+          "title": "“도수치료 횟수 제한? 다 방법 있어요”…냉각치료 실손 청구액 218% 폭증 이유",
+          "link": "https://www.mk.co.kr/news/economy/12157317",
+          "pubDate": "2026-09-20T01:22:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20231206.c6a0d7f5398948fb9b7385da21f8b10f_R.jpg",
+          "summary": "8월 도수치료 청구 1년새 92% 급감 신장분사·증식치료 늘며 ‘풍선효과’ 의협, 관리급여 반발 헌법소원 청구정부가 대표적인 과잉진료 비급여 항목으로 꼽혀온 도수치료를 관리급여로 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "삼성의 다음 승부처는 ‘AI 일상’…노태문 “거스를 수 없는 대세”",
+          "link": "https://www.mk.co.kr/news/economy/12157290",
+          "pubDate": "2026-09-20T00:14:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260920.a1bd08693a604010bbcaac1ea2aa4755_R.jpg",
+          "summary": "실리콘밸리서 ‘2026 테크 포럼’ 개최 글로벌 리더급 개발자·삼성 경영진 80여명 참석 AI·로보틱스 결합…일상 모든 공간으로 AI 확장 “최고의 AI 경험 제공해 AX 전환기 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“집도 있고 소득도 괜찮은데, 노후거지?”…4명 중 3명 노후 비상, 왜?",
           "link": "https://www.mk.co.kr/news/economy/12157269",
           "pubDate": "2026-09-19T23:23:14.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/20/news-p.v1.20260918.d8a0fb00f8e540fdbdd25ae9e7b37f99_R.jpg",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“증시 불붙으면 바로 베팅, 그전까지 잠깐 여기에”…최고 연 8% 파킹통장 활용법",
-          "link": "https://www.mk.co.kr/news/economy/12157091",
-          "pubDate": "2026-09-19T05:22:28.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/19/news-p.v1.20260918.b035b3c72b0448b98c956d6da1e57f98_R.jpg",
-          "summary": "수시입출 가능 운신 폭 장점 최고금리 적용 한도 제각각 여윳돈 맞춰 쪼개기 전략을 신한-올리브영, KB-쓱닷컴 해당 브랜드 결제 우대 혜택“6월에 포모(FOMO·소외되는 것에 대한..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경",
-          "link": "https://www.mk.co.kr/news/economy/12157082",
-          "pubDate": "2026-09-19T04:33:47.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/19/news-p.v1.20260707.1606a8faad71472498e1e8b21cc1b00a_R.png",
-          "summary": "5대은행 16개 여신업무에 AI 기업대출 넘어 가계대출로 확산기업대출 분석보고서를 작성하던 인공지능(AI)이 주택담보대출과 전세대출 등 가계대출 영역으로 빠르게 파고들고 있다. 대..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:27.675Z",
+      "fetchedAt": "2026-09-20T02:10:15.413Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:27.909Z",
+      "fetchedAt": "2026-09-20T02:10:15.464Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
-          "pubDate": "2026-09-19T21:57:09.000Z",
+          "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215502",
+          "pubDate": "2026-09-20T11:09:22.000Z",
           "image": null,
-          "summary": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정(4.76%)'으로 이성주 iMBC 경영이사와 전동건 전 울산MBC 사장 중 이사회 투표를 거쳐 이성주 이사가",
+          "summary": "주요 AI 기업들이 안전 확보를 명목으로 제시한 '개발 속도 조절' 구상이 반독점법 위반 논란에 휩싸였다. 안전장치 마련을 위한 업계 자율 협력을 선언한 지 불과 일주일 만에 소비자들로부터 담합 혐의로 고소를 당했다.AP와 CBS 뉴스 등에 따르면, 18일(현지시간) 미국 캘리포니아 북부 지방법원에는 챗GPT와 클로드, 제미나이, 그록 등 주요 AI 서비스의 유료 구독자 4명이 소장을 제출했다. 이들은 미국의 유료 구독자들을 대표해 앤트로픽과 오픈AI, 구글, 스페이스XAI를 상대로 집단소송을 제기했다. 원고 측은 이들 기업이 모델",
           "keywords": [
-            "AI",
-            "이슈트렌드",
-            "역대급",
-            "수출",
-            "실적"
+            "안전",
+            "핑계",
+            "대고",
+            "밀실",
+            "담합"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
-          "pubDate": "2026-09-19T19:46:59.000Z",
+          "title": "\"AI 환각에 중국과 충돌할 뻔\"…미군, 정보 오류에 ‘식은땀’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215501",
+          "pubDate": "2026-09-20T10:34:03.000Z",
           "image": null,
-          "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를 신중히 검토 중이라고 보도했다.현재",
+          "summary": "미군이 AI의 잘못된 분석 결과를 바탕으로 중국 선박을 차단하려다 직전에 철회하는 사건이 발생했다.18일(현지시간) CNN에 따르면, 올봄 이란과의 전쟁이 한창이던 당시 중동에 있 중국 선박이 핵무기 개발 프로그램 부품을 운반 중이라는 정보 보고서가 미군 지휘부 전반에 배포됐다.보고서를 접한 미군은 즉시 작전에 착수했다. 무장한 미군 병력이 선박 승선을 준비하고 상공에는 군용기까지 출격하는 등 긴장감이 최고조에 달했다.그러나 작전 개시 직전, 보고서를 재검토하는 과정에서 치명적인 오류가 발견됐다. 해당 보고서는 하와이 본부의 태평양",
+          "keywords": [
+            "AI",
+            "환각에",
+            "중국과",
+            "충돌할",
+            "미군"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215500",
+          "pubDate": "2026-09-20T10:03:18.000Z",
+          "image": null,
+          "summary": "오픈AI가 오는 2030년까지 수천억달러에 달하는 현금을 소진, 2028년에는 보유한 자금이 모두 떨어질 것이라는 전망이 나왔다. 경쟁사인 앤트로픽도 가파른 매출 성장세 뒤에 감춰진 인프라 비용 폭증과 적자 전환 우려로 기업공개(IPO)를 앞두고 월가의 신중론에 직면하는 등 양대 프런티어 AI 기업의 재무적 부담이 만만치 않은 상황이다.파이낸셜 타임스(FT)는 19일(현지시간) 비공개 투자자 발표 자료를 입수, 오픈AI가 2026년부터 2030년까지 5년간 2780억달러(약 386조원)에 달하는 마이너스 잉여현금흐름을 기록할 것으로",
           "keywords": [
             "오픈AI",
-            "기업",
-            "시장",
-            "점유율",
-            "역전"
+            "2030년까지",
+            "386조",
+            "소진",
+            "컴퓨팅"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
-          "pubDate": "2026-09-19T19:06:23.000Z",
+          "title": "광양, 청년 맞춤 지원 확대…문화부터 취업 준비까지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215446",
+          "pubDate": "2026-09-20T09:50:00.000Z",
           "image": null,
-          "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트 환경 관리 소홀에서 비롯된 사고라는 점이 드러났다.사고는 지난 5월 AI 보안 평가 전문 스타트업 이레귤러(Irregular)가 진행한 모의 침투 훈련 과정에서 일어났다. 가상 환경 내 격리된 기업 시스템을 공격하도록 설계된 시뮬레이션이었으나, 평가",
+          "summary": "AI 생성 영상광양시가 청년의 문화생활과 자산형성, 교육·취업 준비를 지원하는 청년정책을 연계 운영한다.광양은 청년 문화복지카드와 도서 구입비 지원, 자산형성 통장, 결혼축하금, 대학생 생활비 장학금 등을 통해 청년의 생활과 미래 준비를 지원하고 있다고 17일 밝혔다.‘전남청년 문화복지카드’는 광양에 주민등록을 두고 전남에 2년 이상 거주한 청년에게 연간 25만원의 문화복지비를 지원하는 사업이다.지원금은 도서 구입과 공연·영화 관람, 체육시설 이용, 학원 수강 등에 사용할 수 있다. 3차 신청은 10월8일까지이며 거주지 읍·면·동사",
           "keywords": [
-            "구글",
-            "제미나이",
-            "보안",
-            "테스트",
-            "환경"
+            "광양",
+            "청년",
+            "맞춤",
+            "지원",
+            "확대"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215483",
-          "pubDate": "2026-09-19T18:05:57.000Z",
+          "title": "나주, 국립정원문화원과 협약…영산강정원 운영·프로그램 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215445",
+          "pubDate": "2026-09-20T09:50:00.000Z",
           "image": null,
-          "summary": "AI가 단순히 사람이 지정한 애플리케이션 코드를 작성하는 단계를 넘어, 자신이 구동되는 하드웨어 및 시스템 인프라 최적화 레이어까지 직접 진입하며 개발 과정을 진화시키고 있다.Z.ai(지푸 AI)는 17일(현지시간) 자체 개발한 'GLM'을 활용해 차세대 AI 모델의 추론 인프라를 직접 구축하고 최적화하는 사례를 공개했다.아직 AI가 스스로 후속 모델을 설계하고 학습하는 ‘재귀적 자기개선(RSI)’ 단계에는 도달하지 않았지만, GLM이 자신의 실행 환경을 개선하는 초기 형태가 나타나고 있다고 설명했다.앞서 지난해 10월에는 사이버보",
+          "summary": "AI 생성 영상나주시가 국립정원문화원과 손잡고 영산강정원의 프로그램 전문성과 운영 역량을 강화한다.나주는 지난 17일 국립정원문화원과 ‘영산강정원 등 지역 정원문화 활성화를 위한 업무협약’을 체결했다고 18일 밝혔다.이번 협약은 영산강의 자연·생태적 가치를 정원문화와 연계하고 영산강정원의 지속적인 운영 기반을 강화하기 위해 마련됐다.양 기관은 올해 영산강축제와 연계한 민간정원 전시와 정원 체험 프로그램부터 공동 추진한다.‘가족정원 페스티벌’에서는 참가자를 대상으로 가드닝 교육을 진행하고 경연 심사와 전문가 멘토링 등도 지원할 예정이",
           "keywords": [
-            "ai",
-            "AI가",
-            "AI",
-            "실행",
-            "인프라"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215492",
-          "pubDate": "2026-09-19T17:47:54.000Z",
-          "image": null,
-          "summary": "SK하이닉스의 손자회사 솔리다임이 미국 첫 낸드플래시 생산거점 구축을 검토 중인 것으로 알려졌으나, SK하이닉스는 확정된 바 없다는 입장을 밝혔다.지난 18일 업계에 따르면 솔리다임은 미국 동부 지역에 낸드 양산라인을 세우기 위해 후보 부지와 세부 조건 등을 들여다보고 있는 것으로 전해졌다.솔리다임은 SK하이닉스가 2021년 말 90억달러(약 12조원)를 들여 인텔 낸드 사업을 인수하면서 출범한 법인이다. 현재 중국 다롄에서 생산시설을 가동 중이며, 미국에는 본사와 연구개발(R&D) 센터를 두고 있다.현재 SK하이닉스가 인디애나주에",
-          "keywords": [
-            "SK하이닉스",
-            "미국에",
-            "낸드",
-            "생산거점",
-            "구축"
+            "나주",
+            "국립정원문화원과",
+            "협약",
+            "영산강정원",
+            "운영"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:28.956Z",
+      "fetchedAt": "2026-09-20T02:10:16.441Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:29.148Z",
+      "fetchedAt": "2026-09-20T02:10:16.574Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,89 +361,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "아키텍처 우주비행사들에게 겁먹지 말라 (2001)",
-          "link": "https://news.hada.io/topic?id=33963",
-          "pubDate": "2026-09-20T00:02:24.000Z",
+          "title": "Microsoft 디렉터: AI 스크래핑은 ‘인류 역사상 최대 규모의 노동 도둑질’",
+          "link": "https://news.hada.io/topic?id=33970",
+          "pubDate": "2026-09-20T01:42:24.000Z",
           "image": null,
-          "summary": "추상화를 지나치게 밀어붙이면 구체적인 문제는 사라지고, 모든 것을 포괄하지만 실제로는 아무 의미 없는 아키텍처만 남음 Napster의 매력은 P2P 구조가 아니라 노래 이름을 입력하면 곧바로 들을 수 있다는 데 있음 아키텍처 자체가 나쁘다는 것이 아니...",
+          "summary": "New York Times(NYT)의 저작권 소송 서면이 Microsoft와 OpenAI의 내부 문서와 발언을 인용하며, AI의 콘텐츠 수집과 언론사 사업 기반 훼손에 대한 내부 우려를 드러냄 서면에 따르면 Microsoft 응용과학 디렉터 Brent Hecht는 2023년 내부 메모에서 대규모 모델의...",
           "keywords": [
-            "아키텍처",
-            "우주비행사들에게",
-            "겁먹지",
-            "말라",
-            "(2001)"
+            "Microsoft",
+            "디렉터:",
+            "AI",
+            "스크래핑은",
+            "인류"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Waymo의 싱가포르 진출",
-          "link": "https://news.hada.io/topic?id=33962",
-          "pubDate": "2026-09-20T00:02:23.000Z",
+          "title": "Hacker News 순위의 작동 방식: 점수, 논쟁, 페널티 (2013)",
+          "link": "https://news.hada.io/topic?id=33969",
+          "pubDate": "2026-09-20T01:42:23.000Z",
           "image": null,
-          "summary": "Waymo가 싱가포르 교통부와 육상교통청과 협력해 2028년 완전 자율주행 상용 호출 서비스 출시를 준비함 초기에는 사람이 직접 운전하며 지도 작성과 검증을 진행하고, 현지 자율주행 전문 인력이 운전석에 탑승하는 단계를 거쳐 완전 무인 운행으...",
+          "summary": "2013년 Hacker News 상위 60개 게시물을 며칠간 추적한 결과, 순위는 추천 수와 경과 시간뿐 아니라 페널티에 크게 좌우됐으며 첫 페이지 게시물의 평균 20% 가 감점을 받은 상태였음 공개된 점수 계산식은 실제 순위와 대체로 일치했지만, 전체 ...",
           "keywords": [
-            "Waymo의",
-            "싱가포르",
-            "진출"
+            "Hacker",
+            "News",
+            "순위의",
+            "작동",
+            "방식:"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "ZX Spectrum용 그래픽 데스크톱",
-          "link": "https://news.hada.io/topic?id=33961",
-          "pubDate": "2026-09-19T23:52:24.000Z",
+          "title": "AI는 엘리트의 연쇄 범죄다",
+          "link": "https://news.hada.io/topic?id=33968",
+          "pubDate": "2026-09-20T01:02:25.000Z",
           "image": null,
-          "summary": "ZX Desk는 Z80 어셈블리로 작성한 ZX Spectrum 48K용 데스크톱으로, 겹치는 창과 메뉴, 메모장, 시계, 달력, 파일 관리자를 48K 안에 구현하고 실제 하드웨어에서 실행함 실측 기반 최적화로 창 드래그 처리 시간을 프레임당 69,888 T 상태 이내인 59,858 T로 줄여...",
+          "summary": "AI의 유해 행위를 금지하는 기존 법률과 집행기관은 이미 존재하며, 핵심 문제는 규제의 부재보다 권력자에게 법을 적용하지 않는 정치적 합의에 있음 Biden 행정부의 FTC와 법무부는 AI 안전성, 기만적 사용, 데이터와 독점 문제를 조사했지만, 의회와 사법부의 지원 부족...",
           "keywords": [
-            "ZX",
-            "Spectrum용",
-            "그래픽",
-            "데스크톱"
+            "AI는",
+            "엘리트의",
+            "연쇄",
+            "범죄다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "두 신경외배엽 전구세포 계통이 병렬적으로 뇌 발달에 기여함",
-          "link": "https://news.hada.io/topic?id=33960",
-          "pubDate": "2026-09-19T23:52:23.000Z",
+          "title": "AI 챗봇이 사람들의 생각을 바꾸는 데 전문가가 되고 있음",
+          "link": "https://news.hada.io/topic?id=33967",
+          "pubDate": "2026-09-20T01:02:24.000Z",
           "image": null,
-          "summary": "사람과 여러 동물의 뇌 앞부분과 뒷부분은 기존에 생각했던 공통 기원이 아니라 서로 다른 전구세포에서 발달함 생쥐 배아에서 OTX2를 발현하는 전구세포는 전뇌와 중뇌 뉴런으로, GBX2를 발현하는 전구세포는 후뇌 뉴런으로 분화하며, 인간 세포...",
+          "summary": "ChatGPT, Gemini, Claude가 정치적 쟁점에 관한 대화에서 일반인은 물론 세계 챔피언을 포함한 전문 토론자보다 높은 설득력을 보인 연구 결과가 나옴 챗봇은 사실과 근거에 호소하는 방식으로 사람들의 태도를 바꾸지만, 설득에 쓰는 정보가 반드시 정확한 것은 아...",
           "keywords": [
-            "신경외배엽",
-            "전구세포",
-            "계통이",
-            "병렬적으로",
-            "발달에"
+            "AI",
+            "챗봇이",
+            "사람들의",
+            "생각을",
+            "바꾸는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
-          "link": "https://news.hada.io/topic?id=33959",
-          "pubDate": "2026-09-19T22:52:25.000Z",
+          "title": "Brood War Bench",
+          "link": "https://news.hada.io/topic?id=33966",
+          "pubDate": "2026-09-20T01:02:23.000Z",
           "image": null,
-          "summary": "AI 에이전트가 웹사이트를 조작하고 데이터를 추출하는 오픈소스 SDK로, Playwright와 비슷한 코드에 자연어 명령을 함께 사용할 수 있음 브라우저를 제어할 때마다 외부 스크립트와 통신하던 구조를 바꿔, 브라우저 안의 확장 프로그램에서 명령을 처리하고 여러 ...",
+          "summary": "에이전트가 Brood War를 얼마나 독립적으로 플레이할 수 있는지 평가하기 위해 모델과 추론 노력 설정 19개 조합을 서로 대전시켰으며, 초보 수준을 넘어선 모델은 없었음 Codex Astra / xhigh가 18승 무패로 1위를 차지했고, Astra / medium과 Claude Fable이 각각...",
           "keywords": [
-            "Stagehand",
-            "v4",
-            "Playwright보다",
-            "2배",
-            "빠르고"
+            "Brood",
+            "War",
+            "Bench"
           ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
+          "isForeign": true,
+          "titleKo": "브루드 워 벤치",
+          "summaryKo": "에이전트가 Brood War를 얼마나 독립적으로 플레이할 수 있는지 평가하기 위해 모델과 추론 노력 설정 19개 조합을 서로 대전시켰으며, 초보 수준을 넘어선 모델은 없었음 Codex Astra/xhigh가 18승 무패로 1위를 차지했고, Astra/medium과 Claude Fable이 각각..."
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:29.781Z",
+      "fetchedAt": "2026-09-20T02:10:18.772Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +533,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:29.965Z",
+      "fetchedAt": "2026-09-20T02:10:18.872Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:30.169Z",
+      "fetchedAt": "2026-09-20T02:10:19.279Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:30.242Z",
+      "fetchedAt": "2026-09-20T02:10:19.379Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:34.780Z",
+      "fetchedAt": "2026-09-20T02:10:23.375Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:35.660Z",
+      "fetchedAt": "2026-09-20T02:10:23.571Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -970,7 +970,7 @@
           "summaryKo": "인류 연구자의 최후의 날 경고가 AI 세계를 떠들썩하게 한 지 일주일 후, 회사의 CEO 다리오 아모데이 (Dario Amodei) 는 AI 개발의 \"최전선에 서기\" 위한 그의 계획을 설명했습니다. 이 제안은 민주 국가에서 독립적인 안전 평가자와 AI 연구소 간의 조정에 의존하고 있으며, 엔비디아의 젠슨 황 (Jensen Huang) 의 지적된 반발과 함께 이미 업계의 지원을 받고 있습니다. 사용 […]"
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:35.708Z",
+      "fetchedAt": "2026-09-20T02:10:23.762Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:37.807Z",
+      "fetchedAt": "2026-09-20T02:10:25.566Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1078,11 +1078,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - idailynews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
           "pubDate": "2026-09-16T11:11:00.000Z",
           "image": null,
-          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 idailynews.co.kr",
           "keywords": [
             "2016년",
             "지역",
@@ -1112,11 +1112,11 @@
           "summaryKo": null
         },
         {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
           "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
           "keywords": [
             "경기",
             "~9/29(화)",
@@ -1163,7 +1163,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T00:14:38.310Z",
+      "fetchedAt": "2026-09-20T02:10:26.001Z",
       "error": null
     }
   },
@@ -1176,64 +1176,64 @@
       "change": "same"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "청년",
+      "label": "청년",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 7,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
       "count": 2,
-      "rank": 8,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "경기",
       "label": "경기",
-      "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "사업재편",
-      "label": "사업재편",
       "count": 2,
       "rank": 10,
       "change": "down"
