@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-20T22:09:35.633Z",
+  "collectedAt": "2026-09-21T00:14:15.520Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "집 물려받아도 ‘생애최초’ 우대대출 가능하다고?…대출 한도 뛴다는데",
+          "link": "https://www.mk.co.kr/news/economy/12157792",
+          "pubDate": "2026-09-21T00:05:21.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260921.2074158c88bb4492b547433bad252e2c_R.png",
+          "summary": "미성년 상속 등 불가피한 보유 이력 예외 인정 은행 심사 혼선에 금융위 이달 FAQ 배포 예정 규제지역 LTV 40%→70% 실제 한도는 DSR도 따져야#. 어릴 때 집 지분 일부..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“신혼부부의 돈 고민, 전문가들이 답한다”…‘금융문화 토크쇼’ 내달 열린다",
           "link": "https://www.mk.co.kr/news/economy/12157685",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 농협생명, 추석 맞이 송편 나눔",
-          "link": "https://www.mk.co.kr/news/economy/12157607",
-          "pubDate": "2026-09-20T08:45:57.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/21/20260921_01110112000005_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:25.546Z",
+      "fetchedAt": "2026-09-21T00:14:07.067Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,8 +180,8 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-20T20:09:37.465Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-09-21T00:14:07.112Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:26.611Z",
+      "fetchedAt": "2026-09-21T00:14:08.510Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:26.739Z",
+      "fetchedAt": "2026-09-21T00:14:08.657Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -444,7 +444,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:27.646Z",
+      "fetchedAt": "2026-09-21T00:14:09.625Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +534,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:27.759Z",
+      "fetchedAt": "2026-09-21T00:14:09.828Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:28.035Z",
+      "fetchedAt": "2026-09-21T00:14:09.947Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:28.134Z",
+      "fetchedAt": "2026-09-21T00:14:09.997Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:31.942Z",
+      "fetchedAt": "2026-09-21T00:14:13.105Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:32.121Z",
+      "fetchedAt": "2026-09-21T00:14:13.392Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -909,11 +909,11 @@
           "image": null,
           "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
           "keywords": [
-            "Startups",
             "AI",
             "Social",
-            "TechCrunch Disrupt",
-            "Startup Battlefield 200"
+            "Startups",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "ScrollEd는 교과서를 TikTok으로 전환하고자 합니다",
@@ -970,7 +970,7 @@
           "summaryKo": "UP.Labs는 현재 Vantora라는 이름으로 비즈니스를 수행하고 있으며 산업 기업을 위한 스타트업을 구축하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:33.250Z",
+      "fetchedAt": "2026-09-21T00:14:13.445Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:35.181Z",
+      "fetchedAt": "2026-09-21T00:14:15.065Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1129,11 +1129,11 @@
           "summaryKo": null
         },
         {
-          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4.co.kr",
+          "title": "서울테크노파크, 사업재편 지원사업 참여기업 모집 - elec4",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QOVcyTHdOT0FNTjNKQU45RVVxMVpxMGYtREg4dzhvU3V5NjBpVXM3NFB1QjVBcXZJcG5jRzM1bjlIMkRUMVNjT3drcHlTR1RVT2RLX0NKZmdxdlI3czB1MWVVUUdRVlBwTXZzeVpB?oc=5",
           "pubDate": "2026-09-16T01:38:53.000Z",
           "image": null,
-          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4.co.kr",
+          "summary": "서울테크노파크, 사업재편 지원사업 참여기업 모집 elec4",
           "keywords": [
             "서울테크노파크",
             "사업재편",
@@ -1163,7 +1163,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-20T22:09:35.624Z",
+      "fetchedAt": "2026-09-21T00:14:15.512Z",
       "error": null
     }
   },
@@ -1215,7 +1215,7 @@
       "label": "Special Post",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "gn:",
@@ -1236,7 +1236,7 @@
       "label": "경기",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
