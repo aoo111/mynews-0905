@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-21T12:13:00.607Z",
+  "collectedAt": "2026-09-21T14:10:48.170Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:51.069Z",
+      "fetchedAt": "2026-09-21T14:10:30.189Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:51.161Z",
+      "fetchedAt": "2026-09-21T14:10:30.254Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:52.278Z",
+      "fetchedAt": "2026-09-21T14:10:31.509Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "How V7 gives AI agents institutional memory",
+          "link": "https://openai.com/index/v7",
+          "pubDate": "2026-09-21T00:00:00.000Z",
+          "image": null,
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "V7이 인공지능 에이전트에 기관 메모리를 제공하는 방법",
+          "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
+        },
         {
           "title": "Introducing the Australian Youth Safety Blueprint",
           "link": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -337,22 +350,9 @@
           "isForeign": true,
           "titleKo": "고령자가 일상 생활에서 AI를 사용할 수 있도록 지원",
           "summaryKo": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시에서 1,000명의 고령자를 대상으로 무료 실습 ChatGPT 워크숍을 개최합니다."
-        },
-        {
-          "title": "Reimagining advertising with AI",
-          "link": "https://openai.com/index/reimagining-advertising-with-ai",
-          "pubDate": "2026-09-16T13:00:00.000Z",
-          "image": null,
-          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "AI로 광고 재창조하기",
-          "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:52.417Z",
+      "fetchedAt": "2026-09-21T14:10:33.626Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,74 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
+          "link": "https://news.hada.io/topic?id=34069",
+          "pubDate": "2026-09-21T13:36:50.000Z",
+          "image": null,
+          "summary": "jev-leftpad는 값의 왼쪽에 붙일 공백 수를 Jev 모델이 선택하도록 하는 패키지로, padStart() 한 줄이면 가능한 작업에 모델을 호출함 모델이 space_0부터 space_10까지의 선택지 중 하나를 고르면, JavaScript가 해당 개...",
+          "keywords": [
+            "jev",
+            "leftpad",
+            "Jev로",
+            "왼쪽에",
+            "패딩"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Disney+, 새 이용약관으로 모든 구독 요금제에서 영화 시작 전 광고 허용",
+          "link": "https://news.hada.io/topic?id=34068",
+          "pubDate": "2026-09-21T13:33:50.000Z",
+          "image": null,
+          "summary": "Disney+ 가 2025년 1월 구독 약관을 변경해, ‘광고 없음’으로 판매하는 요금제를 포함한 모든 구독 등급에 광고가 들어갈 수 있도록 함 광고 없는 요금제는 일반적으로 상업 광고로 재생이 중단되지 않지만, 스트리밍 권리나 기타 제약, 실시간 방송과 특별 행사...",
+          "keywords": [
+            "Disney+",
+            "이용약관으로",
+            "모든",
+            "구독",
+            "요금제에서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
+          "link": "https://news.hada.io/topic?id=34067",
+          "pubDate": "2026-09-21T12:38:05.000Z",
+          "image": null,
+          "summary": "mini-AGI는 단일 8GB VRAM GPU에서 처음부터 학습하고, 읽는 데이터에 따라 전문가 풀과 연산 깊이를 바꾸는 바이트 단위 언어 모델임 가중치와 옵티마이저 상태를 디스크에 저장하고 필요한 전문가만 GPU에 올리므로, 전체 파라미터 수보다 현재 작업 집합이 VRAM...",
+          "keywords": [
+            "Show",
+            "HN:",
+            "Mini",
+            "AGI",
+            "8GB"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
+          "link": "https://news.hada.io/topic?id=34066",
+          "pubDate": "2026-09-21T12:35:05.000Z",
+          "image": null,
+          "summary": "ZuckOff는 주변 스마트 안경의 Bluetooth 신호를 감지해 같은 공간에 기기가 있는지 알려주는 앱으로, iPhone에서 기본 스캔 기능을 무료로 제공함 모델별 Bluetooth 신호로 만든 디지털 지문을 활용하며, Ray-Ban Meta, Oakley Meta, Snap Spectacles 등을 탐지함...",
+          "keywords": [
+            "ZuckOff",
+            "Meta",
+            "안경이",
+            "당신을",
+            "보기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Kev - Qwen3.5 기반의 소형 Jev 유사 의사결정 모델 제품군",
           "link": "https://news.hada.io/topic?id=34065",
@@ -376,74 +444,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "ZuckOff - 방 안에 카메라가 있는지 알려주는 앱",
-          "link": "https://news.hada.io/topic?id=34064",
-          "pubDate": "2026-09-21T11:39:00.000Z",
-          "image": null,
-          "summary": "ZuckOff는 카메라 안경의 Bluetooth 신호를 감지해 Ray-Ban Meta, Oakley Meta, Snap Spectacles 같은 기기가 근처에 있으면 알려줌 제조사 식별 정보로 카메라 안경을 판별하고, 각 판별의 근거를 공개해 사용자가 직접 판단할 수 있게 함 데이터...",
-          "keywords": [
-            "ZuckOff",
-            "안에",
-            "카메라가",
-            "있는지",
-            "알려주는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "콘웨이의 법칙과 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=34063",
-          "pubDate": "2026-09-21T11:08:31.000Z",
-          "image": null,
-          "summary": "콘웨이의 법칙을 AI 에이전트에 적용하면 그대로 들어맞지 않음. 에이전트는 통신 속도는 빠르지만 세션마다 리셋되는 고정된 컨텍스트 윈도우 때문에 인간처럼 프로젝트별 공유 지식을 축적하지 못함 인간-에이전트 상호작용의 병목은 인간이 에이전트의 출력을 읽고 판단하...",
-          "keywords": [
-            "콘웨이의",
-            "법칙과",
-            "프로그래밍",
-            "언어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "그림 판당고 퍼즐 문서(1996년) [pdf]",
-          "link": "https://news.hada.io/topic?id=34062",
-          "pubDate": "2026-09-21T08:31:13.000Z",
-          "image": null,
-          "summary": "그림 판당고 퍼즐 문서(1996년) [pdf]",
-          "keywords": [
-            "그림",
-            "판당고",
-            "퍼즐",
-            "문서(1996년)",
-            "pdf"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "소프트웨어 샌드박싱의 기초(2025)",
-          "link": "https://news.hada.io/topic?id=34061",
-          "pubDate": "2026-09-21T08:09:12.000Z",
-          "image": null,
-          "summary": "프로그램 스스로 관리자 권한 없이 권한을 줄이는 샌드박싱은 시스템 관리자의 보안 정책을 대체하지 않고 보완함 실제 애플리케이션은 프로세스 단위로 구획화하고 서로 다른 권한을 부여해야 하며, 액터 모델과 메시지 전달로 구획 간 통신을 설계할 수 있음",
-          "keywords": [
-            "소프트웨어",
-            "샌드박싱의",
-            "기초(2025)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:53.318Z",
+      "fetchedAt": "2026-09-21T14:10:34.509Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,8 +536,8 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:30.842Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-21T14:10:34.578Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -607,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:53.878Z",
+      "fetchedAt": "2026-09-21T14:10:34.665Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:53.926Z",
+      "fetchedAt": "2026-09-21T14:10:34.717Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -697,97 +700,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "마이리얼트립, 사가 숙박하면 렌터카도 할인…규슈 2박3일 드라이브 여행 제안",
-          "link": "https://www.venturesquare.net/1115488/",
-          "pubDate": "2026-09-21T06:07:33.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/myrealtrip-3-783x522.jpg",
-          "summary": "마이리얼트립이 오는 12월 20일까지 일본 사가현 자유여행객을 위한 ‘사가현 X 렌터카 여행’ 프로모션을 진행한다. 사가현 숙소 예약 시 최대 10만원 할인쿠폰을 제공하고 1박 이상 예약한 이용자에게는 렌터카 5만원 할인쿠폰을 추가 지급한다. 렌터카는 사가·후쿠오카·나... The post 마이리얼트립, 사가 숙박하면 렌터카도 할인…규슈 2박3일 드라이브 여행 제안 appeared first on 벤처스퀘어.",
+          "title": "사운드리퍼블리카, AI 가수 채아가 댓글까지 단다…기업용 AI 인플루언서로 확장",
+          "link": "https://www.venturesquare.net/1115568/",
+          "pubDate": "2026-09-21T14:02:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/chaea-424x522.jpg",
+          "summary": "사운드리퍼블리카가 자체 AI 가수 ‘채아’의 활동을 음악에서 SNS 콘텐츠와 팬 커뮤니케이션, 기업 브랜드 마케팅으로 확대한다. 채아의 취향과 성격, 말투를 설정하고 생성형 AI가 댓글 답변 후보를 만들면 운영진이 최종 답변을 선택하는 방식으로 페르소나를 관리한다. 회... The post 사운드리퍼블리카, AI 가수 채아가 댓글까지 단다…기업용 AI 인플루언서로 확장 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "가라쓰",
-            "규슈여행",
-            "나가사키"
+            "AI가수",
+            "AI인플루언서",
+            "AI캐릭터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "티오더스테이, 테이블오더 들고 몽골 간다…울란바토르 외식 매장서 첫 실증",
-          "link": "https://www.venturesquare.net/1115477/",
-          "pubDate": "2026-09-21T05:56:45.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/toeder-789x444.png",
-          "summary": "티오더스테이가 몽골 AKT MN LLC와 전략적 업무협약을 맺고 몽골 테이블오더 시장에 진출한다. 첫 프로젝트로 몽골 UG그룹과 협력해 울란바토르의 라운지형 외식 매장에 테이블오더 솔루션을 적용하고 시범 운영한다. AKT MN은 현지 영업과 하드웨어 조달, 설치, 고객... The post 티오더스테이, 테이블오더 들고 몽골 간다…울란바토르 외식 매장서 첫 실증 appeared first on 벤처스퀘어.",
+          "title": "컬리, 추석 선물 아직 못 샀다면…2500여개 상품 최대 77% 할인",
+          "link": "https://www.venturesquare.net/1115561/",
+          "pubDate": "2026-09-21T13:57:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/curly-699x522.jpg",
+          "summary": "컬리가 오는 24일까지 추석 막바지 선물 수요를 겨냥한 ‘라스트 오더’ 기획전을 진행한다. 한우와 과일, 수산물, 건강기능식품, 뷰티 등 2500여개 상품을 최대 77% 할인하며 5만원 이하 실속형부터 프리미엄 상품까지 가격대를 다양화했다. 행사 기간 컬리카드는 최대 ... The post 컬리, 추석 선물 아직 못 샀다면…2500여개 상품 최대 77% 할인 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AKTMN",
-            "UG그룹",
-            "글로벌진출"
+            "건강기능식품",
+            "라스트오더",
+            "리테일테크"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "넷플릭스·콘진원, 촬영 전 VFX부터 설계한다…국내 실무자 130명에 글로벌 제작 노하우 공유",
-          "link": "https://www.venturesquare.net/1115474/",
-          "pubDate": "2026-09-21T05:53:25.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-39.jpeg",
-          "summary": "넷플릭스와 한국콘텐츠진흥원이 국내 영상 콘텐츠 업계 실무자 약 130명을 대상으로 ‘VFX 프리프로덕션 워크숍’을 진행했다. 대본 분석 단계부터 VFX와 미술·촬영·조명 부서가 작업 범위와 예산, 일정, 구현 방식을 함께 설계하는 글로벌 제작 현장의 실무 방법을 공유했... The post 넷플릭스·콘진원, 촬영 전 VFX부터 설계한다…국내 실무자 130명에 글로벌 제작 노하우 공유 appeared first on 벤처스퀘어.",
+          "title": "카스퍼스키, 보안 시스템 갈아엎지 않고 필요한 기능만 추가…SMB용 5개 모듈 공개",
+          "link": "https://www.venturesquare.net/1115558/",
+          "pubDate": "2026-09-21T13:50:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Kaspersky-Next-Optimum-418x522.jpg",
+          "summary": "카스퍼스키가 중소·중견기업을 대상으로 기존 기술 스택을 교체하지 않고 필요한 보안 기능을 추가할 수 있는 ‘Kaspersky Next Optimum’ 보안 모듈을 발표했다. 보안 인식과 이메일 보안, 워크로드 보안, 위협 조회·분석, 취약점 관리 등 5개 모듈을 기업 ... The post 카스퍼스키, 보안 시스템 갈아엎지 않고 필요한 기능만 추가…SMB용 5개 모듈 공개 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "GenAI",
-            "GrowCreative",
-            "KOCCA"
+            "EDR",
+            "Kaspersky",
+            "KasperskyNextOptimum"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "포트원, 인플루언서 많아질수록 정산이 문제…계약부터 해외 송금까지 자동화",
-          "link": "https://www.venturesquare.net/1115467/",
-          "pubDate": "2026-09-21T05:50:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20262026-2-789x413.jpg",
-          "summary": "포트원이 인플루언서 마케팅 시장 확대에 따른 기업의 지급·정산 업무 변화를 분석한 ‘인플루언서 이코노미 리포트 2026’을 발간했다. 리포트는 나노·마이크로 인플루언서 활용과 장기 파트너십, 성과형 보상, 글로벌 협업 증가로 기업이 관리해야 할 계약과 지급 건수가 늘어... The post 포트원, 인플루언서 많아질수록 정산이 문제…계약부터 해외 송금까지 자동화 appeared first on 벤처스퀘어.",
+          "title": "오케스트로·퓨리오사AI, GPU 이어 국산 NPU까지 한 플랫폼서 운영…RNGD 사업화 나선다",
+          "link": "https://www.venturesquare.net/1115547/",
+          "pubDate": "2026-09-21T13:44:23.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cjreal-789x502.jpg",
+          "summary": "오케스트로와 퓨리오사AI가 국산 NPU ‘RNGD’를 활용한 AI 인프라의 기술 검증을 고객 실증과 상용 구축으로 확대한다. 오케스트로는 GPU 중심으로 운영해온 AI 추론 플랫폼 ‘CONCERTO A.I.’의 지원 범위를 RNGD까지 넓혀 LLM 배포·서빙·자원 관리... The post 오케스트로·퓨리오사AI, GPU 이어 국산 NPU까지 한 플랫폼서 운영…RNGD 사업화 나선다 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI재무인프라",
-            "SPLIT",
-            "글로벌송금"
+            "AI반도체",
+            "Ai인프라",
+            "AI추론"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "차봇, 문콕·스톤칩부터 타이어까지 신차 손상 5종 보장…차봇케어 출시",
-          "link": "https://www.venturesquare.net/1115460/",
-          "pubDate": "2026-09-21T05:45:47.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/chabot-782x522.png",
-          "summary": "차봇 모빌리티가 신차 출고 이후 생활 손상과 자동차보험 자기부담금을 지원하는 ‘차봇케어’를 출시했다. 대표 상품 차봇케어 365는 신차 출고 후 1개월 이내 차량을 대상으로 1년 동안 앞유리와 차체, 사이드미러·스마트키, 휠·타이어 관련 손상을 지원하며 부품케어와 자기... The post 차봇, 문콕·스톤칩부터 타이어까지 신차 손상 5종 보장…차봇케어 출시 appeared first on 벤처스퀘어.",
+          "title": "심심이, 대답만 하는 AI 넘어 먼저 살피는 AI로…‘꼬마심심이’ 첫 공개",
+          "link": "https://www.venturesquare.net/1115539/",
+          "pubDate": "2026-09-21T13:40:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ssim-637x522.jpg",
+          "summary": "심심이가 ‘AI 대전환 페스타 2026’에서 정서 변화를 감지하고 필요한 순간 대응하는 에이전틱 AI 개발 과정을 처음 공개했다. 지난 7월 착수한 국가 R&D 과제로, 현장에서는 관람객이 AI 컴패니언 ‘꼬마심심이’와 영상통화하며 맥락에 따라 달라지는 대화를 체험했다... The post 심심이, 대답만 하는 AI 넘어 먼저 살피는 AI로…‘꼬마심심이’ 첫 공개 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "강성근",
-            "모빌리티",
-            "문콕"
+            "AI대전환페스타",
+            "AI에이전트",
+            "AI컴패니언"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:57.277Z",
+      "fetchedAt": "2026-09-21T14:10:42.830Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:57.671Z",
+      "fetchedAt": "2026-09-21T14:10:43.141Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -883,6 +886,21 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+          "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+          "pubDate": "2026-09-21T13:49:00.000Z",
+          "image": null,
+          "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+          "keywords": [
+            "Fundraising",
+            "Startups",
+            "health benefits"
+          ],
+          "isForeign": true,
+          "titleKo": "Corridor는 중소기업을 위한 건강 보험 중개를 구축하기 위해 $ 25M 종자를 모금합니다.",
+          "summaryKo": "복도는 중소기업에 중점을 둡니다. 이는 소규모 계정이 대규모 계정보다 낮은 수수료를 생성하기 때문에 전통적인 중개업체가 종종 간과한다고 말합니다."
+        },
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -911,8 +929,9 @@
             "AI",
             "Social",
             "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
+            "TechCrunch Disrupt",
+            "EdTech",
+            "Startup Battlefield 200"
           ],
           "isForeign": true,
           "titleKo": "ScrollEd는 교과서를 TikTok으로 전환하고자 합니다",
@@ -951,25 +970,9 @@
           "isForeign": true,
           "titleKo": "7일 후 요금이 인상됩니다. 지금 Disrupt 티켓을 받으세요.",
           "summaryKo": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요."
-        },
-        {
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-          "pubDate": "2026-09-18T23:25:01.000Z",
-          "image": null,
-          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Startups",
-            "UpLabs"
-          ],
-          "isForeign": true,
-          "titleKo": "다른 신생 기업을 구축하는 신생 기업은 $ 100M을 모금했으며 실제 AI에 올인하고 있습니다.",
-          "summaryKo": "UP.Labs는 현재 Vantora라는 이름으로 비즈니스를 수행하고 있으며 산업 기업을 위한 스타트업을 구축하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:57.776Z",
+      "fetchedAt": "2026-09-21T14:10:44.892Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -977,6 +980,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "씨엔티테크, 충남 대학생 창업팀 5곳 선발…폐의류 완충재부터 웨어러블 점자까지",
+          "link": "https://www.venturesquare.net/1115509/",
+          "pubDate": "2026-09-21T07:41:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cntech-789x427.jpg",
+          "summary": "씨엔티테크가 충남 지역 대학생 창업팀을 대상으로 창업경진대회 최종 결선을 열고 우수 5개 팀을 선정했다. 폐의류를 활용한 자원순환형 택배 완충재를 개발한 RESPACK이 1위를 차지했으며 오버사피엔스, 빛나온, Mody, 와이넥스가 최종 우수팀에 이름을 올렸다. 결선에... The post 씨엔티테크, 충남 대학생 창업팀 5곳 선발…폐의류 완충재부터 웨어러블 점자까지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "ESG",
+            "Mody",
+            "RESPACK",
+            "그린스타트업타운",
+            "대학생창업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "울산창조경제혁신센터, 청년 아이디어 12팀 실제 제품으로…로컬기업과 협업 기회 연다",
           "link": "https://www.venturesquare.net/1115360/",
@@ -1048,27 +1069,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[AI 시대 리더의 대화법] 똑같이 말했는데 한 사람만 움직인다…리더가 먼저 확인할 두 가지",
-          "link": "https://www.venturesquare.net/1115265/",
-          "pubDate": "2026-09-19T09:00:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-resize-789x422.png",
-          "summary": "같은 지시를 해도 팀원마다 받아들이고 움직이는 방식은 다르다. 배경을 먼저 이해해야 하는 사람과 구체적인 할 일이 정해져야 하는 사람에게 필요한 대화 방식도 달라진다. AI 시대에는 팀원의 업무 과정이 잘 드러나지 않는 만큼 리더가 각자의 업무 스타일을 파악하고 전달 ... The post [AI 시대 리더의 대화법] 똑같이 말했는데 한 사람만 움직인다…리더가 먼저 확인할 두 가지 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "AI리더십",
-            "AI시대리더의대화법",
-            "리더십",
-            "리더커뮤니케이션"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:12:59.985Z",
+      "fetchedAt": "2026-09-21T14:10:47.557Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1162,7 +1165,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T12:13:00.597Z",
+      "fetchedAt": "2026-09-21T14:10:48.161Z",
       "error": null
     }
   },
@@ -1205,7 +1208,7 @@
     {
       "key": "special post",
       "label": "Special Post",
-      "count": 4,
+      "count": 3,
       "rank": 6,
       "change": "same"
     },
@@ -1217,25 +1220,25 @@
       "change": "same"
     },
     {
+      "key": "jev",
+      "label": "jev",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
       "key": "경기",
       "label": "경기",
       "count": 2,
-      "rank": 8,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "로컬창업",
       "label": "로컬창업",
       "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "모델",
-      "label": "모델",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1272,20 +1275,20 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
