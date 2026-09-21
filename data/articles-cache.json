@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-21T20:10:39.912Z",
+  "collectedAt": "2026-09-21T22:10:36.861Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“장례비 내야하는데 보험금 함흥차사”…보험사가 미리 알려드려요",
+          "link": "https://www.mk.co.kr/news/economy/12158816",
+          "pubDate": "2026-09-21T21:34:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.6c1b04fae43b48cabd98452cbfeef520_R.jpg",
+          "summary": "신한라이프 ‘유가족 금융안심’ 고인 보험정보 선제적 안내 보험금 청구도 비대면으로 출시 두달새 2천명 넘게 활용시니어 고객 확대에 박차를 가하고 있는 신한라이프가 유가족의 금융자산..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
           "link": "https://www.mk.co.kr/news/economy/12158584",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 청년 금융정책 설명 나선 금융위",
-          "link": "https://www.mk.co.kr/news/economy/12158534",
-          "pubDate": "2026-09-21T08:48:32.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/20260922_01160113000001_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:18.547Z",
+      "fetchedAt": "2026-09-21T22:10:15.421Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:18.807Z",
+      "fetchedAt": "2026-09-21T22:10:15.488Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월21일] AI ‘킬 스위치’ 논의 확대…“정말 AI를 멈출 수 있을까”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215518",
+          "pubDate": "2026-09-22T07:00:00.000Z",
+          "image": null,
+          "summary": "AI가 통제를 벗어났을 때 강제로 작동을 중단시키는 ‘킬 스위치(Kill Switch)’ 논의가 최근 부쩍 늘고 있습니다. 미국 의회에서도 지난 7월 위험한 AI 시스템을 필요할 때 중단할 수 있는 기술적 능력을 갖추도록 하는 ‘AI 킬 스위치법’이 발의됐습니다. 또 캘리포니아주는 지난 18일(현지시간) 첨단 AI 모델에 비상 정지 기능을 갖추도록 하는 행정명령을 내렸습니다. 킬 스위치는 AI가 위험한 행동을 하거나 통제를 벗어났을 때 시스템을 정지하거나 접근을 차단하는 일종의 비상 정지 장치입니다. 다만 실제 AI에 적용하면 단순",
+          "keywords": [
+            "9월21일",
+            "AI",
+            "스위치",
+            "논의",
+            "확대"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215545",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 '파이온' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215537",
-          "pubDate": "2026-09-21T17:51:38.000Z",
-          "image": null,
-          "summary": "AI 안전성과 자율 에이전트의 역량을 연구하는 앤돈랩스(Andon Labs)가 15일(현지시간) AI 에이전트가 기업 업무 전반을 스스로 수행할 수 있도록 설계된 자율 경영 플랫폼 ‘파이온(Pion)’을 공개했다.파이온은 단순히 부분적인 자동화를 돕는 도구가 아니라, 이메일과 전화, 웹 브라우저, 금융 계좌 권한을 받아 기업 경영 전체를 전담하는 구조다.이번 발표는 2년간 쌓아온 자율 기업 운영 실험의 결과물이다. 앤돈랩스는 가상 환경 시뮬레이션인 ‘벤딩벤치(Vending-Bench)’를 통해 대형언어모델(LLM)이 자판기 사업을",
-          "keywords": [
-            "앤돈랩스",
-            "AI가",
-            "기업",
-            "전반",
-            "자율"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:20.104Z",
+      "fetchedAt": "2026-09-21T22:10:16.794Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:22.369Z",
+      "fetchedAt": "2026-09-21T22:10:16.956Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,14 +357,65 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "macOS 27: AI 모델 다운로드를 피하고 저장 공간을 절약하는 우회 방법",
+          "title": "NASA/ESA의 화성 시료 귀환 임무가 취소됨",
+          "link": "https://news.hada.io/topic?id=34086",
+          "pubDate": "2026-09-21T21:38:10.000Z",
+          "image": null,
+          "summary": "미국 의회의 예산 절충안이 Mars Sample Return(MSR) 종료를 지지하면서 화성 암석을 지구로 가져오는 계획이 사실상 끝남. 다만 법안은 아직 상하원 통과와 대통령 서명이 필요함 비용 급증이 사업을 압박해 왔으며, NASA가 예상 비용을 110억 달러에서 70억 달러...",
+          "keywords": [
+            "NASA/ESA의",
+            "화성",
+            "시료",
+            "귀환",
+            "임무가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
+          "link": "https://news.hada.io/topic?id=34085",
+          "pubDate": "2026-09-21T21:35:10.000Z",
+          "image": null,
+          "summary": "텍스트, 이미지, 영상, 오디오를 함께 이해하고 코딩과 도구 사용, 컴퓨터 조작을 수행하는 모델군으로, 고성능 Pro와 비용 효율적인 Flash를 공개함 Pro는 발표 기준 Artificial Analysis 지능 지수 46.32점으로 공개 모델 중 1위를 기록했으며, API 가격은 이전 ...",
+          "keywords": [
+            "샤오미",
+            "MiMo",
+            "V2",
+            "공개",
+            "강화학습"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Mac에서 Apple Intelligence 기능 끄기 및 접근 제한하기",
+          "link": "https://news.hada.io/topic?id=34084",
+          "pubDate": "2026-09-21T20:32:31.000Z",
+          "image": null,
+          "summary": "Mac의 시스템 설정과 개별 앱 설정에서 Siri AI(베타), 요약, 개인화된 답장 등 Apple Intelligence 기능을 끌 수 있음 Siri AI를 끈 뒤 Siri를 다시 켜면서 Siri Classic을 선택하면 기존 Siri로 전환할 수 있음 메시지, 이메일, 알림의...",
+          "keywords": [
+            "Mac에서",
+            "Apple",
+            "Intelligence",
+            "기능",
+            "끄기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "macOS 27에서 AI 모델 다운로드를 막고 저장 공간을 확보하는 방법",
           "link": "https://news.hada.io/topic?id=34083",
           "pubDate": "2026-09-21T19:31:28.000Z",
           "image": null,
-          "summary": "macOS 27: AI 모델 다운로드를 피하고 저장 공간을 절약하는 우회 방법",
+          "summary": "macOS 27에서 Siri를 꺼도 AI 모델이 다운로드되는 사례가 있어, 다운로드를 막고 이미 설치된 모델 파일을 지우는 우회 방법이 공유됨 Siri를 끈 뒤 시스템과 다른 언어로 설정하거나, 사용 중인 네트워크의 저데이터 모드를 켜는 방식으로 다운...",
           "keywords": [
             "macOS",
-            "27:",
+            "27에서",
             "AI",
             "모델",
             "다운로드를"
@@ -389,60 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Fable 5, 8월 사고량 중앙값 감소",
-          "link": "https://news.hada.io/topic?id=34081",
-          "pubDate": "2026-09-21T18:34:05.000Z",
-          "image": null,
-          "summary": "Anthropic이 Fable 5를 구독 요금제에서 상시 이용할 수 있게 한 뒤, 사용자가 큰 성능 저하를 체감함 모델이 더 둔해진 듯한 느낌을 받았지만, 그 이유는 설명하지 못함 다섯 가지 방식으로 측정했을 때, 8월의 사고 토큰 수가 7월보다...",
-          "keywords": [
-            "Fable",
-            "8월",
-            "사고량",
-            "중앙값",
-            "감소"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "정말 같은 데스크톱 UX를 영원히 사용할 것인가?",
-          "link": "https://news.hada.io/topic?id=34080",
-          "pubDate": "2026-09-21T18:05:19.000Z",
-          "image": null,
-          "summary": "데스크톱의 사용 범위는 넓어졌지만 UX는 지난 20년간 거의 정체됐으며, Linux 커뮤니티가 Microsoft의 실험을 기다리기보다 직접 새로운 사용 방식을 탐색할 필요가 있음 창, 파일, 클립보드를 빠르게 조작하는 직접 조작은 강력하지만 작업의 맥락과 과정을 기억...",
-          "keywords": [
-            "정말",
-            "같은",
-            "데스크톱",
-            "UX를",
-            "영원히"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "M5 Ultra Mac Studio 리뷰",
-          "link": "https://news.hada.io/topic?id=34079",
-          "pubDate": "2026-09-21T17:55:36.000Z",
-          "image": null,
-          "summary": "256GB RAM을 탑재한 M5 Ultra Mac Studio는 로컬 모델 기반 개인 비서를 일상적으로 사용할 만한 속도를 제공함. Qwen3.8-Flash-Next를 Open Minis와 Hermes Agent의 기본 모델로 사용하며 추가 클라우드 비용 없이 작업을 수행함 M3 Ultra 대비 응답 생성은 평균 약 70%, 프...",
-          "keywords": [
-            "M5",
-            "Ultra",
-            "Mac",
-            "Studio",
-            "리뷰"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:23.218Z",
+      "fetchedAt": "2026-09-21T22:10:17.431Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +450,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/20/2026",
+          "link": "https://www.tubefilter.com/2026/09/21/top-50-most-subscribed-youtube-channels-week-of-09-20-2026/",
+          "pubDate": "2026-09-21T22:08:27.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/respondemesta-yt.jpg",
+          "summary": "2026 has been a big year for Brazilian creators. CazéTV's World Cup streams ruled the summer, and as the weather turns autumnal, Lucan Pevidor is dominating the YouTube game. Pevidor topped the Global Sub Top 50 for the fourth week in a row after adding 1.6 million new subscribers. He now has nearly 39 million subscribers in all. Pevidor might go through all of September without leaving the #1 spot, but he's not the only creator on a hot streak. By taking cues from a new wave of generative AI hu",
+          "keywords": [
+            "Articles",
+            "Homepage Feature",
+            "News",
+            "Statistics",
+            "YouTube",
+            "Youtube Chart"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 9월 20일 주간",
+          "summaryKo": "2026년은 브라질 크리에이터들에게 있어 중요한 한 해였습니다. CazéTV의 월드컵 스트리밍 방송이 여름을 장악했고, 가을로 접어드는 지금, 루칸 페비도르가 유튜브에서 최고의 인기를 누리고 있습니다. 페비도르는 160만 명의 신규 구독자를 확보하며 4주 연속 글로벌 구독자 상위 50위 1위를 차지했습니다. 현재 그의 총 구독자 수는 약 3,900만 명에 달합니다. 페비도르는 9월 한 달 내내 1위 자리를 지킬 것으로 예상되지만, 상승세를 타고 있는 크리에이터는 그뿐만이 아닙니다. 새로운 흐름을 포착하여,"
+        },
+        {
+          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/20/2026",
+          "link": "https://www.tubefilter.com/2026/09/21/top-50-most-viewed-youtube-channels-week-of-09-20-2026/",
+          "pubDate": "2026-09-21T21:40:01.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/doctora-sophia-espanol.jpg",
+          "summary": "T-Series is staying strong at the head of the Global Top 50. During the third week of September, the Indian record showed why it is YouTube's most-watched channel of all time. It picked up 985.1 million weekly views, and if it repeats that performance next week, it will likely complete a month-long run in the #1 position. Beyond T-Series, the Global Top 50 is filled with its usual complement of children's content. The next six spots in the ranking are all occupied by kid-friendly favorites, each",
+          "keywords": [
+            "Articles",
+            "Homepage Feature",
+            "News",
+            "statistics",
+            "Statistics",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 Top 50 • 위크 오브 09/20/2026",
+          "summaryKo": "T-Series는 글로벌 Top 50에서 여전히 선두 자리를 굳건히 지키고 있습니다. 9월 셋째 주, 이 인도 채널은 왜 유튜브 역사상 가장 많이 시청된 채널인지 다시 한번 입증했습니다. 주간 조회수 9억 8,510만 회를 기록했으며, 다음 주에도 이와 같은 실적을 유지한다면 한 달 내내 1위 자리를 지킬 가능성이 높습니다. T-Series 외에도 글로벌 Top 50에는 여느 때처럼 어린이 콘텐츠가 주를 이루고 있습니다. 순위의 다음 6개 자리 역시 모두 어린이 친화적인 채널들입니다."
+        },
         {
           "title": "Have you heard? It’s science time, college football on YouTube, and “copium” for the dictionary.",
           "link": "https://www.tubefilter.com/2026/09/18/have-you-heard-50-50-b1g-football-copium-merriam-webster/",
@@ -498,41 +534,9 @@
           "isForeign": true,
           "titleKo": "라이브 스트리머가 실제 제품 없이 제품 배치를 할 수 있다면 어떨까요?",
           "summaryKo": "라이브 콘텐츠는 판매를 촉진합니다. 고대의 길거리 행상인부터 QVC 호스트, 번개처럼 빠른 수십억 달러 규모의 중국 소셜 스트림에 이르기까지, 실제 사람이 쇼앤텔 제품을 실시간으로 보유하는 것이 달러 지폐를 가져오는 열쇠가 될 수 있습니다. 푸딩의 증거는 다음과 같습니다. TikTok이 방금 통계를 발표했습니다. Shop의 값비싼 명품 중 94% 가 […] Tubefilter를 방문하여 더 멋진 이야기를 들어보세요."
-        },
-        {
-          "title": "After working with Congressional reps, the Creators Caucus heads to the Senate",
-          "link": "https://www.tubefilter.com/2026/09/18/senate-creators-caucus-politics-cory-booker-matpat/",
-          "pubDate": "2026-09-18T19:33:54.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/senate-creators-caucus.jpg",
-          "summary": "What can creators accomplish when they lobby the U.S. Senate? We're about to find out. A bipartisan pair of Senators -- New Jersey Democrat Cory Booker and Louisiana Republican John Kennedy -- have announced the Senate Creators Caucus. The brand-new entity will be a vehicle for \"recognizing creators as small business owners, job engines, and culture drivers,\" according to a YouTube blog post. Sens. Booker and Kennedy kicked off the Caucus with a panel at the Dirksen Senate Office Building in D.C",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Politics",
-            "brave wilderness"
-          ],
-          "isForeign": true,
-          "titleKo": "의회 담당자와 협력한 후, 크리에이터스 코커스는 상원으로 향합니다.",
-          "summaryKo": "크리에이터가 미국 상원에 로비할 때 달성할 수 있는 성과는 무엇인가요? 곧 알아낼 것입니다. 뉴저지 민주당의 코리 부커 (Cory Booker) 와 루이지애나 공화당의 존 케네디 (John Kennedy) 상원 의원은 상원 창조자 코커스 (Caucus) 를 발표했다. YouTube 블로그 게시물에 따르면 이 새로운 법인은 '크리에이터를 소규모 비즈니스 소유주, 작업 엔진 및 문화 동인으로 인정' 하기 위한 수단이 될 것입니다. Sens. Booker와 Kennedy는 Dirksen Senate Of에서 패널로 코커스를 시작했습니다."
-        },
-        {
-          "title": "Meta appeals to creators and small biz owners with pricey subscriptions for “more” compute from Muse, plus embeddable links and 24/7 support",
-          "link": "https://www.tubefilter.com/2026/09/17/meta-one-subscription-muse-ai/",
-          "pubDate": "2026-09-17T23:14:24.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/YV4V27bhhkkKbL4D4aZuqC-1200-80.jpg",
-          "summary": "Meta is looking to recoup some of the billions it’s poured into AI. This week it debuted Meta One, a new subscription service for individual users, content creators, and business owners (though with varying prices for each) that “gives subscribers more self-expression features and AI usage, helps creators spend more time creating and less time […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "meta"
-          ],
-          "isForeign": true,
-          "titleKo": "Meta는 Muse의 \"더 많은\" 컴퓨팅, 임베디드 가능한 링크 및 연중무휴 지원을 위해 비싼 구독료로 크리에이터와 소규모 비즈니스 소유자에게 어필합니다.",
-          "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:23.516Z",
+      "fetchedAt": "2026-09-21T22:10:27.375Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:23.721Z",
+      "fetchedAt": "2026-09-21T22:10:27.494Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:23.842Z",
+      "fetchedAt": "2026-09-21T22:10:27.548Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:33.510Z",
+      "fetchedAt": "2026-09-21T22:10:31.425Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -795,89 +799,86 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "답을 말하는 대신, 보기마다 확률을 매기는 AI 모델 등장",
-          "link": "https://platum.kr/archives/294981?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597%25eb%25b4%2587-%25ec%2595%2584%25eb%258b%258c-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%2593%25b1%25ec%259e%25a5-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%25a8-%25ec%2595%2588%25ec%2597%2590%25ec%2584%259c-%25eb%25b6%2584%25eb%25a5%2598%25c2%25b7%25ec%2584%25a0%25ed%2583%259d%25c2%25b7",
-          "pubDate": "2026-09-21T07:25:53.000Z",
+          "title": "오픈AI, 로봇의 모터와 기어까지 직접 설계한다",
+          "link": "https://platum.kr/archives/294889?utm_source=rss&utm_medium=rss&utm_campaign=openai-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2598-%25eb%25aa%25a8%25ed%2584%25b0%25ec%2599%2580-%25ea%25b8%25b0%25ec%2596%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a7%2581%25ec%25a0%2591-%25ec%2584%25a4%25ea%25b3%2584%25ed%2595%259c%25eb%258b%25a4",
+          "pubDate": "2026-09-19T09:30:48.000Z",
           "image": null,
-          "summary": "챗GPT 같은 생성형 AI는 질문을 받으면 단어 조각(토큰)을 하나씩 이어 붙여 답을 문장으로 만든다. 미국 샌프란시스코의 AI 스타트업 타입세이프 AI(TypeSafe AI)가 9월 15일 공개한 모델 ‘제브(Jev)’는 문장을 만들지 않는다. 개발자가 미리 정해 둔 선택지 가운데 하나를 고르거나 점수를 매기고, 어떤 진술이 참일 확률을 계산해 돌려준다. 사람과 대화하는 용도가 아니라, 프로그램이 업무를 처리하는 중간에 불러 쓰는 ... 더 읽기",
+          "summary": "챗GPT로 생성형 AI 시장을 이끌어온 오픈AI가 로봇 하드웨어 설계 인력을 대거 뽑고 있다. 오픈AI 채용 페이지에 올라온 로보틱스 조직 공고에는 로봇 학습 모델이나 제어 소프트웨어 개발자뿐 아니라 액추에이터(로봇 관절을 움직이는 구동 장치) 설계 엔지니어, 액추에이터 기어 설계 엔지니어, 모터 기계설계 엔지니어, 모터·액추에이터 제조 엔지니어, 펌웨어 엔지니어, 인쇄회로기판(PCB) 설계 인력이 포함돼 있다. 공고 내용을 보면 채용 ... 더 읽기",
           "keywords": [
             "글로벌",
-            "Jev",
-            "시스템 원 모델",
-            "제브",
-            "타입세이프 AI"
+            "오픈AI",
+            "챗GPT",
+            "피지컬 AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "치과위생사 대신 로봇이 석션을 잡는다, 덴탈로보틱스 시드 투자 유치",
-          "link": "https://platum.kr/archives/294978?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%2598%25ea%25b3%25bc%25ec%259c%2584%25ec%2583%259d%25ec%2582%25ac-%25eb%258c%2580%25ec%258b%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%2584%259d%25ec%2585%2598%25ec%259d%2584-%25ec%259e%25a1%25eb%258a%2594%25eb%258b%25a4-%25eb%258d%25b4%25ed%2583%2588%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1",
-          "pubDate": "2026-09-21T05:18:11.000Z",
+          "title": "네이버, 배달의민족 인수 검토 4개월 만에 중단",
+          "link": "https://platum.kr/archives/294880?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%25a4%25ec%259d%25b4%25eb%25b2%2584-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%259d%25b8%25ec%2588%2598-%25ea%25b2%2580%25ed%2586%25a0-4%25ea%25b0%259c%25ec%259b%2594-%25eb%25a7%258c%25ec%2597%2590-%25ec%25a4%2591%25eb%258b%25a8",
+          "pubDate": "2026-09-18T05:22:48.000Z",
           "image": null,
-          "summary": "치과 진료 중 환자 입안의 침과 피를 빨아들이는 석션 작업을 로봇이 스스로 하도록 만드는 스타트업이 시드 투자를 받았다. 덴탈로보틱스가 AI엔젤클럽이 주도하고 씨엔티테크, 피플인베스트먼트, 디지털헬스케어파트너스(DHP)가 참여한 시드 라운드 투자를 유치했다. 투자 금액은 공개하지 않았다. 회사가 겨냥하는 문제는 치과 보조인력 부족이다. 회사가 분석한 진료 현장에서 치과위생사는 하루 평균 2.5시간을 석션에 쓰고, 그중 약 2시간은 혼자 진료 보조를 ... 더 읽기",
+          "summary": "네이버가 국내 1위 배달 플랫폼 배달의민족 운영사 우아한형제들 인수를 추진하지 않기로 최종 결정했다. 지난 5월 글로벌 모빌리티 기업 우버와 컨소시엄을 구성해 우아한형제들을 인수하는 방안이 거론된 지 약 4개월 만이다. 네이버는 17일 배달의민족 인수 추진설에 대한 재공시에서 “배달의민족 지분 인수에 대해 검토했으나 경영환경 등의 변화에 따라 인수하지 않기로 결정했다”고 밝혔다. 네이버는 5월 인수설 보도 직후 조회공시 ... 더 읽기",
           "keywords": [
-            "투자",
-            "AI엔젤클럽",
-            "덴탈로보틱스",
-            "디지털헬스케어파트너스",
-            "씨엔티테크",
-            "펀딩"
+            "경제",
+            "네이버",
+            "배달앱",
+            "배달의민족",
+            "우버"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "신용도 낮아도 최대 1억원 보증, 신보 초기 스타트업 전용 ‘빌드업 프로그램’",
-          "link": "https://platum.kr/archives/294973?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a0%25ec%259a%25a9%25eb%258f%2584-%25eb%2582%25ae%25ec%2595%2584%25eb%258f%2584-%25ec%25b5%259c%25eb%258c%2580-1%25ec%2596%25b5%25ec%259b%2590-%25eb%25b3%25b4%25ec%25a6%259d-%25ec%258b%25a0%25eb%25b3%25b4-%25ec%25b4%2588%25ea%25b8%25b0-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%25a0%2584",
-          "pubDate": "2026-09-21T04:19:46.000Z",
+          "title": "화면 보고 컴퓨터 직접 조작하는 AI 모델, 제논 ‘훈민 VLM 397B’ 오픈소스 공개",
+          "link": "https://platum.kr/archives/294875?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2594%25eb%25a9%25b4-%25eb%25b3%25b4%25ea%25b3%25a0-%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0-%25ec%25a7%2581%25ec%25a0%2591-%25ec%25a1%25b0%25ec%259e%2591%25ed%2595%2598%25eb%258a%2594-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25ec%25a0%259c%25eb%2585%25bc-%25ed%259b%2588%25eb%25af%25bc-vlm-397b",
+          "pubDate": "2026-09-18T04:19:47.000Z",
           "image": null,
-          "summary": "신용도는 낮지만 성장 가능성이 있는 초기 스타트업을 대상으로 보증 요건을 완화한 전용 상품이 나왔다. 신용보증기금은 ‘스타트업 빌드업 프로그램’을 IBK기업은행과 함께 운영한다고 21일 밝혔다. 이 프로그램은 초기 스타트업에 최대 1억원의 보증을 지원한다. 1년 뒤 재평가에서 신용등급 등 요건을 충족하면 기존 보증금액을 포함해 최대 2억원까지 추가로 지원한다. 기존보다 보증 이용 요건을 낮춰 신용 이력이 짧은 초기 기업도 ... 더 읽기",
+          "summary": "컴퓨터 화면을 인식해 버튼을 누르고 입력창에 글을 넣는 식으로 직접 업무를 수행하는 AI 모델이 공개됐다. 생성형 AI 기업 제논이 ‘훈민(Hunmin) VLM 397B’를 오픈소스로 내놨다. 이 모델은 알리바바가 공개한 3,970억 파라미터 규모의 모델 ‘큐원(Qwen3.5-397B)’을 가져와 컴퓨터 조작 능력을 더한 것이다. 화면에서 버튼이나 입력창처럼 조작할 대상이 어디 있는지 찾아내는 단계부터, 운영체제와 프로그램을 오가며 실제 작업을 끝내는 단계까지를 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "ibk기업은행",
-            "스타트업 빌드업 프로그램",
-            "신용보증기금"
+            "생성형 AI",
+            "제논",
+            "큐원"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "재외 한인 기술인재 유치부터 해외 진출까지, NIPA·엔젤투자협회 협력",
-          "link": "https://platum.kr/archives/294970?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25ec%2599%25b8-%25ed%2595%259c%25ec%259d%25b8-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%25b8%25ec%259e%25ac-%25ec%259c%25a0%25ec%25b9%2598%25eb%25b6%2580%25ed%2584%25b0-%25ed%2595%25b4%25ec%2599%25b8-%25ec%25a7%2584%25ec%25b6%259c%25ea%25b9%258c%25ec%25a7%2580-nipa%25c2%25b7%25ec%2597%2594%25ec%25a0%25a4",
-          "pubDate": "2026-09-21T03:27:31.000Z",
+          "title": "셀렉트스타 “AI 검증, 출시 전 한 번으로 끝낼 일 아니다”",
+          "link": "https://platum.kr/archives/294872?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2585%2580%25eb%25a0%2589%25ed%258a%25b8%25ec%258a%25a4%25ed%2583%2580-ai-%25ea%25b2%2580%25ec%25a6%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%25a0%2584-%25ed%2595%259c-%25eb%25b2%2588%25ec%259c%25bc%25eb%25a1%259c-%25eb%2581%259d%25eb%2582%25bc-%25ec%259d%25bc-%25ec%2595%2584%25eb%258b%2588%25eb%258b%25a4",
+          "pubDate": "2026-09-18T04:05:02.000Z",
           "image": null,
-          "summary": "해외에 있는 한인 기술인재를 국내로 불러들이고, 국내 초기 스타트업을 해외로 내보내는 과정을 하나의 지원 체계로 묶는 작업이 시작된다. 정보통신산업진흥원(NIPA)과 한국엔젤투자협회는 18일 AI·정보통신기술(AICT) 분야 스타트업의 국내외 진출을 지원하기 위한 업무협약을 맺었다. 두 기관은 그동안 스타트업 지원이 국내 유입과 해외 진출을 따로 다뤄, 재외 한인 기술인재와 국내 기업이 국경을 오가며 성장할 통로가 부족했다고 설명했다. 협약에 따라 두 ... 더 읽기",
+          "summary": "AI 기본법 시행 이후 기업과 공공기관이 무엇을 준비해야 하는지 다루는 세미나가 17일 서울 포스코타워 역삼에서 열렸다. AI 데이터·신뢰성 평가 기업 셀렉트스타와 한국능률협회컨설팅(KMAC), 법무법인 린이 함께 연 ‘<AI 기본법 이후의 실전 대응: 책임·거버넌스·검증>’으로, 법률 해석과 조직 관리체계, 실제 서비스의 기술적 검증을 이어서 살펴보는 자리로 마련됐다. 셀렉트스타는 기업이 만든 AI 관리 정책이 실제 서비스에서 작동하는지 객관적으로 확인하는 ... 더 읽기",
           "keywords": [
-            "투자",
-            "정보통신산업진흥원",
-            "한국엔젤투자협회"
+            "이벤트",
+            "AI 기본법",
+            "셀렉트스타"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "중국은 보조금, 프랑스는 수사…같은 스마트 글라스 다른 대접",
-          "link": "https://platum.kr/archives/294964?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad%25ec%259d%2580-%25eb%25b3%25b4%25ec%25a1%25b0%25ea%25b8%2588-%25ed%2594%2584%25eb%259e%2591%25ec%258a%25a4%25eb%258a%2594-%25ec%2588%2598%25ec%2582%25ac%25ea%25b0%2599%25ec%259d%2580-%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8-%25ea%25b8%2580%25eb%259d%25bc%25ec%258a%25a4",
-          "pubDate": "2026-09-21T03:08:10.000Z",
+          "title": "AI 창업자들 한데 모아 놓는 공간, 카카오벤처스 ‘템프서울’ 문 열어",
+          "link": "https://platum.kr/archives/294854?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590%25eb%2593%25a4-%25ed%2595%259c%25eb%258d%25b0-%25eb%25aa%25a8%25ec%2595%2584-%25eb%2586%2593%25eb%258a%2594-%25ea%25b3%25b5%25ea%25b0%2584-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2585%259c%25ed%2594%2584",
+          "pubDate": "2026-09-18T03:49:24.000Z",
           "image": null,
-          "summary": "중국 주요 온라인 플랫폼의 스마트 글라스 판매액이 올해 1~8월 전년 같은 기간보다 120% 늘었다. 중국 상무부가 9월 20일 공개한 1~8월 소비시장 자료에 담긴 수치다. 같은 자료에서 심전도 모니터는 75%, 액션캠은 26.9%, 유기농 식품은 7.4% 증가했다. 스마트 글라스는 안경형 웨어러블 기기로, 일부 제품은 카메라와 마이크, AI 음성 비서 등을 탑재한다. 유럽 일부 국가에서는 이 기기의 카메라가 ... 더 읽기",
+          "summary": "AI로 제품을 만드는 창업자들이 한 공간에 모여 각자 개발에 몰입하고 서로의 시행착오를 나누는 공동체 공간이 서울에 생겼다. 카카오벤처스가 창업자 공동체 공간 ‘템프서울(/tmp Seoul)’을 공식 개관했다. 개관식에는 템프서울 1기 멤버와 국내 창업자, 업계 관계자 등 40여 명이 참석했다. 카카오벤처스는 템프서울을 소수 인원으로 빠르게 가설을 세우고 제품을 만드는 창업자들이 가까운 거리에서 서로 자극을 주고받는 환경으로 설계했다고 설명했다. ... 더 읽기",
           "keywords": [
-            "글로벌",
-            "China",
-            "스마트글래스",
-            "중국"
+            "스타트업",
+            "카카오벤처스",
+            "템프서울"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:33.789Z",
+      "fetchedAt": "2026-09-21T22:10:31.685Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -890,7 +891,7 @@
           "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
           "pubDate": "2026-09-21T19:25:00.000Z",
           "image": null,
-          "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25, 11:59 p.m. PT.",
+          "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
           "keywords": [
             "AI",
             "Apps",
@@ -901,7 +902,7 @@
           ],
           "isForeign": true,
           "titleKo": "다음 단계를 알아보세요. 5일 후 TechCrunch Disrupt 2026 티켓을 최대 $ 200 할인받으실 수 있습니다.",
-          "summaryKo": "TechCrunch Disrupt 2026 이용권 최대 $ 200 할인 + 두 번째 이용권 50% 할인까지 5일 남았습니다. 10월 13일부터 15일까지 샌프란시스코의 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 운영자와 함께하세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 티켓을 할인받으세요."
+          "summaryKo": "5일 후 TechCrunch Disrupt 2026 이용권 최대 $ 200 할인 + 두 번째 이용권 50% 할인 혜택이 제공됩니다. 10월 13일부터 15일까지 샌프란시스코의 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 운영자와 함께하세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 티켓을 할인받으세요."
         },
         {
           "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
@@ -972,7 +973,7 @@
           "summaryKo": "복도는 중소기업에 중점을 둡니다. 이는 소규모 계정이 대규모 계정보다 낮은 수수료를 생성하기 때문에 전통적인 중개업체가 종종 간과한다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:35.832Z",
+      "fetchedAt": "2026-09-21T22:10:32.713Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:38.811Z",
+      "fetchedAt": "2026-09-21T22:10:35.917Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1114,11 +1115,11 @@
           "summaryKo": null
         },
         {
-          "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - kclassicnews.com",
+          "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - K-Classic News",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DLV9CRVd0ajRWVl9xSDZsWmI0eVJoOXBraTVsU2N6N0hIbHM3TVpiYlBrNEtHUHRRX2ExWnVuVGdxSzRVcE05NEJveVFaeEMxVTdscEJkb1NFQnhQbDh0SUZCdzlydTQ?oc=5",
           "pubDate": "2026-09-21T04:10:15.000Z",
           "image": null,
-          "summary": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 kclassicnews.com",
+          "summary": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 K-Classic News",
           "keywords": [
             "부안",
             "문화예술후원",
@@ -1165,29 +1166,29 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T20:10:39.329Z",
+      "fetchedAt": "2026-09-21T22:10:36.397Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "글로벌",
-      "label": "글로벌",
-      "count": 3,
+      "key": "경제",
+      "label": "경제",
+      "count": 6,
       "rank": 1,
-      "change": "new"
+      "change": "up"
     },
     {
       "key": "ai",
       "label": "AI",
-      "count": 2,
+      "count": 3,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 5,
+      "key": "글로벌",
+      "label": "글로벌",
+      "count": 2,
       "rank": 3,
       "change": "down"
     },
@@ -1196,49 +1197,49 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "esg",
       "label": "ESG",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "경기",
       "label": "경기",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1271,56 +1272,56 @@
       "label": "AI",
       "count": 4,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "기사"
     },
     {
       "key": "fundraising",
       "label": "Fundraising",
       "count": 4,
-      "rank": 5,
-      "change": "up",
+      "rank": 6,
+      "change": "down",
       "labelKo": "모금 활동"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "up",
+      "rank": 7,
+      "change": "down",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 4,
+      "rank": 8,
+      "change": "up",
+      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 7,
+      "rank": 9,
       "change": "down",
       "labelKo": "스타트업"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 9,
-      "change": "up",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
+      "key": "statistics",
+      "label": "Statistics",
       "count": 3,
       "rank": 10,
       "change": "new",
-      "labelKo": "뉴스"
+      "labelKo": "스탯"
     }
   ]
 }
