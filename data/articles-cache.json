@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-21T10:10:36.650Z",
+  "collectedAt": "2026-09-21T12:13:00.607Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“절반이 900점대, 변별력 있나요?”…무늬만 고신용자 걸러내는 은행",
+          "link": "https://www.mk.co.kr/news/economy/12158688",
+          "pubDate": "2026-09-21T12:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260921.1e30716bd52b4502a869b945cc19b78c_R.png",
+          "summary": "고신용자 5명중 1명 대출거절 총량규제 등 가계대출 조이며 고신용자 심사도 엄격해져 중저신용자는 대출난민 전락 제2금융권서 고신용자와 경쟁 일부 차주 부담이자 20% 육박정부의 강..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“월급 꼬박꼬박 들어왔는데 대출금리 왜 안깎였죠?”…급여이체 인정 안 된 까닭",
           "link": "https://www.mk.co.kr/news/economy/12158603",
           "pubDate": "2026-09-21T09:48:02.000Z",
@@ -67,6 +80,19 @@
           "summaryKo": null
         },
         {
+          "title": "[포토] 청년 금융정책 설명 나선 금융위",
+          "link": "https://www.mk.co.kr/news/economy/12158534",
+          "pubDate": "2026-09-21T08:48:32.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/20260922_01160113000001_L00.jpg",
+          "summary": "",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[표] 외국환율고시표",
           "link": "https://www.mk.co.kr/news/economy/12158535",
           "pubDate": "2026-09-21T08:48:32.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 청년 금융정책 설명 나선 금융위",
-          "link": "https://www.mk.co.kr/news/economy/12158534",
-          "pubDate": "2026-09-21T08:48:32.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/20260922_01110113000006_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "정기예금 금리 0.1%P 인상 … KB국민銀, 1주만에 또 올려",
-          "link": "https://www.mk.co.kr/news/economy/12158532",
-          "pubDate": "2026-09-21T08:48:31.000Z",
-          "image": null,
-          "summary": "KB국민은행이 대표 정기예금 금리를 일주일 만에 다시 올렸다. 시장금리 상승에 맞춰 시중은행들이 예금 금리를 연 3%대 중반 수준으로 맞추며 수신 경쟁에 나서는 모습이다. 국민은행..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:28.294Z",
+      "fetchedAt": "2026-09-21T12:12:51.069Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:28.468Z",
+      "fetchedAt": "2026-09-21T12:12:51.161Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:29.413Z",
+      "fetchedAt": "2026-09-21T12:12:52.278Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "스폰서 에이전트, 마케터를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:29.650Z",
+      "fetchedAt": "2026-09-21T12:12:52.417Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,56 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Kev - Qwen3.5 기반의 소형 Jev 유사 의사결정 모델 제품군",
+          "link": "https://news.hada.io/topic?id=34065",
+          "pubDate": "2026-09-21T11:42:00.000Z",
+          "image": null,
+          "summary": "Kev는 직접 학습하고 실행할 수 있는 0.8B, 4B, 9B 의사결정 모델로, 사전 학습 가중치와 학습 코드, 평가 데이터를 공개함 하나의 입력에 예/아니요, 객관식 선택, 점수 평가를 함께 요청하고 확률 분포를 받을 수 있으며, 질문끼리는 서로의 내용을 읽지 못하도록...",
+          "keywords": [
+            "Kev",
+            "Qwen3",
+            "기반의",
+            "소형",
+            "Jev"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "ZuckOff - 방 안에 카메라가 있는지 알려주는 앱",
+          "link": "https://news.hada.io/topic?id=34064",
+          "pubDate": "2026-09-21T11:39:00.000Z",
+          "image": null,
+          "summary": "ZuckOff는 카메라 안경의 Bluetooth 신호를 감지해 Ray-Ban Meta, Oakley Meta, Snap Spectacles 같은 기기가 근처에 있으면 알려줌 제조사 식별 정보로 카메라 안경을 판별하고, 각 판별의 근거를 공개해 사용자가 직접 판단할 수 있게 함 데이터...",
+          "keywords": [
+            "ZuckOff",
+            "안에",
+            "카메라가",
+            "있는지",
+            "알려주는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "콘웨이의 법칙과 프로그래밍 언어",
+          "link": "https://news.hada.io/topic?id=34063",
+          "pubDate": "2026-09-21T11:08:31.000Z",
+          "image": null,
+          "summary": "콘웨이의 법칙을 AI 에이전트에 적용하면 그대로 들어맞지 않음. 에이전트는 통신 속도는 빠르지만 세션마다 리셋되는 고정된 컨텍스트 윈도우 때문에 인간처럼 프로젝트별 공유 지식을 축적하지 못함 인간-에이전트 상호작용의 병목은 인간이 에이전트의 출력을 읽고 판단하...",
+          "keywords": [
+            "콘웨이의",
+            "법칙과",
+            "프로그래밍",
+            "언어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "그림 판당고 퍼즐 문서(1996년) [pdf]",
           "link": "https://news.hada.io/topic?id=34062",
@@ -391,59 +441,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Resident Evil 4(GameCube), C/C++로 바이트까지 완전히 동일하게 디컴파일",
-          "link": "https://news.hada.io/topic?id=34060",
-          "pubDate": "2026-09-21T07:39:26.000Z",
-          "image": null,
-          "summary": "Resident Evil 4의 GameCube 디버그 빌드 G4BE08 를 디컴파일한 프로젝트로, 빌드하면 원본 main.dol과 REL 오버레이 114개를 바이트 단위까지 동일하게 재현함 총 1,083개 오브젝트와 15,641개 함수를 복원했으며, C/C++ 소스 약 55만 ...",
-          "keywords": [
-            "Resident",
-            "Evil",
-            "4(GameCube)",
-            "C/C++로",
-            "바이트까지"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "MCP는 처음부터 잘못된 아이디어였을까?",
-          "link": "https://news.hada.io/topic?id=34059",
-          "pubDate": "2026-09-21T07:36:26.000Z",
-          "image": null,
-          "summary": "코드 실행과 API 직접 호출 능력이 발전한 에이전트에는 대부분의 MCP 서버가 더 이상 필요하지 않다는 비판으로, 필요한 인터페이스를 이미 제공하는 HTTP API와 CLI로 대체하자고 제안함 MCP 서버마다 여러 도구와 스키마를 제공하면서 컨텍스트 비대화가 발생했...",
-          "keywords": [
-            "MCP는",
-            "처음부터",
-            "잘못된",
-            "아이디어였을까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "활발히 유지보수되고 업데이트되는 Motif 포크가 실제로 존재함",
-          "link": "https://news.hada.io/topic?id=34058",
-          "pubDate": "2026-09-21T07:01:22.000Z",
-          "image": null,
-          "summary": "수년간 정체된 Motif를 이어가기 위해 개발자들이 Motif 포크를 만들었으며, 시작한 지 1년 조금 넘는 동안 5차례 릴리스를 내놓음 포크는 Motif와 X11 기술의 존속을 목표로 하며, 오랫동안 반영되지 않은 업스트림 수정 사항과 Gentoo의 수정 사...",
-          "keywords": [
-            "활발히",
-            "유지보수되고",
-            "업데이트되는",
-            "Motif",
-            "포크가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:30.513Z",
+      "fetchedAt": "2026-09-21T12:12:53.318Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +534,7 @@
         }
       ],
       "fetchedAt": "2026-09-21T10:10:30.842Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -607,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:31.080Z",
+      "fetchedAt": "2026-09-21T12:12:53.878Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:31.171Z",
+      "fetchedAt": "2026-09-21T12:12:53.926Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:33.934Z",
+      "fetchedAt": "2026-09-21T12:12:57.277Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:34.214Z",
+      "fetchedAt": "2026-09-21T12:12:57.671Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +969,7 @@
           "summaryKo": "UP.Labs는 현재 Vantora라는 이름으로 비즈니스를 수행하고 있으며 산업 기업을 위한 스타트업을 구축하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:34.371Z",
+      "fetchedAt": "2026-09-21T12:12:57.776Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:35.942Z",
+      "fetchedAt": "2026-09-21T12:12:59.985Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,11 +1094,11 @@
           "summaryKo": null
         },
         {
-          "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - newszoom.kr",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBaZm1ibjFVMGhRU0gxSUl1eDNGeUJQbzFKMkJvNkdDVGJ3Y3hFNTFTTUN3cTloeW03Z1RRcUlvbGZIZGlX?oc=5",
-          "pubDate": "2026-09-21T04:01:00.000Z",
+          "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - K-Classic News",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DLV9CRVd0ajRWVl9xSDZsWmI0eVJoOXBraTVsU2N6N0hIbHM3TVpiYlBrNEtHUHRRX2ExWnVuVGdxSzRVcE05NEJveVFaeEMxVTdscEJkb1NFQnhQbDh0SUZCdzlydTQ?oc=5",
+          "pubDate": "2026-09-21T04:10:15.000Z",
           "image": null,
-          "summary": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 newszoom.kr",
+          "summary": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 K-Classic News",
           "keywords": [
             "부안",
             "문화예술후원",
@@ -1162,7 +1162,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T10:10:36.642Z",
+      "fetchedAt": "2026-09-21T12:13:00.597Z",
       "error": null
     }
   },
@@ -1221,21 +1221,21 @@
       "label": "경기",
       "count": 2,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "로컬창업",
       "label": "로컬창업",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "모델",
       "label": "모델",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
