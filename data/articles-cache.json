@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-21T14:10:48.170Z",
+  "collectedAt": "2026-09-21T16:10:56.442Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:30.189Z",
+      "fetchedAt": "2026-09-21T16:10:39.350Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:30.254Z",
+      "fetchedAt": "2026-09-21T16:10:39.403Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:31.509Z",
+      "fetchedAt": "2026-09-21T16:10:40.784Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시에서 1,000명의 고령자를 대상으로 무료 실습 ChatGPT 워크숍을 개최합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:33.626Z",
+      "fetchedAt": "2026-09-21T16:10:40.923Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,71 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
+          "link": "https://news.hada.io/topic?id=34073",
+          "pubDate": "2026-09-21T15:37:35.000Z",
+          "image": null,
+          "summary": "Heretic은 언어 모델의 제한을 제거하는 도구임 제거 대상은 언어 모델에 적용된 검열임 검열 제거는 완전 자동 방식으로 수행함 제한을 제거해 모델이 사용자의 지시를 항상 따르도록 하는 것을 목표로 함...",
+          "keywords": [
+            "Heretic",
+            "언어",
+            "모델의",
+            "제한을",
+            "제거하는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Sun이 잘못한 것",
+          "link": "https://news.hada.io/topic?id=34072",
+          "pubDate": "2026-09-21T15:34:35.000Z",
+          "image": null,
+          "summary": "Sun의 핵심 실패는 사업 운영의 기본 실무에 흥미를 잃은 것이었으며, 전략이 성공하더라도 운영 실패를 극복하지 못하면 기업은 성공할 수 없음 2005년 OpenSolaris로 인프라를 운영하던 급성장 스타트업이 Sun 하드웨어를 대량 구매하려 했지만, Sun은 연락에 응...",
+          "keywords": [
+            "Sun이",
+            "잘못한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: 알람케이 - iOS 26 AlarmKit으로 만든, 미션을 끝내야 꺼지는 알람",
+          "link": "https://news.hada.io/topic?id=34071",
+          "pubDate": "2026-09-21T15:22:35.000Z",
+          "image": null,
+          "summary": "미션을 끝내야 꺼지는 iPhone 알람 앱입니다. QR·바코드 스캔, 수학 문제, 기억력, 타이핑, 흔들기, 스쿼트, 걷기, 사진 인증 등 8가지 미션을 지원하고, 하나의 알람에 최대 5개의 미션을 연속으로 설정할 수 있습니다. iOS 26에서 Apple이 공개한 시스템 알람 API인 AlarmKit을 기반으로 만들었습니다",
+          "keywords": [
+            "Show",
+            "GN:",
+            "알람케이",
+            "iOS",
+            "26"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI 챗봇, 금융 질문에 ‘대부분’ 잘못된 답변",
+          "link": "https://news.hada.io/topic?id=34070",
+          "pubDate": "2026-09-21T14:31:22.000Z",
+          "image": null,
+          "summary": "ChatGPT, Claude, Grok, Gemini 등 18개 AI 모델에 금융 관련 질문을 테스트한 결과, 평균 57% 에서 잘못된 답변을 내놓았으며 복잡한 질문에서는 오류율이 평균 88%까지 올라감 100개 이상의 금융 질문을 최대 5회씩 반복해 *총 1만 건 이상- 질의했으며...",
+          "keywords": [
+            "AI",
+            "챗봇",
+            "금융",
+            "질문에",
+            "대부분"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
           "link": "https://news.hada.io/topic?id=34069",
@@ -376,77 +441,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Disney+, 새 이용약관으로 모든 구독 요금제에서 영화 시작 전 광고 허용",
-          "link": "https://news.hada.io/topic?id=34068",
-          "pubDate": "2026-09-21T13:33:50.000Z",
-          "image": null,
-          "summary": "Disney+ 가 2025년 1월 구독 약관을 변경해, ‘광고 없음’으로 판매하는 요금제를 포함한 모든 구독 등급에 광고가 들어갈 수 있도록 함 광고 없는 요금제는 일반적으로 상업 광고로 재생이 중단되지 않지만, 스트리밍 권리나 기타 제약, 실시간 방송과 특별 행사...",
-          "keywords": [
-            "Disney+",
-            "이용약관으로",
-            "모든",
-            "구독",
-            "요금제에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
-          "link": "https://news.hada.io/topic?id=34067",
-          "pubDate": "2026-09-21T12:38:05.000Z",
-          "image": null,
-          "summary": "mini-AGI는 단일 8GB VRAM GPU에서 처음부터 학습하고, 읽는 데이터에 따라 전문가 풀과 연산 깊이를 바꾸는 바이트 단위 언어 모델임 가중치와 옵티마이저 상태를 디스크에 저장하고 필요한 전문가만 GPU에 올리므로, 전체 파라미터 수보다 현재 작업 집합이 VRAM...",
-          "keywords": [
-            "Show",
-            "HN:",
-            "Mini",
-            "AGI",
-            "8GB"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
-          "link": "https://news.hada.io/topic?id=34066",
-          "pubDate": "2026-09-21T12:35:05.000Z",
-          "image": null,
-          "summary": "ZuckOff는 주변 스마트 안경의 Bluetooth 신호를 감지해 같은 공간에 기기가 있는지 알려주는 앱으로, iPhone에서 기본 스캔 기능을 무료로 제공함 모델별 Bluetooth 신호로 만든 디지털 지문을 활용하며, Ray-Ban Meta, Oakley Meta, Snap Spectacles 등을 탐지함...",
-          "keywords": [
-            "ZuckOff",
-            "Meta",
-            "안경이",
-            "당신을",
-            "보기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Kev - Qwen3.5 기반의 소형 Jev 유사 의사결정 모델 제품군",
-          "link": "https://news.hada.io/topic?id=34065",
-          "pubDate": "2026-09-21T11:42:00.000Z",
-          "image": null,
-          "summary": "Kev는 직접 학습하고 실행할 수 있는 0.8B, 4B, 9B 의사결정 모델로, 사전 학습 가중치와 학습 코드, 평가 데이터를 공개함 하나의 입력에 예/아니요, 객관식 선택, 점수 평가를 함께 요청하고 확률 분포를 받을 수 있으며, 질문끼리는 서로의 내용을 읽지 못하도록...",
-          "keywords": [
-            "Kev",
-            "Qwen3",
-            "기반의",
-            "소형",
-            "Jev"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:34.509Z",
+      "fetchedAt": "2026-09-21T16:10:41.708Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +533,7 @@
           "summaryKo": "메타는 AI에 쏟아진 수십억 달러 중 일부를 회수하려고 합니다. 이번 주에는 개별 사용자, 콘텐츠 제작자 및 비즈니스 소유자를 위한 새로운 구독 서비스인 Meta One (각기 다른 가격) 이 출시되었습니다. Meta One은 \"구독자에게 더 많은 자기 표현 기능과 AI 사용을 제공하여 크리에이터가 창작에 더 많은 시간을 할애하고 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:34.578Z",
+      "fetchedAt": "2026-09-21T16:10:41.816Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:34.665Z",
+      "fetchedAt": "2026-09-21T16:10:41.972Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:34.717Z",
+      "fetchedAt": "2026-09-21T16:10:42.030Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -700,97 +697,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "사운드리퍼블리카, AI 가수 채아가 댓글까지 단다…기업용 AI 인플루언서로 확장",
-          "link": "https://www.venturesquare.net/1115568/",
-          "pubDate": "2026-09-21T14:02:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/chaea-424x522.jpg",
-          "summary": "사운드리퍼블리카가 자체 AI 가수 ‘채아’의 활동을 음악에서 SNS 콘텐츠와 팬 커뮤니케이션, 기업 브랜드 마케팅으로 확대한다. 채아의 취향과 성격, 말투를 설정하고 생성형 AI가 댓글 답변 후보를 만들면 운영진이 최종 답변을 선택하는 방식으로 페르소나를 관리한다. 회... The post 사운드리퍼블리카, AI 가수 채아가 댓글까지 단다…기업용 AI 인플루언서로 확장 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI가수",
-            "AI인플루언서",
-            "AI캐릭터"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "컬리, 추석 선물 아직 못 샀다면…2500여개 상품 최대 77% 할인",
-          "link": "https://www.venturesquare.net/1115561/",
-          "pubDate": "2026-09-21T13:57:29.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/curly-699x522.jpg",
-          "summary": "컬리가 오는 24일까지 추석 막바지 선물 수요를 겨냥한 ‘라스트 오더’ 기획전을 진행한다. 한우와 과일, 수산물, 건강기능식품, 뷰티 등 2500여개 상품을 최대 77% 할인하며 5만원 이하 실속형부터 프리미엄 상품까지 가격대를 다양화했다. 행사 기간 컬리카드는 최대 ... The post 컬리, 추석 선물 아직 못 샀다면…2500여개 상품 최대 77% 할인 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "건강기능식품",
-            "라스트오더",
-            "리테일테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "카스퍼스키, 보안 시스템 갈아엎지 않고 필요한 기능만 추가…SMB용 5개 모듈 공개",
-          "link": "https://www.venturesquare.net/1115558/",
-          "pubDate": "2026-09-21T13:50:39.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Kaspersky-Next-Optimum-418x522.jpg",
-          "summary": "카스퍼스키가 중소·중견기업을 대상으로 기존 기술 스택을 교체하지 않고 필요한 보안 기능을 추가할 수 있는 ‘Kaspersky Next Optimum’ 보안 모듈을 발표했다. 보안 인식과 이메일 보안, 워크로드 보안, 위협 조회·분석, 취약점 관리 등 5개 모듈을 기업 ... The post 카스퍼스키, 보안 시스템 갈아엎지 않고 필요한 기능만 추가…SMB용 5개 모듈 공개 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "EDR",
-            "Kaspersky",
-            "KasperskyNextOptimum"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오케스트로·퓨리오사AI, GPU 이어 국산 NPU까지 한 플랫폼서 운영…RNGD 사업화 나선다",
-          "link": "https://www.venturesquare.net/1115547/",
-          "pubDate": "2026-09-21T13:44:23.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cjreal-789x502.jpg",
-          "summary": "오케스트로와 퓨리오사AI가 국산 NPU ‘RNGD’를 활용한 AI 인프라의 기술 검증을 고객 실증과 상용 구축으로 확대한다. 오케스트로는 GPU 중심으로 운영해온 AI 추론 플랫폼 ‘CONCERTO A.I.’의 지원 범위를 RNGD까지 넓혀 LLM 배포·서빙·자원 관리... The post 오케스트로·퓨리오사AI, GPU 이어 국산 NPU까지 한 플랫폼서 운영…RNGD 사업화 나선다 appeared first on 벤처스퀘어.",
+          "title": "재정경제부 전략경제자문단, 딥엑스 찾았다…국산 AI 반도체 활용 인센티브 논의",
+          "link": "https://www.venturesquare.net/1115674/",
+          "pubDate": "2026-09-21T15:10:31.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/9cfeabd8-9950-4509-a4df-746e65b29765-789x401.png",
+          "summary": "재정경제부 전략경제자문단이 경기 판교 AI 반도체 기업 딥엑스를 방문해 반도체 분과위원회를 열었다. 박영선 위원장과 반도체 전문가, 딥엑스·퓨리오사AI 관계자 등이 참여해 국산 반도체 활용을 확대하기 위한 인센티브와 반도체 소부장 기업의 실증 지원 방안을 논의했다. 딥... The post 재정경제부 전략경제자문단, 딥엑스 찾았다…국산 AI 반도체 활용 인센티브 논의 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
             "AI반도체",
-            "Ai인프라",
-            "AI추론"
+            "NPU",
+            "국산반도체"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "심심이, 대답만 하는 AI 넘어 먼저 살피는 AI로…‘꼬마심심이’ 첫 공개",
-          "link": "https://www.venturesquare.net/1115539/",
-          "pubDate": "2026-09-21T13:40:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/ssim-637x522.jpg",
-          "summary": "심심이가 ‘AI 대전환 페스타 2026’에서 정서 변화를 감지하고 필요한 순간 대응하는 에이전틱 AI 개발 과정을 처음 공개했다. 지난 7월 착수한 국가 R&D 과제로, 현장에서는 관람객이 AI 컴패니언 ‘꼬마심심이’와 영상통화하며 맥락에 따라 달라지는 대화를 체험했다... The post 심심이, 대답만 하는 AI 넘어 먼저 살피는 AI로…‘꼬마심심이’ 첫 공개 appeared first on 벤처스퀘어.",
+          "title": "더즌·카이아, 엔화·루피아·페소 스테이블코인으로 국경 간 결제 실증",
+          "link": "https://www.venturesquare.net/1115652/",
+          "pubDate": "2026-09-21T14:55:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/dozen-696x522.png",
+          "summary": "더즌과 카이아 재단이 로컬 스테이블코인을 활용한 크로스보더 결제·정산과 외화 환전 인프라 구축을 위해 협력한다. 더즌은 은행 송금망 연동과 발행사 직접 상환, 국가 간 정산 및 외화 스테이블코인 환전 구조를 검토하고 카이아 재단은 발행사 온보딩과 온체인 인프라·유동성 ... The post 더즌·카이아, 엔화·루피아·페소 스테이블코인으로 국경 간 결제 실증 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI대전환페스타",
-            "AI에이전트",
-            "AI컴패니언"
+            "f(x)",
+            "IDRP",
+            "JPYC"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "센녹, 성수동에 목욕탕을 열었다?…첫 플래그십 ‘배스 하우스 성수’ 오픈",
+          "link": "https://www.venturesquare.net/1115644/",
+          "pubDate": "2026-09-21T14:50:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260920135555_f7ee99ad79-789x444.png",
+          "summary": "라이프스타일 뷰티 브랜드 센녹이 오는 10월 7일 서울 성수동에 첫 공식 플래그십 스토어 ‘센녹 배스 하우스 성수’를 연다. 한국식 목욕탕을 현대적으로 재해석해 붉은 벽돌과 굴뚝, 하늘빛 타일과 우드 소재를 공간 디자인에 적용했다. 브랜드 론칭 이후 처음 선보이는 상설... The post 센녹, 성수동에 목욕탕을 열었다?…첫 플래그십 ‘배스 하우스 성수’ 오픈 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "K뷰티",
+            "SENNOK",
+            "라이프스타일뷰티"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "이모션웨이브, AI가 업무 결과 받아 마케팅 콘텐츠로…홍콩서 AX 실증",
+          "link": "https://www.venturesquare.net/1115636/",
+          "pubDate": "2026-09-21T14:45:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/emotion.png",
+          "summary": "이모션웨이브가 홍콩 청년 20명과 5개 기업이 참여한 글로벌 프로젝트에서 ‘AX Business Suite’ 개념검증을 진행했다. PartnerOS를 활용해 기업과 인턴 간 업무 전달과 프로젝트 진행 상황을 관리하고 AI가 업무 내용을 요약하도록 했다. 프로젝트에서 만... The post 이모션웨이브, AI가 업무 결과 받아 마케팅 콘텐츠로…홍콩서 AX 실증 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI전환",
+            "AI플랫폼",
+            "AX"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "다음, 아시안게임도 AI로 본다…종목 설명·선수 매치업에 3000만원 야구 이벤트까지",
+          "link": "https://www.venturesquare.net/1115629/",
+          "pubDate": "2026-09-21T14:41:17.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Go-NAGOYA-789x430.png",
+          "summary": "다음이 ‘2026 아이치·나고야 아시안게임’을 맞아 대한민국 대표팀 경기 정보와 AI 콘텐츠를 모은 특집 페이지를 열었다. 경기 일정과 결과, 축구·야구 문자중계, 메달리스트 정보와 주요 영상을 제공하고 관심경기 저장과 대표팀 응원 기능도 운영한다. 버추얼 태권도 등 ... The post 다음, 아시안게임도 AI로 본다…종목 설명·선수 매치업에 3000만원 야구 이벤트까지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI검색",
+            "AI매치업",
+            "AI종목정보"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:42.830Z",
+      "fetchedAt": "2026-09-21T16:10:46.244Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:43.141Z",
+      "fetchedAt": "2026-09-21T16:10:46.510Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,6 +883,59 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-21T15:00:00.000Z",
+          "image": null,
+          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Venture",
+            "AI",
+            "Fundraising",
+            "Benchmark"
+          ],
+          "isForeign": true,
+          "titleKo": "다음 브레이크아웃 스타트업은 어디에서 시작될까요? TechCrunch Disrupt 2026에서 벤치마크의 완전한 파트너십에 무게를 둡니다.",
+          "summaryKo": "다음 브레이크아웃 스타트업은 어디에서 시작될까요? 벤치마크의 완전한 파트너십은 TechCrunch Disrupt 2026의 메인 스테이지에 무게를 두고 있습니다. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 최대 $ 200의 할인 혜택을 누리세요. 지금 등록하세요."
+        },
+        {
+          "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-21T14:30:00.000Z",
+          "image": null,
+          "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "TC",
+            "Google",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "첫 사용자에서 수십억 명까지: Google의 Robby Stein, TechCrunch Disrupt 2026에 합류",
+          "summaryKo": "첫 사용자부터 수십억 명까지: Google의 Robby Stein이 TechCrunch Disrupt 2026에 합류했습니다. 이 빌더스 스테이지 세션에 참여하세요. 9월 25일 전까지 최대 $ 200의 할인 혜택을 누리세요."
+        },
+        {
+          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-21T14:15:00.000Z",
+          "image": null,
+          "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Climate",
+            "Biotech & Health",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200을 심사하는 차세대 VC를 만나보세요",
+          "summaryKo": "TechCrunch Disrupt 2026 메인 스테이지에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC를 만나보세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 등록하여 최대 $ 200를 절약하고 가장 치열한 스타트업 피치 대회 중 하나에 앞자리를 마련하세요."
+        },
         {
           "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
           "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
@@ -918,61 +968,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026에 최대 $ 200를 절약할 수 있는 기간이 6일 남았습니다",
           "summaryKo": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 6일 후에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요."
-        },
-        {
-          "title": "ScrollEd wants to turn textbooks into TikTok",
-          "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-          "pubDate": "2026-09-20T18:00:00.000Z",
-          "image": null,
-          "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-          "keywords": [
-            "AI",
-            "Social",
-            "Startups",
-            "TechCrunch Disrupt",
-            "EdTech",
-            "Startup Battlefield 200"
-          ],
-          "isForeign": true,
-          "titleKo": "ScrollEd는 교과서를 TikTok으로 전환하고자 합니다",
-          "summaryKo": "ScrollEd는 교과서를 비디오, 오디오 및 퀴즈와 함께 스크롤 가능한 Instagram 같은 피드로 변환합니다. 학생 공동 창업자 (및 배우자) 인 우차브 굽타 (Utsav Gupta) 와 레베카 네프 (Rebecca Neff) 가 테크크런치 디스럽트 (TechCrunch Disrupt) 에서 설립한 팔로알토 (Palo Alto) 스타트업."
-        },
-        {
-          "title": "A small but growing number of founders are betting on bringing people together offline",
-          "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-          "pubDate": "2026-09-20T15:00:00.000Z",
-          "image": null,
-          "summary": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.",
-          "keywords": [
-            "Startups",
-            "board",
-            "Brynn Putnam",
-            "Tristan Walker"
-          ],
-          "isForeign": true,
-          "titleKo": "작지만 점점 더 많은 창업자들이 오프라인에서 사람들을 모으는 것에 베팅하고 있습니다.",
-          "summaryKo": "표면적으로 게임기와 가죽 공예 학교는 공통점이 별로 없는 것 같습니다. 그러나 두 창립자 모두 지난 수십 년 동안 기술이 침식한 연결의 종류를 육성하는 데 돈이 있다고 생각합니다."
-        },
-        {
-          "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-          "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-          "pubDate": "2026-09-19T14:00:00.000Z",
-          "image": null,
-          "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Fintech",
-            "Fundraising",
-            "Robotics",
-            "Startups"
-          ],
-          "isForeign": true,
-          "titleKo": "7일 후 요금이 인상됩니다. 지금 Disrupt 티켓을 받으세요.",
-          "summaryKo": "현재 티켓 가격은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 종료됩니다. Disrupt에서 10,000명 이상의 창업자, 투자자, 기술 리더와 함께하고 그때까지 티켓을 최대 $ 200 할인받으세요."
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:44.892Z",
+      "fetchedAt": "2026-09-21T16:10:51.647Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -980,6 +978,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "경기창조경제혁신센터, 딥테크 12개사 투자부터 데이터 가치까지 진단…1대1 성장지원",
+          "link": "https://www.venturesquare.net/1115659/",
+          "pubDate": "2026-09-21T14:58:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1789968471676.png",
+          "summary": "경기창조경제혁신센터가 초기창업패키지 딥테크 특화형 참여기업 12개사를 대상으로 기업별 1대1 심층 멘토링을 진행했다. 투자유치와 IR, 재무·회계, 인사·노무, 경영전략 등 사전 수요조사에서 확인한 기업별 현안을 중심으로 전문가를 연결했다. 한국데이터산업진흥원과 KIS... The post 경기창조경제혁신센터, 딥테크 12개사 투자부터 데이터 가치까지 진단…1대1 성장지원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "InDepth네트워킹",
+            "kisti",
+            "TIPS",
+            "경기창조경제혁신센터",
+            "기술보증기금"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경기창조경제혁신센터, AI·로봇 스타트업 방산으로 연결…전문 투자사 5곳 앞에서 IR",
+          "link": "https://www.venturesquare.net/1115622/",
+          "pubDate": "2026-09-21T14:38:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/815-IR–SEED-789x441.png",
+          "summary": "경기창조경제혁신센터가 AI·로봇·센서 분야 딥테크 스타트업의 방위산업 진출을 지원하는 ‘제43회 스타트업 815 IR-SEED’를 개최했다. 에스지비젼, 엘릭스코어, 제피로스일렉트로닉, 이노라이트 등 4개사가 국방 무인체계와 지능형 경계감시, 군용 로봇 등에 적용할 수... The post 경기창조경제혁신센터, AI·로봇 스타트업 방산으로 연결…전문 투자사 5곳 앞에서 IR appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "경기창조경제혁신센터",
+            "국방딥테크",
+            "김원경",
+            "듀얼유스",
+            "딥테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "큐네스티, 사회연대경제기본법 시행 앞두고 기업 사회공헌 해법 찾는다",
+          "link": "https://www.venturesquare.net/1115529/",
+          "pubDate": "2026-09-21T13:32:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cunesty-370x522.png",
+          "summary": "큐네스티가 오는 10월 7일 ESG·CSR 실무자를 대상으로 ‘임팩트살롱’ 6회차를 개최한다. 이번 행사는 2027년 3월 16일 시행되는 사회연대경제기본법을 중심으로 기업 사회공헌이 준비해야 할 제도 변화와 협업 방식을 다룬다. 산은나눔재단과 신한금융희망재단의 사회연... The post 큐네스티, 사회연대경제기본법 시행 앞두고 기업 사회공헌 해법 찾는다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "CSR",
+            "ESG",
+            "ESG경영",
+            "기업사회공헌",
+            "사회공헌"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "씨엔티테크, 충남 대학생 창업팀 5곳 선발…폐의류 완충재부터 웨어러블 점자까지",
           "link": "https://www.venturesquare.net/1115509/",
@@ -1015,63 +1067,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“속도 늦추자”면서 데이터센터는 확대…AI 기업들의 엇갈린 셈법",
-          "link": "https://www.venturesquare.net/1115306/",
-          "pubDate": "2026-09-20T21:55:11.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/789x440.png",
-          "summary": "AI 최첨단 모델의 개발 속도를 조절해야 한다는 목소리가 커지고 있지만 앤스로픽과 오픈AI 등 주요 기업의 데이터센터와 컴퓨팅 자원 투자는 계속되고 있다. 다리오 아모데이 앤스로픽 CEO가 제안한 ‘속도 조절’ 역시 개발 중단이나 투자 축소보다 외부 평가와 안전성 검증... The post “속도 늦추자”면서 데이터센터는 확대…AI 기업들의 엇갈린 셈법 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "AI데이터센터",
-            "AI속도조절론",
-            "빅테크규제논쟁",
-            "실리콘밸리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "모집 기간 줄었는데 9만명 몰렸다…‘모두의 창업’ 2차, 지역·청년 도전 커졌다",
-          "link": "https://www.venturesquare.net/1115296/",
-          "pubDate": "2026-09-20T09:00:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/모창-2차-포스터_리사이징3.png",
-          "summary": "‘2026 모두의 창업 프로젝트’ 2차 모집에 9만2838명이 신청해 1차 6만2944명을 크게 넘어섰다. 비수도권 신청 비중은 63.3%, 39세 이하 청년층은 71.8%로 각각 1차보다 높아졌으며 1차 탈락자 가운데 1만9111명도 다시 도전했다. 강원에서도 2차 ... The post 모집 기간 줄었는데 9만명 몰렸다…‘모두의 창업’ 2차, 지역·청년 도전 커졌다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "MVP",
-            "강원창업",
-            "기술창업",
-            "로컬창업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "창업은 캠퍼스에서, 성장은 시장에서…‘PARTNER CONNECT’가 만든 연결",
-          "link": "https://www.venturesquare.net/1115285/",
-          "pubDate": "2026-09-19T23:00:14.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260919_223825600-789x519.jpg",
-          "summary": "한양대학교 창업지원단과 CVC Club, 초기투자액셀러레이터협회(KAIA)가 ‘PARTNER CONNECT’를 열고 대학 스타트업과 투자기관, 창업 유관기관의 협력 기회를 넓혔다. 현장에서는 20개 스타트업의 CVC Club 연합 IR과 비즈니스 밋업을 비롯해 유영만 ... The post 창업은 캠퍼스에서, 성장은 시장에서…‘PARTNER CONNECT’가 만든 연결 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "CVC",
-            "CVCClub",
-            "KAIA",
-            "LIPS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:47.557Z",
+      "fetchedAt": "2026-09-21T16:10:55.949Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1097,11 +1095,11 @@
           "summaryKo": null
         },
         {
-          "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - K-Classic News",
+          "title": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 - kclassicnews.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DLV9CRVd0ajRWVl9xSDZsWmI0eVJoOXBraTVsU2N6N0hIbHM3TVpiYlBrNEtHUHRRX2ExWnVuVGdxSzRVcE05NEJveVFaeEMxVTdscEJkb1NFQnhQbDh0SUZCdzlydTQ?oc=5",
           "pubDate": "2026-09-21T04:10:15.000Z",
           "image": null,
-          "summary": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 K-Classic News",
+          "summary": "부안 문화예술후원 매칭지원사업 '부안군 문화잇다' 2차 모집공고 kclassicnews.com",
           "keywords": [
             "부안",
             "문화예술후원",
@@ -1114,11 +1112,11 @@
           "summaryKo": null
         },
         {
-          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - idailynews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
           "pubDate": "2026-09-16T11:11:00.000Z",
           "image": null,
-          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 idailynews.co.kr",
           "keywords": [
             "2016년",
             "지역",
@@ -1131,28 +1129,28 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
           "pubDate": "2026-09-16T00:03:21.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
           "keywords": [
             "공정",
             "혁신",
             "포용의",
             "경기",
-            "경기도청"
+            "gg"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - slowlearnernews.org",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
           "pubDate": "2026-09-18T06:23:20.000Z",
           "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 slowlearnernews.org",
           "keywords": [
             "경기",
             "~9/29(화)",
@@ -1165,7 +1163,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T14:10:48.161Z",
+      "fetchedAt": "2026-09-21T16:10:56.433Z",
       "error": null
     }
   },
@@ -1178,39 +1176,39 @@
       "change": "same"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
-    },
-    {
-      "key": "special post",
-      "label": "Special Post",
-      "count": 3,
       "rank": 6,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "지원사업",
@@ -1220,8 +1218,8 @@
       "change": "same"
     },
     {
-      "key": "jev",
-      "label": "jev",
+      "key": "esg",
+      "label": "ESG",
       "count": 2,
       "rank": 8,
       "change": "new"
@@ -1231,14 +1229,14 @@
       "label": "경기",
       "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "로컬창업",
-      "label": "로컬창업",
+      "key": "경기창조경제혁신센터",
+      "label": "경기창조경제혁신센터",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1275,20 +1273,20 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "google ads",
-      "label": "Google Ads",
+      "key": "ai",
+      "label": "AI",
       "count": 4,
       "rank": 5,
       "change": "up",
-      "labelKo": "다음을 따르세요"
+      "labelKo": "AI"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
       "rank": 6,
       "change": "down",
-      "labelKo": "AI"
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
