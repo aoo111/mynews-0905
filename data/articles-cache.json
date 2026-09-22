@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T02:11:09.375Z",
+  "collectedAt": "2026-09-22T04:11:29.860Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,63 +41,63 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[단독] 대미투자 1호 사업만 우선 확정…송금 ‘협약 45일 내’로 가닥",
+          "title": "[단독] 대미투자 ‘안전판’ 챙겼다 … 기업 추천권·원리금 우선 회수권·비상개입권 확보",
+          "link": "https://www.mk.co.kr/news/economy/12159211",
+          "pubDate": "2026-09-22T03:59:29.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260708.29d3d272f3674fd0b1edcefeb2af1fc5_R.jpg",
+          "summary": "대미투자펀드 투자구조 국회 보고 원금 회수 전 수익금 5대5 비율 배분 특수목적법인 통해 연 200억弗 투자 초과비용 20% 넘으면 양국 개선 협상 한국 기업 벤더 참여 등 추천권..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 韓, 웨스팅하우스 10% 할인가에 인수한다…의결권 확보도 가닥",
+          "link": "https://www.mk.co.kr/news/economy/12159176",
+          "pubDate": "2026-09-22T03:31:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260803.14ae1496cd534f3dbcbfe31cce85223e_R.png",
+          "summary": "산업부 국회 대미투자 사전보고 공모가 대비 10% 싼값에 지분 매입 이사지명권은 양보…실질적 의결권 챙겨한국이 기업공개(IPO)를 추진하고 있는 미국 원전 기업 지분 5~10%를 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[속보] 정부 “웨스팅하우스 지분 5∼10% 확보시에도 의결권 갖는다” 보고",
+          "link": "https://www.mk.co.kr/news/economy/12159155",
+          "pubDate": "2026-09-22T03:18:57.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.ab45d7aeeea54a7baabd586396833061_R.jpg",
+          "summary": "정부는 22일 대미투자 사업으로 추진하는 미국 내 신규 원전 건설 프로젝트와 관련해 “웨스팅하우스 지분 5∼10％를 확보해도 의결권을 얻을 수 있다”고 국회에 보고했다. 야당 소속..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "트래블월렛, 누적 거래액 10조원·카드 발급 1000만장 넘었다",
+          "link": "https://www.mk.co.kr/news/economy/12159121",
+          "pubDate": "2026-09-22T02:51:11.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.c0844c25dc3d4e2b911c528a4765b9be_R.jpg",
+          "summary": "2023년 1조원에서 3년 만에 10조원 최다 46개 통화 환전·442개 도시 결제 월간 활성 이용자 최대 190만명 달해글로벌 외환·결제 핀테크 기업 트래블월렛은 올해 9월 기준..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독]대미투자 송금 시점 ‘협약 45일 내’ 가닥...이달 22억弗 우선 송금",
           "link": "https://www.mk.co.kr/news/economy/12159057",
           "pubDate": "2026-09-22T01:57:28.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/22/rcv.YNA.20260922.PYH2026092204510001300_R.jpg",
-          "summary": "웨스팅하우스 지분 5~10% 협의정부가 총 2000억 달러 규모 대미 투자 프로젝트 가운데 1호 사업만 우선 확정하고, 미국 원전 기업 웨스팅하우스(WEC) 지분 인수는 5~10%..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "은행 대출 문턱 높아졌다 … 고신용자 20%도 거절",
-          "link": "https://www.mk.co.kr/news/economy/12159037",
-          "pubDate": "2026-09-22T01:44:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-m.v1.20260922.1b1bbf27aa384abeb11618ee750d9c89_R.png",
-          "summary": "정부가 가계대출 줄이기 위해 은행들을 압박하자, 은행들이 신용 900점이 넘는 초고신용자들조차 대출을 거절하는 사례들이 나오고 있습니다. 갈 곳을 잃은 고신용자들이 제2금융권으로 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중앙그룹 워크아웃·회생 여파…은행 연체율 0.63%로 다시 ‘껑충’",
-          "link": "https://www.mk.co.kr/news/economy/12159029",
-          "pubDate": "2026-09-22T01:39:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.480317bb352e4c04a683e7e89b71b9b9_R.jpg",
-          "summary": "7월 원화대출 연체율 한 달 새 0.07%p 상승중앙그룹 계열사의 잇따른 워크아웃과 회생 절차 개시로 지난 7월 국내은행 원화대출 연체율이 한 달 만에 다시 상승 전환했다. 22..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "‘원화 스테이블코인’ 본격화하는 카카오…파이어블록스와도 맞손",
-          "link": "https://www.mk.co.kr/news/economy/12159027",
-          "pubDate": "2026-09-22T01:35:20.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.777d1c6d6f044a908145470adeac0cfa_R.jpg",
-          "summary": "서클에 이어 글로벌 협력 확대 국내 환경에 맞춘 생태계 구축카카오페이와 카카오뱅크가 22일 글로벌 디지털 자산 인프라 기업 파이어블록스와 업무협약(MOU)을 맺고, 국내 디지털 자..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“무늬만 영세 소상공인 걸러낸다” 소상공인 데이터 활용 길 터",
-          "link": "https://www.mk.co.kr/news/economy/12159005",
-          "pubDate": "2026-09-22T01:21:41.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260409.b4ff198dd3ec40b992573b1998138e1d_R.png",
-          "summary": "소상공인기본법 일부개정안, 국무회의 의결 사업소득·근로소득·판관비 등 국세청 데이터 활용 가능해져앞으로 고액 연봉자이면서도 부업으로 무인점포를 운영하며 소상공인 정책자금 지원을 받..",
+          "summary": "산업부 국회 보고, 1호 텍사스 가스발전 이어 원전·알래스카 LNG 2·3호 WEC 지분 5~10%서 협의.. 2호 원전 8기 중 한국형 ‘APR1400’ 2기로 “연 200억 달..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:23.494Z",
+      "fetchedAt": "2026-09-22T04:10:49.326Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:23.599Z",
+      "fetchedAt": "2026-09-22T04:10:49.362Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "알리바바, 생성·편집 통합 '큐원 이미지 2.1' 공개…'선발주자 따라하기' 비판도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215554",
+          "pubDate": "2026-09-22T13:07:38.000Z",
+          "image": null,
+          "summary": "알리바바가 이미지 생성과 편집을 하나의 모델에서 처리할 수 있는 오픈 웨이트 기반 멀티모달 AI 모델을 선보였다. 경량화된 구조를 바탕으로 참조 이미지 합성부터 영역 편집, 투명 배경 생성까지 단일 모델로 구현했지만, 이미 상당수 기능은 다른 첨단 모델에서 구현됐다는 지적도 제기된다.알리바바는 21일(현지시간) 이미지 생성·편집 통합형 멀티모달 AI 모델 ‘큐원 이미지 2.1(Qwen-Image-2.1)’을 공개했다.시각 생성 구성 요소에 70억개 매개변수를 적용한 경량 모델이다. 텍스트-이미지 생성과 편집을 단일 체크포인트에서 실",
+          "keywords": [
+            "알리바바",
+            "생성",
+            "편집",
+            "통합",
+            "큐원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI·앤트로픽, AI 모델 교차 검증 합의 임박...미공개 모델은 제외",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215548",
+          "pubDate": "2026-09-22T12:36:02.000Z",
+          "image": null,
+          "summary": "오픈AI와 앤트로픽이 서로의 AI 모델을 대상으로 안전성과 보안 취약점을 평가하는 ‘상호 스트레스 테스트’ 협정을 논의 중인 것으로 알려졌다. 경쟁사의 모델을 직접 시험해 자체 평가에서 발견하지 못한 취약점이나 예기치 않은 위험을 찾아내겠다는 의도다.21일(현지시간) 디 인포메이션에 따르면, 양사는 올해 초 변호사들과 함께 법적 구속력을 갖는 방안을 논의했다.협정이 체결되면, 상대방의 상용화된 AI 모델 API에 접근해 다양한 안전성 테스트를 실시하게 된다. 테스트 과정에서 상대방의 데이터를 별도로 저장하거나 보관하지 않는 조건도",
+          "keywords": [
+            "오픈AI",
+            "앤트로픽",
+            "AI",
+            "모델",
+            "교차"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "기대 못 미친 '그록 4.7'…스페이스XAI, 프런티어 경쟁 '4.8'로 미뤄",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215549",
+          "pubDate": "2026-09-22T12:23:45.000Z",
+          "image": null,
+          "summary": "스페이스XAI가 코딩과 지식 작업에 특화한 차세대 AI 모델 ‘그록 4.7(Grok 4.7)’을 공개했으나, 프런티어 성능에 미치지 못하며 차기 모델인 ‘그록 4.8’로 본격적인 경쟁을 미루게 됐다.스페이스XAI는 21일(현지시간) 그록 4.7을 출시하며 장시간 수행되는 복잡한 작업에서의 추론 능력과 자체 검증 기능, 사이버보안 성능을 강화했다고 발표했다.그록 4.6 출시 이후 한 달여 만이다. 이날부터 커서와 xAI의 ‘그록 빌드(Grok Build)’에서 사용할 수 있으며, 그록 API와 제3자 코딩 하네스, 모델 라우터 및 클",
+          "keywords": [
+            "기대",
+            "미친",
+            "그록",
+            "스페이스XAI",
+            "프런티어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "LG, MS와 파트너십 체결...\"AI 데이터센터·AX·피지컬AI 3대 협력\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215550",
+          "pubDate": "2026-09-22T11:58:50.000Z",
+          "image": null,
+          "summary": "LG는 21일(현지시간) 미국 워싱턴주 레드먼드 소재 마이크로소프트 본사에서 마이크로소프트와 전략적 파트너십을 체결했다고 22일 밝혔다.이날 행사에는 구광모 LG 대표와 사티아 나델라 마이크로소프트 CEO를 비롯해 LG전자, LG유플러스, LG CNS 등 그룹 핵심 경영진이 참석했다.이번 협력은 지난해 12월 마이크로소프트 본사에서 양사 간 전략적 협력 논의가 본격화된 이후 실무 협의와 경영진 교류를 거쳐 구체화됐다.양사는 AI 데이터센터, AX, 피지컬 AI 등에서 협력을 확대한다.AI 데이터센터 분야에서는 마이크로소프트의 데이터",
+          "keywords": [
+            "LG",
+            "MS와",
+            "파트너십",
+            "체결",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[AI리더의 서가] 요즘 AI 루프 엔지니어링",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215466",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[9월21일] AI ‘킬 스위치’ 논의 확대…“정말 AI를 멈출 수 있을까”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215518",
-          "pubDate": "2026-09-22T07:00:00.000Z",
-          "image": null,
-          "summary": "AI가 통제를 벗어났을 때 강제로 작동을 중단시키는 ‘킬 스위치(Kill Switch)’ 논의가 최근 부쩍 늘고 있습니다. 미국 의회에서도 지난 7월 위험한 AI 시스템을 필요할 때 중단할 수 있는 기술적 능력을 갖추도록 하는 ‘AI 킬 스위치법’이 발의됐습니다. 또 캘리포니아주는 지난 18일(현지시간) 첨단 AI 모델에 비상 정지 기능을 갖추도록 하는 행정명령을 내렸습니다. 킬 스위치는 AI가 위험한 행동을 하거나 통제를 벗어났을 때 시스템을 정지하거나 접근을 차단하는 일종의 비상 정지 장치입니다. 다만 실제 AI에 적용하면 단순",
-          "keywords": [
-            "9월21일",
-            "AI",
-            "스위치",
-            "논의",
-            "확대"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215545",
-          "pubDate": "2026-09-22T05:01:17.000Z",
-          "image": null,
-          "summary": "국내 연구진이 한 번 얻은 지식을 기기 내부 저장소에 쌓아뒀다가 재사용하는 온디바이스 AI 기술을 개발했다. 기존 모델을 추가로 학습시킬 필요 없이 대형 AI 모델에 대한 서버 의존도를 낮춘 것이 특징이다.한국과학기술원(KAIST, 총장 배충식)은 이재길 전산학부 교수 연구팀이 기기의 소형 AI와 서버의 대형 AI를 효율적으로 연결하는 협업 프레임워크 ‘CURE(Cumulative Knowledge Reuse, 누적 지식 재사용)’를 개발했다고 22일 밝혔다.연구팀은 문제 난이도에 따라 필요한 연산량이 다르다는 점에 착안했다. 소형",
-          "keywords": [
-            "KAIST",
-            "지식",
-            "재사용",
-            "서버",
-            "호출"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215547",
-          "pubDate": "2026-09-22T04:54:46.000Z",
-          "image": null,
-          "summary": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 '밸리 AI(Valley AI)'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 '포캐스트벤치(ForecastBench)'의 선행(preliminary) 리더보드에서 1위를 기록했다고 22일 밝혔다.포캐스트벤",
-          "keywords": [
-            "뉴로퓨전",
-            "없는",
-            "글로벌",
-            "AI",
-            "미래"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "알리바바, 통역 지연 '2.3초'로 줄인 AI '큐원3.8-라이브트랜스레이트' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215516",
-          "pubDate": "2026-09-21T18:20:59.000Z",
-          "image": null,
-          "summary": "알리바바가 오디오와 텍스트를 동시에 처리해 통역 지연 시간을 2.3초까지 단축한 차세대 통번역 모델을 공개했다.알리바바는 18일(현지시간) 대화 중 음성이 끝나기를 기다리지 않고 듣는 동시에 번역문과 음성을 생성하는 통번역 모델 ‘큐원3.8-라이브트랜스레이트(Qwen3.8-LiveTranslate)’를 선보였다.이 모델의 핵심은 오디오와 텍스트를 하나의 스트림으로 엮는 '인터리브(Interleave)' 아키텍처다. 음성 데이터와 생성된 번역을 동시에 저장·재활용하는 방식으로 이전 세대보다 통역의 충실도와 유창성, 간결성을 높였다.평",
-          "keywords": [
-            "알리바바",
-            "통역",
-            "지연",
-            "3초",
-            "줄인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:24.514Z",
+      "fetchedAt": "2026-09-22T04:10:50.730Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:24.678Z",
+      "fetchedAt": "2026-09-22T04:10:50.873Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,89 +357,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "나만의 디자인 하네스 만들기",
-          "link": "https://news.hada.io/topic?id=34096",
-          "pubDate": "2026-09-22T01:06:20.000Z",
+          "title": "AI 코딩으로 병목이 된 CI, 개발 속도에 맞춰 재설계함",
+          "link": "https://news.hada.io/topic?id=34105",
+          "pubDate": "2026-09-22T03:42:20.000Z",
           "image": null,
-          "summary": "디자인 하네스는 에이전트의 행동 규칙과 디자인 기준을 담은 텍스트 폴더를 기반으로, 캔버스와 HTML 프로토타입, 실제 코드를 오가며 작업하는 환경임 규칙 파일과 디자인 참조 파일에 도구 사용법, 금지 사항, 디자인 토큰과 작업 방식을 기록하고, 세션마다 교...",
+          "summary": "Linear는 연초 이후 테스트 스위트가 거의 4배로 늘어났는데도 PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고, 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 외부 러너와 tsgo 로 전환하고 린트 규칙의 타입 정보 의존성을 제거해, ...",
           "keywords": [
-            "나만의",
-            "디자인",
-            "하네스",
-            "만들기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "확산 언어 모델을 만드는 방법",
-          "link": "https://news.hada.io/topic?id=34095",
-          "pubDate": "2026-09-22T00:55:02.000Z",
-          "image": null,
-          "summary": "기존 언어 모델이 토큰을 하나씩 이어 쓰는 반면, 확산 언어 모델(Diffusion Language Model)은 여러 위치를 동시에 채우며 반복 단계 수에 따라 생성 속도와 품질을 조절함 기본적인 학습은 문장의 일부를 무작위로 가리고 복원하는 방식이며, 생성할 때는 빈칸으...",
-          "keywords": [
-            "확산",
-            "언어",
-            "모델을",
-            "만드는",
-            "방법"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Vercel의 AI 보안 스캐너 DeepSec 깊이 살펴보기",
-          "link": "https://news.hada.io/topic?id=34093",
-          "pubDate": "2026-09-22T00:45:02.000Z",
-          "image": null,
-          "summary": "빠른 패턴 검색으로 의심스러운 코드를 찾고, Codex나 Claude가 파일 사이의 데이터 흐름과 방어 장치를 추적해 실제 보안 문제인지 조사하는 오픈소스 도구 PR의 새 코드뿐 아니라 오랫동안 수정하지 않은 기존 코드까지 검사하며, 분석 이력을 저장해 중단한 작업...",
-          "keywords": [
-            "Vercel의",
             "AI",
-            "보안",
-            "스캐너",
-            "DeepSec"
+            "코딩으로",
+            "병목이",
+            "CI",
+            "개발"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "당신이 직접 쓰지 않은 글은 읽고 싶지 않다",
-          "link": "https://news.hada.io/topic?id=34092",
-          "pubDate": "2026-09-22T00:43:19.000Z",
+          "title": "워터마크가 아니라 스파이마크",
+          "link": "https://news.hada.io/topic?id=34104",
+          "pubDate": "2026-09-22T03:39:20.000Z",
           "image": null,
-          "summary": "AI가 만든 설계 문서와 PR 요약은 변경 사항을 상세히 나열하지만, 왜 필요한지, 무엇이 중요하고 어디를 검토해야 하는지는 빠뜨리기 쉬움 프롬프트를 작성한 사람은 배경과 제약을 알지만, 그 과정에 참여하지 않은 독자는 무엇이 중요한지 파악하기 위해 모든 문...",
+          "summary": "사용자의 인지나 동의 없이 콘텐츠를 추적할 수 있게 하는 숨은 신호는 스파이마크(spymark) 로 구분해 부르자는 제안임 Google SynthID 같은 기술은 이미지, 오디오, 텍스트, 영상에 사람이 감지하기 어려운 신호를 삽입하며, 그 안에 개인정보와 연결되는 데이터...",
           "keywords": [
-            "당신이",
-            "직접",
-            "쓰지",
-            "않은",
-            "글은"
+            "워터마크가",
+            "아니라",
+            "스파이마크"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Transformer를 시각적으로 이해하기",
-          "link": "https://news.hada.io/topic?id=34091",
-          "pubDate": "2026-09-22T00:40:19.000Z",
+          "title": "Show GN: ArtifactBench - AI 생성 음악 탐지기를 비교 평가하는 벤치마크 도구",
+          "link": "https://news.hada.io/topic?id=34101",
+          "pubDate": "2026-09-22T03:28:14.000Z",
           "image": null,
-          "summary": "Transformer Explainer는 브라우저에서 1억 2,400만 매개변수의 GPT-2 small을 실행하며, 입력 텍스트가 다음 토큰 예측으로 이어지는 과정을 시각적으로 탐색하는 도구 직접 문장을 입력하고 토큰화, 임베딩, 어텐션과 출력 확률을 단계별로 펼쳐 보며, 실제 계산...",
+          "summary": "안녕하세요. ArtifactNet을 개발하는 Intrect의 오희원입니다. AI 음악 탐지기를 비교하면서, 종합 점수뿐 아니라 어떤 곡을 평가했는지, 데이터가 서로 겹치는지, 처리하지 못한 파일을 어떻게 계산하는지가 결과 해석에 중요하다는 문제를 다루게 됐습니다. 이를 점검하기 위한 평가 코드와 프로토콜",
           "keywords": [
-            "Transformer를",
-            "시각적으로",
-            "이해하기"
+            "Show",
+            "GN:",
+            "ArtifactBench",
+            "AI",
+            "생성"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: 월급날은 멀어도 숫자는 올라간다 — 오늘 번 돈을 보여주는 rich-rich-rich",
+          "link": "https://news.hada.io/topic?id=34100",
+          "pubDate": "2026-09-22T02:51:11.000Z",
+          "image": null,
+          "summary": "연봉과 근무시간을 입력하면 오늘 지금까지 번 돈을 보여주는 데스크톱 위젯입니다. Windows와 macOS를 지원합니다. 공항/기차역의 아날로그 전광판에서 영감을 얻어 만들었습니다. 화면 한쪽에 띄워두면 근무시간이 지날수록 금액이 올라갑니다. 통장 잔고는 그대로지만 숫자만큼은 부지런히 움직",
+          "keywords": [
+            "Show",
+            "GN:",
+            "월급날은",
+            "멀어도",
+            "숫자는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: 토노 - 표정과 움직임을 보며 대화하는 AI 캐릭터 채팅",
+          "link": "https://news.hada.io/topic?id=34099",
+          "pubDate": "2026-09-22T02:46:48.000Z",
+          "image": null,
+          "summary": "안녕하세요. 토노를 만드는 팀입니다. 캐릭터의 답변을 읽으면서 표정과 움직임도 함께 볼 수 있는 AI 캐릭터 채팅 서비스를 소개합니다. 캐릭터별 설정과 성격을 고르고 직접 메시지를 보내 대화할 수 있습니다. 대화 화면은 캐릭터와 메시지를 함께 보는 비주얼 모드와 텍스트 모드를 제공합니다. 위 링크는",
+          "keywords": [
+            "Show",
+            "GN:",
+            "토노",
+            "표정과",
+            "움직임을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:25.344Z",
+      "fetchedAt": "2026-09-22T04:10:51.678Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +539,7 @@
           "summaryKo": "YouTube는 토론토 국제 영화제 (TIFF) 를 통해 크리에이터가 진행하는 새로운 프로젝트를 선보이는 데 그치지 않았습니다. 또한 캐나다 크리에이터 (및 지하철을 타는 이집트계 미국인 1명) 에게 새로운 기회를 열어줄 독창적인 프로그램을 발표했습니다. 프로그램 발표는 TIFF와 인접하여 개최된 YouTube 기능 마케팅 이벤트에서 이루어졌습니다. YouTube Features의 호스트는 앞서 언급한 이집트계 미국인인 Kareem Rahma였습니다. Kareem Rahma는"
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:45.938Z",
+      "fetchedAt": "2026-09-22T04:11:12.235Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:46.228Z",
+      "fetchedAt": "2026-09-22T04:11:12.346Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:46.306Z",
+      "fetchedAt": "2026-09-22T04:11:12.396Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -702,97 +703,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "엑스와이지, 대법원에 로봇 바리스타 들어간다…국제회의 거쳐 10월 정식 설치",
-          "link": "https://www.venturesquare.net/1115739/",
-          "pubDate": "2026-09-22T00:02:37.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260922-784x522.png",
-          "summary": "엑스와이지가 제20차 아시아·태평양 대법원장회의에서 로봇 바리스타 ‘바리스브루’를 실제 카페 서비스에 투입했다. 바리스브루는 참가자의 주문을 받아 음료를 제조하고 제공하는 과정을 자동화해 운영됐다. 엑스와이지는 국제회의 운영을 마친 뒤 오는 10월 중순 바리스브루를 대... The post 엑스와이지, 대법원에 로봇 바리스타 들어간다…국제회의 거쳐 10월 정식 설치 appeared first on 벤처스퀘어.",
+          "title": "트래블월렛, 해외서 10조원 긁었다…카드 발급 1000만장 돌파",
+          "link": "https://www.venturesquare.net/1115788/",
+          "pubDate": "2026-09-22T03:41:40.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/tw-786x522.jpg",
+          "summary": "트래블월렛이 누적 거래액 10조원과 누적 카드 발급 1000만장을 넘어섰다. 누적 거래액은 2023년 7월 1조원에서 약 3년 만에 10조원으로 증가했으며 결제 경험이 있는 이용자의 평균 결제 건수는 52.6건으로 집계됐다. 누적 결제 건수의 73.6%는 20·30대가... The post 트래블월렛, 해외서 10조원 긁었다…카드 발급 1000만장 돌파 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI로봇",
-            "XYZ",
-            "공공서비스"
+            "결제플랫폼",
+            "글로벌결제",
+            "금융인프라"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "인빅, 저조도 AI 영상분석 기술 국방으로…경기국방벤처센터 협약기업 선정",
-          "link": "https://www.venturesquare.net/1115727/",
-          "pubDate": "2026-09-21T23:44:47.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-26-789x267.jpg",
-          "summary": "AI 영상분석 기업 인빅이 경기국방벤처센터의 2026년 하반기 협약기업으로 선정돼 저조도 영상분석 기술의 국방 분야 적용을 추진한다. 인빅은 야간 영상을 실시간으로 개선하고 객체를 탐지하는 ‘NOXAI™’와 여러 카메라 사이의 객체 이동을 연결해 추적하는 ‘NOXAI™... The post 인빅, 저조도 AI 영상분석 기술 국방으로…경기국방벤처센터 협약기업 선정 appeared first on 벤처스퀘어.",
+          "title": "아파트멘터리, 주방만 따로 고친다…아킷 청담 쇼룸 한 달 만에 141억원 문의",
+          "link": "https://www.venturesquare.net/1115773/",
+          "pubDate": "2026-09-22T03:32:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Arckit_1-789x444.jpg",
+          "summary": "아파트멘터리가 키친 브랜드 아킷의 첫 쇼룸 ‘아킷 더 아카이브 청담’을 열고 주방 단품 리모델링 고객으로 사업 영역을 확대한다. 쇼룸에는 6개 컬렉션을 실제 주방으로 구현했으며 요리와 수납, 가전 사용 등 고객의 생활방식을 먼저 분석해 구조와 동선, 소재를 제안한다. ... The post 아파트멘터리, 주방만 따로 고친다…아킷 청담 쇼룸 한 달 만에 141억원 문의 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "NOXAI",
-            "객체인식",
-            "경계감시"
+            "ARCKIT",
+            "공간디자인",
+            "라이프스타일"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "더네이쳐홀딩스, 브롬톤 자전거까지 직접 판다…전국 13개 매장서 25일 판매 시작",
-          "link": "https://www.venturesquare.net/1115720/",
-          "pubDate": "2026-09-21T23:36:33.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/london-718x522.jpg",
-          "summary": "더네이쳐홀딩스가 오는 25일부터 전국 13개 브롬톤 런던 매장에서 브롬톤 자전거 공식 판매를 시작한다. 2022년 어패럴 라이선스로 시작한 브롬톤과의 협력을 올해 국내 자전거 독점 총판 사업까지 확대한 것이다. 첫 판매 모델로 영국 클래식 자동차에서 영감을 받은 ‘클래... The post 더네이쳐홀딩스, 브롬톤 자전거까지 직접 판다…전국 13개 매장서 25일 판매 시작 appeared first on 벤처스퀘어.",
+          "title": "쓰리빌리언, 희귀질환 진단 AI를 치료제 개발로…80억원 규모 ARPA-H 공동연구",
+          "link": "https://www.venturesquare.net/1115766/",
+          "pubDate": "2026-09-22T03:25:32.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/3b-2-789x444.jpg",
+          "summary": "쓰리빌리언이 KAIST, 서울아산병원과 함께 최대 80억원 규모의 한국형 ARPA-H 희귀질환 치료제 연구에 참여한다. 이번 과제는 한 명의 환자에게 맞춘 N-of-1 방식에서 나아가 동일하거나 유사한 유전적 원인을 가진 환자군을 발굴하는 ‘N-of-many’ 전략을 ... The post 쓰리빌리언, 희귀질환 진단 AI를 치료제 개발로…80억원 규모 ARPA-H 공동연구 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Brompton",
-            "더네이쳐홀딩스",
-            "라이딩"
+            "AI유전진단",
+            "ARISE",
+            "ARPAH"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "삼쩜삼캠퍼스, 출범 1년 만에 14만명…260만번 본 투자 리포트 오프라인으로",
-          "link": "https://www.venturesquare.net/1115712/",
-          "pubDate": "2026-09-21T23:31:43.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/33-cam-589x522.jpg",
-          "summary": "자비스앤빌런즈와 용감한컴퍼니가 운영하는 삼쩜삼캠퍼스가 출범 1년 만에 가입자 14만명을 넘어섰다. 대표 강의 ‘주식투자 함께고민 클래스’는 누적 수강생 6만명을 기록했으며, 회사 설문 기준 강의 만족도는 92%로 집계됐다. 매일 시장을 분석하는 ‘콜페이퍼’는 1년간 누... The post 삼쩜삼캠퍼스, 출범 1년 만에 14만명…260만번 본 투자 리포트 오프라인으로 appeared first on 벤처스퀘어.",
+          "title": "지멘스, 산업 AI를 ‘답변’에서 ‘실행’으로…에이전틱 엔터프라이즈 공개",
+          "link": "https://www.venturesquare.net/1115758/",
+          "pubDate": "2026-09-22T03:22:12.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/aec-789x444.jpg",
+          "summary": "지멘스가 오는 10월 13일 ‘에이전틱 엔터프라이즈 커넥트(AEC) 2026’을 열고 산업 AI를 실제 업무 실행으로 연결하는 전략을 공개한다. 핵심 플랫폼인 ‘Intelligence Center X’는 산업용 온톨로지를 기반으로 지식그래프와 AI·머신러닝 모델, 에이... The post 지멘스, 산업 AI를 ‘답변’에서 ‘실행’으로…에이전틱 엔터프라이즈 공개 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "개인투자자",
-            "금융교육",
-            "삼쩜삼"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아임웹, 고객사 누적 거래액 8조원…1조원 늘어나는 데 16개월→7개월",
-          "link": "https://www.venturesquare.net/1115702/",
-          "pubDate": "2026-09-21T23:22:25.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/imweb-767x522.png",
-          "summary": "아임웹 고객사의 누적 거래액이 지난 8월 8조원을 넘어섰다. 거래액이 1조원씩 증가하는 데 걸리는 기간은 초기 16개월에서 최근 7개월 수준으로 단축됐으며 올해 상반기 자사몰 거래액은 전년 동기 대비 12.6% 증가했다. 업종별로는 생활용품과 F&B 거래액이 각각 29... The post 아임웹, 고객사 누적 거래액 8조원…1조원 늘어나는 데 16개월→7개월 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
+            "AEC2026",
             "AI에이전트",
-            "CRM",
-            "D2C"
+            "ICX"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "대한중대재해예방협회, AI가 작업 지시하고 로봇이 움직이는 현장…안전 기준도 달라져야",
+          "link": "https://www.venturesquare.net/1115755/",
+          "pubDate": "2026-09-22T03:18:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260922_102358460-783x522.png",
+          "summary": "대한중대재해예방협회가 생성형 AI와 협동로봇, 자율주행 장비가 투입되는 산업현장에서 새롭게 고려해야 할 중대재해 위험요인 5가지를 제시했다. AI 작업지시 오류와 로봇 오작동, 자동화된 안전점검의 누락, 무인 운반체 사고, AI 인력 배치 오류 등이 주요 대상이다. 협... The post 대한중대재해예방협회, AI가 작업 지시하고 로봇이 움직이는 현장…안전 기준도 달라져야 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI안전",
+            "대한중대재해예방협회",
+            "로봇안전"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:56.071Z",
+      "fetchedAt": "2026-09-22T04:11:16.181Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:56.319Z",
+      "fetchedAt": "2026-09-22T04:11:16.544Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -978,7 +979,7 @@
           "summaryKo": "복도는 중소기업에 중점을 둡니다. 이는 소규모 계정이 대규모 계정보다 낮은 수수료를 생성하기 때문에 전통적인 중개업체가 종종 간과한다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:56.366Z",
+      "fetchedAt": "2026-09-22T04:11:16.568Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -986,6 +987,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "경기창조경제혁신센터, 기후테크 기술을 투자 가치로 바꾼다…밸류에이션·IR 전략 공유",
+          "link": "https://www.venturesquare.net/1115705/",
+          "pubDate": "2026-09-21T23:25:22.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/on-244x522.png",
+          "summary": "경기도와 경기창조경제혁신센터가 오는 9월 29일 ‘2026 제2회 기후테크 세미나ON’을 개최한다. MYSC와 제로투원파트너스가 기후테크 투자시장과 밸류에이션 흐름, 투자기관의 기업 평가 기준을 공유한다. 큐네스티는 탄소감축량 등 환경적 성과를 정량화하고 기업가치와 연... The post 경기창조경제혁신센터, 기후테크 기술을 투자 가치로 바꾼다…밸류에이션·IR 전략 공유 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "IR",
+            "MYSC",
+            "경기도",
+            "경기창조경제혁신센터",
+            "기후테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "제주콘텐츠진흥원·AWS·메가존클라우드, 제주 콘텐츠 제작에 AI 심는다…10월 첫 실증",
           "link": "https://www.venturesquare.net/1115662/",
@@ -1057,27 +1076,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "씨엔티테크, 충남 대학생 창업팀 5곳 선발…폐의류 완충재부터 웨어러블 점자까지",
-          "link": "https://www.venturesquare.net/1115509/",
-          "pubDate": "2026-09-21T07:41:29.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/cntech-789x427.jpg",
-          "summary": "씨엔티테크가 충남 지역 대학생 창업팀을 대상으로 창업경진대회 최종 결선을 열고 우수 5개 팀을 선정했다. 폐의류를 활용한 자원순환형 택배 완충재를 개발한 RESPACK이 1위를 차지했으며 오버사피엔스, 빛나온, Mody, 와이넥스가 최종 우수팀에 이름을 올렸다. 결선에... The post 씨엔티테크, 충남 대학생 창업팀 5곳 선발…폐의류 완충재부터 웨어러블 점자까지 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "ESG",
-            "Mody",
-            "RESPACK",
-            "그린스타트업타운",
-            "대학생창업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:58.768Z",
+      "fetchedAt": "2026-09-22T04:11:19.267Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,11 +1087,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
+          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - dnews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
           "pubDate": "2026-09-21T18:15:21.000Z",
           "image": null,
-          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제",
+          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 dnews.co.kr",
           "keywords": [
             "재생에너지",
             "융복합지원사업",
@@ -1103,11 +1104,28 @@
           "summaryKo": null
         },
         {
-          "title": "홍천군, '마을 교육공동체 활성화 사업' 참여단체 모집 - shinailbo.co.kr",
+          "title": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 - 타임뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CUW9xYl9CdTNvLTZnaTBGR3FlemcxVGVFczZfQlRLaVdpSHNObzUwdTFiZk1pblFMNENzQ0wzclRsS3B2Nm5xUTZTUHZ3SzRQRFlTQQ?oc=5",
+          "pubDate": "2026-09-22T02:45:06.000Z",
+          "image": null,
+          "summary": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 타임뉴스",
+          "keywords": [
+            "봉화도서관",
+            "영유아",
+            "독서지원",
+            "사업",
+            "두근두근"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "홍천군, '마을 교육공동체 활성화 사업' 참여단체 모집 - 신아일보",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Kb2tvNVdsVHV4MXRUSUV3M1oyVlhYNFo4Q1J4RHpCcnlMSVRNQnlTV09CemNCZi1KcWdJd3RxMF9QcWlzMzlqRTlNeFZuOXdWc0F3Q3Q4bjl2dHQxelNJZ3RuNXhaT19kLVhJLTZWVjA?oc=5",
           "pubDate": "2026-09-22T00:49:55.000Z",
           "image": null,
-          "summary": "홍천군, '마을 교육공동체 활성화 사업' 참여단체 모집 shinailbo.co.kr",
+          "summary": "홍천군, '마을 교육공동체 활성화 사업' 참여단체 모집 신아일보",
           "keywords": [
             "홍천군",
             "마을",
@@ -1152,26 +1170,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "홈페이지제작 지원사업, 지원 대상과 확인 순서는 어떻게 되나 - 스페셜타임스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51blZIMU1KLXVfMkNYOHZ3T0haaDhNVUc1MENJSU5yTVA0MnRyVnNOLXdYLVhlbGJOLURqNXVLcHF4cTEzRVdsVGI2TXUzZ2Q3T2drNXRSekZfR1BMSFExU0RCbEZjckNfOVhXRF9OTzA3QQ?oc=5",
-          "pubDate": "2026-09-22T02:05:37.000Z",
-          "image": null,
-          "summary": "홈페이지제작 지원사업, 지원 대상과 확인 순서는 어떻게 되나 스페셜타임스",
-          "keywords": [
-            "홈페이지제작",
-            "지원사업",
-            "지원",
-            "대상과",
-            "확인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T02:10:59.216Z",
+      "fetchedAt": "2026-09-22T04:11:19.701Z",
       "error": null
     }
   },
@@ -1179,16 +1180,16 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 5,
+      "count": 6,
       "rank": 1,
       "change": "same"
     },
     {
-      "key": "글로벌",
-      "label": "글로벌",
-      "count": 3,
+      "key": "생성",
+      "label": "생성",
+      "count": 2,
       "rank": 2,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "경제",
@@ -1226,25 +1227,25 @@
       "change": "same"
     },
     {
-      "key": "esg",
-      "label": "ESG",
-      "count": 2,
+      "key": "gn:",
+      "label": "GN:",
+      "count": 3,
       "rank": 8,
-      "change": "same"
+      "change": "new"
+    },
+    {
+      "key": "show",
+      "label": "Show",
+      "count": 3,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "경기창조경제혁신센터",
       "label": "경기창조경제혁신센터",
-      "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 2,
+      "count": 3,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
