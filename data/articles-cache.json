@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T12:13:04.967Z",
+  "collectedAt": "2026-09-22T14:10:38.640Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:55.193Z",
+      "fetchedAt": "2026-09-22T14:10:18.775Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:55.272Z",
+      "fetchedAt": "2026-09-22T14:10:18.863Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:56.594Z",
+      "fetchedAt": "2026-09-22T14:10:22.553Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:56.732Z",
+      "fetchedAt": "2026-09-22T14:10:22.769Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,11 +357,61 @@
       "subcategory": "빅테크",
       "items": [
         {
+          "title": "Show GN: NCP External Access 비공식 TS·Go 인증 라이브러리를 만들었습니다",
+          "link": "https://news.hada.io/topic?id=34125",
+          "pubDate": "2026-09-22T14:08:40.000Z",
+          "image": null,
+          "summary": "NCP External Access의 X.509 인증을 사용하는 비공식 TS·Go 라이브러리를 만들었습니다. 사용하던 공식 Signing Helper에서 구형 Go 런타임 관련 취약점 경고가 나온 것이 계기였습니다. 필요한 기능을 직접 관리할 수 있도록 구현했습니다. 기능: 인증서·개인키로 요청에 서명하고 NCP 임시 인",
+          "keywords": [
+            "Show",
+            "GN:",
+            "NCP",
+            "External",
+            "Access"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Git 2.56과 3.0을 내다보며",
+          "link": "https://news.hada.io/topic?id=34124",
+          "pubDate": "2026-09-22T13:34:07.000Z",
+          "image": null,
+          "summary": "Git 2.56은 9월 말 출시가 예상되며, 이력 편집과 브랜치 관리 등 사용성을 개선함. 그다음 버전은 여러 호환성 변경을 포함하는 Git 3.0이 될 수 있지만 아직 결정되지 않음 실험적 git history에 특정 커밋을 제거하고 후속 커밋을 다시 적용하는 ...",
+          "keywords": [
+            "Git",
+            "56과",
+            "0을",
+            "내다보며"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
+          "link": "https://news.hada.io/topic?id=34122",
+          "pubDate": "2026-09-22T13:11:39.000Z",
+          "image": null,
+          "summary": "Scala 라이브러리 Monix의 저자 Alexandru Nedelcu가 쓴 글로, 코드를 읽고 쓰지 않게 된 사람과 조직은 스스로 위험을 자초하는 것이라고 주장함 바이브 코딩된 프로젝트는 시간이 지나며 유지보수 불가능한 상태로 퇴화하는데, 나쁜 아키텍처의 효과는 수개월~수년 뒤에야 드러나 ...",
+          "keywords": [
+            "AI에게는",
+            "지혜가",
+            "없고",
+            "당신에게도",
+            "없게"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "gzip도 언어 모델이 될 수 있을까?",
           "link": "https://news.hada.io/topic?id=34120",
           "pubDate": "2026-09-22T11:33:13.000Z",
           "image": null,
-          "summary": "GziPT는 신경망이나 학습된 매개변수 없이, 코퍼스와 프롬프트 뒤에 붙였을 때 가장 잘 압축되는 바이트열을 찾아 텍스트를 생성함 기반 원리는 압축과 예측의 동등성임. 압축기가 예상하는 데이터일수록 적은 비트로 표현되므로, 압축 결과의 길이를 후속 텍스트의...",
+          "summary": "GziPT는 신경망이나 별도 학습 없이 gzip의 압축 원리로 글을 이어 쓰는 실험으로, 주어진 텍스트 뒤에 여러 후보를 붙여 보고 가장 작게 압축되는 쪽을 선택함 기반 원리는 압축과 예측의 동등성임. 압축기가 예상하는 데이터일수록 적은 비트로 표현되므로, 압축...",
           "keywords": [
             "gzip도",
             "언어",
@@ -387,57 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "이름 있는 인자와 선택적 인자는 정말 멋지다",
-          "link": "https://news.hada.io/topic?id=34118",
-          "pubDate": "2026-09-22T10:06:45.000Z",
-          "image": null,
-          "summary": "Rust에 이름 있는 인자와 선택적 인자를 도입하면, 인자 순서 착오를 줄이고 구조체나 빌더로 이를 우회하는 반복 코드를 줄일 수 있음 HashMap은 선택적 설정 3개의 조합을 지원하기 위해 서로 다른 생성 함수 8개를 제공하며, 기본값을 지원하는 인...",
-          "keywords": [
-            "이름",
-            "있는",
-            "인자와",
-            "선택적",
-            "인자는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "내 하드웨어에서 실행하는 최첨단 AI",
-          "link": "https://news.hada.io/topic?id=34116",
-          "pubDate": "2026-09-22T09:35:29.000Z",
-          "image": null,
-          "summary": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템을 하나의 생태계로 묶어 공개할 예정. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU에서 실행하고, 128GB 메모리...",
-          "keywords": [
-            "하드웨어에서",
-            "실행하는",
-            "최첨단",
-            "AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Jev 사용 후기",
-          "link": "https://news.hada.io/topic?id=34115",
-          "pubDate": "2026-09-22T08:17:17.000Z",
-          "image": null,
-          "summary": "동료분의 초대를 받아 Jev를 직접 써봤습니다. 처음에는 “빠르고 저렴한 LLM이 나왔나 보다” 정도로 생각했는데, 몇 가지 사례를 따라가고 직접 호출해보니 조금 다르게 보이더라고요. Jev는 긴 답변을 만들어주는 모델이라기보다, 소프트웨어가 다음 행동을 선택할 수 있도록 판단을 반환하는 모델에 가까웠",
-          "keywords": [
-            "Jev",
-            "사용",
-            "후기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:57.660Z",
+      "fetchedAt": "2026-09-22T14:10:24.931Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +538,7 @@
           "summaryKo": "YouTube는 토론토 국제 영화제 (TIFF) 를 통해 크리에이터가 진행하는 새로운 프로젝트를 선보이는 데 그치지 않았습니다. 또한 캐나다 크리에이터 (및 지하철을 타는 이집트계 미국인 1명) 에게 새로운 기회를 열어줄 독창적인 프로그램을 발표했습니다. 프로그램 발표는 TIFF와 인접하여 개최된 YouTube 기능 마케팅 이벤트에서 이루어졌습니다. YouTube Features의 호스트는 앞서 언급한 이집트계 미국인인 Kareem Rahma였습니다. Kareem Rahma는"
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:57.718Z",
+      "fetchedAt": "2026-09-22T14:10:25.124Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:57.837Z",
+      "fetchedAt": "2026-09-22T14:10:25.323Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T12:12:57.890Z",
+      "fetchedAt": "2026-09-22T14:10:25.400Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,6 +701,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "라이너, AI로 정책연구 전 과정 실험한다…KAIST di-Lab과 ‘AI for Policy Research’ 협력",
+          "link": "https://www.venturesquare.net/1115896/",
+          "pubDate": "2026-09-22T07:08:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-43-783x522.jpeg",
+          "summary": "라이너가 KAIST 과학기술정책대학원 박경렬 교수의 di-Lab과 ‘AI for Policy Research’ 분야 연구 협력에 나선다. di-Lab 연구진은 학술 연구 AI 에이전트 ‘라이너 스콜라’를 자료 조사와 정책 분석, 논문 작성 등에 직접 활용하고 연구 생산... The post 라이너, AI로 정책연구 전 과정 실험한다…KAIST di-Lab과 ‘AI for Policy Research’ 협력 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AIforPolicyResearch",
+            "AI거버넌스",
+            "AI에이전트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "마이리얼트립, 신입 뽑고 직무는 나중에 정한다…전공 대신 ‘문제 해결 경험’ 본다",
           "link": "https://www.venturesquare.net/1115879/",
@@ -770,27 +790,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "스미스, K뷰티 21개사 베트남 진출 연결…하노이서 130만달러 협약 체결",
-          "link": "https://www.venturesquare.net/1115825/",
-          "pubDate": "2026-09-22T05:11:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-47-789x431.png",
-          "summary": "스미스가 베트남 하노이에서 국내 K뷰티 기업 21개사와 현지 바이어 100여명을 연결하는 시장 진출 프로그램을 운영했다. B2B 상담회에서는 총 90건의 상담이 진행됐으며 6개 국내 기업이 현지 파트너와 총 130만달러 규모의 MOU를 체결했다. 스미스는 인허가와 최소... The post 스미스, K뷰티 21개사 베트남 진출 연결…하노이서 130만달러 협약 체결 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "B2B",
-            "BtheB",
-            "KBeauty"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:13:01.951Z",
+      "fetchedAt": "2026-09-22T14:10:27.599Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:13:02.257Z",
+      "fetchedAt": "2026-09-22T14:10:27.871Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -892,11 +894,64 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-22T14:00:00.000Z",
+          "image": null,
+          "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+          "keywords": [
+            "Startups",
+            "Climate",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "4일간 최대 $ 200 할인: TechCrunch Disrupt 2026에 5명 중 2명이 참여하는 이유",
+          "summaryKo": "TechCrunch Disrupt 2026 이용권으로 최대 $ 200를 절약하고, 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 두 번째 이용권을 50% 할인받으세요. 오늘 등록하세요."
+        },
+        {
+          "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+          "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+          "pubDate": "2026-09-22T13:20:00.000Z",
+          "image": null,
+          "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
+          "keywords": [
+            "Fundraising",
+            "Hardware",
+            "Startups",
+            "semiconductors",
+            "Singapore"
+          ],
+          "isForeign": true,
+          "titleKo": "싱가포르의 넥스트롬 (Nexstrom) 은 칩 팹에 2D 반도체를 도입하고자 합니다.",
+          "summaryKo": "싱가포르에 본사를 둔 Nexstrom은 칩 제조업체가 2D 반도체 재료를 대규모로 제조하는 데 도움이 될 수 있는 장비를 개발하기 위해 새로운 자금을 조달했습니다."
+        },
+        {
+          "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+          "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+          "pubDate": "2026-09-22T11:00:00.000Z",
+          "image": null,
+          "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+          "keywords": [
+            "Climate",
+            "Startups",
+            "Exclusive",
+            "MacroCycle",
+            "Meta",
+            "recycling"
+          ],
+          "isForeign": true,
+          "titleKo": "메타 딜은 플라스틱 재활용 스타트업 MacroCycle이 첫 공장을 건설하는 데 도움이 될 것입니다.",
+          "summaryKo": "Meta는 첫 번째 상업 공장을 건설하는 스타트업 MacroCycle과의 새로운 거래에서 플라스틱 재활용에 활력을 불어넣고 있습니다."
+        },
+        {
           "title": "Morphotonics raises €40M to expand its display tech into data centers",
           "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
           "pubDate": "2026-09-22T06:00:00.000Z",
           "image": null,
-          "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+          "summary": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
           "keywords": [
             "Startups",
             "Venture",
@@ -904,7 +959,7 @@
           ],
           "isForeign": true,
           "titleKo": "Morphotonics는 디스플레이 기술을 데이터 센터로 확장하기 위해 € 40M을 모금합니다",
-          "summaryKo": "Deeptech 회사 Morphotonics는 3M Ventures, Innovation Industries, BOM 및 Invest-NL을 포함한 투자자들로부터 € 40M를 모금합니다."
+          "summaryKo": "딥테크 기업인 Morphotonics는 3M Ventures, Innovation Industries, BOM 및 Invest-NL을 포함한 투자자들로부터 € 40M를 모금합니다."
         },
         {
           "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
@@ -923,61 +978,9 @@
           "isForeign": true,
           "titleKo": "다음 단계를 알아보세요. 5일 후 TechCrunch Disrupt 2026 티켓을 최대 $ 200 할인받으실 수 있습니다.",
           "summaryKo": "5일 후 TechCrunch Disrupt 2026 이용권 최대 $ 200 할인 + 두 번째 이용권 50% 할인 혜택이 제공됩니다. 10월 13일부터 15일까지 샌프란시스코의 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 운영자와 함께하세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 티켓을 할인받으세요."
-        },
-        {
-          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-21T15:00:00.000Z",
-          "image": null,
-          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Startups",
-            "Venture",
-            "Benchmark",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "다음 브레이크아웃 스타트업은 어디에서 시작될까요? TechCrunch Disrupt 2026에서 벤치마크의 완전한 파트너십에 무게를 둡니다.",
-          "summaryKo": "다음 브레이크아웃 스타트업은 어디에서 시작될까요? 벤치마크의 완전한 파트너십은 TechCrunch Disrupt 2026의 메인 스테이지에 무게를 두고 있습니다. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 최대 $ 200를 절약하세요. 지금 등록하세요."
-        },
-        {
-          "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-21T14:30:00.000Z",
-          "image": null,
-          "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Google",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "첫 사용자에서 수십억 명까지: Google의 Robby Stein, TechCrunch Disrupt 2026에 합류",
-          "summaryKo": "첫 사용자부터 수십억 명까지: Google의 Robby Stein이 TechCrunch Disrupt 2026에 합류했습니다. 이 빌더스 스테이지 세션에 참여하세요. 9월 25일 전까지 최대 $ 200의 할인 혜택을 누리세요."
-        },
-        {
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-21T14:15:00.000Z",
-          "image": null,
-          "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Climate",
-            "Fundraising",
-            "Startups",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200을 심사하는 차세대 VC를 만나보세요",
-          "summaryKo": "TechCrunch Disrupt 2026 메인 스테이지에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC를 만나보세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 등록하여 최대 $ 200를 절약하고 가장 치열한 스타트업 피치 대회 중 하나에 앞자리를 마련하세요."
         }
       ],
-      "fetchedAt": "2026-09-22T12:13:02.281Z",
+      "fetchedAt": "2026-09-22T14:10:34.754Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:13:04.498Z",
+      "fetchedAt": "2026-09-22T14:10:37.097Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1084,6 +1087,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "영농부산물 파쇄지원 희망농가 모집 - 음성뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WjJCYnJTM3BZemVKVGZrU2FoYklYYUF4LXIxTi1qT1dpZm9fM3ZsM0czTzdHY2RVLXFvdzdPM20wRkhkcjVZeFFHQ1FWalc1R24xVGd2RWRWckUzSFoxWlh6N0RhSTFs?oc=5",
+          "pubDate": "2026-09-22T12:24:02.000Z",
+          "image": null,
+          "summary": "영농부산물 파쇄지원 희망농가 모집 음성뉴스",
+          "keywords": [
+            "영농부산물",
+            "파쇄지원",
+            "희망농가",
+            "모집",
+            "음성뉴스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - 브랜드브리프",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWSG5ERHJaTWx6QTVDNDhhblRFYlByakdMbjNITU9GUFlTRl9YZVAtUWdMOW15QXVJQ1RJWVdxR010VHQ4RjFfM0VjOWJ2TkMzN01nM21RejAwb2xWSU5qeDl6ZEVJMUFJa203OHhMUQ?oc=5",
@@ -1096,6 +1116,23 @@
             "기업",
             "위한",
             "특허"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
+          "pubDate": "2026-09-21T02:14:24.000Z",
+          "image": null,
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "keywords": [
+            "중기부",
+            "공공데이터",
+            "활용",
+            "지원사업",
+            "참여할"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1119,23 +1156,6 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - kbiznews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
-          "pubDate": "2026-09-21T02:14:24.000Z",
-          "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 kbiznews.co.kr",
-          "keywords": [
-            "중기부",
-            "공공데이터",
-            "활용",
-            "지원사업",
-            "참여할"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "한국지방재정공제회, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - 경인뷰",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qT3RxNXRBdFRWME5NX20zTDFWaUdYSzlEdTV2c2M1SDdJX2NJTktQQ2xsb0FMbUlqdGpGdzVRYUZRRjcwY2VoMG1CSHVUTEo3eDItMTYwZHpycWtjU0QycXZn?oc=5",
           "pubDate": "2026-09-22T02:19:17.000Z",
@@ -1151,85 +1171,68 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 - 타임뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CUW9xYl9CdTNvLTZnaTBGR3FlemcxVGVFczZfQlRLaVdpSHNObzUwdTFiZk1pblFMNENzQ0wzclRsS3B2Nm5xUTZTUHZ3SzRQRFlTQQ?oc=5",
-          "pubDate": "2026-09-22T02:45:06.000Z",
-          "image": null,
-          "summary": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 타임뉴스",
-          "keywords": [
-            "봉화도서관",
-            "영유아",
-            "독서지원",
-            "사업",
-            "두근두근"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T12:13:04.952Z",
+      "fetchedAt": "2026-09-22T14:10:37.545Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 1,
-      "change": "same"
-    },
-    {
       "key": "마이리얼트립",
       "label": "마이리얼트립",
       "count": 2,
-      "rank": 2,
-      "change": "same"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "ai에이전트",
+      "label": "AI에이전트",
+      "count": 2,
       "rank": 8,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "경기창조경제혁신센터",
@@ -1243,7 +1246,7 @@
       "label": "기업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1288,28 +1291,28 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "climate",
+      "label": "Climate",
+      "count": 3,
+      "rank": 8,
+      "change": "new",
+      "labelKo": "기후"
     },
     {
       "key": "featured",
@@ -1320,12 +1323,12 @@
       "labelKo": "추천 동영상"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "statistics",
+      "label": "Statistics",
       "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "모금 활동"
+      "change": "new",
+      "labelKo": "스탯"
     }
   ]
 }
