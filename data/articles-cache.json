@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T14:10:38.640Z",
+  "collectedAt": "2026-09-22T16:10:52.424Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:18.775Z",
+      "fetchedAt": "2026-09-22T16:10:35.101Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:18.863Z",
+      "fetchedAt": "2026-09-22T16:10:35.188Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:22.553Z",
+      "fetchedAt": "2026-09-22T16:10:36.557Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:22.769Z",
+      "fetchedAt": "2026-09-22T16:10:36.710Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,89 +357,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: NCP External Access 비공식 TS·Go 인증 라이브러리를 만들었습니다",
-          "link": "https://news.hada.io/topic?id=34125",
-          "pubDate": "2026-09-22T14:08:40.000Z",
+          "title": "rift - macOS용 타일링 창 관리자",
+          "link": "https://news.hada.io/topic?id=34131",
+          "pubDate": "2026-09-22T16:01:01.000Z",
           "image": null,
-          "summary": "NCP External Access의 X.509 인증을 사용하는 비공식 TS·Go 라이브러리를 만들었습니다. 사용하던 공식 Signing Helper에서 구형 Go 런타임 관련 취약점 경고가 나온 것이 계기였습니다. 필요한 기능을 직접 관리할 수 있도록 구현했습니다. 기능: 인증서·개인키로 요청에 서명하고 NCP 임시 인",
+          "summary": "Rift는 성능과 사용성에 초점을 맞춘 macOS용 창 관리자로, 타일링부터 스크롤 열까지 6가지 레이아웃을 지원함 메뉴 막대와 CLI에서 레이아웃을 저장하고 복원할 수 있으며, 메뉴 막대에서 작업 공간 전환과 레이아웃 변경도 가능함",
+          "keywords": [
+            "rift",
+            "macOS용",
+            "타일링",
+            "관리자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI GPT–6 Astra, 2005년부터 풀리지 않던 Enigma 암호문 해독",
+          "link": "https://news.hada.io/topic?id=34130",
+          "pubDate": "2026-09-22T15:32:56.000Z",
+          "image": null,
+          "summary": "GPT–6 Astra가 1941년 독일군 Enigma 메시지 MVUEH의 키와 평문을 찾아냈으며, 전달받은 해독 결과를 검증한 연구자가 정확성을 확인함 Carter Leffer는 미해독 메시지 중 풀 수 있는 것이 있는지 확인하도록 지시했으며, 이후 대상 선정부터 해독 소프트...",
+          "keywords": [
+            "OpenAI",
+            "GPT–6",
+            "Astra",
+            "2005년부터",
+            "풀리지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: FBO 파티클 데모 - Three.js로 구현한 GPU 파티클 데모",
+          "link": "https://news.hada.io/topic?id=34129",
+          "pubDate": "2026-09-22T15:09:18.000Z",
+          "image": null,
+          "summary": "Three.js (React Three Fiber) 와 셰이더 코드를 작성하여 구현한 FBO (Framebuffer Object) 파티클 데모입니다. FBO (Framebuffer Object) GPU 연산 결과를 texture 형태로 저장하고, 이후 연산의 입력값으로 다시 활용할 수 있게함 GPU의 빠른 병렬 연산을 활용할 수 있어 많은 양의",
           "keywords": [
             "Show",
             "GN:",
-            "NCP",
-            "External",
-            "Access"
+            "FBO",
+            "파티클",
+            "데모"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Git 2.56과 3.0을 내다보며",
-          "link": "https://news.hada.io/topic?id=34124",
-          "pubDate": "2026-09-22T13:34:07.000Z",
+          "title": "AMD의 난수 생성기는 0을 생성하지 못하는가?",
+          "link": "https://news.hada.io/topic?id=34127",
+          "pubDate": "2026-09-22T14:47:16.000Z",
           "image": null,
-          "summary": "Git 2.56은 9월 말 출시가 예상되며, 이력 편집과 브랜치 관리 등 사용성을 개선함. 그다음 버전은 여러 호환성 변경을 포함하는 Git 3.0이 될 수 있지만 아직 결정되지 않음 실험적 git history에 특정 커밋을 제거하고 후속 커밋을 다시 적용하는 ...",
+          "summary": "사용자 테스트에서 AMD 프로세서의 rdrand와 rdseed가 16비트 난수 0을 생성하지 않는 현상이 관측됨. 같은 프로그램을 실행한 Intel에서는 0이 나왔으며, AMD 전체의 문제인지 Zen2에 한정되는지는 확인되지 않음 32비트 또는 64비트로 생성한 값...",
           "keywords": [
-            "Git",
-            "56과",
+            "AMD의",
+            "난수",
+            "생성기는",
             "0을",
-            "내다보며"
+            "생성하지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
-          "link": "https://news.hada.io/topic?id=34122",
-          "pubDate": "2026-09-22T13:11:39.000Z",
+          "title": "HERMES 무전기, 초장거리 음성 및 데이터 통신 지원",
+          "link": "https://news.hada.io/topic?id=34126",
+          "pubDate": "2026-09-22T14:44:15.000Z",
           "image": null,
-          "summary": "Scala 라이브러리 Monix의 저자 Alexandru Nedelcu가 쓴 글로, 코드를 읽고 쓰지 않게 된 사람과 조직은 스스로 위험을 자초하는 것이라고 주장함 바이브 코딩된 프로젝트는 시간이 지나며 유지보수 불가능한 상태로 퇴화하는데, 나쁜 아키텍처의 효과는 수개월~수년 뒤에야 드러나 ...",
+          "summary": "HERMES는 위성이나 중계탑 없이 단파로 음성과 데이터를 전달하는 오픈소스 시스템으로, 지상 통신 인프라를 구축하기 어려운 외딴 지역을 연결함 전리층을 반사체로 활용하며, 약 20W 출력의 소형 무전기 두 대로 400~600km 구간을 비교적 안정적...",
           "keywords": [
-            "AI에게는",
-            "지혜가",
-            "없고",
-            "당신에게도",
-            "없게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "gzip도 언어 모델이 될 수 있을까?",
-          "link": "https://news.hada.io/topic?id=34120",
-          "pubDate": "2026-09-22T11:33:13.000Z",
-          "image": null,
-          "summary": "GziPT는 신경망이나 별도 학습 없이 gzip의 압축 원리로 글을 이어 쓰는 실험으로, 주어진 텍스트 뒤에 여러 후보를 붙여 보고 가장 작게 압축되는 쪽을 선택함 기반 원리는 압축과 예측의 동등성임. 압축기가 예상하는 데이터일수록 적은 비트로 표현되므로, 압축...",
-          "keywords": [
-            "gzip도",
-            "언어",
-            "모델이",
-            "있을까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "나는 거부했지만 Apple은 허용했다",
-          "link": "https://news.hada.io/topic?id=34119",
-          "pubDate": "2026-09-22T10:32:31.000Z",
-          "image": null,
-          "summary": "David Bushell은 Apple Intelligence & Siri를 꺼둔 상태에서 macOS 15를 27로 업그레이드했지만, 관련 기능이 다시 활성화되고 기존 거부 스위치도 사라지는 일을 겪음 macOS 27에서 Siri를 다시 꺼도 종료할 수 없는 여러 Siri 프로세스가 남아 메모리를 사용...",
-          "keywords": [
-            "나는",
-            "거부했지만",
-            "Apple은",
-            "허용했다"
+            "HERMES",
+            "무전기",
+            "초장거리",
+            "음성",
+            "데이터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:24.931Z",
+      "fetchedAt": "2026-09-22T16:10:37.592Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -493,8 +495,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -538,7 +540,7 @@
           "summaryKo": "YouTube는 토론토 국제 영화제 (TIFF) 를 통해 크리에이터가 진행하는 새로운 프로젝트를 선보이는 데 그치지 않았습니다. 또한 캐나다 크리에이터 (및 지하철을 타는 이집트계 미국인 1명) 에게 새로운 기회를 열어줄 독창적인 프로그램을 발표했습니다. 프로그램 발표는 TIFF와 인접하여 개최된 YouTube 기능 마케팅 이벤트에서 이루어졌습니다. YouTube Features의 호스트는 앞서 언급한 이집트계 미국인인 Kareem Rahma였습니다. Kareem Rahma는"
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:25.124Z",
+      "fetchedAt": "2026-09-22T16:10:37.792Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:25.323Z",
+      "fetchedAt": "2026-09-22T16:10:38.030Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:25.400Z",
+      "fetchedAt": "2026-09-22T16:10:38.119Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +794,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:27.599Z",
+      "fetchedAt": "2026-09-22T16:10:41.531Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +887,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:27.871Z",
+      "fetchedAt": "2026-09-22T16:10:41.941Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -893,6 +895,60 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "pubDate": "2026-09-22T15:00:00.000Z",
+          "image": null,
+          "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "AI",
+            "Robotics",
+            "Okta",
+            "AWS"
+          ],
+          "isForeign": true,
+          "titleKo": "모든 창업자가 TechCrunch Disrupt 2026 어젠다에 포함해야 하는 다섯 가지 AI 안전 세션",
+          "summaryKo": "TechCrunch Disrupt 2026에서는 AI Stage 및 Real World AI Stage의 5개 세션에서 Anthropic, NVIDIA, AWS, Waabi 등의 리더가 AI 안전을 다룹니다. 지금 등록하고 9월 25일 전까지 최대 $ 200의 할인 혜택을 누리세요."
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+          "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+          "pubDate": "2026-09-22T14:30:00.000Z",
+          "image": null,
+          "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+          "keywords": [
+            "Startups",
+            "Hardware",
+            "AI",
+            "Robotics",
+            "TechCrunch Disrupt",
+            "hello robot"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026: Aaron Edsinger가 Hello Robot의 Stretch 4를 무대에서 생생하게 선보입니다",
+          "summaryKo": "Hello Robot의 CEO이자 공동 설립자인 Aaron Edsinger는 TechCrunch Disrupt 2026에서 Real World AI Stage에서 Stretch 4를 라이브 데모로 선보일 예정입니다. 9월 25일 전에 등록하면 최대 $ 200를 할인받을 수 있으며, 50% 할인된 가격에 두 번째 이용권을 받으실 수 있습니다."
+        },
+        {
+          "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+          "pubDate": "2026-09-22T14:15:00.000Z",
+          "image": null,
+          "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+          "keywords": [
+            "Startups",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "AI",
+            "Robotics"
+          ],
+          "isForeign": true,
+          "titleKo": "전시 테이블 추가: TechCrunch Disrupt 2026에서 스타트업을 소개할 수 있는 마지막 기회",
+          "summaryKo": "출품자 프로그램을 1주일 더 재개했습니다. 9월 30일 오후 11시 59분 (태평양 표준시 기준) 까지 전시 테이블을 예약하고 10월 13일부터 15일까지 샌프란시스코 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 기술 리더 앞에서 스타트업을 소개하세요."
+        },
         {
           "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
@@ -921,66 +977,14 @@
             "Fundraising",
             "Hardware",
             "Startups",
-            "semiconductors",
-            "Singapore"
+            "semiconductors"
           ],
           "isForeign": true,
           "titleKo": "싱가포르의 넥스트롬 (Nexstrom) 은 칩 팹에 2D 반도체를 도입하고자 합니다.",
           "summaryKo": "싱가포르에 본사를 둔 Nexstrom은 칩 제조업체가 2D 반도체 재료를 대규모로 제조하는 데 도움이 될 수 있는 장비를 개발하기 위해 새로운 자금을 조달했습니다."
-        },
-        {
-          "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-          "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-          "pubDate": "2026-09-22T11:00:00.000Z",
-          "image": null,
-          "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
-          "keywords": [
-            "Climate",
-            "Startups",
-            "Exclusive",
-            "MacroCycle",
-            "Meta",
-            "recycling"
-          ],
-          "isForeign": true,
-          "titleKo": "메타 딜은 플라스틱 재활용 스타트업 MacroCycle이 첫 공장을 건설하는 데 도움이 될 것입니다.",
-          "summaryKo": "Meta는 첫 번째 상업 공장을 건설하는 스타트업 MacroCycle과의 새로운 거래에서 플라스틱 재활용에 활력을 불어넣고 있습니다."
-        },
-        {
-          "title": "Morphotonics raises €40M to expand its display tech into data centers",
-          "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-          "pubDate": "2026-09-22T06:00:00.000Z",
-          "image": null,
-          "summary": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "deep tech"
-          ],
-          "isForeign": true,
-          "titleKo": "Morphotonics는 디스플레이 기술을 데이터 센터로 확장하기 위해 € 40M을 모금합니다",
-          "summaryKo": "딥테크 기업인 Morphotonics는 3M Ventures, Innovation Industries, BOM 및 Invest-NL을 포함한 투자자들로부터 € 40M를 모금합니다."
-        },
-        {
-          "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-          "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-21T19:25:00.000Z",
-          "image": null,
-          "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-          "keywords": [
-            "AI",
-            "Apps",
-            "Biotech & Health",
-            "Climate",
-            "Fintech",
-            "Fundraising"
-          ],
-          "isForeign": true,
-          "titleKo": "다음 단계를 알아보세요. 5일 후 TechCrunch Disrupt 2026 티켓을 최대 $ 200 할인받으실 수 있습니다.",
-          "summaryKo": "5일 후 TechCrunch Disrupt 2026 이용권 최대 $ 200 할인 + 두 번째 이용권 50% 할인 혜택이 제공됩니다. 10월 13일부터 15일까지 샌프란시스코의 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 운영자와 함께하세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 티켓을 할인받으세요."
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:34.754Z",
+      "fetchedAt": "2026-09-22T16:10:47.366Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1083,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:37.097Z",
+      "fetchedAt": "2026-09-22T16:10:50.280Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1087,6 +1091,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 - v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZXNXdEFfNlJqQ0RET1g2bEhrNjRZS0tZak8yYUNOQUZMeHdDTUg0OTlYaXFXUjlYcG9PNDNQUWxpNEhWRExURVRrd2tBb1U?oc=5",
+          "pubDate": "2026-09-22T09:35:40.000Z",
+          "image": null,
+          "summary": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 v.daum.net",
+          "keywords": [
+            "울산창조경제혁신센터",
+            "AI",
+            "활용",
+            "R&D",
+            "사업계획서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "영농부산물 파쇄지원 희망농가 모집 - 음성뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WjJCYnJTM3BZemVKVGZrU2FoYklYYUF4LXIxTi1qT1dpZm9fM3ZsM0czTzdHY2RVLXFvdzdPM20wRkhkcjVZeFFHQ1FWalc1R24xVGd2RWRWckUzSFoxWlh6N0RhSTFs?oc=5",
@@ -1105,11 +1126,11 @@
           "summaryKo": null
         },
         {
-          "title": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - 브랜드브리프",
+          "title": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - brandbrief.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWSG5ERHJaTWx6QTVDNDhhblRFYlByakdMbjNITU9GUFlTRl9YZVAtUWdMOW15QXVJQ1RJWVdxR010VHQ4RjFfM0VjOWJ2TkMzN01nM21RejAwb2xWSU5qeDl6ZEVJMUFJa203OHhMUQ?oc=5",
           "pubDate": "2026-09-22T05:53:26.000Z",
           "image": null,
-          "summary": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 브랜드브리프",
+          "summary": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 brandbrief.co.kr",
           "keywords": [
             "옥외광고센터",
             "옥외광고",
@@ -1139,114 +1160,97 @@
           "summaryKo": null
         },
         {
-          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
-          "pubDate": "2026-09-21T18:15:21.000Z",
+          "title": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 - 타임뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CUW9xYl9CdTNvLTZnaTBGR3FlemcxVGVFczZfQlRLaVdpSHNObzUwdTFiZk1pblFMNENzQ0wzclRsS3B2Nm5xUTZTUHZ3SzRQRFlTQQ?oc=5",
+          "pubDate": "2026-09-22T02:45:06.000Z",
           "image": null,
-          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제",
+          "summary": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 타임뉴스",
           "keywords": [
-            "재생에너지",
-            "융복합지원사업",
-            "카르텔",
-            "(1)",
-            "페이퍼컴퍼니"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한국지방재정공제회, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - 경인뷰",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qT3RxNXRBdFRWME5NX20zTDFWaUdYSzlEdTV2c2M1SDdJX2NJTktQQ2xsb0FMbUlqdGpGdzVRYUZRRjcwY2VoMG1CSHVUTEo3eDItMTYwZHpycWtjU0QycXZn?oc=5",
-          "pubDate": "2026-09-22T02:19:17.000Z",
-          "image": null,
-          "summary": "한국지방재정공제회, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 경인뷰",
-          "keywords": [
-            "한국지방재정공제회",
-            "옥외광고",
-            "기업",
-            "위한",
-            "특허"
+            "봉화도서관",
+            "영유아",
+            "독서지원",
+            "사업",
+            "두근두근"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T14:10:37.545Z",
+      "fetchedAt": "2026-09-22T16:10:51.199Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "마이리얼트립",
       "label": "마이리얼트립",
       "count": 2,
-      "rank": 1,
-      "change": "up"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 7,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "ai에이전트",
       "label": "AI에이전트",
       "count": 2,
-      "rank": 8,
-      "change": "new"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "경기창조경제혁신센터",
       "label": "경기창조경제혁신센터",
       "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "기업",
-      "label": "기업",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1291,28 +1295,28 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 6,
-      "change": "up",
-      "labelKo": "다음을 따르세요"
-    },
-    {
       "key": "startups",
       "label": "Startups",
-      "count": 4,
-      "rank": 7,
+      "count": 5,
+      "rank": 6,
       "change": "up",
       "labelKo": "스타트업"
     },
     {
-      "key": "climate",
-      "label": "Climate",
-      "count": 3,
-      "rank": 8,
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 7,
       "change": "new",
-      "labelKo": "기후"
+      "labelKo": "AI"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "featured",
@@ -1323,12 +1327,12 @@
       "labelKo": "추천 동영상"
     },
     {
-      "key": "statistics",
-      "label": "Statistics",
+      "key": "robotics",
+      "label": "Robotics",
       "count": 3,
       "rank": 10,
       "change": "new",
-      "labelKo": "스탯"
+      "labelKo": "로봇공학"
     }
   ]
 }
