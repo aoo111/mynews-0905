@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T18:13:19.754Z",
+  "collectedAt": "2026-09-22T20:10:23.682Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:12:59.768Z",
+      "fetchedAt": "2026-09-22T20:10:11.197Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T18:12:59.935Z",
+      "fetchedAt": "2026-09-22T20:10:11.250Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:00.884Z",
+      "fetchedAt": "2026-09-22T20:10:12.844Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "pubDate": "2026-09-22T18:00:00.000Z",
+          "image": null,
+          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT-6 Sol 및 Luna 소개",
+          "summaryKo": "능력과 비용의 균형이 다른 일상 업무에 프론티어 인텔리전스를 제공하는 두 모델인 GPT-6 Sol과 Luna를 만나보세요."
+        },
         {
           "title": "Priorities and principles for effective third party assessments",
           "link": "https://openai.com/index/priorities-principles-third-party-assessments",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "AI의 다음 단계를 위한 표준 구축",
           "summaryKo": "OpenAI는 안전성을 개선하기 위해 조정된 평가, 보고 및 거버넌스를 요구하는 공유된 글로벌 AI 표준에 대한 경로를 설명합니다."
-        },
-        {
-          "title": "Expanding OpenAI Academy with new learning paths",
-          "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "pubDate": "2026-09-21T07:00:00.000Z",
-          "image": null,
-          "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "새로운 학습 경로로 OpenAI 아카데미 확장",
-          "summaryKo": "직원, 개발자, 리더, 교육자 및 학생이 실용적인 AI 기술을 구축하고 시연할 수 있는 새로운 OpenAI Academy 학습 경로를 살펴보세요."
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:03.046Z",
+      "fetchedAt": "2026-09-22T20:10:14.762Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,38 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "OpenAI는 Jev를 빠르게 따라잡기에 유리한 위치에 있음",
+          "link": "https://news.hada.io/topic?id=34139",
+          "pubDate": "2026-09-22T18:42:03.000Z",
+          "image": null,
+          "summary": "Jev의 범용 분류 기능은 OpenAI가 이미 도구 호출 등에 사용해 온 토큰 기반 분류와 맞닿아 있음. TypeSafe의 학습 방식을 재현할 수 있다면 OpenAI가 독립 제품을 빠르게 복제할 수 있음 경쟁은 제품 복제에 그치지 않을 수 있음. OpenAI는 분류 기능을 모델과 에이전트 내...",
+          "keywords": [
+            "OpenAI는",
+            "Jev를",
+            "빠르게",
+            "따라잡기에",
+            "유리한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "GPT-6 Sol과 Luna",
+          "link": "https://news.hada.io/topic?id=34138",
+          "pubDate": "2026-09-22T18:39:03.000Z",
+          "image": null,
+          "summary": "OpenAI가 GPT-6 Astra와 유사한 방법으로 훈련한 GPT-6 Sol과 Luna를 출시함. 전문 업무, 사실 정확성, 코딩, 컴퓨터 사용, 정렬 성능을 더 빠르고 저렴한 모델로 확장함 캐싱과 추론 효율 개선을 반영해 API 가격을 인하함. 100만 토큰당 Sol은 입력 2달러/출력 1...",
+          "keywords": [
+            "GPT",
+            "Sol과",
+            "Luna"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT-6 솔과 루나",
+          "summaryKo": "OpenAI 가 GPT-6 Astra와 유사한 방법으로 훈련한 GPT-6 Sol과 Luna를 출시함.전문 업무,사실 정확성,코딩,컴퓨터 사용, 정렬 성능을 더 빠르고 저렴한 모델로 확장함 캐싱과 추론 효율 개선을 반영해 API가격을 인하함. 100만 토큰당 Sol은 입력 2달러/출력1..."
+        },
         {
           "title": "분당 광고 9회: 2026 FIFA 월드컵, ‘아름다운 경기의 대가’",
           "link": "https://news.hada.io/topic?id=34137",
@@ -403,43 +435,9 @@
           "isForeign": true,
           "titleKo": "Claude Opus 5.5",
           "summaryKo": "Anthropic 이 Claude 5.5 제품군의 첫 모델 Claude Opus 5.5를 출시함. 대부분의 작업에서 Claude Fable 5.1수준의 성능을 내며,에이전트 코딩과 컴퓨터 사용, 지식 업무 벤치마크에서 선두 성적을 기록함 기본 설정의 일반적인 작업에서 Opus 5 대비 비용이 40% 낮고"
-        },
-        {
-          "title": "브라우저에서 부팅하는 Apple Copland D11E4",
-          "link": "https://news.hada.io/topic?id=34134",
-          "pubDate": "2026-09-22T16:38:39.000Z",
-          "image": null,
-          "summary": "실물 하드웨어에서도 실행이 어렵고 이전에는 에뮬레이션으로 이용할 수 없었던 Apple Copland의 마지막 빌드 D11E4를 개선된 DingusPPC로 브라우저에서 부팅할 수 있음 실물 하드웨어의 부팅 시간은 약 30초이며, 최신 컴퓨터에서는 was...",
-          "keywords": [
-            "브라우저에서",
-            "부팅하는",
-            "Apple",
-            "Copland",
-            "D11E4"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Apple이 iOS에 추가한 사라지지 않는 ‘광고’, 사용자 반발 확산",
-          "link": "https://news.hada.io/topic?id=34133",
-          "pubDate": "2026-09-22T16:35:38.000Z",
-          "image": null,
-          "summary": "iOS 설정 앱 상단에 iCloud+, Apple Music, Apple TV, AppleCare+ 등 Apple 자체 서비스를 홍보하는 배너가 나타나 사용자 반발을 사고 있음 일부 배너는 닫기 버튼이 없거나 제대로 작동하지 않아, 서비스에 결제하거나 만료될 때까지 수주에서 수개월 동안 설정 ...",
-          "keywords": [
-            "Apple이",
-            "iOS에",
-            "추가한",
-            "사라지지",
-            "않는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:05.045Z",
+      "fetchedAt": "2026-09-22T20:10:16.285Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -447,6 +445,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Can “Trump TV” win a war against the press on YouTube?",
+          "link": "https://www.tubefilter.com/2026/09/22/trump-tv-youtube-channel-news-media/",
+          "pubDate": "2026-09-22T19:22:37.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/trump-on-tv.jpg",
+          "summary": "As Donald Trump faces a media blockade, he's counting on YouTube to keep him on air. A \"Trump TV\" stream went live on the White House YouTube channel hours after five major news organizations united against the President. The 24/7 stream brings Trump's \"greatest hits\" to YouTube. Fox News, ABC News, CBS News, NBC News, and CNN took Trump off their airwaves after he barred Politico, MS NOW, and CNN from the White House press room. In a joint statement, the news organizations said that \"the public",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Politics",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "'트럼프 TV' 가 유튜브에서 언론과의 전쟁에서 승리할 수 있을까요?",
+          "summaryKo": "도널드 트럼프 (Donald Trump) 가 미디어 봉쇄에 직면함에 따라 그는 방송을 계속하기 위해 YouTube에 의지하고 있습니다. \"트럼프 TV\" 스트림은 5개의 주요 뉴스 조직이 대통령에 반대하여 단합한 후 몇 시간 만에 백악관 유튜브 채널에 생중계되었습니다. 연중무휴로 제공되는 이 스트림은 트럼프의 '최고의 히트곡' 을 유튜브에 올립니다. 폭스 뉴스, ABC 뉴스, CBS 뉴스, NBC 뉴스, CNN은 폴리티코, MS NOW, CNN을 백악관 기자실에서 금지한 후 트럼프를 공중파에서 탈퇴시켰다. 공동 성명서에서 뉴스 조직은"
+        },
         {
           "title": "Will students do their homework if it’s turned into a TikTok-style feed? ScrollEd thinks so.",
           "link": "https://www.tubefilter.com/2026/09/21/scrolled-turns-textbooks-into-tiktok-feeds-new-app/",
@@ -518,28 +534,10 @@
           "isForeign": true,
           "titleKo": "들어보셨나요? 과학의 시간, 유튜브의 대학 미식축구, 사전의 '코피움' 입니다.",
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주에 주요 과학 활성화가 시작되었고 YouTube는 일부 축구를 할 준비가 되었으며 일부 말기 온라인 용어가 사전에 포함되었습니다. 크리에이터 소동 50x50이 YouTube에서 \"Science Across America\" 를 연재하기 시작했습니다. YouTube에서 여행 콘텐츠가 뜨겁기 때문에 Independent Media Initiative는 50 주 SWIN을 후원했습니다."
-        },
-        {
-          "title": "Oh Canada! YouTube’s nine-project creator programming slate takes it north of the border.",
-          "link": "https://www.tubefilter.com/2026/09/18/youtube-canada-toronto-international-film-festival-tiff-creator-slate/",
-          "pubDate": "2026-09-18T20:26:53.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/kareem-rahma-tiff.jpg",
-          "summary": "YouTube didn't just use the Toronto International Film Festival (TIFF) to premiere new projects helmed by creators. It also announced a fresh slate of original programs that will open up new opportunities for Canadian creators (and one subway-riding Egyptian-American). The programming announcements came during the YouTube Features marketing event, which was held adjacent to TIFF. The host of YouTube Features was the aforementioned Egyptian-American, Kareem Rahma, who is bringing his hit series S",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Toronto International Film Festival",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "오 캐나다! YouTube의 9개 프로젝트 크리에이터 프로그래밍 슬레이트가 국경의 북쪽을 차지합니다.",
-          "summaryKo": "YouTube는 토론토 국제 영화제 (TIFF) 를 통해 크리에이터가 진행하는 새로운 프로젝트를 선보이는 데 그치지 않았습니다. 또한 캐나다 크리에이터 (및 지하철을 타는 이집트계 미국인 1명) 에게 새로운 기회를 열어줄 독창적인 프로그램을 발표했습니다. 프로그램 발표는 TIFF와 인접하여 개최된 YouTube 기능 마케팅 이벤트에서 이루어졌습니다. YouTube Features의 호스트는 앞서 언급한 이집트계 미국인인 Kareem Rahma였습니다. Kareem Rahma는"
         }
       ],
-      "fetchedAt": "2026-09-22T16:10:37.792Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-22T20:10:17.925Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -612,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:05.707Z",
+      "fetchedAt": "2026-09-22T20:10:18.027Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:05.802Z",
+      "fetchedAt": "2026-09-22T20:10:18.088Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:13.307Z",
+      "fetchedAt": "2026-09-22T20:10:21.182Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:14.206Z",
+      "fetchedAt": "2026-09-22T20:10:21.448Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -982,7 +980,7 @@
           "summaryKo": "싱가포르에 본사를 둔 Nexstrom은 칩 제조업체가 2D 반도체 재료를 대규모로 제조하는 데 도움이 될 수 있는 장비를 개발하기 위해 새로운 자금을 조달했습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:15.538Z",
+      "fetchedAt": "2026-09-22T20:10:21.470Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1081,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:18.812Z",
+      "fetchedAt": "2026-09-22T20:10:23.048Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1175,7 +1173,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T18:13:19.287Z",
+      "fetchedAt": "2026-09-22T20:10:23.675Z",
       "error": null
     }
   },
@@ -1329,7 +1327,7 @@
       "label": "Statistics",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "스탯"
     }
   ]
