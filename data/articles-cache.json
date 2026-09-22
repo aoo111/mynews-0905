@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T20:10:23.682Z",
+  "collectedAt": "2026-09-22T22:09:14.804Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "은행대출 2.7조 늘렸는데 한달도 못갔다…연말 ‘통곡의 벽’ 불보듯",
+          "link": "https://www.mk.co.kr/news/economy/12159927",
+          "pubDate": "2026-09-22T21:21:31.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20240903.9b4f2c38b6074195b98193353e16a656_R.jpg",
+          "summary": "가계대출 증가속도 가팔라 올들어 7조 늘며 한도 넘겨 8·13 대책때 총량 늘렸지만 한달새 늘어난 금액 모두 소진 “집단대출 예외로 숨통” 분석도금융당국이 실수요자 대출 절벽을 해..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
           "link": "https://www.mk.co.kr/news/world/12159721",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "중앙그룹 워크아웃 여파에 은행 연체율 0.63%로 껑충",
-          "link": "https://www.mk.co.kr/news/economy/12159656",
-          "pubDate": "2026-09-22T08:46:11.000Z",
-          "image": null,
-          "summary": "중앙그룹 계열사의 잇단 워크아웃과 회생절차 개시 여파로 지난 7월 국내 은행 원화대출 연체율이 한 달 만에 상승 전환했다. 22일 금융감독원에 따르면 국내 은행의 원화대출 연체율(..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:11.197Z",
+      "fetchedAt": "2026-09-22T22:09:02.083Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -115,17 +115,17 @@
       "subcategory": "중앙은행",
       "items": [
         {
-          "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-          "pubDate": "2026-09-18T15:00:00.000Z",
+          "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+          "pubDate": "2026-09-22T20:30:00.000Z",
           "image": null,
-          "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+          "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
           "keywords": [
-            "Enforcement Actions"
+            "Orders on Banking Applications"
           ],
           "isForeign": true,
-          "titleKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표",
-          "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
+          "titleKo": "연방 준비 이사회, BancFirst Corporation의 신청 승인 발표",
+          "summaryKo": "연방 준비 이사회, BancFirst Corporation의 신청 승인 발표"
         },
         {
           "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
@@ -139,6 +139,19 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다.",
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
+        },
+        {
+          "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+          "pubDate": "2026-09-18T15:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+          "keywords": [
+            "Enforcement Actions"
+          ],
+          "isForeign": true,
+          "titleKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표",
+          "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         },
         {
           "title": "Federal Reserve issues FOMC statement",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표",
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
-        },
-        {
-          "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
-          "pubDate": "2026-09-11T14:00:00.000Z",
-          "image": null,
-          "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
-          "keywords": [
-            "Banking and Consumer Regulatory Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다.",
-          "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:11.250Z",
+      "fetchedAt": "2026-09-22T22:09:04.018Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월22일] “제미나이도 해킹했다”…구글 팬들은 오히려 ‘안도’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215553",
+          "pubDate": "2026-09-23T07:00:00.000Z",
+          "image": null,
+          "summary": "구글의 ‘제미나이’가 보안 테스트 과정에서 실제 기업 3곳의 시스템에 침입한 사실이 뒤늦게 알려졌습니다. 그런데 이 소식이 전해진 뒤 X와 레딧에서는 의외의 반응이 나왔습니다. “구글이 돌아왔다”라거나 “제미나이도 파티에 합류했다”는 식의 환영이었습니다.제미나이는 지난 5월 AI 보안업체 이레귤러(Irregular)가 진행한 사이버보안 평가에서 가상의 기업을 공격하는 테스트를 수행하다 실제 기업 3곳의 시스템에 접근했습니다. 한 곳에서는 비밀번호를 반복해서 추측했고, 다른 두 곳에서는 공개 코드 저장소에서 인증정보를 찾아 시스템에",
+          "keywords": [
+            "9월22일",
+            "제미나이도",
+            "해킹했다",
+            "구글",
+            "팬들은"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+          "pubDate": "2026-09-23T06:09:40.000Z",
+          "image": null,
+          "summary": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 API 이용료를 기존 대비 절반 이하로 내렸다.22일(현지시간) 출시된 GPT-6 솔과 루나는 최첨단 모델의 대중화를 목표로 비용 효율성을 극대화한 것이 핵심이다.오픈AI는 기존 'GPT-5.6' 프로모션 가격 대비 API 비용을 50% 인하했다. 이에 따라 GPT-6 솔의 API 가격은 100만 토큰당 입력 2달러·출력 10달러, GPT-6 루나는 입력 0.10달러·출력 0",
+          "keywords": [
+            "오픈AI",
+            "GPT",
+            "루나",
+            "공개",
+            "필요한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215583",
+          "pubDate": "2026-09-23T05:36:34.000Z",
+          "image": null,
+          "summary": "앤트로픽이 복잡한 추론과 에이전틱 코딩 분야에서 최고 성능을 기록함과 동시에 운영 비용을 대폭 낮춘 최신 프런티어 모델 '클로드 오퍼스 5.5(Claude Opus 5.5)'를 공개했다. 아티피셜 애널리시스(Artificial Analysis)의 지능 지수 1위에 올랐으며, API 기본 요금 인하와 토큰 효율성 향상을 통해 실제 작업 운영 비용을 이전 모델 대비 40% 절감한 것이 가장 큰 특징이다.앤트로픽은 22일(현지시간) 클로드 5.5 제품군의 첫 번째 플래그십 모델인 오퍼스 5.5를 출시했다고 발표했다. 이는 다리오 아모데이",
+          "keywords": [
+            "새로운",
+            "최고",
+            "성능",
+            "가격",
+            "40%"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215552",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "에포크 AI, 벤치마크 검증 착수...\"15개 중 9개 결함\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215568",
-          "pubDate": "2026-09-22T18:31:06.000Z",
-          "image": null,
-          "summary": "AI 모델의 성능을 비교하는 기준으로 쓰이는 ‘벤치마크’ 자체의 신뢰성을 먼저 따져봐야 한다는 지적이 나왔다. AI 모델의 점수를 넘어 평가 시험지 자체를 감사하고 검증하는 첫 사례가 나온 것이다.AI 연구기관 에포크 AI는 18일(현지시간) 주요 벤치마크의 문제점과 한계를 체계적으로 점검하는 ‘벤치마크 리뷰(Benchmark Reviews)’를 시작한다고 발표하며 \"벤치마크 문제점을 체계적으로 점검하겠다\"고 밝혔다.에포크 AI가 공개한 초기 검토 결과에 따르면 15개 벤치마크 가운데 4개는 ‘검증(Verified)’, 9개는 ‘결",
-          "keywords": [
-            "에포크",
-            "AI",
-            "벤치마크",
-            "검증",
-            "착수"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"대본만 넣으면 숏드라마 제작\"...바이트플러스, AI '드라매직' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215569",
-          "pubDate": "2026-09-22T18:12:11.000Z",
-          "image": null,
-          "summary": "AI 영상 생성 기술이 단편 영상 생성을 넘어 대본 분석, 캐릭터 설정, 장면 구성, 최종 검수에 이르는 전체 제작 프로세스를 자동화하는 플랫폼 형태로 전환하고 있다. 캐릭터 외형과 세계관의 일관성을 유지하고 연출 구성을 지원하면서 숏드라마 제작 방식의 변화를 이끌어내는 양상이다.바이트댄스의 기업용 AI 플랫폼 바이트플러스(BytePlus)는 21일 숏드라마와 영상 콘텐츠 제작 전 과정을 하나로 연결하는 AI 생성 콘텐츠(AIGC) 플랫폼 ‘드라매직(Dramagic)’을 공개했다.기존 AI 영상 도구가 단순 영상 출력이나 단일 프롬",
-          "keywords": [
-            "대본만",
-            "넣으면",
-            "숏드라마",
-            "제작",
-            "바이트플러스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "전남광주, 반도체클러스터 부지 2027년 착공 추진…2030년 첫 양산 목표",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215576",
-          "pubDate": "2026-09-22T17:56:58.000Z",
-          "image": null,
-          "summary": "AI 생성 영상전남광주통합특별시가 호남권 반도체클러스터의 2030년 6월 첫 양산을 목표로 부지 조성과 전력·용수 등 핵심 기반시설 구축 일정을 구체화했다.전남광주는 22일 기자 차담회를 열고 호남권 반도체클러스터의 부지 착공과 전력·용수 공급, 인재 양성, 정주여건 개선 등 추진상황을 발표했다.호남권 반도체클러스터는 광주 군공항 이전부지 약 250만평에 삼성전자와 SK하이닉스의 메모리 팹 4기를 조성하는 사업으로, 약 800조원 규모의 투자계획이 제시돼 있다. 정부는 지난 7월 광주 군공항 부지를 호남권 반도체 산단 부지로 조성하",
-          "keywords": [
-            "전남광주",
-            "반도체클러스터",
-            "부지",
-            "2027년",
-            "착공"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:12.844Z",
+      "fetchedAt": "2026-09-22T22:09:04.809Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Better prompt caching for GPT-6",
+          "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "pubDate": "2026-09-22T21:00:00.000Z",
+          "image": null,
+          "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT-6에 대한 더 나은 프롬프트 캐싱",
+          "summaryKo": "GPT-6가 높은 캐시 적중률, 새로운 진단, 명시적 중단점 및 대기 시간과 비용을 줄이는 제어 기능을 통해 프롬프트 캐싱을 개선하는 방법을 알아보세요."
+        },
         {
           "title": "Introducing GPT-6 Sol and Luna",
           "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
@@ -309,19 +322,6 @@
           "summaryKo": "OpenAI는 프론티어 모델 및 안전 장치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선 순위와 원칙을 설명합니다."
         },
         {
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "pubDate": "2026-09-21T12:00:00.000Z",
-          "image": null,
-          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "힉스필드 AI는 GPT-6 아스트라와 함께 하루 만에 새로운 비디오 기능을 제공합니다",
-          "summaryKo": "GPT-6 Astra를 통해 힉스필드 AI는 중소기업에서 동영상 광고 제작을 더 쉽게 하고 새로운 크리에이티브 도구를 더 빠르게 시장에 출시할 수 있습니다."
-        },
-        {
           "title": "Advisory Group on Mathematics and Artificial Intelligence",
           "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "pubDate": "2026-09-21T12:00:00.000Z",
@@ -335,20 +335,20 @@
           "summaryKo": "OpenAI는 새로운 AI 결과의 검토 및 커뮤니케이션을 안내하기 위해 수학 및 인공 지능에 대한 독립 자문 그룹과 협력하고 있습니다."
         },
         {
-          "title": "Building standards for the next phase of AI",
-          "link": "https://openai.com/index/building-standards-next-phase-ai",
-          "pubDate": "2026-09-21T10:00:00.000Z",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "pubDate": "2026-09-21T12:00:00.000Z",
           "image": null,
-          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
           "keywords": [
-            "Global Affairs"
+            "Startup"
           ],
           "isForeign": true,
-          "titleKo": "AI의 다음 단계를 위한 표준 구축",
-          "summaryKo": "OpenAI는 안전성을 개선하기 위해 조정된 평가, 보고 및 거버넌스를 요구하는 공유된 글로벌 AI 표준에 대한 경로를 설명합니다."
+          "titleKo": "힉스필드 AI는 GPT-6 아스트라와 함께 하루 만에 새로운 비디오 기능을 제공합니다",
+          "summaryKo": "GPT-6 Astra를 통해 힉스필드 AI는 중소기업에서 동영상 광고 제작을 더 쉽게 하고 새로운 크리에이티브 도구를 더 빠르게 시장에 출시할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:14.762Z",
+      "fetchedAt": "2026-09-22T22:09:06.446Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,87 +357,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "OpenAI는 Jev를 빠르게 따라잡기에 유리한 위치에 있음",
+          "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
+          "link": "https://news.hada.io/topic?id=34142",
+          "pubDate": "2026-09-22T21:35:00.000Z",
+          "image": null,
+          "summary": "AAII에서 최대 추론 설정의 Opus 5.5 max는 지능 지수 58점을 기록했으며, 이전 Opus 5의 최고점 51점과 Fable 5.1의 53점을 넘어섬 추론 강도에 따라 medium 51점, high 54점, xhigh 56점, max 58점으로 성능이 올라가지만, 평가 과제당 비용도 함께 증가함 ...",
+          "keywords": [
+            "Claude",
+            "Opus",
+            "추론",
+            "설정별",
+            "성능과"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "2027년 GrapheneOS가 사전 설치된 기기가 판매될 가능성이 높음",
+          "link": "https://news.hada.io/topic?id=34141",
+          "pubDate": "2026-09-22T20:41:31.000Z",
+          "image": null,
+          "summary": "Motorola Mobility(Lenovo) 가 GrapheneOS와 공식 파트너십을 맺고, 향후 출시할 일부 기기에 GrapheneOS를 지원하기 위해 협력 중임 첫 GrapheneOS 지원 기기는 2027년 출시할 고급 플래그십으로 예정돼 있음 지원 대상은 다른 기기로도 확대할 계획이며...",
+          "keywords": [
+            "2027년",
+            "GrapheneOS가",
+            "사전",
+            "설치된",
+            "기기가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미 국방부 조사, AI 과잉 의존이 이란 학교 미사일 공격에 일조",
+          "link": "https://news.hada.io/topic?id=34140",
+          "pubDate": "2026-09-22T20:38:31.000Z",
+          "image": null,
+          "summary": "미 국방부 내부 조사 관계자들에 따르면, 부실한 정보와 오래된 위성영상, AI 과잉 의존이 겹치면서 이란 Minab의 초등학교를 군사시설로 오인해 공격했으며, 어린이 최소 123명을 포함해 150명 넘게 사망함 학교 부지는 과거 군사시설이었지만 용도 변경 흔적이 거의 10년 전부터 존...",
+          "keywords": [
+            "국방부",
+            "조사",
+            "AI",
+            "과잉",
+            "의존이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI가 Jev의 밥그릇을 빼앗을까?",
           "link": "https://news.hada.io/topic?id=34139",
           "pubDate": "2026-09-22T18:42:03.000Z",
           "image": null,
-          "summary": "Jev의 범용 분류 기능은 OpenAI가 이미 도구 호출 등에 사용해 온 토큰 기반 분류와 맞닿아 있음. TypeSafe의 학습 방식을 재현할 수 있다면 OpenAI가 독립 제품을 빠르게 복제할 수 있음 경쟁은 제품 복제에 그치지 않을 수 있음. OpenAI는 분류 기능을 모델과 에이전트 내...",
+          "summary": "문장 대신 선택지별 확률과 판단을 반환하는 Jev가 인기를 얻고 있지만, OpenAI도 이미 도구 선택과 응답 종료 등에 토큰 확률을 활용하고 있어 비슷한 제품을 만들 기반을 갖추고 있음 더 큰 경쟁은 독립적인 분류 API를 복제하는 것이 아니라, 빠른 판단 기능을 LLM 내부에...",
           "keywords": [
-            "OpenAI는",
-            "Jev를",
-            "빠르게",
-            "따라잡기에",
-            "유리한"
+            "OpenAI가",
+            "Jev의",
+            "밥그릇을",
+            "빼앗을까"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GPT-6 Sol과 Luna",
+          "title": "GPT-6 Sol과 Luna 출시",
           "link": "https://news.hada.io/topic?id=34138",
           "pubDate": "2026-09-22T18:39:03.000Z",
           "image": null,
-          "summary": "OpenAI가 GPT-6 Astra와 유사한 방법으로 훈련한 GPT-6 Sol과 Luna를 출시함. 전문 업무, 사실 정확성, 코딩, 컴퓨터 사용, 정렬 성능을 더 빠르고 저렴한 모델로 확장함 캐싱과 추론 효율 개선을 반영해 API 가격을 인하함. 100만 토큰당 Sol은 입력 2달러/출력 1...",
+          "summary": "GPT-6 Astra의 코딩, 전문 업무, 컴퓨터 사용 능력을 더 빠르고 저렴한 모델로 확장하며, 사실 정확성과 사용자 지시를 따르는 능력도 개선함 API 가격은 이전 GPT-5.6 프로모션 가격보다 절반 수준으로 낮아짐. 100만 토큰당 입력/출력 가격은 Sol이 2달러...",
           "keywords": [
             "GPT",
             "Sol과",
-            "Luna"
-          ],
-          "isForeign": true,
-          "titleKo": "GPT-6 솔과 루나",
-          "summaryKo": "OpenAI 가 GPT-6 Astra와 유사한 방법으로 훈련한 GPT-6 Sol과 Luna를 출시함.전문 업무,사실 정확성,코딩,컴퓨터 사용, 정렬 성능을 더 빠르고 저렴한 모델로 확장함 캐싱과 추론 효율 개선을 반영해 API가격을 인하함. 100만 토큰당 Sol은 입력 2달러/출력1..."
-        },
-        {
-          "title": "분당 광고 9회: 2026 FIFA 월드컵, ‘아름다운 경기의 대가’",
-          "link": "https://news.hada.io/topic?id=34137",
-          "pubDate": "2026-09-22T17:52:07.000Z",
-          "image": null,
-          "summary": "2026 FIFA 월드컵 전체 경기 영상에서 건강에 해로운 식음료, 주류, 도박, 투기성 상품의 브랜드 노출이 9만 3,000회 이상 확인됨 분석 대상은 중간 광고가 아닌 경기 영상에 삽입된 브랜딩으로, 모든 경기에서 나타났으며 전체 실제 경기 시간의 약 4분의 1인 39....",
-          "keywords": [
-            "분당",
-            "광고",
-            "9회:",
-            "2026",
-            "FIFA"
+            "Luna",
+            "출시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Meta의 Muse에 파일시스템을 요청했더니 6.8GB를 보내왔다",
-          "link": "https://news.hada.io/topic?id=34136",
-          "pubDate": "2026-09-22T17:49:07.000Z",
-          "image": null,
-          "summary": "Muse에 보이는 파일을 압축해 연결된 Google Drive로 보내 달라고 요청하자, 세션에 할당된 Linux 환경의 루트 파일시스템으로 보이는 압축 해제 기준 6.8GB 자료가 전송됨 내보낸 자료에는 내부 문서, 통합 코드, 앱 템플릿, 메모리 파일, 에이전트 로그와",
-          "keywords": [
-            "Meta의",
-            "Muse에",
-            "파일시스템을",
-            "요청했더니",
-            "8GB를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Claude Opus 5.5",
-          "link": "https://news.hada.io/topic?id=34135",
-          "pubDate": "2026-09-22T17:43:06.000Z",
-          "image": null,
-          "summary": "Anthropic이 Claude 5.5 제품군의 첫 모델 Claude Opus 5.5를 출시함. 대부분의 작업에서 Claude Fable 5.1 수준의 성능을 내며, 에이전트 코딩과 컴퓨터 사용, 지식 업무 벤치마크에서 선두 성적을 기록함 기본 설정의 일반적인 작업에서 Opus 5 대비 비용이 40% 낮고",
-          "keywords": [
-            "Claude",
-            "Opus"
-          ],
-          "isForeign": true,
-          "titleKo": "Claude Opus 5.5",
-          "summaryKo": "Anthropic 이 Claude 5.5 제품군의 첫 모델 Claude Opus 5.5를 출시함. 대부분의 작업에서 Claude Fable 5.1수준의 성능을 내며,에이전트 코딩과 컴퓨터 사용, 지식 업무 벤치마크에서 선두 성적을 기록함 기본 설정의 일반적인 작업에서 Opus 5 대비 비용이 40% 낮고"
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:16.285Z",
+      "fetchedAt": "2026-09-22T22:09:07.036Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -509,8 +512,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "statistics",
             "Statistics",
+            "statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -536,7 +539,7 @@
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주에 주요 과학 활성화가 시작되었고 YouTube는 일부 축구를 할 준비가 되었으며 일부 말기 온라인 용어가 사전에 포함되었습니다. 크리에이터 소동 50x50이 YouTube에서 \"Science Across America\" 를 연재하기 시작했습니다. YouTube에서 여행 콘텐츠가 뜨겁기 때문에 Independent Media Initiative는 50 주 SWIN을 후원했습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:17.925Z",
+      "fetchedAt": "2026-09-22T22:09:07.292Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:18.027Z",
+      "fetchedAt": "2026-09-22T22:09:07.530Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:18.088Z",
+      "fetchedAt": "2026-09-22T22:09:07.601Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:21.182Z",
+      "fetchedAt": "2026-09-22T22:09:10.253Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +886,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:21.448Z",
+      "fetchedAt": "2026-09-22T22:09:10.475Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -891,6 +894,23 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "pubDate": "2026-09-22T21:56:43.000Z",
+          "image": null,
+          "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+          "keywords": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "data labeling",
+            "snorkel ai"
+          ],
+          "isForeign": true,
+          "titleKo": "스노클링 AI는 AI 훈련 데이터 붐에 대한 수요에 따라 평가액을 $ 3.5B로 3배 증가시킵니다.",
+          "summaryKo": "7년 된 이 스타트업은 서비스형 데이터 (data-as-a-service) 접근 방식을 촉진하기 위해 3억 5천만 달러의 시리즈 E를 모금했습니다."
+        },
         {
           "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
           "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
@@ -962,25 +982,9 @@
           "isForeign": true,
           "titleKo": "4일간 최대 $ 200 할인: TechCrunch Disrupt 2026에 5명 중 2명이 참여하는 이유",
           "summaryKo": "TechCrunch Disrupt 2026 이용권으로 최대 $ 200를 절약하고, 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 두 번째 이용권을 50% 할인받으세요. 오늘 등록하세요."
-        },
-        {
-          "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-          "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-          "pubDate": "2026-09-22T13:20:00.000Z",
-          "image": null,
-          "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
-          "keywords": [
-            "Fundraising",
-            "Hardware",
-            "Startups",
-            "semiconductors"
-          ],
-          "isForeign": true,
-          "titleKo": "싱가포르의 넥스트롬 (Nexstrom) 은 칩 팹에 2D 반도체를 도입하고자 합니다.",
-          "summaryKo": "싱가포르에 본사를 둔 Nexstrom은 칩 제조업체가 2D 반도체 재료를 대규모로 제조하는 데 도움이 될 수 있는 장비를 개발하기 위해 새로운 자금을 조달했습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:21.470Z",
+      "fetchedAt": "2026-09-22T22:09:12.511Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1083,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:23.048Z",
+      "fetchedAt": "2026-09-22T22:09:14.397Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1105,17 +1109,17 @@
           "summaryKo": null
         },
         {
-          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 음성타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVTN6UnpHVHVpdGlqNWlsZngwS1NwMjlydlZRTE9zZm9UbnhydEdmc2lRSjdJc0FhajNoRW9ucUlub1NhY3RRTkNnUE1XbWtzSFNXR2hRejFnMlZCbnlnbEpIa2E4X3hxX0E?oc=5",
-          "pubDate": "2026-09-22T13:16:45.000Z",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
+          "pubDate": "2026-09-21T02:14:24.000Z",
           "image": null,
-          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 음성타임즈",
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
           "keywords": [
-            "음성군",
-            "2026년",
-            "하반기",
-            "영농부산물",
-            "파쇄지원"
+            "중기부",
+            "공공데이터",
+            "활용",
+            "지원사업",
+            "참여할"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1139,41 +1143,41 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
-          "pubDate": "2026-09-21T02:14:24.000Z",
+          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 음성타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVTN6UnpHVHVpdGlqNWlsZngwS1NwMjlydlZRTE9zZm9UbnhydEdmc2lRSjdJc0FhajNoRW9ucUlub1NhY3RRTkNnUE1XbWtzSFNXR2hRejFnMlZCbnlnbEpIa2E4X3hxX0E?oc=5",
+          "pubDate": "2026-09-22T13:16:45.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 음성타임즈",
           "keywords": [
-            "중기부",
-            "공공데이터",
-            "활용",
-            "지원사업",
-            "참여할"
+            "음성군",
+            "2026년",
+            "하반기",
+            "영농부산물",
+            "파쇄지원"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 - 타임뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CUW9xYl9CdTNvLTZnaTBGR3FlemcxVGVFczZfQlRLaVdpSHNObzUwdTFiZk1pblFMNENzQ0wzclRsS3B2Nm5xUTZTUHZ3SzRQRFlTQQ?oc=5",
-          "pubDate": "2026-09-22T02:45:06.000Z",
+          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - dnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
+          "pubDate": "2026-09-21T18:15:21.000Z",
           "image": null,
-          "summary": "봉화도서관, 영유아 독서지원 사업 '두근두근 그림책 선물' 참여자 모집 타임뉴스",
+          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 dnews.co.kr",
           "keywords": [
-            "봉화도서관",
-            "영유아",
-            "독서지원",
-            "사업",
-            "두근두근"
+            "재생에너지",
+            "융복합지원사업",
+            "카르텔",
+            "(1)",
+            "페이퍼컴퍼니"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T20:10:23.675Z",
+      "fetchedAt": "2026-09-22T22:09:14.796Z",
       "error": null
     }
   },
@@ -1186,67 +1190,67 @@
       "change": "same"
     },
     {
+      "key": "gpt",
+      "label": "GPT",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "마이리얼트립",
       "label": "마이리얼트립",
       "count": 2,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
+    },
+    {
+      "key": "출시",
+      "label": "출시",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "ai에이전트",
-      "label": "AI에이전트",
-      "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "경기창조경제혁신센터",
-      "label": "경기창조경제혁신센터",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1267,44 +1271,44 @@
       "labelKo": "애드 센스"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "articles",
       "label": "Articles",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 4,
+      "change": "down",
       "labelKo": "기사"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 5,
+      "change": "down",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "news",
       "label": "News",
       "count": 5,
-      "rank": 5,
-      "change": "same",
+      "rank": 6,
+      "change": "down",
       "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
       "rank": 7,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
       "key": "google ads",
