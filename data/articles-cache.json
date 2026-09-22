@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T10:11:42.233Z",
+  "collectedAt": "2026-09-22T12:13:04.967Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -80,7 +80,7 @@
           "summaryKo": null
         },
         {
-          "title": "수협은행장 선출 불발 … 10월에 다시 논의키로",
+          "title": "수협은행장 선출 불발… 10월에 다시 논의키로",
           "link": "https://www.mk.co.kr/news/economy/12159657",
           "pubDate": "2026-09-22T08:46:12.000Z",
           "image": null,
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:32.955Z",
+      "fetchedAt": "2026-09-22T12:12:55.193Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:33.009Z",
+      "fetchedAt": "2026-09-22T12:12:55.272Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,17 +189,34 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "메타 ‘뮤즈’, 출시 초기 챗GPT 기록 뛰어넘어…\"개인형 AI 에이전트 시장 개막\"",
+          "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215552",
+          "pubDate": "2026-09-22T19:21:17.000Z",
+          "image": null,
+          "summary": "샤오미가 오픈소스 모델을 앞세워 글로벌 AI 선두권과의 성능 격차 좁히기에 속도를 내고 있다. 샤오미는 21일(현지시간) 차세대 오픈소스 AI 모델 ‘미모-V2.6(MiMo-V2.6)’ 시리즈를 공개했다. 대규모 강화학습 컴퓨팅을 투입해 추론·코딩 역량을 높이는 동시에 3D 공간 추론과 멀티모달 인식, 컴퓨터를 직접 조작하는 에이전트 능력까지 폭넓게 강화한 것이 특징이다. ‘미모-V2.6-프로’와 ‘미모-V2.6-플래시’ 두 가지 모델로 구성된다. 이 가운데 미모-V2.6-프로는 아티피셜 애널리시스 지능 지수(AAII)에서 46.3",
+          "keywords": [
+            "샤오미",
+            "오픈",
+            "모델",
+            "미모",
+            "V2"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215566",
           "pubDate": "2026-09-22T18:58:54.000Z",
           "image": null,
           "summary": "메타의 개인형 AI 에이전트 앱 ‘뮤즈(Muse)’가 출시 초기부터 가파른 사용자 증가세를 보이며 소비자용 에이전트 시장의 새로운 가능성을 보여주고 있다. 시장조사 전문 앱토피아(Apptopia)에 따르면, 뮤즈는 지난 8일(현지시간) 출시 후 13일 동안 미국과 캐나다에서 '챗GPT'의 모바일 출시 초기 기록을 넘어선 것으로 나타났다.동일한 조건으로 비교하기 위해 두 서비스의 미국·캐나다 지역 iOS 데이터를 분석한 결과, 뮤즈의 출시 후 13일간 다운로드는 180만건으로 챗GPT의 130만건을 웃돌았다.미국 내 일일 활성 사용자",
           "keywords": [
             "메타",
+            "에이전트",
             "뮤즈",
-            "출시",
-            "초기",
-            "챗GPT"
+            "돌풍",
+            "출시"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "광양 서천변에 꽃무릇·백일홍 물들어…추석 산책길 정비",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215579",
-          "pubDate": "2026-09-22T17:47:35.000Z",
-          "image": null,
-          "summary": "AI 생성 영상광양시 광양읍이 추석 연휴를 앞두고 서천변 생태하천 정비를 마치고 가을 산책객 맞이에 나섰다.광양읍은 고향을 찾는 출향인과 시민, 관광객이 서천변 꽃길과 물길을 따라 편안하게 걸을 수 있도록 생태하천 정비를 완료했다고 22일 밝혔다.서천변에는 수생식물과 물고기, 물새 등 생태환경과 함께 버들마편초와 백일홍, 황화코스모스 등이 이어져 가을 경관을 형성하고 있다.재래종 코스모스는 개화를 앞두고 있으며, 가을이 깊어질수록 꽃길 경관이 추가될 전망이다.서천변 둔치 양쪽에서는 꽃무릇도 개화를 시작했다. 광양읍은 추석 무렵 꽃무",
-          "keywords": [
-            "광양",
-            "서천변에",
-            "꽃무릇",
-            "백일홍",
-            "물들어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:34.449Z",
+      "fetchedAt": "2026-09-22T12:12:56.594Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:34.597Z",
+      "fetchedAt": "2026-09-22T12:12:56.732Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,38 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "gzip도 언어 모델이 될 수 있을까?",
+          "link": "https://news.hada.io/topic?id=34120",
+          "pubDate": "2026-09-22T11:33:13.000Z",
+          "image": null,
+          "summary": "GziPT는 신경망이나 학습된 매개변수 없이, 코퍼스와 프롬프트 뒤에 붙였을 때 가장 잘 압축되는 바이트열을 찾아 텍스트를 생성함 기반 원리는 압축과 예측의 동등성임. 압축기가 예상하는 데이터일수록 적은 비트로 표현되므로, 압축 결과의 길이를 후속 텍스트의...",
+          "keywords": [
+            "gzip도",
+            "언어",
+            "모델이",
+            "있을까"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "나는 거부했지만 Apple은 허용했다",
+          "link": "https://news.hada.io/topic?id=34119",
+          "pubDate": "2026-09-22T10:32:31.000Z",
+          "image": null,
+          "summary": "David Bushell은 Apple Intelligence & Siri를 꺼둔 상태에서 macOS 15를 27로 업그레이드했지만, 관련 기능이 다시 활성화되고 기존 거부 스위치도 사라지는 일을 겪음 macOS 27에서 Siri를 다시 꺼도 종료할 수 없는 여러 Siri 프로세스가 남아 메모리를 사용...",
+          "keywords": [
+            "나는",
+            "거부했지만",
+            "Apple은",
+            "허용했다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "이름 있는 인자와 선택적 인자는 정말 멋지다",
           "link": "https://news.hada.io/topic?id=34118",
@@ -374,13 +406,12 @@
           "summaryKo": null
         },
         {
-          "title": "자신의 하드웨어에서 실행하는 최첨단 AI",
+          "title": "내 하드웨어에서 실행하는 최첨단 AI",
           "link": "https://news.hada.io/topic?id=34116",
           "pubDate": "2026-09-22T09:35:29.000Z",
           "image": null,
-          "summary": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템을 하나의 생태계로 묶어 공개할 예정임. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표임 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU에서 실행하고, 128GB 메...",
+          "summary": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템을 하나의 생태계로 묶어 공개할 예정. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU에서 실행하고, 128GB 메모리...",
           "keywords": [
-            "자신의",
             "하드웨어에서",
             "실행하는",
             "최첨단",
@@ -404,42 +435,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "CGNAT 환경에서 셀프 호스팅하기",
-          "link": "https://news.hada.io/topic?id=34114",
-          "pubDate": "2026-09-22T08:02:25.000Z",
-          "image": null,
-          "summary": "CGNAT 때문에 가정용 라우터의 포트 포워딩이 통하지 않는 환경에서도, 공인 인터넷에 연결된 VPS 브리지와 터널을 이용해 집의 서비스를 외부에 공개할 수 있음 집의 서버가 WireGuard 터널을 먼저 연결하므로 가정에 고정 전용 IP가 필요하지 않...",
-          "keywords": [
-            "CGNAT",
-            "환경에서",
-            "셀프",
-            "호스팅하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "800달러 이하 수입품에 대한 소액 면세(de minimis) 행정상 면제 중단",
-          "link": "https://news.hada.io/topic?id=34113",
-          "pubDate": "2026-09-22T07:31:24.000Z",
-          "image": null,
-          "summary": "800달러 이하 수입품에 대한 소액 면세(de minimis) 행정상 면제 중단",
-          "keywords": [
-            "800달러",
-            "이하",
-            "수입품에",
-            "소액",
-            "면세(de"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:35.315Z",
+      "fetchedAt": "2026-09-22T12:12:57.660Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +536,7 @@
           "summaryKo": "YouTube는 토론토 국제 영화제 (TIFF) 를 통해 크리에이터가 진행하는 새로운 프로젝트를 선보이는 데 그치지 않았습니다. 또한 캐나다 크리에이터 (및 지하철을 타는 이집트계 미국인 1명) 에게 새로운 기회를 열어줄 독창적인 프로그램을 발표했습니다. 프로그램 발표는 TIFF와 인접하여 개최된 YouTube 기능 마케팅 이벤트에서 이루어졌습니다. YouTube Features의 호스트는 앞서 언급한 이집트계 미국인인 Kareem Rahma였습니다. Kareem Rahma는"
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:35.536Z",
+      "fetchedAt": "2026-09-22T12:12:57.718Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:35.770Z",
+      "fetchedAt": "2026-09-22T12:12:57.837Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:35.813Z",
+      "fetchedAt": "2026-09-22T12:12:57.890Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:39.039Z",
+      "fetchedAt": "2026-09-22T12:13:01.951Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:39.967Z",
+      "fetchedAt": "2026-09-22T12:13:02.257Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -979,7 +977,7 @@
           "summaryKo": "TechCrunch Disrupt 2026 메인 스테이지에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC를 만나보세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 등록하여 최대 $ 200를 절약하고 가장 치열한 스타트업 피치 대회 중 하나에 앞자리를 마련하세요."
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:40.090Z",
+      "fetchedAt": "2026-09-22T12:13:02.281Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1078,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:41.823Z",
+      "fetchedAt": "2026-09-22T12:13:04.498Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,6 +1084,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - 브랜드브리프",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWSG5ERHJaTWx6QTVDNDhhblRFYlByakdMbjNITU9GUFlTRl9YZVAtUWdMOW15QXVJQ1RJWVdxR010VHQ4RjFfM0VjOWJ2TkMzN01nM21RejAwb2xWSU5qeDl6ZEVJMUFJa203OHhMUQ?oc=5",
+          "pubDate": "2026-09-22T05:53:26.000Z",
+          "image": null,
+          "summary": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 브랜드브리프",
+          "keywords": [
+            "옥외광고센터",
+            "옥외광고",
+            "기업",
+            "위한",
+            "특허"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
@@ -1104,11 +1119,11 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - kbiznews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
           "pubDate": "2026-09-21T02:14:24.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 kbiznews.co.kr",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1153,26 +1168,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "홍천군, 마을 교육공동체 지원사업 참여 공동체 9월 23일까지 모집 - gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4Q2J5RWtuM2kxRXBXUWc2OWhHQjNMYkM2YldtVlUyNktPU1lqaDJVOUVKYWlKeHQ5SU5nRkRUN1RZYUdSYXNlVkh3bk4wWXFtOVNtTmNHem1ZTDg4TVc2UmEzVkhFRWpvaVpzZkZR?oc=5",
-          "pubDate": "2026-09-22T04:02:40.000Z",
-          "image": null,
-          "summary": "홍천군, 마을 교육공동체 지원사업 참여 공동체 9월 23일까지 모집 gukjenews.com",
-          "keywords": [
-            "홍천군",
-            "마을",
-            "교육공동체",
-            "지원사업",
-            "참여"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T10:11:42.224Z",
+      "fetchedAt": "2026-09-22T12:13:04.952Z",
       "error": null
     }
   },
@@ -1182,56 +1180,56 @@
       "label": "AI",
       "count": 2,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "마이리얼트립",
       "label": "마이리얼트립",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경기창조경제혁신센터",
@@ -1241,8 +1239,8 @@
       "change": "same"
     },
     {
-      "key": "기후테크",
-      "label": "기후테크",
+      "key": "기업",
+      "label": "기업",
       "count": 2,
       "rank": 10,
       "change": "new"
