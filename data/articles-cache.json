@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-21T22:10:36.861Z",
+  "collectedAt": "2026-09-22T00:14:40.509Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "반도체가 계속 해준다…9월 무역흑자 벌써 230억달러 ‘역대 최대’",
+          "link": "https://www.mk.co.kr/news/economy/12158840",
+          "pubDate": "2026-09-21T23:11:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.6172db81ce1946b581423852d192e9b4_R.png",
+          "summary": "관세청 1~20일 수출입 현황 전년보다 수출액 78%↑ 반도체 비중이 48% 차지이달 들어 수출이 700억달러를 돌파하며 역대 최대치를 새로 썼다. 반도체 수출이 260% 가까이 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“기업들 현장조사 거부하면 고발”…공정위원장, 강경대응 예고",
+          "link": "https://www.mk.co.kr/news/economy/12158839",
+          "pubDate": "2026-09-21T23:11:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.416df3984f5c44a389783873b3c84688_R.png",
+          "summary": "공정위원장 1주년 간담회 불복기업에 강경 대응 나서 국고채 담합도 조속히 결론공정거래위원회가 쿠팡·한화와 같은 기업들의 반발로 현장조사 단계에서 제동이 걸리자 강경 대응을 예고했다..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "900점 이상 고신용자도 5명 중 1명은 대출 ‘퇴짜’",
+          "link": "https://www.mk.co.kr/news/economy/12158837",
+          "pubDate": "2026-09-21T23:09:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.8e2a27431e60416c8163e37cf6ae5c76_R.png",
+          "summary": "규제에 자격기준 높아지고 신용점수 인플레까지 겹쳐 시중銀 거절률 5년새 3배로신용점수가 900점 이상인 고신용자도 5명 중 1명은 은행에 신용대출을 신청했다가 거절당하는 것으로 나..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“장례비 내야하는데 보험금 함흥차사”…보험사가 미리 알려드려요",
           "link": "https://www.mk.co.kr/news/economy/12158816",
           "pubDate": "2026-09-21T21:34:09.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“절반이 900점대, 변별력 있나요?”…무늬만 고신용자 걸러내는 은행",
-          "link": "https://www.mk.co.kr/news/economy/12158688",
-          "pubDate": "2026-09-21T12:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260921.1e30716bd52b4502a869b945cc19b78c_R.png",
-          "summary": "고신용자 5명중 1명 대출거절 총량규제 등 가계대출 조이며 고신용자 심사도 엄격해져 중저신용자는 대출난민 전락 제2금융권서 고신용자와 경쟁 일부 차주 부담이자 20% 육박정부의 강..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“월급 꼬박꼬박 들어왔는데 대출금리 왜 안깎였죠?”…급여이체 인정 안 된 까닭",
-          "link": "https://www.mk.co.kr/news/economy/12158603",
-          "pubDate": "2026-09-21T09:48:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260921.3aa72eb5f26a4a9cbb73de1a643d476f_R.png",
-          "summary": "금감원은 21일 ‘주요 민원 사례로 알아보는 은행 이용 시 소비자 유의사항’을 통해 최근 접수된 민원 사례를 소개하며 소비자들에게 주의를 당부했다. 대출 금리 감면 조건으로 급여 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "차기 신한은행장 후보, 지주 아닌 은행서도 추천한다…“공정성 강화 차원”",
-          "link": "https://www.mk.co.kr/news/economy/12158600",
-          "pubDate": "2026-09-21T09:40:20.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260921.79a1161f4129416e96e5bd1bed8f7dfa_R.jpg",
-          "summary": "신한금융, 은행·카드·증권 등 12개 자회사 CEO 승계절차 개시신한금융그룹이 신한은행과 신한카드, 신한투자증권 등 자회사 최고경영자(CEO) 선임 작업에 돌입했다. 신한금융은 은..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:15.421Z",
+      "fetchedAt": "2026-09-22T00:13:56.929Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 제안된 제3자 위험 관리 지침에 대한 의견과 핵심 서비스 제공업체와의 커뮤니티 은행 참여에 대한 문제 진술을 구합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:15.488Z",
+      "fetchedAt": "2026-09-22T00:13:57.040Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:16.794Z",
+      "fetchedAt": "2026-09-22T00:13:58.135Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 컨텍스트 에이전트로 변환하여 복잡한 소스 연결 작업을 완료할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:16.956Z",
+      "fetchedAt": "2026-09-22T00:13:58.296Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "미국, 광케이블 절단으로 동부 주요 공항 항공편 운항 중단",
+          "link": "https://news.hada.io/topic?id=34088",
+          "pubDate": "2026-09-21T22:39:54.000Z",
+          "image": null,
+          "summary": "주 통신 회선 장애와 백업 광케이블 절단이 겹치면서 FAA가 뉴욕, 보스턴, 필라델피아 등 미국 동부 주요 공항으로 향하는 항공편을 중단함 FlightAware 집계로 미국 내 5,600편 이상이 지연 또는 취소됐으며, 100편 이상이 다른 공항으로 회항함 필라델피...",
+          "keywords": [
+            "미국",
+            "광케이블",
+            "절단으로",
+            "동부",
+            "주요"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Python Workers 정식 출시",
+          "link": "https://news.hada.io/topic?id=34087",
+          "pubDate": "2026-09-21T22:36:54.000Z",
+          "image": null,
+          "summary": "Python Workers가 정식 출시(GA) 되어 Python이 Cloudflare 개발자 플랫폼의 완전 지원 언어가 됨. 기존 Python 코드와 라이브러리로 Workers를 개발하고 Cloudflare 서비스와 연동할 수 있음 바인딩 타입 변환을 런타임과 Python SDK가 처리하므로, Python 객체를...",
+          "keywords": [
+            "Python",
+            "Workers",
+            "정식",
+            "출시"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "NASA/ESA의 화성 시료 귀환 임무가 취소됨",
           "link": "https://news.hada.io/topic?id=34086",
@@ -406,43 +439,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "macOS 27에서 AI 모델 다운로드를 막고 저장 공간을 확보하는 방법",
-          "link": "https://news.hada.io/topic?id=34083",
-          "pubDate": "2026-09-21T19:31:28.000Z",
-          "image": null,
-          "summary": "macOS 27에서 Siri를 꺼도 AI 모델이 다운로드되는 사례가 있어, 다운로드를 막고 이미 설치된 모델 파일을 지우는 우회 방법이 공유됨 Siri를 끈 뒤 시스템과 다른 언어로 설정하거나, 사용 중인 네트워크의 저데이터 모드를 켜는 방식으로 다운...",
-          "keywords": [
-            "macOS",
-            "27에서",
-            "AI",
-            "모델",
-            "다운로드를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Raspberry Pi, RAM 칩 교체 차단",
-          "link": "https://news.hada.io/topic?id=34082",
-          "pubDate": "2026-09-21T18:37:05.000Z",
-          "image": null,
-          "summary": "Raspberry Pi, RAM 칩 교체 차단",
-          "keywords": [
-            "Raspberry",
-            "Pi",
-            "RAM",
-            "교체",
-            "차단"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:17.431Z",
+      "fetchedAt": "2026-09-22T00:13:59.157Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +449,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Will students do their homework if it’s turned into a TikTok-style feed? ScrollEd thinks so.",
+          "link": "https://www.tubefilter.com/2026/09/21/scrolled-turns-textbooks-into-tiktok-feeds-new-app/",
+          "pubDate": "2026-09-21T22:48:41.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/scrolled-textbooks.jpg",
+          "summary": "There's a new app turning textbooks into social media feeds that look like the For You Page. It's called ScrollEd, and it is trying to improve educational outcomes by making studying more fun for school-age kids. ScrollEd's founders are Utsav Gupta and Rebecca Neff, a husband-and-wife duo who have built a straightforward tool that makes education more engaging. Users upload textbook files, which are then turned into vibrant, interactive feeds that can hold students' attention while imparting rel",
+          "keywords": [
+            "Articles",
+            "Educational",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "education"
+          ],
+          "isForeign": true,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/20/2026",
           "link": "https://www.tubefilter.com/2026/09/21/top-50-most-subscribed-youtube-channels-week-of-09-20-2026/",
@@ -478,8 +495,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "statistics",
             "Statistics",
+            "statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -521,22 +538,9 @@
           "isForeign": true,
           "titleKo": "오 캐나다! YouTube의 9개 프로젝트 크리에이터 프로그래밍 슬레이트가 국경의 북쪽을 차지합니다.",
           "summaryKo": "YouTube는 토론토 국제 영화제 (TIFF) 를 통해 크리에이터가 진행하는 새로운 프로젝트를 선보이는 데 그치지 않았습니다. 또한 캐나다 크리에이터 (및 지하철을 타는 이집트계 미국인 1명) 에게 새로운 기회를 열어줄 독창적인 프로그램을 발표했습니다. 프로그램 발표는 TIFF와 인접하여 개최된 YouTube 기능 마케팅 이벤트에서 이루어졌습니다. YouTube Features의 호스트는 앞서 언급한 이집트계 미국인인 Kareem Rahma였습니다. Kareem Rahma는"
-        },
-        {
-          "title": "What if livestreamers could do product placement without real products?",
-          "link": "https://www.tubefilter.com/2026/09/18/livad-technologies-livestream-product-placements/",
-          "pubDate": "2026-09-18T19:55:30.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/LIVAD.jpg",
-          "summary": "Live content drives sales. From street hawkers of ancient times to QVC hosts to lightning-fast, multibillion-dollar Chinese social streams, having a real person show-and-tell products in real time can be key to bringing in those dolla dolla bills. Here’s proof in pudding: TikTok just released stats showing that a whopping 94% of Shop’s pricey luxury […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "라이브 스트리머가 실제 제품 없이 제품 배치를 할 수 있다면 어떨까요?",
-          "summaryKo": "라이브 콘텐츠는 판매를 촉진합니다. 고대의 길거리 행상인부터 QVC 호스트, 번개처럼 빠른 수십억 달러 규모의 중국 소셜 스트림에 이르기까지, 실제 사람이 쇼앤텔 제품을 실시간으로 보유하는 것이 달러 지폐를 가져오는 열쇠가 될 수 있습니다. 푸딩의 증거는 다음과 같습니다. TikTok이 방금 통계를 발표했습니다. Shop의 값비싼 명품 중 94% 가 […] Tubefilter를 방문하여 더 멋진 이야기를 들어보세요."
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:27.375Z",
+      "fetchedAt": "2026-09-22T00:14:19.754Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:27.494Z",
+      "fetchedAt": "2026-09-22T00:14:19.973Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:27.548Z",
+      "fetchedAt": "2026-09-22T00:14:20.062Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -700,97 +704,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "재정경제부 전략경제자문단, 딥엑스 찾았다…국산 AI 반도체 활용 인센티브 논의",
-          "link": "https://www.venturesquare.net/1115674/",
-          "pubDate": "2026-09-21T15:10:31.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/9cfeabd8-9950-4509-a4df-746e65b29765-789x401.png",
-          "summary": "재정경제부 전략경제자문단이 경기 판교 AI 반도체 기업 딥엑스를 방문해 반도체 분과위원회를 열었다. 박영선 위원장과 반도체 전문가, 딥엑스·퓨리오사AI 관계자 등이 참여해 국산 반도체 활용을 확대하기 위한 인센티브와 반도체 소부장 기업의 실증 지원 방안을 논의했다. 딥... The post 재정경제부 전략경제자문단, 딥엑스 찾았다…국산 AI 반도체 활용 인센티브 논의 appeared first on 벤처스퀘어.",
+          "title": "엑스와이지, 대법원에 로봇 바리스타 들어간다…국제회의 거쳐 10월 정식 설치",
+          "link": "https://www.venturesquare.net/1115739/",
+          "pubDate": "2026-09-22T00:02:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260922-784x522.png",
+          "summary": "엑스와이지가 제20차 아시아·태평양 대법원장회의에서 로봇 바리스타 ‘바리스브루’를 실제 카페 서비스에 투입했다. 바리스브루는 참가자의 주문을 받아 음료를 제조하고 제공하는 과정을 자동화해 운영됐다. 엑스와이지는 국제회의 운영을 마친 뒤 오는 10월 중순 바리스브루를 대... The post 엑스와이지, 대법원에 로봇 바리스타 들어간다…국제회의 거쳐 10월 정식 설치 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI반도체",
-            "NPU",
-            "국산반도체"
+            "AI로봇",
+            "XYZ",
+            "공공서비스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "더즌·카이아, 엔화·루피아·페소 스테이블코인으로 국경 간 결제 실증",
-          "link": "https://www.venturesquare.net/1115652/",
-          "pubDate": "2026-09-21T14:55:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/dozen-696x522.png",
-          "summary": "더즌과 카이아 재단이 로컬 스테이블코인을 활용한 크로스보더 결제·정산과 외화 환전 인프라 구축을 위해 협력한다. 더즌은 은행 송금망 연동과 발행사 직접 상환, 국가 간 정산 및 외화 스테이블코인 환전 구조를 검토하고 카이아 재단은 발행사 온보딩과 온체인 인프라·유동성 ... The post 더즌·카이아, 엔화·루피아·페소 스테이블코인으로 국경 간 결제 실증 appeared first on 벤처스퀘어.",
+          "title": "인빅, 저조도 AI 영상분석 기술 국방으로…경기국방벤처센터 협약기업 선정",
+          "link": "https://www.venturesquare.net/1115727/",
+          "pubDate": "2026-09-21T23:44:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-26-789x267.jpg",
+          "summary": "AI 영상분석 기업 인빅이 경기국방벤처센터의 2026년 하반기 협약기업으로 선정돼 저조도 영상분석 기술의 국방 분야 적용을 추진한다. 인빅은 야간 영상을 실시간으로 개선하고 객체를 탐지하는 ‘NOXAI™’와 여러 카메라 사이의 객체 이동을 연결해 추적하는 ‘NOXAI™... The post 인빅, 저조도 AI 영상분석 기술 국방으로…경기국방벤처센터 협약기업 선정 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "f(x)",
-            "IDRP",
-            "JPYC"
+            "NOXAI",
+            "객체인식",
+            "경계감시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "센녹, 성수동에 목욕탕을 열었다?…첫 플래그십 ‘배스 하우스 성수’ 오픈",
-          "link": "https://www.venturesquare.net/1115644/",
-          "pubDate": "2026-09-21T14:50:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260920135555_f7ee99ad79-789x444.png",
-          "summary": "라이프스타일 뷰티 브랜드 센녹이 오는 10월 7일 서울 성수동에 첫 공식 플래그십 스토어 ‘센녹 배스 하우스 성수’를 연다. 한국식 목욕탕을 현대적으로 재해석해 붉은 벽돌과 굴뚝, 하늘빛 타일과 우드 소재를 공간 디자인에 적용했다. 브랜드 론칭 이후 처음 선보이는 상설... The post 센녹, 성수동에 목욕탕을 열었다?…첫 플래그십 ‘배스 하우스 성수’ 오픈 appeared first on 벤처스퀘어.",
+          "title": "더네이쳐홀딩스, 브롬톤 자전거까지 직접 판다…전국 13개 매장서 25일 판매 시작",
+          "link": "https://www.venturesquare.net/1115720/",
+          "pubDate": "2026-09-21T23:36:33.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/london-718x522.jpg",
+          "summary": "더네이쳐홀딩스가 오는 25일부터 전국 13개 브롬톤 런던 매장에서 브롬톤 자전거 공식 판매를 시작한다. 2022년 어패럴 라이선스로 시작한 브롬톤과의 협력을 올해 국내 자전거 독점 총판 사업까지 확대한 것이다. 첫 판매 모델로 영국 클래식 자동차에서 영감을 받은 ‘클래... The post 더네이쳐홀딩스, 브롬톤 자전거까지 직접 판다…전국 13개 매장서 25일 판매 시작 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "K뷰티",
-            "SENNOK",
-            "라이프스타일뷰티"
+            "Brompton",
+            "더네이쳐홀딩스",
+            "라이딩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이모션웨이브, AI가 업무 결과 받아 마케팅 콘텐츠로…홍콩서 AX 실증",
-          "link": "https://www.venturesquare.net/1115636/",
-          "pubDate": "2026-09-21T14:45:39.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/emotion.png",
-          "summary": "이모션웨이브가 홍콩 청년 20명과 5개 기업이 참여한 글로벌 프로젝트에서 ‘AX Business Suite’ 개념검증을 진행했다. PartnerOS를 활용해 기업과 인턴 간 업무 전달과 프로젝트 진행 상황을 관리하고 AI가 업무 내용을 요약하도록 했다. 프로젝트에서 만... The post 이모션웨이브, AI가 업무 결과 받아 마케팅 콘텐츠로…홍콩서 AX 실증 appeared first on 벤처스퀘어.",
+          "title": "삼쩜삼캠퍼스, 출범 1년 만에 14만명…260만번 본 투자 리포트 오프라인으로",
+          "link": "https://www.venturesquare.net/1115712/",
+          "pubDate": "2026-09-21T23:31:43.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/33-cam-589x522.jpg",
+          "summary": "자비스앤빌런즈와 용감한컴퍼니가 운영하는 삼쩜삼캠퍼스가 출범 1년 만에 가입자 14만명을 넘어섰다. 대표 강의 ‘주식투자 함께고민 클래스’는 누적 수강생 6만명을 기록했으며, 회사 설문 기준 강의 만족도는 92%로 집계됐다. 매일 시장을 분석하는 ‘콜페이퍼’는 1년간 누... The post 삼쩜삼캠퍼스, 출범 1년 만에 14만명…260만번 본 투자 리포트 오프라인으로 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI전환",
-            "AI플랫폼",
-            "AX"
+            "개인투자자",
+            "금융교육",
+            "삼쩜삼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "다음, 아시안게임도 AI로 본다…종목 설명·선수 매치업에 3000만원 야구 이벤트까지",
-          "link": "https://www.venturesquare.net/1115629/",
-          "pubDate": "2026-09-21T14:41:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Go-NAGOYA-789x430.png",
-          "summary": "다음이 ‘2026 아이치·나고야 아시안게임’을 맞아 대한민국 대표팀 경기 정보와 AI 콘텐츠를 모은 특집 페이지를 열었다. 경기 일정과 결과, 축구·야구 문자중계, 메달리스트 정보와 주요 영상을 제공하고 관심경기 저장과 대표팀 응원 기능도 운영한다. 버추얼 태권도 등 ... The post 다음, 아시안게임도 AI로 본다…종목 설명·선수 매치업에 3000만원 야구 이벤트까지 appeared first on 벤처스퀘어.",
+          "title": "아임웹, 고객사 누적 거래액 8조원…1조원 늘어나는 데 16개월→7개월",
+          "link": "https://www.venturesquare.net/1115702/",
+          "pubDate": "2026-09-21T23:22:25.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/imweb-767x522.png",
+          "summary": "아임웹 고객사의 누적 거래액이 지난 8월 8조원을 넘어섰다. 거래액이 1조원씩 증가하는 데 걸리는 기간은 초기 16개월에서 최근 7개월 수준으로 단축됐으며 올해 상반기 자사몰 거래액은 전년 동기 대비 12.6% 증가했다. 업종별로는 생활용품과 F&B 거래액이 각각 29... The post 아임웹, 고객사 누적 거래액 8조원…1조원 늘어나는 데 16개월→7개월 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI검색",
-            "AI매치업",
-            "AI종목정보"
+            "AI에이전트",
+            "CRM",
+            "D2C"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:31.425Z",
+      "fetchedAt": "2026-09-22T00:14:25.825Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -799,86 +803,89 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "오픈AI, 로봇의 모터와 기어까지 직접 설계한다",
-          "link": "https://platum.kr/archives/294889?utm_source=rss&utm_medium=rss&utm_campaign=openai-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2598-%25eb%25aa%25a8%25ed%2584%25b0%25ec%2599%2580-%25ea%25b8%25b0%25ec%2596%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a7%2581%25ec%25a0%2591-%25ec%2584%25a4%25ea%25b3%2584%25ed%2595%259c%25eb%258b%25a4",
-          "pubDate": "2026-09-19T09:30:48.000Z",
+          "title": "답을 말하는 대신, 보기마다 확률을 매기는 AI 모델 등장",
+          "link": "https://platum.kr/archives/294981?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597%25eb%25b4%2587-%25ec%2595%2584%25eb%258b%258c-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%2593%25b1%25ec%259e%25a5-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%25a8-%25ec%2595%2588%25ec%2597%2590%25ec%2584%259c-%25eb%25b6%2584%25eb%25a5%2598%25c2%25b7%25ec%2584%25a0%25ed%2583%259d%25c2%25b7",
+          "pubDate": "2026-09-21T07:25:53.000Z",
           "image": null,
-          "summary": "챗GPT로 생성형 AI 시장을 이끌어온 오픈AI가 로봇 하드웨어 설계 인력을 대거 뽑고 있다. 오픈AI 채용 페이지에 올라온 로보틱스 조직 공고에는 로봇 학습 모델이나 제어 소프트웨어 개발자뿐 아니라 액추에이터(로봇 관절을 움직이는 구동 장치) 설계 엔지니어, 액추에이터 기어 설계 엔지니어, 모터 기계설계 엔지니어, 모터·액추에이터 제조 엔지니어, 펌웨어 엔지니어, 인쇄회로기판(PCB) 설계 인력이 포함돼 있다. 공고 내용을 보면 채용 ... 더 읽기",
+          "summary": "챗GPT 같은 생성형 AI는 질문을 받으면 단어 조각(토큰)을 하나씩 이어 붙여 답을 문장으로 만든다. 미국 샌프란시스코의 AI 스타트업 타입세이프 AI(TypeSafe AI)가 9월 15일 공개한 모델 ‘제브(Jev)’는 문장을 만들지 않는다. 개발자가 미리 정해 둔 선택지 가운데 하나를 고르거나 점수를 매기고, 어떤 진술이 참일 확률을 계산해 돌려준다. 사람과 대화하는 용도가 아니라, 프로그램이 업무를 처리하는 중간에 불러 쓰는 ... 더 읽기",
           "keywords": [
             "글로벌",
-            "오픈AI",
-            "챗GPT",
-            "피지컬 AI"
+            "Jev",
+            "시스템 원 모델",
+            "제브",
+            "타입세이프 AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "네이버, 배달의민족 인수 검토 4개월 만에 중단",
-          "link": "https://platum.kr/archives/294880?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%25a4%25ec%259d%25b4%25eb%25b2%2584-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%259d%25b8%25ec%2588%2598-%25ea%25b2%2580%25ed%2586%25a0-4%25ea%25b0%259c%25ec%259b%2594-%25eb%25a7%258c%25ec%2597%2590-%25ec%25a4%2591%25eb%258b%25a8",
-          "pubDate": "2026-09-18T05:22:48.000Z",
+          "title": "치과위생사 대신 로봇이 석션을 잡는다, 덴탈로보틱스 시드 투자 유치",
+          "link": "https://platum.kr/archives/294978?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%2598%25ea%25b3%25bc%25ec%259c%2584%25ec%2583%259d%25ec%2582%25ac-%25eb%258c%2580%25ec%258b%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%2584%259d%25ec%2585%2598%25ec%259d%2584-%25ec%259e%25a1%25eb%258a%2594%25eb%258b%25a4-%25eb%258d%25b4%25ed%2583%2588%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1",
+          "pubDate": "2026-09-21T05:18:11.000Z",
           "image": null,
-          "summary": "네이버가 국내 1위 배달 플랫폼 배달의민족 운영사 우아한형제들 인수를 추진하지 않기로 최종 결정했다. 지난 5월 글로벌 모빌리티 기업 우버와 컨소시엄을 구성해 우아한형제들을 인수하는 방안이 거론된 지 약 4개월 만이다. 네이버는 17일 배달의민족 인수 추진설에 대한 재공시에서 “배달의민족 지분 인수에 대해 검토했으나 경영환경 등의 변화에 따라 인수하지 않기로 결정했다”고 밝혔다. 네이버는 5월 인수설 보도 직후 조회공시 ... 더 읽기",
+          "summary": "치과 진료 중 환자 입안의 침과 피를 빨아들이는 석션 작업을 로봇이 스스로 하도록 만드는 스타트업이 시드 투자를 받았다. 덴탈로보틱스가 AI엔젤클럽이 주도하고 씨엔티테크, 피플인베스트먼트, 디지털헬스케어파트너스(DHP)가 참여한 시드 라운드 투자를 유치했다. 투자 금액은 공개하지 않았다. 회사가 겨냥하는 문제는 치과 보조인력 부족이다. 회사가 분석한 진료 현장에서 치과위생사는 하루 평균 2.5시간을 석션에 쓰고, 그중 약 2시간은 혼자 진료 보조를 ... 더 읽기",
           "keywords": [
-            "경제",
-            "네이버",
-            "배달앱",
-            "배달의민족",
-            "우버"
+            "투자",
+            "AI엔젤클럽",
+            "덴탈로보틱스",
+            "디지털헬스케어파트너스",
+            "씨엔티테크",
+            "펀딩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "화면 보고 컴퓨터 직접 조작하는 AI 모델, 제논 ‘훈민 VLM 397B’ 오픈소스 공개",
-          "link": "https://platum.kr/archives/294875?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2594%25eb%25a9%25b4-%25eb%25b3%25b4%25ea%25b3%25a0-%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0-%25ec%25a7%2581%25ec%25a0%2591-%25ec%25a1%25b0%25ec%259e%2591%25ed%2595%2598%25eb%258a%2594-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25ec%25a0%259c%25eb%2585%25bc-%25ed%259b%2588%25eb%25af%25bc-vlm-397b",
-          "pubDate": "2026-09-18T04:19:47.000Z",
+          "title": "신용도 낮아도 최대 1억원 보증, 신보 초기 스타트업 전용 ‘빌드업 프로그램’",
+          "link": "https://platum.kr/archives/294973?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a0%25ec%259a%25a9%25eb%258f%2584-%25eb%2582%25ae%25ec%2595%2584%25eb%258f%2584-%25ec%25b5%259c%25eb%258c%2580-1%25ec%2596%25b5%25ec%259b%2590-%25eb%25b3%25b4%25ec%25a6%259d-%25ec%258b%25a0%25eb%25b3%25b4-%25ec%25b4%2588%25ea%25b8%25b0-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%25a0%2584",
+          "pubDate": "2026-09-21T04:19:46.000Z",
           "image": null,
-          "summary": "컴퓨터 화면을 인식해 버튼을 누르고 입력창에 글을 넣는 식으로 직접 업무를 수행하는 AI 모델이 공개됐다. 생성형 AI 기업 제논이 ‘훈민(Hunmin) VLM 397B’를 오픈소스로 내놨다. 이 모델은 알리바바가 공개한 3,970억 파라미터 규모의 모델 ‘큐원(Qwen3.5-397B)’을 가져와 컴퓨터 조작 능력을 더한 것이다. 화면에서 버튼이나 입력창처럼 조작할 대상이 어디 있는지 찾아내는 단계부터, 운영체제와 프로그램을 오가며 실제 작업을 끝내는 단계까지를 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "생성형 AI",
-            "제논",
-            "큐원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "셀렉트스타 “AI 검증, 출시 전 한 번으로 끝낼 일 아니다”",
-          "link": "https://platum.kr/archives/294872?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2585%2580%25eb%25a0%2589%25ed%258a%25b8%25ec%258a%25a4%25ed%2583%2580-ai-%25ea%25b2%2580%25ec%25a6%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%25a0%2584-%25ed%2595%259c-%25eb%25b2%2588%25ec%259c%25bc%25eb%25a1%259c-%25eb%2581%259d%25eb%2582%25bc-%25ec%259d%25bc-%25ec%2595%2584%25eb%258b%2588%25eb%258b%25a4",
-          "pubDate": "2026-09-18T04:05:02.000Z",
-          "image": null,
-          "summary": "AI 기본법 시행 이후 기업과 공공기관이 무엇을 준비해야 하는지 다루는 세미나가 17일 서울 포스코타워 역삼에서 열렸다. AI 데이터·신뢰성 평가 기업 셀렉트스타와 한국능률협회컨설팅(KMAC), 법무법인 린이 함께 연 ‘<AI 기본법 이후의 실전 대응: 책임·거버넌스·검증>’으로, 법률 해석과 조직 관리체계, 실제 서비스의 기술적 검증을 이어서 살펴보는 자리로 마련됐다. 셀렉트스타는 기업이 만든 AI 관리 정책이 실제 서비스에서 작동하는지 객관적으로 확인하는 ... 더 읽기",
-          "keywords": [
-            "이벤트",
-            "AI 기본법",
-            "셀렉트스타"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI 창업자들 한데 모아 놓는 공간, 카카오벤처스 ‘템프서울’ 문 열어",
-          "link": "https://platum.kr/archives/294854?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590%25eb%2593%25a4-%25ed%2595%259c%25eb%258d%25b0-%25eb%25aa%25a8%25ec%2595%2584-%25eb%2586%2593%25eb%258a%2594-%25ea%25b3%25b5%25ea%25b0%2584-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2585%259c%25ed%2594%2584",
-          "pubDate": "2026-09-18T03:49:24.000Z",
-          "image": null,
-          "summary": "AI로 제품을 만드는 창업자들이 한 공간에 모여 각자 개발에 몰입하고 서로의 시행착오를 나누는 공동체 공간이 서울에 생겼다. 카카오벤처스가 창업자 공동체 공간 ‘템프서울(/tmp Seoul)’을 공식 개관했다. 개관식에는 템프서울 1기 멤버와 국내 창업자, 업계 관계자 등 40여 명이 참석했다. 카카오벤처스는 템프서울을 소수 인원으로 빠르게 가설을 세우고 제품을 만드는 창업자들이 가까운 거리에서 서로 자극을 주고받는 환경으로 설계했다고 설명했다. ... 더 읽기",
+          "summary": "신용도는 낮지만 성장 가능성이 있는 초기 스타트업을 대상으로 보증 요건을 완화한 전용 상품이 나왔다. 신용보증기금은 ‘스타트업 빌드업 프로그램’을 IBK기업은행과 함께 운영한다고 21일 밝혔다. 이 프로그램은 초기 스타트업에 최대 1억원의 보증을 지원한다. 1년 뒤 재평가에서 신용등급 등 요건을 충족하면 기존 보증금액을 포함해 최대 2억원까지 추가로 지원한다. 기존보다 보증 이용 요건을 낮춰 신용 이력이 짧은 초기 기업도 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "카카오벤처스",
-            "템프서울"
+            "ibk기업은행",
+            "스타트업 빌드업 프로그램",
+            "신용보증기금"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "재외 한인 기술인재 유치부터 해외 진출까지, NIPA·엔젤투자협회 협력",
+          "link": "https://platum.kr/archives/294970?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25ec%2599%25b8-%25ed%2595%259c%25ec%259d%25b8-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%25b8%25ec%259e%25ac-%25ec%259c%25a0%25ec%25b9%2598%25eb%25b6%2580%25ed%2584%25b0-%25ed%2595%25b4%25ec%2599%25b8-%25ec%25a7%2584%25ec%25b6%259c%25ea%25b9%258c%25ec%25a7%2580-nipa%25c2%25b7%25ec%2597%2594%25ec%25a0%25a4",
+          "pubDate": "2026-09-21T03:27:31.000Z",
+          "image": null,
+          "summary": "해외에 있는 한인 기술인재를 국내로 불러들이고, 국내 초기 스타트업을 해외로 내보내는 과정을 하나의 지원 체계로 묶는 작업이 시작된다. 정보통신산업진흥원(NIPA)과 한국엔젤투자협회는 18일 AI·정보통신기술(AICT) 분야 스타트업의 국내외 진출을 지원하기 위한 업무협약을 맺었다. 두 기관은 그동안 스타트업 지원이 국내 유입과 해외 진출을 따로 다뤄, 재외 한인 기술인재와 국내 기업이 국경을 오가며 성장할 통로가 부족했다고 설명했다. 협약에 따라 두 ... 더 읽기",
+          "keywords": [
+            "투자",
+            "정보통신산업진흥원",
+            "한국엔젤투자협회"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중국은 보조금, 프랑스는 수사…같은 스마트 글라스 다른 대접",
+          "link": "https://platum.kr/archives/294964?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad%25ec%259d%2580-%25eb%25b3%25b4%25ec%25a1%25b0%25ea%25b8%2588-%25ed%2594%2584%25eb%259e%2591%25ec%258a%25a4%25eb%258a%2594-%25ec%2588%2598%25ec%2582%25ac%25ea%25b0%2599%25ec%259d%2580-%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8-%25ea%25b8%2580%25eb%259d%25bc%25ec%258a%25a4",
+          "pubDate": "2026-09-21T03:08:10.000Z",
+          "image": null,
+          "summary": "중국 주요 온라인 플랫폼의 스마트 글라스 판매액이 올해 1~8월 전년 같은 기간보다 120% 늘었다. 중국 상무부가 9월 20일 공개한 1~8월 소비시장 자료에 담긴 수치다. 같은 자료에서 심전도 모니터는 75%, 액션캠은 26.9%, 유기농 식품은 7.4% 증가했다. 스마트 글라스는 안경형 웨어러블 기기로, 일부 제품은 카메라와 마이크, AI 음성 비서 등을 탑재한다. 유럽 일부 국가에서는 이 기기의 카메라가 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "China",
+            "스마트글래스",
+            "중국"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:31.685Z",
+      "fetchedAt": "2026-09-22T00:14:26.665Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -973,7 +980,7 @@
           "summaryKo": "복도는 중소기업에 중점을 둡니다. 이는 소규모 계정이 대규모 계정보다 낮은 수수료를 생성하기 때문에 전통적인 중개업체가 종종 간과한다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:32.713Z",
+      "fetchedAt": "2026-09-22T00:14:26.715Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -981,6 +988,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "제주콘텐츠진흥원·AWS·메가존클라우드, 제주 콘텐츠 제작에 AI 심는다…10월 첫 실증",
+          "link": "https://www.venturesquare.net/1115662/",
+          "pubDate": "2026-09-21T15:05:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/jdc-4-783x522.jpg",
+          "summary": "제주콘텐츠진흥원이 AWS, 메가존클라우드와 제주 콘텐츠산업의 AI 전환을 위한 협력에 나선다. 2027년 개소하는 제주콘텐츠기업지원센터를 거점으로 지역 콘텐츠 기업과 창작자에게 AI 콘텐츠 제작 솔루션과 테스트베드 시설·장비를 지원한다. 입주기업에는 AI 솔루션을 무상... The post 제주콘텐츠진흥원·AWS·메가존클라우드, 제주 콘텐츠 제작에 AI 심는다…10월 첫 실증 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI전환",
+            "AI콘텐츠",
+            "AWS",
+            "AX",
+            "POC"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경기창조경제혁신센터, 딥테크 12개사 투자부터 데이터 가치까지 진단…1대1 성장지원",
           "link": "https://www.venturesquare.net/1115659/",
@@ -1052,27 +1077,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "울산창조경제혁신센터, 청년 아이디어 12팀 실제 제품으로…로컬기업과 협업 기회 연다",
-          "link": "https://www.venturesquare.net/1115360/",
-          "pubDate": "2026-09-21T01:22:55.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/UP-369x522.png",
-          "summary": "울산창조경제혁신센터가 부산·울산·경남 청년을 대상으로 ‘청년X로컬 UP 인사이트’ 참여팀을 10월 2일까지 모집한다. 최대 12개 팀을 선발해 로컬기업 탐방과 실무진 인터뷰, 전문가 멘토링 등을 제공하고 결과물 제작비로 팀당 50만원을 지원한다. 참가팀은 지역 기업과 ... The post 울산창조경제혁신센터, 청년 아이디어 12팀 실제 제품으로…로컬기업과 협업 기회 연다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "USF",
-            "경남스타트업",
-            "로컬기업",
-            "로컬창업",
-            "부산스타트업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:35.917Z",
+      "fetchedAt": "2026-09-22T00:14:29.877Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1080,6 +1087,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - dnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
+          "pubDate": "2026-09-21T18:15:21.000Z",
+          "image": null,
+          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 dnews.co.kr",
+          "keywords": [
+            "재생에너지",
+            "융복합지원사업",
+            "카르텔",
+            "(1)",
+            "페이퍼컴퍼니"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
@@ -1092,6 +1116,23 @@
             "활용",
             "지원사업",
             "참여할"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 - 투어코리아",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZllJMm1Bako5Sk5yR2psemo2Mm91WVJELS1SSHYtWDMwTlhnOURlaEk1WnNzRHJ2Zlk0eDlrc3ZEempBWmF4ZVN5S1Flb2FfcGZrRTBQdzRJN2pYMklkMmxac0c4dEZPVVoxVTZ3?oc=5",
+          "pubDate": "2026-09-21T17:44:45.000Z",
+          "image": null,
+          "summary": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 투어코리아",
+          "keywords": [
+            "울산창조경제혁신센터",
+            "AI",
+            "활용",
+            "R&D",
+            "사업계획서"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1130,65 +1171,31 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY3RHVzZ0T1lSNHZDd1c1RzZIdXMybDd6RUVpWHMtWFJpMzYxOXJ1Yk5MYkRwVEtsM0xCMFJOMGl2b1hiNkg1VHVoZmZUMnBaZUNGbzlmZFNFN1l1d0Nfd1BYSXZ3a1c1LVE5bFlfYl9yc2dETFJoWDdiOF9iZjQ?oc=5",
-          "pubDate": "2026-09-16T00:03:21.000Z",
-          "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
-          "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
-          "pubDate": "2026-09-18T06:23:20.000Z",
-          "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
-          "keywords": [
-            "경기",
-            "~9/29(화)",
-            "성남시",
-            "청년",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-21T22:10:36.397Z",
+      "fetchedAt": "2026-09-22T00:14:30.351Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 6,
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "글로벌",
       "label": "글로벌",
-      "count": 2,
+      "count": 3,
+      "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
       "rank": 3,
       "change": "down"
     },
@@ -1221,25 +1228,25 @@
       "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 8,
-      "change": "same"
-    },
-    {
       "key": "esg",
       "label": "ESG",
       "count": 2,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
-      "key": "경기",
-      "label": "경기",
+      "key": "경기창조경제혁신센터",
+      "label": "경기창조경제혁신센터",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
       "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1260,34 +1267,42 @@
       "labelKo": "애드 센스"
     },
     {
+      "key": "articles",
+      "label": "Articles",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 4,
+      "change": "down",
       "labelKo": "홈페이지 기능"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 5,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "뉴스"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 4,
-      "rank": 4,
-      "change": "same",
+      "rank": 6,
+      "change": "down",
       "labelKo": "AI"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 4,
-      "rank": 5,
-      "change": "up",
-      "labelKo": "기사"
     },
     {
       "key": "fundraising",
       "label": "Fundraising",
       "count": 4,
-      "rank": 6,
+      "rank": 7,
       "change": "down",
       "labelKo": "모금 활동"
     },
@@ -1295,33 +1310,25 @@
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 7,
+      "rank": 8,
       "change": "down",
       "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 4,
-      "rank": 8,
-      "change": "up",
-      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
-      "key": "statistics",
-      "label": "Statistics",
+      "key": "featured",
+      "label": "Featured",
       "count": 3,
       "rank": 10,
       "change": "new",
-      "labelKo": "스탯"
+      "labelKo": null
     }
   ]
 }
