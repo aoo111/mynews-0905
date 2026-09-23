@@ -946,9 +946,15 @@ a {
   margin: 0;
 }
 
+.modal-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 20px;
+}
+
 .modal-link {
   display: inline-block;
-  margin-top: 20px;
   padding: 10px 20px;
   background: var(--accent);
   color: #fff;
@@ -960,6 +966,22 @@ a {
 
 .modal-link:hover {
   opacity: 0.9;
+}
+
+.modal-ai-btn {
+  padding: 10px 20px;
+  background: transparent;
+  color: var(--accent);
+  border: 1.5px solid var(--accent);
+  border-radius: 999px;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.modal-ai-btn:hover {
+  background: var(--accent-soft);
 }
 
 .news-card {
