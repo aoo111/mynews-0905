@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-23T08:11:00.793Z",
+  "collectedAt": "2026-09-23T10:10:28.194Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,10 +41,36 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "한국씨티은행 수장 교체…김경호 차기 행장 내정",
+          "link": "https://www.mk.co.kr/news/economy/12160563",
+          "pubDate": "2026-09-23T08:21:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/24/20260924_01160110000001_S00.jpg",
+          "summary": "한국씨티은행이 6년 만에 수장을 교체한다. 23일 한국씨티은행 임원후보추천위원회는 차기 행장에 김경호 기업금융그룹장(부행장·사진)을 내정했다고 밝혔다. 이사회와 주주총회 등 후속 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[속보] OECD, 한국 올해 성장률 전망 2.6%→3.7%…G20 중 최대 폭 상향",
           "link": "https://www.mk.co.kr/news/economy/12160553",
           "pubDate": "2026-09-23T08:03:32.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.e43be4474a64476aa663dc15ee43136f_R.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.04bce9d3463b4c0ebe2b1c9ef440fc63_R.jpg",
+          "summary": "경제협력개발기구(OECD)가 한국의 올해 성장률 전망치를 3개월 전보다 1.1%포인트 높여 잡았다. OECD는 23일 발표한 ‘중간 경제전망’ 보고서에서 한국의 올해 성장률을 3...",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[표] 외국환율고시표",
+          "link": "https://www.mk.co.kr/news/economy/12160476",
+          "pubDate": "2026-09-23T07:02:35.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/24/20260924_01110110000009_L00.jpg",
           "summary": "",
           "keywords": [
             "경제"
@@ -67,19 +93,6 @@
           "summaryKo": null
         },
         {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12160476",
-          "pubDate": "2026-09-23T07:02:35.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/24/20260924_01110110000009_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "목돈마련 적금에 꽂힌 2030…5년새 76% 쑥",
           "link": "https://www.mk.co.kr/news/economy/12160474",
           "pubDate": "2026-09-23T07:02:34.000Z",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "코레일 자회사 5곳→3곳 역 편의점 할인행사 확대",
-          "link": "https://www.mk.co.kr/news/economy/12160472",
-          "pubDate": "2026-09-23T07:02:33.000Z",
-          "image": null,
-          "summary": "한국철도공사(코레일) 산하 자회사 5곳이 3곳으로 통합됐다. 철도역 편의점 할인 행사를 늘리고 KTX 열차 내 수하물 보관 공간을 확대하는 등 이용객 서비스도 개편한다. 국토교통부..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:49.803Z",
+      "fetchedAt": "2026-09-23T10:10:18.673Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:49.864Z",
+      "fetchedAt": "2026-09-23T10:10:18.766Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:51.387Z",
+      "fetchedAt": "2026-09-23T10:10:19.560Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "GPT-6 Astra를 통해 힉스필드 AI는 중소기업에서 동영상 광고 제작을 더 쉽게 하고 새로운 크리에이티브 도구를 더 빠르게 시장에 출시할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:51.611Z",
+      "fetchedAt": "2026-09-23T10:10:19.701Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "일반 텍스트 파일이 위기에 처해 있다",
+          "link": "https://news.hada.io/topic?id=34166",
+          "pubDate": "2026-09-23T09:02:55.000Z",
+          "image": null,
+          "summary": "일반 텍스트 파일은 다양한 인코딩과 형식을 아우르며, 지금까지 사실상 유일한 범용 데이터 인터페이스 역할을 해왔음 파일시스템에 저장된 텍스트는 기본 텍스트 편집기만으로 읽고 수정할 수 있고, 클라우드 연결 없이 여러 애플리케이션에서 공유하고 활용할 수...",
+          "keywords": [
+            "일반",
+            "텍스트",
+            "파일이",
+            "위기에",
+            "처해"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "전자담배에 중독된 사람들이 끊기 위해 시도하는 새 방법: 일반 담배",
           "link": "https://news.hada.io/topic?id=34164",
@@ -420,26 +437,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "WordPress: 인증 없이 악용 가능한 경로 순회 취약점, 조건 충족 시 원격 코드 실행으로 이어짐",
-          "link": "https://news.hada.io/topic?id=34160",
-          "pubDate": "2026-09-23T02:42:55.000Z",
-          "image": null,
-          "summary": "WordPress의 get_page_template() 에서 인증 없는 공격자가 활성 테마 디렉터리 밖의 읽기 가능한 로컬 .php 파일을 포함시킬 수 있는 취약점이 발견됨 원격 코드 실행(RCE) 으로 이어지려면 활성 테마의 디렉터리 구조와 서버의 파일 및...",
-          "keywords": [
-            "WordPress:",
-            "인증",
-            "없이",
-            "악용",
-            "가능한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:54.107Z",
+      "fetchedAt": "2026-09-23T10:10:20.426Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +532,7 @@
           "summaryKo": "도널드 트럼프 (Donald Trump) 가 미디어 봉쇄에 직면함에 따라 그는 방송을 계속하기 위해 YouTube에 의지하고 있습니다. \"트럼프 TV\" 스트림은 5개의 주요 뉴스 조직이 대통령에 반대하여 단합한 후 몇 시간 만에 백악관 유튜브 채널에 생중계되었습니다. 연중무휴로 제공되는 이 스트림은 트럼프의 '최고의 히트곡' 을 유튜브에 올립니다. 폭스 뉴스, ABC 뉴스, CBS 뉴스, NBC 뉴스, CNN은 폴리티코, MS NOW, CNN을 백악관 기자실에서 금지한 후 트럼프를 공중파에서 탈퇴시켰다. 공동 성명서에서 뉴스 조직은"
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:54.225Z",
+      "fetchedAt": "2026-09-23T10:10:20.672Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:54.377Z",
+      "fetchedAt": "2026-09-23T10:10:20.887Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:54.437Z",
+      "fetchedAt": "2026-09-23T10:10:20.967Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -695,6 +695,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "마케마케, 남미에 ‘수질 대응 뷰티’ 5만개 수출…30억원 프리A 유치",
+          "link": "https://www.venturesquare.net/1115942/",
+          "pubDate": "2026-09-23T08:26:09.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-2026-09-23T170331.598-789x493.jpg",
+          "summary": "워터 스트레스 솔루션 뷰티 브랜드 SOOO를 운영하는 마케마케가 30억원 규모의 프리A 투자를 유치했다. 시그나이트와 아모레퍼시픽, 이그나이트XL이 신규 투자자로 참여했으며 기존 투자사 블루포인트파트너스도 후속 투자했다. 마케마케는 수영장 잔류염소에서 출발한 수질 대응... The post 마케마케, 남미에 ‘수질 대응 뷰티’ 5만개 수출…30억원 프리A 유치 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "K뷰티",
+            "SOOO",
+            "글로벌진출"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "아카마이코리아, AI 인프라 코어에서 엣지까지…“연산은 분산하고 보안은 겹겹이”",
+          "link": "https://www.venturesquare.net/1115807/",
+          "pubDate": "2026-09-22T12:15:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/01_2026-아카마이-미디어-간담회_이경준-대표-767x522.jpg",
+          "summary": "아카마이코리아가 AI 활용 확산에 대응해 코어 클라우드부터 리저널 클라우드, 엣지까지 연결하는 분산형 AI 인프라 전략을 공개했다. AI 에이전트와 API 증가로 확대되는 보안 위협에는 웹 애플리케이션 보안, API 모니터링, 마이크로세그멘테이션 등을 결합한 다층 방어... The post 아카마이코리아, AI 인프라 코어에서 엣지까지…“연산은 분산하고 보안은 겹겹이” appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "현장스케치",
+            "Ai",
+            "보안"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "라이너, AI로 정책연구 전 과정 실험한다…KAIST di-Lab과 ‘AI for Policy Research’ 협력",
           "link": "https://www.venturesquare.net/1115896/",
@@ -748,45 +784,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "씨엔티테크, 건설기계 정산 90일→14일로 줄인 빌드코퍼레이션에 투자",
-          "link": "https://www.venturesquare.net/1115857/",
-          "pubDate": "2026-09-22T06:01:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1111-789x443.png",
-          "summary": "씨엔티테크가 종합건설기계 거래 플랫폼 ‘빌더’를 운영하는 빌드코퍼레이션에 투자했다. 빌더는 건설기계 견적 비교부터 계약과 정산까지 거래 전 과정을 디지털화하고 최대 90일까지 걸리던 대금 정산 기간을 14일 이내로 단축한 것이 특징이다. 투자금액은 공개하지 않았으며 빌... The post 씨엔티테크, 건설기계 정산 90일→14일로 줄인 빌드코퍼레이션에 투자 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "B2B플랫폼",
-            "VUILDER",
-            "건설기계"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아크릴, AI 모델과 로봇 잇는 ‘실행계층’ 만든다…650억원 피지컬 AI 과제 참여",
-          "link": "https://www.venturesquare.net/1115850/",
-          "pubDate": "2026-09-22T05:58:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Jonathan-PAI-789x444.jpg",
-          "summary": "아크릴이 성균관대와 KAIST, 서울대, 레인보우로보틱스, 현대위아 등 18개 기관이 참여하는 약 650억원 규모 피지컬 AI 국가 연구개발 과제에 참여한다. 아크릴은 VLA 모델과 실제 로봇을 연결하는 실행계층을 맡아 실시간 통신 게이트웨이와 표준 인터페이스, 로봇 ... The post 아크릴, AI 모델과 로봇 잇는 ‘실행계층’ 만든다…650억원 피지컬 AI 과제 참여 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AMR",
-            "JonathanPAI",
-            "kaist"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:58.224Z",
+      "fetchedAt": "2026-09-23T10:10:24.973Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:58.519Z",
+      "fetchedAt": "2026-09-23T10:10:25.190Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -975,7 +975,7 @@
           "summaryKo": "출품자 프로그램을 1주일 더 재개했습니다. 9월 30일 오후 11시 59분 (태평양 표준시 기준) 까지 전시 테이블을 예약하고 10월 13일부터 15일까지 샌프란시스코 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 기술 리더 앞에서 스타트업을 소개하세요."
         }
       ],
-      "fetchedAt": "2026-09-23T08:10:58.645Z",
+      "fetchedAt": "2026-09-23T10:10:25.334Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -983,6 +983,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "코리아스타트업포럼, 컴업 2026에 AI 매칭 도입…투자자·대기업 파트너 찾아준다",
+          "link": "https://www.venturesquare.net/1115882/",
+          "pubDate": "2026-09-22T06:38:18.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Global-Startup-Festival-COMEUP-2026-Opens-Pre-Registration-and-Business-Matching-522x522.png",
+          "summary": "코리아스타트업포럼이 ‘컴업 2026’의 사전등록과 비즈니스 매칭 신청을 시작했다. 올해는 참가자가 등록한 프로필을 AI로 분석해 비즈니스 적합도가 높은 상대를 추천하고 직접 미팅을 신청할 수 있는 자율 매칭을 도입한다. 한국벤처캐피탈협회와 벤처기업협회가 각각 투자유치와... The post 코리아스타트업포럼, 컴업 2026에 AI 매칭 도입…투자자·대기업 파트너 찾아준다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI매칭",
+            "COMEUP2026",
+            "글로벌스타트업",
+            "벤처기업협회",
+            "벤처투자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경기혁신센터, 기후테크·AI 스타트업 투자자 앞에 세웠다…39회 스타트업 815 IR",
           "link": "https://www.venturesquare.net/1115843/",
@@ -1054,27 +1072,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경기창조경제혁신센터, 기후테크 기술을 투자 가치로 바꾼다…밸류에이션·IR 전략 공유",
-          "link": "https://www.venturesquare.net/1115705/",
-          "pubDate": "2026-09-21T23:25:22.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/on-244x522.png",
-          "summary": "경기도와 경기창조경제혁신센터가 오는 9월 29일 ‘2026 제2회 기후테크 세미나ON’을 개최한다. MYSC와 제로투원파트너스가 기후테크 투자시장과 밸류에이션 흐름, 투자기관의 기업 평가 기준을 공유한다. 큐네스티는 탄소감축량 등 환경적 성과를 정량화하고 기업가치와 연... The post 경기창조경제혁신센터, 기후테크 기술을 투자 가치로 바꾼다…밸류에이션·IR 전략 공유 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "IR",
-            "MYSC",
-            "경기도",
-            "경기창조경제혁신센터",
-            "기후테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:11:00.319Z",
+      "fetchedAt": "2026-09-23T10:10:27.757Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1168,7 +1168,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T08:11:00.779Z",
+      "fetchedAt": "2026-09-23T10:10:28.183Z",
       "error": null
     }
   },
@@ -1176,7 +1176,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
+      "count": 5,
       "rank": 1,
       "change": "same"
     },
@@ -1185,63 +1185,63 @@
       "label": "마이리얼트립",
       "count": 2,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "up"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
+      "rank": 5,
       "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
+      "rank": 6,
       "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ai에이전트",
       "label": "AI에이전트",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
