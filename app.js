@@ -7,6 +7,11 @@
 (function () {
   const CUSTOM_KEY = "mynews_custom_sites";
   const ALL_CATEGORY = "__all__";
+  // AI 원고생성 버튼이 연결될 WriteFlow 주소. 비어 있으면 "준비 중" 안내만 보여준다.
+  // 로컬 미리보기에서는 WriteFlow 로컬 서버(npm start, 8820)로 연결한다.
+  // WriteFlow를 배포하면 아래 빈 문자열 자리에 배포 주소를 넣으면 된다.
+  const IS_LOCAL = ["localhost", "127.0.0.1"].includes(location.hostname);
+  const AI_SCRIPT_URL = IS_LOCAL ? "http://localhost:8820/" : "";
 
   const CATEGORY_ICONS = {
     "경제·산업": "📊",
@@ -45,6 +50,7 @@
   let trendingScope = "domestic"; // 'domestic' | 'global'
   let feedArticles = []; // 현재 목록에 표시 중인 기사들 (모달 "다음" 이동용)
   let currentArticleIndex = -1;
+  let currentArticle = null; // 모달에 열려 있는 기사 (AI 원고생성으로 넘길 데이터)
   let calendarMonth = new Date(); // 달력에 표시 중인 달(일 단위는 무시)
   let BASE_SITES = [];
   let ARTICLE_CACHE = { collectedAt: null, feeds: {} };
@@ -501,6 +507,7 @@
 
   function openArticleModal(article) {
     currentArticleIndex = feedArticles.indexOf(article);
+    currentArticle = article;
 
     document.getElementById("modal-date").textContent = formatPubDate(article.pubDate) || "";
     document.getElementById("modal-source").textContent = article.siteName;
@@ -545,6 +552,30 @@
     }
   }
 
+  function openAiScript() {
+    const btn = document.getElementById("modal-ai-script");
+    if (!AI_SCRIPT_URL) {
+      btn.textContent = "연결 준비 중이에요";
+      setTimeout(() => (btn.textContent = "✍️ AI 원고생성"), 1500);
+      return;
+    }
+    if (!currentArticle) return;
+
+    // 뉴스 정보를 URL 해시(#)에 담아 넘긴다. 해시는 서버로 전송되지 않아 긴 한글 내용도 안전하다.
+    const a = currentArticle;
+    const params = new URLSearchParams({
+      from: "mynews",
+      title: getDisplayTitle(a) || "",
+      summary: (getDisplaySummary(a) || "").trim(),
+      link: a.link || "",
+      source: a.siteName || "",
+      date: a.pubDate || "",
+      category: [a.category, a.subcategory].filter(Boolean).join(" > "),
+      keywords: (a.keywords || []).join(","),
+    });
+    window.open(`${AI_SCRIPT_URL}#${params.toString()}`, "_blank", "noopener");
+  }
+
   function closeArticleModal() {
     document.getElementById("article-modal").hidden = true;
   }
@@ -554,6 +585,7 @@
     document.getElementById("modal-close").addEventListener("click", closeArticleModal);
     document.getElementById("modal-next").addEventListener("click", showNextArticle);
     document.getElementById("modal-prev").addEventListener("click", showPrevArticle);
+    document.getElementById("modal-ai-script").addEventListener("click", openAiScript);
     overlay.addEventListener("click", (e) => {
       if (e.target === overlay) closeArticleModal();
     });
