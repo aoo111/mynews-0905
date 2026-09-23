@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-22T22:09:14.804Z",
+  "collectedAt": "2026-09-23T00:13:53.488Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“집값 기대 여전한데 소비심리까지 반등”…서울 주택가격 전망 133 찍어",
+          "link": "https://www.mk.co.kr/news/economy/12160003",
+          "pubDate": "2026-09-23T00:11:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/23/rcv.NEWSIS.NEWSIS.20260920.NISI20260920_0021446256_R.jpg",
+          "summary": "집값 상승 기대가 꺾이지 않는 가운데 소비자들의 경기 인식도 한 달 만에 다시 살아났다. 반도체 수출 호조와 증시 변동성 축소가 소비심리를 끌어올린 가운데, 서울 지역 주택가격 상..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“참호 구축 지양해야”…이찬진, 은행지주 CEO 선임절차 정조준",
+          "link": "https://www.mk.co.kr/news/economy/12159993",
+          "pubDate": "2026-09-22T23:56:26.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.c305366723924e469581c815bba7429b_R.png",
+          "summary": "이찬진 금융감독원장이 은행지주 회장들을 한자리에 불러 자회사 최고경영자(CEO) 선임 절차의 공정성과 투명성을 재차 강조했다. 연말 인사철을 앞두고 금융지주들이 CEO 선임 절차를..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "은행대출 2.7조 늘렸는데 한달도 못갔다…연말 ‘통곡의 벽’ 불보듯",
           "link": "https://www.mk.co.kr/news/economy/12159927",
           "pubDate": "2026-09-22T21:21:31.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "포스코퓨처엠, SK온에 1조 양극재 공급",
-          "link": "https://www.mk.co.kr/news/economy/12159694",
-          "pubDate": "2026-09-22T08:51:21.000Z",
-          "image": null,
-          "summary": "포스코그룹 이차전지 소재 계열사 포스코퓨처엠이 SK온에 1조700억원 규모로 리튬·인산·철(LFP) 양극재를 공급한다고 22일 공시했다. 포스코퓨처엠은 내년부터 2029년까지 SK..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수협은행장 선출 불발… 10월에 다시 논의키로",
-          "link": "https://www.mk.co.kr/news/economy/12159657",
-          "pubDate": "2026-09-22T08:46:12.000Z",
-          "image": null,
-          "summary": "차기 Sh수협은행장 선정이 불발됐다. 22일 금융권에 따르면 수협은행 은행장추천위원회(행추위)는 이날 오후 차기 행장 최종 후보 선정에 나섰지만 신학기 현 수협은행장과 이형주 금융..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:02.083Z",
+      "fetchedAt": "2026-09-23T00:13:35.211Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:04.018Z",
+      "fetchedAt": "2026-09-23T00:13:35.287Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:04.809Z",
+      "fetchedAt": "2026-09-23T00:13:36.477Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -309,6 +309,19 @@
           "summaryKo": "능력과 비용의 균형이 다른 일상 업무에 프론티어 인텔리전스를 제공하는 두 모델인 GPT-6 Sol과 Luna를 만나보세요."
         },
         {
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "pubDate": "2026-09-22T12:00:00.000Z",
+          "image": null,
+          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT ‑ 6 Astra로 연구 시간과 비용을 병렬로 절반으로 줄이기",
+          "summaryKo": "GPT ‑ 6 Astra를 통해 Parallel의 에이전트는 이전 모델에 비해 절반의 시간과 절반의 비용으로 노동 시장 데이터를 연구하고 합성할 수 있었습니다."
+        },
+        {
           "title": "Priorities and principles for effective third party assessments",
           "link": "https://openai.com/index/priorities-principles-third-party-assessments",
           "pubDate": "2026-09-22T00:00:00.000Z",
@@ -320,19 +333,6 @@
           "isForeign": true,
           "titleKo": "효과적인 제3자 평가를 위한 우선순위 및 원칙",
           "summaryKo": "OpenAI는 프론티어 모델 및 안전 장치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선 순위와 원칙을 설명합니다."
-        },
-        {
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "pubDate": "2026-09-21T12:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "수학과 인공지능 자문단",
-          "summaryKo": "OpenAI는 새로운 AI 결과의 검토 및 커뮤니케이션을 안내하기 위해 수학 및 인공 지능에 대한 독립 자문 그룹과 협력하고 있습니다."
         },
         {
           "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -348,7 +348,7 @@
           "summaryKo": "GPT-6 Astra를 통해 힉스필드 AI는 중소기업에서 동영상 광고 제작을 더 쉽게 하고 새로운 크리에이티브 도구를 더 빠르게 시장에 출시할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:06.446Z",
+      "fetchedAt": "2026-09-23T00:13:39.209Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,66 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "왜 0xCAFEBABE인가?",
+          "link": "https://news.hada.io/topic?id=34148",
+          "pubDate": "2026-09-23T00:10:47.000Z",
+          "image": null,
+          "summary": "Java 클래스 파일의 첫 4바이트는 0xCAFEBABE 로 정해져 있으며, 도구가 클래스 파일일 가능성이 있는 파일을 빠르게 구별하는 데 쓰임 Java 초기 팀원 Patrick Naughton에 따르면, 이 값은 언어에 Java라는 이름이 붙기 훨씬 전에 선택됐으며 재미있...",
+          "keywords": [
+            "0xCAFEBABE인가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "인자를 둘러싼 논쟁",
+          "link": "https://news.hada.io/topic?id=34147",
+          "pubDate": "2026-09-23T00:07:46.000Z",
+          "image": null,
+          "summary": "코딩 에이전트가 코드를 작성하면서, Steve Klabnik의 Rust 이름 있는 매개변수 도입에 대한 오랜 반대가 조건부 수용으로 바뀜. 직접 입력하는 부담은 줄고 호출부의 명확성은 여전히 가치가 있음 이름 있는 인자는 같은 타입의 값 여러 개를 전달할 때 각 값의 역...",
+          "keywords": [
+            "인자를",
+            "둘러싼",
+            "논쟁"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "수학과 인공지능 자문그룹",
+          "link": "https://news.hada.io/topic?id=34144",
+          "pubDate": "2026-09-22T23:33:03.000Z",
+          "image": null,
+          "summary": "AI 기업과 수학계의 소통, 수학 연구 결과의 책임 있는 발표와 공개를 자문하는 독립 그룹이 프린스턴의 Institute for Advanced Study를 거점으로 출범함 현재는 OpenAI가 내부 모델로 산출했다고 밝힌 다수의 중요한 수학 연구 결과를 어떻게 조율해 공개할지 자...",
+          "keywords": [
+            "수학과",
+            "인공지능",
+            "자문그룹"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“우리가 FBI를 해킹했다”, 해커 그룹이 FBI 전체 직원의 정보 탈취 주장",
+          "link": "https://news.hada.io/topic?id=34143",
+          "pubDate": "2026-09-22T22:33:11.000Z",
+          "image": null,
+          "summary": "해킹 그룹 ShinyHunters가 여러 FBI 관련 서비스에 침입해 모든 직원과 지원자의 데이터를 훔쳤다고 주장함. 요원의 이름, 집 주소, 전화번호, 배우자 정보가 포함됐다고 밝힘 404 Media가 확보한 직원 5,000명 규모의 샘플에서 일부 이름과 전화번호가 일치하고 미...",
+          "keywords": [
+            "우리가",
+            "FBI를",
+            "해킹했다",
+            "해커",
+            "그룹이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
           "link": "https://news.hada.io/topic?id=34142",
@@ -372,75 +432,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "2027년 GrapheneOS가 사전 설치된 기기가 판매될 가능성이 높음",
-          "link": "https://news.hada.io/topic?id=34141",
-          "pubDate": "2026-09-22T20:41:31.000Z",
-          "image": null,
-          "summary": "Motorola Mobility(Lenovo) 가 GrapheneOS와 공식 파트너십을 맺고, 향후 출시할 일부 기기에 GrapheneOS를 지원하기 위해 협력 중임 첫 GrapheneOS 지원 기기는 2027년 출시할 고급 플래그십으로 예정돼 있음 지원 대상은 다른 기기로도 확대할 계획이며...",
-          "keywords": [
-            "2027년",
-            "GrapheneOS가",
-            "사전",
-            "설치된",
-            "기기가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "미 국방부 조사, AI 과잉 의존이 이란 학교 미사일 공격에 일조",
-          "link": "https://news.hada.io/topic?id=34140",
-          "pubDate": "2026-09-22T20:38:31.000Z",
-          "image": null,
-          "summary": "미 국방부 내부 조사 관계자들에 따르면, 부실한 정보와 오래된 위성영상, AI 과잉 의존이 겹치면서 이란 Minab의 초등학교를 군사시설로 오인해 공격했으며, 어린이 최소 123명을 포함해 150명 넘게 사망함 학교 부지는 과거 군사시설이었지만 용도 변경 흔적이 거의 10년 전부터 존...",
-          "keywords": [
-            "국방부",
-            "조사",
-            "AI",
-            "과잉",
-            "의존이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "OpenAI가 Jev의 밥그릇을 빼앗을까?",
-          "link": "https://news.hada.io/topic?id=34139",
-          "pubDate": "2026-09-22T18:42:03.000Z",
-          "image": null,
-          "summary": "문장 대신 선택지별 확률과 판단을 반환하는 Jev가 인기를 얻고 있지만, OpenAI도 이미 도구 선택과 응답 종료 등에 토큰 확률을 활용하고 있어 비슷한 제품을 만들 기반을 갖추고 있음 더 큰 경쟁은 독립적인 분류 API를 복제하는 것이 아니라, 빠른 판단 기능을 LLM 내부에...",
-          "keywords": [
-            "OpenAI가",
-            "Jev의",
-            "밥그릇을",
-            "빼앗을까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "GPT-6 Sol과 Luna 출시",
-          "link": "https://news.hada.io/topic?id=34138",
-          "pubDate": "2026-09-22T18:39:03.000Z",
-          "image": null,
-          "summary": "GPT-6 Astra의 코딩, 전문 업무, 컴퓨터 사용 능력을 더 빠르고 저렴한 모델로 확장하며, 사실 정확성과 사용자 지시를 따르는 능력도 개선함 API 가격은 이전 GPT-5.6 프로모션 가격보다 절반 수준으로 낮아짐. 100만 토큰당 입력/출력 가격은 Sol이 2달러...",
-          "keywords": [
-            "GPT",
-            "Sol과",
-            "Luna",
-            "출시"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:07.036Z",
+      "fetchedAt": "2026-09-23T00:13:39.783Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -448,6 +442,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Creators have brought new fans to football and basketball. Why not fencing?",
+          "link": "https://www.tubefilter.com/2026/09/22/usa-fencing-creator-showdown-event-new-york/",
+          "pubDate": "2026-09-22T23:16:32.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/usa-fencing-creator-showdown.jpg",
+          "summary": "Between September 21-23, the organization that oversees competitive fencing in the United States is bringing influencers onto the strip at a unique event in New York City. USA Fencing is behind the Creator Showdown, which will test whether creator partnerships can do for fencing what they've done for sports as diverse as cycling, pickleball, and auto racing. 12 creators are participating in USA Fencing's event, and they collectively reach more than 215 million followers online. The roster includ",
+          "keywords": [
+            "Sports",
+            "creator showdown",
+            "dolph lundgren",
+            "fencing",
+            "Homepage Feature",
+            "mandy patinkin"
+          ],
+          "isForeign": true,
+          "titleKo": "크리에이터들은 축구와 농구에 새로운 팬들을 데려왔습니다. 펜싱은 어떨까요?",
+          "summaryKo": "9월 21일부터 23일까지 미국에서 경쟁력 있는 펜싱을 감독하는 이 조직은 뉴욕시에서 열리는 독특한 행사에서 인플루언서를 모집하고 있습니다. USA 펜싱은 사이클링, 피클볼, 자동차 경주 등 다양한 스포츠를 위해 크리에이터 파트너십이 펜싱을 위해 할 수 있는지 테스트하는 크리에이터 쇼다운의 배후에 있습니다. 12명의 크리에이터가 USA 펜싱의 이벤트에 참여하고 있으며, 총 2억 1천 5백만 명 이상의 팔로워를 확보하고 있습니다."
+        },
+        {
+          "title": "Comscore says ChatGPT’s LLM market share is shrinking as Google Gemini advances",
+          "link": "https://www.tubefilter.com/2026/09/22/comscore-ai-intelligence-report-q2-2026-chatgpt-gemini/",
+          "pubDate": "2026-09-22T22:37:52.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/google-gemini-getty.jpg",
+          "summary": "The large language model (LLM) that introduced many consumers to the current era of AI chatbots is still a popular source for answers, but other competitors are gaining fast. ChatGPT accounts for half of the \"prompt volume\" across the chatbot landscape, but Google Gemini's share is up to 30% and Anthropic's Claude is up to 11%. Those are the main takeaways from Comscore's AI Intelligence Report for the second quarter of 2026. The media measurement firm, which has long published rankings of the m",
+          "keywords": [
+            "Articles",
+            "Artificial Intelligence",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "AI Intelligence Report"
+          ],
+          "isForeign": true,
+          "titleKo": "Comscore는 Google Gemini가 발전함에 따라 ChatGPT의 LLM 시장 점유율이 줄어들고 있다고 말합니다.",
+          "summaryKo": "현재 인공지능 챗봇 시대를 많은 소비자들에게 소개한 대용량 언어 모델 (LLM) 은 여전히 인기 있는 해답의 원천이지만, 다른 경쟁사들은 빠르게 성장하고 있습니다. ChatGPT는 챗봇 환경에서 \"프롬프트 볼륨\" 의 절반을 차지하지만 Google Gemini의 점유율은 최대 30%, Anthropic의 Claude는 최대 11% 입니다. Comscore의 2026년 2분기 AI 인텔리전스 보고서의 주요 내용입니다. 오랫동안 출판해 온 미디어 측정 회사"
+        },
         {
           "title": "Can “Trump TV” win a war against the press on YouTube?",
           "link": "https://www.tubefilter.com/2026/09/22/trump-tv-youtube-channel-news-media/",
@@ -501,45 +531,9 @@
           "isForeign": true,
           "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 9월 20일 주간",
           "summaryKo": "2026년은 브라질 크리에이터들에게 있어 중요한 한 해였습니다. CazéTV의 월드컵 스트리밍 방송이 여름을 장악했고, 가을로 접어드는 지금, 루칸 페비도르가 유튜브에서 최고의 인기를 누리고 있습니다. 페비도르는 160만 명의 신규 구독자를 확보하며 4주 연속 글로벌 구독자 상위 50위 1위를 차지했습니다. 현재 그의 총 구독자 수는 약 3,900만 명에 달합니다. 페비도르는 9월 한 달 내내 1위 자리를 지킬 것으로 예상되지만, 상승세를 타고 있는 크리에이터는 그뿐만이 아닙니다. 새로운 흐름을 포착하여,"
-        },
-        {
-          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/20/2026",
-          "link": "https://www.tubefilter.com/2026/09/21/top-50-most-viewed-youtube-channels-week-of-09-20-2026/",
-          "pubDate": "2026-09-21T21:40:01.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/doctora-sophia-espanol.jpg",
-          "summary": "T-Series is staying strong at the head of the Global Top 50. During the third week of September, the Indian record showed why it is YouTube's most-watched channel of all time. It picked up 985.1 million weekly views, and if it repeats that performance next week, it will likely complete a month-long run in the #1 position. Beyond T-Series, the Global Top 50 is filled with its usual complement of children's content. The next six spots in the ranking are all occupied by kid-friendly favorites, each",
-          "keywords": [
-            "Articles",
-            "Homepage Feature",
-            "News",
-            "Statistics",
-            "statistics",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 Top 50 • 위크 오브 09/20/2026",
-          "summaryKo": "T-Series는 글로벌 Top 50에서 여전히 선두 자리를 굳건히 지키고 있습니다. 9월 셋째 주, 이 인도 채널은 왜 유튜브 역사상 가장 많이 시청된 채널인지 다시 한번 입증했습니다. 주간 조회수 9억 8,510만 회를 기록했으며, 다음 주에도 이와 같은 실적을 유지한다면 한 달 내내 1위 자리를 지킬 가능성이 높습니다. T-Series 외에도 글로벌 Top 50에는 여느 때처럼 어린이 콘텐츠가 주를 이루고 있습니다. 순위의 다음 6개 자리 역시 모두 어린이 친화적인 채널들입니다."
-        },
-        {
-          "title": "Have you heard? It’s science time, college football on YouTube, and “copium” for the dictionary.",
-          "link": "https://www.tubefilter.com/2026/09/18/have-you-heard-50-50-b1g-football-copium-merriam-webster/",
-          "pubDate": "2026-09-18T22:09:29.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/b1g-youtube.jpg",
-          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a major science activation launched, YouTube is ready for some football, and some terminally online terminology made it into the dictionary. Creator commotion 50x50 has started chronicling \"Science Across America\" on YouTube. Travel content is hot on YouTube, so the Independent Media Initiative sponsored a 50-state swing that highlights ex",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "50x50",
-            "Adam Conover"
-          ],
-          "isForeign": true,
-          "titleKo": "들어보셨나요? 과학의 시간, 유튜브의 대학 미식축구, 사전의 '코피움' 입니다.",
-          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주에 주요 과학 활성화가 시작되었고 YouTube는 일부 축구를 할 준비가 되었으며 일부 말기 온라인 용어가 사전에 포함되었습니다. 크리에이터 소동 50x50이 YouTube에서 \"Science Across America\" 를 연재하기 시작했습니다. YouTube에서 여행 콘텐츠가 뜨겁기 때문에 Independent Media Initiative는 50 주 SWIN을 후원했습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:07.292Z",
+      "fetchedAt": "2026-09-23T00:13:43.551Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:07.530Z",
+      "fetchedAt": "2026-09-23T00:13:43.786Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:07.601Z",
+      "fetchedAt": "2026-09-23T00:13:43.855Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:10.253Z",
+      "fetchedAt": "2026-09-23T00:13:47.017Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -886,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:10.475Z",
+      "fetchedAt": "2026-09-23T00:13:47.247Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -894,6 +888,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "pubDate": "2026-09-22T23:21:49.000Z",
+          "image": null,
+          "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Venture",
+            "TechCrunch Founder Summit"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch 창립자 서밋 일정 공개: 11월 4일 보스턴에서 기금 모금, 채용, AI 통찰력 발휘",
+          "summaryKo": "창업자는 가장 어려운 교훈을 가장 어려운 방법으로 배울 필요가 없습니다. TechCrunch Founder Summit은 회사 설립의 어려움과 그보다 훨씬 더 높은 목표를 달성하기 위해 고안되었습니다."
+        },
         {
           "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
           "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
@@ -964,27 +974,9 @@
           "isForeign": true,
           "titleKo": "전시 테이블 추가: TechCrunch Disrupt 2026에서 스타트업을 소개할 수 있는 마지막 기회",
           "summaryKo": "출품자 프로그램을 1주일 더 재개했습니다. 9월 30일 오후 11시 59분 (태평양 표준시 기준) 까지 전시 테이블을 예약하고 10월 13일부터 15일까지 샌프란시스코 모스콘 웨스트에서 10,000명 이상의 창업자, 투자자, 기술 리더 앞에서 스타트업을 소개하세요."
-        },
-        {
-          "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-22T14:00:00.000Z",
-          "image": null,
-          "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-          "keywords": [
-            "Startups",
-            "Climate",
-            "Fintech",
-            "Biotech & Health",
-            "Venture",
-            "AI"
-          ],
-          "isForeign": true,
-          "titleKo": "4일간 최대 $ 200 할인: TechCrunch Disrupt 2026에 5명 중 2명이 참여하는 이유",
-          "summaryKo": "TechCrunch Disrupt 2026 이용권으로 최대 $ 200를 절약하고, 9월 25일 오후 11시 59분 (태평양 표준시 기준) 에 요금이 인상되기 전에 두 번째 이용권을 50% 할인받으세요. 오늘 등록하세요."
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:12.511Z",
+      "fetchedAt": "2026-09-23T00:13:49.438Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1083,7 +1075,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:14.397Z",
+      "fetchedAt": "2026-09-23T00:13:51.940Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1143,11 +1135,11 @@
           "summaryKo": null
         },
         {
-          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 음성타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVTN6UnpHVHVpdGlqNWlsZngwS1NwMjlydlZRTE9zZm9UbnhydEdmc2lRSjdJc0FhajNoRW9ucUlub1NhY3RRTkNnUE1XbWtzSFNXR2hRejFnMlZCbnlnbEpIa2E4X3hxX0E?oc=5",
-          "pubDate": "2026-09-22T13:16:45.000Z",
+          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 도민연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lYmhUQmNmLUl3a2xUaW9ES1VySkpHa3l0UmJSLUQ1d0hlNW1WOWszeld6akNIM2dWb0p2bnEwcUhVTzlsUmc4a09xaERPV2F6Zl9uc0t3ampQcnBqM0dUUEtpS3FXSWlrYkE?oc=5",
+          "pubDate": "2026-09-22T23:45:21.000Z",
           "image": null,
-          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 음성타임즈",
+          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 도민연합뉴스",
           "keywords": [
             "음성군",
             "2026년",
@@ -1160,11 +1152,11 @@
           "summaryKo": null
         },
         {
-          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - dnews.co.kr",
+          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
           "pubDate": "2026-09-21T18:15:21.000Z",
           "image": null,
-          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 dnews.co.kr",
+          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제",
           "keywords": [
             "재생에너지",
             "융복합지원사업",
@@ -1177,80 +1169,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-22T22:09:14.796Z",
+      "fetchedAt": "2026-09-23T00:13:52.427Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "gpt",
-      "label": "GPT",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "마이리얼트립",
       "label": "마이리얼트립",
       "count": 2,
-      "rank": 3,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
-      "key": "출시",
-      "label": "출시",
+      "key": "해킹했다",
+      "label": "해킹했다",
       "count": 2,
-      "rank": 4,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 9,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "ai에이전트",
+      "label": "AI에이전트",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "경기창조경제혁신센터",
+      "label": "경기창조경제혁신센터",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1275,48 +1267,48 @@
       "label": "AI",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 5,
-      "rank": 4,
-      "change": "down",
-      "labelKo": "기사"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 5,
-      "change": "down",
+      "rank": 4,
+      "change": "up",
       "labelKo": "홈페이지 기능"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 5,
-      "rank": 6,
-      "change": "down",
-      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 7,
-      "change": "down",
+      "rank": 5,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 4,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "기사"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 4,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "뉴스"
     },
     {
       "key": "featured",
@@ -1327,12 +1319,12 @@
       "labelKo": "추천 동영상"
     },
     {
-      "key": "statistics",
-      "label": "Statistics",
-      "count": 3,
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "스탯"
+      "change": "new",
+      "labelKo": "시행 조치"
     }
   ]
 }
