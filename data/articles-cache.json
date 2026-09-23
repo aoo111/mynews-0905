@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-23T14:11:15.077Z",
+  "collectedAt": "2026-09-23T16:11:26.049Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:00.565Z",
+      "fetchedAt": "2026-09-23T16:11:10.705Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:00.667Z",
+      "fetchedAt": "2026-09-23T16:11:10.776Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:01.859Z",
+      "fetchedAt": "2026-09-23T16:11:12.017Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Two years of OpenAI Academy",
+          "link": "https://openai.com/index/two-years-of-openai-academy",
+          "pubDate": "2026-09-23T16:00:00.000Z",
+          "image": null,
+          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI Academy 2년",
+          "summaryKo": "OpenAI Academy의 2년을 기념하고 더 많은 커뮤니티에 AI 기술을 제공합니다."
+        },
         {
           "title": "OpenAI extends cyber access to Ukraine for civilian defense",
           "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "GPT-6 Sol 및 Luna 소개",
           "summaryKo": "능력과 비용의 균형이 다른 일상 업무에 프론티어 인텔리전스를 제공하는 두 모델인 GPT-6 Sol과 Luna를 만나보세요."
-        },
-        {
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-          "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-          "pubDate": "2026-09-22T12:00:00.000Z",
-          "image": null,
-          "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "GPT ‑ 6 Astra로 연구 시간과 비용을 병렬로 절반으로 줄이기",
-          "summaryKo": "GPT ‑ 6 Astra를 통해 Parallel의 에이전트는 이전 모델에 비해 절반의 시간과 절반의 비용으로 노동 시장 데이터를 연구하고 합성할 수 있었습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:01.992Z",
+      "fetchedAt": "2026-09-23T16:11:14.368Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+          "link": "https://news.hada.io/topic?id=34181",
+          "pubDate": "2026-09-23T15:38:49.000Z",
+          "image": null,
+          "summary": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+          "keywords": [
+            "Amazon",
+            "Meta의",
+            "Muse",
+            "AI",
+            "에이전트가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI, ‘세상에 이로운’ 기업으로 보이기 위해 인플루언서 군단 동원",
+          "link": "https://news.hada.io/topic?id=34180",
+          "pubDate": "2026-09-23T15:35:49.000Z",
+          "image": null,
+          "summary": "OpenAI가 크리에이터 마케팅을 확대하며 ChatGPT의 업무와 일상 활용 사례를 홍보함. AI 안전 우려를 직접 해소하기보다는 ChatGPT가 매력적이고 세상에 이로운 일을 도울 수 있다는 메시지에 집중함 HypeAuditor 집계에서 ChatGPT를 홍보하는 Instagram 협찬 게시물",
+          "keywords": [
+            "OpenAI",
+            "세상에",
+            "이로운",
+            "기업으로",
+            "보이기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
+          "link": "https://news.hada.io/topic?id=34179",
+          "pubDate": "2026-09-23T14:33:28.000Z",
+          "image": null,
+          "summary": "Claude Code 2.1.277에 추가된 AGENTS.md 지원은 원격 기능 플래그에 의존하며, 텔레메트리나 비필수 트래픽을 끄면 로컬 지침 파일을 경고 없이 건너뜀 내장 플러그인 agents-md 는 원격 플래그를 가져오지 못하면 기본값 false를 사용...",
+          "keywords": [
+            "Claude",
+            "Code는",
+            "텔레메트리가",
+            "켜져",
+            "있을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Obscura - 사용자 활동을 기록할 수 없는 VPN",
           "link": "https://news.hada.io/topic?id=34177",
@@ -387,59 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "의사로 살아가는 일의 어두운 면",
-          "link": "https://news.hada.io/topic?id=34175",
-          "pubDate": "2026-09-23T13:41:02.000Z",
-          "image": null,
-          "summary": "의사의 정신적 고통에는 여러 원인이 얽혀 있지만, 일터는 고통을 악화하고 지속시키는 요인이 될 수 있으며 결혼, 가족, 사회생활에도 영향을 미침 통제권 상실은 과도한 당직뿐 아니라 진료 방식을 규정하는 행정에서도 발생하며, 인력 충원 없이는 환자를 돌봐야...",
-          "keywords": [
-            "의사로",
-            "살아가는",
-            "일의",
-            "어두운"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
-          "link": "https://news.hada.io/topic?id=34174",
-          "pubDate": "2026-09-23T13:02:07.000Z",
-          "image": null,
-          "summary": "10월 한 달 동안 LLM 기반 도구를 사용하지 않는 개인 도전을 제안함. 타인을 평가하려는 것이 아니라, 사용을 멈춰 LLM의 장단점을 스스로 판단하는 기회로 삼음 가장 엄격한 방식은 집과 직장에서 AI 검색 요약, 챗봇, 코드 리뷰, 에이전트 사용을 모두 중단하는...",
-          "keywords": [
-            "No",
-            "Sloptober",
-            "10월",
-            "LLM",
-            "도구"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: jgrep - diff 하나로 어떤 테스트를 돌릴지 Jev에게 묻는 CLI",
-          "link": "https://news.hada.io/topic?id=34173",
-          "pubDate": "2026-09-23T12:45:40.000Z",
-          "image": null,
-          "summary": "TypeSafe Jev로 grep을 만들어봤습니다. Jev는 텍스트를 생성하지 않고 예/아니오 확률만 돌려주는 모델인데, 코드 검색에 써보면 어떨까 싶었어요. 코드를 청크로 나누고 각각 “이 설명에 해당하나?”를 묻습니다. 한 요청에 16개씩 묶어서 보내고, 결과는 grep처럼 file:line으로 보여줍니다. 그 중",
-          "keywords": [
-            "Show",
-            "GN:",
-            "jgrep",
-            "diff",
-            "하나로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:02.834Z",
+      "fetchedAt": "2026-09-23T16:11:15.263Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -447,6 +448,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "YouTube is using AI to tinker with everything — from thumbnails to homepages to entire videos",
+          "link": "https://www.tubefilter.com/2026/09/23/made-on-youtube-2026-ai-personalization-creator-tools/",
+          "pubDate": "2026-09-23T15:38:48.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/made-on-youtube-2026.jpg",
+          "summary": "On September 23, YouTube held its annual Made On event in New York City. If you've tuned into previous editions of YouTube's product spiel, the headlines for the 2026 presentation may sound familiar. YouTube is bringing more AI-powered personalization to both creators and viewers, and new testing tools will optimize the platform's videos across multiple formats. YouTube adds dynamic thumbnails and video A/B tests to its \"personalized Studio team\" Creators are always looking for any slight advant",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "A/B testing"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube는 미리보기 이미지부터 홈페이지, 전체 동영상에 이르기까지 모든 것을 다루기 위해 AI를 사용하고 있습니다.",
+          "summaryKo": "9월 23일, YouTube는 뉴욕시에서 연례 Made On 이벤트를 개최했습니다. 이전 버전의 YouTube 제품 spiel을 시청한 경우 2026 프레젠테이션의 헤드라인이 익숙하게 들릴 수 있습니다. YouTube는 크리에이터와 시청자 모두에게 더욱 향상된 AI 기반 개인화를 제공하고 있으며, 새로운 테스트 도구를 통해 플랫폼의 동영상을 다양한 형식으로 최적화할 수 있습니다. YouTube는 '맞춤형 스튜디오 팀' 에 역동적인 미리보기 이미지와 동영상 A/B 테스트를 추가합니다. 크리에이터는 항상"
+        },
         {
           "title": "Meet the top editors behind MrBeast, MKBHD, and Quenlin Blackwell–here and onstage at VidSummit",
           "link": "https://www.tubefilter.com/2026/09/22/vidsummit-editor-panel-hopescope-tyler-allen-rachel-kisela-mariah-zenk-olive-oaking/",
@@ -512,27 +531,9 @@
           "isForeign": true,
           "titleKo": "금주의 톱 5 브랜드 동영상: MrBeast 보스 크러쉬 (추가 피스타치오 포함)",
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Can “Trump TV” win a war against the press on YouTube?",
-          "link": "https://www.tubefilter.com/2026/09/22/trump-tv-youtube-channel-news-media/",
-          "pubDate": "2026-09-22T19:22:37.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/trump-on-tv.jpg",
-          "summary": "As Donald Trump faces a media blockade, he's counting on YouTube to keep him on air. A \"Trump TV\" stream went live on the White House YouTube channel hours after five major news organizations united against the President. The 24/7 stream brings Trump's \"greatest hits\" to YouTube. Fox News, ABC News, CBS News, NBC News, and CNN took Trump off their airwaves after he barred Politico, MS NOW, and CNN from the White House press room. In a joint statement, the news organizations said that \"the public",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Politics",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "'트럼프 TV' 가 유튜브에서 언론과의 전쟁에서 승리할 수 있을까요?",
-          "summaryKo": "도널드 트럼프 (Donald Trump) 가 미디어 봉쇄에 직면함에 따라 그는 방송을 계속하기 위해 YouTube에 의지하고 있습니다. \"트럼프 TV\" 스트림은 5개의 주요 뉴스 조직이 대통령에 반대하여 단합한 후 몇 시간 만에 백악관 유튜브 채널에 생중계되었습니다. 연중무휴로 제공되는 이 스트림은 트럼프의 '최고의 히트곡' 을 유튜브에 올립니다. 폭스 뉴스, ABC 뉴스, CBS 뉴스, NBC 뉴스, CNN은 폴리티코, MS NOW, CNN을 백악관 기자실에서 금지한 후 트럼프를 공중파에서 탈퇴시켰다. 공동 성명서에서 뉴스 조직은"
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:02.945Z",
+      "fetchedAt": "2026-09-23T16:11:17.177Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:03.024Z",
+      "fetchedAt": "2026-09-23T16:11:17.290Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:03.073Z",
+      "fetchedAt": "2026-09-23T16:11:17.357Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:07.270Z",
+      "fetchedAt": "2026-09-23T16:11:20.488Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:07.556Z",
+      "fetchedAt": "2026-09-23T16:11:20.726Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -883,6 +884,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+          "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+          "pubDate": "2026-09-23T14:30:00.000Z",
+          "image": null,
+          "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Venture",
+            "AI",
+            "Fundraising",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026의 StrictlyVC: 벤처 캐피탈의 변화하는 규칙 속으로",
+          "summaryKo": "StrictlyVC가 TechCrunch Disrupt 2026에 합류하여 AI 덕분에 변화하는 VC 환경에 대해 논의합니다. 이 독점 세션에 참여하려면 투자자 패스를 받으세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 $ 200를 할인받으세요."
+        },
         {
           "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
@@ -950,26 +969,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch 창립자 서밋 일정 공개: 11월 4일 보스턴에서 기금 모금, 채용, AI 통찰력 발휘",
           "summaryKo": "창업자는 가장 어려운 교훈을 가장 어려운 방법으로 배울 필요가 없습니다. TechCrunch Founder Summit은 회사 설립의 어려움과 그보다 훨씬 더 높은 목표를 달성하기 위해 고안되었습니다."
-        },
-        {
-          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-          "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-          "pubDate": "2026-09-22T21:56:43.000Z",
-          "image": null,
-          "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Startups",
-            "data labeling",
-            "snorkel ai"
-          ],
-          "isForeign": true,
-          "titleKo": "스노클링 AI는 AI 훈련 데이터 붐에 대한 수요에 따라 평가액을 $ 3.5B로 3배 증가시킵니다.",
-          "summaryKo": "7년 된 이 스타트업은 서비스형 데이터 (data-as-a-service) 접근 방식을 촉진하기 위해 3억 5천만 달러의 시리즈 E를 모금했습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:11.136Z",
+      "fetchedAt": "2026-09-23T16:11:22.678Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:14.608Z",
+      "fetchedAt": "2026-09-23T16:11:25.070Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1128,23 +1130,6 @@
           "summaryKo": null
         },
         {
-          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
-          "pubDate": "2026-09-23T06:46:16.000Z",
-          "image": null,
-          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
-          "keywords": [
-            "여주시",
-            "3차",
-            "전기자동차",
-            "구매",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
           "pubDate": "2026-09-21T02:14:24.000Z",
@@ -1160,9 +1145,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - kmaeil.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
+          "pubDate": "2026-09-23T06:46:16.000Z",
+          "image": null,
+          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 kmaeil.com",
+          "keywords": [
+            "여주시",
+            "3차",
+            "전기자동차",
+            "구매",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T14:11:15.069Z",
+      "fetchedAt": "2026-09-23T16:11:25.609Z",
       "error": null
     }
   },
@@ -1170,7 +1172,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
+      "count": 5,
       "rank": 1,
       "change": "same"
     },
@@ -1260,7 +1262,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1268,7 +1270,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1276,7 +1278,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1284,7 +1286,7 @@
       "label": "AI",
       "count": 3,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1312,12 +1314,12 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "enforcement actions",
-      "label": "Enforcement Actions",
-      "count": 2,
+      "key": "venture",
+      "label": "Venture",
+      "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "시행 조치"
+      "change": "new",
+      "labelKo": "벤처"
     }
   ]
 }
