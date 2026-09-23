@@ -9,9 +9,9 @@
   const ALL_CATEGORY = "__all__";
   // AI 원고생성 버튼이 연결될 WriteFlow 주소. 비어 있으면 "준비 중" 안내만 보여준다.
   // 로컬 미리보기에서는 WriteFlow 로컬 서버(npm start, 8820)로 연결한다.
-  // WriteFlow를 배포하면 아래 빈 문자열 자리에 배포 주소를 넣으면 된다.
+  // 배포된 MyNews에서는 Vercel에 배포된 WriteFlow로 연결한다.
   const IS_LOCAL = ["localhost", "127.0.0.1"].includes(location.hostname);
-  const AI_SCRIPT_URL = IS_LOCAL ? "http://localhost:8820/" : "";
+  const AI_SCRIPT_URL = IS_LOCAL ? "http://localhost:8820/" : "https://writeflow-planning.vercel.app/";
 
   const CATEGORY_ICONS = {
     "경제·산업": "📊",
