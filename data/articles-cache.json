@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-23T20:11:35.932Z",
+  "collectedAt": "2026-09-23T22:10:36.688Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:06.966Z",
+      "fetchedAt": "2026-09-23T22:10:23.347Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:07.026Z",
+      "fetchedAt": "2026-09-23T22:10:23.444Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[9월23일] AI 에이전트, 이제야 ‘진짜 개인 비서’에 가까워지나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215598",
+          "pubDate": "2026-09-24T07:00:00.000Z",
+          "image": null,
+          "summary": "AI 에이전트라는 말이 등장한 지는 벌써 2~3년이 됐습니다. 하지만 최근 들어서야 일반 사용자들이 체감할 만한 서비스가 나오기 시작했습니다. 스페이스XAI의 ‘그록봇(Grok Bot)’은 출시 한 달 만에 이용자 40만명 이상을 확보했고, 메타의 개인용 에이전트 ‘뮤즈(Muse)’도 출시 첫 주 50만명 이상의 사용자를 확보한 것으로 알려졌습니다.아직 이 수치만으로 에이전트가 대중화됐다고 보기는 어렵습니다. 다만 그동안 기업이나 개발자의 생산성 도구에 가까웠던 AI 에이전트가 일반 소비자의 일상으로 영역을 넓히기 시작했다는 점은",
+          "keywords": [
+            "9월23일",
+            "AI",
+            "에이전트",
+            "이제야",
+            "진짜"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "KAIST, 세계 최초 풀코스 마라톤 완주한 ‘로봇 설계 원리’ 발표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215611",
+          "pubDate": "2026-09-24T00:00:00.000Z",
+          "image": null,
+          "summary": "한국과학기술원(KAIST)이 개발한 세계 최초 ‘풀코스 마라톤 완주 로봇’의 설계 및 기술 원리가 네이처에 게재됐다. 이를 양산형 산업 로봇으로 확대해 나간다는 계획이다.KAIST(총장 배충식)는 황보제민 기계공학과 교수 연구팀이 개발한 사족보행로봇 ‘라이보2(RAIBO2)’의 장거리 주행 기술과 실제 마라톤 완주 결과가 네이처에 게재됐다고 23일 밝혔다. 이번 연구는 사족보행로봇 ‘라이보2’의 마라톤 풀코스 완주로 시작됐다. 라이보2는 지난 2024년 11월 열린 상주 곶감 마라톤 대회에서 배터리를 충전하거나 교체하지 않고 42.",
+          "keywords": [
+            "KAIST",
+            "세계",
+            "최초",
+            "풀코스",
+            "마라톤"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "앤드리슨 호로위츠, 대학 대안 'AI 아카데미' 출범...젊은 창업가 육성",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215596",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215615",
-          "pubDate": "2026-09-23T15:40:26.000Z",
-          "image": null,
-          "summary": "오픈AI가 AI 모델의 출시 직전뿐 아니라 학습과 평가 등 개발 초기 단계부터 외부 독립기관이 안전성을 점검할 수 있도록 평가 권한을 확대한다. AI 모델이 예상치 못한 방식으로 작동하거나 다른 시스템에 접근하는 사례가 잇따르면서 개발 과정 전반에 대한 독립적인 검증을 강화하려는 조치다.오픈AI는 22일(현지시간) AI 모델의 학습·평가·배포 과정에서 외부 기관이 기술적 안전성 평가를 수행하도록 할 계획이라고 밝혔다. 라마 아마드 오픈AI 외부 안전성 검토 담당자는 \"위험이 커지고 있는 만큼 배포뿐 아니라 높은 위험이 수반되는 학습",
-          "keywords": [
-            "오픈AI",
-            "모델",
-            "개발",
-            "초기부터",
-            "외부"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "3D 코딩 대결...클로드 오퍼스 5.5 \"디테일\" vs GPT-5.6 \"비용·속도\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215618",
-          "pubDate": "2026-09-23T15:20:00.000Z",
-          "image": null,
-          "summary": "같은 날 공개된 '클로드 오퍼스 5.5'와 'GPT-6 솔' 간의 3D 웹 연출 비교 결과가 등장했다.AI 모델 라우팅 전문 AI/ML은 23일 앤트로픽과 오픈AI의 API를 통해 두 모델에 같은 프롬프트를 입력한 결과를 비교했다. 여기에는 움직이는 물고기 떼(Fish School), 소용돌이(Maelstrom), 폭풍 속의 배(Ship in a storm), 쓰나미(Tsunami) 등 4가지 프롬프트로 작성된 3D 애니메이션 생성 결과물이 포함됐다.그 결과, 결과물의 퀄리티와 비용은 엇갈렸다. 단 한 단어의 간결한 지시문 환경에서",
-          "keywords": [
-            "3D",
-            "코딩",
-            "대결",
-            "클로드",
-            "오퍼스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:08.235Z",
+      "fetchedAt": "2026-09-23T22:10:24.824Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -309,6 +309,19 @@
           "summaryKo": "OpenAI는 민간 인프라의 사이버 방어를 지원하기 위해 우크라이나 정부로 Daybreak 프로그램에 대한 액세스를 확대하고 있습니다."
         },
         {
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "pubDate": "2026-09-23T12:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+          "keywords": [
+            "Global Affairs"
+          ],
+          "isForeign": true,
+          "titleKo": "샘 알트먼의 유엔 안전보장이사회 연설",
+          "summaryKo": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 이 유엔 안전보장이사회 연설에서 AI 안전, 인간 통제 및 국제 협력에 대해 논의합니다."
+        },
+        {
           "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "pubDate": "2026-09-23T12:00:00.000Z",
@@ -337,26 +350,9 @@
           "isForeign": true,
           "titleKo": "인비데오가 GPT ‑ 6 Astra로 컬러 그레이딩을 3배 향상시키는 방법",
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
-        },
-        {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "link": "https://openai.com/index/ringg",
-          "pubDate": "2026-09-23T12:00:00.000Z",
-          "image": null,
-          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-          "keywords": [
-            "Ringg",
-            "AI",
-            "agents",
-            "resolve",
-            "up"
-          ],
-          "isForeign": true,
-          "titleKo": "Ringg의 AI 상담원은 OpenAI로 고객 통화의 최대 65% 를 해결합니다.",
-          "summaryKo": "Ringg는 GPT-5.6을 사용하여 음성, 채팅, WhatsApp 및 웹에서 GPT-4.1에 비해 90% 저렴한 비용으로 다국어 상담원을 지원합니다."
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:11.269Z",
+      "fetchedAt": "2026-09-23T22:10:26.709Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +360,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "기업 채용 사이트 구인 공고의 28%, 90일 넘게 미충원 상태",
+          "link": "https://news.hada.io/topic?id=34197",
+          "pubDate": "2026-09-23T21:39:10.000Z",
+          "image": null,
+          "summary": "기업 채용 사이트 구인 공고의 28%, 90일 넘게 미충원 상태",
+          "keywords": [
+            "기업",
+            "채용",
+            "사이트",
+            "구인",
+            "공고의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "DoorDash가 Mamdani의 시장 당선을 막으려 140만 달러를 쓴 이유가 이제 드러났다",
+          "link": "https://news.hada.io/topic?id=34196",
+          "pubDate": "2026-09-23T21:36:09.000Z",
+          "image": null,
+          "summary": "DoorDash가 배달 노동자 26만 4,000명의 임금 과소 지급과 관련해 뉴욕시와 1억 3,150만 달러 규모의 합의에 도달함. 뉴욕시 역사상 최대 노동자 관련 합의임 회사는 2025년 시장 선거에서 Zohran Mamdani 반대와 Andrew Cuomo 지지에 약 140만 달...",
+          "keywords": [
+            "DoorDash가",
+            "Mamdani의",
+            "시장",
+            "당선을",
+            "막으려"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude, CRISPR 유사 반복 서열을 가진 새로운 효소 시스템 발견",
+          "link": "https://news.hada.io/topic?id=34195",
+          "pubDate": "2026-09-23T20:34:35.000Z",
+          "image": null,
+          "summary": "Claude가 대규모 DNA 데이터베이스를 탐색해, 역전사효소와 반복 서열 배열이 결합된 ART 효소 시스템을 발견함. 인간 연구진은 초기 지시와 실험실 작업을 맡음 약 950개 에이전트가 21시간 동안 2억 1,000만 토큰을 사용해 탐색했으며, 20만 개 이상의 역전사효소...",
+          "keywords": [
+            "Claude",
+            "CRISPR",
+            "유사",
+            "반복",
+            "서열을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Gemini 3.8 텍스트 음성 변환",
           "link": "https://news.hada.io/topic?id=34194",
@@ -396,59 +443,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "시애틀 시의회, 식료품 판매에서 감시 기반 가격 책정 금지 법안 가결",
-          "link": "https://news.hada.io/topic?id=34192",
-          "pubDate": "2026-09-23T19:52:50.000Z",
-          "image": null,
-          "summary": "시애틀 시의회가 소비자 개인정보로 식료품과 기타 필수품 가격을 달리 정하는 행위를 금지하는 Fair Pricing and Transparency Act(CB 121267) 를 가결함 금지 대상은 검색 이력, 실시간 위치, 소득 추정치 등 개인 데이터를 활용해 소비자에게 표시되는 가격을 바...",
-          "keywords": [
-            "시애틀",
-            "시의회",
-            "식료품",
-            "판매에서",
-            "감시"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "이탈리아 의회, 원자력 에너지 복귀에 찬성 표결",
-          "link": "https://news.hada.io/topic?id=34191",
-          "pubDate": "2026-09-23T19:49:50.000Z",
-          "image": null,
-          "summary": "이탈리아 상원이 원자력 발전 재도입의 길을 여는 법안을 최종 승인함. 체르노빌 사고를 계기로 원자력을 포기한 지 약 40년 만임 법률은 원자로 건설 허가가 아닌 규제 기반을 마련함. 정부는 향후 12개월 동안 인허가, 안전 기준, 폐기물 관리, 부지 선정 기준을...",
-          "keywords": [
-            "이탈리아",
-            "의회",
-            "원자력",
-            "에너지",
-            "복귀에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Jev 기반 자동 교정",
-          "link": "https://news.hada.io/topic?id=34190",
-          "pubDate": "2026-09-23T18:59:52.000Z",
-          "image": null,
-          "summary": "Jev 기반 자동 교정",
-          "keywords": [
-            "Jev",
-            "기반",
-            "자동",
-            "교정"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:12.273Z",
+      "fetchedAt": "2026-09-23T22:10:27.258Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -456,6 +453,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "The Kings League wants to be Brazil’s next creator sensation. A Twitch vet will put the ball in play.",
+          "link": "https://www.tubefilter.com/2026/09/23/kings-league-soccer-brazil-hire-anadege-freitas/",
+          "pubDate": "2026-09-23T21:03:01.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/kings-league-hire.jpg",
+          "summary": "If you run an international soccer competition, you probably want to be active in Brazil. The creator-led Kings League certainly wants a bigger piece of the Brazilian audience, so it's hiring an experienced Managing Director who can lead it into that market. Anadege Freitas, the former Director of Content and Partnerships at Twitch, has taken an executive role at the Kings League. Freitas will link up with the League's leaders -- including legendary Spanish footballer Gerard Piqué -- to expand o",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Sports",
+            "anadege freitas"
+          ],
+          "isForeign": true,
+          "titleKo": "킹스 리그는 브라질의 차세대 크리에이터가 되고자 합니다. 트위치 수의사가 공을 던집니다.",
+          "summaryKo": "국제 축구 대회를 운영하는 경우 브라질에서 활동하고 싶을 것입니다. 크리에이터가 이끄는 킹스 리그는 확실히 브라질 관객의 더 큰 부분을 원하기 때문에 해당 시장으로 이끌 수 있는 경험이 풍부한 상무이사를 고용하고 있습니다. Twitch의 전 콘텐츠 및 파트너십 이사인 Anadege Freitas는 킹스 리그에서 임원직을 맡았습니다. 프레이타스는 전설적인 스페인 축구 선수 제라르를 포함한 연맹 지도자들과 연결될 것입니다."
+        },
+        {
+          "title": "OpenAI needs more creator products. Patreon’s Co-Founder will develop them.",
+          "link": "https://www.tubefilter.com/2026/09/23/chatgpt-openai-hire-sam-yam-patreon-head-creator-products/",
+          "pubDate": "2026-09-23T20:09:43.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/sam-yam.jpg",
+          "summary": "Since co-founding Patreon alongside Jack Conte more than 13 years ago, Sam Yam has played a key leadership role for the creator funding platform. But Yam's time at Patreon has come to an end, and as he departs, he's taking two of his colleagues with him. Yam has accepted an offer to lead the new Creator Product division at OpenAI. In that role, he will look to build an ecosystem that makes offerings like ChatGPT work harder for creators and their partners. Visit Tubefilter for more great stories",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "OpenAI",
+            "hire"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI에는 더 많은 크리에이터 제품이 필요합니다. Patreon의 공동 창업자가 이를 개발합니다.",
+          "summaryKo": "Sam Yam은 13년 전 Jack Conte와 함께 Patreon을 공동 설립한 이래로 크리에이터 자금 조달 플랫폼에서 핵심적인 리더십 역할을 해왔습니다. 하지만 얌의 Patreon 활동은 끝이 났고, 얌은 떠나면서 동료 두 명을 데리고 떠납니다. Yam은 OpenAI에서 새로운 크리에이터 제품 부문을 이끌겠다는 제안을 수락했습니다. 그 역할에서 그는 ChatGPT와 같은 서비스가 크리에이터와 파트너를 위해 더 열심히 일할 수 있는 생태계를 구축하고자 합니다. Tubefilter fo 방문하기"
+        },
         {
           "title": "YouTube is using AI to tinker with everything — from thumbnails to homepages to entire videos",
           "link": "https://www.tubefilter.com/2026/09/23/made-on-youtube-2026-ai-personalization-creator-tools/",
@@ -504,45 +537,10 @@
           "isForeign": true,
           "titleKo": "크리에이터들은 축구와 농구에 새로운 팬들을 데려왔습니다. 펜싱은 어떨까요?",
           "summaryKo": "9월 21일부터 23일까지 미국에서 경쟁력 있는 펜싱을 감독하는 이 조직은 뉴욕시에서 열리는 독특한 행사에서 인플루언서를 모집하고 있습니다. USA 펜싱은 사이클링, 피클볼, 자동차 경주 등 다양한 스포츠를 위해 크리에이터 파트너십이 펜싱을 위해 할 수 있는지 테스트하는 크리에이터 쇼다운의 배후에 있습니다. 12명의 크리에이터가 USA 펜싱의 이벤트에 참여하고 있으며, 총 2억 1천 5백만 명 이상의 팔로워를 확보하고 있습니다."
-        },
-        {
-          "title": "Comscore says ChatGPT’s LLM market share is shrinking as Google Gemini advances",
-          "link": "https://www.tubefilter.com/2026/09/22/comscore-ai-intelligence-report-q2-2026-chatgpt-gemini/",
-          "pubDate": "2026-09-22T22:37:52.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/google-gemini-getty.jpg",
-          "summary": "The large language model (LLM) that introduced many consumers to the current era of AI chatbots is still a popular source for answers, but other competitors are gaining fast. ChatGPT accounts for half of the \"prompt volume\" across the chatbot landscape, but Google Gemini's share is up to 30% and Anthropic's Claude is up to 11%. Those are the main takeaways from Comscore's AI Intelligence Report for the second quarter of 2026. The media measurement firm, which has long published rankings of the m",
-          "keywords": [
-            "Articles",
-            "Artificial Intelligence",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "AI Intelligence Report"
-          ],
-          "isForeign": true,
-          "titleKo": "Comscore는 Google Gemini가 발전함에 따라 ChatGPT의 LLM 시장 점유율이 줄어들고 있다고 말합니다.",
-          "summaryKo": "현재 인공지능 챗봇 시대를 많은 소비자들에게 소개한 대용량 언어 모델 (LLM) 은 여전히 인기 있는 해답의 원천이지만, 다른 경쟁사들은 빠르게 성장하고 있습니다. ChatGPT는 챗봇 환경에서 \"프롬프트 볼륨\" 의 절반을 차지하지만 Google Gemini의 점유율은 최대 30%, Anthropic의 Claude는 최대 11% 입니다. Comscore의 2026년 2분기 AI 인텔리전스 보고서의 주요 내용입니다. 오랫동안 출판해 온 미디어 측정 회사"
-        },
-        {
-          "title": "Top 5 Branded Videos of the Week: MrBeast boss crush (with extra pistachio)",
-          "link": "https://www.tubefilter.com/2026/09/22/top-5-branded-videos-mrbeast-dr-insanity-maria-vehera-samantha/",
-          "pubDate": "2026-09-22T21:58:28.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/mrb-large.jpg",
-          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for the ranking. And – as the name […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Brands",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "금주의 톱 5 브랜드 동영상: MrBeast 보스 크러쉬 (추가 피스타치오 포함)",
-          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 – 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-23T18:13:26.603Z",
-      "error": "fetch failed"
+      "fetchedAt": "2026-09-23T22:10:30.412Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -615,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:22.983Z",
+      "fetchedAt": "2026-09-23T22:10:30.687Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:23.034Z",
+      "fetchedAt": "2026-09-23T22:10:30.760Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -795,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:26.713Z",
+      "fetchedAt": "2026-09-23T22:10:34.106Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:26.977Z",
+      "fetchedAt": "2026-09-23T22:10:34.384Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -979,7 +977,7 @@
           "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:30.529Z",
+      "fetchedAt": "2026-09-23T22:10:34.444Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1078,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:34.331Z",
+      "fetchedAt": "2026-09-23T22:10:36.124Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,23 +1084,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZXNXdEFfNlJqQ0RET1g2bEhrNjRZS0tZak8yYUNOQUZMeHdDTUg0OTlYaXFXUjlYcG9PNDNQUWxpNEhWRExURVRrd2tBb1U?oc=5",
-          "pubDate": "2026-09-22T09:35:40.000Z",
-          "image": null,
-          "summary": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 v.daum.net",
-          "keywords": [
-            "울산창조경제혁신센터",
-            "AI",
-            "활용",
-            "R&D",
-            "사업계획서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
@@ -1115,23 +1096,6 @@
             "지원사업",
             "연중",
             "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
-          "pubDate": "2026-09-23T00:17:02.000Z",
-          "image": null,
-          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 강원도민일보",
-          "keywords": [
-            "동해시",
-            "슬레이트",
-            "철거",
-            "지원사업",
-            "대상자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1155,11 +1119,28 @@
           "summaryKo": null
         },
         {
-          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - kmaeil.com",
+          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
+          "pubDate": "2026-09-23T00:17:02.000Z",
+          "image": null,
+          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 강원도민일보",
+          "keywords": [
+            "동해시",
+            "슬레이트",
+            "철거",
+            "지원사업",
+            "대상자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
           "pubDate": "2026-09-23T06:46:16.000Z",
           "image": null,
-          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 kmaeil.com",
+          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
           "keywords": [
             "여주시",
             "3차",
@@ -1170,9 +1151,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - dnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
+          "pubDate": "2026-09-21T18:15:21.000Z",
+          "image": null,
+          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 dnews.co.kr",
+          "keywords": [
+            "재생에너지",
+            "융복합지원사업",
+            "카르텔",
+            "(1)",
+            "페이퍼컴퍼니"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T20:11:34.959Z",
+      "fetchedAt": "2026-09-23T22:10:36.679Z",
       "error": null
     }
   },
@@ -1250,52 +1248,52 @@
   ],
   "trendingGlobal": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 1,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 2,
-      "change": "same",
+      "rank": 1,
+      "change": "up",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 2,
+      "change": "up",
       "labelKo": "애드 센스"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
@@ -1326,7 +1324,7 @@
       "label": "Biotech & Health",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "생명 공학 및 건강"
     }
   ]
