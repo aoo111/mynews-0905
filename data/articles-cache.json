@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-23T12:14:03.663Z",
+  "collectedAt": "2026-09-23T14:11:15.077Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:47.551Z",
+      "fetchedAt": "2026-09-23T14:11:00.565Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:47.605Z",
+      "fetchedAt": "2026-09-23T14:11:00.667Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:48.784Z",
+      "fetchedAt": "2026-09-23T14:11:01.859Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 통해 Parallel의 에이전트는 이전 모델에 비해 절반의 시간과 절반의 비용으로 노동 시장 데이터를 연구하고 합성할 수 있었습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:53.045Z",
+      "fetchedAt": "2026-09-23T14:11:01.992Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,89 +357,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "프로그래밍 언어를 제대로 설계하자! (2024)",
-          "link": "https://news.hada.io/topic?id=34171",
-          "pubDate": "2026-09-23T12:02:52.000Z",
+          "title": "Obscura - 사용자 활동을 기록할 수 없는 VPN",
+          "link": "https://news.hada.io/topic?id=34177",
+          "pubDate": "2026-09-23T13:47:03.000Z",
           "image": null,
-          "summary": "새 프로그래밍 언어는 여러 줄 문자열, 경로, 확장 가능한 문법처럼 이미 해법이 있는 문제를 초기에 다뤄야 함. 사용자가 생긴 뒤에는 하위 호환성 때문에 수정이 어려워짐 설정 파일의 상대 경로는 해당 파일이나 명확히 정의한 프로젝트 루트를 기준으로 삼고, ...",
+          "summary": "Obscura는 자체 중계 서버와 독립된 Mullvad 출구 서버를 분리해, 한 사업자가 사용자의 접속 IP와 인터넷 활동을 모두 볼 수 없도록 설계한 VPN임 WireGuard-over-QUIC 구조에서 Obscura는 암호화된 패킷을 복호화할 수 없고, Mullvad는 사용자의 원래 접속 IP를 ...",
           "keywords": [
-            "프로그래밍",
-            "언어를",
-            "제대로",
-            "설계하자",
-            "(2024)"
+            "Obscura",
+            "사용자",
+            "활동을",
+            "기록할",
+            "없는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "LLM Ass Bench",
-          "link": "https://news.hada.io/topic?id=34170",
-          "pubDate": "2026-09-23T11:31:24.000Z",
+          "title": "이딴 짓거리는 이제 끝",
+          "link": "https://news.hada.io/topic?id=34176",
+          "pubDate": "2026-09-23T13:44:02.000Z",
           "image": null,
-          "summary": "LLM AssBench는 하나의 프롬프트로 여러 모델을 여러 날짜에 비교하는 LLM 벤치마크임 Claude 비교 항목에는 Opus, Fable, Sonnet, Haiku 계열의 여러 버전이 포함됨 GPT 비교 항목에는 Astra, Sol, Terra, Luna 계열과 GPT 5.5가 포함됨...",
+          "summary": "이딴 짓거리는 이제 끝",
           "keywords": [
+            "이딴",
+            "짓거리는",
+            "이제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "의사로 살아가는 일의 어두운 면",
+          "link": "https://news.hada.io/topic?id=34175",
+          "pubDate": "2026-09-23T13:41:02.000Z",
+          "image": null,
+          "summary": "의사의 정신적 고통에는 여러 원인이 얽혀 있지만, 일터는 고통을 악화하고 지속시키는 요인이 될 수 있으며 결혼, 가족, 사회생활에도 영향을 미침 통제권 상실은 과도한 당직뿐 아니라 진료 방식을 규정하는 행정에서도 발생하며, 인력 충원 없이는 환자를 돌봐야...",
+          "keywords": [
+            "의사로",
+            "살아가는",
+            "일의",
+            "어두운"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "No Sloptober - 10월 한 달 LLM 도구 사용하지 않기",
+          "link": "https://news.hada.io/topic?id=34174",
+          "pubDate": "2026-09-23T13:02:07.000Z",
+          "image": null,
+          "summary": "10월 한 달 동안 LLM 기반 도구를 사용하지 않는 개인 도전을 제안함. 타인을 평가하려는 것이 아니라, 사용을 멈춰 LLM의 장단점을 스스로 판단하는 기회로 삼음 가장 엄격한 방식은 집과 직장에서 AI 검색 요약, 챗봇, 코드 리뷰, 에이전트 사용을 모두 중단하는...",
+          "keywords": [
+            "No",
+            "Sloptober",
+            "10월",
             "LLM",
-            "Ass",
-            "Bench"
-          ],
-          "isForeign": true,
-          "titleKo": "LLM Ass Bench",
-          "summaryKo": "LLM AssBench는 하나의 프롬프트로 여러 모델을 여러 날짜에 비교하는 LLM 벤치마크임 Claude 비교 항목에는 Opus, Fable, Sonnet, Haiku 계열의 여러 버전이 포함됨 GPT 비교 항목에는 Astra, Sol, Terra, Luna 계열과 GPT 5.5가 포함됨..."
-        },
-        {
-          "title": "Mac 기본 UI를 고집할 이유는 이제 거의 사라졌다",
-          "link": "https://news.hada.io/topic?id=34169",
-          "pubDate": "2026-09-23T11:02:45.000Z",
-          "image": null,
-          "summary": "Mac 기본 UI를 선택해 온 근거인 사용자 친숙도, 개발 부담 절감, Apple의 디자인 우위가 더는 충분히 성립하지 않는 것으로 보임 사용자는 기본 UI인지 맞춤형 UI인지보다 앱을 이해하고 사용하는 데 관심이 있으며, Things처럼 표준 도구 막대를 쓰지 않는 앱도 ...",
-          "keywords": [
-            "Mac",
-            "기본",
-            "UI를",
-            "고집할",
-            "이유는"
+            "도구"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly",
-          "link": "https://news.hada.io/topic?id=34168",
-          "pubDate": "2026-09-23T10:37:01.000Z",
+          "title": "Show GN: jgrep - diff 하나로 어떤 테스트를 돌릴지 Jev에게 묻는 CLI",
+          "link": "https://news.hada.io/topic?id=34173",
+          "pubDate": "2026-09-23T12:45:40.000Z",
           "image": null,
-          "summary": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly",
+          "summary": "TypeSafe Jev로 grep을 만들어봤습니다. Jev는 텍스트를 생성하지 않고 예/아니오 확률만 돌려주는 모델인데, 코드 검색에 써보면 어떨까 싶었어요. 코드를 청크로 나누고 각각 “이 설명에 해당하나?”를 묻습니다. 한 요청에 16개씩 묶어서 보내고, 결과는 grep처럼 file:line으로 보여줍니다. 그 중",
           "keywords": [
-            "구독",
-            "취소를",
-            "시도하면",
-            "모든",
-            "사용자에게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Python 25줄로 구현한 Jev",
-          "link": "https://news.hada.io/topic?id=34167",
-          "pubDate": "2026-09-23T10:34:01.000Z",
-          "image": null,
-          "summary": "NobodyWho가 선택지가 담긴 프롬프트를 받아 확률을 출력하는 로컬 분류 예제로 Jev를 흉내 냄 Qwen3-0.6B-GGUF를 불러와 선택지 레이블의 로짓을 추출하고, 이를 정규화해 선택지별 확률로 변환함 회사 소유가 아닌 로그인 페이지에서 비밀번호를 요구하...",
-          "keywords": [
-            "Python",
-            "25줄로",
-            "구현한",
-            "Jev"
+            "Show",
+            "GN:",
+            "jgrep",
+            "diff",
+            "하나로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:55.536Z",
+      "fetchedAt": "2026-09-23T14:11:02.834Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +532,7 @@
           "summaryKo": "도널드 트럼프 (Donald Trump) 가 미디어 봉쇄에 직면함에 따라 그는 방송을 계속하기 위해 YouTube에 의지하고 있습니다. \"트럼프 TV\" 스트림은 5개의 주요 뉴스 조직이 대통령에 반대하여 단합한 후 몇 시간 만에 백악관 유튜브 채널에 생중계되었습니다. 연중무휴로 제공되는 이 스트림은 트럼프의 '최고의 히트곡' 을 유튜브에 올립니다. 폭스 뉴스, ABC 뉴스, CBS 뉴스, NBC 뉴스, CNN은 폴리티코, MS NOW, CNN을 백악관 기자실에서 금지한 후 트럼프를 공중파에서 탈퇴시켰다. 공동 성명서에서 뉴스 조직은"
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:55.600Z",
+      "fetchedAt": "2026-09-23T14:11:02.945Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:55.711Z",
+      "fetchedAt": "2026-09-23T14:11:03.024Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:55.759Z",
+      "fetchedAt": "2026-09-23T14:11:03.073Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:58.994Z",
+      "fetchedAt": "2026-09-23T14:11:07.270Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:13:59.266Z",
+      "fetchedAt": "2026-09-23T14:11:07.556Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,18 +884,52 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-23T14:00:00.000Z",
+          "image": null,
+          "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Climate",
+            "Fintech",
+            "Biotech & Health",
+            "Venture"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026에서 최대 $ 200를 절약하고 영향력 있는 인맥을 구축할 수 있는 기간이 3일 남았습니다.",
+          "summaryKo": "3일 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받고 초당 50% 할인도 받으세요. 10,000명 이상의 기술 리더와 영향력 있는 관계를 맺으세요. 할인 마지막 날은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 입니다. 여기에서 등록하세요."
+        },
+        {
+          "title": "PitPro’s first tire-changing robot goes live in Canada",
+          "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+          "pubDate": "2026-09-23T13:00:00.000Z",
+          "image": null,
+          "summary": "The startup says its automated system can change four tires in under 15 minutes.",
+          "keywords": [
+            "Robotics",
+            "Startups",
+            "Transportation",
+            "tires"
+          ],
+          "isForeign": true,
+          "titleKo": "PitPro의 첫 타이어 교체 로봇이 캐나다에서 출시됩니다",
+          "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
+        },
+        {
           "title": "Ema raises $77M as AI starts eating into enterprise software and services",
           "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
           "pubDate": "2026-09-23T12:00:00.000Z",
           "image": null,
           "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
           "keywords": [
+            "AI",
             "Enterprise",
             "Startups",
-            "AI",
             "Accel",
-            "section 32",
-            "AI agents"
+            "AI agents",
+            "Creaegis"
           ],
           "isForeign": true,
           "titleKo": "Ema는 AI가 엔터프라이즈 소프트웨어 및 서비스를 도입하기 시작하면서 $ 7,700만 달러를 모금했습니다.",
@@ -933,45 +967,9 @@
           "isForeign": true,
           "titleKo": "스노클링 AI는 AI 훈련 데이터 붐에 대한 수요에 따라 평가액을 $ 3.5B로 3배 증가시킵니다.",
           "summaryKo": "7년 된 이 스타트업은 서비스형 데이터 (data-as-a-service) 접근 방식을 촉진하기 위해 3억 5천만 달러의 시리즈 E를 모금했습니다."
-        },
-        {
-          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-          "pubDate": "2026-09-22T15:00:00.000Z",
-          "image": null,
-          "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Anthropic",
-            "AWS",
-            "nvidia",
-            "Okta"
-          ],
-          "isForeign": true,
-          "titleKo": "모든 창업자가 TechCrunch Disrupt 2026 어젠다에 포함해야 하는 다섯 가지 AI 안전 세션",
-          "summaryKo": "TechCrunch Disrupt 2026에서는 AI Stage 및 Real World AI Stage의 5개 세션에서 Anthropic, Nvidia, AWS, Waabi 등의 리더가 AI 안전을 다룹니다. 9월 25일 전에 등록하고 최대 $ 200의 할인 혜택을 누리세요."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-          "pubDate": "2026-09-22T14:30:00.000Z",
-          "image": null,
-          "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-          "keywords": [
-            "Startups",
-            "Hardware",
-            "AI",
-            "Robotics",
-            "TechCrunch Disrupt",
-            "hello robot"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026: Aaron Edsinger가 Hello Robot의 Stretch 4를 무대에서 생생하게 선보입니다",
-          "summaryKo": "Hello Robot의 CEO이자 공동 설립자인 Aaron Edsinger는 TechCrunch Disrupt 2026에서 Real World AI Stage에서 Stretch 4를 라이브 데모로 선보일 예정입니다. 9월 25일 전에 등록하면 최대 $ 200를 할인받을 수 있으며, 50% 할인된 가격에 두 번째 이용권을 받으실 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-23T12:14:00.999Z",
+      "fetchedAt": "2026-09-23T14:11:11.136Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:14:03.212Z",
+      "fetchedAt": "2026-09-23T14:11:14.608Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1098,7 +1096,7 @@
         {
           "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
-          "pubDate": "2026-09-23T00:23:10.000Z",
+          "pubDate": "2026-09-23T00:17:02.000Z",
           "image": null,
           "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 강원도민일보",
           "keywords": [
@@ -1130,6 +1128,23 @@
           "summaryKo": null
         },
         {
+          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
+          "pubDate": "2026-09-23T06:46:16.000Z",
+          "image": null,
+          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
+          "keywords": [
+            "여주시",
+            "3차",
+            "전기자동차",
+            "구매",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
           "pubDate": "2026-09-21T02:14:24.000Z",
@@ -1145,26 +1160,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "여주시, 3차(추경) 전기자동차 구매 지원사업 추진 - 여주신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVERLT0g1M0s1ckxTUi16Y1RZZzNpMDF5ZmVMUU5wZEZSQjRYRXpBLWM1NUhlVU9ad0w1cEdnOVlaRGtJZm9RQ0xlV0FOQWZVSGtWbk51eFpiQXYySTdwSHhoZ3FaajduNlJQYXpn?oc=5",
-          "pubDate": "2026-09-23T01:28:28.000Z",
-          "image": null,
-          "summary": "여주시, 3차(추경) 전기자동차 구매 지원사업 추진 여주신문",
-          "keywords": [
-            "여주시",
-            "3차(추경)",
-            "전기자동차",
-            "구매",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-23T12:14:03.654Z",
+      "fetchedAt": "2026-09-23T14:11:15.069Z",
       "error": null
     }
   },
@@ -1181,49 +1179,49 @@
       "label": "AI스타트업",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ipo",
       "label": "IPO",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업",
@@ -1237,7 +1235,7 @@
       "label": "지원사업",
       "count": 4,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1258,36 +1256,36 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
