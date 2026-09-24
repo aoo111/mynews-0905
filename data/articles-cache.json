@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T16:11:24.086Z",
+  "collectedAt": "2026-09-24T18:12:36.804Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:03.564Z",
+      "fetchedAt": "2026-09-24T18:12:19.394Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 제도 이사회 문제 FOMC 성명서"
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:05.668Z",
+      "fetchedAt": "2026-09-24T18:12:19.460Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:06.991Z",
+      "fetchedAt": "2026-09-24T18:12:21.658Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:07.168Z",
+      "fetchedAt": "2026-09-24T18:12:21.841Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "영국의 이원화된 암호화 보호, 같은 Apple 기기에도 다른 보호 수준",
-          "link": "https://news.hada.io/topic?id=34229",
-          "pubDate": "2026-09-24T15:36:57.000Z",
+          "title": "최신 ESP32, Linux를 실행하며 Raspberry Pi에 가까워지고 있음",
+          "link": "https://news.hada.io/topic?id=34234",
+          "pubDate": "2026-09-24T17:40:14.000Z",
           "image": null,
-          "summary": "영국에서는 Advanced Data Protection(ADP) 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음 영국 정부는 Apple에 ADP로 암호화된 데이터에 접근할 기술적 능력을 요구한 것...",
+          "summary": "Espressif의 ESP32-S31은 기가비트 Ethernet, USB 호스트, 카메라와 디스플레이 인터페이스를 갖추고 Linux까지 실행하며, 마이크로컨트롤러와 단일 보드 컴퓨터(SBC)의 간격을 좁힘 Sv32 페이지 테이블과 세 가지 권한 모드를 지원하는 MMU를 도입해, 기존 ESP32의...",
           "keywords": [
-            "영국의",
-            "이원화된",
-            "암호화",
-            "보호",
-            "같은"
+            "최신",
+            "ESP32",
+            "Linux를",
+            "실행하며",
+            "Raspberry"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
-          "link": "https://news.hada.io/topic?id=34228",
-          "pubDate": "2026-09-24T14:35:12.000Z",
+          "title": "Nokia 디자인 아카이브(2025)",
+          "link": "https://news.hada.io/topic?id=34233",
+          "pubDate": "2026-09-24T17:37:14.000Z",
           "image": null,
-          "summary": "자율형 OpenAI 에이전트가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘 침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는",
+          "summary": "Nokia Design Archive는 Nokia Mobile Phones와 Microsoft Mobile에서 수행한 디자인 작업 관련 자료를 모은 컬렉션임 자료의 시간 범위는 1990년 1월 1일부터 2020년 12월 31일까지이며, 영어와 핀란드어 자료가 있음 실물과 재료 샘플...",
           "keywords": [
-            "OpenAI",
-            "에이전트가",
-            "호주",
-            "정부",
-            "웹사이트를"
+            "Nokia",
+            "디자인",
+            "아카이브(2025)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "urlquery.net에서 발견된 초기 일탈 AI 에이전트 활동과 해킹 시도",
-          "link": "https://news.hada.io/topic?id=34227",
-          "pubDate": "2026-09-24T13:37:19.000Z",
+          "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
+          "link": "https://news.hada.io/topic?id=34232",
+          "pubDate": "2026-09-24T17:11:12.000Z",
           "image": null,
-          "summary": "AI 에이전트가 일반적인 데이터 검색 작업을 수행하다 접근에 실패하자, 호주 정부 기관을 포함한 공개 데이터 제공 사이트 3곳에 취약점 공격을 시도한 흔적이 발견됨 에이전트는 보안 URL 검사 서비스 urlquery.net의 원격 브라우저를 이용해 접근 제한을 우회하...",
-          "keywords": [
-            "urlquery",
-            "net에서",
-            "발견된",
-            "초기",
-            "일탈"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: Malkuth - 다국어 한국어 분류 특화 Jev like system one model (4B/2B)",
-          "link": "https://news.hada.io/topic?id=34226",
-          "pubDate": "2026-09-24T13:29:39.000Z",
-          "image": null,
-          "summary": "텍스트와 질문, 선택지를 주면 답을 생성하는 대신 각 선택지의 확률을 돌려주는 모델 측정 공개 벤치마크 29개 suite, 약 129,000 질문. 모든 모델이 같은 문항을 풀었고 Jev는 API",
+          "summary": "안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다. 작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의 Git worktree에서 진행합니다. 로컬 대시보드에서는 진행 중인 작업, 담당 에이",
           "keywords": [
             "Show",
             "GN:",
-            "Malkuth",
-            "다국어",
-            "한국어"
+            "TODO",
+            "Flow",
+            "선택한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "내 메시 네트워크는 암호화 대신 서명되길 바란다",
-          "link": "https://news.hada.io/topic?id=34225",
-          "pubDate": "2026-09-24T12:01:52.000Z",
+          "title": "삼성 스마트 냉장고, 업데이트 후 먹통돼 보관하던 음식까지 폐기",
+          "link": "https://news.hada.io/topic?id=34231",
+          "pubDate": "2026-09-24T16:41:30.000Z",
           "image": null,
-          "summary": "아마추어 무선 대역에서 메시 네트워크를 운용할 수 있도록, 메시지를 암호화하지 않고 평문에 서명하는 프로토콜을 제안함 Meshtastic과 Meshcore는 손쉽게 메시 네트워크를 구축하게 해주지만, 기본 암호화를 끄기 번거롭거나 불가능해 암호화 송신을 할 수 없는...",
+          "summary": "삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰, 보관하던 음식을 버렸다는 피해 신고가 이어짐 SmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 2024년 이후 출시된 4도어 모델...",
           "keywords": [
-            "메시",
-            "네트워크는",
-            "암호화",
-            "대신",
-            "서명되길"
+            "삼성",
+            "스마트",
+            "냉장고",
+            "업데이트",
+            "먹통돼"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "F-Droid 2.0 발표, 10년 만의 대규모 개편",
+          "link": "https://news.hada.io/topic?id=34230",
+          "pubDate": "2026-09-24T16:38:29.000Z",
+          "image": null,
+          "summary": "자유/오픈소스 안드로이드 앱을 찾아 설치하는 F-Droid가 공식 앱을 전면 재설계하고, 14차례 테스트를 거쳐 앞으로 수주간 순차 배포함 화면을 앱 발견, 검색, 내 앱 관리 중심으로 정리하고, 신규 앱과 최근 업데이트뿐 아니라 많이 다운로드된 앱도 쉽게 찾도록...",
+          "keywords": [
+            "Droid",
+            "발표",
+            "10년",
+            "만의",
+            "대규모"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:07.753Z",
+      "fetchedAt": "2026-09-24T18:12:22.634Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,8 +533,8 @@
           "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:06.428Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-24T18:12:22.874Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -609,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:08.244Z",
+      "fetchedAt": "2026-09-24T18:12:23.105Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:08.326Z",
+      "fetchedAt": "2026-09-24T18:12:23.180Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:11.380Z",
+      "fetchedAt": "2026-09-24T18:12:26.735Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:11.663Z",
+      "fetchedAt": "2026-09-24T18:12:27.114Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,6 +884,38 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+          "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+          "pubDate": "2026-09-24T17:07:55.000Z",
+          "image": null,
+          "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+          "keywords": [
+            "Enterprise",
+            "Startups",
+            "ali ghodsi",
+            "Databricks"
+          ],
+          "isForeign": true,
+          "titleKo": "Databricks는 Row Zero를 구입하고 더 많은 신생 기업을 인수하기 위해 정찰 중입니다.",
+          "summaryKo": "Databricks는 클라우드 스프레드시트 스타트업 Row Zero를 도입하여 2026 쇼핑에 또 다른 인수를 추가했습니다."
+        },
+        {
+          "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+          "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+          "pubDate": "2026-09-24T16:46:47.000Z",
+          "image": null,
+          "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Venture",
+            "TechCrunch Founder Summit"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch 창립자 서밋 2026: 알아야 할 모든 것",
+          "summaryKo": "테크크런치 파운더 서밋 (TechCrunch Founder Summit) 은 11월 4일 보스턴에서 열리는 전일 모임으로, 모든 단계의 파운더가 최고의 VC 및 숙련된 기업가와 연결되어 회사를 구축하고 확장하는 데 대한 전술적 통찰력을 얻을 수 있습니다."
+        },
         {
           "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
@@ -909,14 +939,14 @@
           "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
           "pubDate": "2026-09-24T15:00:00.000Z",
           "image": null,
-          "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+          "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
           "keywords": [
             "AI",
             "Robotics",
             "Startups",
-            "TC",
             "Transportation",
-            "General Motors"
+            "General Motors",
+            "shield ai"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026에서 실패가 옵션이 아닐 때 AI 구축에 AI, Waabi 및 General Motors를 보호하십시오.",
@@ -939,45 +969,9 @@
           "isForeign": true,
           "titleKo": "Ando는 인간과 상담원이 함께 일할 수 있는 팀 메시징 앱으로 Slack을 활용하고자 합니다.",
           "summaryKo": "Ando는 Accel, Index Ventures 및 Emergence를 포함한 투자자들로부터 사전 시드 및 시드 펀딩으로 $ 2,000만 달러를 모금했습니다."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-          "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-          "pubDate": "2026-09-24T14:30:00.000Z",
-          "image": null,
-          "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Startups",
-            "TC",
-            "TechCrunch Disrupt",
-            "Cal AI"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026: 바이러스 성장을 창출하고 이를 활용하는 방법에 대한 Cal AI의 Zach Yadegari",
-          "summaryKo": "Zach Yadegari는 TechCrunch Disrupt 2026의 Builders Stage에 합류하여 바이러스 성장을 어떻게 활용했는지 공유합니다. 9월 25일 전까지 최대 $ 200의 할인 혜택을 누리세요. 두 번째 이용권을 50% 할인받으세요."
-        },
-        {
-          "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-          "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-          "pubDate": "2026-09-24T14:00:00.000Z",
-          "image": null,
-          "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
-          "keywords": [
-            "Startups",
-            "Climate",
-            "Fintech",
-            "Biotech & Health",
-            "Venture",
-            "Media & Entertainment"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 이용권으로 최대 $ 200를 할인받을 수 있는 기간이 2일 남았습니다. 4/5가 참석해야 하는 이유입니다.",
-          "summaryKo": "TechCrunch Disrupt 2026에 참석해야 하는 이유 4/5: 실용적인 답변. 이틀 후 이용권을 최대 $ 200 할인받으실 수 있습니다. 할인 혜택은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 이 지나면 사라집니다. 두 번째 게스트를 50% 할인된 가격으로 예약하세요."
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:20.003Z",
+      "fetchedAt": "2026-09-24T18:12:32.158Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:22.652Z",
+      "fetchedAt": "2026-09-24T18:12:35.314Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1170,7 +1164,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T16:11:23.298Z",
+      "fetchedAt": "2026-09-24T18:12:36.092Z",
       "error": null
     }
   },
@@ -1180,14 +1174,14 @@
       "label": "스타트업",
       "count": 5,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 4,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "ai전환",
@@ -1201,49 +1195,49 @@
       "label": "사업계획서",
       "count": 2,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "poc",
       "label": "POC",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1276,7 +1270,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1284,7 +1278,7 @@
       "label": "AI",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1292,7 +1286,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1304,28 +1298,28 @@
       "labelKo": "기사"
     },
     {
-      "key": "biotech & health",
-      "label": "Biotech & Health",
-      "count": 3,
-      "rank": 8,
-      "change": "up",
-      "labelKo": "생명 공학 및 건강"
-    },
-    {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
-      "rank": 9,
-      "change": "new",
+      "rank": 8,
+      "change": "up",
       "labelKo": "시행 조치"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 10,
-      "change": "down",
+      "rank": 9,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "뉴스"
     }
   ]
 }
