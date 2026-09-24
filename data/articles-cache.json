@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T14:11:13.748Z",
+  "collectedAt": "2026-09-24T16:11:24.086Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
+          "link": "https://www.mk.co.kr/news/economy/12161157",
+          "pubDate": "2026-09-24T14:42:05.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/24/news-p.v1.20260923.94e7dde536704a7a91c086fabef404e3_R.jpeg",
+          "summary": "도수치료, 지난 7월 관리급여화 전환 횟수 제한·선행 물리치료 조건 생겨 신장분사치료 등 유사한 치료 증가# 최근 어깨가 아파 병원을 찾은 A씨는 주사를 맞고 물리치료를 받았다. ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“추석연휴 급증하는 추돌사고”…사고건수는 줄지만 피해 인원은 증가",
           "link": "https://www.mk.co.kr/news/economy/12161078",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“‘어른이’ 빠지자 반토막 났네”…어린이보험 신규 가입 2년 새 급감",
-          "link": "https://www.mk.co.kr/news/economy/12160802",
-          "pubDate": "2026-09-23T23:22:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/24/news-p.v1.20260923.0a49e6ebbe754776b64e3f4f4e0ba15c_R.png",
-          "summary": "20~30대 빠지며 시장 재편 올 상반기 계약 25% 감소한때 20~30대까지 가입하며 이른바 ‘어른이(어른+어린이)보험’으로 불렸던 어린이보험의 신규 판매가 빠르게 줄고 있다. ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:03.912Z",
+      "fetchedAt": "2026-09-24T16:11:03.564Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+          "pubDate": "2026-09-24T15:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+          "keywords": [
+            "Enforcement Actions"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 샌디 스프링 뱅크 (Sandy Spring Bank) 의 전 직원",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 샌디 스프링 뱅크 (Sandy Spring Bank) 의 전 직원"
+        },
         {
           "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방 준비 제도 이사회 문제 FOMC 성명서",
           "summaryKo": "연방 준비 제도 이사회 문제 FOMC 성명서"
-        },
-        {
-          "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-          "pubDate": "2026-09-16T18:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-          "keywords": [
-            "Monetary Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:04.082Z",
+      "fetchedAt": "2026-09-24T16:11:05.668Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:05.039Z",
+      "fetchedAt": "2026-09-24T16:11:06.991Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:05.245Z",
+      "fetchedAt": "2026-09-24T16:11:07.168Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "영국의 이원화된 암호화 보호, 같은 Apple 기기에도 다른 보호 수준",
+          "link": "https://news.hada.io/topic?id=34229",
+          "pubDate": "2026-09-24T15:36:57.000Z",
+          "image": null,
+          "summary": "영국에서는 Advanced Data Protection(ADP) 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음 영국 정부는 Apple에 ADP로 암호화된 데이터에 접근할 기술적 능력을 요구한 것...",
+          "keywords": [
+            "영국의",
+            "이원화된",
+            "암호화",
+            "보호",
+            "같은"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
+          "link": "https://news.hada.io/topic?id=34228",
+          "pubDate": "2026-09-24T14:35:12.000Z",
+          "image": null,
+          "summary": "자율형 OpenAI 에이전트가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘 침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는",
+          "keywords": [
+            "OpenAI",
+            "에이전트가",
+            "호주",
+            "정부",
+            "웹사이트를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "urlquery.net에서 발견된 초기 일탈 AI 에이전트 활동과 해킹 시도",
           "link": "https://news.hada.io/topic?id=34227",
@@ -410,43 +444,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
-          "link": "https://news.hada.io/topic?id=34224",
-          "pubDate": "2026-09-24T11:31:30.000Z",
-          "image": null,
-          "summary": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
-          "keywords": [
-            "메타",
-            "자사에서",
-            "촬영된",
-            "Meta",
-            "AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈소스 데스크톱 현대화를 위한 아이디어",
-          "link": "https://news.hada.io/topic?id=34223",
-          "pubDate": "2026-09-24T11:03:57.000Z",
-          "image": null,
-          "summary": "Scott Jenson은 Akademy 2026에서 Linux 데스크톱이 Apple과 Microsoft를 뒤따르는 데서 벗어나, 자체적인 UX 실험과 개발을 주도해야 한다고 촉구함 개선의 핵심은 외형보다 작업 기억에 있음. 창과 클립보드로 데이터를 직접 옮기는 기존 데스크톱은 사용자가 모...",
-          "keywords": [
-            "오픈소스",
-            "데스크톱",
-            "현대화를",
-            "위한",
-            "아이디어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:06.102Z",
+      "fetchedAt": "2026-09-24T16:11:07.753Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +536,7 @@
         }
       ],
       "fetchedAt": "2026-09-24T14:11:06.428Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -609,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:06.626Z",
+      "fetchedAt": "2026-09-24T16:11:08.244Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:06.720Z",
+      "fetchedAt": "2026-09-24T16:11:08.326Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:10.453Z",
+      "fetchedAt": "2026-09-24T16:11:11.380Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:11.280Z",
+      "fetchedAt": "2026-09-24T16:11:11.663Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -887,93 +887,97 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-          "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-          "pubDate": "2026-09-23T19:31:28.000Z",
+          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-24T16:03:36.000Z",
           "image": null,
-          "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+          "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
           "keywords": [
             "AI",
             "Biotech & Health",
-            "Startups",
-            "clinical trials",
-            "Enveda",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "엔베다, 더 많은 자연 유래 AI 약물을 임상 시험에 도입하기 위해 $ 311M 확보",
-          "summaryKo": "이 라운드는 AI 생명공학의 가치를 20억 $ 로 평가했습니다. 현재 GLP-1을 중단한 후 피부 질환을 치료하고 체중 감량을 보존하는 약물을 테스트하고 있습니다."
-        },
-        {
-          "title": "Modal Motors is trying to cut China out of electric motors entirely",
-          "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-          "pubDate": "2026-09-23T19:05:00.000Z",
-          "image": null,
-          "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-          "keywords": [
-            "Startups",
-            "electric motors",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "모달 모터스 (Modal Motors) 는 중국을 전기 모터에서 완전히 잘라내려고 노력하고 있습니다.",
-          "summaryKo": "이 스타트업은 드론, 팬, 로봇에 적합한 희토류 자석이 없는 작고 가벼운 모터를 개발하고 있습니다."
-        },
-        {
-          "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-          "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-          "pubDate": "2026-09-23T14:30:00.000Z",
-          "image": null,
-          "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-          "keywords": [
-            "AI",
+            "Climate",
             "Fundraising",
             "Startups",
-            "Venture",
-            "StrictlyVC",
-            "TechCrunch Disrupt"
+            "Venture"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026의 StrictlyVC: 벤처 캐피탈의 변화하는 규칙 속으로",
-          "summaryKo": "StrictlyVC가 TechCrunch Disrupt 2026에 합류하여 AI 덕분에 변화하는 VC 환경에 대해 논의합니다. 이 독점 세션에 참여하려면 투자자 패스를 받으세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 $ 200를 할인받으세요."
+          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200을 심사하는 차세대 VC를 만나보세요",
+          "summaryKo": "TechCrunch Disrupt 2026 메인 스테이지에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC를 만나보세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 등록하여 최대 $ 200를 절약하고 가장 치열한 스타트업 피치 대회 중 하나에 앞자리를 마련하세요."
         },
         {
-          "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-23T14:00:00.000Z",
+          "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-24T15:00:00.000Z",
           "image": null,
-          "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+          "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
           "keywords": [
-            "Fundraising",
-            "Robotics",
             "AI",
-            "Venture",
-            "Biotech & Health",
-            "Fintech"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 최대 $ 200를 절약하고 영향력 있는 인맥을 구축할 수 있는 기간이 3일 남았습니다.",
-          "summaryKo": "3일 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받고 초당 50% 할인도 받으세요. 10,000명 이상의 기술 리더와 영향력 있는 관계를 맺으세요. 할인 마지막 날은 9월 25일 오후 11시 59분 (태평양 표준시) 입니다. 오늘 등록하세요."
-        },
-        {
-          "title": "PitPro’s first tire-changing robot goes live in Canada",
-          "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
-          "pubDate": "2026-09-23T13:00:00.000Z",
-          "image": null,
-          "summary": "The startup says its automated system can change four tires in under 15 minutes.",
-          "keywords": [
             "Robotics",
+            "Startups",
+            "TC",
             "Transportation",
-            "Startups",
-            "tires"
+            "General Motors"
           ],
           "isForeign": true,
-          "titleKo": "PitPro의 첫 타이어 교체 로봇이 캐나다에서 출시됩니다",
-          "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
+          "titleKo": "TechCrunch Disrupt 2026에서 실패가 옵션이 아닐 때 AI 구축에 AI, Waabi 및 General Motors를 보호하십시오.",
+          "summaryKo": "Waabi, Shield AI 및 General Motors의 리더들이 TechCrunch Disrupt 2026의 Real World AI Stage에 참여하여 AI 구축에 대해 이야기합니다. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 최대 $ 200를 절약하세요. 50% 할인된 가격으로 두 번째 이용권을 받으세요."
+        },
+        {
+          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+          "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+          "pubDate": "2026-09-24T14:31:00.000Z",
+          "image": null,
+          "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+          "keywords": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "AI agents",
+            "ando",
+            "Microsoft Teams"
+          ],
+          "isForeign": true,
+          "titleKo": "Ando는 인간과 상담원이 함께 일할 수 있는 팀 메시징 앱으로 Slack을 활용하고자 합니다.",
+          "summaryKo": "Ando는 Accel, Index Ventures 및 Emergence를 포함한 투자자들로부터 사전 시드 및 시드 펀딩으로 $ 2,000만 달러를 모금했습니다."
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+          "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+          "pubDate": "2026-09-24T14:30:00.000Z",
+          "image": null,
+          "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Startups",
+            "TC",
+            "TechCrunch Disrupt",
+            "Cal AI"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026: 바이러스 성장을 창출하고 이를 활용하는 방법에 대한 Cal AI의 Zach Yadegari",
+          "summaryKo": "Zach Yadegari는 TechCrunch Disrupt 2026의 Builders Stage에 합류하여 바이러스 성장을 어떻게 활용했는지 공유합니다. 9월 25일 전까지 최대 $ 200의 할인 혜택을 누리세요. 두 번째 이용권을 50% 할인받으세요."
+        },
+        {
+          "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+          "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+          "pubDate": "2026-09-24T14:00:00.000Z",
+          "image": null,
+          "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+          "keywords": [
+            "Startups",
+            "Climate",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "Media & Entertainment"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 이용권으로 최대 $ 200를 할인받을 수 있는 기간이 2일 남았습니다. 4/5가 참석해야 하는 이유입니다.",
+          "summaryKo": "TechCrunch Disrupt 2026에 참석해야 하는 이유 4/5: 실용적인 답변. 이틀 후 이용권을 최대 $ 200 할인받으실 수 있습니다. 할인 혜택은 9월 25일 오후 11시 59분 (태평양 표준시 기준) 이 지나면 사라집니다. 두 번째 게스트를 50% 할인된 가격으로 예약하세요."
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:11.371Z",
+      "fetchedAt": "2026-09-24T16:11:20.003Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1072,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:13.156Z",
+      "fetchedAt": "2026-09-24T16:11:22.652Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1132,17 +1136,17 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
           "pubDate": "2026-07-23T07:00:00.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
           "keywords": [
             "공정",
             "혁신",
             "포용의",
             "경기",
-            "경기도청"
+            "gg"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1166,80 +1170,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T14:11:13.738Z",
+      "fetchedAt": "2026-09-24T16:11:23.298Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 1,
-      "change": "same"
-    },
-    {
       "key": "스타트업",
       "label": "스타트업",
       "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
       "rank": 2,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "ai전환",
       "label": "AI전환",
       "count": 2,
       "rank": 3,
-      "change": "new"
-    },
-    {
-      "key": "메타",
-      "label": "메타",
-      "count": 2,
-      "rank": 4,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "사업계획서",
       "label": "사업계획서",
       "count": 2,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 9,
-      "change": "down"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "poc",
+      "label": "POC",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1268,28 +1272,28 @@
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
       "key": "startups",
       "label": "Startups",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
+      "count": 5,
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
     },
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
-      "rank": 6,
-      "change": "same",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
       "labelKo": "AI"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 6,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
@@ -1300,28 +1304,28 @@
       "labelKo": "기사"
     },
     {
+      "key": "biotech & health",
+      "label": "Biotech & Health",
+      "count": 3,
+      "rank": 8,
+      "change": "up",
+      "labelKo": "생명 공학 및 건강"
+    },
+    {
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 3,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "시행 조치"
+    },
+    {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "뉴스"
-    },
-    {
-      "key": "biotech & health",
-      "label": "Biotech & Health",
-      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "생명 공학 및 건강"
+      "change": "down",
+      "labelKo": "추천 동영상"
     }
   ]
 }
