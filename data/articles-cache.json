@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T18:12:36.804Z",
+  "collectedAt": "2026-09-24T20:11:43.111Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "주가상승 13%에 배당 10% … 파이어족 갈아타는 ‘혜자 GPIQ’ 뭐길래",
+          "link": "https://www.mk.co.kr/news/economy/12159601",
+          "pubDate": "2026-09-24T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.eff9af348a8c439e93630ccf716ed5dc_R.jpeg",
+          "summary": "좀더 안정적 배당으로…커버드콜 갈아타기 유행중김모씨(47)는 ‘JP모건 나스닥 주식 프리미엄 인컴 ETF’(JEPQ)를 1년 넘게 보유하다가 최근 전량 매도했다. 1년전 유튜브에서..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
           "link": "https://www.mk.co.kr/news/economy/12161157",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“이번 추석 부모님 용돈 얼마 드리지?” 고민하면서 매달 받는 연금 액수는 모른다는데",
-          "link": "https://www.mk.co.kr/news/economy/12160816",
-          "pubDate": "2026-09-24T00:06:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/24/news-p.v1.20260923.46a50309789f4f8c9eeb0ad191f1a4ad_R.png",
-          "summary": "추석을 앞두고 부모님 용돈을 얼마나 드릴지 고민하는 자녀들이 많다. 부모 세대의 주요 노후 소득인 국민연금은 얼마나 될까. 노령연금 수급자 10명 중 6명은 매달 받는 금액이 60..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:19.394Z",
+      "fetchedAt": "2026-09-24T20:11:27.011Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+          "pubDate": "2026-09-24T18:30:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+          "keywords": [
+            "Banking and Consumer Regulatory Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 GENIUS 법에 따라 이사회 감독을 받는 지급 스테이블코인 발행자를 위한 규제 프레임워크 구축과 관련된 두 가지 제안에 대한 공개 의견을 요청합니다.",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 GENIUS 법에 따라 이사회 감독을 받는 지급 스테이블코인 발행자를 위한 규제 프레임워크 구축과 관련된 두 가지 제안에 대한 공개 의견을 요청합니다."
+        },
         {
           "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표",
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
-        },
-        {
-          "title": "Federal Reserve issues FOMC statement",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-          "pubDate": "2026-09-16T18:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve issues FOMC statement",
-          "keywords": [
-            "Monetary Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "연방 준비 제도 이사회 문제 FOMC 성명서",
-          "summaryKo": "연방 준비 제도 이사회 문제 FOMC 성명서"
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:19.460Z",
+      "fetchedAt": "2026-09-24T20:11:29.557Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:21.658Z",
+      "fetchedAt": "2026-09-24T20:11:30.515Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:21.841Z",
+      "fetchedAt": "2026-09-24T20:11:30.645Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "최신 ESP32, Linux를 실행하며 Raspberry Pi에 가까워지고 있음",
-          "link": "https://news.hada.io/topic?id=34234",
-          "pubDate": "2026-09-24T17:40:14.000Z",
+          "title": "대조 언어 모델",
+          "link": "https://news.hada.io/topic?id=34240",
+          "pubDate": "2026-09-24T19:43:21.000Z",
           "image": null,
-          "summary": "Espressif의 ESP32-S31은 기가비트 Ethernet, USB 호스트, 카메라와 디스플레이 인터페이스를 갖추고 Linux까지 실행하며, 마이크로컨트롤러와 단일 보드 컴퓨터(SBC)의 간격을 좁힘 Sv32 페이지 테이블과 세 가지 권한 모드를 지원하는 MMU를 도입해, 기존 ESP32의...",
+          "summary": "Contrastive Language Models(CLM) 는 상태와 행동을 대조 학습으로 연결하는 시스템 1 모델로, 현재 상태와 후보 행동의 임베딩을 비교해 가장 높은 점수의 행동을 선택함 공개한 CLM-8B는 컴퓨터 사용, 게임, 도구 호출 과제에서 Jev와 비슷한 성능을 내면서 지연...",
           "keywords": [
-            "최신",
-            "ESP32",
-            "Linux를",
-            "실행하며",
-            "Raspberry"
+            "대조",
+            "언어",
+            "모델"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Nokia 디자인 아카이브(2025)",
-          "link": "https://news.hada.io/topic?id=34233",
-          "pubDate": "2026-09-24T17:37:14.000Z",
+          "title": "폴란드 Starlink 지상국에서 화재, 방화 공격 의심",
+          "link": "https://news.hada.io/topic?id=34239",
+          "pubDate": "2026-09-24T19:40:21.000Z",
           "image": null,
-          "summary": "Nokia Design Archive는 Nokia Mobile Phones와 Microsoft Mobile에서 수행한 디자인 작업 관련 자료를 모은 컬렉션임 자료의 시간 범위는 1990년 1월 1일부터 2020년 12월 31일까지이며, 영어와 핀란드어 자료가 있음 실물과 재료 샘플...",
+          "summary": "폴란드에서 Starlink가 사용하는 지상국에 화재가 발생했으며, 디지털부 장관은 핵심 통신 인프라를 겨냥한 고의적 방화로 판단함 해당 시설은 국영 통신사 Exatel 소유로, Starlink를 보유한 SpaceX 등 여러 사업자가 이용하며 우크라이나를 포함...",
           "keywords": [
-            "Nokia",
-            "디자인",
-            "아카이브(2025)"
+            "폴란드",
+            "Starlink",
+            "지상국에서",
+            "화재",
+            "방화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
-          "link": "https://news.hada.io/topic?id=34232",
-          "pubDate": "2026-09-24T17:11:12.000Z",
+          "title": "GitHub, 3주가 지나도록 악성 모방 소프트웨어를 삭제하지 않음",
+          "link": "https://news.hada.io/topic?id=34238",
+          "pubDate": "2026-09-24T19:37:21.000Z",
           "image": null,
-          "summary": "안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다. 작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의 Git worktree에서 진행합니다. 로컬 대시보드에서는 진행 중인 작업, 담당 에이",
+          "summary": "Easy Data Transform의 제품명과 로고를 무단 사용한 모방 소프트웨어가 GitHub에 올라왔으며, 신고 후 23일 동안 최초 자동 응답 외에 지원팀의 답변이 없었음 저장소의 Mac용.dmg 파일을 VirusTotal로 검사한 결과, 다수의 악성코드 경고가 나타...",
           "keywords": [
-            "Show",
-            "GN:",
-            "TODO",
-            "Flow",
-            "선택한"
+            "GitHub",
+            "3주가",
+            "지나도록",
+            "악성",
+            "모방"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "삼성 스마트 냉장고, 업데이트 후 먹통돼 보관하던 음식까지 폐기",
-          "link": "https://news.hada.io/topic?id=34231",
-          "pubDate": "2026-09-24T16:41:30.000Z",
+          "title": "영국군, 자국 방어 위해 다른 나라 위성 전파 방해 중이라고 BBC에 밝혀",
+          "link": "https://news.hada.io/topic?id=34237",
+          "pubDate": "2026-09-24T18:44:14.000Z",
           "image": null,
-          "summary": "삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰, 보관하던 음식을 버렸다는 피해 신고가 이어짐 SmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 2024년 이후 출시된 4도어 모델...",
+          "summary": "영국 공군(RAF) 이 적대적 위협에 대응하기 위해 지난 1년간 지상 기반 시스템으로 다른 나라 위성의 전파를 방해하거나 차단해 왔으며, 국방 소식통은 이를 이미 적대국 억제에 사용했다고 밝힘 이 시스템은 적대국 위성이 영국의 핵무장 잠수함 이동이나 특수부대...",
           "keywords": [
-            "삼성",
-            "스마트",
-            "냉장고",
-            "업데이트",
-            "먹통돼"
+            "영국군",
+            "자국",
+            "방어",
+            "다른",
+            "나라"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "F-Droid 2.0 발표, 10년 만의 대규모 개편",
-          "link": "https://news.hada.io/topic?id=34230",
-          "pubDate": "2026-09-24T16:38:29.000Z",
+          "title": "Windows 스크롤 바 단축 조작의 간략한 역사",
+          "link": "https://news.hada.io/topic?id=34236",
+          "pubDate": "2026-09-24T18:41:14.000Z",
           "image": null,
-          "summary": "자유/오픈소스 안드로이드 앱을 찾아 설치하는 F-Droid가 공식 앱을 전면 재설계하고, 14차례 테스트를 거쳐 앞으로 수주간 순차 배포함 화면을 앱 발견, 검색, 내 앱 관리 중심으로 정리하고, 신규 앱과 최근 업데이트뿐 아니라 많이 다운로드된 앱도 쉽게 찾도록...",
+          "summary": "Windows 스크롤 바에는 줄/페이지 단위 이동과 드래그 외에도, 원하는 위치로 바로 이동하는 “Scroll Here” 메뉴와 Shift+클릭이 있음 “Scroll Here”는 이동하려는 지점을 우클릭한 뒤 선택하는 기능으로, 스크롤 손잡이를 잡아 먼 거리까지 ...",
           "keywords": [
-            "Droid",
-            "발표",
-            "10년",
-            "만의",
-            "대규모"
+            "Windows",
+            "스크롤",
+            "단축",
+            "조작의",
+            "간략한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:22.634Z",
+      "fetchedAt": "2026-09-24T20:11:31.374Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +534,7 @@
         }
       ],
       "fetchedAt": "2026-09-24T18:12:22.874Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -607,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:23.105Z",
+      "fetchedAt": "2026-09-24T20:11:32.183Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:23.180Z",
+      "fetchedAt": "2026-09-24T20:11:32.283Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:26.735Z",
+      "fetchedAt": "2026-09-24T20:11:35.187Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:27.114Z",
+      "fetchedAt": "2026-09-24T20:11:35.439Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +884,58 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+          "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+          "pubDate": "2026-09-24T19:15:00.000Z",
+          "image": null,
+          "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+          "keywords": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech"
+          ],
+          "isForeign": true,
+          "titleKo": "공동 창업자, 파트너 또는 동료를 초대하고 두 번째 TechCrunch Disrupt 2026 이용권을 50% 할인받으세요.",
+          "summaryKo": "TechCrunch Disrupt 2026 이용권 1장을 구매하고 동일한 티켓 유형의 1초를 50% 할인받으세요. 10월 13일 오전 8시 (태평양 표준시) 에 이벤트가 시작되기 전에 등록하세요."
+        },
+        {
+          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+          "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+          "pubDate": "2026-09-24T19:00:42.000Z",
+          "image": null,
+          "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "TC",
+            "LLMs",
+            "In Brief"
+          ],
+          "isForeign": true,
+          "titleKo": "PrismML은 Qualcomm 기반 스마트 안경에 초소형 LLM을 제공합니다",
+          "summaryKo": "Prism의 더 큰 목표는 장치에서 실행되고 이미 가지고 있는 컴퓨팅 성능을 더 잘 활용하는 개방형 AI입니다."
+        },
+        {
+          "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+          "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+          "pubDate": "2026-09-24T18:52:38.000Z",
+          "image": null,
+          "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+          "keywords": [
+            "Robotics",
+            "Startups",
+            "Gradient Ventures",
+            "humanoid",
+            "humanoid robots"
+          ],
+          "isForeign": true,
+          "titleKo": "개발자를 위한 ‘Android of robotics‘ 를 개발하는 스타트업, Feather를 만나보세요",
+          "summaryKo": "Feather는 소프트웨어 개발자를 위해 제작된 맞춤형 $ 30,000 플랫폼에 베팅하고 있습니다."
+        },
         {
           "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
           "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
@@ -915,63 +967,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch 창립자 서밋 2026: 알아야 할 모든 것",
           "summaryKo": "테크크런치 파운더 서밋 (TechCrunch Founder Summit) 은 11월 4일 보스턴에서 열리는 전일 모임으로, 모든 단계의 파운더가 최고의 VC 및 숙련된 기업가와 연결되어 회사를 구축하고 확장하는 데 대한 전술적 통찰력을 얻을 수 있습니다."
-        },
-        {
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-24T16:03:36.000Z",
-          "image": null,
-          "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-          "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Climate",
-            "Fundraising",
-            "Startups",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200을 심사하는 차세대 VC를 만나보세요",
-          "summaryKo": "TechCrunch Disrupt 2026 메인 스테이지에서 스타트업 Battlefield 200 경쟁자를 심사하는 차세대 VC를 만나보세요. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 등록하여 최대 $ 200를 절약하고 가장 치열한 스타트업 피치 대회 중 하나에 앞자리를 마련하세요."
-        },
-        {
-          "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-24T15:00:00.000Z",
-          "image": null,
-          "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
-          "keywords": [
-            "AI",
-            "Robotics",
-            "Startups",
-            "Transportation",
-            "General Motors",
-            "shield ai"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 실패가 옵션이 아닐 때 AI 구축에 AI, Waabi 및 General Motors를 보호하십시오.",
-          "summaryKo": "Waabi, Shield AI 및 General Motors의 리더들이 TechCrunch Disrupt 2026의 Real World AI Stage에 참여하여 AI 구축에 대해 이야기합니다. 9월 25일 오후 11시 59분 (태평양 표준시 기준) 까지 최대 $ 200를 절약하세요. 50% 할인된 가격으로 두 번째 이용권을 받으세요."
-        },
-        {
-          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-          "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-          "pubDate": "2026-09-24T14:31:00.000Z",
-          "image": null,
-          "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Startups",
-            "AI agents",
-            "ando",
-            "Microsoft Teams"
-          ],
-          "isForeign": true,
-          "titleKo": "Ando는 인간과 상담원이 함께 일할 수 있는 팀 메시징 앱으로 Slack을 활용하고자 합니다.",
-          "summaryKo": "Ando는 Accel, Index Ventures 및 Emergence를 포함한 투자자들로부터 사전 시드 및 시드 펀딩으로 $ 2,000만 달러를 모금했습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:32.158Z",
+      "fetchedAt": "2026-09-24T20:11:40.543Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:35.314Z",
+      "fetchedAt": "2026-09-24T20:11:42.685Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1130,17 +1128,17 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - gg.go.kr",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
           "pubDate": "2026-07-23T07:00:00.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 gg.go.kr",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
             "공정",
             "혁신",
             "포용의",
             "경기",
-            "gg"
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1164,7 +1162,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:36.092Z",
+      "fetchedAt": "2026-09-24T20:11:43.103Z",
       "error": null
     }
   },
@@ -1266,28 +1264,28 @@
       "labelKo": "홈페이지 기능"
     },
     {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 4,
+      "change": "up",
+      "labelKo": "다음을 따르세요"
+    },
+    {
       "key": "startups",
       "label": "Startups",
-      "count": 5,
-      "rank": 4,
-      "change": "same",
+      "count": 4,
+      "rank": 5,
+      "change": "down",
       "labelKo": "스타트업"
     },
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
+      "count": 3,
       "rank": 6,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
@@ -1302,7 +1300,7 @@
       "label": "Enforcement Actions",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "시행 조치"
     },
     {
@@ -1310,7 +1308,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1318,7 +1316,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
