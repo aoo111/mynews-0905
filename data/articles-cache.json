@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T06:13:30.673Z",
+  "collectedAt": "2026-09-24T08:11:44.042Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "서울 집값 85주째 올랐다…文정부 때 세운 ‘최장 기록’ 따라잡아",
+          "link": "https://www.mk.co.kr/news/economy/12160908",
+          "pubDate": "2026-09-24T06:45:54.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/24/news-p.v1.20260921.0d6b7b08988e41618cc5cdcfc0449459_R.jpeg",
+          "summary": "최근 85주간 17.5% 상승 다음 주도 오르면 역대 최장 경신서울 아파트 매매가격이 85주 연속 오르며 문재인 정부 당시 세운 역대 최장 상승 기록과 동률을 이뤘다. 다음 주에도..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“이번 추석 부모님 용돈 얼마 드리지?” 고민하면서 매달 받는 연금 액수는 모른다는데",
           "link": "https://www.mk.co.kr/news/economy/12160816",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“월급은 올랐는데 왜 더 가난해졌지?” … 하위 20%에 벌어진 ‘자산의 역설’",
-          "link": "https://www.mk.co.kr/news/economy/12160347",
-          "pubDate": "2026-09-23T19:30:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-a.v1.20260923.bf6025d7c3ef41728f7921d7051a697b_R.png",
-          "summary": "소득이 늘면 자산도 함께 늘어날까요. 당연해 보이지만 실제 데이터는 그렇게 단순하지 않습니다. 같은 기간 소득이 늘더라도 어떤 가구는 자산과 순자산이 더 빠르게 불어나고, 어떤 가..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:23.527Z",
+      "fetchedAt": "2026-09-24T08:11:13.336Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:23.578Z",
+      "fetchedAt": "2026-09-24T08:11:13.377Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:24.704Z",
+      "fetchedAt": "2026-09-24T08:11:14.818Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:24.830Z",
+      "fetchedAt": "2026-09-24T08:11:15.011Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Scientific Linux를 포기한 것은 실수였다",
+          "link": "https://news.hada.io/topic?id=34218",
+          "pubDate": "2026-09-24T08:03:54.000Z",
+          "image": null,
+          "summary": "Scientific Linux의 가치는 RHEL 패키지를 재빌드하는 작업만이 아니라, 과학계가 플랫폼을 독립적으로 유지할 인력과 지식, 인프라에 있었음 CentOS로 통합하면 중복 작업을 줄일 수 있었지만, CentOS Linux 중단 이후 CERN과 Fermilab은 다시 독립적인 RHEL 호환...",
+          "keywords": [
+            "Scientific",
+            "Linux를",
+            "포기한",
+            "것은",
+            "실수였다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OpenAI의 Medicare 무단 침입, Albanese 총리가 공개",
+          "link": "https://news.hada.io/topic?id=34216",
+          "pubDate": "2026-09-24T07:33:32.000Z",
+          "image": null,
+          "summary": "OpenAI의 AI 에이전트가 Medicare 통계 포털의 차단 장치를 우회해 공개/비공개 정보에 접근하고 내부 서버에 파일을 기록함 침입은 6월 18일 발생했지만 OpenAI는 약 3개월 뒤 정부에 통보했으며, Services Australia가 알림을 확인한 뒤 담당 장관에게 보고하기까...",
+          "keywords": [
+            "OpenAI의",
+            "Medicare",
+            "무단",
+            "침입",
+            "Albanese"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
           "link": "https://news.hada.io/topic?id=34213",
@@ -410,39 +444,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Meta VR 안경",
-          "link": "https://news.hada.io/topic?id=34208",
-          "pubDate": "2026-09-24T01:32:20.000Z",
-          "image": null,
-          "summary": "Meta VR Glasses는 영상 감상, 업무, 게임을 지원하는 VR 안경으로, 2027년 봄 1,299달러에 출시 예정임 마그네슘 합금 소재를 사용하며 무게는 100g이고, 주머니에 들어가는 소형 퍽이 구동을 담당함 3D 영화...",
-          "keywords": [
-            "Meta",
-            "VR",
-            "안경"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Z80 REPL (2018)",
-          "link": "https://news.hada.io/topic?id=34207",
-          "pubDate": "2026-09-24T00:39:55.000Z",
-          "image": null,
-          "summary": "Z80 REPL (2018)",
-          "keywords": [
-            "Z80",
-            "REPL",
-            "(2018)"
-          ],
-          "isForeign": true,
-          "titleKo": "Z80 REPL (2018)",
-          "summaryKo": "Z80 REPL (2018)"
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:25.610Z",
+      "fetchedAt": "2026-09-24T08:11:15.932Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -531,7 +535,7 @@
           "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:25.726Z",
+      "fetchedAt": "2026-09-24T08:11:16.052Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:25.890Z",
+      "fetchedAt": "2026-09-24T08:11:16.120Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:25.972Z",
+      "fetchedAt": "2026-09-24T08:11:16.167Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +790,7 @@
         }
       ],
       "fetchedAt": "2026-09-24T06:13:28.541Z",
-      "error": null
+      "error": "This operation was aborted"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -874,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:28.860Z",
+      "fetchedAt": "2026-09-24T08:11:31.420Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +973,7 @@
           "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:28.903Z",
+      "fetchedAt": "2026-09-24T08:11:31.461Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:30.277Z",
+      "fetchedAt": "2026-09-24T08:11:43.566Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,11 +1098,28 @@
           "summaryKo": null
         },
         {
-          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
+          "pubDate": "2026-09-21T02:14:24.000Z",
+          "image": null,
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "keywords": [
+            "중기부",
+            "공공데이터",
+            "활용",
+            "지원사업",
+            "참여할"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - kado.net",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
           "pubDate": "2026-09-23T00:17:02.000Z",
           "image": null,
-          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 강원도민일보",
+          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 kado.net",
           "keywords": [
             "동해시",
             "슬레이트",
@@ -1143,26 +1164,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
-          "pubDate": "2026-09-18T06:23:20.000Z",
-          "image": null,
-          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
-          "keywords": [
-            "경기",
-            "~9/29(화)",
-            "성남시",
-            "청년",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:30.664Z",
+      "fetchedAt": "2026-09-24T08:11:44.028Z",
       "error": null
     }
   },
@@ -1189,53 +1193,53 @@
       "change": "same"
     },
     {
-      "key": "안경",
-      "label": "안경",
-      "count": 2,
-      "rank": 4,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 9,
-      "change": "down"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 4,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
