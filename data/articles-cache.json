@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T08:11:44.042Z",
+  "collectedAt": "2026-09-24T10:10:15.195Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:13.336Z",
+      "fetchedAt": "2026-09-24T10:10:07.501Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:13.377Z",
+      "fetchedAt": "2026-09-24T10:10:07.545Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "구글, '제미나이 3.8 플래시 TTS' 공개...'음성 디자인' 패러다임 연다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215636",
+          "pubDate": "2026-09-24T18:54:04.000Z",
+          "image": null,
+          "summary": "구글이 자연어 프롬프트만으로 새로운 음성을 설계하고 대사별 연기와 억양까지 세밀하게 조절할 수 있는 텍스트 음성 변환(TTS) 모델 2종을 출시했다. 기존의 고정된 음성 선택 방식에서 벗어나 게임, 오디오북, 팟캐스트, 더빙, 음성 에이전트 등 다양한 분야에서 맞춤형 음성을 제작할 수 있도록 한 것이 특징이다.구글은 23일(현지시간) 제미나이 오디오 제품군에 '제미나이 3.8 플래시 TTS'와 '제미나이 3.8 플래시-라이트 TTS'를 추가했다고 밝혔다.플래시 TTS는 창작자와 개발자가 캐릭터 음성을 처음부터 설계하고 세밀하게 연출",
+          "keywords": [
+            "구글",
+            "제미나이",
+            "플래시",
+            "TTS",
+            "공개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 우크라이나에 사이버 보안 '데이브레이크' 무료 지원...\"러시아 공격 대응\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215641",
+          "pubDate": "2026-09-24T18:21:57.000Z",
+          "image": null,
+          "summary": "러시아의 사이버 공격이 격화하는 가운데 오픈AI가 우크라이나 정부에 AI 기반 사이버 방어 시스템 '데이브레이크(Daybreak)'를 무료로 제공한다. 이번 지원은 디지털 혁신부와 직접 협력해 병원, 발전소 등 민간 핵심 인프라를 디지털 위협으로부터 보호하는 데 집중된다.23일(현지시간) BBC에 따르면 이번 협력은 유엔 총회 부대행사에서 공식 발표됐다. 행사에는 사샤 베이커 오픈AI 국가안보정책 총괄과 드미트로 쿠슈네루크 주샌프란시스코 총영사 등이 참석했으며, 양측은 민간 인프라를 타깃으로 한 러시아의 디지털 위협에 공동 대응하기",
+          "keywords": [
+            "오픈AI",
+            "우크라이나에",
+            "사이버",
+            "보안",
+            "데이브레이크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "블랙 포레스트, 경쟁 모델 절반 크기로 세계 최고 성능 낸 '로봇 AI' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215643",
+          "pubDate": "2026-09-24T17:46:25.000Z",
+          "image": null,
+          "summary": "이미지 생성으로 유명한 블랙 포레스트 랩스(BFL)가 로봇 분야로 영역을 확대했다. 경쟁 모델 절반 수준의 크기로 세계 최고 수준의 제어 성능을 달성한 로봇 AI를 공개하며 피지컬 AI 시장에 도전장을 던졌다.BFL은 22일(현지시간) 카메라 영상과 로봇의 현재 상태, 자연어 지시를 분석해 실제 물리적 행동으로 전환하는 70억 매개변수 규모의 오픈웨이트 로봇 모델 '플럭스 3 액션(FLUX 3 Action)'을 공개했다.공개 모델은 기본 모델인 '플럭스 3 액션-베이스(Base)'와 지시 이행 및 미세조정 능력을 강화한 '플럭스 3",
+          "keywords": [
+            "블랙",
+            "포레스트",
+            "경쟁",
+            "모델",
+            "절반"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
-          "pubDate": "2026-09-24T12:53:52.000Z",
-          "image": null,
-          "summary": "허깅페이스를 뚫었던 오픈AI의 에이전트가 민간 기업을 넘어 국가 정부 시스템 내부망을 무단 침입한 사실이 최초로 드러났다. 이에 따라 세계 각국 공공 인프라의 보안 재점검과 통제 불능 AI에 대한 국제적 규제 논의로 파장이 확대될 전망이다.앤서니 앨버니지 호주 총리는 24일(현지시간) 뉴욕 유엔총회 현장 기자회견에서 오픈AI의 에이전트가 호주 정부의 의료 통계 보고 서비스(Medicare Statistics Reporting Service) 시스템을 비롯해 공공 기관 웹사이트 여러 곳에 무단 침입하는 사건이 발생했다고 공식 발표했다",
-          "keywords": [
-            "오픈AI",
-            "에이전트",
-            "정부",
-            "뚫었다",
-            "호주"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215637",
-          "pubDate": "2026-09-24T12:06:33.000Z",
-          "image": null,
-          "summary": "마이크로소프트(MS)가 AI 에이전트와 코딩 도구를 통합한 ‘슈퍼 앱’ 출시를 앞두고 코파일럿의 대규모 구독료 할인 정책을 펼치는 등 비즈니스 모델 재편에 본격적으로 나섰다.22일(현지시간) 디 인포메이션에 따르면, MS는 최근 영업 임직원들에게 기업 고객이 대량 라이선스를 구매하고 특정 기능 사용량에 따라 추가 결제를 약정할 경우 코파일럿 구독료를 30%에서 최대 50%까지 할인하도록 지침을 내렸다. 기존에는 2000개 이상 라이선스를 구매하는 기업에 10% 수준의 할인만 제공해 왔으나, 1000개 이상 구매 시 30%, 1만개",
-          "keywords": [
-            "MS",
-            "코파일럿",
-            "슈퍼",
-            "전환",
-            "맞춰"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈서베이, '합성 소비자'로 데이터 장벽 허문다...\"AI 시대의 리서치\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215544",
-          "pubDate": "2026-09-24T11:20:00.000Z",
-          "image": null,
-          "summary": "“모든 비즈니스와 의사결정에는 유의미한 데이터가 필요합니다. 하지만 기존 시장 조사는 비싼 비용과 긴 시간, 엄격한 개인정보 규제 때문에 실무자가 원하는 데이터에 즉시 접근하기 어려웠습니다. 오픈서베이는 AI 기술로 이러한 데이터 장벽을 낮추고, 누구나 손쉽게 데이터에 접근할 수 있도록 돕고 있습니다.”이건노 오픈서베이 최고 기술책임자(CTO)는 최근 선보인 '합성 소비자' 솔루션을 설명하며 이같이 강조했다.그는 “내가 생각한 아이디어가 시장에서 호응을 얻을지, 어떤 사람이 무슨 음식을 좋아할지는 실제 소비자에게 물어볼 때 가장 직",
-          "keywords": [
-            "오픈서베이",
-            "합성",
-            "소비자",
-            "데이터",
-            "장벽"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:14.818Z",
+      "fetchedAt": "2026-09-24T10:10:08.673Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:15.011Z",
+      "fetchedAt": "2026-09-24T10:10:08.801Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,56 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "arXiv, 독립 비영리단체 전환을 위한 약 258억원 규모의 다년간 후원 약정 확보",
+          "link": "https://news.hada.io/topic?id=34221",
+          "pubDate": "2026-09-24T09:31:44.000Z",
+          "image": null,
+          "summary": "arXiv가 독립 비영리단체로 전환하기 위해 3개 기관으로부터 총 1,720만 달러($17.2m) 의 후원 약정을 확보했으며, 지원 기간은 3~5년임 후원 기관은 Simons Foundation International, XTX Markets, Siegel Family Endowment이며, 기술 인프라 강...",
+          "keywords": [
+            "arXiv",
+            "독립",
+            "비영리단체",
+            "전환을",
+            "위한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: CanvaSlide - 무한 캔버스에서 확대·이동으로 발표하는 오픈소스 프레젠테이션 앱",
+          "link": "https://news.hada.io/topic?id=34220",
+          "pubDate": "2026-09-24T09:26:43.000Z",
+          "image": null,
+          "summary": "슬라이드 쇼는 왜 단조롭게 한장씩 순서대로 넘어가기만 할까? 내가 강조하고 싶은 부분을 카메라 줌 인 하거나 줌 아웃 및 미끄러지듯이 다른 슬라이드로 이동하며 집중도를 높일 수 없을까를 고민하며 만들어 보았습니다. Prezi 같은 줌 방식 발표를 쉽게 브라우저 기반과 오픈소스로 쓰고 싶어서 시작했습니다....",
+          "keywords": [
+            "Show",
+            "GN:",
+            "CanvaSlide",
+            "무한",
+            "캔버스에서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "MongoDB와 PostgreSQL은 무엇이 다를까?",
+          "link": "https://news.hada.io/topic?id=34219",
+          "pubDate": "2026-09-24T08:20:55.000Z",
+          "image": null,
+          "summary": "동일한 진료 데이터를 Montwo databases by configuring identical medical data as MongoDB documents and PostgreSQL relational tables MongoDB는 유연하고 중첩된 데이터를 함께 다룰 때 어떤 차이가 있는지 보여줍니다. 어느 쪽이 무조건 더 빠르거나 좋은지를 정하기보다, 애플리케이션이 데이터를 읽고",
+          "keywords": [
+            "MongoDB와",
+            "PostgreSQL은",
+            "무엇이",
+            "다를까"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Scientific Linux를 포기한 것은 실수였다",
           "link": "https://news.hada.io/topic?id=34218",
@@ -393,60 +443,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
-          "link": "https://news.hada.io/topic?id=34213",
-          "pubDate": "2026-09-24T05:34:37.000Z",
-          "image": null,
-          "summary": "Trump 행정부가 AI와 데이터센터 반대 여론을 중국의 영향력 행사와 연결하는 가운데, 법무부는 외국 세력의 목표를 돕는 공개 활동에 정부 신고 의무와 형사책임이 따를 수 있다고 경고함 의회 공화당 지도부도 데이터센터 반대 활동에 대한 외국 개입 조사를 요구...",
-          "keywords": [
-            "연방정부",
-            "AI",
-            "비판자들을",
-            "외국",
-            "대리인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "VSCode의 SSH 에이전트는 제정신이 아니다 (2025)",
-          "link": "https://news.hada.io/topic?id=34212",
-          "pubDate": "2026-09-24T04:32:51.000Z",
-          "image": null,
-          "summary": "VSCode의 SSH 원격 편집은 원격 환경의 기존 명령만 활용하는 대신, Bash 코드로 Node 바이너리를 포함한 에이전트를 내려받아 실행함 원격 에이전트는 SSH 포트 포워딩을 거쳐 로컬 VSCode 프런트엔드와 WebSocket으로 연결되며, 파일 탐색과 임...",
-          "keywords": [
-            "VSCode의",
-            "SSH",
-            "에이전트는",
-            "제정신이",
-            "아니다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Snapdragon X2 Series에 Linux 지원이 도입될 예정",
-          "link": "https://news.hada.io/topic?id=34210",
-          "pubDate": "2026-09-24T02:33:10.000Z",
-          "image": null,
-          "summary": "Qualcomm이 Snapdragon X2 Series의 Linux 지원을 추진하며, Windows와 Googlebook에 이어 개발자와 기기 제조사가 활용할 운영체제 선택지를 넓힘 Hexagon NPU와 Adreno GPU를 포함한 핵심 드라이버를 Linux 업스트림에 반영하고 있음 Debian은 ...",
-          "keywords": [
-            "Snapdragon",
-            "X2",
-            "Series에",
-            "Linux",
-            "지원이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:15.932Z",
+      "fetchedAt": "2026-09-24T10:10:09.547Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +534,7 @@
           "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:16.052Z",
+      "fetchedAt": "2026-09-24T10:10:09.652Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:16.120Z",
+      "fetchedAt": "2026-09-24T10:10:09.790Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:16.167Z",
+      "fetchedAt": "2026-09-24T10:10:09.873Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -698,6 +697,78 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "에스트래픽, LA 지하철 18개역 요금시스템 맡는다…100억원 유지보수 계약",
+          "link": "https://www.venturesquare.net/1116039/",
+          "pubDate": "2026-09-24T09:35:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/STRA-696x522.jpg",
+          "summary": "에스트래픽의 미국 법인 에스트래픽 아메리카가 LA 메트로와 약 740만달러, 한화 약 100억원 규모의 AFC 시스템 유지보수 및 추가 계약을 체결했다. 계약 대상은 에스트래픽 아메리카가 AFC 시스템을 구축한 26개 역사 가운데 18곳으로 시스템 운영과 유지보수를 담... The post 에스트래픽, LA 지하철 18개역 요금시스템 맡는다…100억원 유지보수 계약 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AFC",
+            "LACMTA",
+            "LA메트로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "노타, 로봇 AI 판단 7배 빨라졌다…NPU·GPU 맞춤 최적화로 작업속도 3배",
+          "link": "https://www.venturesquare.net/1116031/",
+          "pubDate": "2026-09-24T09:29:36.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/NOTA-2-696x522.png",
+          "summary": "노타가 ‘휴머노이드 서밋 서울 2026’에서 퀄컴 NPU와 엔비디아 GPU 환경을 대상으로 로봇 AI 모델 7종을 최적화한 결과를 공개했다. GR00T N1.7은 추론 시간이 1602ms에서 228ms로 줄어 약 7배 빨라졌고 실제 로봇팔 작업 속도는 3배 향상됐다. ... The post 노타, 로봇 AI 판단 7배 빨라졌다…NPU·GPU 맞춤 최적화로 작업속도 3배 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI최적화",
+            "GPU",
+            "GR00T"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "메타, AI가 안경 속으로 들어왔다…‘뮤즈’ 탑재하고 연내 100개 글래스 옵션",
+          "link": "https://www.venturesquare.net/1116003/",
+          "pubDate": "2026-09-24T09:01:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/META-2-789x444.jpg",
+          "summary": "메타가 메타 커넥트 2026에서 개인용 AI 에이전트 ‘뮤즈’를 AI 글래스로 확대하고 새로운 글래스 제품군을 공개했다. 43g의 레이밴 메타 오디오부터 차세대 레이밴 메타 젠3, 메타 글래스와 약 100g의 메타 VR 글래스까지 사용 목적에 따라 제품군을 세분화했다.... The post 메타, AI가 안경 속으로 들어왔다…‘뮤즈’ 탑재하고 연내 100개 글래스 옵션 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI글래스",
+            "AI에이전트",
+            "LISA"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "인핸스·GS칼텍스, 83만대 설비에 숙련자 노하우 연결…‘제조 암묵지 AI’ 개발",
+          "link": "https://www.venturesquare.net/1115974/",
+          "pubDate": "2026-09-23T11:19:53.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/2026-enhans-789x288.png",
+          "summary": "인핸스와 GS칼텍스가 숙련 엔지니어의 경험과 판단 기준을 AI가 활용할 수 있는 지식으로 구조화한다. GS칼텍스 설비 83만2996대와 비정형 문서 약 2900건을 정비 이력, 현장 엔지니어 인터뷰와 연결해 온톨로지를 구축한다. 이를 기반으로 설비 이상 원인 후보와 점... The post 인핸스·GS칼텍스, 83만대 설비에 숙련자 노하우 연결…‘제조 암묵지 AI’ 개발 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "GS칼텍스",
+            "Guide챗봇",
+            "디지털전환"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "케어닥, 시니어 돌봄 ‘보호’에서 일상으로…학교형 데이케어·AI·로봇 확산",
           "link": "https://www.venturesquare.net/1115971/",
@@ -715,82 +786,10 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "뤼튼, IPO 주관사 미래에셋·NH투자증권 선정…내년 예비심사 청구 목표",
-          "link": "https://www.venturesquare.net/1115953/",
-          "pubDate": "2026-09-23T08:44:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-51-743x522.png",
-          "summary": "뤼튼테크놀로지스가 IPO 대표주관사로 미래에셋증권, 공동주관사로 NH투자증권을 선정하고 상장 준비에 들어갔다. 회사는 내년 상장예비심사 청구를 목표로 주관사들과 구체적인 일정과 세부 사항을 협의한다. 뤼튼은 지난 8월 1000억원 규모의 시리즈C 투자를 유치했으며 누적... The post 뤼튼, IPO 주관사 미래에셋·NH투자증권 선정…내년 예비심사 청구 목표 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI서비스",
-            "AI스타트업",
-            "IPO"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "마케마케, 남미에 ‘수질 대응 뷰티’ 5만개 수출…30억원 프리A 유치",
-          "link": "https://www.venturesquare.net/1115942/",
-          "pubDate": "2026-09-23T08:26:09.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-2026-09-23T170331.598-789x493.jpg",
-          "summary": "워터 스트레스 솔루션 뷰티 브랜드 SOOO를 운영하는 마케마케가 30억원 규모의 프리A 투자를 유치했다. 시그나이트와 아모레퍼시픽, 이그나이트XL이 신규 투자자로 참여했으며 기존 투자사 블루포인트파트너스도 후속 투자했다. 마케마케는 수영장 잔류염소에서 출발한 수질 대응... The post 마케마케, 남미에 ‘수질 대응 뷰티’ 5만개 수출…30억원 프리A 유치 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "K뷰티",
-            "SOOO",
-            "글로벌진출"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아카마이코리아, AI 인프라 코어에서 엣지까지…“연산은 분산하고 보안은 겹겹이”",
-          "link": "https://www.venturesquare.net/1115807/",
-          "pubDate": "2026-09-22T12:15:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/01_2026-아카마이-미디어-간담회_이경준-대표-767x522.jpg",
-          "summary": "아카마이코리아가 AI 활용 확산에 대응해 코어 클라우드부터 리저널 클라우드, 엣지까지 연결하는 분산형 AI 인프라 전략을 공개했다. AI 에이전트와 API 증가로 확대되는 보안 위협에는 웹 애플리케이션 보안, API 모니터링, 마이크로세그멘테이션 등을 결합한 다층 방어... The post 아카마이코리아, AI 인프라 코어에서 엣지까지…“연산은 분산하고 보안은 겹겹이” appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "현장스케치",
-            "Ai",
-            "보안"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "라이너, AI로 정책연구 전 과정 실험한다…KAIST di-Lab과 ‘AI for Policy Research’ 협력",
-          "link": "https://www.venturesquare.net/1115896/",
-          "pubDate": "2026-09-22T07:08:29.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-43-783x522.jpeg",
-          "summary": "라이너가 KAIST 과학기술정책대학원 박경렬 교수의 di-Lab과 ‘AI for Policy Research’ 분야 연구 협력에 나선다. di-Lab 연구진은 학술 연구 AI 에이전트 ‘라이너 스콜라’를 자료 조사와 정책 분석, 논문 작성 등에 직접 활용하고 연구 생산... The post 라이너, AI로 정책연구 전 과정 실험한다…KAIST di-Lab과 ‘AI for Policy Research’ 협력 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AIforPolicyResearch",
-            "AI거버넌스",
-            "AI에이전트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T06:13:28.541Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-24T10:10:12.559Z",
+      "error": null
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -878,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:31.420Z",
+      "fetchedAt": "2026-09-24T10:10:13.246Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -973,7 +972,7 @@
           "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:31.461Z",
+      "fetchedAt": "2026-09-24T10:10:13.320Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -981,6 +980,78 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "충남콘텐츠진흥원·씨엔티테크, 대학생 창업팀 10곳 키운다…최종 5팀에 400만원",
+          "link": "https://www.venturesquare.net/1116022/",
+          "pubDate": "2026-09-24T09:19:01.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-2-789x427.jpg",
+          "summary": "충남콘텐츠진흥원 그린스타트업타운과 씨엔티테크가 충남 지역 대학생과 대학원생의 창업 아이디어를 발굴하는 ‘2026 충남 대학생 창업경진대회’를 개최한다. 재학생과 휴학생이 1~4인 팀으로 참여할 수 있으며 서류평가를 통과한 10개 팀은 창업 이론과 실습을 결합한 캠프에 ... The post 충남콘텐츠진흥원·씨엔티테크, 대학생 창업팀 10곳 키운다…최종 5팀에 400만원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "그린스타트업타운",
+            "대학생창업",
+            "사업계획서",
+            "스타트업",
+            "씨엔티테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "위제이, 공장 지붕 찍으면 태양광 규모 계산…AI로 해외 RE100까지 연결",
+          "link": "https://www.venturesquare.net/1116011/",
+          "pubDate": "2026-09-24T09:07:05.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Z-789x455.jpg",
+          "summary": "위제이가 중소벤처기업부 ‘2026년 창업성장기술개발사업 디딤돌 도약(글로벌 R&D)’에 선정돼 정부지원금 2억원을 확보했다. 위제이는 위성지도로 공장 지붕과 유휴 부지를 분석해 온사이트 태양광 설치 규모를 검토하고 부족한 전력은 PPA와 연결하는 AI 기반 플랫폼 ‘z... The post 위제이, 공장 지붕 찍으면 태양광 규모 계산…AI로 해외 RE100까지 연결 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "PPA",
+            "RE100",
+            "zurigo",
+            "경기창조경제혁신센터",
+            "글로벌R&D"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[안변의 스타트업 법률 노트] 계약서에 사인했다고 끝이 아니다…캐시워크애즈·엔비티 최대주주 분쟁이 남긴 것",
+          "link": "https://www.venturesquare.net/1115997/",
+          "pubDate": "2026-09-24T08:56:01.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/LEGAL-NOTE-789x422.png",
+          "summary": "캐시워크애즈와 엔비티 최대주주 사이의 주식매매계약 분쟁에서 법원이 캐시워크애즈의 주식인도청구를 1심에서 전부 인용했다. 이번 사건은 M&A에서 계약 체결뿐 아니라 대금 지급과 담보 해소, 주식 이전까지 이어지는 거래종결 절차가 중요하다는 점을 보여준다. 종결 실패의 책... The post [안변의 스타트업 법률 노트] 계약서에 사인했다고 끝이 아니다…캐시워크애즈·엔비티 최대주주 분쟁이 남긴 것 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "M&A",
+            "M&A계약",
+            "거래종결",
+            "경영권분쟁"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "이소영표 중기부 출범…코스포·벤처기업협회·이노비즈협회 축하 메시지 “규제혁신 기대”",
+          "link": "https://www.venturesquare.net/1115987/",
+          "pubDate": "2026-09-23T22:29:34.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1-27-783x522.jpg",
+          "summary": "이소영 중소벤처기업부 장관이 규제혁신과 AI 전환, 벤처투자 활성화, 소상공인 비용구조 개선을 주요 정책 방향으로 제시했다. 코리아스타트업포럼과 벤처기업협회, 이노비즈협회는 잇따라 축하 메시지를 내고 신산업 규제혁신과 코스닥 활성화, 제조 AX, 글로벌 스케일업 지원 ... The post 이소영표 중기부 출범…코스포·벤처기업협회·이노비즈협회 축하 메시지 “규제혁신 기대” appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI전환",
+            "규제혁신",
+            "벤처기업",
+            "벤처기업협회"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "KT&G 상상스타트업캠프, 사회문제 푸는 10개 스타트업 한자리에…1700명 만났다",
           "link": "https://www.venturesquare.net/1115945/",
@@ -998,81 +1069,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "코리아스타트업포럼, 컴업 2026에 AI 매칭 도입…투자자·대기업 파트너 찾아준다",
-          "link": "https://www.venturesquare.net/1115882/",
-          "pubDate": "2026-09-22T06:38:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Global-Startup-Festival-COMEUP-2026-Opens-Pre-Registration-and-Business-Matching-522x522.png",
-          "summary": "코리아스타트업포럼이 ‘컴업 2026’의 사전등록과 비즈니스 매칭 신청을 시작했다. 올해는 참가자가 등록한 프로필을 AI로 분석해 비즈니스 적합도가 높은 상대를 추천하고 직접 미팅을 신청할 수 있는 자율 매칭을 도입한다. 한국벤처캐피탈협회와 벤처기업협회가 각각 투자유치와... The post 코리아스타트업포럼, 컴업 2026에 AI 매칭 도입…투자자·대기업 파트너 찾아준다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI매칭",
-            "COMEUP2026",
-            "글로벌스타트업",
-            "벤처기업협회",
-            "벤처투자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경기혁신센터, 기후테크·AI 스타트업 투자자 앞에 세웠다…39회 스타트업 815 IR",
-          "link": "https://www.venturesquare.net/1115843/",
-          "pubDate": "2026-09-22T05:50:12.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/815-IR-SEED-271x522.png",
-          "summary": "경기창조경제혁신센터가 판교 창업존에서 ‘제39회 스타트업 815 IR-NEXT’를 열고 기술 스타트업과 투자기관을 연결했다. 기후테크 분야에서는 리베이션과 에코마린, KB유니콘클럽에서는 엑시스트와 두들, 엑스파이가 IR에 참여했다. 기업들은 친환경 소재와 AI 자동화,... The post 경기혁신센터, 기후테크·AI 스타트업 투자자 앞에 세웠다…39회 스타트업 815 IR appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI스타트업",
-            "IRNEXT",
-            "경기창조경제혁신센터",
-            "경기혁신센터",
-            "기후테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경북창조경제혁신센터, 35세 이상 로컬 창업가 63개사 키웠다…‘로컬 체인지업’ 국무총리 표창",
-          "link": "https://www.venturesquare.net/1115840/",
-          "pubDate": "2026-09-22T05:45:35.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-33.png",
-          "summary": "경북창조경제혁신센터가 추진하는 ‘경북 로컬 체인지업’이 제22회 대한민국 지방자치경영대전 지역활력 제고 분야에서 국무총리 표창을 받았다. 프로그램은 35세 이상 창업자의 경험과 경북의 지역 자원을 연결해 현재까지 63개 로컬기업을 발굴·육성했다. 참여기업은 제품 개발과... The post 경북창조경제혁신센터, 35세 이상 로컬 창업가 63개사 키웠다…‘로컬 체인지업’ 국무총리 표창 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "경북로컬체인지업",
-            "경북창조경제혁신센터",
-            "경상북도",
-            "국무총리표창",
-            "로컬IP"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "부산창경, 송도서 4박 워케이션하면 숙박비 최대 30만원 지원",
-          "link": "https://www.venturesquare.net/1115832/",
-          "pubDate": "2026-09-22T05:39:44.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/busan-10-783x522.jpg",
-          "summary": "부산창조경제혁신센터가 운영하는 ‘휴앤워크 서구 워케이션’이 한국관광공사의 ‘2026 하반기 여행가는 달’ 캠페인과 연계해 숙박비 지원을 확대한다. 10월부터 11월까지 4박 이상 참여하면 1박당 6만원씩 최대 30만원을 지원받을 수 있다. 지원 대상은 부산 서구 외 지... The post 부산창경, 송도서 4박 워케이션하면 숙박비 최대 30만원 지원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "로컬관광",
-            "부산서구",
-            "부산여행",
-            "부산워케이션",
-            "부산창경"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:43.566Z",
+      "fetchedAt": "2026-09-24T10:10:14.836Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1098,11 +1097,11 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - kbiznews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
           "pubDate": "2026-09-21T02:14:24.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 kbiznews.co.kr",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1115,11 +1114,11 @@
           "summaryKo": null
         },
         {
-          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - kado.net",
+          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
           "pubDate": "2026-09-23T00:17:02.000Z",
           "image": null,
-          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 kado.net",
+          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 강원도민일보",
           "keywords": [
             "동해시",
             "슬레이트",
@@ -1166,78 +1165,78 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T08:11:44.028Z",
+      "fetchedAt": "2026-09-24T10:10:15.185Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "ai",
       "label": "AI",
-      "count": 4,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "ai스타트업",
-      "label": "AI스타트업",
       "count": 2,
       "rank": 2,
-      "change": "same"
+      "change": "down"
     },
     {
-      "key": "ipo",
-      "label": "IPO",
+      "key": "사업계획서",
+      "label": "사업계획서",
       "count": 2,
       "rank": 3,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
+      "change": "same"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 5,
+      "rank": 5,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
       "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 4,
-      "rank": 9,
-      "change": "up"
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
