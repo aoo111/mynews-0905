@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T02:10:36.104Z",
+  "collectedAt": "2026-09-24T04:10:41.550Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:25.580Z",
+      "fetchedAt": "2026-09-24T04:10:33.392Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,14 +180,82 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T00:13:30.236Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-09-24T04:10:33.573Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
+          "pubDate": "2026-09-24T12:53:52.000Z",
+          "image": null,
+          "summary": "허깅페이스를 뚫었던 오픈AI의 에이전트가 민간 기업을 넘어 국가 정부 시스템 내부망을 무단 침입한 사실이 최초로 드러났다. 이에 따라 세계 각국 공공 인프라의 보안 재점검과 통제 불능 AI에 대한 국제적 규제 논의로 파장이 확대될 전망이다.앤서니 앨버니지 호주 총리는 24일(현지시간) 뉴욕 유엔총회 현장 기자회견에서 오픈AI의 에이전트가 호주 정부의 의료 통계 보고 서비스(Medicare Statistics Reporting Service) 시스템을 비롯해 공공 기관 웹사이트 여러 곳에 무단 침입하는 사건이 발생했다고 공식 발표했다",
+          "keywords": [
+            "오픈AI",
+            "에이전트",
+            "정부",
+            "뚫었다",
+            "호주"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215637",
+          "pubDate": "2026-09-24T12:06:33.000Z",
+          "image": null,
+          "summary": "마이크로소프트(MS)가 AI 에이전트와 코딩 도구를 통합한 ‘슈퍼 앱’ 출시를 앞두고 코파일럿의 대규모 구독료 할인 정책을 펼치는 등 비즈니스 모델 재편에 본격적으로 나섰다.22일(현지시간) 디 인포메이션에 따르면, MS는 최근 영업 임직원들에게 기업 고객이 대량 라이선스를 구매하고 특정 기능 사용량에 따라 추가 결제를 약정할 경우 코파일럿 구독료를 30%에서 최대 50%까지 할인하도록 지침을 내렸다. 기존에는 2000개 이상 라이선스를 구매하는 기업에 10% 수준의 할인만 제공해 왔으나, 1000개 이상 구매 시 30%, 1만개",
+          "keywords": [
+            "MS",
+            "코파일럿",
+            "슈퍼",
+            "전환",
+            "맞춰"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈서베이, '합성 소비자'로 데이터 장벽 허문다...\"AI 시대의 리서치\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215544",
+          "pubDate": "2026-09-24T11:20:00.000Z",
+          "image": null,
+          "summary": "“모든 비즈니스와 의사결정에는 유의미한 데이터가 필요합니다. 하지만 기존 시장 조사는 비싼 비용과 긴 시간, 엄격한 개인정보 규제 때문에 실무자가 원하는 데이터에 즉시 접근하기 어려웠습니다. 오픈서베이는 AI 기술로 이러한 데이터 장벽을 낮추고, 누구나 손쉽게 데이터에 접근할 수 있도록 돕고 있습니다.”이건노 오픈서베이 최고 기술책임자(CTO)는 최근 선보인 '합성 소비자' 솔루션을 설명하며 이같이 강조했다.그는 “내가 생각한 아이디어가 시장에서 호응을 얻을지, 어떤 사람이 무슨 음식을 좋아할지는 실제 소비자에게 물어볼 때 가장 직",
+          "keywords": [
+            "오픈서베이",
+            "합성",
+            "소비자",
+            "데이터",
+            "장벽"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215633",
+          "pubDate": "2026-09-24T11:13:53.000Z",
+          "image": null,
+          "summary": "앤트로픽이 '클로드'를 활용해 유전자 편집 기술인 'CRISPR(크리스퍼)'와 유사한 특성을 지닌 새로운 효소 시스템을 발견하는 데 성공했다. 최근 자체 생물학 연구소를 조용히 설립한 데 이어 글로벌 의료 AI 보급 파트너십 구축, 바이오 안보 스타트업 투자까지 이어가며 바이오·제약 분야로 빠르게 영토를 확장하고 있다.다리오 아모데이 앤트로픽 CEO는 23일(현지시간) X를 통해 클로드와 사내 생명과학 연구팀이 대규모 DNA 데이터베이스를 분석한 끝에 새로운 효소 시스템을 발견했다고 밝혔다.'어레이 관련 역전사효소(ART)'로 명명",
+          "keywords": [
+            "앤트로픽",
+            "유전자",
+            "편집",
+            "효소",
+            "시스템"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215632",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "구글, '제미나이 4 프로'  테스트 착수 포착…\"UI·웹 디자인 성능 도약\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215631",
-          "pubDate": "2026-09-24T09:42:12.000Z",
-          "image": null,
-          "summary": "구글이 내부 코드명 '아르곤(Argon)'으로 불리는 '제미나이 4 프로'의 초기 체크포인트 테스트를 진행 중인 정황이 포착됐다. 최근 유출된 테스트 결과물들은 프런트엔드 코드나 UI 웹 디자인을 생성할 때 정형화되고 독창성이 부족하다는 평을 받아온 기존 제미나이의 한계를 넘었다는 평을 받으며 기대감을 키우고 있다.제미나이 4 프로의 테스트 소식은 지난 주 유출 전문 계정인 렌틸스(Lentils80)이 X를 통해 처음 전해졌다. 구글이 최근 벤치마크 플랫폼 등에 '제미나이 3.8 플래시' 등의 이름으로 위장한 아르곤 체크포인트를 노",
-          "keywords": [
-            "구글",
-            "제미나이",
-            "프로",
-            "테스트",
-            "착수"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"전력망 없어도 작동\"...태양광·배터리 결합한 에어로포닉 재배장치 등장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215591",
-          "pubDate": "2026-09-24T09:20:00.000Z",
-          "image": null,
-          "summary": "멕시코 연구진이 전력망 연결 없이 태양광과 배터리만으로 구동할 수 있는 소형 수직형 에어로포닉 재배시스템을 개발했다. 50와트(W) 태양광 모듈을 활용해 55일간 바질을 재배한 결과 시스템이 중단 없이 작동했으며 두 차례 수확도 이뤄졌다.멕시코 북서생물연구센터(CIBNOR) 연구진은 태양광 기반 수직형 에어로포닉 시스템 ‘토템(TOTEM)’을 개발하고 관련 연구결과를 국제학술지 ‘하드웨어엑스(HardwareX)’에 지난 5일(현지시간) 온라인에 공개했다.에어로포닉은 흙을 사용하지 않고 식물의 뿌리를 공중에 노출한 상태에서 영양액을",
-          "keywords": [
-            "전력망",
-            "없어도",
-            "작동",
-            "태양광",
-            "배터리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "우주로 간 중국 태양광…제이에이솔라, 저궤도서 P-HJT 성능 검증",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215590",
-          "pubDate": "2026-09-24T09:10:00.000Z",
-          "image": null,
-          "summary": "중국 태양광 업체 제이에이솔라(JA Solar)가 자체 개발한 P형 이종접합(P-HJT) 태양광 모듈을 우주로 보내 실제 저궤도 환경에서 성능 검증에 들어갔다. 강한 방사선과 고에너지 입자, 반복적인 온도 변화에 노출한 뒤 지상 시험 결과와 비교해 장기간의 신뢰성과 출력 저하 정도를 확인한다.제이에이솔라는 지난 17일(현지시간) 중국 주취안위성발사센터에서 발사된 콰이저우 11호 로켓에 자체 개발·패키징한 P-HJT 제품이 실증용 탑재체로 실려 예정 궤도에 진입했다고 밝혔다. 이번 P-HJT 모듈은 위성의 주전원이 아니라 궤도 실증을",
-          "keywords": [
-            "우주로",
-            "중국",
-            "태양광",
-            "제이에이솔라",
-            "저궤도서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "독일, 태양광 지원체계 개편 추진…업계 보급 둔화 우려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215588",
-          "pubDate": "2026-09-24T09:10:00.000Z",
-          "image": null,
-          "summary": "독일이 내년부터 소형 지붕형 태양광의 기존 고정가격 매입을 단계적으로 종료하고 직접 전력판매를 확대하는 방향으로 재생에너지 지원체계 개편을 추진한다. 100킬로와트(kW) 미만 일부 태양광에는 전력망으로 내보낼 수 있는 출력을 설비용량의 50%로 제한하는 방안도 포함됐다. 태양광 업계는 제도가 원안대로 시행될 경우 신규 투자와 설치 수요가 위축될 수 있다고 우려하고 있다.독일 연방정부가 제출한 ‘재생에너지법 개정안(EEG 2027)’은 오는 24일(현지시간) 연방의회에서 첫 심의를 받을 예정이다. 정부는 2030년 전체 전력소비의",
-          "keywords": [
-            "독일",
-            "태양광",
-            "지원체계",
-            "개편",
-            "추진"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:26.679Z",
+      "fetchedAt": "2026-09-24T04:10:34.685Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:26.825Z",
+      "fetchedAt": "2026-09-24T04:10:34.867Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Snapdragon X2 Series에 Linux 지원이 도입될 예정",
+          "link": "https://news.hada.io/topic?id=34210",
+          "pubDate": "2026-09-24T02:33:10.000Z",
+          "image": null,
+          "summary": "Qualcomm이 Snapdragon X2 Series의 Linux 지원을 추진하며, Windows와 Googlebook에 이어 개발자와 기기 제조사가 활용할 운영체제 선택지를 넓힘 Hexagon NPU와 Adreno GPU를 포함한 핵심 드라이버를 Linux 업스트림에 반영하고 있음 Debian은 ...",
+          "keywords": [
+            "Snapdragon",
+            "X2",
+            "Series에",
+            "Linux",
+            "지원이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Meta VR 안경",
           "link": "https://news.hada.io/topic?id=34208",
@@ -423,26 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: Modeleaf - 키보드 중심의 가벼운 macOS 읽기 전용 PDF 뷰어",
-          "link": "https://news.hada.io/topic?id=34203",
-          "pubDate": "2026-09-24T00:22:48.000Z",
-          "image": null,
-          "summary": "키보드 위주로 PDF를 가볍게 읽고 싶어 개인적인 필요로 만든 macOS용 읽기 전용 PDF 뷰어 Modeleaf입니다. Vim 스타일 단축키로 조작할 수 있고, Vimium 스타일의 링크 힌트로 PDF의 내부 링크와 외부 URL에도 키보드만으로 접근할 수 있습니다. 논문을 읽을 때 본문과 참고문헌을 오가는 부담을 줄이기 위해",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Modeleaf",
-            "키보드",
-            "중심의"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:29.199Z",
+      "fetchedAt": "2026-09-24T04:10:35.514Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -531,7 +531,7 @@
           "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:31.105Z",
+      "fetchedAt": "2026-09-24T04:10:35.717Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:31.317Z",
+      "fetchedAt": "2026-09-24T04:10:35.875Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:31.425Z",
+      "fetchedAt": "2026-09-24T04:10:35.964Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -785,7 +785,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:33.912Z",
+      "fetchedAt": "2026-09-24T04:10:38.935Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -874,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:34.118Z",
+      "fetchedAt": "2026-09-24T04:10:39.219Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +969,7 @@
           "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:34.167Z",
+      "fetchedAt": "2026-09-24T04:10:39.276Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:35.647Z",
+      "fetchedAt": "2026-09-24T04:10:40.967Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1128,23 +1128,6 @@
           "summaryKo": null
         },
         {
-          "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
-          "pubDate": "2026-09-23T04:22:22.000Z",
-          "image": null,
-          "summary": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 서울경제",
-          "keywords": [
-            "경북",
-            "청년애꿈",
-            "지원사업",
-            "연중",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
           "pubDate": "2026-09-23T06:46:16.000Z",
@@ -1160,9 +1143,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
+          "pubDate": "2026-07-23T07:00:00.000Z",
+          "image": null,
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "keywords": [
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T02:10:36.096Z",
+      "fetchedAt": "2026-09-24T04:10:41.544Z",
       "error": null
     }
   },
@@ -1193,49 +1193,49 @@
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 4,
       "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
