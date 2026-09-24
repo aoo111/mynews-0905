@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T04:10:41.550Z",
+  "collectedAt": "2026-09-24T06:13:30.673Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:33.392Z",
+      "fetchedAt": "2026-09-24T06:13:23.527Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:33.573Z",
+      "fetchedAt": "2026-09-24T06:13:23.578Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
+          "pubDate": "2026-09-24T14:13:03.000Z",
+          "image": null,
+          "summary": "메타가 연례 행사 '커넥트 2026'에서 개인용 AI 에이전트 '뮤즈(Muse)'의 지원 범위를 AI 안경으로 확대하고, 새로운 안경 제품군을 공개했다.23일(현지시간) 캘리포니아 멘로파크의 본사에서 열린 행사를 통해 공개된 뮤즈 탑재 AI 안경은 스마트폰을 확인하지 않고도 스포츠 경기 결과나 주변 맛집 등의 정보를 확인하고 실시간 대화 번역을 이용할 수 있도록 지원한다.사용자의 목표와 일정을 바탕으로 한 개인화 기능도 제공할 예정이다. 뮤즈의 국내 출시 일정은 미정이다.여기에 카메라를 제외한 첫 오디오 전용 안경부터 다양한 스타일",
+          "keywords": [
+            "메타",
+            "뮤즈",
+            "탑재한",
+            "AI",
+            "안경"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215639",
+          "pubDate": "2026-09-24T13:58:49.000Z",
+          "image": null,
+          "summary": "알리바바가 고비용 구조에 머물러 있던 글로벌 오디오 API 시장의 판도를 흔들고, 중국 내 B2B 음성 에이전트 주도권을 확보하기 위한 본격적인 가격 경쟁에 나섰다. 오픈AI와 바이트댄스 등에 맞서 파격적인 단가 인하로 개발자 생태계를 조준하겠다는 전략이다.알리바바는 23일(현지시간) 음성인식(ASR)과 음성합성(TTS), 실시간 대화 기능을 강화하고 오디오 이해 및 디퓨전 기반 생성 모델을 새롭게 추가한 ‘큐원-오디오-3.1(Qwen-Audio-3.1)’ 시리즈 5종을 공개했다.이번 모델을 AI 안경과 데스크톱 로봇 '에바', 오",
+          "keywords": [
+            "알리바바",
+            "큐원",
+            "오디오",
+            "공개",
+            "최대"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215633",
-          "pubDate": "2026-09-24T11:13:53.000Z",
-          "image": null,
-          "summary": "앤트로픽이 '클로드'를 활용해 유전자 편집 기술인 'CRISPR(크리스퍼)'와 유사한 특성을 지닌 새로운 효소 시스템을 발견하는 데 성공했다. 최근 자체 생물학 연구소를 조용히 설립한 데 이어 글로벌 의료 AI 보급 파트너십 구축, 바이오 안보 스타트업 투자까지 이어가며 바이오·제약 분야로 빠르게 영토를 확장하고 있다.다리오 아모데이 앤트로픽 CEO는 23일(현지시간) X를 통해 클로드와 사내 생명과학 연구팀이 대규모 DNA 데이터베이스를 분석한 끝에 새로운 효소 시스템을 발견했다고 밝혔다.'어레이 관련 역전사효소(ART)'로 명명",
-          "keywords": [
-            "앤트로픽",
-            "유전자",
-            "편집",
-            "효소",
-            "시스템"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215632",
-          "pubDate": "2026-09-24T10:31:57.000Z",
-          "image": null,
-          "summary": "메타가 선보인 개인 맞춤형 에이전트 '뮤즈(Muse)'가 폭발적인 인기를 끌며 금융시장 전체를 흔들어놓고 있다.지난 8일(현지시간) 첫선을 보인 뮤즈는 출시 2주 만인 23일 미국과 캐나다의 애플 앱스토어와 구글 플레이스토어에서 무료 앱 다운로드 1위를 기록했다. 센서타워에 따르면 출시 후 280만건의 다운로드를 올렸고, 첫 10일간 일일 평균 다운로드 증가율은 55%에 달했다. 기존 AI 시장의 선두 주자였던 '챗GPT'를 넘어서는 기록이다.흥행에 힘입어 메타 주가는 주간 기준 약 13% 급등했다. 트루이스트 증권은 뮤즈가 203",
-          "keywords": [
-            "메타",
-            "뮤즈",
-            "돌풍에",
-            "증시",
-            "흔들"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:34.685Z",
+      "fetchedAt": "2026-09-24T06:13:24.704Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:34.867Z",
+      "fetchedAt": "2026-09-24T06:13:24.830Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
+          "link": "https://news.hada.io/topic?id=34213",
+          "pubDate": "2026-09-24T05:34:37.000Z",
+          "image": null,
+          "summary": "Trump 행정부가 AI와 데이터센터 반대 여론을 중국의 영향력 행사와 연결하는 가운데, 법무부는 외국 세력의 목표를 돕는 공개 활동에 정부 신고 의무와 형사책임이 따를 수 있다고 경고함 의회 공화당 지도부도 데이터센터 반대 활동에 대한 외국 개입 조사를 요구...",
+          "keywords": [
+            "연방정부",
+            "AI",
+            "비판자들을",
+            "외국",
+            "대리인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "VSCode의 SSH 에이전트는 제정신이 아니다 (2025)",
+          "link": "https://news.hada.io/topic?id=34212",
+          "pubDate": "2026-09-24T04:32:51.000Z",
+          "image": null,
+          "summary": "VSCode의 SSH 원격 편집은 원격 환경의 기존 명령만 활용하는 대신, Bash 코드로 Node 바이너리를 포함한 에이전트를 내려받아 실행함 원격 에이전트는 SSH 포트 포워딩을 거쳐 로컬 VSCode 프런트엔드와 WebSocket으로 연결되며, 파일 탐색과 임...",
+          "keywords": [
+            "VSCode의",
+            "SSH",
+            "에이전트는",
+            "제정신이",
+            "아니다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Snapdragon X2 Series에 Linux 지원이 도입될 예정",
           "link": "https://news.hada.io/topic?id=34210",
@@ -406,43 +440,9 @@
           "isForeign": true,
           "titleKo": "Z80 REPL (2018)",
           "summaryKo": "Z80 REPL (2018)"
-        },
-        {
-          "title": "Claude는 측정할 수 있는 것을 더 빠르게 만들 수 있다",
-          "link": "https://news.hada.io/topic?id=34206",
-          "pubDate": "2026-09-24T00:36:55.000Z",
-          "image": null,
-          "summary": "claude.ai와 Claude 데스크톱 앱의 핵심 사용자 경험을 2주 만에 약 3배 빠르게 개선함. 사용자 활동의 95%를 차지하는 네 가지 이용 흐름에 집중했으며, 매일 수만 시간의 대기 시간을 줄인 것으로 추산함 Claude Tag가 병목 탐색, 벤치마크 구축, 최적화 구현, 배...",
-          "keywords": [
-            "Claude는",
-            "측정할",
-            "있는",
-            "것을",
-            "빠르게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Tunnet - 관리 서버까지 직접 운영하는 오픈소스 Tailscale 대안",
-          "link": "https://news.hada.io/topic?id=34204",
-          "pubDate": "2026-09-24T00:30:02.000Z",
-          "image": null,
-          "summary": "Tailscale처럼 여러 컴퓨터를 하나의 암호화된 사설망으로 연결하고, SSH 접속과 내부 서비스 공유, 공개 터널, 파일 전송을 같은 계정과 접근 정책으로 관리 장치에 설치하는 에이전트뿐 아니라 관리 서버, 대시보드와 릴레이까지 공개해, 외부 업체의 제어 서버에...",
-          "keywords": [
-            "Tunnet",
-            "관리",
-            "서버까지",
-            "직접",
-            "운영하는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:35.514Z",
+      "fetchedAt": "2026-09-24T06:13:25.610Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -531,7 +531,7 @@
           "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:35.717Z",
+      "fetchedAt": "2026-09-24T06:13:25.726Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -605,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:35.875Z",
+      "fetchedAt": "2026-09-24T06:13:25.890Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -686,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:35.964Z",
+      "fetchedAt": "2026-09-24T06:13:25.972Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -785,7 +785,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:38.935Z",
+      "fetchedAt": "2026-09-24T06:13:28.541Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -874,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:39.219Z",
+      "fetchedAt": "2026-09-24T06:13:28.860Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +969,7 @@
           "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:39.276Z",
+      "fetchedAt": "2026-09-24T06:13:28.903Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1068,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:40.967Z",
+      "fetchedAt": "2026-09-24T06:13:30.277Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,23 +1094,6 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wblgwbUpZQkM2akIwbnBjYUxwSC1WdUlVVGVzOUZXUlJpQ2Iyb1RtNnFaWWJmVUplSXFPZUg4b29acFItNGFyT2Zwa1NVcmplYXNyQ1k5TnlBVzVMRHJiR1Y5V1kyQk9qeTlpc0NR0gFwQVVfeXFMTnBNTXdTN29Mb3pTUWtRUXBjZ3JzX3lmTThoUVE1OHh5RXBuWFBUXy01T2pXM1J1LVRjX2tXYmltd1JNM2ZFM1p6dUJTcUlkRHRRYmlQQjdzWkhTMkh3dGFfR3NnUEtST0xyZUVnamhnSw?oc=5",
-          "pubDate": "2026-09-21T02:14:24.000Z",
-          "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
-          "keywords": [
-            "중기부",
-            "공공데이터",
-            "활용",
-            "지원사업",
-            "참여할"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
           "pubDate": "2026-09-23T00:17:02.000Z",
@@ -1122,23 +1105,6 @@
             "철거",
             "지원사업",
             "대상자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
-          "pubDate": "2026-09-23T06:46:16.000Z",
-          "image": null,
-          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
-          "keywords": [
-            "여주시",
-            "3차",
-            "전기자동차",
-            "구매",
-            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1160,17 +1126,51 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
+          "pubDate": "2026-09-16T11:11:00.000Z",
+          "image": null,
+          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "keywords": [
+            "2016년",
+            "지역",
+            "평생교육",
+            "활성화",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 - 느린인뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ1VETlppdXd0V091MWtBMzZPUkxMTUVsTDRBZkg2c2luUUpMUG9LWGR6RlRGcm5QUGFTQUJmc0liTVRpVDRHZEx1XzJveUhmTzFRLVhVVXJsRlN3V2VhNGtDTDVRUkVkTjdRY1c1R3c2UQ?oc=5",
+          "pubDate": "2026-09-18T06:23:20.000Z",
+          "image": null,
+          "summary": "[경기 ~9/29(화)] 성남시 청년 지원사업 '사회연습실' 모집 느린인뉴스",
+          "keywords": [
+            "경기",
+            "~9/29(화)",
+            "성남시",
+            "청년",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T04:10:41.544Z",
+      "fetchedAt": "2026-09-24T06:13:30.664Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
       "key": "ai",
-      "label": "Ai",
-      "count": 2,
+      "label": "AI",
+      "count": 4,
       "rank": 1,
       "change": "same"
     },
@@ -1189,53 +1189,53 @@
       "change": "same"
     },
     {
+      "key": "안경",
+      "label": "안경",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 8,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 4,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
