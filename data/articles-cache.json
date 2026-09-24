@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T10:10:15.195Z",
+  "collectedAt": "2026-09-24T12:13:12.189Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "카드 소비로 본 병원 이용…내과 최다·성형외과 급증",
+          "link": "https://www.mk.co.kr/news/economy/12161000",
+          "pubDate": "2026-09-24T10:45:03.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/24/news-p.v1.20260923.f8d833cd4146469487ad8c8e74f8d0c1_R.png",
+          "summary": "의료비 지출 2년 새 16.9% 늘어 성형외과 방문은 22.4% 증가 저출생 여파에 소아청소년과는 25% 감소 수도권 대형병원 이용객 절반은 지방 거주자지난해 국내 소비자들의 병원..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "서울 집값 85주째 올랐다…文정부 때 세운 ‘최장 기록’ 따라잡아",
           "link": "https://www.mk.co.kr/news/economy/12160908",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "갭투자 꿈도 못꿨는데 … 토허제 지역인데 가능하다고?",
-          "link": "https://www.mk.co.kr/news/economy/12159633",
-          "pubDate": "2026-09-23T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.20a4584b00cf49dcb342ba961b639d9a_R.jpg",
-          "summary": "실거주 유예 1년 연장의 파급 효과는지난 17일, 정부는 보도자료를 통해 토지거래허가구역 내 실거주 유예를 1년 더 연장한다고 밝혔다. 이를 통해 실거주 원칙은 유지하면서 임대 중..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:07.501Z",
+      "fetchedAt": "2026-09-24T12:13:00.686Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 와 연방공개시장위원회 (Federal Open Market Committee) 는 9월 15일부터 16일까지 열리는 FOMC 회의에서 경제 전망을 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:07.545Z",
+      "fetchedAt": "2026-09-24T12:13:00.823Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "유튜브, 생성 AI 전면 도입...\"말 한마디로 편집하고 맞춤 피드 구축\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+          "pubDate": "2026-09-24T20:41:06.000Z",
+          "image": null,
+          "summary": "세계 최대 동영상 플랫폼 유튜브에 크리에이터가 자연어로 동영상을 편집하고 시청자가 프롬프트로 자신만의 추천 알고리즘을 구축하는 등 AI 기능이 대대적으로 추가됐다.유튜브는 23일(현지시간) 연례행사 ‘메이드 온 유튜브’를 개최하고 생성 AI 기술을 편집, 알고리즘 피드, 스튜디오 분석, 쇼핑 등 서비스 전반에 통합한 신규 기능을 대거 공개했다.이번 발표 중 가장 눈길을 끄는 것은 크리에이터의 제작 부담을 혁신적으로 줄이는 대화형 AI 편집 도구다. 구글의 최신 멀티모달 모델인 '제미나이 옴니(Gemini Omni)'를 기반으로 구축",
+          "keywords": [
+            "유튜브",
+            "생성",
+            "AI",
+            "전면",
+            "도입"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+          "pubDate": "2026-09-24T19:54:31.000Z",
+          "image": null,
+          "summary": "앤트로픽이 최신 AI 모델의 성능을 끌어내기 위한 프롬프트 작성과 작업 관리 전략을 제시했다. 단순히 모델에 더 많이 생각하라고 요구하기보다 작업의 목표와 완료 조건을 명확히 제시하고, 장시간 작업에서는 진행 상황을 체계적으로 관리하는 것이 중요하다는 설명이다. 앤트로픽은 23일(현지시간) 최신 AI 모델인 '클로드 오퍼스 5.5(Opus 5.5)'를 더 효과적으로 활용할 수 있도록 프롬프트 작성법과 장시간 작업 관리, 결과 검토 방법 등을 담은 사용 가이드를 공개했다.오퍼스 5.5가 모든 답변에 앞서 스스로 사고하고 필요한 사고량",
+          "keywords": [
+            "앤트로픽",
+            "오퍼스",
+            "프롬프트",
+            "공개",
+            "불필요"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+          "pubDate": "2026-09-24T19:40:06.000Z",
+          "image": null,
+          "summary": "오픈AI가 '챗GPT'의 음성 모드에 에이전트 기능을 결합해 사용자가 말만으로 이메일·캘린더·슬랙 등 외부 서비스를 활용하고 복잡한 작업까지 수행할 수 있도록 기능을 확대했다. 이번 업데이트는 기존 고급 음성 모드에 웹 검색 및 액션 수행 에이전트와 외부 앱 플러그인 연동을 통합한 것이 핵심이다.오픈AI는 23일(현지시간) 최신 버전의 챗GPT 모바일 앱과 웹사이트에서 음성 모드에 플러그인 지원을 추가하고, '챗GPT 워크'에서도 음성으로 에이전트 기능을 사용할 수 있도록 했다고 발표했다.이에 따라 사용자는 문서, 프레젠테이션, 웹",
+          "keywords": [
+            "오픈AI",
+            "챗GPT",
+            "음성",
+            "에이전트",
+            "결합"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+          "pubDate": "2026-09-24T19:26:22.000Z",
+          "image": null,
+          "summary": "딥시크가 대규모 AI 에이전트 학습 과정에서 수많은 실행 환경을 효율적으로 관리하고 에이전트의 예기치 않은 돌발 행동을 차단하기 위한 전용 인프라 기술을 공개했다.량원펑 딥시크 창립자를 포함한 연구진은 19일 대규모 에이전트 학습을 위해 설계된 샌드박스 플랫폼 ‘딥시크 엘라스틱 컴퓨트(DSec·DeepSeek Elastic Compute)’를 온라인 아카이브를 통해 발표했다.이번 발표는 AI 경쟁이 단순 텍스트 생성에서 코드를 실행하고 작업을 수행하는 에이전트 영역으로 이동하는 가운데, 에이전트 ‘학습용 인프라’의 실제 아키텍처를",
+          "keywords": [
+            "딥시크",
+            "AI",
+            "에이전트",
+            "학습",
+            "비용"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "구글, '제미나이 3.8 플래시 TTS' 공개...'음성 디자인' 패러다임 연다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215636",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 우크라이나에 사이버 보안 '데이브레이크' 무료 지원...\"러시아 공격 대응\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215641",
-          "pubDate": "2026-09-24T18:21:57.000Z",
-          "image": null,
-          "summary": "러시아의 사이버 공격이 격화하는 가운데 오픈AI가 우크라이나 정부에 AI 기반 사이버 방어 시스템 '데이브레이크(Daybreak)'를 무료로 제공한다. 이번 지원은 디지털 혁신부와 직접 협력해 병원, 발전소 등 민간 핵심 인프라를 디지털 위협으로부터 보호하는 데 집중된다.23일(현지시간) BBC에 따르면 이번 협력은 유엔 총회 부대행사에서 공식 발표됐다. 행사에는 사샤 베이커 오픈AI 국가안보정책 총괄과 드미트로 쿠슈네루크 주샌프란시스코 총영사 등이 참석했으며, 양측은 민간 인프라를 타깃으로 한 러시아의 디지털 위협에 공동 대응하기",
-          "keywords": [
-            "오픈AI",
-            "우크라이나에",
-            "사이버",
-            "보안",
-            "데이브레이크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "블랙 포레스트, 경쟁 모델 절반 크기로 세계 최고 성능 낸 '로봇 AI' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215643",
-          "pubDate": "2026-09-24T17:46:25.000Z",
-          "image": null,
-          "summary": "이미지 생성으로 유명한 블랙 포레스트 랩스(BFL)가 로봇 분야로 영역을 확대했다. 경쟁 모델 절반 수준의 크기로 세계 최고 수준의 제어 성능을 달성한 로봇 AI를 공개하며 피지컬 AI 시장에 도전장을 던졌다.BFL은 22일(현지시간) 카메라 영상과 로봇의 현재 상태, 자연어 지시를 분석해 실제 물리적 행동으로 전환하는 70억 매개변수 규모의 오픈웨이트 로봇 모델 '플럭스 3 액션(FLUX 3 Action)'을 공개했다.공개 모델은 기본 모델인 '플럭스 3 액션-베이스(Base)'와 지시 이행 및 미세조정 능력을 강화한 '플럭스 3",
-          "keywords": [
-            "블랙",
-            "포레스트",
-            "경쟁",
-            "모델",
-            "절반"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
-          "pubDate": "2026-09-24T14:13:03.000Z",
-          "image": null,
-          "summary": "메타가 연례 행사 '커넥트 2026'에서 개인용 AI 에이전트 '뮤즈(Muse)'의 지원 범위를 AI 안경으로 확대하고, 새로운 안경 제품군을 공개했다.23일(현지시간) 캘리포니아 멘로파크의 본사에서 열린 행사를 통해 공개된 뮤즈 탑재 AI 안경은 스마트폰을 확인하지 않고도 스포츠 경기 결과나 주변 맛집 등의 정보를 확인하고 실시간 대화 번역을 이용할 수 있도록 지원한다.사용자의 목표와 일정을 바탕으로 한 개인화 기능도 제공할 예정이다. 뮤즈의 국내 출시 일정은 미정이다.여기에 카메라를 제외한 첫 오디오 전용 안경부터 다양한 스타일",
-          "keywords": [
-            "메타",
-            "뮤즈",
-            "탑재한",
-            "AI",
-            "안경"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215639",
-          "pubDate": "2026-09-24T13:58:49.000Z",
-          "image": null,
-          "summary": "알리바바가 고비용 구조에 머물러 있던 글로벌 오디오 API 시장의 판도를 흔들고, 중국 내 B2B 음성 에이전트 주도권을 확보하기 위한 본격적인 가격 경쟁에 나섰다. 오픈AI와 바이트댄스 등에 맞서 파격적인 단가 인하로 개발자 생태계를 조준하겠다는 전략이다.알리바바는 23일(현지시간) 음성인식(ASR)과 음성합성(TTS), 실시간 대화 기능을 강화하고 오디오 이해 및 디퓨전 기반 생성 모델을 새롭게 추가한 ‘큐원-오디오-3.1(Qwen-Audio-3.1)’ 시리즈 5종을 공개했다.이번 모델을 AI 안경과 데스크톱 로봇 '에바', 오",
-          "keywords": [
-            "알리바바",
-            "큐원",
-            "오디오",
-            "공개",
-            "최대"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:08.673Z",
+      "fetchedAt": "2026-09-24T12:13:02.257Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:08.801Z",
+      "fetchedAt": "2026-09-24T12:13:02.428Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,72 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "내 메시 네트워크는 암호화 대신 서명되길 바란다",
+          "link": "https://news.hada.io/topic?id=34225",
+          "pubDate": "2026-09-24T12:01:52.000Z",
+          "image": null,
+          "summary": "아마추어 무선 대역에서 메시 네트워크를 운용할 수 있도록, 메시지를 암호화하지 않고 평문에 서명하는 프로토콜을 제안함 Meshtastic과 Meshcore는 손쉽게 메시 네트워크를 구축하게 해주지만, 기본 암호화를 끄기 번거롭거나 불가능해 암호화 송신을 할 수 없는...",
+          "keywords": [
+            "메시",
+            "네트워크는",
+            "암호화",
+            "대신",
+            "서명되길"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
+          "link": "https://news.hada.io/topic?id=34224",
+          "pubDate": "2026-09-24T11:31:30.000Z",
+          "image": null,
+          "summary": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
+          "keywords": [
+            "메타",
+            "자사에서",
+            "촬영된",
+            "Meta",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈소스 데스크톱 현대화를 위한 아이디어",
+          "link": "https://news.hada.io/topic?id=34223",
+          "pubDate": "2026-09-24T11:03:57.000Z",
+          "image": null,
+          "summary": "Scott Jenson은 Akademy 2026에서 Linux 데스크톱이 Apple과 Microsoft를 뒤따르는 데서 벗어나, 자체적인 UX 실험과 개발을 주도해야 한다고 촉구함 개선의 핵심은 외형보다 작업 기억에 있음. 창과 클립보드로 데이터를 직접 옮기는 기존 데스크톱은 사용자가 모...",
+          "keywords": [
+            "오픈소스",
+            "데스크톱",
+            "현대화를",
+            "위한",
+            "아이디어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Tailscale을 더 빠르게 만들기",
+          "link": "https://news.hada.io/topic?id=34222",
+          "pubDate": "2026-09-24T10:33:58.000Z",
+          "image": null,
+          "summary": "Tailscale이 패킷 메모리 처리와 병렬 처리를 개선해 앱 커넥터, 서브넷 라우터, 출구 노드의 처리량을 높이고 지연을 줄이는 작업을 진행 중임 Linux와 Android에서는 작은 패킷을 별도 64 KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리해, 여러 네트워크 구성에서 약 5...",
+          "keywords": [
+            "Tailscale을",
+            "빠르게",
+            "만들기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "arXiv, 독립 비영리단체 전환을 위한 약 258억원 규모의 다년간 후원 약정 확보",
           "link": "https://news.hada.io/topic?id=34221",
@@ -376,76 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: CanvaSlide - 무한 캔버스에서 확대·이동으로 발표하는 오픈소스 프레젠테이션 앱",
-          "link": "https://news.hada.io/topic?id=34220",
-          "pubDate": "2026-09-24T09:26:43.000Z",
-          "image": null,
-          "summary": "슬라이드 쇼는 왜 단조롭게 한장씩 순서대로 넘어가기만 할까? 내가 강조하고 싶은 부분을 카메라 줌 인 하거나 줌 아웃 및 미끄러지듯이 다른 슬라이드로 이동하며 집중도를 높일 수 없을까를 고민하며 만들어 보았습니다. Prezi 같은 줌 방식 발표를 쉽게 브라우저 기반과 오픈소스로 쓰고 싶어서 시작했습니다....",
-          "keywords": [
-            "Show",
-            "GN:",
-            "CanvaSlide",
-            "무한",
-            "캔버스에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "MongoDB와 PostgreSQL은 무엇이 다를까?",
-          "link": "https://news.hada.io/topic?id=34219",
-          "pubDate": "2026-09-24T08:20:55.000Z",
-          "image": null,
-          "summary": "동일한 진료 데이터를 Montwo databases by configuring identical medical data as MongoDB documents and PostgreSQL relational tables MongoDB는 유연하고 중첩된 데이터를 함께 다룰 때 어떤 차이가 있는지 보여줍니다. 어느 쪽이 무조건 더 빠르거나 좋은지를 정하기보다, 애플리케이션이 데이터를 읽고",
-          "keywords": [
-            "MongoDB와",
-            "PostgreSQL은",
-            "무엇이",
-            "다를까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Scientific Linux를 포기한 것은 실수였다",
-          "link": "https://news.hada.io/topic?id=34218",
-          "pubDate": "2026-09-24T08:03:54.000Z",
-          "image": null,
-          "summary": "Scientific Linux의 가치는 RHEL 패키지를 재빌드하는 작업만이 아니라, 과학계가 플랫폼을 독립적으로 유지할 인력과 지식, 인프라에 있었음 CentOS로 통합하면 중복 작업을 줄일 수 있었지만, CentOS Linux 중단 이후 CERN과 Fermilab은 다시 독립적인 RHEL 호환...",
-          "keywords": [
-            "Scientific",
-            "Linux를",
-            "포기한",
-            "것은",
-            "실수였다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "OpenAI의 Medicare 무단 침입, Albanese 총리가 공개",
-          "link": "https://news.hada.io/topic?id=34216",
-          "pubDate": "2026-09-24T07:33:32.000Z",
-          "image": null,
-          "summary": "OpenAI의 AI 에이전트가 Medicare 통계 포털의 차단 장치를 우회해 공개/비공개 정보에 접근하고 내부 서버에 파일을 기록함 침입은 6월 18일 발생했지만 OpenAI는 약 3개월 뒤 정부에 통보했으며, Services Australia가 알림을 확인한 뒤 담당 장관에게 보고하기까...",
-          "keywords": [
-            "OpenAI의",
-            "Medicare",
-            "무단",
-            "침입",
-            "Albanese"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:09.547Z",
+      "fetchedAt": "2026-09-24T12:13:03.436Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +533,7 @@
           "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:09.652Z",
+      "fetchedAt": "2026-09-24T12:13:03.676Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:09.790Z",
+      "fetchedAt": "2026-09-24T12:13:03.872Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:09.873Z",
+      "fetchedAt": "2026-09-24T12:13:03.928Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:12.559Z",
+      "fetchedAt": "2026-09-24T12:13:08.869Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:13.246Z",
+      "fetchedAt": "2026-09-24T12:13:09.143Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +971,7 @@
           "summaryKo": "이 스타트업은 자동화 시스템이 15분 이내에 4개의 타이어를 교체할 수 있다고 말합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:13.320Z",
+      "fetchedAt": "2026-09-24T12:13:09.321Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:14.836Z",
+      "fetchedAt": "2026-09-24T12:13:11.653Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1097,11 +1096,11 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - kbiznews.co.kr",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
           "pubDate": "2026-09-21T02:14:24.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 kbiznews.co.kr",
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1114,17 +1113,17 @@
           "summaryKo": null
         },
         {
-          "title": "동해시, 슬레이트 철거 지원사업 대상자 모집 - 강원도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVFN2R2xsN19qOTBJd0ZHVGJ1NG9qZ0hSQldEZnhvT3FJLU1QUXlvaC05eU1tOVdfZlFhQXRrUWI3OWhZY2kydHdkRUxReHpUYnktYlB6bmFuS1I0dkZ2MHhHZjNfbW8?oc=5",
-          "pubDate": "2026-09-23T00:17:02.000Z",
+          "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
+          "pubDate": "2026-09-21T18:15:21.000Z",
           "image": null,
-          "summary": "동해시, 슬레이트 철거 지원사업 대상자 모집 강원도민일보",
+          "summary": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 대한경제",
           "keywords": [
-            "동해시",
-            "슬레이트",
-            "철거",
-            "지원사업",
-            "대상자"
+            "재생에너지",
+            "융복합지원사업",
+            "카르텔",
+            "(1)",
+            "페이퍼컴퍼니"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1165,22 +1164,22 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T10:10:15.185Z",
+      "fetchedAt": "2026-09-24T12:13:12.183Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 5,
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 5,
       "rank": 2,
       "change": "down"
     },
@@ -1189,7 +1188,7 @@
       "label": "사업계획서",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1203,39 +1202,39 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "special post",
       "label": "Special Post",
+      "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "공개",
+      "label": "공개",
       "count": 2,
       "rank": 10,
       "change": "new"
