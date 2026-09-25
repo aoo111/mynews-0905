@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-25T02:09:55.884Z",
+  "collectedAt": "2026-09-25T04:10:46.298Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "1년에 1200만원 이하 버는 사업장 838만개…4년 새 44% 늘었다",
+          "link": "https://www.mk.co.kr/news/economy/12161307",
+          "pubDate": "2026-09-25T02:46:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260925.9e4b1be55a344006a95483d2043de4f8_R.png",
+          "summary": "연간 소득이 1200만원 이하인 자영업자 사업장이 800만개를 넘어선 것으로 나타났다. 전체 사업장에서 차지하는 비중도 4년 전보다 높아졌고 매출이 한 푼도 없는 사업장은 110만..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“아빠랑 할머니가 각각 줬는데요?”…추석 용돈 ‘2000만원 공제’의 오해",
           "link": "https://www.mk.co.kr/news/economy/12161280",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“이자 19% 적금, 안들면 바보 아니에요?”…청년층, 76% 더 부었다",
-          "link": "https://www.mk.co.kr/news/economy/12161214",
-          "pubDate": "2026-09-24T21:02:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.8a593092e1134c239cea0aff7ffc2955_R.png",
-          "summary": "5대은행 적금 분석해보니 5년간 중장년 20% 줄때 30대 연령대서 약 2배 ↑ 정부, 청년겨냥 적금 내놔 우대형 실질 수익 연 19% 일각서 세대 차별 논란도은행 적금이 ‘티끌 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:41.170Z",
+      "fetchedAt": "2026-09-25T04:10:31.149Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:41.351Z",
+      "fetchedAt": "2026-09-25T04:10:31.384Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "독일 변전소 1313곳, 배터리 연결로 태양광 150GW 추가 수용 가능",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215592",
+          "pubDate": "2026-09-25T09:40:00.000Z",
+          "image": null,
+          "summary": "독일에서 변전소에 대규모 배터리저장장치를 연계해 태양광 발전 피크를 흡수하면 기존 변압기 용량의 시간대별 여유를 활용해 약 150기가와트(GW)의 태양광을 추가 설치할 수 있는 기술적 잠재력이 있다는 연구 결과가 나왔다. 기준 시나리오에서 함께 산정된 배터리 규모는 출력 약 60GW, 저장용량 240기가와트시(GWh)다.독일 프라운호퍼 에너지경제·에너지시스템기술연구소(Fraunhofer IEE)는 독일태양광산업협회(BSW-Solar)의 의뢰로 변전소와 대규모 배터리를 결합한 태양광 추가 설치 잠재력을 분석한 단기 연구 결과를 공개했",
+          "keywords": [
+            "독일",
+            "변전소",
+            "1313곳",
+            "배터리",
+            "연결로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "호주 주요 전력시장, 재생에너지 비중 80.5% 사상 최고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215589",
+          "pubDate": "2026-09-25T09:20:00.000Z",
+          "image": null,
+          "summary": "호주 주요 전력시장인 국가전력시장(NEM)에서 재생에너지가 전체 전력소비의 80% 이상을 공급하는 기록이 처음 나왔다. 옥상태양광 출력도 17GW에 근접하며 사상 최고 수준을 기록했다.호주 전력시장 데이터 분석업체 글로벌파워에너지(Global Power Energy·GPE)가 호주에너지시장운영기관(AEMO) 자료를 분석한 결과 지난 19일(현지시간) 낮 12시30분께 NEM 전체 전력소비에서 재생에너지가 차지하는 비중은 80.5%까지 상승했다.이는 불과 하루 전 기록한 79.84%를 넘어선 수준이다. 다만 80.5%는 하루나 분기",
+          "keywords": [
+            "호주",
+            "주요",
+            "전력시장",
+            "재생에너지",
+            "비중"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "영국, 배터리 계통접속 대기열에 재정보증 추진…MW당 최대 4500만원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215593",
+          "pubDate": "2026-09-25T09:05:00.000Z",
+          "image": null,
+          "summary": "영국이 전력망 접속을 기다리는 배터리에 추가 재정 보증을 요구하는 방안을 추진한다. 실제 건설 가능성이 낮은 사업이 접속 용량을 선점하는 것을 막기 위해 프로젝트 규모에 따라 메가와트(MW)당 최대 2만5000파운드(약 4500만원)를 담보하도록 하는 방식이다.영국 에너지 규제기관 오프젬(Ofgem)은 지난 17일(현지시간) 배터리에 ‘과잉신청 기술 약정 부담금(OTCF)’을 도입하는 계통이용규정 개정안 CMP470을 승인하는 방향으로 검토하고 있다고 밝혔다. 현재 업계 의견수렴이 진행 중이며 최종 결정은 올해 안에 내려질 예정이다",
+          "keywords": [
+            "영국",
+            "배터리",
+            "계통접속",
+            "대기열에",
+            "재정보증"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈AI 에이전트 무단 침입 또 드러나… 피해 전모 파악에 '수개월'",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215648",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215646",
-          "pubDate": "2026-09-24T22:29:05.000Z",
-          "image": null,
-          "summary": "구글의 차세대 모델 '제미나이 4'의 출시 시점이 당초 예상보다 대폭 앞당겨질 전망이다. 경쟁사들의 공세에 맞서 핵심 모델의 공개 일정을 앞당겨 격차를 줄이고 주도권을 탈환하겠다는 의도다.구글 딥마인드의 수장인 코레이 카부쿠오글루 수석 부사장은 23일(현지시간) 디 인포메이션이 주최한 'AI 어젠다 라이브 서밋' 인터뷰에서 제미나이 4의 개발 현황을 상세히 밝혔다.지난 8월 데미스 허사비스의 뒤를 이어 딥마인드 수장 자리에 오른 이후 가진 첫 인터뷰에서 핵심 모델의 '조기 공개'를 공식화한 것이다.카부쿠오글루 수석 부사장은 \"제미나",
-          "keywords": [
-            "제미나이",
-            "조기",
-            "출시",
-            "구글",
-            "딥마인드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "안보리 무대 선 알트먼·아모데이 \"AI 통제 불능 위험...글로벌 공조 시급\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215645",
-          "pubDate": "2026-09-24T21:15:25.000Z",
-          "image": null,
-          "summary": "AI 기업 핵심 리더들이 유엔 안전보장이사회(UNSC)에 참석해 고도화된 AI 시스템이 불러올 수 있는 국가 안보적 위협을 공식 경고했다. 첨단 AI 모델의 성능이 기하급수적으로 강력해짐에 따라 인간의 통제를 벗어나거나 악용될 위험성이 커지고 있는 만큼, 글로벌 차원의 강력한 안전 가이드라인과 공조 체제 구축이 시급하다는 지적이다.프랑스가 의장국을 맡아 23일(현지시간) 미국 뉴욕 유엔 본부에서 개최된 유엔 안보리 고위급 브리핑에는 샘 알트먼 오픈AI CEO가 현장에 직접 출석하고, 다리오 아모데이 앤트로픽 CEO와 클레망 들랑그",
-          "keywords": [
-            "안보리",
-            "무대",
-            "알트먼",
-            "아모데이",
-            "AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "유튜브, 생성 AI 전면 도입...\"말 한마디로 편집하고 맞춤 피드 구축\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215644",
-          "pubDate": "2026-09-24T20:41:06.000Z",
-          "image": null,
-          "summary": "세계 최대 동영상 플랫폼 유튜브에 크리에이터가 자연어로 동영상을 편집하고 시청자가 프롬프트로 자신만의 추천 알고리즘을 구축하는 등 AI 기능이 대대적으로 추가됐다.유튜브는 23일(현지시간) 연례행사 ‘메이드 온 유튜브’를 개최하고 생성 AI 기술을 편집, 알고리즘 피드, 스튜디오 분석, 쇼핑 등 서비스 전반에 통합한 신규 기능을 대거 공개했다.이번 발표 중 가장 눈길을 끄는 것은 크리에이터의 제작 부담을 혁신적으로 줄이는 대화형 AI 편집 도구다. 구글의 최신 멀티모달 모델인 '제미나이 옴니(Gemini Omni)'를 기반으로 구축",
-          "keywords": [
-            "유튜브",
-            "생성",
-            "AI",
-            "전면",
-            "도입"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:45.900Z",
+      "fetchedAt": "2026-09-25T04:10:32.207Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:46.029Z",
+      "fetchedAt": "2026-09-25T04:10:32.375Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "캘리포니아는 발 달린 부를 쫓고 있다",
+          "link": "https://news.hada.io/topic?id=34252",
+          "pubDate": "2026-09-25T03:34:09.000Z",
+          "image": null,
+          "summary": "캘리포니아가 연간 200억 달러 확보를 목표로 억만장자 부유세안을 11월 주민투표에 부치지만, 이미 떠난 부유층 때문에 예상 세수를 확보하기 어렵다는 비판을 받음 Center for Land Economics가 추산한 캘리포니아의 토지 가치 8조 1,400억 달러는 현실적으로 과...",
+          "keywords": [
+            "캘리포니아는",
+            "달린",
+            "부를",
+            "쫓고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
+          "link": "https://news.hada.io/topic?id=34251",
+          "pubDate": "2026-09-25T03:03:12.000Z",
+          "image": null,
+          "summary": "Claude에 잊어버린 명령어 문법을 물었다가 존재하지 않는 옵션을 답하는 일을 겪으며, 이미 배운 지식을 직접 보관하는 개인 지식 관리(PKM) 시스템을 만들기로 함 직접 노트를 쓰면 나중에 자신에게 맞는 답과 설명을 찾을 수 있고, 정보를 정리하는 과정에서",
+          "keywords": [
+            "깡통",
+            "AI들",
+            "때문에",
+            "번째",
+            "뇌를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Google Play와 결별하기: Conversations가 이제 무료인 이유",
           "link": "https://news.hada.io/topic?id=34250",
@@ -410,41 +443,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Mel의 이야기 (1983)",
-          "link": "https://news.hada.io/topic?id=34247",
-          "pubDate": "2026-09-25T00:01:39.000Z",
-          "image": null,
-          "summary": "컴파일러도 어셈블리어도 마다하고 16진수 기계어를 직접 작성하던 프로그래머 멜과, 그가 남긴 블랙잭 프로그램을 고치려던 동료의 이야기 회전하는 드럼 메모리의 타이밍까지 계산해 명령어를 배치했으며, 직접 최적화한 코드는 최적화 어셈블러보다 빨랐음 ...",
-          "keywords": [
-            "Mel의",
-            "이야기",
-            "(1983)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Toyota, Corolla 전기차 출시 준비",
-          "link": "https://news.hada.io/topic?id=34246",
-          "pubDate": "2026-09-24T23:33:36.000Z",
-          "image": null,
-          "summary": "1966년 출시 이후 전 세계에서 5,700만 대 이상 팔린 코롤라에 처음으로 순수 전기차와 플러그인 하이브리드 모델을 추가할 예정 기존 가솔린과 하이브리드도 유지하며, 하나의 플랫폼에서 여러 동력원을 지원하도록 차체 기반을 개편하고 외관과...",
-          "keywords": [
-            "Toyota",
-            "Corolla",
-            "전기차",
-            "출시",
-            "준비"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:46.762Z",
+      "fetchedAt": "2026-09-25T04:10:33.200Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +539,7 @@
           "summaryKo": "국제 축구 대회를 운영하는 경우 브라질에서 활동하고 싶을 것입니다. 크리에이터가 이끄는 킹스 리그는 확실히 브라질 관객의 더 큰 부분을 원하기 때문에 해당 시장으로 이끌 수 있는 경험이 풍부한 상무이사를 고용하고 있습니다. Twitch의 전 콘텐츠 및 파트너십 이사인 Anadege Freitas는 킹스 리그에서 임원직을 맡았습니다. 프레이타스는 전설적인 스페인 축구 선수 제라르를 포함한 연맹 지도자들과 연결될 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:46.990Z",
+      "fetchedAt": "2026-09-25T04:10:33.370Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:47.183Z",
+      "fetchedAt": "2026-09-25T04:10:33.583Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:47.255Z",
+      "fetchedAt": "2026-09-25T04:10:33.659Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:53.250Z",
+      "fetchedAt": "2026-09-25T04:10:37.463Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:53.489Z",
+      "fetchedAt": "2026-09-25T04:10:37.752Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -897,7 +898,8 @@
           "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
           "keywords": [
             "Startups",
-            "Startup Battlefield 200"
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "Nexterity는 파이프 피팅의 단단하고 위험한 부분을 자동화하고자 합니다.",
@@ -972,7 +974,7 @@
           "summaryKo": "Databricks는 클라우드 스프레드시트 스타트업 Row Zero를 인수하여 2026 쇼핑에 또 다른 인수를 추가했습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:53.599Z",
+      "fetchedAt": "2026-09-25T04:10:37.823Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1071,7 +1073,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:55.416Z",
+      "fetchedAt": "2026-09-25T04:10:40.830Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1166,7 +1168,7 @@
         }
       ],
       "fetchedAt": "2026-09-25T02:09:55.879Z",
-      "error": null
+      "error": "HTTP 503"
     }
   },
   "trendingDomestic": [
@@ -1182,63 +1184,63 @@
       "label": "로보틱스",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "메타",
       "label": "메타",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "뮤즈",
       "label": "뮤즈",
       "count": 2,
       "rank": 4,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "출시",
-      "label": "출시",
+      "key": "재생에너지",
+      "label": "재생에너지",
       "count": 2,
       "rank": 5,
-      "change": "down"
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
