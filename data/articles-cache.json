@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-25T14:11:30.942Z",
+  "collectedAt": "2026-09-25T16:11:27.027Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:19.714Z",
+      "fetchedAt": "2026-09-25T16:11:10.902Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:19.845Z",
+      "fetchedAt": "2026-09-25T16:11:11.070Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+          "pubDate": "2026-09-25T23:18:42.000Z",
+          "image": null,
+          "summary": "미국 백악관이 오픈AI와 앤트로픽 등 자국 AI 기업에 미국 정부의 검증절차가 완료될 때까지 신규 모델을 영국 AI안보연구소(AISI) 등 해외 기관에 제공하지 말라고 요청했다.폴리티코는 24일(현지시간) 정통한 소식통과 미국 행정부 고위 관계자를 인용, 미국 국가사이버국(NCC)의 요청으로 이같은 압박이 이뤄졌다고 보도했다.관계자에 따르면, 이번 조치는 미국 기업이 개발한 최첨단 AI 모델의 보안성을 자국 시스템에서 먼저 검증한 후 우방국과 공유하겠다는 방침을 확고히 한 것이다. 그는 \"이는 새롭게 출시되는 모든 미국 모델에 대해",
+          "keywords": [
+            "백악관",
+            "오픈AI",
+            "앤트로픽에",
+            "신모델",
+            "영국"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215657",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
-          "pubDate": "2026-09-25T20:12:52.000Z",
-          "image": null,
-          "summary": "구글과 오픈AI, 앤트로픽이 정부의 직접적인 감독 없이 최첨단 AI 모델의 안전 기준을 마련하는 업계 자율 규제기구 설립을 추진 중이다.24일(현지시간) 디 인포메이션에 따르면, 세 회사는 ‘프런티어 AI 표준기구(SAFA·Standards Authority for Frontier AI)’라는 가칭을 검토 중이며, 올해 말이나 2027년 초 출범을 목표로 하고 있다.SAFA는 최첨단 AI 모델 출시 전 제3자 안전성 평가를 지원하고 안전·보안 사고의 보고 절차를 규정하는 핵심 역할을 맡는다. 각 기업이 자발적으로 약속했던 안전 조치",
-          "keywords": [
-            "구글",
-            "오픈AI",
-            "앤트로픽",
-            "자율",
-            "규제기구"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:20.790Z",
+      "fetchedAt": "2026-09-25T16:11:12.088Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "link": "https://openai.com/index/proaction",
+          "pubDate": "2026-09-25T19:00:00.000Z",
+          "image": null,
+          "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "keywords": [
+            "Proaction",
+            "boosts",
+            "sales",
+            "60%",
+            "and"
+          ],
+          "isForeign": true,
+          "titleKo": "프로액션은 코덱스로 매출을 60% 높이고 75시간 이상을 절약합니다",
+          "summaryKo": "Proaction은 Codex, GPT-Live-1 및 GPT-6 Astra를 사용하여 현대적인 차량 관리를 더 빠르게 구축, 운영 및 판매합니다."
+        },
         {
           "title": "Two years of OpenAI Academy",
           "link": "https://openai.com/index/two-years-of-openai-academy",
@@ -333,26 +350,9 @@
           "isForeign": true,
           "titleKo": "Harvey는 GPT-6 Astra로 법적 맥락을 더 강력한 초안으로 바꿉니다.",
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
-        },
-        {
-          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "pubDate": "2026-09-23T12:00:00.000Z",
-          "image": null,
-          "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-          "keywords": [
-            "How",
-            "invideo",
-            "improves",
-            "color",
-            "grading"
-          ],
-          "isForeign": true,
-          "titleKo": "인비데오가 GPT ‑ 6 Astra로 컬러 그레이딩을 3배 향상시키는 방법",
-          "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:21.053Z",
+      "fetchedAt": "2026-09-25T16:11:14.148Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: 축구 인생 시뮬레이터 게임 - 오프사이드",
-          "link": "https://news.hada.io/topic?id=34265",
-          "pubDate": "2026-09-25T12:59:32.000Z",
+          "title": "M6 Mac Mini의 86Box에서 Voodoo 3와 함께 Pentium II 600MHz 에뮬레이션",
+          "link": "https://news.hada.io/topic?id=34270",
+          "pubDate": "2026-09-25T15:38:38.000Z",
           "image": null,
-          "summary": "야구 버전을 너무 재미있게 플레이해보다 보니, 축구 버전도 만들면 재밌을 것 같아서 한번 만들어보았습니다 원래 축구 보는것을 좋아하는터라 계속해서 애착있게 업데이트 해보려고 해요 은퇴까지 길면 15분정도 플레이해보실 수 있습니다 나중에는 선수 한명씩 키워서 팀을 꾸려보고 그 팀으",
+          "summary": "M6 Mac Mini가 86Box에서 Pentium II 600MHz와 Voodoo 3를 에뮬레이션하며, 테스트 내내 속도 100%와 끊김 없는 오디오를 유지함 같은 구성에서 M4의 안정적 한계는 500MHz로, M6의 최고 통과 클럭은 20% 높음. M6도 650MHz에서는 오디오 끊김이 발생해 통과하지 못...",
           "keywords": [
-            "Show",
-            "GN:",
-            "축구",
-            "인생",
-            "시뮬레이터"
+            "M6",
+            "Mac",
+            "Mini의",
+            "86Box에서",
+            "Voodoo"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "“완전 AI 같아!” 알파 세대의 욕이 된 AI",
-          "link": "https://news.hada.io/topic?id=34264",
-          "pubDate": "2026-09-25T12:33:07.000Z",
+          "title": "마피아가 이탈리아로의 펜타닐 유입을 막고 있을 수도 있다",
+          "link": "https://news.hada.io/topic?id=34269",
+          "pubDate": "2026-09-25T15:35:38.000Z",
           "image": null,
-          "summary": "알파 세대는 “That’s so AI!”를 진정성 없고, 믿기 어렵거나 형편없는 것을 깎아내리는 말로 사용함 실제 AI 생성물인지 여부는 중요하지 않으며, 짝퉁 상품, 과장된 말, 부모의 변명처럼 의심스러운 대상에도 이 표현을 붙임 이런 용법은 AI가 만든 저...",
+          "summary": "마피아가 이탈리아로의 펜타닐 유입을 막고 있을 수도 있다",
           "keywords": [
-            "완전",
-            "AI",
-            "같아",
-            "알파",
-            "세대의"
+            "마피아가",
+            "이탈리아로의",
+            "펜타닐",
+            "유입을",
+            "막고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "네덜란드 정부, NixOS 기반 Microsoft 대안 구축",
-          "link": "https://news.hada.io/topic?id=34262",
-          "pubDate": "2026-09-25T10:45:51.000Z",
+          "title": "Rails는 어떻게 되는가?",
+          "link": "https://news.hada.io/topic?id=34268",
+          "pubDate": "2026-09-25T14:49:14.000Z",
           "image": null,
-          "summary": "DAWO는 정부, 산업계, 사회가 함께 네덜란드 정부를 위한 디지털 자율적 업무 환경을 구축하는 개방형 커뮤니티임 단일 제품이 아니라 서로 연동하는 교체 가능한 구성 요소로 업무 환경을 만들며, 각 요소를 검사하고 교체할 수 있음 운영체제 영역에서는...",
+          "summary": "DHH는 Rails World 2026 기조연설에서 Rails의 미래보다 LLM 기반 개발에 집중하며, 대표 Rails 제품인 Hey의 차기 버전을 네이티브 앱과 Rust 서버로 전환한다고 밝힘 새로운 개발 방식은 코드 읽기를 예외로 취급하고 LLM 생성 코드의 결과를 외부에서 검증하는 ...",
           "keywords": [
-            "네덜란드",
-            "정부",
-            "NixOS",
-            "기반",
-            "Microsoft"
+            "Rails는",
+            "어떻게",
+            "되는가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 맥에서 분해된 자소를 결합. 실시간 폴더 감시, 자동 변환 (윈도우 앱스토어)",
-          "link": "https://news.hada.io/topic?id=34261",
-          "pubDate": "2026-09-25T09:52:13.000Z",
+          "title": "‘What’s Opera, Doc?’는 왜 그런 시각적 스타일을 갖게 됐을까",
+          "link": "https://news.hada.io/topic?id=34267",
+          "pubDate": "2026-09-25T14:46:14.000Z",
           "image": null,
-          "summary": "요샌 맥을 사용하는 비율도 높아져서 저희 사무실에는 맥과 윈도우가 혼용되고 있습니다. 저는 윈도우를 사용하는데 맥에서 편집한 파일들을 받으면 자소가 분리돼 있어 귀찮았습니다. 드래그 앤 드롭으로 해결되는 프로그램이 있긴 하지만 그조차 귀찮은 게 사실이죠. 커맨드라인은 쉽지만 귀찮",
+          "summary": "1957년작 What’s Opera, Doc? 의 독특한 화면은 색채와 레이아웃을 맡은 Maurice Noble의 설계에서 나왔으며, 거대한 배경과 그림자, 비현실적인 색으로 오페라 풍자를 구현함 Noble에게 배경 디자인은 서사 수단이었으며, 장식 자체보다 감정과...",
           "keywords": [
-            "Show",
-            "GN:",
-            "맥에서",
-            "분해된",
-            "자소를"
+            "What",
+            "Opera",
+            "Doc",
+            "그런",
+            "시각적"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "크레아틴 흡수가 항종양 면역을 강화함",
-          "link": "https://news.hada.io/topic?id=34260",
-          "pubDate": "2026-09-25T09:33:21.000Z",
+          "title": "Disney+와 Hulu, 이익 두 배 증가 후 요금 최대 13% 인상",
+          "link": "https://news.hada.io/topic?id=34266",
+          "pubDate": "2026-09-25T14:43:14.000Z",
           "image": null,
-          "summary": "크레아틴 흡수가 항종양 면역을 강화함",
+          "summary": "Disney+와 Hulu가 각각 광고 없는 단독 요금제를 월 19달러에서 21.50달러로 13% 인상함 광고형 단독 요금제와 여러 결합 상품도 인상됐지만, Disney+와 Hulu 광고형 결합 상품은 월 13달러를 유지함 두 서비스의 단독 요금은 이제 Netflix의 광고...",
           "keywords": [
-            "크레아틴",
-            "흡수가",
-            "항종양",
-            "면역을",
-            "강화함"
+            "Disney+와",
+            "Hulu",
+            "이익",
+            "증가",
+            "요금"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:21.900Z",
+      "fetchedAt": "2026-09-25T16:11:14.793Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +534,7 @@
           "summaryKo": "Iron Lung, Backrooms, Obsession과 같은 크리에이터 제작 영화의 박스오피스 성공에 이어 할리우드는 완전히 새로운 시각으로 우리 업계를 바라보고 있습니다. 바이럴 네이션 (Viral Nation) 의 폴 텔너 (Paul Telner) 프로그래밍 책임자는 \"이것은 골드 러시입니다.\" 바이럴 네이션 (Viral Nation) 의 자료를 사용하여 맥카티 (McCarty) 가족과 같은 크리에이터가 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있도록 돕고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:22.212Z",
+      "fetchedAt": "2026-09-25T16:11:14.964Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:22.438Z",
+      "fetchedAt": "2026-09-25T16:11:15.180Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:22.522Z",
+      "fetchedAt": "2026-09-25T16:11:15.259Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:25.423Z",
+      "fetchedAt": "2026-09-25T16:11:18.332Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:25.690Z",
+      "fetchedAt": "2026-09-25T16:11:18.592Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -888,21 +886,56 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
-          "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+          "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+          "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+          "pubDate": "2026-09-25T15:00:00.000Z",
+          "image": null,
+          "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt",
+            "Ricursive Intelligence"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026: AI가 자체 하드웨어 설계를 시작할 때 Ricursive Intelligence의 Anna Goldie와 Azalia Mirhoseini",
+          "summaryKo": "TechCrunch Disrupt 2026에서 Ricursive Intelligence의 공동 설립자 Anna Goldie와 Azalia Mirhoseini가 Disrupt Stage에서 AI와 칩 개발 간의 루프를 닫는 것에 대해 논의합니다. 오늘이 끝나기 전에 최대 $ 200를 절약하세요."
+        },
+        {
+          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+          "pubDate": "2026-09-25T14:15:00.000Z",
+          "image": null,
+          "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Fintech",
+            "Biotech & Health",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "정리해고로 어려움을 겪고 계신가요? TechCrunch Disrupt 2026 Expo + Pass의 $ 75 할인을 놓치지 마세요",
+          "summaryKo": "다음 기회는 한 번의 대화가 될 수 있습니다. 엑스포 + 패스를 단돈 $ 75에 구매하세요. 자격을 갖춘 선착순 100명으로 제한됩니다."
+        },
+        {
+          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+          "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
           "pubDate": "2026-09-25T14:00:00.000Z",
           "image": null,
           "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
           "keywords": [
-            "TC",
-            "Startups",
-            "Crypto",
+            "AI",
             "Climate",
+            "Crypto",
             "Fintech",
-            "Venture"
+            "Fundraising",
+            "Robotics"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 최대 $ 200를 절약할 수 있는 마지막 24시간. 5/5 참석 이유: 더 앞서 나가세요.",
+          "titleKo": "TechCrunch Disrupt 2026에서 최대 $ 200를 절약할 수 있는 마지막 24시간. 참석해야 하는 이유 5/5: 모멘텀",
           "summaryKo": "지난 24시간 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받으세요. 이벤트를 시작했던 위치보다 스타트업의 궤도에 더 멀리 둡니다. 절약하고 바늘을 밀 수 있는 기회를 놓치지 마세요."
         },
         {
@@ -937,44 +970,9 @@
           "isForeign": true,
           "titleKo": "Nexterity는 파이프 피팅의 단단하고 위험한 부분을 자동화하고자 합니다.",
           "summaryKo": "스타트업의 로봇은 한 번에 4개의 볼트를 조이거나 풀 수 있으며 펠리컨 케이스에 맞습니다."
-        },
-        {
-          "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-          "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-          "pubDate": "2026-09-24T19:15:00.000Z",
-          "image": null,
-          "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-          "keywords": [
-            "AI",
-            "Apps",
-            "Biotech & Health",
-            "Climate",
-            "Crypto",
-            "Fintech"
-          ],
-          "isForeign": true,
-          "titleKo": "공동 창업자, 파트너 또는 동료를 초대하고 두 번째 TechCrunch Disrupt 2026 이용권을 50% 할인받으세요.",
-          "summaryKo": "TechCrunch Disrupt 2026 이용권 1장을 구매하고 동일한 티켓 유형의 1초를 50% 할인받으세요. 10월 13일 오전 8시 (태평양 표준시) 에 이벤트가 시작되기 전에 등록하세요."
-        },
-        {
-          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-          "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-          "pubDate": "2026-09-24T19:00:42.000Z",
-          "image": null,
-          "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "TC",
-            "LLMs",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "PrismML은 Qualcomm 기반 스마트 안경에 초소형 LLM을 제공합니다",
-          "summaryKo": "Prism의 더 큰 목표는 장치에서 실행되고 이미 가지고 있는 컴퓨팅 성능을 더 잘 활용하는 개방형 AI입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:28.056Z",
+      "fetchedAt": "2026-09-25T16:11:24.219Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1073,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:30.209Z",
+      "fetchedAt": "2026-09-25T16:11:26.566Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1082,11 +1080,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 - dailydgnews.com",
+          "title": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 - 데일리대구경북뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSFhPN19VMHROdUNjX3lJSVBCTGhXXzh5YmxJUm9XQmNoOEpUUjNYVnYyUG9aUDBqTWtNZUQ0VEx4S1cyWGMzX3RSeEk4aGJ0Z3NGQVh0d3pucWEwMXl5Umd4cXo4Zw?oc=5",
           "pubDate": "2026-09-25T05:51:35.000Z",
           "image": null,
-          "summary": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 dailydgnews.com",
+          "summary": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 데일리대구경북뉴스",
           "keywords": [
             "청년",
             "취업성공",
@@ -1099,11 +1097,11 @@
           "summaryKo": null
         },
         {
-          "title": "경북도, 청년애꿈 지원사업 연중 모집 - 시사포커스",
+          "title": "경북도, 청년애꿈 지원사업 연중 모집 - sisafocus.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBja1A3TjAtbmZpWFZvRkd2N1BwOGRJTmlDTjlfdVhMcnFFMFdZZHkxMm5DTE9Wa1A3NDN4VnBJVDFGeld2WGJhV0VUMEx6SnFaSTZ5WFBqdW5ObGJtS0htU3J3T1BabExKTXR4SDRGaw?oc=5",
           "pubDate": "2026-09-25T12:15:10.000Z",
           "image": null,
-          "summary": "경북도, 청년애꿈 지원사업 연중 모집 시사포커스",
+          "summary": "경북도, 청년애꿈 지원사업 연중 모집 sisafocus.co.kr",
           "keywords": [
             "경북도",
             "청년애꿈",
@@ -1167,80 +1165,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T14:11:30.933Z",
+      "fetchedAt": "2026-09-25T16:11:27.021Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 1,
-      "change": "new"
-    },
-    {
       "key": "ipo",
       "label": "IPO",
       "count": 2,
-      "rank": 2,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 8,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "오픈ai",
       "label": "오픈AI",
       "count": 3,
-      "rank": 9,
-      "change": "new"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "poc",
+      "label": "POC",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1269,28 +1267,28 @@
       "labelKo": "홈페이지 기능"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 4,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 4,
-      "change": "same",
+      "rank": 5,
+      "change": "down",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
       "rank": 6,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
       "key": "articles",
