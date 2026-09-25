@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-25T04:10:46.298Z",
+  "collectedAt": "2026-09-25T06:13:27.534Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“달러 쌀 때 들어두자”…원화 강세에 다시 뜨는 달러보험",
+          "link": "https://www.mk.co.kr/news/economy/12161323",
+          "pubDate": "2026-09-25T04:24:18.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.c9e713080766463c988f49b8fcd900b8_R.png",
+          "summary": "올해 초 금융당국 경고에 판매 급격히 감소했지만 원화 대비 달러값 내리자 8월 한달 판매 3배 늘어 보장·환율 효과 누리지만 환테크 활용은 유의해야원화 강세로 달러 매입 부담..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "1년에 1200만원 이하 버는 사업장 838만개…4년 새 44% 늘었다",
           "link": "https://www.mk.co.kr/news/economy/12161307",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전세대출 대신 갚아준 돈 7283억…3년 새 138.6% 급증",
-          "link": "https://www.mk.co.kr/news/economy/12161229",
-          "pubDate": "2026-09-24T21:31:19.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260925.a4b41d43c2f74707a306339697a21d61_R.png",
-          "summary": "전세자금 대출을 제때 갚지 못해 한국주택금융공사(HF)가 금융기관에 대신 갚아준 대위변제액이 3년 새 2배 넘게 늘어난 것으로 나타났다. 특히 20대 이하와 30대 등 청년층의 보..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:31.149Z",
+      "fetchedAt": "2026-09-25T06:13:12.357Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:31.384Z",
+      "fetchedAt": "2026-09-25T06:13:12.403Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:32.207Z",
+      "fetchedAt": "2026-09-25T06:13:13.607Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:32.375Z",
+      "fetchedAt": "2026-09-25T06:13:13.738Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,39 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "호로위츠 앤드리슨 아카데미 소개",
+          "link": "https://news.hada.io/topic?id=34254",
+          "pubDate": "2026-09-25T04:57:31.000Z",
+          "image": null,
+          "summary": "The Horowitz Andreessen Academy가 고교 졸업생과 대학 1~2학년 중 야심 찬 청년들을 선발하는 샌프란시스코 교육기관으로 출범함 전통적인 성적, 시험, 숙제 대신 자율 프로젝트, 단기 강좌, 기업 현장 경험을 중심으로 배우며, 학생이 직접 목표와 작업을 선택함...",
+          "keywords": [
+            "호로위츠",
+            "앤드리슨",
+            "아카데미",
+            "소개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Opus 5.5는 설명 영상을 잘 만든다",
+          "link": "https://news.hada.io/topic?id=34253",
+          "pubDate": "2026-09-25T04:33:20.000Z",
+          "image": null,
+          "summary": "LaunchVideo는 URL이나 제품 설명을 입력하면 Opus 5.5가 영상을 코드로 작성하고, 서버리스 에이전트가 MP4로 렌더링하는 서비스임 영상 생성 모델 없이 웹 페이지의 애니메이션을 렌더링하며, 가상 시계로 각 프레임의 시간을 제어해 결정론적으로 생성함 ...",
+          "keywords": [
+            "Opus",
+            "5는",
+            "설명",
+            "영상을",
+            "만든다"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "캘리포니아는 발 달린 부를 쫓고 있다",
           "link": "https://news.hada.io/topic?id=34252",
@@ -409,43 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "‘멜의 이야기(Story of Mel)’ 해부하기",
-          "link": "https://news.hada.io/topic?id=34249",
-          "pubDate": "2026-09-25T01:40:21.000Z",
-          "image": null,
-          "summary": "초기 프로그래밍 일화 ‘Story of Mel’의 핵심 트릭을 RPC-4000 명령어 체계와 대조하면, 주소 오버플로로 명령을 바꾸는 방식은 가능하지만 일부 기술적 설명은 맞지 않음 Index 비트는 일화의 설명과 달리 주소와 연산 코드 사이가 아니라 명령어의 최하위 비트...",
-          "keywords": [
-            "멜의",
-            "이야기(Story",
-            "of",
-            "Mel)",
-            "해부하기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
-          "link": "https://news.hada.io/topic?id=34248",
-          "pubDate": "2026-09-25T00:30:02.000Z",
-          "image": null,
-          "summary": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명...",
-          "keywords": [
-            "Archify",
-            "코드와",
-            "설명을",
-            "탐색",
-            "가능한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:33.200Z",
+      "fetchedAt": "2026-09-25T06:13:14.663Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -453,6 +452,20 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "YouTube wants you to pump its TV watch time with microdramas",
+          "link": "https://www.tubefilter.com/2026/09/24/made-on-youtube-shorts-series-microdramas/",
+          "pubDate": "2026-09-24T22:56:00.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2296810657.jpg",
+          "summary": "At its 2026 Made on YouTube event, Google‘s video platform revealed that microdrama content has racked up 6.5 billion views in the first half of this year. That’s a 50% jump from 2025. And, of even more interest to YouTube, microdrama views on TV screens increased by more than 90% year-over-year during the first half […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature",
+            "made on youtube"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube는 마이크로드라마로 TV 시청 시간을 늘리기를 원합니다.",
+          "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
+        },
         {
           "title": "Moonbug is in its era of “Big Feelings” as it launches “fully integrated music company”",
           "link": "https://www.tubefilter.com/2026/09/24/moonbug-big-feelings-music-company-blippi-cocomelon/",
@@ -519,27 +532,9 @@
           "isForeign": true,
           "titleKo": "“유튜브는 역사상 가장 위대한 캐스팅 콜입니다”: 폴 텔너 (Paul Telner) 가 할리우드의 제작자 IP 골드 러시가 수년째 이어지는 이유에 대해 이야기합니다.",
           "summaryKo": "Iron Lung, Backrooms, Obsession과 같은 크리에이터 제작 영화의 박스오피스 성공에 이어 할리우드는 완전히 새로운 시각으로 우리 업계를 바라보고 있습니다. 바이럴 네이션 (Viral Nation) 의 폴 텔너 (Paul Telner) 프로그래밍 책임자는 \"이것은 골드 러시입니다.\" 바이럴 네이션 (Viral Nation) 의 자료를 사용하여 맥카티 (McCarty) 가족과 같은 크리에이터가 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있도록 돕고 있습니다."
-        },
-        {
-          "title": "The Kings League wants to be Brazil’s next creator sensation. A Twitch vet will put the ball in play.",
-          "link": "https://www.tubefilter.com/2026/09/23/kings-league-soccer-brazil-hire-anadege-freitas/",
-          "pubDate": "2026-09-23T21:03:01.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/kings-league-hire.jpg",
-          "summary": "If you run an international soccer competition, you probably want to be active in Brazil. The creator-led Kings League certainly wants a bigger piece of the Brazilian audience, so it's hiring an experienced Managing Director who can lead it into that market. Anadege Freitas, the former Director of Content and Partnerships at Twitch, has taken an executive role at the Kings League. Freitas will link up with the League's leaders -- including legendary Spanish footballer Gerard Piqué -- to expand o",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Sports",
-            "anadege freitas"
-          ],
-          "isForeign": true,
-          "titleKo": "킹스 리그는 브라질의 차세대 크리에이터가 되고자 합니다. 트위치 수의사가 공을 던집니다.",
-          "summaryKo": "국제 축구 대회를 운영하는 경우 브라질에서 활동하고 싶을 것입니다. 크리에이터가 이끄는 킹스 리그는 확실히 브라질 관객의 더 큰 부분을 원하기 때문에 해당 시장으로 이끌 수 있는 경험이 풍부한 상무이사를 고용하고 있습니다. Twitch의 전 콘텐츠 및 파트너십 이사인 Anadege Freitas는 킹스 리그에서 임원직을 맡았습니다. 프레이타스는 전설적인 스페인 축구 선수 제라르를 포함한 연맹 지도자들과 연결될 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:33.370Z",
+      "fetchedAt": "2026-09-25T06:13:16.558Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:33.583Z",
+      "fetchedAt": "2026-09-25T06:13:16.656Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:33.659Z",
+      "fetchedAt": "2026-09-25T06:13:16.708Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:37.463Z",
+      "fetchedAt": "2026-09-25T06:13:21.369Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:37.752Z",
+      "fetchedAt": "2026-09-25T06:13:21.607Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -890,6 +885,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+          "pubDate": "2026-09-25T05:00:00.000Z",
+          "image": null,
+          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Venture",
+            "Exclusive",
+            "lightspeed",
+            "Lightspeed India Venture Partners"
+          ],
+          "isForeign": true,
+          "titleKo": "LIGHTSPEED는 초기 단계 AI에 초점을 맞춘 인도 신규 펀드 $ 250M를 목표로 합니다.",
+          "summaryKo": "실리콘 밸리 회사는 짧은 투자 기간으로 전환함에 따라 인도의 자금 조달 주기를 처음으로 글로벌 펀드와 연계하고 있습니다."
+        },
         {
           "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
           "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
@@ -956,25 +969,9 @@
           "isForeign": true,
           "titleKo": "개발자를 위한 ‘Android of robotics‘ 를 개발하는 스타트업, Feather를 만나보세요",
           "summaryKo": "Feather는 소프트웨어 개발자를 위해 제작된 맞춤형 $ 30,000 플랫폼에 베팅하고 있습니다."
-        },
-        {
-          "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-          "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-          "pubDate": "2026-09-24T17:07:55.000Z",
-          "image": null,
-          "summary": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-          "keywords": [
-            "Enterprise",
-            "Startups",
-            "ali ghodsi",
-            "Databricks"
-          ],
-          "isForeign": true,
-          "titleKo": "Databricks는 Row Zero를 구입하고 더 많은 신생 기업을 인수하기 위해 정찰 중입니다.",
-          "summaryKo": "Databricks는 클라우드 스프레드시트 스타트업 Row Zero를 인수하여 2026 쇼핑에 또 다른 인수를 추가했습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:37.823Z",
+      "fetchedAt": "2026-09-25T06:13:23.426Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1073,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T04:10:40.830Z",
+      "fetchedAt": "2026-09-25T06:13:27.102Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1082,17 +1079,17 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "경상북도, 청년 취업성공 패키지! 청년애(愛)꿈 지원사업 참여자 연중 수시 모집 - CBN뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiaUJ6T0tsSXNUbjBvbU0wbERZMUlMcjdqZTlRdFBDZTJKSkltQXUyOHg5N1NJZHFVS1dRTXVpLU5PaktsZXpDTUtHUFlmRmZRelVZ?oc=5",
-          "pubDate": "2026-09-24T22:47:43.000Z",
+          "title": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 - 데일리대구경북뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSFhPN19VMHROdUNjX3lJSVBCTGhXXzh5YmxJUm9XQmNoOEpUUjNYVnYyUG9aUDBqTWtNZUQ0VEx4S1cyWGMzX3RSeEk4aGJ0Z3NGQVh0d3pucWEwMXl5Umd4cXo4Zw?oc=5",
+          "pubDate": "2026-09-25T05:51:35.000Z",
           "image": null,
-          "summary": "경상북도, 청년 취업성공 패키지! 청년애(愛)꿈 지원사업 참여자 연중 수시 모집 CBN뉴스",
+          "summary": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 데일리대구경북뉴스",
           "keywords": [
-            "경상북도",
             "청년",
             "취업성공",
             "패키지",
-            "청년애(愛)꿈"
+            "청년애(愛)꿈",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1116,6 +1113,23 @@
           "summaryKo": null
         },
         {
+          "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
+          "pubDate": "2026-09-23T04:22:22.000Z",
+          "image": null,
+          "summary": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 서울경제",
+          "keywords": [
+            "경북",
+            "청년애꿈",
+            "지원사업",
+            "연중",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - 대한경제",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
           "pubDate": "2026-09-21T18:15:21.000Z",
@@ -1133,42 +1147,25 @@
           "summaryKo": null
         },
         {
-          "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
-          "pubDate": "2026-09-16T11:11:00.000Z",
+          "title": "공정, 혁신, 포용의 경기 - 경기도청",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
+          "pubDate": "2026-07-23T07:00:00.000Z",
           "image": null,
-          "summary": "2016년 지역 평생교육 활성화 지원사업 공고 데일리뉴스",
+          "summary": "공정, 혁신, 포용의 경기 경기도청",
           "keywords": [
-            "2016년",
-            "지역",
-            "평생교육",
-            "활성화",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
-          "pubDate": "2026-09-23T06:46:16.000Z",
-          "image": null,
-          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
-          "keywords": [
-            "여주시",
-            "3차",
-            "전기자동차",
-            "구매",
-            "지원사업"
+            "공정",
+            "혁신",
+            "포용의",
+            "경기",
+            "경기도청"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T02:09:55.879Z",
-      "error": "HTTP 503"
+      "fetchedAt": "2026-09-25T06:13:27.526Z",
+      "error": null
     }
   },
   "trendingDomestic": [
@@ -1205,7 +1202,7 @@
       "label": "재생에너지",
       "count": 2,
       "rank": 5,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1269,60 +1266,60 @@
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 4,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 4,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 8,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "기사"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "시행 조치"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "추천 동영상"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "뉴스"
     }
   ]
 }
