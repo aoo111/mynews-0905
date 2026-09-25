@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-24T22:10:32.979Z",
+  "collectedAt": "2026-09-25T00:15:03.000Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
+          "link": "https://www.mk.co.kr/news/economy/12161243",
+          "pubDate": "2026-09-24T22:55:16.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260925.053920040ef449cc8240a7cbe04de4b4_R.jpg",
+          "summary": "30년물 5.5%·10년물 5.2% 돌파 日 30년·獨 17년 만에 최고 수준 고유가·지정학적 긴장·재정 우려 겹쳐 연준 추가 긴축 전망 내달 금리 인상 전망 70%대미국 연방준..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "네타냐후 유엔연설에 집단퇴장...“이란전쟁 정당” 주장",
           "link": "https://www.mk.co.kr/news/economy/12161230",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
-          "link": "https://www.mk.co.kr/news/economy/12161157",
-          "pubDate": "2026-09-24T14:42:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/24/news-p.v1.20260923.94e7dde536704a7a91c086fabef404e3_R.jpeg",
-          "summary": "도수치료, 지난 7월 관리급여화 전환 횟수 제한·선행 물리치료 조건 생겨 신장분사치료 등 유사한 치료 증가# 최근 어깨가 아파 병원을 찾은 A씨는 주사를 맞고 물리치료를 받았다. ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:21.429Z",
+      "fetchedAt": "2026-09-25T00:14:47.924Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:21.567Z",
+      "fetchedAt": "2026-09-25T00:14:48.047Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI 에이전트 무단 침입 또 드러나… 피해 전모 파악에 '수개월'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215648",
+          "pubDate": "2026-09-25T08:00:37.000Z",
+          "image": null,
+          "summary": "오픈AI의 에이전트들이 데이터 수집 과정에서 사용자의 지시 없이 대학과 기관 사이트를 해킹하려 시도한 사실이 또다시 밝혀졌다. 호주 정부 사이트에 이어 연일 관련 사례가 공개되는 등 전체 규모가 밝혀지기까지는 시간이 꽤 걸릴 것으로 보인다.월스트리트저널(WSJ)은 24일(현지시간) 비영리 AI 연구소 트랜슬루스(Transluce)의 연구 결과를 인용해 오픈AI 연관 AI 에이전트들이 5월과 6월 주요 기관 웹사이트에 무단 침입해 정보를 추출하려 했다고 보도했다. 여기에는 호주 보건복지연구소, 뉴멕시코대학교, 공공 데이터 프로젝트인",
+          "keywords": [
+            "오픈AI",
+            "에이전트",
+            "무단",
+            "침입",
+            "드러나"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "메타, 펜던트형 AI 기기 '뮤즈 참'  12월 출시 예고",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215647",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215638",
-          "pubDate": "2026-09-24T19:54:31.000Z",
-          "image": null,
-          "summary": "앤트로픽이 최신 AI 모델의 성능을 끌어내기 위한 프롬프트 작성과 작업 관리 전략을 제시했다. 단순히 모델에 더 많이 생각하라고 요구하기보다 작업의 목표와 완료 조건을 명확히 제시하고, 장시간 작업에서는 진행 상황을 체계적으로 관리하는 것이 중요하다는 설명이다. 앤트로픽은 23일(현지시간) 최신 AI 모델인 '클로드 오퍼스 5.5(Opus 5.5)'를 더 효과적으로 활용할 수 있도록 프롬프트 작성법과 장시간 작업 관리, 결과 검토 방법 등을 담은 사용 가이드를 공개했다.오퍼스 5.5가 모든 답변에 앞서 스스로 사고하고 필요한 사고량",
-          "keywords": [
-            "앤트로픽",
-            "오퍼스",
-            "프롬프트",
-            "공개",
-            "불필요"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:23.002Z",
+      "fetchedAt": "2026-09-25T00:14:49.364Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:23.147Z",
+      "fetchedAt": "2026-09-25T00:14:49.528Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,71 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Mel의 이야기",
+          "link": "https://news.hada.io/topic?id=34247",
+          "pubDate": "2026-09-25T00:01:39.000Z",
+          "image": null,
+          "summary": "Mel의 이야기",
+          "keywords": [
+            "Mel의",
+            "이야기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Toyota, Corolla 전기차 출시 준비",
+          "link": "https://news.hada.io/topic?id=34246",
+          "pubDate": "2026-09-24T23:33:36.000Z",
+          "image": null,
+          "summary": "Toyota가 차세대 Corolla에 순수 전기차와 플러그인 하이브리드 모델을 처음 도입할 예정이며, 가솔린과 하이브리드를 포함한 여러 동력계 구성을 준비 중임 차세대 모델은 현행 TNGA-C 플랫폼을 대폭 수정해 순수 전기차를 포함한 모든 동력계를 지원할 것으로 예...",
+          "keywords": [
+            "Toyota",
+            "Corolla",
+            "전기차",
+            "출시",
+            "준비"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Whiteboard (YC W26) - 신중한 소프트웨어 설계를 위한 오픈소스 IDE",
+          "link": "https://news.hada.io/topic?id=34245",
+          "pubDate": "2026-09-24T22:42:05.000Z",
+          "image": null,
+          "summary": "Whiteboard는 사람과 코딩 에이전트가 공통 작업 공간에서 소프트웨어를 함께 설계하는 데스크톱 앱으로, Claude Code나 Codex에 연결해 에이전트가 SDK로 캔버스에 작업 내용을 그리게 함 다이어그램과 코드 탐색을 연결해 시퀀스 다이어그램, 개체 관계 다이어그...",
+          "keywords": [
+            "Whiteboard",
+            "(YC",
+            "W26)",
+            "신중한",
+            "소프트웨어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "간은 왜 유독 재생 능력이 뛰어날까?",
+          "link": "https://news.hada.io/topic?id=34244",
+          "pubDate": "2026-09-24T22:39:05.000Z",
+          "image": null,
+          "summary": "신체의 낮은 재생 능력은 단순한 결함이 아니라 암 위험을 억제하는 대가일 수 있음. 다만 이는 여러 예외와 제약이 있는 추측적 생물학 통합 가설임 간은 장에서 들어오는 독소와 병원체에 먼저 노출되고 해독 과정에서도 손상되므로, 암 위험을 감수하더라도 강한...",
+          "keywords": [
+            "간은",
+            "유독",
+            "재생",
+            "능력이",
+            "뛰어날까"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Rails World 2026 개막 기조연설 [영상]",
           "link": "https://news.hada.io/topic?id=34243",
@@ -376,75 +441,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "예산별 최고의 LLM, 매일 업데이트",
-          "link": "https://news.hada.io/topic?id=34242",
-          "pubDate": "2026-09-24T20:38:33.000Z",
-          "image": null,
-          "summary": "Artificial Analysis Intelligence Index 점수와 API 가격을 비교해, 더 저렴하면서 성능이 같거나 높은 대안이 없는 모델을 가성비 경계선(value frontier) 으로 추림 비용은 입력:출력 토큰 3:1 비율의 100만 토큰당 혼합 가격으로 비교하며, 캐...",
-          "keywords": [
-            "예산별",
-            "최고의",
-            "LLM",
-            "매일",
-            "업데이트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show HN: Times New Bastard 같은 괴상한 폰트 만들기",
-          "link": "https://news.hada.io/topic?id=34241",
-          "pubDate": "2026-09-24T20:35:33.000Z",
-          "image": null,
-          "summary": "Bastardica는 기본 폰트의 글리프를 일정 간격마다 다른 폰트의 글리프로 교체해 혼합 폰트를 만드는 도구임 결과물은 일반 OpenType 폰트이며, liga 문맥 치환으로 글리프를 바꿔 브라우저, 디자인 도구, 인쇄에서 사용할 수 있음 모든 처리...",
-          "keywords": [
-            "Show",
-            "HN:",
-            "Times",
-            "New",
-            "Bastard"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대조 언어 모델",
-          "link": "https://news.hada.io/topic?id=34240",
-          "pubDate": "2026-09-24T19:43:21.000Z",
-          "image": null,
-          "summary": "Contrastive Language Models(CLM) 는 상태와 행동을 대조 학습으로 연결하는 시스템 1 모델로, 현재 상태와 후보 행동의 임베딩을 비교해 가장 높은 점수의 행동을 선택함 공개한 CLM-8B는 컴퓨터 사용, 게임, 도구 호출 과제에서 Jev와 비슷한 성능을 내면서 지연...",
-          "keywords": [
-            "대조",
-            "언어",
-            "모델"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "폴란드 Starlink 지상국에서 화재, 방화 공격 의심",
-          "link": "https://news.hada.io/topic?id=34239",
-          "pubDate": "2026-09-24T19:40:21.000Z",
-          "image": null,
-          "summary": "폴란드에서 Starlink가 사용하는 지상국에 화재가 발생했으며, 디지털부 장관은 핵심 통신 인프라를 겨냥한 고의적 방화로 판단함 해당 시설은 국영 통신사 Exatel 소유로, Starlink를 보유한 SpaceX 등 여러 사업자가 이용하며 우크라이나를 포함...",
-          "keywords": [
-            "폴란드",
-            "Starlink",
-            "지상국에서",
-            "화재",
-            "방화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:23.963Z",
+      "fetchedAt": "2026-09-25T00:14:50.234Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -452,6 +451,60 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Moonbug is in its era of “Big Feelings” as it launches “fully integrated music company”",
+          "link": "https://www.tubefilter.com/2026/09/24/moonbug-big-feelings-music-company-blippi-cocomelon/",
+          "pubDate": "2026-09-24T22:22:06.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/blippi-doggyland.jpg",
+          "summary": "Over a career spanning more than 30 years, Snoop Dogg has collaborated with an eclectic range of artists. He's dropped guest verses for everyone from 2pac to Katy Perry to Psy to Nicepeter and EpicLLOYD. Now, Snoop has teamed up with another unexpected collaborator: Blippi. The kid-friendly character clad in a signature blue-and-orange outfit has joined forces with the hip-hop icon to deliver the \"Ice Cream Truck Song.\" Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "Music",
+            "News",
+            "big feelings music"
+          ],
+          "isForeign": true,
+          "titleKo": "Moonbug는 \"완전히 통합 된 음악 회사\" 를 시작하면서 \"큰 느낌\" 의 시대에 있습니다.",
+          "summaryKo": "스눕 독 (Snoop Dogg) 은 30년 이상의 경력을 통해 다양한 예술가들과 협업해 왔습니다. 그는 2pac에서 Katy Perry, Psy, Nicepeter, EpicLLOYD에 이르기까지 모든 사람을 위한 게스트 구절을 삭제했습니다. 이제 Snoop은 예기치 못한 공동 작업자인 Blippi와 협력했습니다. 시그니처 블루 앤 오렌지 의상을 입은 어린이 친화적인 캐릭터가 힙합 아이콘과 힘을 합쳐 \"아이스크림 트럭 송\" 을 전달했습니다. \"더 많은 멋진 이야기를 보려면 Tubefilter를 방문하세요."
+        },
+        {
+          "title": "Sam and Colby are bringing their annual Halloween spectacle to Netflix",
+          "link": "https://www.tubefilter.com/2026/09/24/sam-and-colby-halloween-horror-netflix-youtube/",
+          "pubDate": "2026-09-24T21:42:50.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/sam-and-colby-netflix.jpg",
+          "summary": "Netflix's latest creator deal could very well send a shiver of dread down YouTube's spine. Sam Goldbach and Colby Brock, the paranormal investigators known collectively as Sam and Colby, are bringing Hell Week -- their spooky season tradition -- to Netflix in 2026. Sam and Colby, who first broke out on Vine, are now regarded as YouTube's premier explorers of abandoned buildings, ghost towns, and other spooky locales. The culmination of their investigations comes during Hell Week, which typically",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "Netflix",
+            "News",
+            "colby brock"
+          ],
+          "isForeign": true,
+          "titleKo": "Sam과 Colby가 넷플릭스에 매년 할로윈 장관을 선사합니다",
+          "summaryKo": "Netflix의 최신 크리에이터 거래는 YouTube의 척추를 떨게 할 수 있습니다. Sam과 Colby로 알려진 초자연적 인 수사관 인 Sam Goldbach와 Colby Brock은 2026 년 Netflix에 유령 시즌 전통 인 Hell Week를 가져 왔습니다. Vine에서 처음 시작된 Sam과 Colby는 이제 버려진 건물, 유령 마을 및 기타 으스스한 지역을 탐험하는 YouTube 최고의 탐험가로 간주됩니다. 그들의 조사의 정점은 Hell W에서 나옵니다."
+        },
+        {
+          "title": "Meta bets on $1,300 VR glasses that can play YouTube, ESPN, Peacock, and much more",
+          "link": "https://www.tubefilter.com/2026/09/24/meta-new-vr-glasses-espn-youtube-apps-included/",
+          "pubDate": "2026-09-24T20:24:00.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/meta-vr-glasses.jpg",
+          "summary": "Meta is continuing its wearables renaissance by unveiling virtual-reality glasses stuffed with a plethora of entertainment and sports apps. The Meta VR Glasses will cost $1,300 when they debut next spring and will offer significant value thanks to a long list of launch partners. Prime Video, YouTube, Peacock, HBO Max, Paramount+, DIRECTV, AMC+, Crunchyroll, Plex, and Tubi will all be available to watch on Meta VR Glasses. The device will also carry a competitive lineup of sports channels, includ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "Meta",
+            "News",
+            "meta"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube, ESPN, Peacock 등을 재생할 수 있는 $ 1,300 VR 안경에 대한 메타 베팅",
+          "summaryKo": "Meta는 수많은 엔터테인먼트 및 스포츠 앱으로 채워진 가상 현실 안경을 공개함으로써 웨어러블 르네상스를 이어가고 있습니다. Meta VR Glasses는 내년 봄에 데뷔할 때 $ 1,300의 비용이 들며 출시 파트너의 긴 목록 덕분에 상당한 가치를 제공할 것입니다. Prime Video, YouTube, Peacock, HBO Max, Paramount +, DIRECTV, AMC +, Crunchyroll, Plex, Tubi는 모두 Meta VR Glasses에서 시청할 수 있습니다. 장치에는 경쟁력 있는 스포 라인업도 포함됩니다."
+        },
         {
           "title": "“YouTube is the greatest casting call of all time”: Paul Telner on why Hollywood’s creator IP gold rush is years in the making",
           "link": "https://www.tubefilter.com/2026/09/23/paul-telner-viral-nation-vidsummit-creator-ip-development-panel-xavier-mortimer-ray-ligaya/",
@@ -482,59 +535,10 @@
           "isForeign": true,
           "titleKo": "킹스 리그는 브라질의 차세대 크리에이터가 되고자 합니다. 트위치 수의사가 공을 던집니다.",
           "summaryKo": "국제 축구 대회를 운영하는 경우 브라질에서 활동하고 싶을 것입니다. 크리에이터가 이끄는 킹스 리그는 확실히 브라질 관객의 더 큰 부분을 원하기 때문에 해당 시장으로 이끌 수 있는 경험이 풍부한 상무이사를 고용하고 있습니다. Twitch의 전 콘텐츠 및 파트너십 이사인 Anadege Freitas는 킹스 리그에서 임원직을 맡았습니다. 프레이타스는 전설적인 스페인 축구 선수 제라르를 포함한 연맹 지도자들과 연결될 것입니다."
-        },
-        {
-          "title": "OpenAI needs more creator products. Patreon’s Co-Founder will develop them.",
-          "link": "https://www.tubefilter.com/2026/09/23/chatgpt-openai-hire-sam-yam-patreon-head-creator-products/",
-          "pubDate": "2026-09-23T20:09:43.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/sam-yam.jpg",
-          "summary": "Since co-founding Patreon alongside Jack Conte more than 13 years ago, Sam Yam has played a key leadership role for the creator funding platform. But Yam's time at Patreon has come to an end, and as he departs, he's taking two of his colleagues with him. Yam has accepted an offer to lead the new Creator Product division at OpenAI. In that role, he will look to build an ecosystem that makes offerings like ChatGPT work harder for creators and their partners. Visit Tubefilter for more great stories",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "OpenAI",
-            "hire"
-          ],
-          "isForeign": true,
-          "titleKo": "OpenAI에는 더 많은 크리에이터 제품이 필요합니다. Patreon의 공동 창업자가 이를 개발합니다.",
-          "summaryKo": "Sam Yam은 13년 전 Jack Conte와 함께 Patreon을 공동 설립한 이래로 크리에이터 자금 조달 플랫폼에서 핵심적인 리더십 역할을 해왔습니다. 하지만 얌의 Patreon 활동은 끝이 났고, 얌은 떠나면서 동료 두 명을 데리고 떠납니다. Yam은 OpenAI에서 새로운 크리에이터 제품 부문을 이끌겠다는 제안을 수락했습니다. 그 역할에서 그는 ChatGPT와 같은 서비스가 크리에이터와 파트너를 위해 더 열심히 일할 수 있는 생태계를 구축하고자 합니다. Tubefilter fo 방문하기"
-        },
-        {
-          "title": "YouTube is using AI to tinker with everything — from thumbnails to homepages to entire videos",
-          "link": "https://www.tubefilter.com/2026/09/23/made-on-youtube-2026-ai-personalization-creator-tools/",
-          "pubDate": "2026-09-23T15:38:48.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/made-on-youtube-2026.jpg",
-          "summary": "On September 23, YouTube held its annual Made On event in New York City. If you've tuned into previous editions of YouTube's product spiel, the headlines for the 2026 presentation may sound familiar. YouTube is bringing more AI-powered personalization to both creators and viewers, and new testing tools will optimize the platform's videos across multiple formats. YouTube adds dynamic thumbnails and video A/B tests to its \"personalized Studio team\" Creators are always looking for any slight advant",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube",
-            "A/B testing"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube는 미리보기 이미지부터 홈페이지, 전체 동영상에 이르기까지 모든 것을 다루기 위해 AI를 사용하고 있습니다.",
-          "summaryKo": "9월 23일, YouTube는 뉴욕시에서 연례 Made On 이벤트를 개최했습니다. 이전 버전의 YouTube 제품 spiel을 시청한 경우 2026 프레젠테이션의 헤드라인이 익숙하게 들릴 수 있습니다. YouTube는 크리에이터와 시청자 모두에게 더욱 향상된 AI 기반 개인화를 제공하고 있으며, 새로운 테스트 도구를 통해 플랫폼의 동영상을 다양한 형식으로 최적화할 수 있습니다. YouTube는 '맞춤형 스튜디오 팀' 에 역동적인 미리보기 이미지와 동영상 A/B 테스트를 추가합니다. 크리에이터는 항상"
-        },
-        {
-          "title": "Meet the top editors behind MrBeast, MKBHD, and Quenlin Blackwell–here and onstage at VidSummit",
-          "link": "https://www.tubefilter.com/2026/09/22/vidsummit-editor-panel-hopescope-tyler-allen-rachel-kisela-mariah-zenk-olive-oaking/",
-          "pubDate": "2026-09-23T02:43:52.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/hope-vidsummit.png",
-          "summary": "At this year’s VidSummit, running Sept. 29-Oct. 1 at the Irving Convention Center in Texas, YouTube veteran HopeScope and her “hubbager” Tyler Allen will take the keynote stage for Beyond the Timeline: The Editors Behind YouTube’s Biggest Channels. This in-depth panel pulls together pro editors Rachel Kisela (former Lead Video Editor @ MrBeast and founder […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "MrBeast, MKBHD, Quenlin Blackwell 등 최고의 에디터를 VidSummit 무대에서 만나보세요",
-          "summaryKo": "올해 VidSummit은 9월 29일부터 10월 1일까지 텍사스 어빙 컨벤션 센터에서 진행되며, 유튜브 베테랑 HopeScope와 그녀의 \"허브베이거\" Tyler Allen은 Beyond the Timeline: The Editors Behind YouTube's Biggest Channels의 기조 연설 무대에 오른다. 이 심층 패널은 전문 편집자 Rachel Kisela (전 수석 비디오 편집자 @ MrBeast 및 창립자 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 듣습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T18:12:22.874Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-09-25T00:14:56.955Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -607,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:24.372Z",
+      "fetchedAt": "2026-09-25T00:14:57.128Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:24.424Z",
+      "fetchedAt": "2026-09-25T00:14:57.209Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:27.587Z",
+      "fetchedAt": "2026-09-25T00:15:00.308Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:27.875Z",
+      "fetchedAt": "2026-09-25T00:15:00.569Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -967,7 +971,7 @@
           "summaryKo": "Databricks는 클라우드 스프레드시트 스타트업 Row Zero를 인수하여 2026 쇼핑에 또 다른 인수를 추가했습니다."
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:30.226Z",
+      "fetchedAt": "2026-09-25T00:15:00.913Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -975,6 +979,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "주한독일·프랑스상의, 한성숙 총리와 200명 한자리에…유럽기업 투자·규제 현안 논의",
+          "link": "https://www.venturesquare.net/1116120/",
+          "pubDate": "2026-09-24T13:39:19.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Outlook-xpaa3p03-789x384.png",
+          "summary": "주한독일상공회의소와 주한프랑스상공회의소가 한성숙 국무총리를 초청해 유럽계 기업의 한국 투자환경과 규제 현안을 논의했다. 행사에는 독일·프랑스 등 유럽계 기업과 정부·외교·경제계 관계자 약 200명이 참석했다. 오는 10월 29~31일 서울에서 열리는 ‘APK 2026’... The post 주한독일·프랑스상의, 한성숙 총리와 200명 한자리에…유럽기업 투자·규제 현안 논의 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "APK2026",
+            "FKCCI",
+            "KGCCI",
+            "규제개선",
+            "글로벌비즈니스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "부산창조경제혁신센터, 일본 진출 스타트업 6곳 찾는다…도쿄서 대기업·CVC 연결",
           "link": "https://www.venturesquare.net/1116109/",
@@ -1046,27 +1068,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "충남콘텐츠진흥원·씨엔티테크, 대학생 창업팀 10곳 키운다…최종 5팀에 400만원",
-          "link": "https://www.venturesquare.net/1116022/",
-          "pubDate": "2026-09-24T09:19:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-2-789x427.jpg",
-          "summary": "충남콘텐츠진흥원 그린스타트업타운과 씨엔티테크가 충남 지역 대학생과 대학원생의 창업 아이디어를 발굴하는 ‘2026 충남 대학생 창업경진대회’를 개최한다. 재학생과 휴학생이 1~4인 팀으로 참여할 수 있으며 서류평가를 통과한 10개 팀은 창업 이론과 실습을 결합한 캠프에 ... The post 충남콘텐츠진흥원·씨엔티테크, 대학생 창업팀 10곳 키운다…최종 5팀에 400만원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "그린스타트업타운",
-            "대학생창업",
-            "사업계획서",
-            "스타트업",
-            "씨엔티테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:32.564Z",
+      "fetchedAt": "2026-09-25T00:15:02.589Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1075,17 +1079,17 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 - v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZXNXdEFfNlJqQ0RET1g2bEhrNjRZS0tZak8yYUNOQUZMeHdDTUg0OTlYaXFXUjlYcG9PNDNQUWxpNEhWRExURVRrd2tBb1U?oc=5",
-          "pubDate": "2026-09-22T09:35:40.000Z",
+          "title": "경상북도, 청년 취업성공 패키지! 청년애(愛)꿈 지원사업 참여자 연중 수시 모집 - CBN뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiaUJ6T0tsSXNUbjBvbU0wbERZMUlMcjdqZTlRdFBDZTJKSkltQXUyOHg5N1NJZHFVS1dRTXVpLU5PaktsZXpDTUtHUFlmRmZRelVZ?oc=5",
+          "pubDate": "2026-09-24T22:47:43.000Z",
           "image": null,
-          "summary": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 v.daum.net",
+          "summary": "경상북도, 청년 취업성공 패키지! 청년애(愛)꿈 지원사업 참여자 연중 수시 모집 CBN뉴스",
           "keywords": [
-            "울산창조경제혁신센터",
-            "AI",
-            "활용",
-            "R&D",
-            "사업계획서"
+            "경상북도",
+            "청년",
+            "취업성공",
+            "패키지",
+            "청년애(愛)꿈"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1160,73 +1164,73 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-24T22:10:32.971Z",
+      "fetchedAt": "2026-09-25T00:15:02.992Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 5,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "ai전환",
       "label": "AI전환",
       "count": 2,
-      "rank": 3,
-      "change": "same"
+      "rank": 1,
+      "change": "up"
     },
     {
-      "key": "사업계획서",
-      "label": "사업계획서",
+      "key": "출시",
+      "label": "출시",
       "count": 2,
-      "rank": 4,
-      "change": "same"
+      "rank": 2,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 4,
+      "rank": 8,
+      "change": "down"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
       "rank": 9,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "poc",
@@ -1262,59 +1266,59 @@
       "labelKo": "홈페이지 기능"
     },
     {
+      "key": "articles",
+      "label": "Articles",
+      "count": 4,
+      "rank": 4,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "추천 동영상"
+    },
+    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 4,
-      "change": "same",
+      "rank": 6,
+      "change": "down",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 4,
+      "rank": 7,
+      "change": "up",
+      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 8,
+      "change": "down",
       "labelKo": "스타트업"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 6,
-      "change": "up",
-      "labelKo": "기사"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 3,
-      "rank": 7,
-      "change": "up",
-      "labelKo": "시행 조치"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "up",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 3,
       "rank": 9,
-      "change": "up",
-      "labelKo": "뉴스"
+      "change": "down",
+      "labelKo": "시행 조치"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     }
   ]
