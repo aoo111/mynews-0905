@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-25T18:11:51.933Z",
+  "collectedAt": "2026-09-25T23:06:13.558Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "지난해 음주 진료비 첫 4조원대…흡연은 2024년 이후 지속 상승",
+          "link": "https://www.mk.co.kr/news/economy/12161539",
+          "pubDate": "2026-09-25T21:38:59.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/26/news-p.v1.20260926.237ae535528643afa01acc3169579b6c_R.png",
+          "summary": "지난해 음주·흡연으로 인한 진료비가 8조5000억원에 이르는 등 최근 5개년간 37조원 넘게 소요된 것으로 나타났다. 26일 국회 보건복지위원회 소속 더불어민주당 남인순 의원이 국..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "너무 일찍 죽거나, 너무 늦게 죽거나 … 꼭 필요한 안전망",
+          "link": "https://www.mk.co.kr/news/economy/12160516",
+          "pubDate": "2026-09-25T20:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260917.90990c3baa884169a73816e9b6cd270f_R.png",
+          "summary": "⑭사회보험부터 생명·손해보험까지, 위험을 나누는 방법미히르 데사이(Mihir Desai)의 책 ‘금융의 모험(The Wisdom of Finance)’에 따르면 금융은 인간의 두 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“산재보험 1억6천만원 받았는데 또?”…추락한 철근공 회사에 소송 낸 까닭 [어쩌다 세상이]",
           "link": "https://www.mk.co.kr/news/economy/12161486",
           "pubDate": "2026-09-25T13:03:36.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"간식비·게임비 따로따로\"… 추석 용돈으로 시작하는 첫 재테크",
-          "link": "https://www.mk.co.kr/news/economy/12161399",
-          "pubDate": "2026-09-25T09:06:34.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/26/20260926_01110105000002_L00.jpg",
-          "summary": "아이에게 용돈을 쥐여주며 \"아껴 쓰라\"고 말하는 것만으로 경제 관념이 생기지는 않는다. 직접 돈을 나누고 목표를 세우며 저축 결과를 확인하는 경험이 쌓여야 돈의 가치와 쓰임을 배울..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“달러 쌀 때 들어두자”…원화 강세에 다시 뜨는 달러보험",
-          "link": "https://www.mk.co.kr/news/economy/12161323",
-          "pubDate": "2026-09-25T04:24:18.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.c9e713080766463c988f49b8fcd900b8_R.png",
-          "summary": "올해 초 금융당국 경고에 판매 급격히 감소했지만 원화 대비 달러값 내리자 8월 한달 판매 3배 늘어 보장·환율 효과 누리지만 환테크 활용은 유의해야원화 강세로 달러 매입 부담..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:42.490Z",
+      "fetchedAt": "2026-09-25T23:05:55.547Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+          "pubDate": "2026-09-25T20:30:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+          "keywords": [
+            "Orders on Banking Applications"
+          ],
+          "isForeign": true,
+          "titleKo": "연방 준비 이사회가 Peoples Bancorp Inc. 의 신청 승인을 발표했습니다.",
+          "summaryKo": "연방 준비 이사회가 Peoples Bancorp Inc. 의 신청 승인을 발표했습니다."
+        },
         {
           "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다.",
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
-        },
-        {
-          "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-          "pubDate": "2026-09-18T15:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-          "keywords": [
-            "Enforcement Actions"
-          ],
-          "isForeign": true,
-          "titleKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표",
-          "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:42.541Z",
+      "fetchedAt": "2026-09-25T23:05:57.319Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "미중 정상 백악관 회담...시진핑 \"AI 통제\" vs 트럼프 \"현상 유지\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+          "pubDate": "2026-09-26T08:01:13.000Z",
+          "image": null,
+          "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관 국빈 만찬에서 빅테크 수장들과 자리를 함께하며 AI 패권을 둘러싼 미중 관계의 향방을 타진했다. 양국 정상은 AI 주도권을 확보하겠다는 본질적인 목표와 기술 경쟁 의지를 공유하면서도, 이를 풀어내는 화법과 접근 방식에서는 온도 차를 드러냈다.24일(현지시간) 백악관 이스트룸에서 열린 국빈 만찬에는 젠슨 황 엔비디아 CEO, 팀 쿡 애플 회장, 일론 머스크 CEO, 마크 저커버그 메타 CEO, 샘 알트먼 오픈AI CEO, 순다르 피차이 구글 CEO, 사티아 나델라 마이크로소프",
+          "keywords": [
+            "미중",
+            "정상",
+            "백악관",
+            "회담",
+            "시진핑"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+          "pubDate": "2026-09-26T07:23:18.000Z",
+          "image": null,
+          "summary": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와 코드 생성, 상시 가동형 에이전트를 하나로 묶은 슈퍼 앱으로 서비스로 재편해 비즈니스 AI 시장의 주도권을 굳히겠다는 전략이다. 사티아 나델라 MS CEO는 25일(현지시간) 새로운 코파일럿을 공개하며 발표에서 \"모든 에이전트는 고유한 정체성을 가져야 하며 에이전트의 모든 행동은 관찰되어야 한다\"라며 \"과거 개별 도구가 업무 환경을 바꿨",
+          "keywords": [
+            "MS",
+            "에이전트",
+            "코드",
+            "생성",
+            "통합한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215654",
-          "pubDate": "2026-09-25T21:36:36.000Z",
-          "image": null,
-          "summary": "전방 배치 엔지니어(FDE)의 채용이 1년 사이 급증하며, 직무 관련 지식과 현장 경험에 대한 교육 수요도 빠르게 증가하는 것으로 나타났다. 교육 전문 데이원컴퍼니(대표 신해동, 김동혁)는 기업 AX 전 과정을 지원하는 ‘데이원 AI 디플로이먼트 컴퍼니(DAY1 AI Deployment Company)’ 사업의 인재 양성 프로그램으로 ‘FDE 아카데미’를 신설했다고 25일 밝혔다. FDE는 기존 소프트웨어 엔지니어와 달리 고객사에 상주하며 맞춤형 솔루션을 구축하는 현장 파견형 엔지니어다. 단순 개발을 넘어 프로젝트 매니저의 문제 정",
-          "keywords": [
-            "FDE",
-            "도입",
-            "1년",
-            "교육",
-            "수요도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215650",
-          "pubDate": "2026-09-25T20:38:20.000Z",
-          "image": null,
-          "summary": "오픈AI가 개발자 생태계 확장을 위한 플랫폼 개편에 나선 것으로 알려졌다. 단순히 AI 모델을 API로 제공하는 것을 넘어, 아이디어 구상부터 프로토타입 제작, 실제 서비스 운영까지 애플리케이션 개발 전 과정을 지원하는 방향으로 플랫폼의 역할을 확대하려는 움직임이다.23일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 개발자 API 플랫폼의 새로운 온보딩 절차를 준비 중이다. 여기에는 '오픈AI 플랫폼(OpenAI Platform)'이라는 이름이 붙었다.이 과정에서 발견된 문구를 통해 AI 애플리케이션을 아이디어 단계부터 실제 서비",
-          "keywords": [
-            "오픈AI",
-            "신규",
-            "개발자",
-            "플랫폼",
-            "요금제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:43.676Z",
+      "fetchedAt": "2026-09-25T23:05:58.287Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:43.822Z",
+      "fetchedAt": "2026-09-25T23:05:58.426Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,85 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Ink &amp; Switch의 인터랙티브 홈페이지",
-          "link": "https://news.hada.io/topic?id=34277",
-          "pubDate": "2026-09-25T17:45:16.000Z",
+          "title": "Ollaya - 오픈소스 Jev 스타일 의사결정 모델을 위한 Ollama",
+          "link": "https://news.hada.io/topic?id=34288",
+          "pubDate": "2026-09-25T21:32:54.000Z",
           "image": null,
-          "summary": "Ink & Switch가 설립 10주년을 기념해 연구 기술로 만든 인터랙티브 작품 Tenfold를 공개함 Tenfold는 열 글자와 10년을 뜻하며, 화면 곳곳을 클릭하거나 드래그하며 즐길 수 있음 사고를 돕는 도구의 미래를 탐구하는 독립...",
+          "summary": "Ollaya는 텍스트나 JSON에 타입이 지정된 질문을 하고, 보정된 답을 로컬 하드웨어에서 얻는 오픈소스 의사결정 모델 실행 도구임 토큰을 순차 생성하지 않고 한 번의 순전파로 답하며, RTX 4090에서 Laya로 질문 5개를 처리하는 HTTP API 요청의 전체 소요 시간은...",
           "keywords": [
-            "Ink",
-            "&amp;",
-            "Switch의",
-            "인터랙티브",
-            "홈페이지"
+            "Ollaya",
+            "오픈소스",
+            "Jev",
+            "스타일",
+            "의사결정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "비행기에서 아기띠 사용을 허용하라",
-          "link": "https://news.hada.io/topic?id=34276",
-          "pubDate": "2026-09-25T17:42:16.000Z",
+          "title": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무",
+          "link": "https://news.hada.io/topic?id=34287",
+          "pubDate": "2026-09-25T20:43:27.000Z",
           "image": null,
-          "summary": "FAA는 추가 좌석 비용 때문에 부모가 더 위험한 자동차 여행을 택할 수 있다는 이유로 영아를 무릎에 안고 타는 것을 허용하지만, 지상 이동과 이착륙 중 아기띠 사용은 금지함 금지 근거인 1994년 연구는 여러 아동 보호장치를 시험했으나, 착용...",
+          "summary": "Oracle, 데이터센터에 전력이 공급되지 않아도 투자자에게 대금 지급 의무",
           "keywords": [
-            "비행기에서",
-            "아기띠",
-            "사용을",
-            "허용하라"
+            "Oracle",
+            "데이터센터에",
+            "전력이",
+            "공급되지",
+            "않아도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 항소법원, Anthropic의 공급망 위험 지정 유지",
-          "link": "https://news.hada.io/topic?id=34275",
-          "pubDate": "2026-09-25T17:39:16.000Z",
+          "title": "시험",
+          "link": "https://news.hada.io/topic?id=34286",
+          "pubDate": "2026-09-25T20:40:27.000Z",
           "image": null,
-          "summary": "워싱턴 D.C. 연방항소법원이 2대 1 판결로 국방부의 Anthropic 공급망 위험 지정을 유지하고, Claude 사용 금지가 자의적이고 권한을 벗어났으며 위헌이라는 회사 측 주장을 받아들이지 않음 공급망 위험 지정은 미군의 Anthropic 모델 사용을 금지하며, 방산 계약...",
+          "summary": "기술 업계 거물들의 터무니없는 발언은, 의도적으로 설계하지 않았더라도 주변 사람이 어디까지 받아들이는지 가르는 복종의 시험으로 작동함 Jensen Huang은 아이들이 기초 수학을 잊는 것이 중요하지 않다고 답하고, 자신의 주소와 전화번호를 몰라도 생활할 수 ...",
           "keywords": [
-            "미국",
-            "항소법원",
-            "Anthropic의",
-            "공급망",
-            "위험"
+            "시험"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Virtio-nvgpu - KVM 가상 머신에서 NVIDIA GPU를 네이티브에 가까운 성능으로 공유",
-          "link": "https://news.hada.io/topic?id=34274",
-          "pubDate": "2026-09-25T16:54:39.000Z",
+          "title": "제1원리 사고",
+          "link": "https://news.hada.io/topic?id=34285",
+          "pubDate": "2026-09-25T20:37:27.000Z",
           "image": null,
-          "summary": "GPU 한 장을 가상 머신 하나에 통째로 넘기는 대신, 호스트가 GPU를 유지하면서 여러 KVM 가상 머신이 함께 사용하도록 하는 실험적 프로젝트 모니터 없이 화면을 만들어 전송하는 헤드리스 스트리밍을 목표로, 게스트 안에서 GPU 렌더링, 합성, 인코딩을 수행하고...",
+          "summary": "축적한 경험은 변화한 환경에서 다른 접근을 어렵게 만들 수 있으며, 제1원리 사고는 기존 답보다 지금 해결하려는 문제와 목적에서 출발함 막혔을 때는 결과에만 집중하기보다 실행 가능한 가장 작은 일을 끝내며 추진력을 얻는 것이 다음 행동을 찾는 데 도움이 ...",
           "keywords": [
-            "Virtio",
-            "nvgpu",
-            "KVM",
-            "가상",
-            "머신에서"
+            "제1원리",
+            "사고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "LLM으로 연금술 지식의 전파를 추적하고 17세기 편지를 해독하기",
-          "link": "https://news.hada.io/topic?id=34273",
-          "pubDate": "2026-09-25T16:51:39.000Z",
+          "title": "SourceHut 빌드 로그를 통한 계정 탈취 취약점, ansi2html의 XSS",
+          "link": "https://news.hada.io/topic?id=34284",
+          "pubDate": "2026-09-25T19:55:00.000Z",
           "image": null,
-          "summary": "GPT-6와 Opus 5.5를 역사 전문가의 지식과 결합해, 문서 전사를 넘어 사료의 출처와 지식 전파 경로를 찾는 초기 연구가 진행 중임 유망한 대상은 암호 해독, 번역과 각색을 거친 텍스트 추적, 분산된 연구 성과 연결이며, 자료가 디지털화돼 있고 결과의 진위를 검...",
+          "summary": "ansi2html의 XSS 취약점으로 빌드 로그에 악성 문자열을 삽입한 공격자가 해당 로그를 열람하는 SourceHut 사용자의 계정을 탈취할 수 있었음 공격자는 OSC 8 하이퍼링크 처리의 허점을 악용할 수 있었으며, CI가 활성화된 공개 메일링 리스트에 패치를 보내는 경로...",
           "keywords": [
-            "LLM으로",
-            "연금술",
-            "지식의",
-            "전파를",
-            "추적하고"
+            "SourceHut",
+            "빌드",
+            "로그를",
+            "통한",
+            "계정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:44.630Z",
+      "fetchedAt": "2026-09-25T23:05:58.860Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -453,6 +447,60 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Have you heard? Saying sayonara to the PewDiePie vlog and taking “go back to Africa” literally.",
+          "link": "https://www.tubefilter.com/2026/09/25/have-you-heard-pewdiepie-vlog-abdirahman-keinaan/",
+          "pubDate": "2026-09-25T22:44:25.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/abdirahman-keinaan.jpg",
+          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a YouTube legend is ending a chapter of his career, two others are thinking about a comeback, and a Finnish creator found a clever response to a racist remark. Creator commotion PewDiePie has decided to call it quits on his vlogs. After stepping away from gaming content, moving to Japan, and having a kid with his wife Marzia, Felix Kjellbe",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "abdirahman keinaan",
+            "banijay"
+          ],
+          "isForeign": true,
+          "titleKo": "들었니? PewDiePie 브이로그에 sayonara라고 말하고 문자 그대로 \"아프리카로 돌아가기\" 를 가져갑니다.",
+          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 유튜브 전설이 그의 경력의 한 장을 끝내고, 다른 두 명이 컴백을 생각하고 있으며, 핀란드 제작자가 인종 차별적 발언에 대한 영리한 반응을 발견했습니다. 크리에이터의 소란 PewDiePie는 이를 자신의 동영상 블로그에서 종료라고 부르기로 결정했습니다. 게임 콘텐츠에서 벗어나 일본으로 건너가 아내 M과 함께 아이를 낳은 후"
+        },
+        {
+          "title": "YouTube CEO Neal Mohan shrugs off Meta’s attempt to persuade rivals to add safety features",
+          "link": "https://www.tubefilter.com/2026/09/25/youtube-ceo-neal-mohan-denies-meta-request-safety/",
+          "pubDate": "2026-09-25T21:26:28.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-neal-mohan-getty.jpg",
+          "summary": "Neal Mohan has had a busy week. On Wednesday, the YouTube CEO led his company as it presented new products and features at its annual Made On event. Then, after he stepped off the stage, Mohan delivered another announcement: He told CNN that YouTube will not be heeding Meta's request to add a specific set of safety features. \"We have invested in making sure that young people are safe on our platform…for a very long time,\" Mohan said. \"What you should expect from YouTube is continuing to focus on",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "meta",
+            "neal mohan"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube CEO 닐 모한 (Neal Mohan) 은 경쟁 업체를 설득하여 안전 기능을 추가하려는 메타의 시도를 뿌리칩니다.",
+          "summaryKo": "닐 모한은 바쁜 한 주를 보냈습니다. 수요일, YouTube CEO는 연례 Made On 이벤트에서 새로운 제품과 기능을 발표하면서 회사를 이끌었습니다. 그런 다음, 그가 무대에서 물러난 후, Mohan은 또 다른 발표를 했습니다. 그는 CNN에 YouTube가 특정 안전 기능 세트를 추가하라는 Meta의 요청에 귀를 기울이지 않을 것이라고 말했습니다. 모한은 \"우리는 젊은이들이 우리 플랫폼에서 매우 오랫동안 안전하게 지낼 수 있도록 투자했다\" 고 말했다. \"YouTube에서 기대할 수 있는 것은"
+        },
+        {
+          "title": "What do YouTube’s eating disorder rules mean for the future of mukbang content?",
+          "link": "https://www.tubefilter.com/2026/09/25/mukbang-youtube-disordered-eating-rules-tsuyang/",
+          "pubDate": "2026-09-25T20:34:33.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/mukbang-getty.jpg",
+          "summary": "For over a decade, mukbang streams have been one of the internet's greatest curiosities. In 2026, however, parents and tech companies are worried about imitable patterns of disordered eating within creator content, and those concerns are bringing changes to the mukbang category. Mukbang, a Korean word that literally translates to \"eating broadcast,\" refers to live streams in which creators consume gargantuan quantities of food. In Korea, a nationwide loneliness epidemic is believed to be one of ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "eating disorders"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube의 섭식 장애 규칙은 묵방 콘텐츠의 미래에 어떤 의미인가요?",
+          "summaryKo": "10년 넘게 묵방 스트림은 인터넷의 가장 큰 호기심 중 하나였습니다. 그러나 2026년에 부모와 기술 회사는 크리에이터 콘텐츠 내에서 모방 가능한 식생활 패턴에 대해 우려하고 있으며, 이러한 우려로 인해 mukbang 카테고리가 변경되고 있습니다. 먹방 (Mukbang) 은 문자 그대로 '먹는 방송' 으로 번역되는 한국어 단어로, 크리에이터가 엄청난 양의 음식을 소비하는 라이브 스트림을 의미합니다. 한국에서는 전국적으로 외로움 전염병이"
+        },
         {
           "title": "YouTube wants you to pump its TV watch time with microdramas",
           "link": "https://www.tubefilter.com/2026/09/24/made-on-youtube-shorts-series-microdramas/",
@@ -484,58 +532,9 @@
           "isForeign": true,
           "titleKo": "Moonbug는 \"완전히 통합 된 음악 회사\" 를 시작하면서 \"큰 느낌\" 의 시대에 있습니다.",
           "summaryKo": "스눕 독 (Snoop Dogg) 은 30년 이상의 경력을 통해 다양한 예술가들과 협업해 왔습니다. 그는 2pac에서 Katy Perry, Psy, Nicepeter, EpicLLOYD에 이르기까지 모든 사람을 위한 게스트 구절을 삭제했습니다. 이제 Snoop은 예기치 못한 공동 작업자인 Blippi와 협력했습니다. 시그니처 블루 앤 오렌지 의상을 입은 어린이 친화적인 캐릭터가 힙합 아이콘과 힘을 합쳐 \"아이스크림 트럭 송\" 을 전달했습니다. \"더 많은 멋진 이야기를 보려면 Tubefilter를 방문하세요."
-        },
-        {
-          "title": "Sam and Colby are bringing their annual Halloween spectacle to Netflix",
-          "link": "https://www.tubefilter.com/2026/09/24/sam-and-colby-halloween-horror-netflix-youtube/",
-          "pubDate": "2026-09-24T21:42:50.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/sam-and-colby-netflix.jpg",
-          "summary": "Netflix's latest creator deal could very well send a shiver of dread down YouTube's spine. Sam Goldbach and Colby Brock, the paranormal investigators known collectively as Sam and Colby, are bringing Hell Week -- their spooky season tradition -- to Netflix in 2026. Sam and Colby, who first broke out on Vine, are now regarded as YouTube's premier explorers of abandoned buildings, ghost towns, and other spooky locales. The culmination of their investigations comes during Hell Week, which typically",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "Netflix",
-            "News",
-            "colby brock"
-          ],
-          "isForeign": true,
-          "titleKo": "Sam과 Colby가 넷플릭스에 매년 할로윈 장관을 선사합니다",
-          "summaryKo": "Netflix의 최신 크리에이터 거래는 YouTube의 척추를 떨게 할 수 있습니다. Sam과 Colby로 알려진 초자연적 인 수사관 인 Sam Goldbach와 Colby Brock은 2026 년 Netflix에 유령 시즌 전통 인 Hell Week를 가져 왔습니다. Vine에서 처음 시작된 Sam과 Colby는 이제 버려진 건물, 유령 마을 및 기타 으스스한 지역을 탐험하는 YouTube 최고의 탐험가로 간주됩니다. 그들의 조사의 정점은 Hell W에서 나옵니다."
-        },
-        {
-          "title": "Meta bets on $1,300 VR glasses that can play YouTube, ESPN, Peacock, and much more",
-          "link": "https://www.tubefilter.com/2026/09/24/meta-new-vr-glasses-espn-youtube-apps-included/",
-          "pubDate": "2026-09-24T20:24:00.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/meta-vr-glasses.jpg",
-          "summary": "Meta is continuing its wearables renaissance by unveiling virtual-reality glasses stuffed with a plethora of entertainment and sports apps. The Meta VR Glasses will cost $1,300 when they debut next spring and will offer significant value thanks to a long list of launch partners. Prime Video, YouTube, Peacock, HBO Max, Paramount+, DIRECTV, AMC+, Crunchyroll, Plex, and Tubi will all be available to watch on Meta VR Glasses. The device will also carry a competitive lineup of sports channels, includ",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "Meta",
-            "News",
-            "meta"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube, ESPN, Peacock 등을 재생할 수 있는 $ 1,300 VR 안경에 대한 메타 베팅",
-          "summaryKo": "Meta는 수많은 엔터테인먼트 및 스포츠 앱으로 채워진 가상 현실 안경을 공개함으로써 웨어러블 르네상스를 이어가고 있습니다. Meta VR Glasses는 내년 봄에 데뷔할 때 $ 1,300의 비용이 들며 출시 파트너의 긴 목록 덕분에 상당한 가치를 제공할 것입니다. Prime Video, YouTube, Peacock, HBO Max, Paramount +, DIRECTV, AMC +, Crunchyroll, Plex, Tubi는 모두 Meta VR Glasses에서 시청할 수 있습니다. 장치에는 경쟁력 있는 스포 라인업도 포함됩니다."
-        },
-        {
-          "title": "“YouTube is the greatest casting call of all time”: Paul Telner on why Hollywood’s creator IP gold rush is years in the making",
-          "link": "https://www.tubefilter.com/2026/09/23/paul-telner-viral-nation-vidsummit-creator-ip-development-panel-xavier-mortimer-ray-ligaya/",
-          "pubDate": "2026-09-24T00:35:45.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2024/08/vidsummit-guide.jpg",
-          "summary": "Following the box office success of creator-made films like Iron Lung, Backrooms, and Obsession, Hollywood is looking at our industry in a whole new light. As Viral Nation‘s Head of Programming Paul Telner puts it, “This is the gold rush.” Telner, who’s been using Viral Nation’s resources to help creators like the McCarty family develop […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "“유튜브는 역사상 가장 위대한 캐스팅 콜입니다”: 폴 텔너 (Paul Telner) 가 할리우드의 제작자 IP 골드 러시가 수년째 이어지는 이유에 대해 이야기합니다.",
-          "summaryKo": "Iron Lung, Backrooms, Obsession과 같은 크리에이터 제작 영화의 박스오피스 성공에 이어 할리우드는 완전히 새로운 시각으로 우리 업계를 바라보고 있습니다. 바이럴 네이션 (Viral Nation) 의 폴 텔너 (Paul Telner) 프로그래밍 책임자는 \"이것은 골드 러시입니다.\" 바이럴 네이션 (Viral Nation) 의 자료를 사용하여 맥카티 (McCarty) 가족과 같은 크리에이터가 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있도록 돕고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:44.682Z",
+      "fetchedAt": "2026-09-25T23:06:04.505Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:44.826Z",
+      "fetchedAt": "2026-09-25T23:06:04.760Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:44.876Z",
+      "fetchedAt": "2026-09-25T23:06:04.860Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:47.735Z",
+      "fetchedAt": "2026-09-25T23:06:08.417Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:47.962Z",
+      "fetchedAt": "2026-09-25T23:06:08.608Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,6 +885,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+          "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-25T18:48:33.000Z",
+          "image": null,
+          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Fintech",
+            "Fundraising",
+            "Media & Entertainment",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "Mark Wahlberg가 TechCrunch Disrupt 2026에 참가합니다. 그는 자신의 업무가 아닌 업무에 대해 이야기하고 싶어합니다.",
+          "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
+        },
         {
           "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
           "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
@@ -955,24 +972,9 @@
           "isForeign": true,
           "titleKo": "LIGHTSPEED는 초기 단계 AI에 초점을 맞춘 인도 신규 펀드 $ 250M를 목표로 합니다.",
           "summaryKo": "이 벤처 기업은 짧은 투자 기간으로 전환함에 따라 인도의 자금 조달 주기를 처음으로 글로벌 펀드와 연계하고 있습니다."
-        },
-        {
-          "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-          "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-          "pubDate": "2026-09-24T20:45:00.000Z",
-          "image": null,
-          "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-          "keywords": [
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Nexterity는 파이프 피팅의 단단하고 위험한 부분을 자동화하고자 합니다.",
-          "summaryKo": "스타트업의 로봇은 한 번에 4개의 볼트를 조이거나 풀 수 있으며 펠리컨 케이스에 맞습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:49.637Z",
+      "fetchedAt": "2026-09-25T23:06:10.650Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -980,6 +982,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[김지현의 Scale-Up Note] 스케일업은 커지는 것이 아니라 날카로워지는 것이다",
+          "link": "https://www.venturesquare.net/1116167/",
+          "pubDate": "2026-09-25T09:00:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/SCALEUP-NOTE-789x414.jpg",
+          "summary": "스타트업의 스케일업은 직원 수와 조직 규모를 키우는 것만을 의미하지 않는다. AI 시대에는 적은 인원으로도 기존 자원과 개인의 역량을 새롭게 조합해 더 높은 수익과 기업가치를 만들어낼 수 있다. 대기업의 조직 구조를 답습하기보다 회사가 가진 강점과 목표를 날카롭게 정의... The post [김지현의 Scale-Up Note] 스케일업은 커지는 것이 아니라 날카로워지는 것이다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI에이전트",
+            "AI전환",
+            "JiHyunCompany",
+            "경영전략"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "IPO 못 했다고 투자조건 불리하게 바꾼다?…스타트업 투자계약 ‘갑을’ 관행에 법이 들어온다",
           "link": "https://www.venturesquare.net/1116149/",
@@ -1051,27 +1071,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "디캠프·한국무라타전자, K-딥테크 9곳 일본 기술과 연결…리피즈·오션스바이오 우수기업",
-          "link": "https://www.venturesquare.net/1116068/",
-          "pubDate": "2026-09-24T13:06:57.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/1790069850505-789x454.jpeg",
-          "summary": "디캠프와 한국무라타전자가 국내 딥테크 스타트업 9개사와 일본 무라타제작소의 기술을 연결하는 ‘스타트업 OI 교토 #딥테크’ 최종 프라이빗 피칭을 진행했다. 참가기업들은 무라타의 센서와 통신, 소재, 모듈화 기술을 활용한 제품 개선과 신규 사업 모델을 제안했다. 리피즈 ... The post 디캠프·한국무라타전자, K-딥테크 9곳 일본 기술과 연결…리피즈·오션스바이오 우수기업 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "POC",
-            "기술협력",
-            "디캠프",
-            "딥테크",
-            "로보틱스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:51.404Z",
+      "fetchedAt": "2026-09-25T23:06:12.666Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1165,7 +1167,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T18:11:51.921Z",
+      "fetchedAt": "2026-09-25T23:06:13.052Z",
       "error": null
     }
   },
@@ -1220,25 +1222,25 @@
       "change": "same"
     },
     {
-      "key": "오픈ai",
-      "label": "오픈AI",
-      "count": 3,
-      "rank": 8,
-      "change": "same"
-    },
-    {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 9,
-      "change": "same"
+      "rank": 8,
+      "change": "up"
     },
     {
-      "key": "poc",
-      "label": "POC",
+      "key": "ai전환",
+      "label": "AI전환",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
       "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1259,68 +1261,68 @@
       "labelKo": "애드 센스"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 4,
+      "change": "down",
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "articles",
+      "label": "Articles",
       "count": 4,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "AI"
+      "rank": 5,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 4,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 7,
+      "change": "down",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 4,
+      "rank": 8,
+      "change": "up",
+      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 9,
+      "change": "down",
       "labelKo": "스타트업"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "enforcement actions",
-      "label": "Enforcement Actions",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "시행 조치"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
+      "key": "fintech",
+      "label": "Fintech",
       "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "뉴스"
+      "change": "new",
+      "labelKo": "Fintech"
     }
   ]
 }
