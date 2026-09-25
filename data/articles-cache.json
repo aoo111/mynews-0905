@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-25T00:15:03.000Z",
+  "collectedAt": "2026-09-25T02:09:55.884Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“아빠랑 할머니가 각각 줬는데요?”…추석 용돈 ‘2000만원 공제’의 오해",
+          "link": "https://www.mk.co.kr/news/economy/12161280",
+          "pubDate": "2026-09-25T01:04:05.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.9211a78ef4b34dfea79a44a6f62a9b35_R.png",
+          "summary": "#. 몇 년 전 초등학생 자녀에게 저축용으로 1500만원을 처음 증여한 A씨. 미성년 자녀의 증여재산공제 한도인 2000만원 이내여서 낼 세금은 없었다. 이번 추석에는 할머니가 손..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“시장 익숙하지 않은 영역 진입”…美 30년물 금리 2004년 이래 최고치",
           "link": "https://www.mk.co.kr/news/economy/12161243",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "주가상승 13%에 배당 10% … 파이어족 갈아타는 ‘혜자 GPIQ’ 뭐길래",
-          "link": "https://www.mk.co.kr/news/economy/12159601",
-          "pubDate": "2026-09-24T19:30:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260921.eff9af348a8c439e93630ccf716ed5dc_R.jpeg",
-          "summary": "좀더 안정적 배당으로…커버드콜 갈아타기 유행중김모씨(47)는 ‘JP모건 나스닥 주식 프리미엄 인컴 ETF’(JEPQ)를 1년 넘게 보유하다가 최근 전량 매도했다. 1년전 유튜브에서..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:47.924Z",
+      "fetchedAt": "2026-09-25T02:09:41.170Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:48.047Z",
+      "fetchedAt": "2026-09-25T02:09:41.351Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:49.364Z",
+      "fetchedAt": "2026-09-25T02:09:45.900Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:49.528Z",
+      "fetchedAt": "2026-09-25T02:09:46.029Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,14 +361,66 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Mel의 이야기",
+          "title": "Google Play와 결별하기: Conversations가 이제 무료인 이유",
+          "link": "https://news.hada.io/topic?id=34250",
+          "pubDate": "2026-09-25T02:02:03.000Z",
+          "image": null,
+          "summary": "Android용 연합형 메신저 Conversations가 Google Play 매출에 대한 경제적 의존에서 벗어나 무료 배포 중심으로 전환함 반복적인 업데이트 거절과 앱 삭제, 사람과 직접 소통하기 어려운 지원 체계가 결별의 배경이며, 보안 업데이트도 심사 지연을 피할 수 없다는...",
+          "keywords": [
+            "Google",
+            "Play와",
+            "결별하기:",
+            "Conversations가",
+            "이제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘멜의 이야기(Story of Mel)’ 해부하기",
+          "link": "https://news.hada.io/topic?id=34249",
+          "pubDate": "2026-09-25T01:40:21.000Z",
+          "image": null,
+          "summary": "초기 프로그래밍 일화 ‘Story of Mel’의 핵심 트릭을 RPC-4000 명령어 체계와 대조하면, 주소 오버플로로 명령을 바꾸는 방식은 가능하지만 일부 기술적 설명은 맞지 않음 Index 비트는 일화의 설명과 달리 주소와 연산 코드 사이가 아니라 명령어의 최하위 비트...",
+          "keywords": [
+            "멜의",
+            "이야기(Story",
+            "of",
+            "Mel)",
+            "해부하기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+          "link": "https://news.hada.io/topic?id=34248",
+          "pubDate": "2026-09-25T00:30:02.000Z",
+          "image": null,
+          "summary": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명...",
+          "keywords": [
+            "Archify",
+            "코드와",
+            "설명을",
+            "탐색",
+            "가능한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Mel의 이야기 (1983)",
           "link": "https://news.hada.io/topic?id=34247",
           "pubDate": "2026-09-25T00:01:39.000Z",
           "image": null,
-          "summary": "Mel의 이야기",
+          "summary": "컴파일러도 어셈블리어도 마다하고 16진수 기계어를 직접 작성하던 프로그래머 멜과, 그가 남긴 블랙잭 프로그램을 고치려던 동료의 이야기 회전하는 드럼 메모리의 타이밍까지 계산해 명령어를 배치했으며, 직접 최적화한 코드는 최적화 어셈블러보다 빨랐음 ...",
           "keywords": [
             "Mel의",
-            "이야기"
+            "이야기",
+            "(1983)"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -379,7 +431,7 @@
           "link": "https://news.hada.io/topic?id=34246",
           "pubDate": "2026-09-24T23:33:36.000Z",
           "image": null,
-          "summary": "Toyota가 차세대 Corolla에 순수 전기차와 플러그인 하이브리드 모델을 처음 도입할 예정이며, 가솔린과 하이브리드를 포함한 여러 동력계 구성을 준비 중임 차세대 모델은 현행 TNGA-C 플랫폼을 대폭 수정해 순수 전기차를 포함한 모든 동력계를 지원할 것으로 예...",
+          "summary": "1966년 출시 이후 전 세계에서 5,700만 대 이상 팔린 코롤라에 처음으로 순수 전기차와 플러그인 하이브리드 모델을 추가할 예정 기존 가솔린과 하이브리드도 유지하며, 하나의 플랫폼에서 여러 동력원을 지원하도록 차체 기반을 개편하고 외관과...",
           "keywords": [
             "Toyota",
             "Corolla",
@@ -390,60 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Whiteboard (YC W26) - 신중한 소프트웨어 설계를 위한 오픈소스 IDE",
-          "link": "https://news.hada.io/topic?id=34245",
-          "pubDate": "2026-09-24T22:42:05.000Z",
-          "image": null,
-          "summary": "Whiteboard는 사람과 코딩 에이전트가 공통 작업 공간에서 소프트웨어를 함께 설계하는 데스크톱 앱으로, Claude Code나 Codex에 연결해 에이전트가 SDK로 캔버스에 작업 내용을 그리게 함 다이어그램과 코드 탐색을 연결해 시퀀스 다이어그램, 개체 관계 다이어그...",
-          "keywords": [
-            "Whiteboard",
-            "(YC",
-            "W26)",
-            "신중한",
-            "소프트웨어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "간은 왜 유독 재생 능력이 뛰어날까?",
-          "link": "https://news.hada.io/topic?id=34244",
-          "pubDate": "2026-09-24T22:39:05.000Z",
-          "image": null,
-          "summary": "신체의 낮은 재생 능력은 단순한 결함이 아니라 암 위험을 억제하는 대가일 수 있음. 다만 이는 여러 예외와 제약이 있는 추측적 생물학 통합 가설임 간은 장에서 들어오는 독소와 병원체에 먼저 노출되고 해독 과정에서도 손상되므로, 암 위험을 감수하더라도 강한...",
-          "keywords": [
-            "간은",
-            "유독",
-            "재생",
-            "능력이",
-            "뛰어날까"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Rails World 2026 개막 기조연설 [영상]",
-          "link": "https://news.hada.io/topic?id=34243",
-          "pubDate": "2026-09-24T21:37:20.000Z",
-          "image": null,
-          "summary": "DHH는 AI 에이전트가 코드 작성의 경제성을 바꾸고 있다며, 개발자의 역할이 코드를 직접 쓰는 일에서 원하는 결과를 정의하고 만드는 일로 이동한다고 봄 37signals는 수작업 코드 작성을 예외로 취급하는 방식으로 전환했으며, 에이전트가 원하는 코드를 만들지 ...",
-          "keywords": [
-            "Rails",
-            "World",
-            "2026",
-            "개막",
-            "기조연설"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:50.234Z",
+      "fetchedAt": "2026-09-25T02:09:46.762Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +538,7 @@
           "summaryKo": "국제 축구 대회를 운영하는 경우 브라질에서 활동하고 싶을 것입니다. 크리에이터가 이끄는 킹스 리그는 확실히 브라질 관객의 더 큰 부분을 원하기 때문에 해당 시장으로 이끌 수 있는 경험이 풍부한 상무이사를 고용하고 있습니다. Twitch의 전 콘텐츠 및 파트너십 이사인 Anadege Freitas는 킹스 리그에서 임원직을 맡았습니다. 프레이타스는 전설적인 스페인 축구 선수 제라르를 포함한 연맹 지도자들과 연결될 것입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:56.955Z",
+      "fetchedAt": "2026-09-25T02:09:46.990Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:57.128Z",
+      "fetchedAt": "2026-09-25T02:09:47.183Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T00:14:57.209Z",
+      "fetchedAt": "2026-09-25T02:09:47.255Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -700,6 +701,60 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "엑스와이지, 무신사 쿠폰도 로봇이 받는다…‘바리스브루’ 리테일 맞춤 적용",
+          "link": "https://www.venturesquare.net/1116175/",
+          "pubDate": "2026-09-25T00:34:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/XYZXYZ-784x522.png",
+          "summary": "엑스와이지가 서울 ‘무신사 뷰티 홍대’에서 로봇 바리스타 바리스브루와 무신사 회원 혜택을 연동했다. 무신사 앱 쿠폰을 인식하는 전용 QR 기능을 개발하고 지류 쿠폰까지 로봇 주문 과정에서 사용할 수 있도록 했다. 아즈니섬과 ‘오렌지 비앙코’ 등 전용 메뉴를 공동 개발했... The post 엑스와이지, 무신사 쿠폰도 로봇이 받는다…‘바리스브루’ 리테일 맞춤 적용 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI로봇",
+            "XYZ",
+            "로보틱스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "지도서랍, 추석에 필요한 지도 138개 한곳에…휴게소·병원·충전소부터 나들이까지",
+          "link": "https://www.venturesquare.net/1116091/",
+          "pubDate": "2026-09-24T23:00:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/map-783x522.png",
+          "summary": "지도 큐레이션 서비스 지도서랍이 추석 연휴에 활용할 수 있는 ‘전국 추석 지도 모음’을 공개했다. 교통·귀성길부터 병원·약국, 충전·주유, 전국 나들이까지 명절에 필요한 지도 서비스를 한 페이지에서 찾아 원본 서비스로 이동할 수 있도록 구성했다. 자체 제작한 귀성길 지... The post 지도서랍, 추석에 필요한 지도 138개 한곳에…휴게소·병원·충전소부터 나들이까지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "귀성길",
+            "나들이",
+            "병원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "아폴론, 바늘 없이 혈당 재는 CGM 개발에 50억원 투자…네이버·대웅도 참여",
+          "link": "https://www.venturesquare.net/1116143/",
+          "pubDate": "2026-09-24T13:58:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/202608-696x522.jpeg",
+          "summary": "바늘 없는 연속혈당측정기를 개발하는 아폴론이 SBI인베스트먼트가 리드한 시리즈A 라운드에서 50억원 규모의 투자를 유치했다. 네이버와 대웅이 전략적 투자자로 참여했으며 신용보증기금과 미래과학기술지주도 합류했다. 아폴론은 라만 분광 기술을 활용해 피부 위에서 포도당 관련... The post 아폴론, 바늘 없이 혈당 재는 CGM 개발에 50억원 투자…네이버·대웅도 참여 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "CGM",
+            "FDA",
+            "SBI인베스트먼트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "와디즈, 펀딩 공개 대기 4일→20시간…AI가 전 과정 모니터링",
           "link": "https://www.venturesquare.net/1116138/",
@@ -735,63 +790,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "다임리서치·KAIST·스카이인텔리전스, 로봇부터 공장 전체까지 잇는다…제조 피지컬 AI 협력",
-          "link": "https://www.venturesquare.net/1116094/",
-          "pubDate": "2026-09-24T13:26:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-61.png",
-          "summary": "다임리서치와 스카이인텔리전스, KAIST 제조 피지컬 AI 연구소가 제조 현장의 피지컬 AI 적용을 위한 3자 업무협약을 체결했다. 세 기관은 KAIST의 AI·로보틱스 연구 역량, 스카이인텔리전스의 합성데이터 기술, 다임리서치의 로봇 오케스트레이션·디지털트윈 기술을 ... The post 다임리서치·KAIST·스카이인텔리전스, 로봇부터 공장 전체까지 잇는다…제조 피지컬 AI 협력 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "kaist",
-            "군집로봇",
-            "다임리서치"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "리얼월드, 로봇 AI는 실험실보다 현장부터…산업 데이터로 ‘손재주’ 학습한다",
-          "link": "https://www.venturesquare.net/1116079/",
-          "pubDate": "2026-09-24T13:11:35.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/real-789x449.jpeg",
-          "summary": "리얼월드가 ‘휴머노이드 서밋 서울 2026’에서 산업 현장 적용을 기술 개발의 출발점으로 삼는 ‘Deployment-First’ 전략을 공개했다. 실제 현장에 로봇을 적용해 데이터를 확보하고 이를 로보틱스 파운데이션 모델에 학습시켜 손 조작 능력을 높인 뒤 다시 적용 ... The post 리얼월드, 로봇 AI는 실험실보다 현장부터…산업 데이터로 ‘손재주’ 학습한다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "CJ대한통운",
-            "DeploymentFirst",
-            "RFM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "파일러, 라이브 방송도 장면별로 읽는다…엔비디아 APAC AI 스타트업 Top 10",
-          "link": "https://www.venturesquare.net/1116065/",
-          "pubDate": "2026-09-24T13:02:56.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-46.jpeg",
-          "summary": "파일러가 싱가포르에서 열린 ‘NVIDIA Inception Grand Challenge 2026’에서 APAC 지역 AI 스타트업 500여곳 가운데 최종 Top 10에 선정됐다. 파일러는 CTV 라이브 방송의 대사와 화면 텍스트, 음향, 브랜드, 장소, 행동 등을 장면... The post 파일러, 라이브 방송도 장면별로 읽는다…엔비디아 APAC AI 스타트업 Top 10 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI스타트업",
-            "CTV",
-            "FAST"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:15:00.308Z",
+      "fetchedAt": "2026-09-25T02:09:53.250Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -799,6 +800,23 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "메타, AI 에이전트 ‘뮤즈’를 안경에 넣는다",
+          "link": "https://platum.kr/archives/295195?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25eb%25ae%25a4%25ec%25a6%2588%25eb%25a5%25bc-%25ec%2595%2588%25ea%25b2%25bd%25ec%2597%2590-%25eb%2584%25a3%25eb%258a%2594%25eb%258b%25a4",
+          "pubDate": "2026-09-24T08:25:42.000Z",
+          "image": null,
+          "summary": "메타가 이달 초 미국에서 내놓은 개인용 AI 에이전트 ‘뮤즈’를 앞으로는 스마트폰이나 PC뿐 아니라 AI 안경에서도 쓸 수 있게 된다. 메타는 미국 현지시간 23일 열린 연례 개발자 행사 ‘메타 커넥트 2026’에서 뮤즈의 AI 안경 지원 계획을 발표하고, 오디오 전용 안경과 차세대 AI 안경, 새 VR 안경을 함께 공개했다. 뮤즈는 사용자가 묻기 전에 목표 달성에 필요한 일을 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "메타",
+            "메타 커넥트",
+            "뮤즈",
+            "스마트글래스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[법무법인 비트 TIP] 저작권을 양도받으면 바로 공개해도 되나요? 공표권의 범위와 제한",
           "link": "https://platum.kr/archives/295192?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2595%25eb%25ac%25b4%25eb%25b2%2595%25ec%259d%25b8-%25eb%25b9%2584%25ed%258a%25b8-tip-%25ec%25a0%2580%25ec%259e%2591%25ea%25b6%258c%25ec%259d%2584-%25ec%2596%2591%25eb%258f%2584%25eb%25b0%259b%25ec%259c%25bc%25eb%25a9%25b4-%25eb%25b0%2594%25eb%25a1%259c-%25ea%25b3%25b5%25ea%25b0%259c",
@@ -861,26 +879,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "지쿠 누적 탑승 3억 건, 대부분은 5km 안쪽 짧은 이동",
-          "link": "https://platum.kr/archives/295175?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2580%25ec%25bf%25a0-%25eb%2588%2584%25ec%25a0%2581-%25ed%2583%2591%25ec%258a%25b9-3%25ec%2596%25b5-%25ea%25b1%25b4-%25eb%258c%2580%25eb%25b6%2580%25eb%25b6%2584%25ec%259d%2580-5km-%25ec%2595%2588%25ec%25aa%25bd-%25ec%25a7%25a7%25ec%259d%2580-%25ec%259d%25b4%25eb%258f%2599",
-          "pubDate": "2026-09-23T03:24:13.000Z",
-          "image": null,
-          "summary": "공유 킥보드·자전거 서비스 지쿠의 누적 탑승 건수가 지난 20일 3억 건을 넘었다. 2023년 9월 1억 건을 넘긴 지 약 3년 만이다. 지쿠를 운영하는 지바이크는 이에 맞춰 이용 데이터를 분석한 ‘소셜임팩트리포트 2026’을 내놨다. 리포트는 친환경 이동, 스마트 이동, 포용적 이동, 일자리 창출, 신뢰할 수 있는 이동 등 다섯 개 영역으로 나눠 지쿠 이용이 환경과 도시, 지역사회에 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "공유 자전거",
-            "공유 킥보드",
-            "지바이크",
-            "지쿠"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:15:00.569Z",
+      "fetchedAt": "2026-09-25T02:09:53.489Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -971,7 +972,7 @@
           "summaryKo": "Databricks는 클라우드 스프레드시트 스타트업 Row Zero를 인수하여 2026 쇼핑에 또 다른 인수를 추가했습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T00:15:00.913Z",
+      "fetchedAt": "2026-09-25T02:09:53.599Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:15:02.589Z",
+      "fetchedAt": "2026-09-25T02:09:55.416Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1130,23 +1131,6 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
-          "pubDate": "2026-07-23T07:00:00.000Z",
-          "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
-          "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "2016년 지역 평생교육 활성화 지원사업 공고 - 데일리뉴스",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQjlWNzFvdDZDOEthck9NTWs0QTNkUTdIXzM4NmNSYUozd3ZsNmtpZ3ZfejBCUjFMS0lZMV9TUzdiZ3BudzJsMUtKM1VfZDRGTXNKSldKTUZGcXVsUk9sY21zYWQ4dXF5ZVVNTXFINEtSV3VqTUh2S05kWmJsNGRTLWJKOXpkWGVISnJzQ3htT3otR2VvaHNremNfVVZfcHNMMkw1RWhUZnlBamJsLUFQTlppUGM5S3hqSnAzVGZyWldGS214ZzJiVGY2NUZpbE9TRXI3NmhvMTNSTGV3TXAtbktmaEJLd21SUExVQVlQTGtBOGl4RWMxSWE1V3hvc0NWdTl0SUdJbERhNWhRcDJ0cE9FT2lLajhQUEwtVlQyTUFwQS1yd1dlbDh1RkpyYnFz?oc=5",
           "pubDate": "2026-09-16T11:11:00.000Z",
@@ -1162,9 +1146,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
+          "pubDate": "2026-09-23T06:46:16.000Z",
+          "image": null,
+          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
+          "keywords": [
+            "여주시",
+            "3차",
+            "전기자동차",
+            "구매",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T00:15:02.992Z",
+      "fetchedAt": "2026-09-25T02:09:55.879Z",
       "error": null
     }
   },
@@ -1174,70 +1175,70 @@
       "label": "AI전환",
       "count": 2,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "출시",
-      "label": "출시",
+      "key": "로보틱스",
+      "label": "로보틱스",
       "count": 2,
       "rank": 2,
       "change": "new"
     },
     {
+      "key": "메타",
+      "label": "메타",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
+      "key": "뮤즈",
+      "label": "뮤즈",
+      "count": 2,
+      "rank": 4,
+      "change": "new"
+    },
+    {
+      "key": "출시",
+      "label": "출시",
+      "count": 2,
+      "rank": 5,
+      "change": "down"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 4,
-      "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 9,
-      "change": "down"
-    },
-    {
-      "key": "poc",
-      "label": "POC",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1270,7 +1271,7 @@
       "label": "Articles",
       "count": 4,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1278,7 +1279,7 @@
       "label": "Featured",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1286,7 +1287,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1294,7 +1295,7 @@
       "label": "News",
       "count": 4,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
@@ -1302,7 +1303,7 @@
       "label": "Startups",
       "count": 4,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1310,7 +1311,7 @@
       "label": "Enforcement Actions",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "시행 조치"
     },
     {
