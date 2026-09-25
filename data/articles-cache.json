@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-25T06:13:27.534Z",
+  "collectedAt": "2026-09-25T08:10:52.261Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:12.357Z",
+      "fetchedAt": "2026-09-25T08:10:42.210Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, SNB Bancshares 및 Bank of Eufaula에 대한 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:12.403Z",
+      "fetchedAt": "2026-09-25T08:10:42.300Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:13.607Z",
+      "fetchedAt": "2026-09-25T08:10:43.154Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT ‑ 6 Astra를 사용하여 invideo는 더 정밀하게 편집을 계획하고, 색상 보정 및 3배 그레이딩을 개선하며, 하루에 50개의 사용자 정의 효과를 생성합니다."
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:13.738Z",
+      "fetchedAt": "2026-09-25T08:10:43.338Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -360,6 +360,40 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Google의 Project Suncatcher, 우주에 머신러닝 인프라 구축 추진",
+          "link": "https://news.hada.io/topic?id=34256",
+          "pubDate": "2026-09-25T07:33:40.000Z",
+          "image": null,
+          "summary": "Project Suncatcher는 우주에서 확장 가능한 머신러닝 인프라를 운영할 수 있는지 탐구하는 장기 연구로, 첫 시제품 위성을 발사해 Google TPU의 우주 환경 작동 여부를 시험할 예정임 저궤도 위성은 거의 끊임없이 햇빛을 받아 지상보다 최대 8배 많은 태양광 전력...",
+          "keywords": [
+            "Google의",
+            "Project",
+            "Suncatcher",
+            "우주에",
+            "머신러닝"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Koi.rest - 물고기를 바라보며 마음의 균형을 되찾는 공간",
+          "link": "https://news.hada.io/topic?id=34255",
+          "pubDate": "2026-09-25T06:32:14.000Z",
+          "image": null,
+          "summary": "Koi.rest는 낯선 사람들이 함께 조용히 물고기를 바라보며 아무것도 하지 않을 수 있는 가상 잉어 연못임 실직과 지난 한 해의 일들로 큰 스트레스를 겪던 개발자가, 아직 완성하지 못한 발코니 선 정원 대신 누구나 이용할 수 있는 가상 공간을 만들기로 함 ...",
+          "keywords": [
+            "Koi",
+            "rest",
+            "물고기를",
+            "바라보며",
+            "마음의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "호로위츠 앤드리슨 아카데미 소개",
           "link": "https://news.hada.io/topic?id=34254",
@@ -408,43 +442,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "깡통 AI들 때문에 두 번째 뇌를 만들게 됐다",
-          "link": "https://news.hada.io/topic?id=34251",
-          "pubDate": "2026-09-25T03:03:12.000Z",
-          "image": null,
-          "summary": "Claude에 잊어버린 명령어 문법을 물었다가 존재하지 않는 옵션을 답하는 일을 겪으며, 이미 배운 지식을 직접 보관하는 개인 지식 관리(PKM) 시스템을 만들기로 함 직접 노트를 쓰면 나중에 자신에게 맞는 답과 설명을 찾을 수 있고, 정보를 정리하는 과정에서",
-          "keywords": [
-            "깡통",
-            "AI들",
-            "때문에",
-            "번째",
-            "뇌를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Google Play와 결별하기: Conversations가 이제 무료인 이유",
-          "link": "https://news.hada.io/topic?id=34250",
-          "pubDate": "2026-09-25T02:02:03.000Z",
-          "image": null,
-          "summary": "Android용 연합형 메신저 Conversations가 Google Play 매출에 대한 경제적 의존에서 벗어나 무료 배포 중심으로 전환함 반복적인 업데이트 거절과 앱 삭제, 사람과 직접 소통하기 어려운 지원 체계가 결별의 배경이며, 보안 업데이트도 심사 지연을 피할 수 없다는...",
-          "keywords": [
-            "Google",
-            "Play와",
-            "결별하기:",
-            "Conversations가",
-            "이제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:14.663Z",
+      "fetchedAt": "2026-09-25T08:10:44.005Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +534,7 @@
           "summaryKo": "Iron Lung, Backrooms, Obsession과 같은 크리에이터 제작 영화의 박스오피스 성공에 이어 할리우드는 완전히 새로운 시각으로 우리 업계를 바라보고 있습니다. 바이럴 네이션 (Viral Nation) 의 폴 텔너 (Paul Telner) 프로그래밍 책임자는 \"이것은 골드 러시입니다.\" 바이럴 네이션 (Viral Nation) 의 자료를 사용하여 맥카티 (McCarty) 가족과 같은 크리에이터가 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있도록 돕고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:16.558Z",
+      "fetchedAt": "2026-09-25T08:10:44.186Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:16.656Z",
+      "fetchedAt": "2026-09-25T08:10:44.416Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:16.708Z",
+      "fetchedAt": "2026-09-25T08:10:44.494Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:21.369Z",
+      "fetchedAt": "2026-09-25T08:10:48.203Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:21.607Z",
+      "fetchedAt": "2026-09-25T08:10:48.447Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -890,7 +890,7 @@
           "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
           "pubDate": "2026-09-25T05:00:00.000Z",
           "image": null,
-          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+          "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
           "keywords": [
             "AI",
             "Startups",
@@ -901,7 +901,7 @@
           ],
           "isForeign": true,
           "titleKo": "LIGHTSPEED는 초기 단계 AI에 초점을 맞춘 인도 신규 펀드 $ 250M를 목표로 합니다.",
-          "summaryKo": "실리콘 밸리 회사는 짧은 투자 기간으로 전환함에 따라 인도의 자금 조달 주기를 처음으로 글로벌 펀드와 연계하고 있습니다."
+          "summaryKo": "이 벤처 기업은 짧은 투자 기간으로 전환함에 따라 인도의 자금 조달 주기를 처음으로 글로벌 펀드와 연계하고 있습니다."
         },
         {
           "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
@@ -971,7 +971,7 @@
           "summaryKo": "Feather는 소프트웨어 개발자를 위해 제작된 맞춤형 $ 30,000 플랫폼에 베팅하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:23.426Z",
+      "fetchedAt": "2026-09-25T08:10:49.857Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:27.102Z",
+      "fetchedAt": "2026-09-25T08:10:51.758Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1147,24 +1147,24 @@
           "summaryKo": null
         },
         {
-          "title": "공정, 혁신, 포용의 경기 - 경기도청",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1p5VnJ6RXh1VGxta1Byb1h0U2E2TUhGdHdlTWpBNUJjcW1uMGFYUEN2bUJzTlVrLWlLZXYyQ3JOMGtSTU10aGphSHg1UXN3RTFHTFJBRUE3Q19zYTB3TUtselZiTEpLNTZsaHRjaUFWb0trcWIzLS02YXZoMnp4dW43MHFOVmJheVNjejg2bm1EMDNGSnc?oc=5",
-          "pubDate": "2026-07-23T07:00:00.000Z",
+          "title": "여주시, 3차 전기자동차 구매 지원사업 안내 - 경인매일",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZHBzWDZxQ2QyRkxOYXNiY0ZNaGNFM3lIU3RUMWs4dzE0enB1SHl1ZHVGWFgxaUc3UmpUUmhwMWdERFVZRFgzR1pkQmxCeGhQa01oTkNxRlc0SFh2MUQwWnBMYWsxa2V0?oc=5",
+          "pubDate": "2026-09-23T06:46:16.000Z",
           "image": null,
-          "summary": "공정, 혁신, 포용의 경기 경기도청",
+          "summary": "여주시, 3차 전기자동차 구매 지원사업 안내 경인매일",
           "keywords": [
-            "공정",
-            "혁신",
-            "포용의",
-            "경기",
-            "경기도청"
+            "여주시",
+            "3차",
+            "전기자동차",
+            "구매",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-25T06:13:27.526Z",
+      "fetchedAt": "2026-09-25T08:10:52.248Z",
       "error": null
     }
   },
@@ -1270,7 +1270,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1278,7 +1278,7 @@
       "label": "Startups",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1286,7 +1286,7 @@
       "label": "AI",
       "count": 3,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1294,7 +1294,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1302,7 +1302,7 @@
       "label": "Enforcement Actions",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "시행 조치"
     },
     {
@@ -1310,7 +1310,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1318,7 +1318,7 @@
       "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     }
   ]
