@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-26T19:01:53.176Z",
+  "collectedAt": "2026-09-26T22:23:08.259Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“월세 200만원 받는 6억 집, 비싼걸까?” … AI가 찾아낸 적정가격의 비밀",
+          "link": "https://www.mk.co.kr/news/economy/12159700",
+          "pubDate": "2026-09-26T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260922.b5621328f5ee43658a6f10fc5bc7d73e_R.png",
+          "summary": "AI로 주식·부동산의 적정 가치 산출하기주식이나 집을 살 때 투자자들의 머릿속을 가장 강하게 지배하는 질문은 “지금 이 가격이 과연 적정한가?”입니다. 가격이 단기간에 급등했다는 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
           "link": "https://www.mk.co.kr/news/economy/12161701",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "지난해 음주 진료비 첫 4조원대…흡연은 2024년 이후 지속 상승",
-          "link": "https://www.mk.co.kr/news/economy/12161539",
-          "pubDate": "2026-09-25T21:38:59.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/26/news-p.v1.20260926.237ae535528643afa01acc3169579b6c_R.png",
-          "summary": "지난해 음주·흡연으로 인한 진료비가 8조5000억원에 이르는 등 최근 5개년간 37조원 넘게 소요된 것으로 나타났다. 26일 국회 보건복지위원회 소속 더불어민주당 남인순 의원이 국..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:31.131Z",
+      "fetchedAt": "2026-09-26T22:22:56.675Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:31.234Z",
+      "fetchedAt": "2026-09-26T22:22:56.763Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:32.293Z",
+      "fetchedAt": "2026-09-26T22:22:58.105Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:32.436Z",
+      "fetchedAt": "2026-09-26T22:22:58.278Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "PipePipe - SponsorBlock을 구현한 NewPipe 하드 포크",
-          "link": "https://news.hada.io/topic?id=34332",
-          "pubDate": "2026-09-26T18:39:10.000Z",
+          "title": "Show GN: 자조모임 BBS 무료 게시판/대화방",
+          "link": "https://news.hada.io/topic?id=34337",
+          "pubDate": "2026-09-26T21:51:07.000Z",
           "image": null,
-          "summary": "PipePipe는 개발 철학의 차이로 2022년 초 NewPipe에서 분리돼 독립 개발 중인 프로젝트로, NewPipe와 업데이트를 주고받지 않음 SponsorBlock으로 YouTube와 BiliBili의 스폰서 구간을 건너뛰고, ReturnYouTubeDislike로 YouTube 싫어요 수를 다시 표시함",
+          "summary": "의사로서 중독, 우울, 불안 환자를 치료하면서 왜 한국에는 자조모임이 없을까? 자조모임만큼 효과적인 것은 없는데! 라는 생각을 많이 했었죠 문화차이겠죠 그렇다면 온라인 자조모임이라도 활성화 될 수 있으면 좋겠다라는 생각으로 병원의 치료소모임을 위한 게시판 서비스를 만들었습니다. 의료 분야 뿐만",
           "keywords": [
-            "PipePipe",
-            "SponsorBlock을",
-            "구현한",
-            "NewPipe",
-            "하드"
+            "Show",
+            "GN:",
+            "자조모임",
+            "BBS",
+            "무료"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "화제가 된 Giants 영상 속 엄마입니다. 제 남편 이야기를 들려드릴게요",
-          "link": "https://news.hada.io/topic?id=34331",
-          "pubDate": "2026-09-26T18:36:09.000Z",
+          "title": "LLM 시대에도 프로그래밍을 계속 즐기는 법",
+          "link": "https://news.hada.io/topic?id=34336",
+          "pubDate": "2026-09-26T21:40:53.000Z",
           "image": null,
-          "summary": "San Francisco Giants 경기에서 아기와 음식을 함께 들고 있던 Erika의 영상이 퍼지면서 남편 Ramses에게 비난이 쏟아졌지만, 실제 대화는 방송 해설과 달랐음 Ramses는 아기를 맡거나 음식을 들어주겠다고 여러 차례 제안했고, Erika는 이를 사양함. 시청자들은 부부의 대화...",
+          "summary": "코딩은 사람이 맡고, LLM에는 계획 정리, 조사, 검토 등 주변 작업을 맡기는 방식으로 프로그래밍의 즐거움과 적당한 생산성 향상을 함께 추구할 수 있음 코드베이스에 대한 이해와 주도권을 유지하려면 직접 코드를 계속 작성해야 함. 모든 구현을 에이전트에 넘기...",
           "keywords": [
-            "화제가",
-            "Giants",
-            "영상",
-            "엄마입니다",
-            "남편"
+            "LLM",
+            "시대에도",
+            "프로그래밍을",
+            "계속",
+            "즐기는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Floci - 모든 클라우드 서비스를 로컬에서 에뮬레이션",
-          "link": "https://news.hada.io/topic?id=34330",
-          "pubDate": "2026-09-26T17:46:20.000Z",
+          "title": "Postgres 마이그레이션은 안전할까, 안전하지 않을까?",
+          "link": "https://news.hada.io/topic?id=34335",
+          "pubDate": "2026-09-26T21:37:53.000Z",
           "image": null,
-          "summary": "Floci는 AWS, Azure, GCP, OCI 서비스를 실제 클라우드 계정 없이 로컬에서 실행하는 에뮬레이터 모음으로, 각 에뮬레이터를 독립적인 MIT 라이선스 바이너리로 제공함 AWS용 floci는 119개 서비스를 지원하며, LocalStack과 동일한 4566 포트를 ...",
+          "summary": "safe-not-safe는 PostgreSQL 마이그레이션 SQL을 입력하고 검사하는 도구로, 브라우저 편집기와 CLI 실행 명령을 제공함 SQL 파싱에는 libpg_query 17의 WASM 버전을 사용하며, 브라우저 탭의 웹 워커에서 다운로드하고 컴파일함 입력 내용은 업로...",
           "keywords": [
-            "Floci",
-            "모든",
-            "클라우드",
-            "서비스를",
-            "로컬에서"
+            "Postgres",
+            "마이그레이션은",
+            "안전할까",
+            "안전하지",
+            "않을까"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Topcoat, Rust로 서버 애플리케이션의 경계를 넓히다",
-          "link": "https://news.hada.io/topic?id=34329",
-          "pubDate": "2026-09-26T17:43:20.000Z",
+          "title": "Johannes Doerfert를 추모하며",
+          "link": "https://news.hada.io/topic?id=34334",
+          "pubDate": "2026-09-26T20:34:04.000Z",
           "image": null,
-          "summary": "풀스택 Rust 프레임워크 Topcoat 0.9가 공개됨. 서버 렌더링을 기본으로 삼으면서 브라우저 반응성과 서버 상태에 따른 실시간 UI 갱신을 함께 지원함 시그널과 shard로 브라우저 상태와 서버 렌더링을 연결함. 간단한 상호작용은 서버 왕복 없이 처리하고, 서버 데...",
+          "summary": "LLVM에 활발히 기여하며 존경받던 개발자 Johannes Doerfert가 암 투병 끝에 2026년 9월 17일, 36세로 별세함 프로그램 전반의 함수와 인자 속성을 추론하고 전파하는 Attributor를 설계했으며, 이 프레임워크는 LLVM의 프로시저 간 최적화 인프라에서 중요한 역할...",
           "keywords": [
-            "Topcoat",
-            "Rust로",
-            "서버",
-            "애플리케이션의",
-            "경계를"
+            "Johannes",
+            "Doerfert를",
+            "추모하며"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Avast Antivirus 샌드박스에 진입하고 탈출하기, 2부",
-          "link": "https://news.hada.io/topic?id=34328",
-          "pubDate": "2026-09-26T17:40:20.000Z",
+          "title": "급락하는 시험 성적은 서서히 진행되는 재앙이다",
+          "link": "https://news.hada.io/topic?id=34333",
+          "pubDate": "2026-09-26T19:31:59.000Z",
           "image": null,
-          "summary": "Avast 커널 드라이버의 CVE-2025-13032를 이용해 발견 당시 최신 Windows 11에서 로컬 권한을 SYSTEM으로 높이는 전체 공격 과정을 시연함 사용자 입력의 길이를 여러 번 읽는 더블 페치(double-fetch) 결함으로 페이징 풀 오버플로를 일으키고, ...",
+          "summary": "부유한 국가 학생들의 PISA 읽기, 수학, 과학 성적이 2000년 평가 시작 이후 최저 수준으로 떨어짐 코로나19 봉쇄는 수업에 큰 차질을 일으키고 PISA 성적 하락을 초래했지만, 이제 성적 부진을 전부 봉쇄 탓으로 돌릴 수는 없음 팬데믹이 끝난 뒤에도 성...",
           "keywords": [
-            "Avast",
-            "Antivirus",
-            "샌드박스에",
-            "진입하고",
-            "탈출하기"
+            "급락하는",
+            "시험",
+            "성적은",
+            "서서히",
+            "진행되는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:33.344Z",
+      "fetchedAt": "2026-09-26T22:22:59.226Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +536,7 @@
           "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:33.581Z",
+      "fetchedAt": "2026-09-26T22:22:59.535Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:33.770Z",
+      "fetchedAt": "2026-09-26T22:22:59.734Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:33.822Z",
+      "fetchedAt": "2026-09-26T22:22:59.789Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:37.336Z",
+      "fetchedAt": "2026-09-26T22:23:03.374Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:37.633Z",
+      "fetchedAt": "2026-09-26T22:23:03.630Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +975,7 @@
           "summaryKo": "지난 24시간 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받으세요. 이벤트를 시작했던 위치보다 스타트업의 궤도에 더 멀리 둡니다. 절약하고 바늘을 밀 수 있는 기회를 놓치지 마세요."
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:39.845Z",
+      "fetchedAt": "2026-09-26T22:23:03.784Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1074,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T19:01:43.673Z",
+      "fetchedAt": "2026-09-26T22:23:07.795Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1085,11 +1083,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - kbiznews.co.kr",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
           "pubDate": "2026-09-21T02:14:24.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 kbiznews.co.kr",
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
           "keywords": [
             "중기부",
             "공공데이터",
@@ -1170,8 +1168,8 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T14:07:48.145Z",
-      "error": "HTTP 503"
+      "fetchedAt": "2026-09-26T22:23:08.249Z",
+      "error": null
     }
   },
   "trendingDomestic": [
@@ -1204,46 +1202,46 @@
       "change": "same"
     },
     {
+      "key": "시험",
+      "label": "시험",
+      "count": 2,
+      "rank": 5,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
