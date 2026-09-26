@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-26T09:08:37.855Z",
+  "collectedAt": "2026-09-26T14:07:48.153Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
+          "link": "https://www.mk.co.kr/news/economy/12161701",
+          "pubDate": "2026-09-26T11:27:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/26/news-p.v1.20260923.e030355356a5446d9ca25c12b323d26f_R.png",
+          "summary": "카뱅, 내달 외화통장 통화 18개로 예금 등 다양한 외환 서비스 내세워최근 ‘환테크’의 중심이 달러 일변도에서 벗어나 다양한 통화로 분산되면서, 모바일 편의성을 앞세운 인터넷전문은..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
+          "link": "https://www.mk.co.kr/news/economy/12161691",
+          "pubDate": "2026-09-26T10:21:21.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/26/news-p.v1.20260923.b76a80d095cf4cbe83acc614812dc73b_R.jpg",
+          "summary": "저축은행 금리 연 4.07% ‘최고’ 주식에서 예금으로 현금 이동 가속화 시중 은행 금리 경쟁…연 3.4% 수준민족 대명절인 추석을 맞아 회사에서 받은 상여금과 용돈 등 목돈을 어..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "인도·골목길서 ‘쌩쌩’ 위험천만…배달종사자 보험료 최대 11% 할인, 요건 있다는데?",
           "link": "https://www.mk.co.kr/news/economy/12161674",
           "pubDate": "2026-09-26T08:58:12.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "너무 일찍 죽거나, 너무 늦게 죽거나 … 꼭 필요한 안전망",
-          "link": "https://www.mk.co.kr/news/economy/12160516",
-          "pubDate": "2026-09-25T20:30:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260917.90990c3baa884169a73816e9b6cd270f_R.png",
-          "summary": "⑭사회보험부터 생명·손해보험까지, 위험을 나누는 방법미히르 데사이(Mihir Desai)의 책 ‘금융의 모험(The Wisdom of Finance)’에 따르면 금융은 인간의 두 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“산재보험 1억6천만원 받았는데 또?”…추락한 철근공 회사에 소송 낸 까닭 [어쩌다 세상이]",
-          "link": "https://www.mk.co.kr/news/economy/12161486",
-          "pubDate": "2026-09-25T13:03:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.d6343b47540b43a78be342c2bdc77f56_R.png",
-          "summary": "고정 안 된 상판 뒤집혀 추락 척추·쇄골 등 크게 다쳐 산재보험 외 치료비·간병비·위자료 청구 법원 “회사 책임 60% 인정”공사장에서 다치면 산재보험으로 요양급여와 휴업급여, 장..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:22.480Z",
+      "fetchedAt": "2026-09-26T14:07:36.342Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:22.536Z",
+      "fetchedAt": "2026-09-26T14:07:36.391Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:23.781Z",
+      "fetchedAt": "2026-09-26T14:07:37.584Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:23.927Z",
+      "fetchedAt": "2026-09-26T14:07:37.728Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Flock 카메라 데이터 한 건이 무고한 여성을 13일간 감옥에 가둠",
-          "link": "https://news.hada.io/topic?id=34311",
-          "pubDate": "2026-09-26T06:33:11.000Z",
+          "title": "허리와 어깨 수술은 종종 무익한 수준을 넘어 해로움",
+          "link": "https://news.hada.io/topic?id=34320",
+          "pubDate": "2026-09-26T13:33:44.000Z",
           "image": null,
-          "summary": "플로리다의 Lindsey Isaacs는 사망 사고 현장에서 수 마일 떨어진 곳에 차량이 찍힌 Flock 카메라 기록으로 수사 대상이 된 뒤, 관련 없는 사고로 13일간 구금됨 목격자가 지목한 차량은 적갈색 Dodge Durango였지만 Isaacs의 차량은 검은색이었고 충돌 손...",
+          "summary": "허리와 어깨 수술은 종종 무익한 수준을 넘어 해로움",
           "keywords": [
-            "Flock",
-            "카메라",
-            "데이터",
-            "건이",
-            "무고한"
+            "허리와",
+            "어깨",
+            "수술은",
+            "종종",
+            "무익한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
-          "link": "https://news.hada.io/topic?id=34310",
-          "pubDate": "2026-09-26T06:03:17.000Z",
+          "title": "Microsoft, Copilot 개편으로 개인용 AI 챗봇 경쟁에서 철수",
+          "link": "https://news.hada.io/topic?id=34319",
+          "pubDate": "2026-09-26T12:37:12.000Z",
           "image": null,
-          "summary": "AI가 대부분의 코드를 생성하는 시대에 소프트웨어 엔지니어링의 역할, 기회, 위험, 그리고 제품 관리와의 관계가 어떻게 바뀔지 살펴봅니다. AI 코딩 에이전트가 빠르게 발전하면서 숙련된 개발자들 사이에서도 \"직접 코드를 거의 작성하지 않는다\"는 사례가 늘고 있음. 글의 핵심은 <stron",
+          "summary": "소비자용과 업무용 Copilot을 기업 고객 중심의 단일 제품으로 통합하며, ChatGPT·Gemini·Muse와 경쟁하던 ‘개인 AI 동반자’ 전략에서 물러남 경영진은 사람들이 Microsoft에 원하는 것은 개인적인 동반자가 아니라 일을 끝내도록 돕는 도구라며, 사무 업무 자동...",
           "keywords": [
-            "AI가",
-            "거의",
-            "모든",
-            "코드를",
-            "작성하면"
+            "Microsoft",
+            "Copilot",
+            "개편으로",
+            "개인용",
+            "AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이제 OS란 대체 무엇인가?",
-          "link": "https://news.hada.io/topic?id=34309",
-          "pubDate": "2026-09-26T05:40:22.000Z",
+          "title": "Meta의 Muse, muse-special로 표시된 OpenAI 모델을 사용하는 것으로 보임",
+          "link": "https://news.hada.io/topic?id=34318",
+          "pubDate": "2026-09-26T12:34:12.000Z",
           "image": null,
-          "summary": "프로그래머와 사용자 사이의 경계가 AI로 허물어지면서, 사용자가 자연어로 자신에게 필요한 프로그램을 직접 만드는 컴퓨팅 환경이 열리고 있음 앞으로는 사용자 수가 1~2명에 불과한 애플리케이션이 많아지고, 어쩌면 대다수를 차지할 수 있음 소프트웨...",
+          "summary": "Muse의 VM 세션 로그는 대부분 Meta 내부 모델 Avocado를 사용했지만, 하위 에이전트 세션 하나는 azure/muse-special 로 기록됨 해당 세션의 서명과 도구 호출 ID는 OpenAI 계열 형식을 보여 Azure를 통한 OpenAI 모델 또는 Respon...",
           "keywords": [
-            "이제",
-            "OS란",
-            "대체",
-            "무엇인가"
+            "Meta의",
+            "Muse",
+            "muse",
+            "special로",
+            "표시된"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "배심원단, Cambridge Analytica 사건에서 이용자 기만에 대한 Facebook의 책임 인정",
-          "link": "https://news.hada.io/topic?id=34308",
-          "pubDate": "2026-09-26T05:37:22.000Z",
+          "title": "Show GN: Lowent – 함수의 서명만 읽어도 무엇을 하는지 아는 시스템 프로그래밍 언어",
+          "link": "https://news.hada.io/topic?id=34317",
+          "pubDate": "2026-09-26T11:34:35.000Z",
           "image": null,
-          "summary": "뉴멕시코 배심원단이 Facebook의 개인정보 보호 관련 이용자 기만 책임을 인정함. 데이터 보호 실패가 200만 명이 넘는 주 전체 인구에 영향을 미쳤다고 판단함 사건은 제3자 성격 검사 퀴즈가 약 8,700만 개 프로필의 데이터를 수집해 정치 컨설팅 업체 Cambridge...",
+          "summary": "Lowent(로우엔트)는 제가 만들고 있는 시스템 프로그래밍 언어와 그 컴파일러입니다. 목표는 하나입니다. 함수의 머리(서명)만 읽어도 그 함수가 무엇을 받고, 무엇을 돌려주고, 바깥 세상에 무엇을 할 수 있는지 알 수 있게 하는 것입니다. 짐작할 자리가 적은 코드는 사람도 AI 도 덜 틀리게 읽고...",
           "keywords": [
-            "배심원단",
-            "Cambridge",
-            "Analytica",
-            "사건에서",
-            "이용자"
+            "Show",
+            "GN:",
+            "Lowent",
+            "함수의",
+            "서명만"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Excel, 이제 하나의 셀에 여러 값 저장 지원",
-          "link": "https://news.hada.io/topic?id=34306",
-          "pubDate": "2026-09-26T04:35:16.000Z",
+          "title": "Ask HN: 사업 운영에 꼭 필요해서 아직도 DOS 컴퓨터를 유지하는 분이 있나요?",
+          "link": "https://news.hada.io/topic?id=34316",
+          "pubDate": "2026-09-26T11:34:04.000Z",
           "image": null,
-          "summary": "Excel이 목록, 셀 내부 배열, 중첩 배열을 도입해 한 셀에 여러 값을 저장하고 개별 값으로 계산할 수 있도록 함. Windows와 Mac의 Beta Channel에 먼저 제공됨 목록을 사용하면 프로젝트 담당자나 설문 응답을 한 셀에 유지하면서도 전체 텍스트가 아닌 개별 항목...",
+          "summary": "당시 하드웨어에서 dBase/Clipper/CLARION/Paradox 등 DOS RAD 환경으로 업무를 처리하는 곳에서 현재 일하거나, 그런 사용자를 아는 사람의 경험을 찾고 있음 ISA 카드로 제어하는 CNC 밀링 머신/분광계/현미경 등 산업용 장비도 대상이며, 맞춤형 카드와 GPIB 같...",
           "keywords": [
-            "Excel",
-            "이제",
-            "하나의",
-            "셀에",
-            "여러"
+            "Ask",
+            "HN:",
+            "사업",
+            "운영에",
+            "필요해서"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:25.102Z",
+      "fetchedAt": "2026-09-26T14:07:38.645Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +538,7 @@
           "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:27.711Z",
+      "fetchedAt": "2026-09-26T14:07:38.761Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:27.977Z",
+      "fetchedAt": "2026-09-26T14:07:38.875Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:28.047Z",
+      "fetchedAt": "2026-09-26T14:07:38.926Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +792,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:32.251Z",
+      "fetchedAt": "2026-09-26T14:07:44.325Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:32.592Z",
+      "fetchedAt": "2026-09-26T14:07:44.581Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +978,7 @@
           "summaryKo": "이 벤처 기업은 짧은 투자 기간으로 전환함에 따라 인도의 자금 조달 주기를 처음으로 글로벌 펀드와 연계하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:32.702Z",
+      "fetchedAt": "2026-09-26T14:07:44.603Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1077,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:36.422Z",
+      "fetchedAt": "2026-09-26T14:07:47.714Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1119,23 +1120,6 @@
           "summaryKo": null
         },
         {
-          "title": "경북도, 청년애꿈 지원사업 연중 모집 - 시사포커스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBja1A3TjAtbmZpWFZvRkd2N1BwOGRJTmlDTjlfdVhMcnFFMFdZZHkxMm5DTE9Wa1A3NDN4VnBJVDFGeld2WGJhV0VUMEx6SnFaSTZ5WFBqdW5ObGJtS0htU3J3T1BabExKTXR4SDRGaw?oc=5",
-          "pubDate": "2026-09-25T12:15:10.000Z",
-          "image": null,
-          "summary": "경북도, 청년애꿈 지원사업 연중 모집 시사포커스",
-          "keywords": [
-            "경북도",
-            "청년애꿈",
-            "지원사업",
-            "연중",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
           "pubDate": "2026-09-23T04:22:22.000Z",
@@ -1153,97 +1137,114 @@
           "summaryKo": null
         },
         {
-          "title": "경북도, 청년 취업성공 패키지 ‘청년애꿈 지원사업’ 연중 모집 - 웹이코노미",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53eDF2SFQ2bXRfMkxWOU9oRy1YOWlDS1pzUkdwQVprLU5mMnI4X3JFYndxd1JCOXc5Z1ZnbG5FT2t3bDQxa2Q3ODdJcjFLMVR0S0ZxYldFZU4tLUhucElCLTBqQlgtRXlfSWpDWm5DTWliQQ?oc=5",
-          "pubDate": "2026-09-25T11:12:33.000Z",
+          "title": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 - 경상일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4ZUctX1FUTHZ3Nzl6MjBpdTN2eGkzZkJuc1psNUkwREw3VWstWTZDeUR1Q0xxa1NNU1ZBTDg2Sk9JbklreTZVTGdVaXhJVjJucGNfWW13MGRZb1FmU3N2d0lFZ2NLZ0d4UGhEMA?oc=5",
+          "pubDate": "2026-09-22T09:35:39.000Z",
           "image": null,
-          "summary": "경북도, 청년 취업성공 패키지 ‘청년애꿈 지원사업’ 연중 모집 웹이코노미",
+          "summary": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 경상일보",
+          "keywords": [
+            "울산창조경제혁신센터",
+            "AI",
+            "활용",
+            "R&D",
+            "사업계획서"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경북도, 청년애꿈 지원사업 연중 모집 - 시사포커스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBja1A3TjAtbmZpWFZvRkd2N1BwOGRJTmlDTjlfdVhMcnFFMFdZZHkxMm5DTE9Wa1A3NDN4VnBJVDFGeld2WGJhV0VUMEx6SnFaSTZ5WFBqdW5ObGJtS0htU3J3T1BabExKTXR4SDRGaw?oc=5",
+          "pubDate": "2026-09-25T12:15:10.000Z",
+          "image": null,
+          "summary": "경북도, 청년애꿈 지원사업 연중 모집 시사포커스",
           "keywords": [
             "경북도",
-            "청년",
-            "취업성공",
-            "패키지",
-            "청년애꿈"
+            "청년애꿈",
+            "지원사업",
+            "연중",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T09:08:37.196Z",
+      "fetchedAt": "2026-09-26T14:07:48.145Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "ax",
       "label": "AX",
       "count": 2,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "ipo",
       "label": "IPO",
       "count": 2,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "공공데이터",
       "label": "공공데이터",
       "count": 2,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1284,7 +1285,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1292,7 +1293,7 @@
       "label": "Startups",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1300,7 +1301,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1308,7 +1309,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1316,7 +1317,7 @@
       "label": "Fintech",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "Fintech"
     },
     {
@@ -1324,7 +1325,7 @@
       "label": "Fundraising",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "모금 활동"
     }
   ]
