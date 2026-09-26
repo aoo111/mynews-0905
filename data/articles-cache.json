@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-26T03:39:58.477Z",
+  "collectedAt": "2026-09-26T09:08:37.855Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "인도·골목길서 ‘쌩쌩’ 위험천만…배달종사자 보험료 최대 11% 할인, 요건 있다는데?",
+          "link": "https://www.mk.co.kr/news/economy/12161674",
+          "pubDate": "2026-09-26T08:58:12.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/26/news-p.v1.20260923.a252144f7480456e802e749e6518c6cb_R.jpeg",
+          "summary": "교통안전교육 이수 등 조건 충족시 기존 5%에서 11%로 혜택 확대안전운전하는 배달 종사자의 보험료 할인 혜택이 본격 시작됐다. 교육안전교육을 이수하거나 디지털 운행 기록장치를 장..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
+          "link": "https://www.mk.co.kr/news/economy/12161632",
+          "pubDate": "2026-09-26T06:36:11.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/26/rcv.YNA.20260923.PYH2026092303410001300_R.jpg",
+          "summary": "미중 협상, AI투자 향방에 환율 출렁일 듯 한미금리차·대미투자 부담에 약세 압력도추석 연휴에도 서울외환거래시장은 24시간 돌아간다. 하지만 거래량이 급격히 줄었다가 연휴 이후 정..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "지난해 음주 진료비 첫 4조원대…흡연은 2024년 이후 지속 상승",
           "link": "https://www.mk.co.kr/news/economy/12161539",
           "pubDate": "2026-09-25T21:38:59.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“은행 간 어머니가 돌아오질 않아요”...평균거리 18km, 국토 절반이 ‘은행사막’",
-          "link": "https://www.mk.co.kr/news/economy/12161443",
-          "pubDate": "2026-09-25T10:59:02.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.cdb05751d67842269d9b228523921171_R.png",
-          "summary": "농촌 은행사막, 가까운 점포도 18㎞ 거리 주민 42%가 고령층…창구 문턱 높아 ‘마지막 은행’ 의존 인구 7년새 47만명↑생활권 안에 은행 점포가 없거나 한 곳뿐인 지역에 사는 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "부모님 추석선물 현금 대신 '노후통장' 어때요",
-          "link": "https://www.mk.co.kr/news/economy/12161400",
-          "pubDate": "2026-09-25T09:06:35.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/26/20260926_01110105000003_L00.jpg",
-          "summary": "추석을 맞아 부모님께 드릴 선물이 고민이라면 현금이나 건강식품 대신 효심을 담은 '금융선물'을 챙겨보는 것도 방법이다. 은행권이 연금을 받는 시니어 고객에게 우대금리를 주는 특화 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:50.260Z",
+      "fetchedAt": "2026-09-26T09:08:22.480Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:50.404Z",
+      "fetchedAt": "2026-09-26T09:08:22.536Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[내면 지도 그리기] 35 Inner Mapping: 나를 찾는 지도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215660",
-          "pubDate": "2026-09-26T10:00:00.000Z",
+          "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215675",
+          "pubDate": "2026-09-26T15:30:49.000Z",
           "image": null,
-          "summary": "내면지도_지도에 없는 시간, 지도에 없는 아침2024년 12월, 파라과이 아순시온에서 유네스코 무형문화유산보호협약 정부간위원회가 열렸다. 스물네 개 위원국이 다룬 안건 가운데 하나는 '말레이시아의 아침 식사 문화: 다민족 사회에서의 식사 경험'이었다. 말레이시아가 신청서를 낸 지 1년 8개월 만이었다.조금 이상한 유산이었다. 특정 도시나 식당, 특정 공동체에 속하지 않았기 때문이다. 신청서는 이 문화를 도시와 농촌을 가리지 않고 말레이시아 전역에서 만날 수 있다고 설명했다.유산의 핵심도 특별한 요리법이 아니었다. 나시 르막, 로티",
+          "summary": "챗봇 기능을 빼고 속도와 비용 효율에 집중한 신형 AI 모델 '제브(Jev)'가 출시 일주일 만에 폭발적인 반응을 얻고 있다. 개발사인 타입세이프 AI(TypeSafe AI)의 기업 가치도 일주일 새 50배 치솟았다.24일(현지시간) 디 인포메이션에 따르면, 타입세이프 AI는 최근 투자자들과 10억달러(약 1조3590억원) 이상 규모의 신규 자금 조달을 위한 논의를 시작했다.지난주 비공개 모드에서 벗어나 제브를 처음 공개할 당시 시드 투자 기준 기업 가치는 2억달러 수준이었으나, 일주일 만에 일부 투자자들로부터 100억달러(약 13",
           "keywords": [
-            "내면",
-            "지도",
-            "그리기",
-            "35",
-            "Inner"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[AI카툰] Bob, Senior IT guy - 밥, 새 AI 글라스 테스트 중",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215659",
-          "pubDate": "2026-09-26T10:00:00.000Z",
-          "image": null,
-          "summary": "글·그림 Dr. Alf",
-          "keywords": [
-            "AI카툰",
-            "Bob",
-            "Senior",
-            "IT",
-            "guy"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[AI 이슈트렌드] 대통령 지지율 반등...DMZ 지뢰·아시안게임·부산 상어 출몰 주목",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215653",
-          "pubDate": "2026-09-26T10:00:00.000Z",
-          "image": null,
-          "summary": "AI타임스와 이스트에이드의 9월 넷째 주(9월18일~25일) 이슈 분석 결과 대통령 지지율 반등을 포함해 DMZ 지뢰 폭발과 주요 증시 소식이 상위권을 차지했다.이번 주 검색량 1위는 '대통령 지지율 반등(14.97%)'이 압도적 비중을 차지했다. 지난 18일 기자회견을 계기로 이 대통령의 국정수행 지지도는 한 주 전보다 1.0%포인트 상승한 34.8%로 10주 만에 반등했다.향후 유엔(UN) 총회와 트럼프 미국 대통령과 회담, 멕시코 방문 등 '이재명 대통령 순방(4.61%)' 결과와 대법관 후보자 재제청, 부동산 등 민생 현안이",
-          "keywords": [
+            "못하는",
             "AI",
-            "이슈트렌드",
-            "대통령",
-            "지지율",
-            "반등"
+            "제브",
+            "실리콘밸리",
+            "흔들었다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "빌 게이츠 \"AI가 10억명 목숨 위협할 수도\"…정부 개입·규제법 제정 촉구",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215669",
-          "pubDate": "2026-09-26T09:19:48.000Z",
+          "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215674",
+          "pubDate": "2026-09-26T14:39:55.000Z",
           "image": null,
-          "summary": "빌 게이츠 마이크로소프트(MS) 창립자가 AI 기술의 오용이 대형 참사로 이어질 수 있다고 경고하며 미국 정부의 법적 감시와 연방 차원의 규제 법안 제정을 촉구했다.게이츠 창립자는 25일(현지시간) NBC 뉴스와의 인터뷰에서 \"AI는 10억명의 목숨을 앗아갈 만한 사건을 일으킬 만큼 강력하다\"라며 \"인류 전체를 대상으로 하기는 어렵겠지만, 악의를 가진 사람들이 최신 AI 도구를 사용하는 것만큼 강력한 무기는 지금까지 없었다\"라고 강조했다.AI 기업들의 자발적인 관리 체계에 한계가 있음을 지적하며 정부의 적극적인 개입을 요구했다. \"",
+          "summary": "일론 머스크 CEO가 스페이스XAI의 대규모 AI 컴퓨팅 클러스터 ‘콜로서스 2’에 탑재되는 엔비디아 GPU를 연말까지 현재의 두 배 이상으로 늘리겠다는 계획을 밝혔다.머스크는 25일(현지시간) X를 통해 콜로서스 2에 현재 엔비디아 GB200 11만개와 GB300 44만개가 가동되고 있다고 밝혔다. 여기에 다음 주까지 GB300 22만개를 추가 가동하고, 11월에도 22만개를 더 투입할 계획이다.이어 “운이 좋다면(if we get lucky)” 12월 말에는 추가로 22만개를 가동할 가능성도 있다고 말했다.계획대로 진행되면 콜로",
           "keywords": [
-            "게이츠",
-            "AI가",
-            "10억명",
-            "목숨",
-            "위협할"
+            "머스크",
+            "연말까지",
+            "콜로서스",
+            "GPU",
+            "증설"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215667",
-          "pubDate": "2026-09-26T08:57:00.000Z",
+          "title": "구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215670",
+          "pubDate": "2026-09-26T14:29:50.000Z",
           "image": null,
-          "summary": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇주 안에 공개하고, 기존 모델 API 공급 방식에서 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 배포 및 운용할 수 있도록 지원하는 최초의 사이버 보안 전용 제품을 선보인다.포춘은 24일(현지시간) 소식통을 인용해 오픈AI가 오는 29일 미국 샌프란시스코에서 열리는 '데브데이 2026'에서 GPT-6 사이버를 비롯해 12개 이상의 신규 제품을 대거 발표할 예정이라고 보도했다.이번 발표의 핵심은 기존 배포 방식과의 차별화다. 그동안 오픈AI는 모델 A",
+          "summary": "구글이 AI 데이터센터를 우주에 구축하는 ‘선캐처(Project Suncatcher)’ 프로젝트의 첫 번째 실증에 나선다. 구글은 오는 10월1일(현지시간) 스페이스X의 팰컨9 로켓을 이용해 실험용 위성 ‘MVP’를 저궤도에 올리고, 실제 우주 환경에서 AI 칩이 정상적으로 작동하는지 확인할 예정이라고 발표했다.이번 임무는 우주에 대규모 데이터센터를 바로 구축하는 것이 아니라 앞으로 우주 기반 AI 컴퓨팅이 가능한지를 확인하기 위한 시험이다. MVP에는 구글의 AI 전용 칩 TPU 4개가 탑재되며, 태양광 패널을 통해 1킬로와트(k",
           "keywords": [
-            "오픈AI",
-            "GPT",
-            "사이버",
-            "공개",
-            "임박"
+            "구글",
+            "우주에서",
+            "AI",
+            "시험",
+            "선캐처"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공쿠르상, 'AI 작성·표절 의혹' 소설 후보서 제외",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215671",
+          "pubDate": "2026-09-26T14:03:42.000Z",
+          "image": null,
+          "summary": "프랑스의 권위 있는 문학상인 공쿠르상이 AI로 소설을 썼다는 의혹을 받은 아이티계 캐나다 작가 텔리송 오렐리앵의 작품을 장편 후보에서 제외했다. 공쿠르 아카데미는 25일(현지시간) 오렐리앵의 소설 ‘그것 아니면 죽음이었다(C’était ça ou mourir)’를 2026년 공쿠르상 후보 명단에서 제외한다고 밝혔다.AI 사용 및 표절 의혹과 관련해 \"공쿠르상과 아카데미의 온전성을 지키기 위한 결정\"이라고 설명했다.특히 \"AI의 도움으로 생성된 텍스트의 창작을 어떤 방식으로도 지지하거나 용인하지 않는다는 분명한 메시지를 보내기 위한",
+          "keywords": [
+            "공쿠르상",
+            "AI",
+            "작성",
+            "표절",
+            "의혹"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215673",
+          "pubDate": "2026-09-26T13:58:04.000Z",
+          "image": null,
+          "summary": "미국에서 AI 규제와 안전장치를 둘러싼 논쟁이 커지는 가운데 정부와 의회, 업계 수장이 한자리에 모인다.로이터에 따르면, 도널드 트럼프 미국 대통령과 마이크 존슨 하원의장, 주요 기술 기업 CEO들은 29일(현지시간) AI을 주제로 회의를 열 예정이다. 구체적인 참석 기업과 의제는 아직 공개되지 않았다. 이번 회의는 최근 AI 안전과 규제를 둘러싼 워싱턴의 논의가 본격화되는 가운데 마련됐다. 주요 AI 기업들은 AI가 인간에게 미칠 위험을 경고하며 각국 정부가 함께 대응해야 한다고 주장해 왔지만, 각국의 규제 방식에는 차이가 있다.",
+          "keywords": [
+            "트럼프",
+            "하원의장",
+            "빅테크",
+            "수장들과",
+            "29일"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:51.529Z",
+      "fetchedAt": "2026-09-26T09:08:23.781Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:51.698Z",
+      "fetchedAt": "2026-09-26T09:08:23.927Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,88 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "계획 모드는 죽었다",
-          "link": "https://news.hada.io/topic?id=34304",
-          "pubDate": "2026-09-26T03:34:30.000Z",
+          "title": "Flock 카메라 데이터 한 건이 무고한 여성을 13일간 감옥에 가둠",
+          "link": "https://news.hada.io/topic?id=34311",
+          "pubDate": "2026-09-26T06:33:11.000Z",
           "image": null,
-          "summary": "AI 코딩 도구의 계획 모드가 맡아 온 두 역할 중 에이전트에 정밀한 지시를 전달하는 역할은 모델 성능 향상으로 빠르게 불필요해지고 있음. 사람이 무엇을 만드는지 이해하도록 돕는 역할은 더 중요해졌지만, 계획 모드는 이에 적합한 방식이 아님 구현 전에 생각을 정리하...",
+          "summary": "플로리다의 Lindsey Isaacs는 사망 사고 현장에서 수 마일 떨어진 곳에 차량이 찍힌 Flock 카메라 기록으로 수사 대상이 된 뒤, 관련 없는 사고로 13일간 구금됨 목격자가 지목한 차량은 적갈색 Dodge Durango였지만 Isaacs의 차량은 검은색이었고 충돌 손...",
           "keywords": [
-            "계획",
-            "모드는",
-            "죽었다"
+            "Flock",
+            "카메라",
+            "데이터",
+            "건이",
+            "무고한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "중력은 홀로그래픽한 듯하다. 이는 현실에 무엇을 의미할까?",
-          "link": "https://news.hada.io/topic?id=34303",
-          "pubDate": "2026-09-26T02:42:24.000Z",
+          "title": "AI가 거의 모든 코드를 작성하면 소프트웨어 엔지니어링에는 무슨 일이 일어날까?",
+          "link": "https://news.hada.io/topic?id=34310",
+          "pubDate": "2026-09-26T06:03:17.000Z",
           "image": null,
-          "summary": "홀로그래피 원리는 공간의 경계면만 측정해도 내부에서 일어나는 모든 일을 알아낼 수 있다는 생각으로, 중력이 있는 세계에서 부피와 면적의 구분을 근본적으로 뒤흔듦 블랙홀 엔트로피가 부피가 아닌 표면적에 비례한다는 계산이 첫 단서였지만, 이를 내부 전체가...",
+          "summary": "AI가 대부분의 코드를 생성하는 시대에 소프트웨어 엔지니어링의 역할, 기회, 위험, 그리고 제품 관리와의 관계가 어떻게 바뀔지 살펴봅니다. AI 코딩 에이전트가 빠르게 발전하면서 숙련된 개발자들 사이에서도 \"직접 코드를 거의 작성하지 않는다\"는 사례가 늘고 있음. 글의 핵심은 <stron",
           "keywords": [
-            "중력은",
-            "홀로그래픽한",
-            "듯하다",
-            "이는",
-            "현실에"
+            "AI가",
+            "거의",
+            "모든",
+            "코드를",
+            "작성하면"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "우리는 어떻게 걱정을 멈추고 캠퍼스 감시를 사랑하게 되었나",
-          "link": "https://news.hada.io/topic?id=34302",
-          "pubDate": "2026-09-26T02:39:24.000Z",
+          "title": "이제 OS란 대체 무엇인가?",
+          "link": "https://news.hada.io/topic?id=34309",
+          "pubDate": "2026-09-26T05:40:22.000Z",
           "image": null,
-          "summary": "MIT가 캠퍼스에 수백 대의 감시 카메라를 설치하고 Ambient.ai의 AI 기능 도입을 검토하면서, 사생활 침해와 공동체 의견 수렴 부족에 대한 교수들의 비판이 커짐 행정부는 2026년 5월 교수회의에서 구성원에게 알리거나 동의를 구하지 않은 채 AI 기능을 이미 시험",
+          "summary": "프로그래머와 사용자 사이의 경계가 AI로 허물어지면서, 사용자가 자연어로 자신에게 필요한 프로그램을 직접 만드는 컴퓨팅 환경이 열리고 있음 앞으로는 사용자 수가 1~2명에 불과한 애플리케이션이 많아지고, 어쩌면 대다수를 차지할 수 있음 소프트웨...",
           "keywords": [
-            "우리는",
-            "어떻게",
-            "걱정을",
-            "멈추고",
-            "캠퍼스"
+            "이제",
+            "OS란",
+            "대체",
+            "무엇인가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Alan Kay: Shannon은 잡음이 있는 채널을 다루는 방법을 제시했다 [영상]",
-          "link": "https://news.hada.io/topic?id=34300",
-          "pubDate": "2026-09-26T01:46:30.000Z",
+          "title": "배심원단, Cambridge Analytica 사건에서 이용자 기만에 대한 Facebook의 책임 인정",
+          "link": "https://news.hada.io/topic?id=34308",
+          "pubDate": "2026-09-26T05:37:22.000Z",
           "image": null,
-          "summary": "Alan Kay는 Shannon이 잡음이 있는 채널을 다루는 방법을 제시했다는 사실을 거의 매일 떠올리며 경이로움을 느낌 대화 중 오디오 지연이 나타나고, 같은 발언이 반복해서 들림 참가자들은 신호가 우회 경로를 거쳐 되돌아오는지 확인하...",
+          "summary": "뉴멕시코 배심원단이 Facebook의 개인정보 보호 관련 이용자 기만 책임을 인정함. 데이터 보호 실패가 200만 명이 넘는 주 전체 인구에 영향을 미쳤다고 판단함 사건은 제3자 성격 검사 퀴즈가 약 8,700만 개 프로필의 데이터를 수집해 정치 컨설팅 업체 Cambridge...",
           "keywords": [
-            "Alan",
-            "Kay:",
-            "Shannon은",
-            "잡음이",
-            "있는"
+            "배심원단",
+            "Cambridge",
+            "Analytica",
+            "사건에서",
+            "이용자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Amiga 스크린 입문",
-          "link": "https://news.hada.io/topic?id=34299",
-          "pubDate": "2026-09-26T01:43:30.000Z",
+          "title": "Excel, 이제 하나의 셀에 여러 값 저장 지원",
+          "link": "https://news.hada.io/topic?id=34306",
+          "pubDate": "2026-09-26T04:35:16.000Z",
           "image": null,
-          "summary": "Amiga의 스크린은 해상도와 색 깊이를 개별적으로 설정할 수 있는 그래픽 표시 영역으로, 서로 다른 스크린을 동시에 표시하거나 겹칠 수 있음 비트플레인 기반 그래픽은 화면에 필요한 색 수만큼 메모리를 사용하므로, 적은 메모리에서도 2색 텍스트 편집기와 32색...",
+          "summary": "Excel이 목록, 셀 내부 배열, 중첩 배열을 도입해 한 셀에 여러 값을 저장하고 개별 값으로 계산할 수 있도록 함. Windows와 Mac의 Beta Channel에 먼저 제공됨 목록을 사용하면 프로젝트 담당자나 설문 응답을 한 셀에 유지하면서도 전체 텍스트가 아닌 개별 항목...",
           "keywords": [
-            "Amiga",
-            "스크린",
-            "입문"
+            "Excel",
+            "이제",
+            "하나의",
+            "셀에",
+            "여러"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:52.468Z",
+      "fetchedAt": "2026-09-26T09:08:25.102Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -467,6 +470,21 @@
           "isForeign": true,
           "titleKo": "들었니? PewDiePie 브이로그에 sayonara라고 말하고 문자 그대로 \"아프리카로 돌아가기\" 를 가져갑니다.",
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 유튜브 전설이 그의 경력의 한 장을 끝내고, 다른 두 명이 컴백을 생각하고 있으며, 핀란드 제작자가 인종 차별적 발언에 대한 영리한 반응을 발견했습니다. 크리에이터의 소란 PewDiePie는 이를 자신의 동영상 블로그에서 종료라고 부르기로 결정했습니다. 게임 콘텐츠에서 벗어나 일본으로 건너가 아내 M과 함께 아이를 낳은 후"
+        },
+        {
+          "title": "Jordan Matter is doing a full-day AMA at VidSummit so younger creators can learn everything he knows",
+          "link": "https://www.tubefilter.com/2026/09/25/vidsummit-jordan-matter-ama/",
+          "pubDate": "2026-09-25T22:18:53.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/Jordan-Matter-Headshot-scaled.jpeg",
+          "summary": "Next week, at VidSummit 2026, Jordan Matter will do something no one else has done before. He will spend an entire day sitting in a room, door open, and answering every question fellow creators throw his way. Matter, whose channel has 38 million subscribers and drives more than 400 million views per month with content […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature",
+            "jordan matter",
+            "vidsummit"
+          ],
+          "isForeign": true,
+          "titleKo": "조던 매터 (Jordan Matter) 는 VidSummit에서 전일 AMA를 실시하여 젊은 크리에이터들이 자신이 알고 있는 모든 것을 배울 수 있도록 하고 있습니다.",
+          "summaryKo": "다음 주 VidSummit 2026에서 Jordan Matter는 이전에 아무도 하지 않았던 일을 할 것입니다. 그는 하루 종일 방에 앉아 문을 열고 동료 크리에이터들이 던지는 모든 질문에 답할 것입니다. 채널 구독자가 3,800만 명에 달하고 콘텐츠로 월간 조회수가 4억 회 이상인 Matter […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         },
         {
           "title": "YouTube CEO Neal Mohan shrugs off Meta’s attempt to persuade rivals to add safety features",
@@ -517,27 +535,9 @@
           "isForeign": true,
           "titleKo": "YouTube는 마이크로드라마로 TV 시청 시간을 늘리기를 원합니다.",
           "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Moonbug is in its era of “Big Feelings” as it launches “fully integrated music company”",
-          "link": "https://www.tubefilter.com/2026/09/24/moonbug-big-feelings-music-company-blippi-cocomelon/",
-          "pubDate": "2026-09-24T22:22:06.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/blippi-doggyland.jpg",
-          "summary": "Over a career spanning more than 30 years, Snoop Dogg has collaborated with an eclectic range of artists. He's dropped guest verses for everyone from 2pac to Katy Perry to Psy to Nicepeter and EpicLLOYD. Now, Snoop has teamed up with another unexpected collaborator: Blippi. The kid-friendly character clad in a signature blue-and-orange outfit has joined forces with the hip-hop icon to deliver the \"Ice Cream Truck Song.\" Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "Music",
-            "News",
-            "big feelings music"
-          ],
-          "isForeign": true,
-          "titleKo": "Moonbug는 \"완전히 통합 된 음악 회사\" 를 시작하면서 \"큰 느낌\" 의 시대에 있습니다.",
-          "summaryKo": "스눕 독 (Snoop Dogg) 은 30년 이상의 경력을 통해 다양한 예술가들과 협업해 왔습니다. 그는 2pac에서 Katy Perry, Psy, Nicepeter, EpicLLOYD에 이르기까지 모든 사람을 위한 게스트 구절을 삭제했습니다. 이제 Snoop은 예기치 못한 공동 작업자인 Blippi와 협력했습니다. 시그니처 블루 앤 오렌지 의상을 입은 어린이 친화적인 캐릭터가 힙합 아이콘과 힘을 합쳐 \"아이스크림 트럭 송\" 을 전달했습니다. \"더 많은 멋진 이야기를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:52.690Z",
+      "fetchedAt": "2026-09-26T09:08:27.711Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:52.890Z",
+      "fetchedAt": "2026-09-26T09:08:27.977Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:52.929Z",
+      "fetchedAt": "2026-09-26T09:08:28.047Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:56.085Z",
+      "fetchedAt": "2026-09-26T09:08:32.251Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:56.348Z",
+      "fetchedAt": "2026-09-26T09:08:32.592Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +977,7 @@
           "summaryKo": "이 벤처 기업은 짧은 투자 기간으로 전환함에 따라 인도의 자금 조달 주기를 처음으로 글로벌 펀드와 연계하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:56.507Z",
+      "fetchedAt": "2026-09-26T09:08:32.702Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -985,6 +985,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "‘중소기업’ 문턱 낮춘다…지원 대상 넓히고 공공시장 3억5000만원까지",
+          "link": "https://www.venturesquare.net/1116163/",
+          "pubDate": "2026-09-25T23:00:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/20260925-1-789x444.png",
+          "summary": "중소기업 정책의 지원 대상과 공공시장 진입 범위가 함께 확대된다. 중소기업기본법 개정으로 마을기업·자활기업·의료법인도 일정 요건을 충족하면 정책자금과 기술개발, 판로지원 등을 활용할 수 있게 된다. 판로지원법 개정으로 지방계약법 적용기관의 중소기업자 우선조달 계약 기준... The post ‘중소기업’ 문턱 낮춘다…지원 대상 넓히고 공공시장 3억5000만원까지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "공공조달",
+            "기술개발",
+            "마을기업",
+            "우선조달"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[김지현의 Scale-Up Note] 스케일업은 커지는 것이 아니라 날카로워지는 것이다",
           "link": "https://www.venturesquare.net/1116167/",
@@ -1056,27 +1074,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "제주창조경제혁신센터 보육기업 푸른콩방주, 9422곳 경쟁 뚫고 전국 TOP 11",
-          "link": "https://www.venturesquare.net/1116097/",
-          "pubDate": "2026-09-24T13:30:26.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/QWF-785x522.jpg",
-          "summary": "제주창조경제혁신센터 보육기업 푸른콩방주가 전국 9422개사가 참여한 ‘2026 혁신 소상공인 파이널 오디션’에서 TOP 11에 선정돼 우수상을 받았다. 푸른콩방주는 제주 서귀포에서 자생해온 토종 푸른콩을 활용해 전통 장류를 상품화하는 로컬기업이다. 이번 전국 본선에는 ... The post 제주창조경제혁신센터 보육기업 푸른콩방주, 9422곳 경쟁 뚫고 전국 TOP 11 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "강한소상공인",
-            "로컬기업",
-            "로컬브랜드",
-            "로컬창업",
-            "맛의방주"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:58.046Z",
+      "fetchedAt": "2026-09-26T09:08:36.422Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1084,6 +1084,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - kbiznews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
+          "pubDate": "2026-09-21T02:14:24.000Z",
+          "image": null,
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 kbiznews.co.kr",
+          "keywords": [
+            "중기부",
+            "공공데이터",
+            "활용",
+            "지원사업",
+            "참여할"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "청년 취업성공 패키지! 청년애(愛)꿈 지원사업 - 데일리대구경북뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSFhPN19VMHROdUNjX3lJSVBCTGhXXzh5YmxJUm9XQmNoOEpUUjNYVnYyUG9aUDBqTWtNZUQ0VEx4S1cyWGMzX3RSeEk4aGJ0Z3NGQVh0d3pucWEwMXl5Umd4cXo4Zw?oc=5",
@@ -1119,17 +1136,17 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
-          "pubDate": "2026-09-21T02:14:24.000Z",
+          "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
+          "pubDate": "2026-09-23T04:22:22.000Z",
           "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "summary": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 서울경제",
           "keywords": [
-            "중기부",
-            "공공데이터",
-            "활용",
+            "경북",
+            "청년애꿈",
             "지원사업",
-            "참여할"
+            "연중",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1151,26 +1168,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
-          "pubDate": "2026-09-23T04:22:22.000Z",
-          "image": null,
-          "summary": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 서울경제",
-          "keywords": [
-            "경북",
-            "청년애꿈",
-            "지원사업",
-            "연중",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-26T03:39:58.471Z",
+      "fetchedAt": "2026-09-26T09:08:37.196Z",
       "error": null
     }
   },
@@ -1180,70 +1180,70 @@
       "label": "AX",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ipo",
       "label": "IPO",
       "count": 2,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "공공데이터",
       "label": "공공데이터",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
+      "key": "ai",
+      "label": "AI",
       "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1280,52 +1280,52 @@
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 4,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 7,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 4,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 4,
-      "rank": 9,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "추천 동영상"
     },
     {
       "key": "fintech",
       "label": "Fintech",
       "count": 3,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "Fintech"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 3,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "모금 활동"
     }
   ]
 }
