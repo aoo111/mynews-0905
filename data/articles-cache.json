@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-27T14:59:34.216Z",
+  "collectedAt": "2026-09-27T19:33:06.386Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:26.193Z",
+      "fetchedAt": "2026-09-27T19:32:55.945Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:26.285Z",
+      "fetchedAt": "2026-09-27T19:32:55.994Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:27.538Z",
+      "fetchedAt": "2026-09-27T19:32:57.164Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:27.726Z",
+      "fetchedAt": "2026-09-27T19:32:57.301Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "젤렌스키, 러시아가 우크라이나 데이터센터까지 공격 대상을 확대했다고 밝혀",
-          "link": "https://news.hada.io/topic?id=34366",
-          "pubDate": "2026-09-27T14:42:13.000Z",
+          "title": "postmarketOS, Nura로 이름 변경",
+          "link": "https://news.hada.io/topic?id=34377",
+          "pubDate": "2026-09-27T18:43:31.000Z",
           "image": null,
-          "summary": "Volodymyr Zelensky 우크라이나 대통령은 러시아가 데이터센터와 인터넷 사업자로 공격 대상을 넓혀 시민의 연락, 학습, 업무 등 일상생활을 방해하고 있다고 밝힘 공격 여파로 수요일 Kyiv와 인근 지역 약 10만 가구에 인터넷 장애가 발생했으며, Lutsk에서는 대중...",
+          "summary": "운영체제 프로젝트 postmarketOS가 Nura로 이름을 변경함. 약 1년 반의 선정 과정을 거쳐 자체 콘퍼런스에서 새 이름을 발표함 기존 이름은 길고 여러 언어에서 발음하거나 기억하기 어려웠으며, 대소문자 표기도 혼란스러워 해커 커뮤니티 밖으로 알리는 데 어려움",
           "keywords": [
-            "젤렌스키",
-            "러시아가",
-            "우크라이나",
-            "데이터센터까지",
-            "공격"
+            "postmarketOS",
+            "Nura로",
+            "이름",
+            "변경"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "그렇다, Claude는 9루프 계산을 할 수 있다",
-          "link": "https://news.hada.io/topic?id=34365",
-          "pubDate": "2026-09-27T14:39:12.000Z",
+          "title": "80달러짜리 모텔 방에서 이뤄진 생명의 기원을 밝힐 발견",
+          "link": "https://news.hada.io/topic?id=34376",
+          "pubDate": "2026-09-27T18:40:31.000Z",
           "image": null,
-          "summary": "Claude가 평면 N=4 super Yang-Mills 이론의 9루프 6입자 산란 진폭을 계산했으며, 기존 8루프 연구에 참여한 Lance Dixon이 결과를 검증함 기존 부트스트랩 방식과 형상 인자(form factor)를 거치는 간접 방식으로 각각 계산했으며, 어느 쪽이든 최종 사용자 비용...",
+          "summary": "80달러짜리 모텔 방에서 이뤄진 생명의 기원을 밝힐 발견",
           "keywords": [
-            "그렇다",
-            "Claude는",
-            "9루프",
-            "계산을"
+            "80달러짜리",
+            "모텔",
+            "방에서",
+            "이뤄진",
+            "생명의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Copilot+ PC 브랜드는 죽었다",
-          "link": "https://news.hada.io/topic?id=34364",
-          "pubDate": "2026-09-27T13:40:43.000Z",
+          "title": "‘통제를 벗어난’ AI 에이전트란 없다",
+          "link": "https://news.hada.io/topic?id=34375",
+          "pubDate": "2026-09-27T18:37:31.000Z",
           "image": null,
-          "summary": "Microsoft와 PC 제조사들이 Copilot+ PC 명칭 사용을 줄이고 있음. 2026년 출시된 Surface PC에서는 제품명에 이 명칭이 빠졌으며, Surface 담당 임원도 더 이상 Copilot+ PC로 부르지 않는다고 확인함 명칭 축소가 기능 지원 중단을 뜻하지는 않음. 새 Surface PC...",
+          "summary": "AI의 예상 밖 행동을 ‘통제 이탈(rogue)’로 부르면 소프트웨어에 독립적인 의도와 판단력을 부여하고, 이를 운영하는 기업의 책임을 흐리게 됨 OpenAI 에이전트는 데이터 수집 과제를 수행하다 호주와 미국 정부 데이터베이스 등에 접근했지만, 공개된 정보만으로는 금지된...",
           "keywords": [
-            "Copilot+",
-            "PC",
-            "브랜드는",
-            "죽었다"
+            "통제를",
+            "벗어난",
+            "AI",
+            "에이전트란",
+            "없다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GLM-5.3-Flash를 Jev와 유사한 의사결정 모델로 전환하기",
-          "link": "https://news.hada.io/topic?id=34363",
-          "pubDate": "2026-09-27T13:37:43.000Z",
+          "title": "CAPTCHA는 인간임을 증명하지 않는다, 미국인임을 증명한다 (2017)",
+          "link": "https://news.hada.io/topic?id=34374",
+          "pubDate": "2026-09-27T17:45:56.000Z",
           "image": null,
-          "summary": "GLM-5.3-Flash를 미세조정하지 않고, 한 번의 순전파로 사전 정의된 선택지 중 하나를 고르고 각 선택지의 확률까지 얻는 방식을 구현함 프롬프트에 선택지 번호를 넣고 응답을 choice_index:까지 미리 채운 뒤, 다음 위치의 토큰 확률을 선택지별로 ...",
+          "summary": "인간 여부를 확인하는 CAPTCHA가 미국 문화에 대한 지식을 요구하면, 다른 문화권 이용자에게는 인간임을 증명하는 것과 별개의 장벽이 생김 IQ 테스트에서도 같은 문제가 나타나며, 미국 동전 이름을 모르는 7세 아이는 계산에 앞서 문제 자체를 이해할 수 없었음...",
           "keywords": [
-            "GLM",
-            "Flash를",
-            "Jev와",
-            "유사한",
-            "의사결정"
+            "CAPTCHA는",
+            "인간임을",
+            "증명하지",
+            "않는다",
+            "미국인임을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Rust에서 살펴본 “검증하지 말고 파싱하라”",
-          "link": "https://news.hada.io/topic?id=34362",
-          "pubDate": "2026-09-27T13:03:03.000Z",
+          "title": "인터넷이 TLA+를 발견했다. 이제 무엇을 할까?",
+          "link": "https://news.hada.io/topic?id=34373",
+          "pubDate": "2026-09-27T17:42:56.000Z",
           "image": null,
-          "summary": "“검증하지 말고 파싱하라”는 데이터를 검사하는 데 그치지 않고, 검사로 확립한 불변 조건을 새로운 타입에 담아 이후 코드가 그 조건을 다시 확인할 필요를 없애는 패턴임 비어 있지 않음을 검사해도 반환 타입이 Vec이면 호출자는 여전히 빈 경우를 처리해야 하지만...",
+          "summary": "TLA+ 는 시스템이 할 수 있는 동작과 항상 또는 언젠가 만족해야 할 속성을 명세하는 언어로, 에이전트 코딩에서도 형식 모델의 활용 가능성이 주목받고 있음 시스템의 상태와 전이를 모델링하고, 잘못된 일이 발생하지 않는 안전성과 좋은 일이 결국 발생하는 활성...",
           "keywords": [
-            "Rust에서",
-            "살펴본",
-            "검증하지",
-            "말고",
-            "파싱하라"
+            "인터넷이",
+            "TLA+를",
+            "발견했다",
+            "이제",
+            "무엇을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:28.691Z",
+      "fetchedAt": "2026-09-27T19:32:58.227Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +537,7 @@
           "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:28.888Z",
+      "fetchedAt": "2026-09-27T19:32:58.331Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:29.081Z",
+      "fetchedAt": "2026-09-27T19:32:58.541Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:29.159Z",
+      "fetchedAt": "2026-09-27T19:32:58.593Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:31.874Z",
+      "fetchedAt": "2026-09-27T19:33:03.303Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:32.185Z",
+      "fetchedAt": "2026-09-27T19:33:03.594Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +981,7 @@
           "summaryKo": "지난 24시간 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받으세요. 이벤트를 시작했던 위치보다 스타트업의 궤도에 더 멀리 둡니다. 절약하고 바늘을 밀 수 있는 기회를 놓치지 마세요."
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:32.233Z",
+      "fetchedAt": "2026-09-27T19:33:03.614Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1080,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:33.737Z",
+      "fetchedAt": "2026-09-27T19:33:05.976Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1105,23 +1106,6 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
-          "pubDate": "2026-09-21T02:14:24.000Z",
-          "image": null,
-          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
-          "keywords": [
-            "중기부",
-            "공공데이터",
-            "활용",
-            "지원사업",
-            "참여할"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "‘경북 청년애꿈 지원사업’ 연중 모집…면접부터 근속장려까지 - 서울경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYjBXY2tmRnRobnhKeWt2ZGt6WTJWRGMyT25QajZvSUFVcHUyd1kyLU5YdDNUUjlUcmhYMWFsc3RkRk9QUmlPSWF4MkZCU0VrVnfSAVNBVV95cUxOV1RHWkdyc1VTSFUxU2tNZ2o5MmFSNngxUE54S2Nhb0p1cmJZWldhMjRaTzlYUG14S0t1dTcwSmk4OWdWOTJIZGtJZUEzTy1PSkJFbw?oc=5",
           "pubDate": "2026-09-23T04:22:22.000Z",
@@ -1139,11 +1123,28 @@
           "summaryKo": null
         },
         {
-          "title": "경북도, 청년애꿈 지원사업 연중 모집 - 시사포커스",
+          "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
+          "pubDate": "2026-09-21T02:14:24.000Z",
+          "image": null,
+          "summary": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 중소기업뉴스",
+          "keywords": [
+            "중기부",
+            "공공데이터",
+            "활용",
+            "지원사업",
+            "참여할"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경북도, 청년애꿈 지원사업 연중 모집 - sisafocus.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBja1A3TjAtbmZpWFZvRkd2N1BwOGRJTmlDTjlfdVhMcnFFMFdZZHkxMm5DTE9Wa1A3NDN4VnBJVDFGeld2WGJhV0VUMEx6SnFaSTZ5WFBqdW5ObGJtS0htU3J3T1BabExKTXR4SDRGaw?oc=5",
           "pubDate": "2026-09-25T12:15:10.000Z",
           "image": null,
-          "summary": "경북도, 청년애꿈 지원사업 연중 모집 시사포커스",
+          "summary": "경북도, 청년애꿈 지원사업 연중 모집 sisafocus.co.kr",
           "keywords": [
             "경북도",
             "청년애꿈",
@@ -1156,95 +1157,95 @@
           "summaryKo": null
         },
         {
-          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tX0J0eDRtMmxHQmFIXzlUemFrZ3pfQVJndXFaNlRYVWRvOEZyOFJLR0NoazFPYVhfLWhSNkV2eENCLW5sNDJkbUpqcFB0V0kzY0JPQS03QkFKTFRtdjNWT1NBYzJkTTB1QkE?oc=5",
-          "pubDate": "2026-09-27T03:16:26.000Z",
+          "title": "경북도, 청년 취업성공 패키지 ‘청년애꿈 지원사업’ 연중 모집 - 웹이코노미",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53eDF2SFQ2bXRfMkxWOU9oRy1YOWlDS1pzUkdwQVprLU5mMnI4X3JFYndxd1JCOXc5Z1ZnbG5FT2t3bDQxa2Q3ODdJcjFLMVR0S0ZxYldFZU4tLUhucElCLTBqQlgtRXlfSWpDWm5DTWliQQ?oc=5",
+          "pubDate": "2026-09-25T11:12:33.000Z",
           "image": null,
-          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 금강일보",
+          "summary": "경북도, 청년 취업성공 패키지 ‘청년애꿈 지원사업’ 연중 모집 웹이코노미",
           "keywords": [
-            "음성군",
-            "2026년",
-            "하반기",
-            "영농부산물",
-            "파쇄지원"
+            "경북도",
+            "청년",
+            "취업성공",
+            "패키지",
+            "청년애꿈"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T14:59:34.207Z",
+      "fetchedAt": "2026-09-27T19:33:06.378Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "ai에이전트",
       "label": "AI에이전트",
       "count": 2,
-      "rank": 1,
-      "change": "new"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "공공데이터",
       "label": "공공데이터",
       "count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": "down"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 5,
-      "rank": 3,
+      "rank": 4,
       "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
+      "rank": 5,
       "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
+      "rank": 9,
       "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 9,
-      "change": "down"
-    },
-    {
-      "key": "트렌드",
-      "label": "트렌드",
-      "count": 3,
       "rank": 10,
       "change": "down"
     }
