@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-27T09:50:20.146Z",
+  "collectedAt": "2026-09-27T14:59:34.216Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,7 +41,20 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[단독] “尹·吳 때 공급 줄었다”더니 … LH 평가선 李정부 9·7대책에 민간토지 공급 ‘반토막’",
+          "title": "70대 이상 농가 40% 달하는데…‘고령화 농지’ 매년 0.08%만 세대교체",
+          "link": "https://www.mk.co.kr/news/economy/12162163",
+          "pubDate": "2026-09-27T13:56:16.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/27/rcv.NEWS1.NEWS1.20260401.2026-04-01T142707_1007830667_LOCAL_I_R.jpg",
+          "summary": "농지이양 은퇴직불제로 1197㏊ 이양 전체 농지 150만㏊와 비교하면 미미 39세 이하 농가인구는 10년 새 반토막 80세 이상 농가인구도 14.3%로 껑충정부가 사상 처음 농지 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] “尹·吳 때 공급 줄었다”더니 … LH 평가선 李정부 9·7대책에 민간토지 공급 ‘축소’",
           "link": "https://www.mk.co.kr/news/economy/12162092",
           "pubDate": "2026-09-27T08:27:22.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202609/27/news-p.v1.20260918.d6537b51708548ada3b383b760c016e6_R.jpg",
@@ -70,7 +83,7 @@
           "title": "[단독] '고령화 농지' 매년 0.08%만 세대교체",
           "link": "https://www.mk.co.kr/news/economy/12162083",
           "pubDate": "2026-09-27T08:08:26.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01110101000007_S00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01160101000003_S00.jpg",
           "summary": "정부가 사상 처음 농지 전수조사에 착수한 가운데 70세 이상 고령농 상당수가 노후 생계 불안으로 농지를 놓지 못하면서 '농지 세대교체'가 속도를 내지 못하고 있는 것으로 나타났다...",
           "keywords": [
             "경제"
@@ -80,24 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "[단독] \"월 10만원 받아 어떻게 사나\"… 농사일 못 놓는 팔순농부",
+          "title": "[단독] \"월 10만원 받으려 농지 팔아야하나\"… 농사일 못 놓는 팔순농부",
           "link": "https://www.mk.co.kr/news/economy/12162032",
           "pubDate": "2026-09-27T07:56:14.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01110105000002_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01160105000002_L00.jpg",
           "summary": "고령농 은퇴를 유도해 청년농에게 농지를 이양하려는 정부의 핵심 정책들이 비현실적 제도와 예산 한계로 표류하고 있는 것으로 나타났다. 농지를 넘기는 조건으로 지급하는 '농지이양 은퇴..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] 한·멕시코 비즈니스 포럼",
-          "link": "https://www.mk.co.kr/news/economy/12162009",
-          "pubDate": "2026-09-27T07:50:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/20260928_01110112000009_L00.jpg",
-          "summary": "",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:10.819Z",
+      "fetchedAt": "2026-09-27T14:59:26.193Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:10.895Z",
+      "fetchedAt": "2026-09-27T14:59:26.285Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:11.786Z",
+      "fetchedAt": "2026-09-27T14:59:27.538Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:11.932Z",
+      "fetchedAt": "2026-09-27T14:59:27.726Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "은행과 신용협동조합, Apple Pay 수수료에 공동 대응 나선다",
-          "link": "https://news.hada.io/topic?id=34353",
-          "pubDate": "2026-09-27T09:38:08.000Z",
+          "title": "젤렌스키, 러시아가 우크라이나 데이터센터까지 공격 대상을 확대했다고 밝혀",
+          "link": "https://news.hada.io/topic?id=34366",
+          "pubDate": "2026-09-27T14:42:13.000Z",
           "image": null,
-          "summary": "미국 법원이 Apple Pay 반독점 소송의 집단소송 지위를 승인해, 수수료를 낸 은행과 신용협동조합이 Apple에 공동으로 소송을 제기할 수 있게 됨 원고 측은 Apple이 iPhone NFC 칩 접근을 제한해 경쟁 모바일 지갑을 막고, 연간 최대 10억 달러의...",
+          "summary": "Volodymyr Zelensky 우크라이나 대통령은 러시아가 데이터센터와 인터넷 사업자로 공격 대상을 넓혀 시민의 연락, 학습, 업무 등 일상생활을 방해하고 있다고 밝힘 공격 여파로 수요일 Kyiv와 인근 지역 약 10만 가구에 인터넷 장애가 발생했으며, Lutsk에서는 대중...",
           "keywords": [
-            "은행과",
-            "신용협동조합",
-            "Apple",
-            "Pay",
-            "수수료에"
+            "젤렌스키",
+            "러시아가",
+            "우크라이나",
+            "데이터센터까지",
+            "공격"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenAI, Hacker News에 올라올 내용이 ‘대외 이미지’에 미칠 영향 우려",
-          "link": "https://news.hada.io/topic?id=34352",
-          "pubDate": "2026-09-27T09:35:07.000Z",
+          "title": "그렇다, Claude는 9루프 계산을 할 수 있다",
+          "link": "https://news.hada.io/topic?id=34365",
+          "pubDate": "2026-09-27T14:39:12.000Z",
           "image": null,
-          "summary": "Authors Guild와 작가들이 OpenAI/Microsoft를 상대로 진행 중인 저작권 소송에서 공개한 원고 측 서면은, 두 회사가 도서 무단 이용과 작가의 일자리 대체 가능성을 알고 있었다는 내부 발언을 담고 있음 OpenAI 연구원 Sam McCandlish는 LibGen 이용과 관련해, “...",
+          "summary": "Claude가 평면 N=4 super Yang-Mills 이론의 9루프 6입자 산란 진폭을 계산했으며, 기존 8루프 연구에 참여한 Lance Dixon이 결과를 검증함 기존 부트스트랩 방식과 형상 인자(form factor)를 거치는 간접 방식으로 각각 계산했으며, 어느 쪽이든 최종 사용자 비용...",
           "keywords": [
-            "OpenAI",
-            "Hacker",
-            "News에",
-            "올라올",
-            "내용이"
+            "그렇다",
+            "Claude는",
+            "9루프",
+            "계산을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "예멘의 면적은 얼마일까? (2024)",
-          "link": "https://news.hada.io/topic?id=34351",
-          "pubDate": "2026-09-27T07:33:23.000Z",
+          "title": "Copilot+ PC 브랜드는 죽었다",
+          "link": "https://news.hada.io/topic?id=34364",
+          "pubDate": "2026-09-27T13:40:43.000Z",
           "image": null,
-          "summary": "Google과 Wikipedia에 나온 예멘 면적 55만 5,000km²를 국경선에 따라 직접 재측정하자, Socotra를 비롯한 모든 섬을 포함해도 약 45만 6,000km²에 그쳤음 55만 5,000km²의 출처는 1991년 예멘 통계연감으로 거슬러 올라감. 당시 불명확했던 사우...",
+          "summary": "Microsoft와 PC 제조사들이 Copilot+ PC 명칭 사용을 줄이고 있음. 2026년 출시된 Surface PC에서는 제품명에 이 명칭이 빠졌으며, Surface 담당 임원도 더 이상 Copilot+ PC로 부르지 않는다고 확인함 명칭 축소가 기능 지원 중단을 뜻하지는 않음. 새 Surface PC...",
           "keywords": [
-            "예멘의",
-            "면적은",
-            "얼마일까",
-            "(2024)"
+            "Copilot+",
+            "PC",
+            "브랜드는",
+            "죽었다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Go 동시성 핵심 정리",
-          "link": "https://news.hada.io/topic?id=34350",
-          "pubDate": "2026-09-27T05:37:09.000Z",
+          "title": "GLM-5.3-Flash를 Jev와 유사한 의사결정 모델로 전환하기",
+          "link": "https://news.hada.io/topic?id=34363",
+          "pubDate": "2026-09-27T13:37:43.000Z",
           "image": null,
-          "summary": "Go 동시성을 빠르게 복습하는 미니북으로, 고루틴과 채널부터 동기화, 테스트, 운영 진단까지 코드 수정과 실행이 가능한 예제로 정리함 채널과 select 로 데이터 전달, 완료 알림, 취소, 파이프라인을 구성하고, 타이머와 context로 시...",
+          "summary": "GLM-5.3-Flash를 미세조정하지 않고, 한 번의 순전파로 사전 정의된 선택지 중 하나를 고르고 각 선택지의 확률까지 얻는 방식을 구현함 프롬프트에 선택지 번호를 넣고 응답을 choice_index:까지 미리 채운 뒤, 다음 위치의 토큰 확률을 선택지별로 ...",
           "keywords": [
-            "Go",
-            "동시성",
-            "핵심",
-            "정리"
+            "GLM",
+            "Flash를",
+            "Jev와",
+            "유사한",
+            "의사결정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Drawgent - 실시간 Excalidraw 캔버스에서 작동하는 코딩 에이전트",
-          "link": "https://news.hada.io/topic?id=34348",
-          "pubDate": "2026-09-27T04:33:41.000Z",
+          "title": "Rust에서 살펴본 “검증하지 말고 파싱하라”",
+          "link": "https://news.hada.io/topic?id=34362",
+          "pubDate": "2026-09-27T13:03:03.000Z",
           "image": null,
-          "summary": "Drawgent는 사용자가 설치하고 로그인한 Claude Code, Codex, opencode를 Excalidraw에 연결하며, 에이전트가 캔버스의 스크린샷과 장면 데이터를 보고 그림을 수정한 뒤 결과를 확인함 채팅 패널뿐 아니라 도형 옆의 AGENT: 메모나 레이저로 표시한 ...",
+          "summary": "“검증하지 말고 파싱하라”는 데이터를 검사하는 데 그치지 않고, 검사로 확립한 불변 조건을 새로운 타입에 담아 이후 코드가 그 조건을 다시 확인할 필요를 없애는 패턴임 비어 있지 않음을 검사해도 반환 타입이 Vec이면 호출자는 여전히 빈 경우를 처리해야 하지만...",
           "keywords": [
-            "Drawgent",
-            "실시간",
-            "Excalidraw",
-            "캔버스에서",
-            "작동하는"
+            "Rust에서",
+            "살펴본",
+            "검증하지",
+            "말고",
+            "파싱하라"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:12.625Z",
+      "fetchedAt": "2026-09-27T14:59:28.691Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +536,7 @@
           "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:12.816Z",
+      "fetchedAt": "2026-09-27T14:59:28.888Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:12.952Z",
+      "fetchedAt": "2026-09-27T14:59:29.081Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:13.035Z",
+      "fetchedAt": "2026-09-27T14:59:29.159Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,6 +699,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "포시에스, 이름·서명란까지 AI가 알아서 만든다…전자서식 자동 완성 기술 특허",
+          "link": "https://www.venturesquare.net/1116304/",
+          "pubDate": "2026-09-27T13:36:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/4isa-522x522.jpg",
+          "summary": "포시에스가 AI로 문서 구조와 내용을 분석해 전자서식을 자동으로 구성하는 기술의 특허를 등록했다. PDF와 스캔 이미지, 워드 파일 등에서 이름·연락처·서명 등 작성 영역을 찾아 위치와 크기, 입력 형식을 설정하고 작성 권한과 서명 순서까지 구성하는 기술이다. 해당 기... The post 포시에스, 이름·서명란까지 AI가 알아서 만든다…전자서식 자동 완성 기술 특허 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AIOZEKA",
+            "AI비서",
+            "AI에이전트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "법무법인 임팩터스, 미국 진출은 법인 설립 전부터…뷰티·헬스케어 스타트업에 실무 전략 공유",
+          "link": "https://www.venturesquare.net/1116257/",
+          "pubDate": "2026-09-25T23:52:09.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/IMPACT-783x522.jpg",
+          "summary": "법무법인 임팩터스가 MEeT 2026과 K-Beauty Summit 2026에서 뷰티·헬스케어·의료 기업의 글로벌 진출 실무를 공유했다. 법인·지분과 데이터 구조, 지식재산권, 현지 인허가 등 진출 초기부터 검토해야 할 사항과 미국 법인 설립 이후 발생하는 운영 문제를... The post 법무법인 임팩터스, 미국 진출은 법인 설립 전부터…뷰티·헬스케어 스타트업에 실무 전략 공유 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "KBeautySummit2026",
+            "K뷰티",
+            "MEeT2026"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "빅밸류, AI가 쓸 데이터부터 만든다…국가데이터처와 금융·방역 AX 논의",
           "link": "https://www.venturesquare.net/1116244/",
@@ -752,45 +788,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "패스트캠퍼스·마이라이트·콜로소·제베, 추석 연휴 ‘무료 체험’으로 남은 100일 자기계발",
-          "link": "https://www.venturesquare.net/1116214/",
-          "pubDate": "2026-09-25T11:27:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-34-668x522.png",
-          "summary": "추석 연휴를 활용해 미뤄둔 자기계발을 다시 시작할 수 있는 무료 체험 콘텐츠가 다양해지고 있다. 패스트캠퍼스는 ‘AI World’를 통해 학습과 업무, 콘텐츠 제작 등에 AI를 활용하는 방법을 제공하고 마이라이트는 일본어 무료 샘플 강의를 운영한다. 콜로소는 크리에이티... The post 패스트캠퍼스·마이라이트·콜로소·제베, 추석 연휴 ‘무료 체험’으로 남은 100일 자기계발 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AIWorld",
-            "AI교육",
-            "마이라이트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "케어젠, 25년 펩타이드 기술 다음은 siRNA…글로벌 파트너와 신제품 시장 확대 논의",
-          "link": "https://www.venturesquare.net/1116211/",
-          "pubDate": "2026-09-25T11:22:28.000Z",
-          "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png",
-          "summary": "케어젠이 창립 25주년을 맞아 전 세계 주요 파트너와 ‘글로벌 파트너스 미팅 2026’을 열고 국가별 제품 수요와 판매 전략을 논의했다. 행사에서는 기존 펩타이드 기술과 상용화 제품을 비롯해 Luxidase™ 기반 siRNA 전달 기술 등 연구개발 성과를 소개했다. 국... The post 케어젠, 25년 펩타이드 기술 다음은 siRNA…글로벌 파트너와 신제품 시장 확대 논의 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "Luxidase",
-            "siRNA",
-            "글로벌사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:16.232Z",
+      "fetchedAt": "2026-09-27T14:59:31.874Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:16.526Z",
+      "fetchedAt": "2026-09-27T14:59:32.185Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +980,7 @@
           "summaryKo": "지난 24시간 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받으세요. 이벤트를 시작했던 위치보다 스타트업의 궤도에 더 멀리 둡니다. 절약하고 바늘을 밀 수 있는 기회를 놓치지 마세요."
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:16.622Z",
+      "fetchedAt": "2026-09-27T14:59:32.233Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:19.695Z",
+      "fetchedAt": "2026-09-27T14:59:33.737Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1139,23 +1139,6 @@
           "summaryKo": null
         },
         {
-          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tX0J0eDRtMmxHQmFIXzlUemFrZ3pfQVJndXFaNlRYVWRvOEZyOFJLR0NoazFPYVhfLWhSNkV2eENCLW5sNDJkbUpqcFB0V0kzY0JPQS03QkFKTFRtdjNWT1NBYzJkTTB1QkE?oc=5",
-          "pubDate": "2026-09-27T03:16:26.000Z",
-          "image": null,
-          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 금강일보",
-          "keywords": [
-            "음성군",
-            "2026년",
-            "하반기",
-            "영농부산물",
-            "파쇄지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "경북도, 청년애꿈 지원사업 연중 모집 - 시사포커스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBja1A3TjAtbmZpWFZvRkd2N1BwOGRJTmlDTjlfdVhMcnFFMFdZZHkxMm5DTE9Wa1A3NDN4VnBJVDFGeld2WGJhV0VUMEx6SnFaSTZ5WFBqdW5ObGJtS0htU3J3T1BabExKTXR4SDRGaw?oc=5",
           "pubDate": "2026-09-25T12:15:10.000Z",
@@ -1171,80 +1154,97 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tX0J0eDRtMmxHQmFIXzlUemFrZ3pfQVJndXFaNlRYVWRvOEZyOFJLR0NoazFPYVhfLWhSNkV2eENCLW5sNDJkbUpqcFB0V0kzY0JPQS03QkFKTFRtdjNWT1NBYzJkTTB1QkE?oc=5",
+          "pubDate": "2026-09-27T03:16:26.000Z",
+          "image": null,
+          "summary": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 금강일보",
+          "keywords": [
+            "음성군",
+            "2026년",
+            "하반기",
+            "영농부산물",
+            "파쇄지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-27T09:50:20.135Z",
+      "fetchedAt": "2026-09-27T14:59:34.207Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai에이전트",
+      "label": "AI에이전트",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "공공데이터",
       "label": "공공데이터",
       "count": 2,
-      "rank": 1,
-      "change": "up"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 4,
-      "rank": 8,
-      "change": "new"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "트렌드",
       "label": "트렌드",
       "count": 3,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 10,
       "change": "down"
     }
