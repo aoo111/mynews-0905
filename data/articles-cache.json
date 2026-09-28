@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-28T10:36:29.409Z",
+  "collectedAt": "2026-09-28T19:17:05.728Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "北 김선경 “핵보유국 되돌릴 수없어”...비핵화 협상 일축",
+          "link": "https://www.mk.co.kr/news/economy/12163252",
+          "pubDate": "2026-09-28T17:32:19.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260929.83ea61498d204aa0afd0a053b304e6d8_R.png",
+          "summary": "김선경 외무성 부상 유엔 연설 작년에 이어 핵보유국 강조김선경 북한 외무성 부상이 28일(현지시간) 유엔 연설에서 “북한이 보유한 핵억제력은 외부 침략으로부터 주권과 안전, 평화..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "대통령 호언장담한 이 무역협정…가입만 하면 8조원 경제효과라는데",
+          "link": "https://www.mk.co.kr/news/economy/12163145",
+          "pubDate": "2026-09-28T12:15:35.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/28/rcv.YNA.20260904.PYH2026090409370001300_R.jpg",
+          "summary": "정부, 경제효과 잠정치 분석 향후 10년 GDP 0.38%P 상승 농림수산업은 年 8천억 타격 12개국 참여…세계 GDP 14% 美교두보 멕시코와 FTA효과 中 먼저 가입땐 조건 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "이형일, 한은 총재 만나 \"경제위험 선제대응\"",
+          "link": "https://www.mk.co.kr/news/economy/12163078",
+          "pubDate": "2026-09-28T11:11:55.000Z",
+          "image": null,
+          "summary": "이형일 부총리 겸 재정경제부 장관이 취임한 지 6일 만에 신현송 한국은행 총재와 처음 만났다. 두 경제 수장은 금융시장의 변동성과 대외 불확실성이 커지는 상황에서 위험 요인에 선제..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "은행 영업시간 30분 단축 … 내년 4월부터 9시반 연다",
           "link": "https://www.mk.co.kr/news/economy/12163037",
           "pubDate": "2026-09-28T10:13:43.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] 소상공인 빚 4조 또 탕감하겠단 정부…다 갚은 22만명 “후회막심”",
-          "link": "https://www.mk.co.kr/news/economy/12163011",
-          "pubDate": "2026-09-28T09:05:25.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/28/news-p.v1.20240825.9dfbdc1b15c64c1cbc70fab354f79d9c_R.jpg",
-          "summary": "부채 성실상환자 수십만인데 새도약기금 이어 또 채무조정 20만명 빚 4.2조 탕감 추진 형평성 논란에 사후관리 부실 “성실상환자 인센티브 필요”코로나19 때 만기 연장·상환 유예 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"선배 사업가 노하우 배우자\"…젊은 한상 100여명 뭉쳤다",
-          "link": "https://www.mk.co.kr/news/economy/12163000",
-          "pubDate": "2026-09-28T08:48:37.000Z",
-          "image": null,
-          "summary": "\"세계한상대회를 계기로 한상 선배님들께 더 많이 배우고 싶습니다.\"(김미성 WJK디스트리뷰션 대표) 28일 인천 송도에서 열린 제24차 세계한상대회는 젊은 한상들이 외연을 넓히는 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] '한국은행 넥타이' 매고…신현송 찾은 이형일",
-          "link": "https://www.mk.co.kr/news/economy/12162996",
-          "pubDate": "2026-09-28T08:48:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202609/29/20260929_01110101000007_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:10.281Z",
+      "fetchedAt": "2026-09-28T19:16:42.396Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:10.334Z",
+      "fetchedAt": "2026-09-28T19:16:42.491Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "과기부, 국대 AI 중단설 일축...\"현 구조로는 프런티어 역부족\" 지적도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215733",
+          "pubDate": "2026-09-28T20:12:48.000Z",
+          "image": null,
+          "summary": "과학기술정보통신부(장관 배경훈)가 독자 AI 파운데이션 모델(독파모) 프로젝트를 중단하고 특수목적법인(SPC)을 설립한다는 보도에 대한 일축에 나섰다.과기정통부는 28일 설명자료를 통해 \"정부는 최상위급 AI 모델 개발을 위한 재원 집중 지원 필요성을 깊이 인식하고 있다\"면서도 \"독자 AI 파운데이션 모델 프로젝트 중단 및 최상위급 AI 모델 개발 관련 SPC 설립 여부 등은 아직 정해진 바 없다\"고 입장을 정리했다.이번 자료는 이날 한 매체에서 정부가 '국가대표 AI' 프로젝트인 독파모를 중단하고 5조원 규모의 SPC를 설립해 프",
+          "keywords": [
+            "과기부",
+            "국대",
+            "AI",
+            "중단설",
+            "일축"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오퍼스 5.5, 자기개선 평가서 1위…'완전 RSI' 내년 7월로 앞당겨",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215714",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "제브, 클로드 오퍼스 5 지원받아 '포켓몬' 명예의 전당 입성",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215712",
-          "pubDate": "2026-09-28T17:30:00.000Z",
-          "image": null,
-          "summary": "의사결정 특화 AI 모델 '제브(Jev)'가 앤트로픽의 클로드 오퍼스 5의 지원을 받아 게임 ‘포켓몬스터 레드’를 단 일주일 만에 클리어하고 명예의 전당에 입성했다. 기존 챗봇들이 게임을 완료하는 데 수주에서 수개월이 걸렸던 것과 비교하면 획기적인 성과다. 스타트업 스탠다드 에이전트(Standard Agents)의 앤드류 보이드 창립자는 23일(현지시간) 제브가 포켓몬스터 레드에서 사천왕과 챔피언을 모두 물리쳤다고 밝혔다.이번 성과에 대해 커뮤니티에서는 LLM이 직접 모든 판단을 내리지 않고도 특화된 의사결정 모델과 효율적인 데이터",
-          "keywords": [
-            "제브",
-            "클로드",
-            "오퍼스",
-            "지원받아",
-            "포켓몬"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:11.593Z",
+      "fetchedAt": "2026-09-28T19:16:43.622Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "pubDate": "2026-09-28T07:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "Lenfest Institute는 OpenAI 지원을 확대하여 랜드마크 프로그램을 성장시킵니다.",
+          "summaryKo": "OpenAI는 5백만 달러의 자금과 최대 5백만 달러의 소프트웨어 크레딧 및 엔지니어링 지원을 통해 Lenfest AI Collaborative and Fellowship 프로그램을 확장하고 있습니다."
+        },
         {
           "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "link": "https://openai.com/index/proaction",
@@ -326,19 +339,6 @@
           "summaryKo": "OpenAI는 민간 인프라의 사이버 방어를 지원하기 위해 우크라이나 정부로 Daybreak 프로그램에 대한 액세스를 확대하고 있습니다."
         },
         {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "pubDate": "2026-09-23T12:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "keywords": [
-            "Global Affairs"
-          ],
-          "isForeign": true,
-          "titleKo": "샘 알트먼의 유엔 안전보장이사회 연설",
-          "summaryKo": "OpenAI의 CEO인 샘 알트만 (Sam Altman) 이 유엔 안전보장이사회 연설에서 AI 안전, 인간 통제 및 국제 협력에 대해 논의합니다."
-        },
-        {
           "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
           "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
           "pubDate": "2026-09-23T12:00:00.000Z",
@@ -352,7 +352,7 @@
           "summaryKo": "GPT-6 Astra는 보다 체계적이고 맥락을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:11.768Z",
+      "fetchedAt": "2026-09-28T19:16:45.732Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,86 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "AI 시대를 여행하는 히치하이커를 위한 안내서 – 수학과 코드 없이 LLM의 발전 흐름 이해하기",
-          "link": "https://news.hada.io/topic?id=34422",
-          "pubDate": "2026-09-28T10:34:13.000Z",
+          "title": "Show HN: Hntui - Hacker News용 TUI",
+          "link": "https://news.hada.io/topic?id=34445",
+          "pubDate": "2026-09-28T18:48:21.000Z",
           "image": null,
-          "summary": "수학 없이, 코드 없이 읽을 수 있는 AI 입문 전자책을 만들었습니다. 머신러닝의 기초부터 딥러닝, 트랜스포머를 거쳐 LLM이 등장하기까지의 흐름을 하나로 연결해서 설명합니다. AI를 공부하다 보면 각각의 개념은 접하기 쉽지만, 이 개념들이 왜 등장했고 서로 어떻게 이어지는지 이해하기는 쉽지 않",
+          "summary": "hntui는 터미널에서 Hacker News의 Top, New, Best, Ask, Show, Jobs 피드 6개를 탐색하고 게시물의 댓글을 읽을 수 있는 TUI임 Vim 방식 키보드 조작과 마우스를 지원하며, 댓글 하위 트리 접기/펼치기와 댓글 내 링크 탐색이 가능함 게시물 저장...",
           "keywords": [
-            "AI",
-            "시대를",
-            "여행하는",
-            "히치하이커를",
-            "위한"
+            "Show",
+            "HN:",
+            "Hntui",
+            "Hacker",
+            "News용"
+          ],
+          "isForeign": true,
+          "titleKo": "Show HN: Hntui - 해커 뉴스용 TUI",
+          "summaryKo": "hntui 는 터미널에서 Hacker News의 Top, New, Best, Ask, Show, Jobs 피드 6개를 탐색하고 게시물의 댓글을 읽을 수 있는 TUI임 Vim방식 키보드 조작과 마우스를 지원하며,댓글 하위 트리 접기/펼치기와 댓글 내 링크 탐색이 가능함 게시물 저장..."
+        },
+        {
+          "title": "Claude Sonnet 5.5",
+          "link": "https://news.hada.io/topic?id=34444",
+          "pubDate": "2026-09-28T18:45:21.000Z",
+          "image": null,
+          "summary": "Claude Sonnet 5.5는 범위가 명확한 일상 업무, 버그 수정, 문서/슬라이드/스프레드시트 제작에 강점을 둔 모델로, 복잡하고 지속적인 판단이 필요한 작업용 Opus 5.5를 보완함 Sonnet 5보다 출력 생성 속도가 30% 이상 빠르며, 토큰 단가는 같지만 같은 작업에 필...",
+          "keywords": [
+            "Claude",
+            "Sonnet"
+          ],
+          "isForeign": true,
+          "titleKo": "Claude Sonnet 5.5",
+          "summaryKo": "Claude Sonnet 5.5는 범위가 명확한 일상 업무,버그 수정,문서/슬라이드/스프레드시트 제작에 강점을 둔 모델로, 복잡하고 지속적인 판단이 필요한 작업용 Opus 5.5를 보완함 Sonnet 5보다 출력 생성 속도가 30%이상 빠르며,토큰 단가는 같지만 같은 작업에 필..."
+        },
+        {
+          "title": "해적판을 해적질하다",
+          "link": "https://news.hada.io/topic?id=34443",
+          "pubDate": "2026-09-28T18:42:21.000Z",
+          "image": null,
+          "summary": "영화사의 수정판과 부실한 복원으로 개봉 당시 모습의 영화를 보기 어려워지면서, 팬들이 과거 매체와 필름을 모아 비공식 보존판을 제작하고 있음 팬 보존 작업은 서로 다른 판본의 영상과 원래 음향을 결합하거나 극장용 필름을 직접 스캔하는 방식으로, 공식 출...",
+          "keywords": [
+            "해적판을",
+            "해적질하다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI의 빠른 사고와 느린 사고: 메타인지의 역할 (2021)",
-          "link": "https://news.hada.io/topic?id=34420",
-          "pubDate": "2026-09-28T09:33:32.000Z",
+          "title": "위성사진으로 확인된 이스라엘의 가자지구 진입 확대, 휴전에도 계속됨",
+          "link": "https://news.hada.io/topic?id=34442",
+          "pubDate": "2026-09-28T17:52:43.000Z",
           "image": null,
-          "summary": "SOFAI는 과거 경험으로 빠르게 답하는 시스템 1과 추론으로 문제를 푸는 시스템 2를 결합하고, 메타인지 에이전트가 자원과 기대 보상을 고려해 둘 사이를 중재하는 다중 에이전트 아키텍처임 시스템 1 우선으로 작동하며, 먼저 생성한 해답과 신...",
+          "summary": "위성사진으로 확인된 이스라엘의 가자지구 진입 확대, 휴전에도 계속됨",
           "keywords": [
-            "AI의",
-            "빠른",
-            "사고와",
-            "느린",
-            "사고:"
+            "위성사진으로",
+            "확인된",
+            "이스라엘의",
+            "가자지구",
+            "진입"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Recurse Center에서 한 일들",
-          "link": "https://news.hada.io/topic?id=34419",
-          "pubDate": "2026-09-28T05:46:32.000Z",
+          "title": "아이들이 이용이 뜸한 NPR의 Spotify 댓글란을 비밀 단체 채팅방으로 바꿈",
+          "link": "https://news.hada.io/topic?id=34441",
+          "pubDate": "2026-09-28T17:49:43.000Z",
           "image": null,
-          "summary": "브루클린의 프로그래밍 리트리트 Recurse Center에서 여름을 보내며, LLM과 에이전트를 익히는 스터디부터 언어 구현, 압축 해제기 개발, 페어 프로그래밍까지 다양한 활동을 진행함 LLM 학습과 실험을 병행하며 에이전트 샌드박스, 소형 언어 모델, 협동 게임 등을...",
+          "summary": "소셜미디어 사용이 제한된 아이들이 Spotify 팟캐스트 댓글란에서 친구들과 대화함. 다른 청취자의 댓글과 뒤섞이지 않도록 댓글이 적은 NPR 프로그램을 골랐음 공개 플레이리스트에 ‘여기서 채팅하자’ 같은 이름을 붙이고 팟캐스트 에피소드 하나를 담으면, 다른...",
           "keywords": [
-            "Recurse",
-            "Center에서",
-            "일들"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AI로 로펌의 효율이 높아지자 의뢰인들이 묻는다: “내 수임료는 왜 할인되지 않나요?”",
-          "link": "https://news.hada.io/topic?id=34418",
-          "pubDate": "2026-09-28T05:43:32.000Z",
-          "image": null,
-          "summary": "AI로 로펌의 효율이 높아지자 의뢰인들이 묻는다: “내 수임료는 왜 할인되지 않나요?”",
-          "keywords": [
-            "AI로",
-            "로펌의",
-            "효율이",
-            "높아지자",
-            "의뢰인들이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "코드 리뷰에는 자동화할 수 있는 탐지 이상의 역할이 있음",
-          "link": "https://news.hada.io/topic?id=34417",
-          "pubDate": "2026-09-28T05:40:32.000Z",
-          "image": null,
-          "summary": "코드 리뷰는 결함을 찾는 작업뿐 아니라 조율, 의미 형성, 거버넌스 과정이므로, 개별 기능을 에이전트가 수행할 수 있다는 사실만으로 사람을 대체할 수 있다고 볼 수 없음 숙련된 리뷰어가 코드를 이해하지 못하는 상황은 그 자체로 복잡성, 추상화, 의도의 문제를 드러내...",
-          "keywords": [
-            "코드",
-            "리뷰에는",
-            "자동화할",
-            "있는",
-            "탐지"
+            "아이들이",
+            "이용이",
+            "뜸한",
+            "NPR의",
+            "Spotify"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:12.767Z",
+      "fetchedAt": "2026-09-28T19:16:48.830Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -452,6 +448,19 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Derral Eves believes anyone can find an audience on YouTube. He wrote a step-by-step creator field guide to prove it.",
+          "link": "https://www.tubefilter.com/2026/09/28/derral-eves-youtube-formula-book/",
+          "pubDate": "2026-09-28T05:19:52.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/derral.jpg",
+          "summary": "Derral Eves believes anyone can grow an audience on YouTube. That’s why, in 2013, he launched VidSummit, an annual bizdev concert for creators at every stage of their careers. Heading into the 2026 event–which runs Sept. 29-Oct. 1 at the Irving Convention Center in Texas and is expecting all-time-high attendance–Eves says VidSummit continues to have […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "Derral Eves는 누구나 YouTube에서 잠재고객을 찾을 수 있다고 믿습니다. 이를 증명하기 위해 단계별 크리에이터 필드 가이드를 작성했습니다.",
+          "summaryKo": "Derral Eves는 누구나 YouTube에서 잠재고객을 늘릴 수 있다고 믿습니다. 그렇기 때문에 2013년에 그는 경력의 모든 단계에서 크리에이터를 위한 연례 비즈데브 콘서트인 VidSummit을 시작했습니다. 텍사스 어빙 컨벤션 센터 (Irving Convention Center) 에서 9월 29일부터 10월 1일까지 개최되는 2026년 이벤트에 참여하여 역대 최고의 참석을 기대하고 있습니다. VidSummit은 계속해서 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 듣고 싶다고 말합니다."
+        },
         {
           "title": "Have you heard? Saying sayonara to the PewDiePie vlog and taking “go back to Africa” literally.",
           "link": "https://www.tubefilter.com/2026/09/25/have-you-heard-pewdiepie-vlog-abdirahman-keinaan/",
@@ -477,7 +486,7 @@
           "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/Jordan-Matter-Headshot-scaled.jpeg",
           "summary": "Next week, at VidSummit 2026, Jordan Matter will do something no one else has done before. He will spend an entire day sitting in a room, door open, and answering every question fellow creators throw his way. Matter, whose channel has 38 million subscribers and drives more than 400 million views per month with content […] Visit Tubefilter for more great stories.",
           "keywords": [
-            "Homepage Feature",
+            "Uncategorized",
             "jordan matter",
             "vidsummit"
           ],
@@ -486,7 +495,7 @@
           "summaryKo": "다음 주 VidSummit 2026에서 Jordan Matter는 이전에 아무도 하지 않았던 일을 할 것입니다. 그는 하루 종일 방에 앉아 문을 열고 동료 크리에이터들이 던지는 모든 질문에 답할 것입니다. 채널 구독자가 3,800만 명에 달하고 콘텐츠로 월간 조회수가 4억 회 이상인 Matter […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         },
         {
-          "title": "YouTube CEO Neal Mohan shrugs off Meta’s attempt to persuade rivals to add safety features",
+          "title": "YouTube’s Neal Mohan plays coy as Meta attempts to persuade rivals to add safety features",
           "link": "https://www.tubefilter.com/2026/09/25/youtube-ceo-neal-mohan-denies-meta-request-safety/",
           "pubDate": "2026-09-25T21:26:28.000Z",
           "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/youtube-neal-mohan-getty.jpg",
@@ -500,7 +509,7 @@
             "neal mohan"
           ],
           "isForeign": true,
-          "titleKo": "YouTube CEO 닐 모한 (Neal Mohan) 은 경쟁 업체를 설득하여 안전 기능을 추가하려는 메타의 시도를 뿌리칩니다.",
+          "titleKo": "YouTube의 Neal Mohan은 Meta가 라이벌을 설득하여 안전 기능을 추가하려고 시도하면서 COY를 연주합니다.",
           "summaryKo": "닐 모한은 바쁜 한 주를 보냈습니다. 수요일, YouTube CEO는 연례 Made On 이벤트에서 새로운 제품과 기능을 발표하면서 회사를 이끌었습니다. 그런 다음, 그가 무대에서 물러난 후, Mohan은 또 다른 발표를 했습니다. 그는 CNN에 YouTube가 특정 안전 기능 세트를 추가하라는 Meta의 요청에 귀를 기울이지 않을 것이라고 말했습니다. 모한은 \"우리는 젊은이들이 우리 플랫폼에서 매우 오랫동안 안전하게 지낼 수 있도록 투자했다\" 고 말했다. \"YouTube에서 기대할 수 있는 것은"
         },
         {
@@ -520,24 +529,10 @@
           "isForeign": true,
           "titleKo": "YouTube의 섭식 장애 규칙은 묵방 콘텐츠의 미래에 어떤 의미인가요?",
           "summaryKo": "10년 넘게 묵방 스트림은 인터넷의 가장 큰 호기심 중 하나였습니다. 그러나 2026년에 부모와 기술 회사는 크리에이터 콘텐츠 내에서 모방 가능한 식생활 패턴에 대해 우려하고 있으며, 이러한 우려로 인해 mukbang 카테고리가 변경되고 있습니다. 먹방 (Mukbang) 은 문자 그대로 '먹는 방송' 으로 번역되는 한국어 단어로, 크리에이터가 엄청난 양의 음식을 소비하는 라이브 스트림을 의미합니다. 한국에서는 전국적으로 외로움 전염병이"
-        },
-        {
-          "title": "YouTube wants you to pump its TV watch time with microdramas",
-          "link": "https://www.tubefilter.com/2026/09/24/made-on-youtube-shorts-series-microdramas/",
-          "pubDate": "2026-09-24T22:56:00.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/GettyImages-2296810657.jpg",
-          "summary": "At its 2026 Made on YouTube event, Google‘s video platform revealed that microdrama content has racked up 6.5 billion views in the first half of this year. That’s a 50% jump from 2025. And, of even more interest to YouTube, microdrama views on TV screens increased by more than 90% year-over-year during the first half […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "made on youtube"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube는 마이크로드라마로 TV 시청 시간을 늘리기를 원합니다.",
-          "summaryKo": "2026 Made on YouTube 이벤트에서 Google의 동영상 플랫폼은 올해 상반기 마이크로드라마 콘텐츠 조회수가 65억 회를 돌파했다고 밝혔습니다. 2025년 대비 50% 증가한 수치입니다. 그리고 YouTube에 대한 관심이 높아지면서 TV 화면의 마이크로 드라마 시청률은 상반기 동안 전년 대비 90% 이상 증가했습니다. [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-09-28T03:48:23.860Z",
-      "error": "fetch failed"
+      "fetchedAt": "2026-09-28T19:16:51.565Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -610,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:23.375Z",
+      "fetchedAt": "2026-09-28T19:16:51.865Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:23.430Z",
+      "fetchedAt": "2026-09-28T19:16:51.952Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -712,6 +707,24 @@
             "류정원",
             "상장기업",
             "스타트업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "산돌, AI로 콘텐츠 만들수록 폰트도 더 썼다…캔버스 이용자 5개월 새 6.2배",
+          "link": "https://www.venturesquare.net/1116443/",
+          "pubDate": "2026-09-28T06:54:04.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/Outlook-1qvs0u53-674x522.jpg",
+          "summary": "산돌이 ‘산돌구름’ 이용 데이터를 분석한 결과 AI 콘텐츠 제작 기능 도입 이후 플랫폼 이용과 폰트 활용이 함께 증가한 것으로 나타났다. 지난 8월 산돌캔버스 이용 페이지의 DAU는 3월 대비 6.2배 늘었으며 활성화율 90% 이상을 기록한 폰트 수도 61% 증가했다.... The post 산돌, AI로 콘텐츠 만들수록 폰트도 더 썼다…캔버스 이용자 5개월 새 6.2배 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI이미지",
+            "AI콘텐츠",
+            "디스플레이폰트"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -770,27 +783,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "헥토데이터, 홈택스·정부24 서류 링크 하나로 받는다…‘서류ON’ 출시",
-          "link": "https://www.venturesquare.net/1116385/",
-          "pubDate": "2026-09-28T05:25:24.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/HETO-789x444.jpg",
-          "summary": "헥토데이터가 공공·세무 서류의 요청부터 제출, 관리까지 하나로 연결하는 플랫폼 ‘서류ON’을 출시했다. 기업이 고객에게 안내 링크를 보내면 고객은 본인인증을 거쳐 필요한 서류를 시스템을 통해 기업에 제출할 수 있다. 홈택스와 정부24, 대법원 등을 연계해 현재 30종의... The post 헥토데이터, 홈택스·정부24 서류 링크 하나로 받는다…‘서류ON’ 출시 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "B2B플랫폼",
-            "공공데이터",
-            "금융DX"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:26.926Z",
+      "fetchedAt": "2026-09-28T19:16:54.842Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -871,7 +866,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:27.184Z",
+      "fetchedAt": "2026-09-28T19:16:55.113Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -880,94 +875,93 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "I created an interactive digital avatar of myself — and you can talk to it",
-          "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-          "pubDate": "2026-09-26T14:00:00.000Z",
+          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-28T15:30:00.000Z",
           "image": null,
-          "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+          "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "AI",
+            "TechCrunch Disrupt",
+            "Anthropic",
+            "Gamma"
+          ],
+          "isForeign": true,
+          "titleKo": "Anthropic, Gamma 및 Clay는 기업이 TechCrunch Disrupt 2026에 AI를 실제로 배포할 때 일어나는 일을 공유합니다.",
+          "summaryKo": "AI 제품이 TechCrunchDisrupt 2026의 AI 단계에서 데모를 넘어서는 데 필요한 요소에 대한 Anthropic, Clay 및 Gamma. 등록하고 두 번째 이용권을 50% 할인받으세요."
+        },
+        {
+          "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+          "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+          "pubDate": "2026-09-28T15:26:46.000Z",
+          "image": null,
+          "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
           "keywords": [
             "Startups",
             "Venture",
+            "accounting",
             "AI",
-            "Synthesia",
-            "AI avatars"
+            "Fintech"
           ],
           "isForeign": true,
-          "titleKo": "나만의 인터랙티브 디지털 아바타를 만들었습니다. 대화할 수 있습니다.",
-          "summaryKo": "대화형 아바타를 얻고 벤처 사기에 대해 논의하기 위해 훈련한 후, 나는 인공지능 복제본을 만드는 것에 대해 혼합된 감정을 가지고 있다."
+          "titleKo": "Mavi는 AI 붐에 베팅하여 새로운 종류의 회계사에 대한 수요를 창출합니다.",
+          "summaryKo": "회계 인력 회사 Mavi는 $ 4 백만의 자금으로 스텔스에서 나옵니다."
         },
         {
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-25T18:48:33.000Z",
+          "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-28T15:00:00.000Z",
           "image": null,
-          "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+          "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
           "keywords": [
-            "AI",
-            "Biotech & Health",
-            "Fintech",
-            "Fundraising",
-            "Media & Entertainment",
-            "Startups"
-          ],
-          "isForeign": true,
-          "titleKo": "Mark Wahlberg가 TechCrunch Disrupt 2026에 참가합니다. 그는 자신의 업무가 아닌 업무에 대해 이야기하고 싶어합니다.",
-          "summaryKo": "Mark Wahlberg는 Disrupt의 Bruce K. Lee와 함께 투자, 기업가 정신, 의료, 웰빙 및 비즈니스 구축에 대해 논의합니다."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-          "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-          "pubDate": "2026-09-25T15:00:00.000Z",
-          "image": null,
-          "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-          "keywords": [
-            "AI",
             "Startups",
-            "Ricursive Intelligence",
+            "Commonwealth Fusion Systems",
+            "Helion",
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026: AI가 자체 하드웨어 설계를 시작할 때 Ricursive Intelligence의 Anna Goldie와 Azalia Mirhoseini",
-          "summaryKo": "TechCrunch Disrupt 2026에서 Ricursive Intelligence의 공동 설립자 Anna Goldie와 Azalia Mirhoseini는 Disrupt Stage에서 AI와 칩 개발 간의 루프를 닫는 것에 대해 논의할 예정입니다. 오늘이 끝나기 전에 이용권을 최대 $ 200 할인받으세요."
+          "titleKo": "Commonwealth Fusion Systems의 Brandon Sorbom과 Helion의 David Kirtley가 TechCrunch Disrupt 2026에서 융합을 그리드에 가져다주었습니다.",
+          "summaryKo": "CFS의 브랜든 소봄 (Brandon Sorbom) 과 헬리온의 데이비드 커틀리 (David Kirtley) 는 TechCrunch Disrupt 2026의 스마트 시스템 스테이지에 참여하여 융합을 발전시키는 돌파구, 남은 과제, 대규모로 융합 전력을 그리드에 공급하는 데 필요한 사항에 대해 논의합니다. 정가로 이용권을 구매하고 50% 할인된 가격에 두 번째 이용권을 받으세요."
         },
         {
-          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-          "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-          "pubDate": "2026-09-25T14:15:00.000Z",
+          "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-09-28T14:30:00.000Z",
           "image": null,
-          "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+          "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
           "keywords": [
             "AI",
+            "Apps",
             "Biotech & Health",
+            "Climate",
             "Fintech",
-            "Fundraising",
-            "Robotics",
-            "Startups"
+            "Fundraising"
           ],
           "isForeign": true,
-          "titleKo": "정리해고로 어려움을 겪고 계신가요? TechCrunch Disrupt 2026 Expo + Pass의 $ 75 할인을 놓치지 마세요",
-          "summaryKo": "다음 기회는 한 번의 대화가 될 수 있습니다. 엑스포 + 패스를 단돈 $ 75에 구매하세요. 자격을 갖춘 선착순 100명으로 제한됩니다."
+          "titleKo": "TechCrunch Disrupt 2026에서 스타트업 Battlefield 200 경쟁자를 심사하는 다음 5명의 VC",
+          "summaryKo": "수천 건의 신청서. 여러 번의 검토. 전 세계의 신생 기업을 평가하는 데 수백 시간이 소요되었습니다. 이제 모두가 기다리던 부분이 나옵니다. 오늘 TechCrunch Disrupt 2026에 등록하세요."
         },
         {
-          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-          "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-          "pubDate": "2026-09-25T14:00:00.000Z",
+          "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+          "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+          "pubDate": "2026-09-28T14:00:00.000Z",
           "image": null,
-          "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+          "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
           "keywords": [
             "AI",
-            "Climate",
-            "Crypto",
             "Fintech",
-            "Fundraising",
-            "Robotics"
+            "Startups",
+            "Insuretech",
+            "signalfire"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026에서 최대 $ 200를 절약할 수 있는 마지막 24시간. 참석해야 하는 이유 5/5: 모멘텀",
-          "summaryKo": "지난 24시간 동안 TechCrunch Disrupt 2026 이용권을 최대 $ 200 할인받으세요. 이벤트를 시작했던 위치보다 스타트업의 궤도에 더 멀리 둡니다. 절약하고 바늘을 밀 수 있는 기회를 놓치지 마세요."
+          "titleKo": "Insurtech Outmarket, 이전 라운드 직후 몇 달 만에 $ 34.5M 모금",
+          "summaryKo": "이 스타트업은 AI를 사용하여 보험 대리점 및 중개인을 위한 지루한 서류 작업을 자동화합니다."
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:27.209Z",
+      "fetchedAt": "2026-09-28T19:17:02.621Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1066,7 +1060,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:29.010Z",
+      "fetchedAt": "2026-09-28T19:17:04.793Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1074,6 +1068,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "화성특례시, 승마체험 지원 사업 참여자 모집 - 인천일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdS1hbVA1cmw4RFhOSk91aVJad1ByUWpQekhOUzhfeGFqUEdyVkhVa2NTNWZ2RWNicXBNVmhTbVMxaGZSeW9aWVBoai1wLVNZcFJMYXBzR3JicFExcy00enZDbnZQcU4yRkhlRGk5ZDM?oc=5",
+          "pubDate": "2026-09-28T00:13:00.000Z",
+          "image": null,
+          "summary": "화성특례시, 승마체험 지원 사업 참여자 모집 인천일보",
+          "keywords": [
+            "화성특례시",
+            "승마체험",
+            "지원",
+            "사업",
+            "참여자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "화성특례시, 승마체험 지원사업 참여자 모집 - 기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FUi1SWE5xMk5fcUR6OVMwY0lsV2VpcERkSGxYRGpzbHd3YUxIc1g0X3JJQmhISHdDbUpPUDVERFNkdy1XNS04VGd6MXpWSFh2WHVqTlR5eDAtZ0JzX3F4MUphTTU5bkRsd0syaDZMNA?oc=5",
@@ -1092,28 +1103,11 @@
           "summaryKo": null
         },
         {
-          "title": "화성특례시, 승마체험 지원 사업 참여자 모집 - incheonilbo.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdS1hbVA1cmw4RFhOSk91aVJad1ByUWpQekhOUzhfeGFqUEdyVkhVa2NTNWZ2RWNicXBNVmhTbVMxaGZSeW9aWVBoai1wLVNZcFJMYXBzR3JicFExcy00enZDbnZQcU4yRkhlRGk5ZDM?oc=5",
-          "pubDate": "2026-09-28T00:13:00.000Z",
-          "image": null,
-          "summary": "화성특례시, 승마체험 지원 사업 참여자 모집 incheonilbo.com",
-          "keywords": [
-            "화성특례시",
-            "승마체험",
-            "지원",
-            "사업",
-            "참여자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 - news.kbs.co.kr",
+          "title": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 - KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ydWFkUDZLajBJQTRhVzFKejdOMm5xeFh0YVdkV1JjOGo2VExYbUgwWG9GWVFIODhoanN0WE1vU3dtdmVBNFJqZzJvR084TFpqWlF5eWh1R0diY3hEcHU3NG1FcHNtdw?oc=5",
           "pubDate": "2026-09-27T13:27:00.000Z",
           "image": null,
-          "summary": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 news.kbs.co.kr",
+          "summary": "경북도, ‘청년애꿈 지원사업’ 참여자 모집 KBS 뉴스",
           "keywords": [
             "경북도",
             "청년애꿈",
@@ -1160,80 +1154,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-28T10:36:29.401Z",
+      "fetchedAt": "2026-09-28T19:17:05.190Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 1,
-      "change": "same"
-    },
-    {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 2,
-      "change": "new"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 6,
-      "rank": 3,
+      "rank": 2,
       "change": "up"
     },
     {
-      "key": "ai로",
-      "label": "AI로",
-      "count": 2,
-      "rank": 4,
-      "change": "new"
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "tips",
       "label": "TIPS",
       "count": 2,
-      "rank": 5,
-      "change": "new"
-    },
-    {
-      "key": "위한",
-      "label": "위한",
-      "count": 2,
-      "rank": 6,
-      "change": "new"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 8,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 4,
-      "rank": 9,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 4,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "참여자",
+      "label": "참여자",
+      "count": 4,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "모집",
+      "label": "모집",
+      "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1256,26 +1250,26 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 5,
+      "count": 4,
       "rank": 3,
       "change": "same",
       "labelKo": "AI"
     },
     {
-      "key": "homepage feature",
-      "label": "Homepage Feature",
-      "count": 5,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "홈페이지 기능"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "homepage feature",
+      "label": "Homepage Feature",
+      "count": 4,
+      "rank": 5,
+      "change": "down",
+      "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
@@ -1310,12 +1304,12 @@
       "labelKo": "Fintech"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "news",
+      "label": "News",
       "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "모금 활동"
+      "change": "new",
+      "labelKo": "뉴스"
     }
   ]
 }
