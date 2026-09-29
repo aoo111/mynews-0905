@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-29T14:38:19.588Z",
+  "collectedAt": "2026-09-29T20:27:53.356Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "부모님 죽음과 상속은 대비 못한다 … 무엇부터 해야 할까",
+          "link": "https://www.mk.co.kr/news/economy/12163856",
+          "pubDate": "2026-09-29T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260928.dbede34eba434943a3ff6f5c8c286240_R.jpg",
+          "summary": "상속세 팩트체크 (1)필자는 상속이 일어난 상속세 상담은 부조 및 공익의 목적으로 무료 봉사하고 있다. 이렇게 몇 년 정도 하다 보니 수백 명의 상속이 일어난 상속인들을 만나게 되..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "젠슨황 밴플리트상 받을때 통역은?...K동시통역 스콘챗 활약",
           "link": "https://www.mk.co.kr/news/economy/12164184",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전력망 '알박기' 차단 나섰다 … 선착순 대신 접속권 경쟁입찰",
-          "link": "https://www.mk.co.kr/news/economy/12164041",
-          "pubDate": "2026-09-29T08:47:38.000Z",
-          "image": null,
-          "summary": "정부가 그동안 선착순으로 주던 전력망 접속권을 경쟁입찰을 통해 부여한다. 망을 선점해놓고 실제 발전은 하지 않는 전력망 '알박기'를 원천 차단하기 위한 조치다. 29일 김성환 기후..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:51.494Z",
+      "fetchedAt": "2026-09-29T20:27:31.054Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+          "pubDate": "2026-09-29T20:00:00.000Z",
+          "image": null,
+          "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+          "keywords": [
+            "Banking and Consumer Regulatory Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다.",
+          "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
+        },
         {
           "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방 준비 이사회, BancFirst Corporation의 신청 승인 발표",
           "summaryKo": "연방 준비 이사회, BancFirst Corporation의 신청 승인 발표"
-        },
-        {
-          "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-          "pubDate": "2026-09-18T15:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-          "keywords": [
-            "Enforcement Actions"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다.",
-          "summaryKo": "연방준비제도이사회는 Northstar Bank의 전 직원, American Express Travel Related Services Company, Inc. 의 전 직원 및 Regions Bank의 전 직원에게 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:51.546Z",
+      "fetchedAt": "2026-09-29T20:27:32.911Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:52.697Z",
+      "fetchedAt": "2026-09-29T20:27:34.241Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -283,17 +283,43 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "How we will do better for Australia",
-          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "pubDate": "2026-09-28T19:00:00.000Z",
+          "title": "DevDay 2026 Recap",
+          "link": "https://openai.com/index/devday-2026-recap",
+          "pubDate": "2026-09-29T10:00:00.000Z",
           "image": null,
-          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
           "keywords": [
             "Company"
           ],
           "isForeign": true,
-          "titleKo": "호주를 위해 더 나은 서비스를 제공하는 방법",
-          "summaryKo": "OpenAI는 호주 정부 웹사이트와 관련된 사건에 대해 사과하고 호주의 사이버 방어를 강화하기 위한 더 강력한 안전 장치와 지원을 설명합니다."
+          "titleKo": "DevDay 2026 요약",
+          "summaryKo": "GPT-6 Astra, ChatGPT, Codex, API, 보안 및 빌더를 위한 새로운 도구를 포함하여 OpenAI DevDay 2026의 20개 이상의 발표를 살펴보세요."
+        },
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "pubDate": "2026-09-29T10:00:00.000Z",
+          "image": null,
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT-6.1 SOL 소개",
+          "summaryKo": "GPT-6.1 SOL 소개: Astra 표준 API 입력 및 출력 토큰 가격의 1/5에서 코딩, 컴퓨터 사용 및 전문 작업을 위한 Near-Astra 인텔리전스."
+        },
+        {
+          "title": "Introducing dots",
+          "link": "https://openai.com/index/introducing-dots",
+          "pubDate": "2026-09-29T00:00:00.000Z",
+          "image": null,
+          "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "점 소개",
+          "summaryKo": "DOTS by OpenAI는 복잡한 프로젝트와 일상적인 작업에서 계속 작업할 수 있는 능동적인 어시스턴트입니다. 업무가 진행되는 동안 점들이 어떻게 통제력을 유지하는 데 도움이 되는지 알아보세요."
         },
         {
           "title": "Towards safety cases for frontier AI training",
@@ -309,53 +335,20 @@
           "summaryKo": "프론티어 AI 교육의 안전 사례에 대한 당사의 초기 지침은 기술적 보호 조치, 운영 관행 및 정렬 불량 사고 조사를 다룹니다."
         },
         {
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "pubDate": "2026-09-28T07:00:00.000Z",
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "pubDate": "2026-09-28T19:00:00.000Z",
           "image": null,
-          "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
           "keywords": [
             "Company"
           ],
           "isForeign": true,
-          "titleKo": "Lenfest Institute는 OpenAI 지원을 확대하여 랜드마크 프로그램을 성장시킵니다.",
-          "summaryKo": "OpenAI는 5백만 달러의 자금과 최대 5백만 달러의 소프트웨어 크레딧 및 엔지니어링 지원을 통해 Lenfest AI Collaborative and Fellowship 프로그램을 확장하고 있습니다."
-        },
-        {
-          "title": "Are you a Codex Original?",
-          "link": "https://openai.com/form/codex-originals",
-          "pubDate": "2026-09-28T00:00:00.000Z",
-          "image": null,
-          "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-          "keywords": [
-            "Are",
-            "you",
-            "Codex",
-            "Original"
-          ],
-          "isForeign": true,
-          "titleKo": "귀하는 코덱스 원본입니까?",
-          "summaryKo": "우리는 코덱스를 사용하여 놀라운 일을 하는 건축업자, 땜장이, 연구원 및 제작자의 실제 이야기를 수집하고 있습니다. 코덱스 오리지널 프로그램의 다음 장에 참여하고 싶다면 아래에서 여러분의 이야기와 프로젝트에 대해 자세히 알려주세요."
-        },
-        {
-          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-          "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-          "pubDate": "2026-09-28T00:00:00.000Z",
-          "image": null,
-          "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-          "keywords": [
-            "Basis",
-            "completes",
-            "tax",
-            "workbook",
-            "2x"
-          ],
-          "isForeign": true,
-          "titleKo": "Basis는 GPT-6 Astra로 세금 워크북을 2배 빠르게 완료합니다",
-          "summaryKo": "GPT-6 Astra는 GPT-5.6 Sol보다 두 배 빠른 50탭 세금 워크북을 완성했으며, 사용자 의도에 대한 이해가 강화되어 Basis는 실제 사용에 대해 더 자신감을 갖게 되었습니다."
+          "titleKo": "호주를 위해 더 나은 서비스를 제공하는 방법",
+          "summaryKo": "OpenAI는 호주 정부 웹사이트와 관련된 사건에 대해 사과하고 호주의 사이버 방어를 강화하기 위한 더 강력한 안전 장치와 지원을 설명합니다."
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:52.848Z",
+      "fetchedAt": "2026-09-29T20:27:38.808Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,92 +357,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "미국 제재로 네덜란드, Microsoft 떠나 NixOS 기반 대안으로 전환 추진",
-          "link": "https://news.hada.io/topic?id=34492",
-          "pubDate": "2026-09-29T14:32:29.000Z",
+          "title": "1993년에 부팅한 서버, 아직 가동 중이지만 은퇴가 머지않음 (2017)",
+          "link": "https://news.hada.io/topic?id=34504",
+          "pubDate": "2026-09-29T19:33:04.000Z",
           "image": null,
-          "summary": "네덜란드 정부가 미국산 소프트웨어와 서비스 의존도를 낮추기 위해 NixOS 기반 정부 업무 환경 DAWO를 개발 중임 계기는 미국의 국제형사재판소(ICC) 제재로 수석검사가 이메일 등 Microsoft 서비스 접근권을 잃은 사건이며, 외국 정부의 결정으로 핵심 시스템을 ...",
+          "summary": "Great Lakes Works EGL의 Stratus 내결함성 서버가 1993년 도입 이후 24년째 운영 중이며, 담당자 Phil Hogan은 예기치 않은 종료를 겪은 기억이 없다고 밝힘 하드웨어 이중화로 장애에 대응하며, 디스크와 전원 공급 장치 등을 교체했지만 시스템의 약 80%는 도입...",
           "keywords": [
-            "미국",
-            "제재로",
-            "네덜란드",
-            "Microsoft",
-            "떠나"
+            "1993년에",
+            "부팅한",
+            "서버",
+            "아직",
+            "가동"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "영국 역에서 얼굴 50만 건 스캔, 체포 0건에 오탐 1건",
-          "link": "https://news.hada.io/topic?id=34491",
-          "pubDate": "2026-09-29T13:42:08.000Z",
+          "title": "전 세계 암 8건 중 1건은 감염이 원인이라는 연구 결과",
+          "link": "https://news.hada.io/topic?id=34503",
+          "pubDate": "2026-09-29T18:46:37.000Z",
           "image": null,
-          "summary": "영국 교통경찰(BTP)이 런던 철도역에서 6개월간 실시간 얼굴 인식(LFR) 을 시험해 얼굴 50만 건 이상을 스캔했지만, 경보는 오탐 1건뿐이었고 경보에 따른 체포는 없었음 정보공개 자료에 따르면 총 18차례 운영에 32만 786파운드와 경찰관 근무시간 약 100시간이 ...",
+          "summary": "국제암연구소(IARC) 연구진은 2024년 전 세계 신규 암 중 약 230만 건, 전체의 12% 가 바이러스와 세균 등 감염원 때문에 발생한 것으로 추정함 가장 많은 사례를 유발한 감염원은 위암 위험을 높이는 헬리코박터 파일로리균으로 약 76만 건을 차지했으며,",
           "keywords": [
-            "영국",
-            "역에서",
-            "얼굴",
-            "50만",
-            "스캔"
+            "세계",
+            "8건",
+            "1건은",
+            "감염이",
+            "원인이라는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "당신은 더 이상 저녁 식사에 초대받지 못한다",
-          "link": "https://news.hada.io/topic?id=34490",
-          "pubDate": "2026-09-29T13:39:08.000Z",
+          "title": "DraftKings, AI로 상습 도박 이용자를 행동 기반 타기팅",
+          "link": "https://news.hada.io/topic?id=34502",
+          "pubDate": "2026-09-29T18:43:37.000Z",
           "image": null,
-          "summary": "미국에서 친구나 가족을 집에 월 1회 이상 초대한다는 응답 비율이 1975년 42%에서 2026년 12%로 줄어, 반세기 동안 약 70% 감소함 집 안 모임이 식당이나 다른 활동으로 옮겨간 것만으로는 이 감소를 설명하기 어려움. 대면 교류 전반이 줄었고, 운동 시간 증가도...",
+          "summary": "온라인 스포츠 베팅 업체 DraftKings가 고객의 베팅 기록으로 AI 모델을 학습해, 돈을 잃고 도박 판촉에 반응할 가능성이 높은 고객에게 재방문과 추가 베팅을 유도하는 광고를 보냄 자신과 재정, 인간관계에 피해가 생겨도 도박을 반복하는 문제성 도박 이용자가 ...",
           "keywords": [
-            "당신은",
-            "이상",
-            "저녁",
-            "식사에",
-            "초대받지"
+            "DraftKings",
+            "AI로",
+            "상습",
+            "도박",
+            "이용자를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI 기업들이 광고업체에 데이터를 유출함 [pdf]",
-          "link": "https://news.hada.io/topic?id=34489",
-          "pubDate": "2026-09-29T12:32:57.000Z",
+          "title": "Dots - 상시 작동하는 에이전트",
+          "link": "https://news.hada.io/topic?id=34501",
+          "pubDate": "2026-09-29T18:40:37.000Z",
           "image": null,
-          "summary": "대화형 AI 서비스 9개의 웹 클라이언트와 8개의 Android 앱을 분석한 결과, 모든 서비스에서 광고 또는 추적 서비스 연동이 확인됨 웹 9개 중 6개, Android 8개 중 3개 클라이언트가 대화 URL, 제목, 프롬프트, 스크린샷 등 대화에서 파생된 정보를 제3자에게 전달...",
+          "summary": "OpenAI가 GPT‑6 Astra 기반 Dots를 출시함. 자체 클라우드 컴퓨터에서 24시간 목표를 향해 작업하고, 피드백을 통해 사용자의 선호와 업무 기준을 학습하는 에이전트임 4,000개 이상의 앱에 플러그인으로 연결하고 여러 프로젝트를 동시에 수행할 수 있음. ChatGP...",
           "keywords": [
-            "AI",
-            "기업들이",
-            "광고업체에",
-            "데이터를",
-            "유출함"
+            "Dots",
+            "상시",
+            "작동하는",
+            "에이전트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Phyllotaxis - 소리에 반응하는 LED 디스플레이",
-          "link": "https://news.hada.io/topic?id=34485",
-          "pubDate": "2026-09-29T10:33:01.000Z",
+          "title": "OpenAI, GPT-6.1 Sol 공개",
+          "link": "https://news.hada.io/topic?id=34500",
+          "pubDate": "2026-09-29T17:37:48.000Z",
           "image": null,
-          "summary": "해바라기와 다육식물에서 볼 수 있는 엽서 배열(phyllotaxis) 패턴을 보로노이 셀로 나누고, 각 셀에 RGB LED를 넣어 소리에 반응하는 물리적 디스플레이를 제작함 첫 버전은 89개 LED와 3D 프린팅한 셀 벽, 빛을 확산하는 닥나무 종이를 결합했으며, LED 좌표를 이...",
+          "summary": "OpenAI가 GPT-6 Sol의 업그레이드 모델인 GPT-6.1 Sol을 공개했습니다. 코딩, 에이전트, 컴퓨터 사용, 전문 업무 및 과학 연구 전반의 성능을 크게 개선하면서, GPT-6 Astra에 근접한 성능을 훨씬 낮은 비용으로 제공하는 것이 특징입니다. DeepSWE v1.1에서 GPT-6 Astra와 대등한 수준의 성능을 약 1/5",
           "keywords": [
-            "Phyllotaxis",
-            "소리에",
-            "반응하는",
-            "LED",
-            "디스플레이"
+            "OpenAI",
+            "GPT",
+            "Sol",
+            "공개"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:53.517Z",
+      "fetchedAt": "2026-09-29T20:27:39.224Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -457,6 +448,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "The Academy is all-in on YouTube’s Oscars broadcast: “It almost feels risky not to do it”",
+          "link": "https://www.tubefilter.com/2026/09/29/academy-awards-oscars-youtube-zurich-film-festival/",
+          "pubDate": "2026-09-29T20:01:32.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/kane-parsons-zurich.jpg",
+          "summary": "Last year, the Academy of Motion Picture Arts and Sciences (AMPAS) announced a new distributor for the Academy Awards: Beginning in 2029, the Oscars are coming to YouTube. Now, on the film festival circuit, AMPAS execs are explaining the rationale behind the strategic switch-up. AMPAS President Bill Kramer appeared on a Zurich Film Festival panel that also included Backrooms director Kane Parsons (who reaches 3.6 million subscribers on his KanePixels YouTube channel). Kramer explained that the O",
+          "keywords": [
+            "Academy Awards",
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "bill kramer"
+          ],
+          "isForeign": true,
+          "titleKo": "이 아카데미는 YouTube의 오스카상 방송에 올인했습니다: \"하지 않는 것이 거의 위험하다고 느껴집니다\"",
+          "summaryKo": "작년에 영화 예술 과학 아카데미 (AMPAS) 는 아카데미 시상식의 새로운 배급사를 발표했습니다. 2029년부터 오스카상이 유튜브에 공개됩니다. 이제 영화제 서킷에서 AMPAS 경영진이 전략적 전환의 근거를 설명하고 있습니다. AMPAS 회장 Bill Kramer는 Backrooms 감독 Kane Parsons (KanePixels YouTube 채널에서 360만 구독자 달성) 도 포함하는 취리히 영화제 패널에 출연했습니다. Kramer"
+        },
         {
           "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/27/2026",
           "link": "https://www.tubefilter.com/2026/09/28/top-50-most-subscribed-youtube-channels-week-of-09-27-2026/",
@@ -485,8 +494,8 @@
             "Articles",
             "Homepage Feature",
             "News",
-            "Statistics",
             "statistics",
+            "Statistics",
             "YouTube"
           ],
           "isForeign": true,
@@ -520,22 +529,9 @@
           "isForeign": true,
           "titleKo": "알렉스 자르파티 (Alex Zarfati) 는 유튜브를 통해 스튜디오가 자신의 프로젝트를 그린라이트하도록 설득하는 데 도움이 되기를 바랐습니다. 이제 그는 AI로 직접 일을 하고 있습니다.",
           "summaryKo": "Alex Zarfati의 첫 유튜브 동영상 조회수는 768회입니다. 그는 원래 다른 사람들의 다큐멘터리를 채점하는 작곡가로 영화 제작에 뛰어들었습니다. 음악은 그의 첫사랑이었지만, 영화와 TV 제작 과정을 엿볼 수 있는 비하인드 스토리를 접한 후, “저는 이 공간에 하고 싶은 일이 너무 많다는 것을 깨달았습니다. […] 더 많은 멋진 이야기를 보려면 튜브필터를 방문하세요."
-        },
-        {
-          "title": "YouTube is letting creators make reaction content on-platform, using everyone else’s long-form videos",
-          "link": "https://www.tubefilter.com/2026/09/28/youtube-long-form-reaction-content/",
-          "pubDate": "2026-09-28T21:32:09.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/made-on-youtube-2026.jpg",
-          "summary": "Reaction content is a tricky beast. It’s one of the top content categories across all platforms and formats, from many-hour Twitch livestreams to many-hour YouTube video essays to bite-size TikTok duets and those Facebook videos where people put their faces in the corners of other people’s videos and just make exaggerated expressions the whole time. […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube는 크리에이터가 다른 모든 사람의 긴 형식의 동영상을 사용하여 플랫폼에서 반응 콘텐츠를 만들도록 하고 있습니다.",
-          "summaryKo": "반응 콘텐츠는 까다로운 짐승입니다. 여러 시간 동안의 Twitch 라이브 방송부터 여러 시간 동안의 YouTube 동영상 에세이, 한입 크기의 TikTok 듀엣, 사람들이 다른 사람들의 동영상 모서리에 얼굴을 넣고 과장된 표현을 하는 Facebook 동영상에 이르기까지 모든 플랫폼과 형식에서 최고의 콘텐츠 카테고리 중 하나입니다. […] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:53.621Z",
+      "fetchedAt": "2026-09-29T20:27:40.846Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:53.854Z",
+      "fetchedAt": "2026-09-29T20:27:41.025Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-09-29T14:37:53.945Z",
+      "fetchedAt": "2026-09-29T20:27:41.076Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,98 +695,98 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "매스웍스, AI·전자·소프트웨어 복잡해질수록 개발은 단순하게…MATLAB·Simulink R2026b 공개",
-          "link": "https://www.venturesquare.net/1116609/",
-          "pubDate": "2026-09-29T02:57:04.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/visua-649x522.png",
-          "summary": "매스웍스가 MATLAB과 Simulink의 R2026b를 공개하고 복잡해지는 엔지니어드 시스템의 설계·검증·배포 기능을 확대했다. 이번 릴리즈에는 제품 배리언트 관리와 AI 기반 외관검사, C/C++ 임베디드 소프트웨어 테스트 자동화를 지원하는 신규 제품이 추가됐다. ... The post 매스웍스, AI·전자·소프트웨어 복잡해질수록 개발은 단순하게…MATLAB·Simulink R2026b 공개 appeared first on 벤처스퀘어.",
+          "title": "당근, 10월 10일 ‘당근절’ 처음 연다…바로구매 배송비 최대 5번 무료",
+          "link": "https://www.venturesquare.net/1116788/",
+          "pubDate": "2026-09-29T14:44:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image-85-789x444.png",
+          "summary": "당근이 CJ대한통운과 함께 10월 10일 첫 중고거래 행사 ‘당근절’을 개최한다. 당일 바로구매 상품을 결제하면 제주·도서산간을 포함해 전국에서 1인 최대 5회까지 배송비를 지원받을 수 있다. 첫 바로구매 이용자 가운데 260명을 추첨해 최대 5만원의 당근포인트를 지급... The post 당근, 10월 10일 ‘당근절’ 처음 연다…바로구매 배송비 최대 5번 무료 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Ai",
-            "mathworks",
-            "MATLAB"
+            "CJ대한통운",
+            "당근",
+            "당근마켓"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "싱크핏, 운동기구 안 바꾸고 ‘스마트 헬스장’ 만든다…10월 서비스 출시",
-          "link": "https://www.venturesquare.net/1116599/",
-          "pubDate": "2026-09-29T02:15:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/KakaoTalk_20260922_222102956-e1790648148784-789x443.jpg",
-          "summary": "싱크핏이 기존 웨이트 머신을 교체하지 않고 전용 디바이스를 설치해 운동 데이터를 수집하는 스마트 헬스장 솔루션을 10월 출시한다. 회원이 NFC를 태그하면 운동기구를 인식하고 중량과 횟수, 세트, 운동시간 등을 자동으로 기록하는 방식이다. 트레이너는 회원별 운동량과 빈... The post 싱크핏, 운동기구 안 바꾸고 ‘스마트 헬스장’ 만든다…10월 서비스 출시 appeared first on 벤처스퀘어.",
+          "title": "베스핀글로벌·JB금융그룹, 기업여신 심사부터 개발까지 AI 에이전트 투입…전사 AX 추진",
+          "link": "https://www.venturesquare.net/1116766/",
+          "pubDate": "2026-09-29T14:39:21.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image001-49-783x522.jpg",
+          "summary": "베스핀글로벌이 JB금융그룹과 전북은행·광주은행·JB우리캐피탈 등 계열사를 아우르는 전사 AX 실행체계를 구축한다. 금융 데이터의 보안과 통제를 고려한 설치형 환경과 최신 AI 기술을 실험하는 퍼블릭 클라우드 기반 플레이그라운드를 병행한다. 현업과 AI·IT 전문인력으로... The post 베스핀글로벌·JB금융그룹, 기업여신 심사부터 개발까지 AI 에이전트 투입…전사 AX 추진 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "NFC",
-            "PT",
-            "디지털피트니스"
+            "AI에이전트",
+            "AX",
+            "JB금융그룹"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "BARC, 연세의료원에 기부…재활의학과 의사들이 만든 신발에서 의료 나눔으로",
-          "link": "https://www.venturesquare.net/1116589/",
-          "pubDate": "2026-09-29T01:32:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/BARC-789x460.jpg",
-          "summary": "재활의학과 의사들이 만든 인체공학적 풋웨어 브랜드 BARC가 연세의료원에 기부금을 전달했다. 의료 현장에서 쌓은 임상 경험과 전문 지식을 제품 개발에 활용해 온 브랜드의 특성을 살려 성장의 성과를 의료 분야에 환원한다는 취지다. BARC는 향후 의료기관 및 다양한 사회... The post BARC, 연세의료원에 기부…재활의학과 의사들이 만든 신발에서 의료 나눔으로 appeared first on 벤처스퀘어.",
+          "title": "알스퀘어, 공장·창고 거래 7월 8637억원으로 연중 최저…누적은 17.7% 증가",
+          "link": "https://www.venturesquare.net/1116770/",
+          "pubDate": "2026-09-29T14:37:30.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/unnamed-2026-09-29T232311.718-783x522.jpg",
+          "summary": "알스퀘어 RA 분석 결과 7월 전국 공장·창고 거래규모는 8637억원으로 전월 대비 28.3% 감소하며 올해 최저 수준을 기록했다. 거래건수도 278건으로 전월 대비 7.6%, 전년 동월 대비 23.4% 줄었다. 반면 1~7월 누적 거래규모는 7조6508억원으로 전년 ... The post 알스퀘어, 공장·창고 거래 7월 8637억원으로 연중 최저…누적은 17.7% 증가 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "BARC",
-            "건강한일상",
-            "기부"
+            "공장거래",
+            "단원구",
+            "물류부동산"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "와디즈파트너스, 환동해 소셜벤처 10곳 키운다…최소 1곳에 1억원 이상 투자",
-          "link": "https://www.venturesquare.net/1116582/",
-          "pubDate": "2026-09-29T01:23:12.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/WASIZ-696x522.jpg",
-          "summary": "와디즈파트너스가 포항·경주·영덕·울진·울릉 등 환동해 지역의 소셜벤처 10개사를 모집한다. 선정 기업에는 6주간 사업전략·시장진출·투자유치·법률·세무 컨설팅과 IR 자료 제작을 지원하고 11월 데모데이 참여 기회를 제공한다. 우수기업 5개사에는 총 500만원 이내의 상... The post 와디즈파트너스, 환동해 소셜벤처 10곳 키운다…최소 1곳에 1억원 이상 투자 appeared first on 벤처스퀘어.",
+          "title": "문페이 코리아 출범, 온체인 유동성 넘어 ‘화이트라벨’로… 아시아 거점 노린다",
+          "link": "https://www.venturesquare.net/1116744/",
+          "pubDate": "2026-09-29T14:13:53.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/image002-15-781x522.jpg",
+          "summary": "글로벌 디지털자산 금융 인프라 기업 문페이(MoonPay)가 한국 법인을 출범하고 국경 간 자금 이동과 디지털자산 인프라 사업 확대에 나섰다. 문페이는 특정 스테이블코인 발행 경쟁보다 기업·금융기관의 자체 스테이블코인 구축을 지원하는 ‘화이트라벨’ 솔루션과 유동성 공급... The post 문페이 코리아 출범, 온체인 유동성 넘어 ‘화이트라벨’로… 아시아 거점 노린다 appeared first on 벤처스퀘어.",
           "keywords": [
-            "뉴스 모음",
+            "Special Post",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "LIPSⅡ",
-            "경주",
-            "로컬스타트업"
+            "스타트업 트렌드",
+            "circle",
+            "MoonPay"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "디엘지, 한국 기업 이탈리아 진출 때 현지 로펌 다시 찾을 필요 줄인다…AMAM Legal과 파트너십",
-          "link": "https://www.venturesquare.net/1116570/",
-          "pubDate": "2026-09-29T01:19:21.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/img-e10df570-f844-4c96-ab16-0c4cca0b6e3e-783x522.jpeg",
-          "summary": "법무법인 디엘지가 이탈리아 로펌 AMAM Legal과 한국·이탈리아 기업의 크로스보더 법률지원을 위한 파트너십을 체결했다. 양측은 약 6개월 동안 실제 사건과 자문 업무를 공동 수행해 온 협력관계를 장기적인 파트너십으로 전환했다. 한국 기업의 이탈리아·유럽 진출과 이탈... The post 디엘지, 한국 기업 이탈리아 진출 때 현지 로펌 다시 찾을 필요 줄인다…AMAM Legal과 파트너십 appeared first on 벤처스퀘어.",
+          "title": "비즈하우스, 달력·다이어리 디자인 2.5배 늘렸다…AI·AR로 제작부터 인쇄까지",
+          "link": "https://www.venturesquare.net/1116725/",
+          "pubDate": "2026-09-29T09:01:23.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/BIZ-2-789x493.jpg",
+          "summary": "미리디가 운영하는 비즈하우스가 2027년 달력·다이어리 템플릿을 전년 대비 2.5배 확대했다. 탁상형·벽걸이형·엽서형 달력과 다이어리 22종을 추가하고 소상공인 일정 기능과 종교기관용 디자인 등 고객군별 구성을 강화했다. 자체 AI 엔진 기반 에디터와 3D·AR 미리보... The post 비즈하우스, 달력·다이어리 디자인 2.5배 늘렸다…AI·AR로 제작부터 인쇄까지 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AMAMLegal",
-            "DLG",
-            "M&A"
+            "2027달력",
+            "AR",
+            "B2B"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T07:54:42.176Z",
-      "error": "This operation was aborted"
+      "fetchedAt": "2026-09-29T20:27:44.318Z",
+      "error": null
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -877,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T14:38:09.162Z",
+      "fetchedAt": "2026-09-29T20:27:44.607Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,22 +882,52 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+          "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+          "pubDate": "2026-09-29T18:48:03.000Z",
+          "image": null,
+          "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
+          "keywords": [
+            "Social",
+            "Startups",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "더 많은 방해 방법: KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope의 새로운 2026년 사이드 이벤트",
+          "summaryKo": "디스럽트는 모스콘 웨스트를 떠날 때 끝나지 않습니다. Disrupt Week 기간 동안 👀 창립자 만찬, 투자자 밋업, 해피아워, 워크숍, 라운드테이블 등이 샌프란시스코를 장악하고 있습니다. 무슨 일이 일어나고 있는지 확인하고, 직원을 찾고, 달력을 만드세요."
+        },
+        {
+          "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+          "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+          "pubDate": "2026-09-29T15:00:00.000Z",
+          "image": null,
+          "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+          "keywords": [
+            "Biotech & Health",
+            "Startups",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "암으로 목소리를 잃은 이 창업자는 '목소리를 위한 안경‘ 을 만들고 있습니다.",
+          "summaryKo": "TechCrunch Disrupt의 Startup Battlefield 200의 일부인 Uhura Bionics는 평평한 로봇 음성 장치를 감정을 전달하는 장치로 대체하고자 합니다."
+        },
+        {
           "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
           "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
           "pubDate": "2026-09-29T13:53:01.000Z",
           "image": null,
-          "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+          "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
           "keywords": [
             "AI",
             "Startups",
             "Venture",
-            "Marissa Mayer",
-            "consumer",
-            "AI assistants"
+            "AI assistants",
+            "Marissa Mayer"
           ],
           "isForeign": true,
           "titleKo": "Dazzle을 통해 Marissa Mayer는 받은 편지함보다 여러분의 삶에 대한 더 많은 정보가 담긴 카메라 롤에 베팅합니다.",
-          "summaryKo": "전 야후 CEO가 전적으로 사진을 기반으로 한 새로운 AI 개인 비서를 소개합니다."
+          "summaryKo": "마이어는 한 장의 사진이 천 마디 말의 가치가 있다면, 카메라 롤은 수백만 장의 가치가 있다고 주장합니다. Dazzle은 휴대전화에 저장된 모든 사진을 분석하여 취미, 관심사, 음식 및 스타일 선호도, 시간을 보내는 방법 및 누구와 함께 있는지 이해한다고 주장합니다."
         },
         {
           "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
@@ -910,8 +936,8 @@
           "image": null,
           "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
           "keywords": [
-            "Startups",
             "Fundraising",
+            "Startups",
             "atomic",
             "Exclusive",
             "supply chain ai"
@@ -937,44 +963,9 @@
           "isForeign": true,
           "titleKo": "피크 XV, 서지 시드 투자 한도 $ 5M로 상향 조정, 18개 스타트업 코호트 공개",
           "summaryKo": "피크 XV의 최신 서지 코호트의 18개 스타트업 중 13개가 글로벌 시장을 공략하고 있으며, 절반 이상이 인도에 본사를 두고 있습니다."
-        },
-        {
-          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-          "pubDate": "2026-09-28T15:30:00.000Z",
-          "image": null,
-          "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-          "keywords": [
-            "TC",
-            "Startups",
-            "AI",
-            "TechCrunch Disrupt",
-            "Anthropic",
-            "Gamma"
-          ],
-          "isForeign": true,
-          "titleKo": "Anthropic, Gamma 및 Clay는 기업이 TechCrunch Disrupt 2026에 AI를 실제로 배포할 때 일어나는 일을 공유합니다.",
-          "summaryKo": "AI 제품이 TechCrunchDisrupt 2026의 AI 단계에서 데모를 넘어서는 데 필요한 요소에 대한 Anthropic, Clay 및 Gamma. 등록하고 두 번째 이용권을 50% 할인받으세요."
-        },
-        {
-          "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-          "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-          "pubDate": "2026-09-28T15:26:46.000Z",
-          "image": null,
-          "summary": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "accounting",
-            "AI",
-            "Fintech"
-          ],
-          "isForeign": true,
-          "titleKo": "Mavi는 AI 붐에 베팅하여 새로운 종류의 회계사에 대한 수요를 창출합니다.",
-          "summaryKo": "회계 인력 회사 Mavi는 $ 4 백만의 자금으로 스텔스에서 나옵니다."
         }
       ],
-      "fetchedAt": "2026-09-29T14:38:13.651Z",
+      "fetchedAt": "2026-09-29T20:27:48.761Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1073,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T14:38:18.154Z",
+      "fetchedAt": "2026-09-29T20:27:51.660Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1150,24 +1141,24 @@
           "summaryKo": null
         },
         {
-          "title": "포천시, ‘2026년 하반기 효드림 할인업소 지원사업’ 참여 업소 모집 - 헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15STFfcjJqRmJYaEVualEzcWFWSHp0aUJ5ZDJpMEJNZEV4MzBUb3BteDRHbUpVR3E5VDJsOGZlY0EtbUxDVmMzcE8yYzVzSzFpUWkzbWt3?oc=5",
-          "pubDate": "2026-09-28T22:41:23.000Z",
+          "title": "[화성소식]승마체험 지원사업 참여자 모집 - 데일리안",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYldoanZOSE9zOWhKTUlsTlJwMjFOWmNSLUhiTVkzNkZFUzdwUGl1NmxJZHNCVExNTFVWbGp1dXJWNWtOdFlNelU0MjZOemo3MExBQUp6dFNyYzlsTEhVTllUYW5BbWpIcW9SVWl1TlhWMlN1YWRQbnhyTjc5MlhSbG1PN1FLSklsc2dPTTR5YXZuUTFCWmtxYUQtdG5Gb2lhQk5KMS14OTl3ajFYZjdOeVN3NE5KTHdFWERDOWg3S0N0N25BWFp1SlZPb0RGcFp4SWx5dXV4d2ZZZ1JWc3BqUzM1VlJNZ1ZSV1p4ZmtnVzdjcV9sSEVoRVdlbGF0SnFZNDVIQmZfcUR2QTVEeW9nSk9ydTI5c2RBU01hWkp4dWJyb2dkQ29HNnltQlRYZw?oc=5",
+          "pubDate": "2026-09-28T04:18:00.000Z",
           "image": null,
-          "summary": "포천시, ‘2026년 하반기 효드림 할인업소 지원사업’ 참여 업소 모집 헤럴드경제",
+          "summary": "[화성소식]승마체험 지원사업 참여자 모집 데일리안",
           "keywords": [
-            "포천시",
-            "2026년",
-            "하반기",
-            "효드림",
-            "할인업소"
+            "화성소식",
+            "승마체험",
+            "지원사업",
+            "참여자",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-09-29T14:38:18.675Z",
+      "fetchedAt": "2026-09-29T20:27:52.190Z",
       "error": null
     }
   },
@@ -1177,25 +1168,25 @@
       "label": "스타트업",
       "count": 3,
       "rank": 1,
+      "change": "same"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
+      "rank": 2,
       "change": "new"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "공개",
+      "label": "공개",
       "count": 2,
-      "rank": 2,
-      "change": "down"
+      "rank": 3,
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
-      "count": 5,
-      "rank": 3,
-      "change": "down"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
       "change": "down"
@@ -1205,42 +1196,42 @@
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "이벤트",
-      "label": "이벤트",
-      "count": 3,
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
       "rank": 8,
       "change": "down"
     },
     {
       "key": "참여자",
       "label": "참여자",
-      "count": 3,
+      "count": 4,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "모집",
       "label": "모집",
-      "count": 2,
+      "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1273,56 +1264,56 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "down",
-      "labelKo": "AI"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "down",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 7,
+      "change": "new",
+      "labelKo": "뉴스"
     },
     {
       "key": "statistics",
       "label": "Statistics",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 8,
+      "change": "down",
       "labelKo": "스탯"
     },
     {
-      "key": "venture",
-      "label": "Venture",
-      "count": 3,
-      "rank": 8,
-      "change": "new",
-      "labelKo": "벤처"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
+      "key": "ai",
+      "label": "AI",
       "count": 2,
       "rank": 9,
       "change": "down",
-      "labelKo": "기사"
+      "labelKo": "AI"
     },
     {
-      "key": "company",
-      "label": "Company",
+      "key": "banking and consumer regulatory policy",
+      "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "社"
+      "change": "new",
+      "labelKo": "은행 및 소비자 규제 정책"
     }
   ]
 }
