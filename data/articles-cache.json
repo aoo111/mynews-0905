@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-02T17:33:37.111Z",
+  "collectedAt": "2026-10-02T21:51:20.878Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
+          "link": "https://www.mk.co.kr/news/economy/12167675",
+          "pubDate": "2026-10-02T21:30:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-g.v1.20261002.7ee9273328f94b829903e6a92a738d11_R.jpg",
+          "summary": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“하마터면 5대 은행 다 뚫릴 뻔”…AI 해킹에 3곳 고객정보 유출",
           "link": "https://www.mk.co.kr/news/economy/12167528",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[속보] 우리·농협은행도 해킹 공격당해…“정보유출 없어”",
-          "link": "https://www.mk.co.kr/news/economy/12167469",
-          "pubDate": "2026-10-02T09:19:37.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/02/news-p.v1.20261002.dfc91e816776453f8c95b6bfe851fcb8_R.jpeg",
-          "summary": "2일 은행권의 잇따른 해킹 사례가 확인되고 있는 가운데, 우리은행과 NH농협은행에서도 외부 해킹 공격 시도가 있었던 것으로 확인됐다. 다만 두 은행 모두 보안 시스템을 통해 공격을..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:09.190Z",
+      "fetchedAt": "2026-10-02T21:50:57.095Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,32 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+          "pubDate": "2026-10-02T20:45:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+          "keywords": [
+            "Orders on Banking Applications"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표",
+          "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
+        },
+        {
+          "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+          "pubDate": "2026-10-02T20:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+          "keywords": [
+            "Banking and Consumer Regulatory Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다.",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다."
+        },
         {
           "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
@@ -152,35 +178,9 @@
           "isForeign": true,
           "titleKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다.",
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
-        },
-        {
-          "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-          "pubDate": "2026-09-25T20:30:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-          "keywords": [
-            "Orders on Banking Applications"
-          ],
-          "isForeign": true,
-          "titleKo": "연방 준비 이사회가 Peoples Bancorp Inc. 의 신청 승인을 발표했습니다.",
-          "summaryKo": "연방 준비 이사회가 Peoples Bancorp Inc. 의 신청 승인을 발표했습니다."
-        },
-        {
-          "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-          "pubDate": "2026-09-24T18:30:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-          "keywords": [
-            "Banking and Consumer Regulatory Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 GENIUS 법에 따라 이사회 감독을 받는 지급 스테이블코인 발행자를 위한 규제 프레임워크 구축과 관련된 두 가지 제안에 대한 공개 의견을 요청합니다.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 GENIUS 법에 따라 이사회 감독을 받는 지급 스테이블코인 발행자를 위한 규제 프레임워크 구축과 관련된 두 가지 제안에 대한 공개 의견을 요청합니다."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:11.032Z",
+      "fetchedAt": "2026-10-02T21:51:00.329Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -206,17 +206,17 @@
           "summaryKo": null
         },
         {
-          "title": "아마존, AI 에이전트 전용 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B’ 공개",
+          "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215887",
           "pubDate": "2026-10-02T18:16:43.000Z",
           "image": null,
           "summary": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B(Strands Decider 2B)’를 공개했다.20억개 매개변수로 구성된 소형 모델로, 문장을 생성하는 대신 정해진 선택지 가운데 하나를 고르고 해당 판단에 대한 확률을 제공하는 것이",
           "keywords": [
             "아마존",
-            "AI",
             "에이전트",
             "전용",
-            "오픈소스"
+            "의사결정",
+            "모델"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:12.427Z",
+      "fetchedAt": "2026-10-02T21:51:01.776Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:15.827Z",
+      "fetchedAt": "2026-10-02T21:51:01.920Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,82 +365,84 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "AI는 나를 슬프게 한다",
-          "link": "https://news.hada.io/topic?id=34673",
-          "pubDate": "2026-10-02T16:43:09.000Z",
+          "title": "Tiny Brutalism",
+          "link": "https://news.hada.io/topic?id=34684",
+          "pubDate": "2026-10-02T21:36:54.000Z",
           "image": null,
-          "summary": "AI로 취업 기회를 얻을 수 있는 개발자에게도 코딩 에이전트에 지시하는 직업은 매력보다 두려움으로 다가올 수 있음. 직접 만드는 기술과 통제권, 창의성을 잃는다는 감각이 그 중심에 있음 창업 기회의 축소에 대한 불안도 큼. 다른 사람이 짧은 프롬프트로 재현...",
+          "summary": "브루탈리즘 건축에서 영감을 받은 자유형 건축 샌드박스 게임으로, 기묘한 기념물부터 콘크리트 탑과 거대한 벽까지 만들 수 있음 목표나 정해진 건축 방식이 없어 원하는 구조물을 자유롭게 만드는 데 집중함 클릭으로 건축하고 영역을 채우며, ...",
           "keywords": [
-            "AI는",
-            "나를",
-            "슬프게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "빅테크가 클라우드를 망쳐 놓았기에, 우리 서비스의 이름을 바꿉니다",
-          "link": "https://news.hada.io/topic?id=34672",
-          "pubDate": "2026-10-02T16:40:09.000Z",
-          "image": null,
-          "summary": "Nabu Casa가 Home Assistant Cloud를 Home Assistant Link로 변경한다고 발표함. 클라우드에서 Home Assistant를 실행하는 서비스라는 오해를 없애고, 실제 기능과 가치를 더 정확히 드러내려는 개명임 선택적 서비스와 종속 없는 사용을 원칙으로 하며, Link를 사...",
-          "keywords": [
-            "빅테크가",
-            "클라우드를",
-            "망쳐",
-            "놓았기에",
-            "우리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "SlutCon",
-          "link": "https://news.hada.io/topic?id=34671",
-          "pubDate": "2026-10-02T15:36:50.000Z",
-          "image": null,
-          "summary": "Berkeley의 3일짜리 SlutCon은 남성들이 여성 진행 인력인 ‘flirt girl’을 상대로 유혹과 대화를 연습하고 피드백을 받는 행사로, 합리주의 커뮤니티의 측정과 실증 중심 접근을 인간관계에 적용함 프로그램은 외모 관련 설문 데이터, 거절을 새로운 정보로 받아들이는 연습, 자신...",
-          "keywords": [
-            "SlutCon"
+            "Tiny",
+            "Brutalism"
           ],
           "isForeign": true,
-          "titleKo": "SlutCon",
-          "summaryKo": "Berkeley 의 3일짜리 SlutCon은 남성들이 여성 진행 인력인 ‘flirt girl’을 상대로 유혹과 대화를 연습하고 피드백을 받는 행사로,합리주의 커뮤니티의 측정과 실증 중심 접근을 인간관계에 적용함 프로그램은 외모 관련 설문 데이터,거절을 새로운 정보로 받아들이는 연습,자신..."
+          "titleKo": "작은 잔혹행위",
+          "summaryKo": "브루탈리즘 건축에서 영감을 받은 자유형 건축 샌드박스 게임으로,기묘한 기념물부터 콘크리트 탑과 거대한 벽까지 만들 수 있음 목표나 정해진 건축 방식이 없어 원하는 구조물을 자유롭게 만드는 데 집중함 클릭으로 건축하고 영역을 채우며,..."
         },
         {
-          "title": "타입클래스와 모듈 비교",
-          "link": "https://news.hada.io/topic?id=34670",
-          "pubDate": "2026-10-02T14:05:45.000Z",
+          "title": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
+          "link": "https://news.hada.io/topic?id=34683",
+          "pubDate": "2026-10-02T21:33:54.000Z",
           "image": null,
-          "summary": "타입클래스는 여러 타입에서 같은 식별자를 사용하는 애드혹 다형성을, 모듈 시스템은 프로그램을 명시적으로 분해하고 조합하는 모듈식 추상화를 주목적으로 함 타입클래스는 + 같은 기호를 여러 타입에 재사용하되 공통된 의미를 ...",
+          "summary": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
           "keywords": [
-            "타입클래스와",
-            "모듈",
-            "비교"
+            "Greg",
+            "Kroah",
+            "Hartman",
+            "LLM",
+            "시대의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "터보 하스켈(Turbo Haskell)",
-          "link": "https://news.hada.io/topic?id=34669",
-          "pubDate": "2026-10-02T12:33:48.000Z",
+          "title": "Audionaut - 오픈소스 크로스플랫폼 멀티트랙 오디오 편집기",
+          "link": "https://news.hada.io/topic?id=34682",
+          "pubDate": "2026-10-02T20:44:15.000Z",
           "image": null,
-          "summary": "THC는 GHC가 최적화한 Core를 자체 Truffle/GraalVM 런타임에서 컴파일하고 실행해, Haskell을 JVM에서 구동하는 JIT 컴파일러임 GHC 9.14.1의 모든 prim-op과 Template Haskell, Linear Haskell을 지원하며, Native Image 기반 AOT 컴파일로 GHC...",
+          "summary": "Audionaut는 음악, 팟캐스트, 멀티트랙 녹음을 편집하고 녹음하는 무료 데스크톱 앱으로, 완전한 DAW의 무게와 복잡성 없이 정밀한 자르기, 트랙별 재생 목록, 다채널 지원과 내보내기를 제공함 MCP를 통해 Claude와 다른 AI 에이전트가 열린 프로젝트를 편집할 수...",
           "keywords": [
-            "터보",
-            "하스켈(Turbo",
-            "Haskell)"
+            "Audionaut",
+            "오픈소스",
+            "크로스플랫폼",
+            "멀티트랙",
+            "오디오"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "ChatGPT의 Sites",
+          "link": "https://news.hada.io/topic?id=34681",
+          "pubDate": "2026-10-02T20:41:15.000Z",
+          "image": null,
+          "summary": "Sites는 일상적인 말로 웹사이트, 앱, 게임을 만들고 ChatGPT와 대화하며 수정한 뒤 호스팅하고 공유할 수 있는 기능임 인앱 브라우저에서 게시 전 사이트를 테스트할 수 있으며, 파일이나 시각적 참고 자료를 추가하거나 기존 Codex 프로젝트에서 시작할 수 있음...",
+          "keywords": [
+            "ChatGPT의",
+            "Sites"
+          ],
+          "isForeign": true,
+          "titleKo": "ChatGPT 의 사이트",
+          "summaryKo": "사이트는 일상적인 말로 웹사이트,앱, 게임을 만들고 ChatGPT와 대화하며 수정한 뒤 호스팅하고 공유할 수 있는 기능임 인앱 브라우저에서 게시 전 사이트를 테스트할 수 있으며, 파일이나 시각적 참고 자료를 추가하거나 기존 Codex프로젝트에서 시작할 수 있음..."
+        },
+        {
+          "title": "Apple Pass Designer",
+          "link": "https://news.hada.io/topic?id=34680",
+          "pubDate": "2026-10-02T20:38:15.000Z",
+          "image": null,
+          "summary": "Pass Designer는 기업이나 매장의 브랜드를 반영한 패스를 만들고 미리 볼 수 있는 도구로, Apple 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집 중 iPhone과 Apple Watch 미리보기가 실시간으로 갱신되며, iOS 및 watchOS와 동일한 렌더링을 사용해 고객 기...",
+          "keywords": [
+            "Apple",
+            "Pass",
+            "Designer"
+          ],
+          "isForeign": true,
+          "titleKo": "애플 패스 디자이너",
+          "summaryKo": "패스 디자이너는 기업이나 매장의 브랜드를 반영한 패스를 만들고 미리 볼 수 있는 도구로, 애플 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집 중 아이폰과 애플 워치미리보기가 실시간으로 갱신되며, iOS 및 watchOS와 동일한 렌더링을 사용해 고객 기..."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:18.708Z",
+      "fetchedAt": "2026-10-02T21:51:07.513Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -448,6 +450,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Have you heard? MrBeast’s Shark Tank spot, Minecraft goes after Roblox, and a robo racoon gets us in the mood for spooky season",
+          "link": "https://www.tubefilter.com/2026/10/02/have-you-heard-mrbeast-shark-tank-magnus-carlsen-minecraft-mojang-creator-jobs-wicked-makers/",
+          "pubDate": "2026-10-02T20:01:45.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/GettyImages-2202112217.jpg",
+          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a YouTube legend is ending a chapter of his career, two others are thinking about a comeback, and a Finnish creator found a clever response to a racist remark. Creator commotion PewDiePie has decided to call it quits on his vlogs. After stepping away from gaming content, moving to Japan, and having a kid with his wife Marzia, Felix Kjellbe",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "abdirahman keinaan",
+            "banijay"
+          ],
+          "isForeign": true,
+          "titleKo": "들었어? MrBeast의 상어 탱크 장소, 마인 크래프트는 Roblox를 쫓고, 로보 라쿤은 우리를 으스스한 계절에 대한 분위기에 빠지게합니다.",
+          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 유튜브 전설이 그의 경력의 한 장을 끝내고, 다른 두 명이 컴백을 생각하고 있으며, 핀란드 제작자가 인종 차별적 발언에 대한 영리한 반응을 발견했습니다. 크리에이터의 소란 PewDiePie는 이를 자신의 동영상 블로그에서 종료라고 부르기로 결정했습니다. 게임 콘텐츠에서 벗어나 일본으로 건너가 아내 M과 함께 아이를 낳은 후"
+        },
         {
           "title": "The last thing creators add, the first thing viewers notice: Why Adobe is introducing music, speech, and sound effect generation to Firefly",
           "link": "https://www.tubefilter.com/2026/10/02/adobe-firefly-ai-sound-features/",
@@ -499,22 +519,9 @@
           "isForeign": true,
           "titleKo": "서프라이즈: 네온도 SCP 재단 영화를 만들고 있지만 정확합니다.",
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Noel Miller on why TMG Studios is breaking into fictional podcasts–and why it won’t touch gen AI",
-          "link": "https://www.tubefilter.com/2026/09/30/tmg-studios-noel-miller-superior-exotics-ii-fictional-podcasts/",
-          "pubDate": "2026-10-01T01:12:44.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/09/FinalLogo-scaled.png",
-          "summary": "“If we’re the last human-led media channel and everything else is prompted and generated in a data center, well then so be it.” That’s Noel Miller, the Viner-turned-podcaster-turned-podcast-company-owner who launched TMG Studios in 2021. Five years later, TMG Studios has a roster of 11 shows across various niches with various hosts, and is navigating the […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "노엘 밀러 (Noel Miller) 는 TMG 스튜디오가 가상의 팟캐스트에 침입하는 이유와 인공지능 (AI) 을 건드리지 않는 이유에 대해 이야기합니다.",
-          "summaryKo": "\"우리가 마지막 인간 주도 미디어 채널이고 다른 모든 것이 데이터 센터에서 프롬프트되고 생성된다면, 그렇게 될 것입니다.\" 2021년 TMG Studios를 런칭한 Viner-turned-podcaster-turned-podcast-company-owner인 Noel Miller입니다. 5 년 후, TMG 스튜디오는 다양한 호스트와 함께 다양한 틈새 시장에서 11 개의 쇼를 개최했으며, 더 많은 훌륭한 이야기를 보려면 튜브 필터를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:20.901Z",
+      "fetchedAt": "2026-10-02T21:51:09.625Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -588,7 +595,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:20.989Z",
+      "fetchedAt": "2026-10-02T21:51:09.838Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -669,7 +676,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:21.043Z",
+      "fetchedAt": "2026-10-02T21:51:09.890Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -768,7 +775,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:24.246Z",
+      "fetchedAt": "2026-10-02T21:51:13.379Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -858,7 +865,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:24.492Z",
+      "fetchedAt": "2026-10-02T21:51:13.606Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -866,6 +873,42 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+          "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+          "pubDate": "2026-10-02T19:15:51.000Z",
+          "image": null,
+          "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Fintech",
+            "Fundraising",
+            "Robotics",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "정리해고로 어려움을 겪고 계신가요? TechCrunch Disrupt 2026 Expo + Pass의 $ 75 할인을 놓치지 마세요",
+          "summaryKo": "다음 기회는 한 번의 대화가 될 수 있습니다. 엑스포 + 패스를 단돈 $ 75에 구매하세요. 자격을 갖춘 선착순 100명으로 제한됩니다."
+        },
+        {
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+          "pubDate": "2026-10-02T17:56:00.000Z",
+          "image": null,
+          "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Elon Musk",
+            "IPO",
+            "OpenAI",
+            "Equity podcast"
+          ],
+          "isForeign": true,
+          "titleKo": "AI라고 부르고 슈퍼 인텔리전스라고 부릅니다. 소비자의 2% 만이 구매하고 있습니다.",
+          "summaryKo": "이번 주 백악관은 저커버그, 베조스, 머스크, 앤서로픽의 다리오 아메데이 등 거의 모든 주요 기술 CEO를 한 방에 모아 도널드 트럼프 대통령이 \"도덕적 구속력\" 이라고 부른 AI 안전 서약서에 서명했다. \"트럼프는 또한 AI를 공식적으로\" 슈퍼 인텔리전스 \"로 브랜드 변경하는 행정 명령에 서명했으며, 한편 Meta와 OpenAI는 가장 큰 돈으로도 AI 제품에 더 친근한 표정을 짓고 있습니다 [...]"
+        },
         {
           "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
           "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
@@ -876,9 +919,9 @@
             "AI",
             "Fundraising",
             "Startups",
-            "TC",
             "Venture",
-            "Blackstone"
+            "Blackstone",
+            "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026: Blackstone의 Jas Khaira가 차세대 AI 거인 구축에 참여",
@@ -893,6 +936,7 @@
           "keywords": [
             "AI",
             "Startups",
+            "circuit breaker labs",
             "Startup Battlefield 200",
             "TechCrunch Disrupt"
           ],
@@ -915,41 +959,9 @@
           "isForeign": true,
           "titleKo": "테크크런치 디스럽트 2026: GTM 엔지니어로 떠오른 클레이의 카림 아민",
           "summaryKo": "클레이 공동 창업자 겸 CEO인 카림 아민 (Kareem Amin) 이 AI 스테이지에 합류하여 TechCrunch Disrupt 2026에서 GTM 엔지니어의 부상에 대해 논의합니다. 티켓을 등록하고 50% 할인된 가격에 두 번째 패스를 받으세요."
-        },
-        {
-          "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-          "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-          "pubDate": "2026-10-02T14:00:00.000Z",
-          "image": null,
-          "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the […]",
-          "keywords": [
-            "TC",
-            "Startups"
-          ],
-          "isForeign": true,
-          "titleKo": "Founder Summit 2026에서 사이드 이벤트를 신청하는 데 24시간 미만 소요",
-          "summaryKo": "시계가 거의 다 왔습니다. TechCrunch Founder Summit 2026 기간 동안 사이드 이벤트를 호스팅하려면 24시간 이내에 신청하셔야 합니다. 신청은 오늘 밤 자정 (태평양 표준시 기준) 에 마감됩니다. 나만의 사이드 이벤트를 개최하여 11월 1일부터 7일까지 보스턴 스타트업 생태계와 연결하세요. 지역 사회를 이끌고 영향력 있는 대화를 시작하여 […]"
-        },
-        {
-          "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-          "pubDate": "2026-10-02T14:00:00.000Z",
-          "image": null,
-          "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
-          "keywords": [
-            "AI",
-            "Apps",
-            "Biotech & Health",
-            "Climate",
-            "Crypto",
-            "Enterprise"
-          ],
-          "isForeign": true,
-          "titleKo": "마지막 24시간: TechCrunch Disrupt 2026에서 전시하고 10,000명 이상의 기술 리더에게 다가가세요.",
-          "summaryKo": "오늘은 TechCrunch Disrupt 2026의 전시 테이블을 예약할 수 있는 마지막 날입니다. 10월 13일부터 15일까지 10,000명 이상의 창업자, 투자자, 운영자 및 기술 리더가 샌프란시스코의 모스콘 웨스트에 도착하여 회사, 제품, 아이디어 및 알만한 사람들을 찾을 것입니다. 질문은 그들이 당신의 스타트업을 찾을 것인가? 입니다."
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:32.599Z",
+      "fetchedAt": "2026-10-02T21:51:17.053Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1048,7 +1060,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:35.605Z",
+      "fetchedAt": "2026-10-02T21:51:19.916Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1074,17 +1086,34 @@
           "summaryKo": null
         },
         {
-          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
-          "pubDate": "2026-10-01T21:43:05.000Z",
+          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - 기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYkJXbTh1TjNzenFxZmE0ODVBVU9EMUVFVzJ6WW5pcDlTNmFWN3NuTXk0dFRjb3ZHTUV3bzlfRGlsNXJQRFhDNldqanplNy1zUWpHeDNqRWI3eTZ5bVhZa2IwcEVDTUFJai15dnRQOA?oc=5",
+          "pubDate": "2026-09-30T07:10:14.000Z",
           "image": null,
-          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
+          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 기호일보",
           "keywords": [
-            "안성시",
-            "1인",
-            "가구",
+            "화성산업진흥원",
+            "하반기",
+            "마케팅",
+            "활성화",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "음식물처리기 지원사업, 주소지·인증 기준 확인 - 비건뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSakpkRXdCRnp2RmpWWlBaM2JIV3l2eTFBLTB4WnA3eVJsdmRyUVhLX25RVWRwNXdpcUVlbkJ1QmJxZ0h0RFJOV3luR0VqYVBMcjdoLV9wZWJhM0ludVlLMTZyZXZMUQ?oc=5",
+          "pubDate": "2026-10-02T18:33:01.000Z",
+          "image": null,
+          "summary": "음식물처리기 지원사업, 주소지·인증 기준 확인 비건뉴스",
+          "keywords": [
+            "음식물처리기",
             "지원사업",
-            "생활꿀팁"
+            "주소지",
+            "인증",
+            "기준"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1108,11 +1137,11 @@
           "summaryKo": null
         },
         {
-          "title": "안성시, 1인 가구 지원사업 '생활꿀팁 바구니' 청년 참여자 모집 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVDlQbzNXdHpiUEdUd1RXWi1LQVJKRkp0ZHdDZEc4c0FyaHhjeWl4cFJrZ2ZNSDdrWk9SX1hzX2FsZ08wRW85NEs0T2ZJN3VhWnFHMDNoeHF6MFpEY1I5LQ?oc=5",
-          "pubDate": "2026-10-02T00:39:15.000Z",
+          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
+          "pubDate": "2026-10-01T21:43:05.000Z",
           "image": null,
-          "summary": "안성시, 1인 가구 지원사업 '생활꿀팁 바구니' 청년 참여자 모집 메트로신문",
+          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
           "keywords": [
             "안성시",
             "1인",
@@ -1123,26 +1152,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
-          "pubDate": "2026-10-01T01:28:00.000Z",
-          "image": null,
-          "summary": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌",
-          "keywords": [
-            "남해군",
-            "스마트공장",
-            "지원사업",
-            "추가",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T17:33:36.090Z",
+      "fetchedAt": "2026-10-02T21:51:20.360Z",
       "error": null
     }
   },
@@ -1150,7 +1162,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 2,
       "rank": 1,
       "change": "same"
     },
@@ -1224,7 +1236,7 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 1,
-      "change": "up",
+      "change": "same",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
@@ -1232,40 +1244,40 @@
       "label": "AdSense",
       "count": 5,
       "rank": 2,
-      "change": "up",
+      "change": "same",
       "labelKo": "애드 센스"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "up",
+      "rank": 4,
+      "change": "down",
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 4,
+      "key": "startups",
+      "label": "Startups",
+      "count": 5,
+      "rank": 5,
       "change": "up",
-      "labelKo": "AI"
+      "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "up",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "startups",
-      "label": "Startups",
-      "count": 4,
       "rank": 6,
       "change": "down",
-      "labelKo": "스타트업"
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "banking and consumer regulatory policy",
@@ -1276,27 +1288,27 @@
       "labelKo": "은행 및 소비자 규제 정책"
     },
     {
-      "key": "tc",
-      "label": "TC",
-      "count": 2,
-      "rank": 8,
-      "change": "up",
-      "labelKo": "TC"
-    },
-    {
       "key": "techcrunch disrupt",
       "label": "TechCrunch Disrupt",
+      "count": 3,
+      "rank": 8,
+      "change": "up",
+      "labelKo": "TechCrunch Disrupt"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
       "count": 2,
       "rank": 9,
       "change": "new",
-      "labelKo": "TechCrunch Disrupt"
+      "labelKo": "모금 활동"
     },
     {
       "key": "10",
       "label": "10",
       "count": 1,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "They can, however, tell commuters to stop disruptive behaviour, and those who refuse to cooperate may be asked to alight the bus or, in severe cases, face police intervention."
     }
   ]
