@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-03T13:04:14.353Z",
+  "collectedAt": "2026-10-03T17:47:07.414Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "30분 단축? 점심에 은행창구 더 몰릴텐데…저녁·주말 금융서비스는 어디에",
+          "link": "https://www.mk.co.kr/news/economy/12167852",
+          "pubDate": "2026-10-03T13:24:24.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261002.77d0d05d5ac6451a93fad7aac8af66a1_R.png",
+          "summary": "금융노사가 내년 4월부터 은행 점포 영업시간을 30분 단축하기로 잠정 합의하면서 일반 창구 운영시간 외 이용할 수 있는 금융서비스가 주목받고 있다. 일부 은행은 저녁까지 운영하는 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "주말 새 2금융권까지 해킹피해 확산에…당국, 4일 전 금융업권 협회장·금융사 대표 긴급 소집",
           "link": "https://www.mk.co.kr/news/economy/12167844",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“여행·취미 다 포기”…소득 절반 대출 갚아야 서울 국평 아파트 마련",
-          "link": "https://www.mk.co.kr/news/economy/12167726",
-          "pubDate": "2026-10-03T00:57:55.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.c6efa4b797954d12b6693f554c2c16f2_R.png",
-          "summary": "서울 주택구입부담지수 185.3 3년 6개월 내 최고치 전국 평균 지수 61.8 3분기 연속 올라서울에서 중간 가격의 주택을 구입하면 가계 소득의 절반을 주택담보대출 원리금 갚는..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:06.095Z",
+      "fetchedAt": "2026-10-03T17:47:00.041Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:06.245Z",
+      "fetchedAt": "2026-10-03T17:47:00.259Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:07.276Z",
+      "fetchedAt": "2026-10-03T17:47:01.310Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:07.427Z",
+      "fetchedAt": "2026-10-03T17:47:01.485Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "내가 표적이 됐다: git post-checkout 훅으로 자격 증명 탈취를 노린 시도",
-          "link": "https://news.hada.io/topic?id=34709",
-          "pubDate": "2026-10-03T10:02:14.000Z",
+          "title": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
+          "link": "https://news.hada.io/topic?id=34722",
+          "pubDate": "2026-10-03T17:37:06.000Z",
           "image": null,
-          "summary": "교육 기술 웹 앱 개발 문의를 가장해 Frank Wiles의 노트북에서 임의 코드를 실행하도록 유도한 공격이 있었으며, Wiles는 GitHub 계정이나 고객 관련 접근 권한을 노린 것으로 추정함 공격자는 미팅 전 프로젝트 자료 검토와 NDA 서명을 요청한 뒤, Dropbox로 전달...",
+          "summary": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
           "keywords": [
-            "내가",
-            "표적이",
-            "됐다:",
-            "git",
-            "post"
+            "ICE",
+            "시위",
+            "참가자",
+            "사진을",
+            "Palantir"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
-          "link": "https://news.hada.io/topic?id=34708",
-          "pubDate": "2026-10-03T08:35:50.000Z",
+          "title": "Linux 및 Windows용 Orion 개발 현황 안내",
+          "link": "https://news.hada.io/topic?id=34721",
+          "pubDate": "2026-10-03T17:34:06.000Z",
           "image": null,
-          "summary": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
+          "summary": "Kagi가 Linux 및 Windows용 Orion의 직접 개발을 종료하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임 소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 macOS 및 iOS용 Orion에 집중하기로 함 오...",
           "keywords": [
-            "Newgrounds",
-            "com",
-            "게임",
-            "음악",
-            "예술"
+            "Linux",
+            "Windows용",
+            "Orion",
+            "개발",
+            "현황"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Extra Big Ass Intelligence, 엄청나게 거대한 지능",
-          "link": "https://news.hada.io/topic?id=34707",
-          "pubDate": "2026-10-03T08:32:50.000Z",
+          "title": "tmux를 OS로 만들자",
+          "link": "https://news.hada.io/topic?id=34720",
+          "pubDate": "2026-10-03T17:13:02.000Z",
           "image": null,
-          "summary": "Extra Big Ass Intelligence™ 는 “SUPER INTELLIGENCE(SI) v1.0”을 내세우며, 법령으로 AI.exe를 삭제했다는 설정의 웹페이지임 AI 대신 SI를 강조하며, 행정명령에 따른 초지능이라는 문구와 함께 이제 “AI”라는 단어는 불법이라고 선언함 ...",
+          "summary": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임 기존 창 관리는 반복되는 모니터 전환, 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...",
           "keywords": [
-            "Extra",
-            "Big",
-            "Ass",
-            "Intelligence",
-            "엄청나게"
+            "tmux를",
+            "OS로",
+            "만들자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Apple, macOS ‘전체 디스크 접근’ 권한 통제 강화 예고",
-          "link": "https://news.hada.io/topic?id=34706",
-          "pubDate": "2026-10-03T07:32:55.000Z",
+          "title": "Cloudflare OHTTP 게이트웨이",
+          "link": "https://news.hada.io/topic?id=34719",
+          "pubDate": "2026-10-03T17:10:02.000Z",
           "image": null,
-          "summary": "Apple은 앱에 전체 디스크 접근 권한(Full Disk Access) 을 부여할 때, 사용자가 위험을 충분히 이해하고 명시적으로 허용하도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함...",
+          "summary": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임 OHTTP는 독립 운영되는 릴레이와 게이트웨이로 신뢰를 분리해, 한 주체가 클라이언트 ...",
           "keywords": [
-            "Apple",
-            "macOS",
-            "전체",
-            "디스크",
-            "접근"
+            "Cloudflare",
+            "OHTTP",
+            "게이트웨이"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
-          "link": "https://news.hada.io/topic?id=34705",
-          "pubDate": "2026-10-03T07:25:22.000Z",
+          "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
+          "link": "https://news.hada.io/topic?id=34718",
+          "pubDate": "2026-10-03T17:07:02.000Z",
           "image": null,
-          "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다. ALPS Writer: 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
+          "summary": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스가 될 것이라는 전망임 전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시",
           "keywords": [
-            "Show",
-            "GN:",
-            "ALPS",
-            "Writer",
-            "ADR"
+            "모든",
+            "SaaS",
+            "비즈니스는",
+            "모델을",
+            "둘러싼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:08.147Z",
+      "fetchedAt": "2026-10-03T17:47:02.152Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +525,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:08.419Z",
+      "fetchedAt": "2026-10-03T17:47:02.339Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +599,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:08.662Z",
+      "fetchedAt": "2026-10-03T17:47:02.645Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +680,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:08.713Z",
+      "fetchedAt": "2026-10-03T17:47:02.730Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -784,7 +780,7 @@
         }
       ],
       "fetchedAt": "2026-10-03T13:04:11.573Z",
-      "error": null
+      "error": "HTTP 500"
     },
     "https://platum.kr/feed": {
       "name": "플래텀",
@@ -870,7 +866,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:11.840Z",
+      "fetchedAt": "2026-10-03T17:47:03.640Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -878,6 +874,21 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Spotify billionaire’s body scan startup has come to America",
+          "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "pubDate": "2026-10-03T14:00:00.000Z",
+          "image": null,
+          "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "Exclusive"
+          ],
+          "isForeign": true,
+          "titleKo": "Spotify 억만장자의 바디 스캔 스타트업이 미국에 왔습니다",
+          "summaryKo": "Neko Health의 투자자 인 Farooq Abbasi는 주식회사와 뜨거운 건강 기술 회사와 그 다음 단계에 대해 이야기했습니다."
+        },
         {
           "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
           "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
@@ -948,25 +959,9 @@
           "isForeign": true,
           "titleKo": "Circuit Breaker Labs는 자녀 (그리고 귀하) 를 위해 AI를 더 안전하게 만들기를 희망합니다.",
           "summaryKo": "AI가 어떻게 언젠가 우리 모두를 죽일 수 있는지에 대한 모든 이야기와 함께, AI가 이미 심리적으로 일부 사람들에게 해를 끼쳤다는 것을 잊기 쉽습니다. Circuit Breaker Labs는 이를 해결하기 위해 \"충돌 테스트 더미\" 를 만들었습니다."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-          "pubDate": "2026-10-02T14:30:00.000Z",
-          "image": null,
-          "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "clay",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "테크크런치 디스럽트 2026: GTM 엔지니어로 떠오른 클레이의 카림 아민",
-          "summaryKo": "클레이 공동 창업자 겸 CEO인 카림 아민 (Kareem Amin) 이 AI 스테이지에 합류하여 TechCrunch Disrupt 2026에서 GTM 엔지니어의 부상에 대해 논의합니다. 티켓을 등록하고 50% 할인된 가격에 두 번째 패스를 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:12.003Z",
+      "fetchedAt": "2026-10-03T17:47:05.733Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1066,7 +1061,7 @@
         }
       ],
       "fetchedAt": "2026-10-03T13:04:13.916Z",
-      "error": null
+      "error": "HTTP 500"
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
       "name": "Google News 지원사업 RSS",
@@ -1091,23 +1086,6 @@
           "summaryKo": null
         },
         {
-          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
-          "pubDate": "2026-10-03T00:10:53.000Z",
-          "image": null,
-          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 메트로신문",
-          "keywords": [
-            "경남TP",
-            "스마트",
-            "공장",
-            "기초",
-            "구축"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - 기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYkJXbTh1TjNzenFxZmE0ODVBVU9EMUVFVzJ6WW5pcDlTNmFWN3NuTXk0dFRjb3ZHTUV3bzlfRGlsNXJQRFhDNldqanplNy1zUWpHeDNqRWI3eTZ5bVhZa2IwcEVDTUFJai15dnRQOA?oc=5",
           "pubDate": "2026-09-30T07:10:14.000Z",
@@ -1125,11 +1103,28 @@
           "summaryKo": null
         },
         {
-          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
+          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
+          "pubDate": "2026-10-03T00:10:53.000Z",
+          "image": null,
+          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 메트로신문",
+          "keywords": [
+            "경남TP",
+            "스마트",
+            "공장",
+            "기초",
+            "구축"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - sisaanseong.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
           "pubDate": "2026-10-01T21:43:05.000Z",
           "image": null,
-          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
+          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 sisaanseong.com",
           "keywords": [
             "안성시",
             "1인",
@@ -1142,24 +1137,24 @@
           "summaryKo": null
         },
         {
-          "title": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 - 비건뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOFl3bVNVSW51aWktVGNLRzJ6VFd4bC1yVkdRY3VFVm93VVAxblhPbEV6VW9aT3NmS0hEVV9VWmdMVEpMTDA2TkV4VzlYX2JwRl9hRnoxN0RqSFk5eXdSQXJyUURBUQ?oc=5",
-          "pubDate": "2026-10-03T06:39:48.000Z",
+          "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
+          "pubDate": "2026-10-01T01:28:00.000Z",
           "image": null,
-          "summary": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 비건뉴스",
+          "summary": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌",
           "keywords": [
-            "청년",
+            "남해군",
+            "스마트공장",
             "지원사업",
-            "나이",
-            "공고일",
-            "신청일"
+            "추가",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T13:04:14.347Z",
+      "fetchedAt": "2026-10-03T17:47:06.476Z",
       "error": null
     }
   },
@@ -1169,70 +1164,70 @@
       "label": "AI",
       "count": 4,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "tips",
       "label": "TIPS",
       "count": 3,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 5,
       "rank": 7,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai에이전트",
       "label": "AI에이전트",
       "count": 3,
       "rank": 9,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1253,28 +1248,28 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 5,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "google ads",
@@ -1293,28 +1288,28 @@
       "labelKo": "은행 및 소비자 규제 정책"
     },
     {
-      "key": "techcrunch disrupt",
-      "label": "TechCrunch Disrupt",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "TechCrunch Disrupt"
-    },
-    {
       "key": "fundraising",
       "label": "Fundraising",
       "count": 2,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "모금 활동"
     },
     {
-      "key": "10",
-      "label": "10",
-      "count": 1,
+      "key": "techcrunch disrupt",
+      "label": "TechCrunch Disrupt",
+      "count": 2,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "TechCrunch Disrupt"
+    },
+    {
+      "key": "venture",
+      "label": "Venture",
+      "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "They can, however, tell commuters to stop disruptive behaviour, and those who refuse to cooperate may be asked to alight the bus or, in severe cases, face police intervention."
+      "change": "new",
+      "labelKo": "벤처"
     }
   ]
 }
