@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-02T21:51:20.878Z",
+  "collectedAt": "2026-10-03T00:57:04.911Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
+          "link": "https://www.mk.co.kr/news/economy/12167722",
+          "pubDate": "2026-10-03T00:41:46.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.cddf8f823be7483083139994297140a8_R.jpeg",
+          "summary": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[속보] 트럼프 “韓 알래스카 투자 안한대도 괜찮다…돈 더 청구하면 돼”",
+          "link": "https://www.mk.co.kr/news/economy/12167720",
+          "pubDate": "2026-10-03T00:35:28.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.5936b18d008f4f1581a8376a05fa8aa0_R.jpeg",
+          "summary": "",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“보험금 다툼 끊이질 않네”…민원·분쟁신청 꾸준한데 5세대 실손 앞날은",
+          "link": "https://www.mk.co.kr/news/economy/12167710",
+          "pubDate": "2026-10-02T23:58:11.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261002.b69c0b8c950f431ea06433311790c646_R.jpg",
+          "summary": "올해 국감서도 5세대 실손보험 안건 실손 비롯해 보장성 보험 민원 꾸준 약관해석과 보험금 지급 사유 때문다음 주부터 국정감사가 시작되는 가운데, 올해 보험 부문은 5세대 실손보험 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
           "link": "https://www.mk.co.kr/news/economy/12167675",
           "pubDate": "2026-10-02T21:30:49.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "5대은행 다 공격당했다 … AI 해킹에 떠는 금융사",
-          "link": "https://www.mk.co.kr/news/economy/12167516",
-          "pubDate": "2026-10-02T10:51:04.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/20261003_01170101000001_M00.jpg",
-          "summary": "지난 1일 신한은행의 고객 정보 유출 사실이 알려진 지 하루 만인 2일 KB국민·하나·부산은행에서도 외부 침입에 따른 개인정보 유출 사고가 확인되면서 금융권의 보안 불안이 커지고 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대출·송금 돕던 AI가 '해커'로 … \"내 통장 털릴라\" 소비자 불안",
-          "link": "https://www.mk.co.kr/news/economy/12167515",
-          "pubDate": "2026-10-02T10:48:59.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/20261003_01170104000002_L00.jpg",
-          "summary": "지난 1일 신한은행에 이어 하루 만인 2일 KB국민·하나·부산은행에서도 고객 정보 유출 사고가 확인되면서 금융권에 인공지능(AI) 해킹에 대한 공포가 확산되고 있다. 금융권과 정..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] 성과급 3461만→1억1130만원…공공기관서 보너스 3배 뛴 사연은",
-          "link": "https://www.mk.co.kr/news/economy/12167511",
-          "pubDate": "2026-10-02T10:42:54.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/02/news-p.v1.20260323.55ffc494a37e4f07b56f3f02f60142c3_R.png",
-          "summary": "수익률 개선에 평균 성과급 1.1억 지급 대상자도 411명으로 늘어최근 국민연금 기금 수익률이 개선되면서 기금운용본부의 운용역들이 1인당 평균 1억원 넘는 성과급을 받은 것으로 파..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:50:57.095Z",
+      "fetchedAt": "2026-10-03T00:56:53.101Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:00.329Z",
+      "fetchedAt": "2026-10-03T00:56:53.230Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+          "pubDate": "2026-10-03T07:00:00.000Z",
+          "image": null,
+          "summary": "오픈AI는 29일(현지시간) 열린 ‘데브데이 2026’에서 챗GPT의 새로운 방향을 보여주는 기능으로 ‘로그인’과 ‘플러그인’을 내놓았습니다. 샘 알트먼 CEO는 2일 X에서 \"챗GPT/플러그인 확장 기능을 이용한 로그인에 우리가 생각하는 것보다 훨씬 더 큰 잠재력이 있다고 생각한다\"라고 따로 언급했습니다.겉으로 보면 단순히 로그인 기능을 추가하고 플러그인의 활용 범위를 넓힌 것처럼 보이지만, 내용을 들여다보면 챗GPT를 다른 서비스를 이용하기 위한 새로운 출발점으로 만들려는 움직임에 가깝습니다.먼저 ‘챗GPT로 로그인하기(Sign",
+          "keywords": [
+            "10월2일",
+            "뜻밖의",
+            "주인공은",
+            "로그인과",
+            "플러그인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215930",
-          "pubDate": "2026-10-02T17:55:00.000Z",
-          "image": null,
-          "summary": "■ MS, 'MAI-트랜스크라이브-2-스트리밍' 및 'MAI-보이-2.1' 시리즈 공개마이크로소프트 AI가 실시간 음성 인식 모델(MAI-Transcribe-2-Streaming)과 음성 합성 모델(MAI-Voice-2.1), 고속 버전(MAI-Voice-2.1-Flash)을 선보였다. 이번 실시간 음성 인식 모델은 100밀리초(ms_ 수준의 초저지연을 달성해 화자의 말이 끝나기 전 첫 텍스트를 출력하며, 음성 합성 모델은 23개 언어를 단일 목소리 및 현지 자국어 발음으로 지원한다.Introducing 3 new models: M",
-          "keywords": [
-            "AI",
-            "모델",
-            "신작",
-            "MS",
-            "음성인식"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:01.776Z",
+      "fetchedAt": "2026-10-03T00:56:54.172Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:01.920Z",
+      "fetchedAt": "2026-10-03T00:56:54.391Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,84 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Tiny Brutalism",
-          "link": "https://news.hada.io/topic?id=34684",
-          "pubDate": "2026-10-02T21:36:54.000Z",
+          "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+          "link": "https://news.hada.io/topic?id=34694",
+          "pubDate": "2026-10-03T00:30:02.000Z",
           "image": null,
-          "summary": "브루탈리즘 건축에서 영감을 받은 자유형 건축 샌드박스 게임으로, 기묘한 기념물부터 콘크리트 탑과 거대한 벽까지 만들 수 있음 목표나 정해진 건축 방식이 없어 원하는 구조물을 자유롭게 만드는 데 집중함 클릭으로 건축하고 영역을 채우며, ...",
+          "summary": "채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 순서대로 저장하고 실시간으로 전달하는 스트림 서버 읽던 위치부터 이어받거나 과거 기록을 다시 읽을 수 있어 실시간 구독과 이벤트 이력 보관에 활용 모든 레코드와 쓰기 복구 로그인 WAL을 S3 호환...",
           "keywords": [
-            "Tiny",
-            "Brutalism"
-          ],
-          "isForeign": true,
-          "titleKo": "작은 잔혹행위",
-          "summaryKo": "브루탈리즘 건축에서 영감을 받은 자유형 건축 샌드박스 게임으로,기묘한 기념물부터 콘크리트 탑과 거대한 벽까지 만들 수 있음 목표나 정해진 건축 방식이 없어 원하는 구조물을 자유롭게 만드는 데 집중함 클릭으로 건축하고 영역을 채우며,..."
-        },
-        {
-          "title": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
-          "link": "https://news.hada.io/topic?id=34683",
-          "pubDate": "2026-10-02T21:33:54.000Z",
-          "image": null,
-          "summary": "Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
-          "keywords": [
-            "Greg",
-            "Kroah",
-            "Hartman",
-            "LLM",
-            "시대의"
+            "PicoMQ",
+            "S3",
+            "기반",
+            "실시간",
+            "데이터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Audionaut - 오픈소스 크로스플랫폼 멀티트랙 오디오 편집기",
-          "link": "https://news.hada.io/topic?id=34682",
-          "pubDate": "2026-10-02T20:44:15.000Z",
+          "title": "Waterfox 6.7.5, 내장 피드 리더 추가",
+          "link": "https://news.hada.io/topic?id=34693",
+          "pubDate": "2026-10-03T00:07:15.000Z",
           "image": null,
-          "summary": "Audionaut는 음악, 팟캐스트, 멀티트랙 녹음을 편집하고 녹음하는 무료 데스크톱 앱으로, 완전한 DAW의 무게와 복잡성 없이 정밀한 자르기, 트랙별 재생 목록, 다채널 지원과 내보내기를 제공함 MCP를 통해 Claude와 다른 AI 에이전트가 열린 프로젝트를 편집할 수...",
+          "summary": "피드 관리자와 내장 리더가 추가되어 Live Bookmarks의 게시물을 한곳에 모아 탐색하고, 지원되는 피드 콘텐츠를 브라우저 안에서 읽을 수 있음 전체 피드, 북마크 폴더, 개별 구독별로 게시물을 살펴보고 검색과 읽지 않은 글 필터, 목록/격자 보기로 정리할 수 있...",
           "keywords": [
-            "Audionaut",
-            "오픈소스",
-            "크로스플랫폼",
-            "멀티트랙",
-            "오디오"
+            "Waterfox",
+            "내장",
+            "피드",
+            "리더",
+            "추가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "ChatGPT의 Sites",
-          "link": "https://news.hada.io/topic?id=34681",
-          "pubDate": "2026-10-02T20:41:15.000Z",
+          "title": "실제 RFC 1149 패킷이 경매에 출품됨",
+          "link": "https://news.hada.io/topic?id=34692",
+          "pubDate": "2026-10-03T00:04:15.000Z",
           "image": null,
-          "summary": "Sites는 일상적인 말로 웹사이트, 앱, 게임을 만들고 ChatGPT와 대화하며 수정한 뒤 호스팅하고 공유할 수 있는 기능임 인앱 브라우저에서 게시 전 사이트를 테스트할 수 있으며, 파일이나 시각적 참고 자료를 추가하거나 기존 Codex 프로젝트에서 시작할 수 있음...",
+          "summary": "2001년 전서구로 실제 전송한 IP/ICMP ‘ping’ 패킷 인쇄물 한 점이 Christie’s 경매에 출품됨 RFC 1149는 David Waitzman이 1990년 만우절에 작성한 문서로, 비둘기로 인터넷 패킷을 전송하는 방법을 진지한 기술 문체로 기술함 노르웨이 Berg...",
           "keywords": [
-            "ChatGPT의",
-            "Sites"
+            "실제",
+            "RFC",
+            "1149",
+            "패킷이",
+            "경매에"
           ],
-          "isForeign": true,
-          "titleKo": "ChatGPT 의 사이트",
-          "summaryKo": "사이트는 일상적인 말로 웹사이트,앱, 게임을 만들고 ChatGPT와 대화하며 수정한 뒤 호스팅하고 공유할 수 있는 기능임 인앱 브라우저에서 게시 전 사이트를 테스트할 수 있으며, 파일이나 시각적 참고 자료를 추가하거나 기존 Codex프로젝트에서 시작할 수 있음..."
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         },
         {
-          "title": "Apple Pass Designer",
-          "link": "https://news.hada.io/topic?id=34680",
-          "pubDate": "2026-10-02T20:38:15.000Z",
+          "title": "정보 대부분이 숨겨진 게임 Stratego, 이제야 AI가 벽을 넘었다",
+          "link": "https://news.hada.io/topic?id=34690",
+          "pubDate": "2026-10-02T23:52:28.000Z",
           "image": null,
-          "summary": "Pass Designer는 기업이나 매장의 브랜드를 반영한 패스를 만들고 미리 볼 수 있는 도구로, Apple 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집 중 iPhone과 Apple Watch 미리보기가 실시간으로 갱신되며, iOS 및 watchOS와 동일한 렌더링을 사용해 고객 기...",
+          "summary": "Ataraxos가 역대 최고 Stratego 선수로 꼽히는 Pim Niemeijer를 상대로 15승 1패 4무를 기록함 상대 기물의 정체를 추정하는 별도 신경망인 믿음 모델(belief model) 을 도입해, 가능한 배치 일부를 표본으로 뽑고 수를 미리 탐색할 수 있게 함...",
           "keywords": [
-            "Apple",
-            "Pass",
-            "Designer"
+            "정보",
+            "대부분이",
+            "숨겨진",
+            "게임",
+            "Stratego"
           ],
-          "isForeign": true,
-          "titleKo": "애플 패스 디자이너",
-          "summaryKo": "패스 디자이너는 기업이나 매장의 브랜드를 반영한 패스를 만들고 미리 볼 수 있는 도구로, 애플 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집 중 아이폰과 애플 워치미리보기가 실시간으로 갱신되며, iOS 및 watchOS와 동일한 렌더링을 사용해 고객 기..."
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "별과 그 주위를 도는 네 행성을 12년에 걸쳐 촬영한 망원경 연속 이미지",
+          "link": "https://news.hada.io/topic?id=34689",
+          "pubDate": "2026-10-02T23:49:28.000Z",
+          "image": null,
+          "summary": "실제 망원경 이미지를 시간 순서로 이어 별과 그 주위를 공전하는 네 행성의 움직임을 보여줌 촬영 대상인 별은 133광년 떨어져 있음 연속 이미지에는 12년간의 관측이 담겨 있음 외계행성 네 개가 별 주위를...",
+          "keywords": [
+            "별과",
+            "주위를",
+            "도는",
+            "행성을",
+            "12년에"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:07.513Z",
+      "fetchedAt": "2026-10-03T00:56:55.063Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -521,7 +529,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:09.625Z",
+      "fetchedAt": "2026-10-03T00:56:55.419Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -595,7 +603,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:09.838Z",
+      "fetchedAt": "2026-10-03T00:56:55.631Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -676,7 +684,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:09.890Z",
+      "fetchedAt": "2026-10-03T00:56:55.730Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -775,7 +783,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:13.379Z",
+      "fetchedAt": "2026-10-03T00:57:01.740Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -865,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:13.606Z",
+      "fetchedAt": "2026-10-03T00:57:02.025Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -961,7 +969,7 @@
           "summaryKo": "클레이 공동 창업자 겸 CEO인 카림 아민 (Kareem Amin) 이 AI 스테이지에 합류하여 TechCrunch Disrupt 2026에서 GTM 엔지니어의 부상에 대해 논의합니다. 티켓을 등록하고 50% 할인된 가격에 두 번째 패스를 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:17.053Z",
+      "fetchedAt": "2026-10-03T00:57:02.136Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -969,6 +977,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "경남창조경제혁신센터 투자 일켐, SAR 위성용 배터리 개발로 TIPS 선정",
+          "link": "https://www.venturesquare.net/1117739/",
+          "pubDate": "2026-10-02T07:33:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ikem-789x395.png",
+          "summary": "경남창조경제혁신센터가 발굴·투자한 일켐이 SAR 위성용 고신뢰성 배터리 시스템 개발 과제로 중소벤처기업부 팁스에 선정됐다. 일켐은 발사 과정의 진동·충격과 궤도상의 진공·온도 변화 등을 고려한 배터리팩과 BMS 기술을 개발한다. 경상국립대 윤석택 교수 연구팀이 위탁연구... The post 경남창조경제혁신센터 투자 일켐, SAR 위성용 배터리 개발로 TIPS 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "BMS",
+            "SAR위성",
+            "TIPS",
+            "경남우주항공국가산단",
+            "경남창조경제혁신센터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "대전혁신센터, 딥테크 투자부터 EXIT까지 잇는다…건국대와 앵커펀드 결성",
           "link": "https://www.venturesquare.net/1117736/",
@@ -1040,27 +1066,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "대전혁신센터 보육기업 린솔·코스모비, 130팀 겨루는 ‘올해의 K-스타트업’ 본선 진출",
-          "link": "https://www.venturesquare.net/1117585/",
-          "pubDate": "2026-10-02T05:02:23.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/RUNSOL-696x522.jpg",
-          "summary": "대전창조경제혁신센터 보육기업 린솔과 코스모비가 ‘올해의 K-스타트업 2026’ 통합본선에 진출했다. 린솔은 한화에어로스페이스 사내벤처에서 출발한 스마트 안전서비스 기업으로 혁신창업리그 종합예선 상위 5개사에 선정돼 장려상을 받았다. 코스모비는 KAIST 전기추력기 연구... The post 대전혁신센터 보육기업 린솔·코스모비, 130팀 겨루는 ‘올해의 K-스타트업’ 본선 진출 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI안전",
-            "kaist",
-            "K스타트업2026",
-            "대전창조경제혁신센터",
-            "린솔"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:19.916Z",
+      "fetchedAt": "2026-10-03T00:57:04.460Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,17 +1094,34 @@
           "summaryKo": null
         },
         {
-          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - 기호일보",
+          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - kihoilbo.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYkJXbTh1TjNzenFxZmE0ODVBVU9EMUVFVzJ6WW5pcDlTNmFWN3NuTXk0dFRjb3ZHTUV3bzlfRGlsNXJQRFhDNldqanplNy1zUWpHeDNqRWI3eTZ5bVhZa2IwcEVDTUFJai15dnRQOA?oc=5",
           "pubDate": "2026-09-30T07:10:14.000Z",
           "image": null,
-          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 기호일보",
+          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 kihoilbo.co.kr",
           "keywords": [
             "화성산업진흥원",
             "하반기",
             "마케팅",
             "활성화",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
+          "pubDate": "2026-10-01T21:43:05.000Z",
+          "image": null,
+          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
+          "keywords": [
+            "안성시",
+            "1인",
+            "가구",
+            "지원사업",
+            "생활꿀팁"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1120,51 +1145,34 @@
           "summaryKo": null
         },
         {
-          "title": "하반기 영농부산물 안전처리 지원사업 참여자 모집 - 중도일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sSURrMnJEclB2TmxQYTc5alFPVHJnaFBwVDJBMTE2Mks5RnhBVnVDS1hOMWVYRk5tajBUTDVUZ2g0YkhkNlJXUGJ4LXBnUXVNVHZwWVpZYjdqQnlxZi1HWjRLekQyWGdyU3Znbg?oc=5",
-          "pubDate": "2026-10-02T04:32:12.000Z",
+          "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
+          "pubDate": "2026-10-01T01:28:00.000Z",
           "image": null,
-          "summary": "하반기 영농부산물 안전처리 지원사업 참여자 모집 중도일보",
+          "summary": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌",
           "keywords": [
-            "하반기",
-            "영농부산물",
-            "안전처리",
+            "남해군",
+            "스마트공장",
             "지원사업",
-            "참여자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
-          "pubDate": "2026-10-01T21:43:05.000Z",
-          "image": null,
-          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
-          "keywords": [
-            "안성시",
-            "1인",
-            "가구",
-            "지원사업",
-            "생활꿀팁"
+            "추가",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-02T21:51:20.360Z",
+      "fetchedAt": "2026-10-03T00:57:04.903Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
+      "key": "tips",
+      "label": "TIPS",
+      "count": 3,
       "rank": 1,
-      "change": "same"
+      "change": "up"
     },
     {
       "key": "m&a",
@@ -1174,11 +1182,11 @@
       "change": "same"
     },
     {
-      "key": "tips",
-      "label": "TIPS",
+      "key": "추가",
+      "label": "추가",
       "count": 2,
       "rank": 3,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "경제",
@@ -1252,7 +1260,7 @@
       "label": "AI",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1260,7 +1268,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 4,
-      "change": "down",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1268,7 +1276,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1276,7 +1284,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1292,7 +1300,7 @@
       "label": "TechCrunch Disrupt",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "TechCrunch Disrupt"
     },
     {
@@ -1300,7 +1308,7 @@
       "label": "Fundraising",
       "count": 2,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "모금 활동"
     },
     {
