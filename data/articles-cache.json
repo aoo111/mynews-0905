@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-03T07:37:26.658Z",
+  "collectedAt": "2026-10-03T13:04:14.353Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "주말 새 2금융권까지 해킹피해 확산에…당국, 4일 전 금융업권 협회장·금융사 대표 긴급 소집",
+          "link": "https://www.mk.co.kr/news/economy/12167844",
+          "pubDate": "2026-10-03T11:19:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.1e972304e769403cbbfec99f96824e71_R.jpeg",
+          "summary": "7일 예정 회의를 앞당겨 금융권 보안사고 댕응방안 논의할 듯금융당국이 전 금융업권 협회장과 침해사고가 발생한 금융사 대표들을 긴급 소집했다. 3일 연합뉴스에 따르면 금융위원회는 오..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“사람보다 비싼 우리 ‘황구 백구’ 치료비”…펫보험 들때  주의할 점은?",
+          "link": "https://www.mk.co.kr/news/economy/12167817",
+          "pubDate": "2026-10-03T08:54:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261002.149e48c891a24d48a8e142c203a00779_R.jpg",
+          "summary": "병원비 부담에 펫적금보다 펫보험 수요↑ 가입 후 보험금 지급 안 되는 면책기간도 “연령 어렸을 때 유리…보장범위도 확인”반려동물이 아파 병원에 가면 많게는 수백만원의 진료·수술비가..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘금융권 AI 해킹’ 현대캐피탈도 털렸다…대출모집인 정보 유출",
+          "link": "https://www.mk.co.kr/news/economy/12167805",
+          "pubDate": "2026-10-03T08:09:40.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.90bd3d2c6c0c483ab6c66d412488c381_R.jpeg",
+          "summary": "이름·휴대전화번호·주민번호 등 유출 “일반 고객정보 유출 없어”현대캐피탈도 인공지능(AI) 활용 해킹공격을 받아 주택대출 모집인 관련 정보가 유출된 것으로 확인됐다. 현대캐피탈은 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“AI에 시중은행 또 털렸다” …이번에는 예가람저축은행, 4만명 정보 털려",
           "link": "https://www.mk.co.kr/news/economy/12167792",
           "pubDate": "2026-10-03T06:58:52.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
-          "link": "https://www.mk.co.kr/news/economy/12167722",
-          "pubDate": "2026-10-03T00:41:46.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.cddf8f823be7483083139994297140a8_R.jpeg",
-          "summary": "통신요금 기저효과 사라져 상승률 둔화 항공료·여행비 상승 지속 전자제품 등 내구재 4.9% 올라 중동전쟁·비용 부담 변수한국은행이 10월에도 소비자물가 상승률이 3% 안팎에 이를 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[속보] 트럼프 “韓 알래스카 투자 안한대도 괜찮다…돈 더 청구하면 돼”",
-          "link": "https://www.mk.co.kr/news/economy/12167720",
-          "pubDate": "2026-10-03T00:35:28.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.5936b18d008f4f1581a8376a05fa8aa0_R.jpeg",
-          "summary": "韓 ‘알래스카 LNG 미확정’ 반박엔 트럼프 “성급한 발표 아니었다”도널드 트럼프 미국 대통령이 한국의 알래스카 액화천연가스(LNG) 프로젝트 투자를 확정된 것처럼 발표한 것이 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“보험금 다툼 끊이질 않네”…민원·분쟁신청 꾸준한데 5세대 실손 앞날은",
-          "link": "https://www.mk.co.kr/news/economy/12167710",
-          "pubDate": "2026-10-02T23:58:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261002.b69c0b8c950f431ea06433311790c646_R.jpg",
-          "summary": "올해 국감서도 5세대 실손보험 안건 실손 비롯해 보장성 보험 민원 꾸준 약관해석과 보험금 지급 사유 때문다음 주부터 국정감사가 시작되는 가운데, 올해 보험 부문은 5세대 실손보험 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:02.938Z",
+      "fetchedAt": "2026-10-03T13:04:06.095Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:03.004Z",
+      "fetchedAt": "2026-10-03T13:04:06.245Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+          "pubDate": "2026-10-03T21:55:05.000Z",
+          "image": null,
+          "summary": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 대해 월스트리트가 잇달아 제동을 걸고 나섰다. 천문학적인 인프라 투자 비용 대비 실질적 수익성에 대한 회의론이 월가를 압도하면서, AI 거품 붕괴 시 미국과 세계 경제 전반에 시스템적 위험을 초래할 수 있다는 경고가 전면에 등장하고 있다. 철도 붐이나 닷컴 버블을 뛰어넘는 자금이 유입되고 있으나, 이를 뒷받침할 구체적인 성과는 턱없이 부족하다는 지적이다.특히 앤트로픽의 기업공개(IPO)를 앞두고 월가의 냉각 기류가 구체화되고 있다. 투자은행들이 초기 논의에서 제시했던 2조달러의 기업 가",
+          "keywords": [
+            "수익성",
+            "불투명한",
+            "10조달러",
+            "투자",
+            "월가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+          "pubDate": "2026-10-03T20:42:47.000Z",
+          "image": null,
+          "summary": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한 과제를 가벼운 이미지 뒤로 가리려는 시도라는 분석이다. 이러한 전략의 최전선에는 메타가 9월 선보인 AI 개인 비서 앱 '뮤즈(Muse)'와 이를 지휘한 Z세대 알렉산드르 왕 최고 AI책임자(CAIO)가 있다.월스트리트저널(WSJ)이 최근 소비자 1300명을 대상으로 실시한 조사에 따르면 응답자의 절반 이상이 AI가 사회에 실존적 위협을",
+          "keywords": [
+            "AI",
+            "반감",
+            "가리는",
+            "귀여운",
+            "캐릭터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
+          "pubDate": "2026-10-03T19:05:59.000Z",
+          "image": null,
+          "summary": "AI타임스와 이스트에이드의 10월 첫째 주(9월24일~10월1일) 이슈 분석 결과, 청주 10대 흉기 성폭행과 DMZ 폭발 관련 소식이 상위권을 차지했다.이번 주 검색량 1위를 기록한 '청주 10대 흉기 성폭행(9.71%)'은 충북 청주의 한 골목에서 일면식 없는 20대 여성을 흉기로 찌르고 성폭행을 시도한 10대가 경찰에 붙잡혀 구속된 사건이다.이 외에도 추석 연휴 동안 '추석 가정폭력 급증(2.25%)' '옥천 일가족 3명 사망(2.06%)' '남양주 별장 흉기 피습(1.89%)' 등이 잇따랐다.Mnet '스트릿 댄스 걸스 파이",
+          "keywords": [
+            "AI",
+            "이슈트렌드",
+            "계속된",
+            "DMZ",
+            "논란"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "딥시크, 슈퍼 앱 형태 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
-          "pubDate": "2026-10-03T13:58:48.000Z",
-          "image": null,
-          "summary": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness)’ v0.2 프리뷰를 출시했다.오픈AI나 앤트로픽처럼 대화와 코드 작성, 다양한 업무를 단일 인터페이스로 집약해 문서와 스프레드시트, PDF를 업로드해 내용을 정리하거나 데이터를 분석하고 차트와 슬라이드를 만드는 것은 물론, 프로젝트의 코드를 수정하",
-          "keywords": [
-            "딥시크",
-            "슈퍼",
-            "형태",
-            "데스크톱",
-            "하네스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
-          "pubDate": "2026-10-03T13:34:46.000Z",
-          "image": null,
-          "summary": "AI 에이전트 ‘뮤즈(Muse)’의 인기가 급증하는 가운데, 메타가 이를 실제 하드웨어와 연결하는 오픈소스 플랫폼을 공개했다. 개발자와 기술 애호가들이 직접 만든 장치에 뮤즈를 연결하고, 스마트홈 기기와 주변 장치를 AI로 제어할 수 있도록 지원하기 위한 것이다.메타는 2일(현지시간) ‘뮤즈 가젯(Muse Gadgets)’을 공개하고, 자체 제작한 스마트홈 연결 장치 ‘뮤즈 홈 링크(Muse Home Link)’도 선보였다.뮤즈 가젯은 ESP32 보드용 펌웨어와 리눅스용 소프트웨어 개발 키트(SDK)를 제공한다. 개발자는 ESP32",
-          "keywords": [
-            "메타",
-            "오픈소스",
-            "뮤즈",
-            "가젯",
-            "공개"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명 양성",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215931",
-          "pubDate": "2026-10-03T13:01:41.000Z",
-          "image": null,
-          "summary": "앤트로픽이 기업의 AI 도입을 이끌 전방 배치 엔지니어(FDE)를 직접 육성하기 위해 1억달러(약 1347억원)를 투자한다. 기업 현장에서 AI 기술을 실제 업무에 적용할 수 있는 전문 인력이 부족한 상황을 해소하기 위해, 오는 2027년 말까지 1만명의 전문 엔지니어를 양성한다는 계획이다.앤트로픽은 2일(현지시간) ‘클로드 프론티어 아카데미(Claude Frontier Academy)’를 출범하고, 자사의 엔지니어들이 받는 수준의 교육을 기업과 파트너사 엔지니어들에게 제공한다고 밝혔다.첫 교육 과정에는 액센추어, 베인, 캡제미니,",
-          "keywords": [
-            "앤트로픽",
-            "클로드",
-            "프론티어",
-            "아카데미",
-            "출범"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:04.198Z",
+      "fetchedAt": "2026-10-03T13:04:07.276Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:04.429Z",
+      "fetchedAt": "2026-10-03T13:04:07.427Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,17 +365,68 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "macOS 전체 디스크 접근 권한 변경 사항",
+          "title": "내가 표적이 됐다: git post-checkout 훅으로 자격 증명 탈취를 노린 시도",
+          "link": "https://news.hada.io/topic?id=34709",
+          "pubDate": "2026-10-03T10:02:14.000Z",
+          "image": null,
+          "summary": "교육 기술 웹 앱 개발 문의를 가장해 Frank Wiles의 노트북에서 임의 코드를 실행하도록 유도한 공격이 있었으며, Wiles는 GitHub 계정이나 고객 관련 접근 권한을 노린 것으로 추정함 공격자는 미팅 전 프로젝트 자료 검토와 NDA 서명을 요청한 뒤, Dropbox로 전달...",
+          "keywords": [
+            "내가",
+            "표적이",
+            "됐다:",
+            "git",
+            "post"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
+          "link": "https://news.hada.io/topic?id=34708",
+          "pubDate": "2026-10-03T08:35:50.000Z",
+          "image": null,
+          "summary": "Newgrounds.com - 게임, 음악, 예술 커뮤니티",
+          "keywords": [
+            "Newgrounds",
+            "com",
+            "게임",
+            "음악",
+            "예술"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Extra Big Ass Intelligence, 엄청나게 거대한 지능",
+          "link": "https://news.hada.io/topic?id=34707",
+          "pubDate": "2026-10-03T08:32:50.000Z",
+          "image": null,
+          "summary": "Extra Big Ass Intelligence™ 는 “SUPER INTELLIGENCE(SI) v1.0”을 내세우며, 법령으로 AI.exe를 삭제했다는 설정의 웹페이지임 AI 대신 SI를 강조하며, 행정명령에 따른 초지능이라는 문구와 함께 이제 “AI”라는 단어는 불법이라고 선언함 ...",
+          "keywords": [
+            "Extra",
+            "Big",
+            "Ass",
+            "Intelligence",
+            "엄청나게"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Apple, macOS ‘전체 디스크 접근’ 권한 통제 강화 예고",
           "link": "https://news.hada.io/topic?id=34706",
           "pubDate": "2026-10-03T07:32:55.000Z",
           "image": null,
-          "summary": "Apple은 macOS의 전체 디스크 접근 권한(Full Disk Access) 을 명시적인 사용자 동작으로만 부여할 수 있도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함 일부 개발...",
+          "summary": "Apple은 앱에 전체 디스크 접근 권한(Full Disk Access) 을 부여할 때, 사용자가 위험을 충분히 이해하고 명시적으로 허용하도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함...",
           "keywords": [
+            "Apple",
             "macOS",
             "전체",
             "디스크",
-            "접근",
-            "권한"
+            "접근"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -397,56 +448,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
-          "link": "https://news.hada.io/topic?id=34704",
-          "pubDate": "2026-10-03T06:34:35.000Z",
-          "image": null,
-          "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅할 수 있게 됨. WFI/WFIT 명령 실행 시 충돌을 막는 변경이 메인라인 Linux와 m1n1에 병합됨 M4에서는 WFI 실행 시 CPU 상태가 손실되는 동작을 기존 세대처럼 끄기 어려웠음. 이를 제어하던 비트가 잠겼거...",
-          "keywords": [
-            "잊어버리는",
-            "CPU(M4에서",
-            "Linux",
-            "구동하기)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
-          "link": "https://news.hada.io/topic?id=34703",
-          "pubDate": "2026-10-03T06:11:47.000Z",
-          "image": null,
-          "summary": "안녕하세요. 학교에서 이런 저런 강의하는 사람입니다. 강의나 영상을 녹화하면서 내 PC 화면을 보여야 할 때 뭔가 이것 저것 많으면 복잡스러운데 바탕화면에 뭐 안보이게 숨기는 프로그램입니다. 배경 보통 바탕화면의 아이콘하고, 메뉴 막대 (날짜 / 시간,",
-          "keywords": [
-            "Show",
-            "GN:",
-            "soom",
-            "바탕화면",
-            "깔끔한"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Muse Gadgets",
-          "link": "https://news.hada.io/topic?id=34702",
-          "pubDate": "2026-10-03T05:33:52.000Z",
-          "image": null,
-          "summary": "Muse Gadgets는 ESP32 보드나 Raspberry Pi 등에 SDK를 설치해 Muse를 디스플레이, 버튼, 센서, 액추에이터와 연결하는 직접 제작형 오픈소스 기기임 ESP32 Device SDK는 화면의 이미지 표시, 오디오 입출력, 센서 연결을 지원함 Linux Device SD...",
-          "keywords": [
-            "Muse",
-            "Gadgets"
-          ],
-          "isForeign": true,
-          "titleKo": "뮤즈 가젯",
-          "summaryKo": "Muse Gadgets는 ESP32 보드나 Raspberry Pi 등에 SDK를 설치해 Muse를 디스플레이,버튼,센서, 액추에이터와 연결하는 직접 제작형 오픈소스 기기임 ESP32 Device SDK는 화면의 이미지 표시,오디오 입출력, 센서 연결을 지원함 Linux Device SD..."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:07.241Z",
+      "fetchedAt": "2026-10-03T13:04:08.147Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -525,7 +529,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:07.526Z",
+      "fetchedAt": "2026-10-03T13:04:08.419Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -599,7 +603,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:07.749Z",
+      "fetchedAt": "2026-10-03T13:04:08.662Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -680,7 +684,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:07.792Z",
+      "fetchedAt": "2026-10-03T13:04:08.713Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -779,7 +783,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:19.593Z",
+      "fetchedAt": "2026-10-03T13:04:11.573Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -788,88 +792,85 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "KBW2026 폐막, 금융기관·정책 연사 늘며 ‘기관 중심’ 행사로",
-          "link": "https://platum.kr/archives/295633?utm_source=rss&utm_medium=rss&utm_campaign=kbw2026-%25ed%258f%2590%25eb%25a7%2589-%25ea%25b8%2588%25ec%259c%25b5%25ea%25b8%25b0%25ea%25b4%2580%25c2%25b7%25ec%25a0%2595%25ec%25b1%2585-%25ec%2597%25b0%25ec%2582%25ac-%25eb%258a%2598%25eb%25a9%25b0-%25ea%25b8%25b0%25ea%25b4%2580-%25ec%25a4%2591%25ec%258b%25ac-%25ed%2596%2589%25ec%2582%25ac%25eb%25a1%259c",
-          "pubDate": "2026-10-01T07:48:18.000Z",
+          "title": "뱅크샐러드, 코스닥 상장예비심사 청구… 지난해 매출 77% 늘어 260억원",
+          "link": "https://platum.kr/archives/295714?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b1%2585%25ed%2581%25ac%25ec%2583%2590%25eb%259f%25ac%25eb%2593%259c-%25ec%25bd%2594%25ec%258a%25a4%25eb%258b%25a5-%25ec%2583%2581%25ec%259e%25a5%25ec%2598%2588%25eb%25b9%2584%25ec%258b%25ac%25ec%2582%25ac-%25ec%25b2%25ad%25ea%25b5%25ac-%25ec%25a7%2580%25eb%2582%259c%25ed%2595%25b4-%25eb%25a7%25a4",
+          "pubDate": "2026-10-02T07:47:20.000Z",
           "image": null,
-          "summary": "국내 최대 블록체인 행사 ‘코리아 블록체인 위크(KBW) 2026’이 금융기관과 정책 당국 관계자의 비중을 크게 늘린 채 메인 컨퍼런스를 마쳤다. KBW 주최사 팩트블록은 9월 30일부터 10월 1일까지 서울 광진구 워커힐 호텔앤리조트에서 열린 메인 컨퍼런스에 연사 290명이 참여해 3개 무대에서 120개 세션을 진행했다고 밝혔다. 참석자는 연인원 1만2,500명이다. 연사 가운데 금융·정책·디지털자산 투자 및 서비스 분야 관계자는 115명으로 전체의 ... 더 읽기",
-          "keywords": [
-            "이벤트",
-            "코리아 블록체인 위크",
-            "팩트블록"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "도심형 공유창고 아이엠박스, 전국 지점 확장에 속도",
-          "link": "https://platum.kr/archives/295611?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258f%2584%25ec%258b%25ac%25ed%2598%2595-%25ea%25b3%25b5%25ec%259c%25a0%25ec%25b0%25bd%25ea%25b3%25a0-%25ec%2595%2584%25ec%259d%25b4%25ec%2597%25a0%25eb%25b0%2595%25ec%258a%25a4-%25ec%25a0%2584%25ea%25b5%25ad-%25ec%25a7%2580%25ec%25a0%2590-%25ed%2599%2595%25ec%259e%25a5%25ec%2597%2590-%25ec%2586%258d%25eb%258f%2584",
-          "pubDate": "2026-10-01T05:49:52.000Z",
-          "image": null,
-          "summary": "도심형 셀프스토리지(공유창고) 기업 아이엠박스가 전국 지점 300곳을 열었다. 지난 8월 280호점을 연 뒤 한 달여 만에 20곳을 늘렸다. 회사는 국내 셀프스토리지 업계에서 300호점을 연 것은 아이엠박스가 처음이라고 밝혔다. 셀프스토리지는 개인이 집 근처 창고 공간을 빌려 짐을 보관하는 서비스다. 캠핑용품, 계절 의류, 취미용품처럼 당장 쓰지 않는 물건을 맡기려는 수요가 대상이다. 회사는 1~2인 가구가 늘고 주거 공간이 ... 더 읽기",
+          "summary": "마이데이터 기반 자산관리 앱 뱅크샐러드가 한국거래소에 코스닥 상장예비심사 신청서를 내고 기업공개(IPO) 절차에 들어갔다. 상장 주관사는 미래에셋증권이다. 공모 규모와 일정은 심사 진행 상황에 따라 주관사와 협의해 정할 예정이다. 함께 공개한 실적에 따르면 뱅크샐러드의 2025년 매출은 별도 재무제표 기준 260억원으로, 전년 147억원보다 77% 늘었다. 주식보상비용 등 현금이 나가지 않는 비용을 뺀 조정 EBITDA(상각 전 영업이익)는 마이너스 19억원으로 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "성과",
-            "셀프스토리지",
-            "아이엠박스"
+            "IPO",
+            "뱅크샐러드",
+            "상장",
+            "코스닥"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[BLT칼럼] 때로는 특허보다 강한 권리가 디자인권이다",
-          "link": "https://platum.kr/archives/295637?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-%25eb%2595%258c%25eb%25a1%259c%25eb%258a%2594-%25ed%258a%25b9%25ed%2597%2588%25eb%25b3%25b4%25eb%258b%25a4-%25ea%25b0%2595%25ed%2595%259c-%25ea%25b6%258c%25eb%25a6%25ac%25ea%25b0%2580-%25eb%2594%2594%25ec%259e%2590%25ec%259d%25b8%25ea%25b6%258c%25ec%259d%25b4%25eb%258b%25a4",
-          "pubDate": "2026-10-01T05:48:00.000Z",
+          "title": "해외 바이어 미팅까지 잡아준다, 비즈니스캔버스 AI 글로벌 영업 서비스 ‘아테나’ 출시",
+          "link": "https://platum.kr/archives/295708?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25eb%25b0%2594%25ec%259d%25b4%25ec%2596%25b4-%25eb%25af%25b8%25ed%258c%2585%25ea%25b9%258c%25ec%25a7%2580-%25ec%259e%25a1%25ec%2595%2584%25ec%25a4%2580%25eb%258b%25a4-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4%25ec%25ba%2594%25eb%25b2%2584%25ec%258a%25a4-ai-%25ea%25b8%2580",
+          "pubDate": "2026-10-02T07:30:03.000Z",
           "image": null,
-          "summary": "– 미국 ITC 제소에서 특허 3건 옆에 놓인 디자인특허 2건 2026년 9월 22일, 미국 국제무역위원회(ITC)가 웨어러블 유축기에 대한 미 관세법 제337조 조사를 개시했다(사건번호 337-TA-1522, 연방관보 2026년 9월 24일 게재). 제소인은 미국 Willow Innovations와 영국 관계사 Willow Blossom Holdco다. Willow는 2017년 브라 안에 넣는 착용형 유축기를 처음 내놓은 회사로, 2025년 3월에는 영국의 유축기 브랜드 Elvie를 인수해 ... 더 읽기",
+          "summary": "B2B CRM ‘리캐치’를 운영하는 비즈니스캔버스가 해외 진출을 추진하는 B2B 기업을 위한 AI 기반 글로벌 영업 서비스 ‘아테나(Athena)’를 정식 출시했다. AI가 공략할 해외 기업과 영업 시점, 접근 경로를 분석하고, 상대 기업 핵심 의사결정자와의 실제 미팅을 성사시키는 데까지 지원하는 서비스다. 아테나는 해외 영업 과정을 7단계로 나눠 처리한다. 먼저 고객사의 제품이 어떤 문제를 해결하는지 정의하고, 투자 유치나 공장 ... 더 읽기",
           "keywords": [
-            "트렌드",
-            "BLT",
-            "디자인권",
-            "정태균 변리사",
-            "특허"
+            "스타트업",
+            "리캐치",
+            "비즈니스캔버스",
+            "아테나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "PR 에이전시 하이퍼앰, 데이터·AI 마케팅사 루츠앤윙스와 합병",
-          "link": "https://platum.kr/archives/295610?utm_source=rss&utm_medium=rss&utm_campaign=pr-%25ed%259a%258c%25ec%2582%25ac%25ea%25b0%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25eb%25a7%2588%25ec%25bc%2580%25ed%258c%2585%25ec%259d%2584-%25ed%2592%2588%25ec%2597%2588%25eb%258b%25a4-%25ed%2595%2598%25ec%259d%25b4%25ed%258d%25bc%25ec%2595%25b0%25ec%25bd%2594%25eb%25a6%25ac%25ec%2595%2584%25c2%25b7",
-          "pubDate": "2026-10-01T05:47:26.000Z",
+          "title": "한국 AI 스타트업 마이디포, 칠레 대학생·중소기업 잇는 AI 해커톤 열어",
+          "link": "https://platum.kr/archives/295705?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad-ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25a7%2588%25ec%259d%25b4%25eb%2594%2594%25ed%258f%25ac-%25ec%25b9%25a0%25eb%25a0%2588-%25eb%258c%2580%25ed%2595%2599%25ec%2583%259d%25c2%25b7%25ec%25a4%2591%25ec%2586%258c%25ea%25b8%25b0%25ec%2597%2585-%25ec%259e%2587",
+          "pubDate": "2026-10-02T06:43:26.000Z",
           "image": null,
-          "summary": "PR에서 출발한 마케팅 커뮤니케이션 기업 하이퍼앰코리아가 데이터·퍼포먼스 마케팅 기업 루츠앤윙스와 합병했다. 브랜드 전략과 PR 중심의 회사가 소비 데이터 기반 광고 운영 역량을 더해 전략부터 광고 성과 분석까지 한 조직에서 맡겠다는 것이다. 루츠앤윙스는 신한카드 빅데이터연구소장을 지내며 15년간 카드사 빅데이터 사업을 이끈 장재영 대표가 2023년 세운 회사다. 카드사·통신사 소비 데이터에 기반한 타깃 마케팅과 퍼포먼스 광고 운영, AI ... 더 읽기",
+          "summary": "칠레 산티아고의 대학생들이 한국 스타트업의 AI 업무 도구로 현지 중소기업의 업무 문제를 풀어내는 해커톤이 열렸다. 기업용 AI 서비스 기업 마이디포가 칠레 산티아고대학교 경영경제대학과 함께 ‘FAE USACH 해커톤 2026’을 진행했다. 칠레 중소기업 22곳과 학생 168명, 36개 팀이 참여했다. 해커톤의 운영 기반은 마이디포의 기업용 AI 워크스페이스 ‘쓰레드제로(thread0)’였다. 쓰레드제로는 기업이 이미 쓰고 있는 챗GPT, 클로드 같은 AI 구독 ... 더 읽기",
           "keywords": [
-            "투자",
-            "M&A",
-            "루츠앤윙스",
-            "인수합병",
-            "하이퍼앰코리아"
+            "스타트업",
+            "마이디포",
+            "칠레",
+            "해커톤"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "대형 딜에 쏠린 스타트업 투자, 올해 누적 호황기 이후 첫 10조원대",
-          "link": "https://platum.kr/archives/295592?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ed%2598%2595-%25eb%2594%259c%25ec%2597%2590-%25ec%258f%25a0%25eb%25a6%25b0-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ed%2588%25ac%25ec%259e%2590-%25ec%2598%25ac%25ed%2595%25b4-%25eb%2588%2584%25ec%25a0%2581-%25ed%2598%25b8%25ed%2599%25a9%25ea%25b8%25b0-%25ec%259d%25b4%25ed%259b%2584",
-          "pubDate": "2026-10-01T04:53:34.000Z",
+          "title": "나라스페이스, 메탄 관측 초소형위성 ‘경기샛-2A’ 발사 후 첫 교신 성공",
+          "link": "https://platum.kr/archives/295702?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%2598%25eb%259d%25bc%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4-%25eb%25a9%2594%25ed%2583%2584-%25ea%25b4%2580%25ec%25b8%25a1-%25ec%25b4%2588%25ec%2586%258c%25ed%2598%2595%25ec%259c%2584%25ec%2584%25b1-%25ea%25b2%25bd%25ea%25b8%25b0%25ec%2583%259b-2a-%25eb%25b0%259c%25ec%2582%25ac",
+          "pubDate": "2026-10-02T06:36:03.000Z",
           "image": null,
-          "summary": "올해 국내 스타트업 투자 금액이 3분기 만에 10조원을 넘어섰다. 스타트업 투자 데이터베이스 기업 더브이씨(The VC)가 발표한 2026년 3분기 한국 스타트업 투자 통계에 따르면, 1~3분기 국내 비상장 스타트업·중소기업 대상 누적 투자는 854건, 10조1,880억원으로 집계됐다. 연간 투자 금액이 10조원을 넘은 것은 투자 호황기였던 2022년(16조원) 이후 처음이다. 2024년과 2025년 연간 투자 금액은 모두 7조원대였다. 3분기만 놓고 보면 투자 ... 더 읽기",
+          "summary": "메탄 배출원을 우주에서 찾아내는 국내 첫 초소형위성이 궤도에 올라 지상과 교신에 성공했다. 위성 기업 나라스페이스테크놀로지는 메탄 관측 위성 ‘경기샛-2A’가 발사 후 지상국과 양방향 교신에 성공했다고 2일 밝혔다. 경기샛-2A는 한국시간 2일 오전 3시 32분(현지시간 1일 오전 11시 32분) 미국 캘리포니아 반덴버그 우주군 기지에서 스페이스X 팰컨9 로켓에 실려 발사됐다. 위성은 발사 약 55분 뒤 궤도에서 정상적으로 분리됐고, ... 더 읽기",
           "keywords": [
-            "투자",
-            "더브이씨",
-            "스타트업 투자",
-            "펀딩"
+            "스타트업",
+            "경기샛-2A",
+            "나라스페이스테크놀로지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "전기차 화재, 충전구역 밖에서도 잡는다, 시티아이랩 현대건설 본사에 감지 솔루션 구축",
+          "link": "https://platum.kr/archives/295699?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25ea%25b8%25b0%25ec%25b0%25a8-%25ed%2599%2594%25ec%259e%25ac-%25ec%25b6%25a9%25ec%25a0%2584%25ea%25b5%25ac%25ec%2597%25ad-%25eb%25b0%2596%25ec%2597%2590%25ec%2584%259c%25eb%258f%2584-%25ec%259e%25a1%25eb%258a%2594%25eb%258b%25a4-%25ec%258b%259c%25ed%258b%25b0%25ec%2595%2584%25ec%259d%25b4%25eb%259e%25a9",
+          "pubDate": "2026-10-02T06:32:02.000Z",
+          "image": null,
+          "summary": "전기차 배터리 화재의 징후를 가스·온도·영상으로 함께 감지하는 시스템이 충전구역을 넘어 일반 주차구역까지 적용됐다. AI 기반 화재 감지 기업 시티아이랩이 현대건설 본사 주차장에 멀티모달 AI 기반 전기차 화재 예측·감지 솔루션을 구축했다. 멀티모달 AI는 가스, 온도, 영상처럼 서로 다른 종류의 데이터를 함께 분석하는 AI를 말한다. 이 솔루션은 세 종류의 센서를 쓴다. 오프가스 센서는 배터리 내부 온도가 연쇄적으로 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "시티아이랩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:19.865Z",
+      "fetchedAt": "2026-10-03T13:04:11.840Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -965,7 +966,7 @@
           "summaryKo": "클레이 공동 창업자 겸 CEO인 카림 아민 (Kareem Amin) 이 AI 스테이지에 합류하여 TechCrunch Disrupt 2026에서 GTM 엔지니어의 부상에 대해 논의합니다. 티켓을 등록하고 50% 할인된 가격에 두 번째 패스를 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:19.975Z",
+      "fetchedAt": "2026-10-03T13:04:12.003Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,6 +974,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[AI 시대 리더의 대화법] A를 지시했는데 B를 해왔다…면담 끝나기 전 확인할 세 가지",
+          "link": "https://www.venturesquare.net/1117740/",
+          "pubDate": "2026-10-03T00:35:21.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/09/5-resize-789x422.png",
+          "summary": "리더가 A를 지시했는데 팀원이 B를 해왔다면 단순히 누군가 잘못 기억한 문제로 볼 수 없다. 사람은 들은 내용을 그대로 저장하기보다 자신의 경험과 업무 방식에 맞춰 기억하기 때문에 같은 대화도 서로 다르게 받아들일 수 있다. 중요한 것은 “이해했습니까?”라고 묻는 대신... The post [AI 시대 리더의 대화법] A를 지시했는데 B를 해왔다…면담 끝나기 전 확인할 세 가지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "1대1면담",
+            "AI시대리더의대화법",
+            "AI회의록",
+            "김경민"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경남창조경제혁신센터 투자 일켐, SAR 위성용 배터리 개발로 TIPS 선정",
           "link": "https://www.venturesquare.net/1117739/",
@@ -1044,27 +1063,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경북창조경제혁신센터, K-방산 스타트업 기술개발 다음은 ‘국방 진입’…성장로드맵 점검",
-          "link": "https://www.venturesquare.net/1117587/",
-          "pubDate": "2026-10-02T05:05:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/2026K-696x522.jpg",
-          "summary": "경북창조경제혁신센터가 ‘2026년 K-방산 스타트업 1단계 육성사업’ 제3차 육성협의체 간담회를 개최했다. 강원·경상 권역 참여기업의 선행연구와 기술개발·사업화 진행상황을 점검하고 기업별 성장단계에 맞춘 멘토링 운영방안을 논의했다. 기술개발 성과가 사업화와 국방 분야 ... The post 경북창조경제혁신센터, K-방산 스타트업 기술개발 다음은 ‘국방 진입’…성장로드맵 점검 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "K방산스타트업",
-            "강원",
-            "경북창조경제혁신센터",
-            "경상",
-            "국방"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:26.230Z",
+      "fetchedAt": "2026-10-03T13:04:13.916Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1073,34 +1074,34 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - metroseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
-          "pubDate": "2026-10-03T00:10:53.000Z",
-          "image": null,
-          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 metroseoul.co.kr",
-          "keywords": [
-            "경남TP",
-            "스마트",
-            "공장",
-            "기초",
-            "구축"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” - munhwa.com",
+          "title": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” - 문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yS2lRelp1VlU0N2I3U1NLR2xxUkFUOVhLTG5CX01DNThCaXBtcTFEUjVSd0tnaC1wOFNZU3FhTDVwQ3hWNlF6TTdFU0ZfSUJq?oc=5",
           "pubDate": "2026-10-01T21:49:38.000Z",
           "image": null,
-          "summary": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” munhwa.com",
+          "summary": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” 문화일보",
           "keywords": [
             "동작구",
             "청석창업지원센터",
             "입주",
             "기업",
             "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - 메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
+          "pubDate": "2026-10-03T00:10:53.000Z",
+          "image": null,
+          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 메트로신문",
+          "keywords": [
+            "경남TP",
+            "스마트",
+            "공장",
+            "기초",
+            "구축"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1124,23 +1125,6 @@
           "summaryKo": null
         },
         {
-          "title": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 - vegannews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOFl3bVNVSW51aWktVGNLRzJ6VFd4bC1yVkdRY3VFVm93VVAxblhPbEV6VW9aT3NmS0hEVV9VWmdMVEpMTDA2TkV4VzlYX2JwRl9hRnoxN0RqSFk5eXdSQXJyUURBUQ?oc=5",
-          "pubDate": "2026-10-03T06:39:48.000Z",
-          "image": null,
-          "summary": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 vegannews.co.kr",
-          "keywords": [
-            "청년",
-            "지원사업",
-            "나이",
-            "공고일",
-            "신청일"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
           "pubDate": "2026-10-01T21:43:05.000Z",
@@ -1156,82 +1140,99 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 - 비건뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOFl3bVNVSW51aWktVGNLRzJ6VFd4bC1yVkdRY3VFVm93VVAxblhPbEV6VW9aT3NmS0hEVV9VWmdMVEpMTDA2TkV4VzlYX2JwRl9hRnoxN0RqSFk5eXdSQXJyUURBUQ?oc=5",
+          "pubDate": "2026-10-03T06:39:48.000Z",
+          "image": null,
+          "summary": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 비건뉴스",
+          "keywords": [
+            "청년",
+            "지원사업",
+            "나이",
+            "공고일",
+            "신청일"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T07:37:26.650Z",
+      "fetchedAt": "2026-10-03T13:04:14.347Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "tips",
       "label": "TIPS",
       "count": 3,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 2,
-      "change": "new"
-    },
-    {
-      "key": "m&a",
-      "label": "M&A",
-      "count": 2,
-      "rank": 3,
       "change": "down"
-    },
-    {
-      "key": "성과",
-      "label": "성과",
-      "count": 2,
-      "rank": 4,
-      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 5,
+      "rank": 7,
+      "change": "new"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 9,
-      "change": "down"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "ai에이전트",
       "label": "AI에이전트",
       "count": 3,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
