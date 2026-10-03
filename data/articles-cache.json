@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-03T17:47:07.414Z",
+  "collectedAt": "2026-10-03T20:37:21.041Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:00.041Z",
+      "fetchedAt": "2026-10-03T20:37:16.416Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -181,7 +181,7 @@
         }
       ],
       "fetchedAt": "2026-10-03T17:47:00.259Z",
-      "error": null
+      "error": "HTTP 404"
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:01.310Z",
+      "fetchedAt": "2026-10-03T20:37:17.865Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:01.485Z",
+      "fetchedAt": "2026-10-03T20:37:18.009Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,72 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "GrapheneOS, Android 17 QPR1 커널 성능 저하 문제 수정",
+          "link": "https://news.hada.io/topic?id=34726",
+          "pubDate": "2026-10-03T19:45:04.000Z",
+          "image": null,
+          "summary": "GrapheneOS가 Android 17 QPR1의 Pixel 커널 드라이버 트리에서 발생한 성능 저하 문제를 수정해 자체 릴리스에 반영함 이 문제는 메모리 압박 상황에서 끊김, 지연, 완전한 멈춤을 일으키며, 작업 정체로 프로세스가 종료될 정도로 심각함 GrapheneOS는 ...",
+          "keywords": [
+            "GrapheneOS",
+            "Android",
+            "17",
+            "QPR1",
+            "커널"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "에티오피아 전쟁의 격화",
+          "link": "https://news.hada.io/topic?id=34725",
+          "pubDate": "2026-10-03T19:42:04.000Z",
+          "image": null,
+          "summary": "에티오피아 북부에서 TPLF와 암하라 파노 민병대가 연방정부 및 정부와 연대한 티그라이 세력과 대규모 교전을 재개함. 정부 전복을 목표로 한 반군 연합의 공세가 2022년 평화협정 이후의 질서를 흔들고 있음 전쟁의 원인은 Abiy Ahmed 개인을 넘어선 구조적 문제...",
+          "keywords": [
+            "에티오피아",
+            "전쟁의",
+            "격화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
+          "link": "https://news.hada.io/topic?id=34724",
+          "pubDate": "2026-10-03T19:33:55.000Z",
+          "image": null,
+          "summary": "알리에서 약 5달러에 산 시계에 Claude·Codex 사용량을 띄워봤습니다. 책상에 두니 생각보다 귀엽네요. 코드 ·",
+          "keywords": [
+            "Show",
+            "GN:",
+            "5달러",
+            "시계에",
+            "Claude"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
+          "link": "https://news.hada.io/topic?id=34723",
+          "pubDate": "2026-10-03T18:32:50.000Z",
+          "image": null,
+          "summary": "ldraw-nova는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임 에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트를 만들고, 이를 실행해 LDraw 소스를 생...",
+          "keywords": [
+            "Show",
+            "HN:",
+            "오픈소스",
+            "LEGO",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
           "link": "https://news.hada.io/topic?id=34722",
@@ -380,73 +446,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Linux 및 Windows용 Orion 개발 현황 안내",
-          "link": "https://news.hada.io/topic?id=34721",
-          "pubDate": "2026-10-03T17:34:06.000Z",
-          "image": null,
-          "summary": "Kagi가 Linux 및 Windows용 Orion의 직접 개발을 종료하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임 소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 macOS 및 iOS용 Orion에 집중하기로 함 오...",
-          "keywords": [
-            "Linux",
-            "Windows용",
-            "Orion",
-            "개발",
-            "현황"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "tmux를 OS로 만들자",
-          "link": "https://news.hada.io/topic?id=34720",
-          "pubDate": "2026-10-03T17:13:02.000Z",
-          "image": null,
-          "summary": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임 기존 창 관리는 반복되는 모니터 전환, 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...",
-          "keywords": [
-            "tmux를",
-            "OS로",
-            "만들자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Cloudflare OHTTP 게이트웨이",
-          "link": "https://news.hada.io/topic?id=34719",
-          "pubDate": "2026-10-03T17:10:02.000Z",
-          "image": null,
-          "summary": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임 OHTTP는 독립 운영되는 릴레이와 게이트웨이로 신뢰를 분리해, 한 주체가 클라이언트 ...",
-          "keywords": [
-            "Cloudflare",
-            "OHTTP",
-            "게이트웨이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
-          "link": "https://news.hada.io/topic?id=34718",
-          "pubDate": "2026-10-03T17:07:02.000Z",
-          "image": null,
-          "summary": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스가 될 것이라는 전망임 전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시",
-          "keywords": [
-            "모든",
-            "SaaS",
-            "비즈니스는",
-            "모델을",
-            "둘러싼"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:02.152Z",
+      "fetchedAt": "2026-10-03T20:37:18.770Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -525,7 +527,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:02.339Z",
+      "fetchedAt": "2026-10-03T20:37:18.995Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -599,7 +601,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:02.645Z",
+      "fetchedAt": "2026-10-03T20:37:19.078Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -680,7 +682,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:02.730Z",
+      "fetchedAt": "2026-10-03T20:37:19.135Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -866,7 +868,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:03.640Z",
+      "fetchedAt": "2026-10-03T20:37:20.289Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -961,7 +963,7 @@
           "summaryKo": "AI가 어떻게 언젠가 우리 모두를 죽일 수 있는지에 대한 모든 이야기와 함께, AI가 이미 심리적으로 일부 사람들에게 해를 끼쳤다는 것을 잊기 쉽습니다. Circuit Breaker Labs는 이를 해결하기 위해 \"충돌 테스트 더미\" 를 만들었습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:05.733Z",
+      "fetchedAt": "2026-10-03T20:37:20.355Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1103,34 +1105,34 @@
           "summaryKo": null
         },
         {
-          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - 메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
-          "pubDate": "2026-10-03T00:10:53.000Z",
-          "image": null,
-          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 메트로신문",
-          "keywords": [
-            "경남TP",
-            "스마트",
-            "공장",
-            "기초",
-            "구축"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - sisaanseong.com",
+          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
           "pubDate": "2026-10-01T21:43:05.000Z",
           "image": null,
-          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 sisaanseong.com",
+          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
           "keywords": [
             "안성시",
             "1인",
             "가구",
             "지원사업",
             "생활꿀팁"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
+          "pubDate": "2026-10-03T00:10:53.000Z",
+          "image": null,
+          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 metroseoul.co.kr",
+          "keywords": [
+            "경남TP",
+            "스마트",
+            "공장",
+            "기초",
+            "구축"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1154,7 +1156,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:06.476Z",
+      "fetchedAt": "2026-10-03T20:37:21.032Z",
       "error": null
     }
   },
@@ -1162,7 +1164,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
+      "count": 5,
       "rank": 1,
       "change": "same"
     },
@@ -1252,7 +1254,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1260,7 +1262,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1268,7 +1270,7 @@
       "label": "AI",
       "count": 4,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1292,7 +1294,7 @@
       "label": "Fundraising",
       "count": 2,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "모금 활동"
     },
     {
@@ -1300,7 +1302,7 @@
       "label": "TechCrunch Disrupt",
       "count": 2,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "TechCrunch Disrupt"
     },
     {
@@ -1308,7 +1310,7 @@
       "label": "Venture",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "벤처"
     }
   ]
