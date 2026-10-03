@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-03T00:57:04.911Z",
+  "collectedAt": "2026-10-03T07:37:26.658Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“AI에 시중은행 또 털렸다” …이번에는 예가람저축은행, 4만명 정보 털려",
+          "link": "https://www.mk.co.kr/news/economy/12167792",
+          "pubDate": "2026-10-03T06:58:52.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.f45408eb0dc4439b8780edb3dc6859db_R.jpg",
+          "summary": "예가람저축은행에서도 해킹으로 고객 개인정보가 유출된 것으로 확인됐다. 국내 주요 시중은행에 이어 저축은행에서도 개인정보 유출 사고가 발생하면서 금융권의 보안 우려가 커지고 있다. ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“여행·취미 다 포기”…소득 절반 대출 갚아야 서울 국평 아파트 마련",
+          "link": "https://www.mk.co.kr/news/economy/12167726",
+          "pubDate": "2026-10-03T00:57:55.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.c6efa4b797954d12b6693f554c2c16f2_R.png",
+          "summary": "서울 주택구입부담지수 185.3 3년 6개월 내 최고치 전국 평균 지수 61.8 3분기 연속 올라서울에서 중간 가격의 주택을 구입하면 가계 소득의 절반을 주택담보대출 원리금 갚는..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
           "link": "https://www.mk.co.kr/news/economy/12167722",
           "pubDate": "2026-10-03T00:41:46.000Z",
@@ -58,7 +84,7 @@
           "link": "https://www.mk.co.kr/news/economy/12167720",
           "pubDate": "2026-10-03T00:35:28.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.5936b18d008f4f1581a8376a05fa8aa0_R.jpeg",
-          "summary": "",
+          "summary": "韓 ‘알래스카 LNG 미확정’ 반박엔 트럼프 “성급한 발표 아니었다”도널드 트럼프 미국 대통령이 한국의 알래스카 액화천연가스(LNG) 프로젝트 투자를 확정된 것처럼 발표한 것이 ..",
           "keywords": [
             "경제"
           ],
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
-          "link": "https://www.mk.co.kr/news/economy/12167675",
-          "pubDate": "2026-10-02T21:30:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-g.v1.20261002.7ee9273328f94b829903e6a92a738d11_R.jpg",
-          "summary": "5대 은행 달러 대출 분석 고환율에 불어났던 달러 빚 원화 강세로 두달새 13%↓ 원화 매출비중 높은 기업 대출상환에 따른 효과 커원화 가치가 빠르게 오르면서 기업들이 달러 대출 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“하마터면 5대 은행 다 뚫릴 뻔”…AI 해킹에 3곳 고객정보 유출",
-          "link": "https://www.mk.co.kr/news/economy/12167528",
-          "pubDate": "2026-10-02T11:28:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/02/news-p.v1.20261002.c0865e4cee1741d2aa259538d17d3628_R.png",
-          "summary": "5대 은행 일제히 AI 해킹 공격 받아 신한·국민·하나 고객정보 실제 유출 금융당국 긴급회의…전산망 전수점검신한은행에 이어 KB국민은행과 하나은행에서도 해킹으로 고객 정보가 유..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:53.101Z",
+      "fetchedAt": "2026-10-03T07:37:02.938Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:53.230Z",
+      "fetchedAt": "2026-10-03T07:37:03.004Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
-          "pubDate": "2026-10-03T07:00:00.000Z",
+          "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
+          "pubDate": "2026-10-03T15:03:13.000Z",
           "image": null,
-          "summary": "오픈AI는 29일(현지시간) 열린 ‘데브데이 2026’에서 챗GPT의 새로운 방향을 보여주는 기능으로 ‘로그인’과 ‘플러그인’을 내놓았습니다. 샘 알트먼 CEO는 2일 X에서 \"챗GPT/플러그인 확장 기능을 이용한 로그인에 우리가 생각하는 것보다 훨씬 더 큰 잠재력이 있다고 생각한다\"라고 따로 언급했습니다.겉으로 보면 단순히 로그인 기능을 추가하고 플러그인의 활용 범위를 넓힌 것처럼 보이지만, 내용을 들여다보면 챗GPT를 다른 서비스를 이용하기 위한 새로운 출발점으로 만들려는 움직임에 가깝습니다.먼저 ‘챗GPT로 로그인하기(Sign",
+          "summary": "AI 검색 결과가 질문자, 시장, 언어, 플랫폼에 따라 다양하게 나타나면서 브랜드의 AI 검색 성과를 단순 평균 노출률로 판단하기가 어려워지고 있다. 이에 AI 검색 가시성을 단순히 '얼마나 많이 보이는가'보다 '중요한 질문에서 얼마나 정확히 설명되고 인용되는가'로 재정의하고, 고객의 질문 의도와 구매 여정에 맞춘 다단계 측정 및 실질적인 콘텐츠 보완 대책이 새로운 해법으로 제시됐다.글로벌 콘텐츠 마케팅 전문 버블쉐어(대표 이수아)의 AI 검색 가시성 솔루션 ‘비비(VIVI)’는 챗GPT, 제미나이, 퍼플렉시티, 구글 AI 모드,",
           "keywords": [
-            "10월2일",
-            "뜻밖의",
-            "주인공은",
-            "로그인과",
-            "플러그인"
+            "버블쉐어",
+            "AI",
+            "검색",
+            "성과",
+            "분석"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
-          "pubDate": "2026-10-02T18:20:00.000Z",
+          "title": "'나만의 클로드 코드' 만든다...앤트로픽, 커스텀 확장 기능 '모드' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215932",
+          "pubDate": "2026-10-03T14:23:12.000Z",
           "image": null,
-          "summary": "자체 데이터 축적으로 AI 번역, 통역의 성능을 고도화해 온 플리토가 온프레미스를 중심으로 매출 성장 곡선을 이루며 창업 이후 첫 브랜드명을 전격 공개했다.언어 데이터 전문 플리토(대표 이정수)가 30일 미디어 인사이트 데이를 통해 AI 통번역 솔루션 통합 브랜드 ‘보글(Vogl)’을 공개했다. 보글(Vogl)은 ‘Voice of Global Languages’의 약자로, ‘말하는 순간을 눈으로 보고 이해하는 경험’을 제공한다는 브랜드 정체성을 담았다. 국내외 시장에서 일관되게 확장할 수 있는 직관적 브랜드로, 기존에 개별 제공되던",
+          "summary": "앤트로픽이 ‘클로드 코드’에 사용자 맞춤형 기능을 구현할 수 있는 ‘모드(Mods)’를 선보였다. 기존 AI 도구들의 천편일률적인 인터페이스와 단조로운 작동 방식을 벗어나, 개발자 개개인의 워크플로우에 최적화된 맞춤형 환경을 제공하기 위한 것이다.앤트로픽은 2일(현지시간) 클로드 코드의 외형과 작동 방식을 사용자가 원하는 대로 바꿀 수 있는 모드 기능을 공개했다.보리스 체르니 클로드 코드 책임자는 \"사람마다 업무 방식이 다르니 모두가 똑같은 클로드 경험을 할 필요는 없다\"라며 \"자신만의 클로드를 만들고, 플러그인 형태로 모드를 공유",
           "keywords": [
-            "플리토",
-            "브랜드",
-            "보글",
-            "글로벌",
-            "통역"
+            "나만의",
+            "클로드",
+            "코드",
+            "만든다",
+            "앤트로픽"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215887",
-          "pubDate": "2026-10-02T18:16:43.000Z",
+          "title": "딥시크, 슈퍼 앱 형태 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
+          "pubDate": "2026-10-03T13:58:48.000Z",
           "image": null,
-          "summary": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B(Strands Decider 2B)’를 공개했다.20억개 매개변수로 구성된 소형 모델로, 문장을 생성하는 대신 정해진 선택지 가운데 하나를 고르고 해당 판단에 대한 확률을 제공하는 것이",
+          "summary": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness)’ v0.2 프리뷰를 출시했다.오픈AI나 앤트로픽처럼 대화와 코드 작성, 다양한 업무를 단일 인터페이스로 집약해 문서와 스프레드시트, PDF를 업로드해 내용을 정리하거나 데이터를 분석하고 차트와 슬라이드를 만드는 것은 물론, 프로젝트의 코드를 수정하",
           "keywords": [
-            "아마존",
-            "에이전트",
-            "전용",
-            "의사결정",
-            "모델"
+            "딥시크",
+            "슈퍼",
+            "형태",
+            "데스크톱",
+            "하네스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215902",
-          "pubDate": "2026-10-02T18:06:21.000Z",
+          "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
+          "pubDate": "2026-10-03T13:34:46.000Z",
           "image": null,
-          "summary": "AI가 생명과학 연구에 활용되면서 기존에 없던 단백질과 유전체를 설계하는 기술도 빠르게 발전하고 있다. 하지만 AI가 만든 생물학적 설계가 실제 실험과 데이터베이스에 활용되면서 그 출처를 확인하고 추적하는 새로운 과제도 등장했다. 구글 딥마인드는 30일(현지시간) AI로 설계한 단백질을 식별하고 추적할 수 있는 생물학 전용 워터마킹 기술 ‘신스ID 바이오(SynthID Bio)’를 공개했다. 신스ID 바이오는 디지털 모델뿐 아니라 실제 합성된 단백질 분자에서도 확인할 수 있는 식별 신호를 단백질에 삽입하는 것이 핵심이다. 단백질 아",
+          "summary": "AI 에이전트 ‘뮤즈(Muse)’의 인기가 급증하는 가운데, 메타가 이를 실제 하드웨어와 연결하는 오픈소스 플랫폼을 공개했다. 개발자와 기술 애호가들이 직접 만든 장치에 뮤즈를 연결하고, 스마트홈 기기와 주변 장치를 AI로 제어할 수 있도록 지원하기 위한 것이다.메타는 2일(현지시간) ‘뮤즈 가젯(Muse Gadgets)’을 공개하고, 자체 제작한 스마트홈 연결 장치 ‘뮤즈 홈 링크(Muse Home Link)’도 선보였다.뮤즈 가젯은 ESP32 보드용 펌웨어와 리눅스용 소프트웨어 개발 키트(SDK)를 제공한다. 개발자는 ESP32",
           "keywords": [
-            "구글",
-            "딥마인드",
-            "AI가",
-            "만든",
-            "단백질"
+            "메타",
+            "오픈소스",
+            "뮤즈",
+            "가젯",
+            "공개"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215916",
-          "pubDate": "2026-10-02T17:58:35.000Z",
+          "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명 양성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215931",
+          "pubDate": "2026-10-03T13:01:41.000Z",
           "image": null,
-          "summary": "보스턴 다이내믹스가 사람 손을 흉내 내는 대신 실용성에 집중한 휴머노이드 로봇 '아틀라스(Atlas)' 전용 네 손가락 로봇 손을 공개했다. 기존 집게형과 달리 사람이 쓰던 전동 공구를 개조 없이 그대로 조작할 수 있는 것이 특징이다.보스턴 다이내믹스는 1일(현지시간) 휴머노이드 로봇 아틀라스에 탑재할 새로운 로봇 손을 공개했다. 사람 손을 그대로 닮게 만드는 대신, 손가락 수와 구동 방식, 센서, 내구성, 제조 비용 등을 종합적으로 고려해 실제 산업 현장에서 다양한 작업을 수행하는 데 초점을 맞췄다.특히 이번에 선보인 로봇 손은",
+          "summary": "앤트로픽이 기업의 AI 도입을 이끌 전방 배치 엔지니어(FDE)를 직접 육성하기 위해 1억달러(약 1347억원)를 투자한다. 기업 현장에서 AI 기술을 실제 업무에 적용할 수 있는 전문 인력이 부족한 상황을 해소하기 위해, 오는 2027년 말까지 1만명의 전문 엔지니어를 양성한다는 계획이다.앤트로픽은 2일(현지시간) ‘클로드 프론티어 아카데미(Claude Frontier Academy)’를 출범하고, 자사의 엔지니어들이 받는 수준의 교육을 기업과 파트너사 엔지니어들에게 제공한다고 밝혔다.첫 교육 과정에는 액센추어, 베인, 캡제미니,",
           "keywords": [
-            "다섯",
-            "손가락",
-            "필요",
-            "없다",
-            "보스턴"
+            "앤트로픽",
+            "클로드",
+            "프론티어",
+            "아카데미",
+            "출범"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:54.172Z",
+      "fetchedAt": "2026-10-03T07:37:04.198Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:54.391Z",
+      "fetchedAt": "2026-10-03T07:37:04.429Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
-          "link": "https://news.hada.io/topic?id=34694",
-          "pubDate": "2026-10-03T00:30:02.000Z",
+          "title": "macOS 전체 디스크 접근 권한 변경 사항",
+          "link": "https://news.hada.io/topic?id=34706",
+          "pubDate": "2026-10-03T07:32:55.000Z",
           "image": null,
-          "summary": "채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 순서대로 저장하고 실시간으로 전달하는 스트림 서버 읽던 위치부터 이어받거나 과거 기록을 다시 읽을 수 있어 실시간 구독과 이벤트 이력 보관에 활용 모든 레코드와 쓰기 복구 로그인 WAL을 S3 호환...",
+          "summary": "Apple은 macOS의 전체 디스크 접근 권한(Full Disk Access) 을 명시적인 사용자 동작으로만 부여할 수 있도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함 일부 개발...",
           "keywords": [
-            "PicoMQ",
-            "S3",
-            "기반",
-            "실시간",
-            "데이터"
+            "macOS",
+            "전체",
+            "디스크",
+            "접근",
+            "권한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Waterfox 6.7.5, 내장 피드 리더 추가",
-          "link": "https://news.hada.io/topic?id=34693",
-          "pubDate": "2026-10-03T00:07:15.000Z",
+          "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
+          "link": "https://news.hada.io/topic?id=34705",
+          "pubDate": "2026-10-03T07:25:22.000Z",
           "image": null,
-          "summary": "피드 관리자와 내장 리더가 추가되어 Live Bookmarks의 게시물을 한곳에 모아 탐색하고, 지원되는 피드 콘텐츠를 브라우저 안에서 읽을 수 있음 전체 피드, 북마크 폴더, 개별 구독별로 게시물을 살펴보고 검색과 읽지 않은 글 필터, 목록/격자 보기로 정리할 수 있...",
+          "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다. ALPS Writer: 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
           "keywords": [
-            "Waterfox",
-            "내장",
-            "피드",
-            "리더",
-            "추가"
+            "Show",
+            "GN:",
+            "ALPS",
+            "Writer",
+            "ADR"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "실제 RFC 1149 패킷이 경매에 출품됨",
-          "link": "https://news.hada.io/topic?id=34692",
-          "pubDate": "2026-10-03T00:04:15.000Z",
+          "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
+          "link": "https://news.hada.io/topic?id=34704",
+          "pubDate": "2026-10-03T06:34:35.000Z",
           "image": null,
-          "summary": "2001년 전서구로 실제 전송한 IP/ICMP ‘ping’ 패킷 인쇄물 한 점이 Christie’s 경매에 출품됨 RFC 1149는 David Waitzman이 1990년 만우절에 작성한 문서로, 비둘기로 인터넷 패킷을 전송하는 방법을 진지한 기술 문체로 기술함 노르웨이 Berg...",
+          "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅할 수 있게 됨. WFI/WFIT 명령 실행 시 충돌을 막는 변경이 메인라인 Linux와 m1n1에 병합됨 M4에서는 WFI 실행 시 CPU 상태가 손실되는 동작을 기존 세대처럼 끄기 어려웠음. 이를 제어하던 비트가 잠겼거...",
           "keywords": [
-            "실제",
-            "RFC",
-            "1149",
-            "패킷이",
-            "경매에"
+            "잊어버리는",
+            "CPU(M4에서",
+            "Linux",
+            "구동하기)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "정보 대부분이 숨겨진 게임 Stratego, 이제야 AI가 벽을 넘었다",
-          "link": "https://news.hada.io/topic?id=34690",
-          "pubDate": "2026-10-02T23:52:28.000Z",
+          "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
+          "link": "https://news.hada.io/topic?id=34703",
+          "pubDate": "2026-10-03T06:11:47.000Z",
           "image": null,
-          "summary": "Ataraxos가 역대 최고 Stratego 선수로 꼽히는 Pim Niemeijer를 상대로 15승 1패 4무를 기록함 상대 기물의 정체를 추정하는 별도 신경망인 믿음 모델(belief model) 을 도입해, 가능한 배치 일부를 표본으로 뽑고 수를 미리 탐색할 수 있게 함...",
+          "summary": "안녕하세요. 학교에서 이런 저런 강의하는 사람입니다. 강의나 영상을 녹화하면서 내 PC 화면을 보여야 할 때 뭔가 이것 저것 많으면 복잡스러운데 바탕화면에 뭐 안보이게 숨기는 프로그램입니다. 배경 보통 바탕화면의 아이콘하고, 메뉴 막대 (날짜 / 시간,",
           "keywords": [
-            "정보",
-            "대부분이",
-            "숨겨진",
-            "게임",
-            "Stratego"
+            "Show",
+            "GN:",
+            "soom",
+            "바탕화면",
+            "깔끔한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "별과 그 주위를 도는 네 행성을 12년에 걸쳐 촬영한 망원경 연속 이미지",
-          "link": "https://news.hada.io/topic?id=34689",
-          "pubDate": "2026-10-02T23:49:28.000Z",
+          "title": "Muse Gadgets",
+          "link": "https://news.hada.io/topic?id=34702",
+          "pubDate": "2026-10-03T05:33:52.000Z",
           "image": null,
-          "summary": "실제 망원경 이미지를 시간 순서로 이어 별과 그 주위를 공전하는 네 행성의 움직임을 보여줌 촬영 대상인 별은 133광년 떨어져 있음 연속 이미지에는 12년간의 관측이 담겨 있음 외계행성 네 개가 별 주위를...",
+          "summary": "Muse Gadgets는 ESP32 보드나 Raspberry Pi 등에 SDK를 설치해 Muse를 디스플레이, 버튼, 센서, 액추에이터와 연결하는 직접 제작형 오픈소스 기기임 ESP32 Device SDK는 화면의 이미지 표시, 오디오 입출력, 센서 연결을 지원함 Linux Device SD...",
           "keywords": [
-            "별과",
-            "주위를",
-            "도는",
-            "행성을",
-            "12년에"
+            "Muse",
+            "Gadgets"
           ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
+          "isForeign": true,
+          "titleKo": "뮤즈 가젯",
+          "summaryKo": "Muse Gadgets는 ESP32 보드나 Raspberry Pi 등에 SDK를 설치해 Muse를 디스플레이,버튼,센서, 액추에이터와 연결하는 직접 제작형 오픈소스 기기임 ESP32 Device SDK는 화면의 이미지 표시,오디오 입출력, 센서 연결을 지원함 Linux Device SD..."
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:55.063Z",
+      "fetchedAt": "2026-10-03T07:37:07.241Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +525,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:55.419Z",
+      "fetchedAt": "2026-10-03T07:37:07.526Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +599,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:55.631Z",
+      "fetchedAt": "2026-10-03T07:37:07.749Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +680,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T00:56:55.730Z",
+      "fetchedAt": "2026-10-03T07:37:07.792Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -783,7 +779,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T00:57:01.740Z",
+      "fetchedAt": "2026-10-03T07:37:19.593Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -873,7 +869,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T00:57:02.025Z",
+      "fetchedAt": "2026-10-03T07:37:19.865Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +965,7 @@
           "summaryKo": "클레이 공동 창업자 겸 CEO인 카림 아민 (Kareem Amin) 이 AI 스테이지에 합류하여 TechCrunch Disrupt 2026에서 GTM 엔지니어의 부상에 대해 논의합니다. 티켓을 등록하고 50% 할인된 가격에 두 번째 패스를 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-03T00:57:02.136Z",
+      "fetchedAt": "2026-10-03T07:37:19.975Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T00:57:04.460Z",
+      "fetchedAt": "2026-10-03T07:37:26.230Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1077,11 +1073,28 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” - 문화일보",
+          "title": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 - metroseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fOVgtUFNzSng4dm52QkkwR0dpbTRGTXhuWjdrWXhEWTAxQklHRFFxcjlaSXdtT1p4dEptWGg2Uk9YUkdrMVFTOENrUUMyRVFOVFJkNmpmRnRXVVBUS0JSSg?oc=5",
+          "pubDate": "2026-10-03T00:10:53.000Z",
+          "image": null,
+          "summary": "경남TP, ‘스마트 공장 기초 구축 사업’ 참가社 추가 모집 metroseoul.co.kr",
+          "keywords": [
+            "경남TP",
+            "스마트",
+            "공장",
+            "기초",
+            "구축"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” - munhwa.com",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yS2lRelp1VlU0N2I3U1NLR2xxUkFUOVhLTG5CX01DNThCaXBtcTFEUjVSd0tnaC1wOFNZU3FhTDVwQ3hWNlF6TTdFU0ZfSUJq?oc=5",
           "pubDate": "2026-10-01T21:49:38.000Z",
           "image": null,
-          "summary": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” 문화일보",
+          "summary": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” munhwa.com",
           "keywords": [
             "동작구",
             "청석창업지원센터",
@@ -1094,17 +1107,34 @@
           "summaryKo": null
         },
         {
-          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - kihoilbo.co.kr",
+          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - 기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYkJXbTh1TjNzenFxZmE0ODVBVU9EMUVFVzJ6WW5pcDlTNmFWN3NuTXk0dFRjb3ZHTUV3bzlfRGlsNXJQRFhDNldqanplNy1zUWpHeDNqRWI3eTZ5bVhZa2IwcEVDTUFJai15dnRQOA?oc=5",
           "pubDate": "2026-09-30T07:10:14.000Z",
           "image": null,
-          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 kihoilbo.co.kr",
+          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 기호일보",
           "keywords": [
             "화성산업진흥원",
             "하반기",
             "마케팅",
             "활성화",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 - vegannews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOFl3bVNVSW51aWktVGNLRzJ6VFd4bC1yVkdRY3VFVm93VVAxblhPbEV6VW9aT3NmS0hEVV9VWmdMVEpMTDA2TkV4VzlYX2JwRl9hRnoxN0RqSFk5eXdSQXJyUURBUQ?oc=5",
+          "pubDate": "2026-10-03T06:39:48.000Z",
+          "image": null,
+          "summary": "청년 지원사업 나이, 공고일·신청일 기준부터 확인 vegannews.co.kr",
+          "keywords": [
+            "청년",
+            "지원사업",
+            "나이",
+            "공고일",
+            "신청일"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1126,43 +1156,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "음식물처리기 지원사업, 주소지·인증 기준 확인 - 비건뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSakpkRXdCRnp2RmpWWlBaM2JIV3l2eTFBLTB4WnA3eVJsdmRyUVhLX25RVWRwNXdpcUVlbkJ1QmJxZ0h0RFJOV3luR0VqYVBMcjdoLV9wZWJhM0ludVlLMTZyZXZMUQ?oc=5",
-          "pubDate": "2026-10-02T18:33:01.000Z",
-          "image": null,
-          "summary": "음식물처리기 지원사업, 주소지·인증 기준 확인 비건뉴스",
-          "keywords": [
-            "음식물처리기",
-            "지원사업",
-            "주소지",
-            "인증",
-            "기준"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
-          "pubDate": "2026-10-01T01:28:00.000Z",
-          "image": null,
-          "summary": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌",
-          "keywords": [
-            "남해군",
-            "스마트공장",
-            "지원사업",
-            "추가",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T00:57:04.903Z",
+      "fetchedAt": "2026-10-03T07:37:26.650Z",
       "error": null
     }
   },
@@ -1172,63 +1168,63 @@
       "label": "TIPS",
       "count": 3,
       "rank": 1,
-      "change": "up"
+      "change": "same"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
     },
     {
       "key": "m&a",
       "label": "M&A",
       "count": 2,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
-      "key": "추가",
-      "label": "추가",
+      "key": "성과",
+      "label": "성과",
       "count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
       "rank": 9,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "ai에이전트",
