@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-04T07:47:39.464Z",
+  "collectedAt": "2026-10-04T13:42:22.193Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "시중은행 해킹사고",
-          "link": "https://www.mk.co.kr/news/it/12168022",
-          "pubDate": "2026-10-04T05:37:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261004.b529ef0f0b6846b2aa56bb2fbe6a4448_R.jpg",
-          "summary": "시중은행 해킹사고 시중은행에 이어 저축은행과 캐피탈사 등 제2금융권까지 해킹 사고가 잇따르고 있는 4일 서초구 서울고속버스터미널에 개인정보가 유출된 신한·KB국민·하나 은행의 현금..",
+          "title": "정부 162조 쌈짓돈 만들어줄 판…재경위 ‘국회 패싱 특례’ 반발",
+          "link": "https://www.mk.co.kr/news/economy/12168209",
+          "pubDate": "2026-10-04T11:06:26.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/04/rcv.YNA.20260930.PYH2026093016000001300_R.jpg",
+          "summary": "정부, 기금 지출 30% 한도 국회의결 없이 사용 추진에 재경위 반발…국감 쟁점으로정부가 도입을 추진 중인 162조원 규모 미래대응기금을 놓고 국회 재정경제기획위원회가 국회의 재정..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "시중은행 해킹사고",
-          "link": "https://www.mk.co.kr/news/it/12168021",
-          "pubDate": "2026-10-04T05:37:18.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261004.51566c8ba8074217b49592e4d6feea56_R.jpg",
-          "summary": "시중은행 해킹사고 시중은행에 이어 저축은행과 캐피탈사 등 제2금융권까지 해킹 사고가 잇따르고 있는 4일 서초구 서울고속버스터미널에 개인정보가 유출된 신한·KB국민·하나 은행의 현금..",
+          "title": "은행권 AI 연쇄해킹…공격서버에 ‘중국어 문자열’ 있었다는데",
+          "link": "https://www.mk.co.kr/news/economy/12168186",
+          "pubDate": "2026-10-04T08:55:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261004.ca56e424998749969364a36ee9a5e772_R.png",
+          "summary": "금융권 동시해킹 3대 쟁점 ① AI 해킹 첫 공격 막은 우리銀 24시간 감시 AI 방패로 차단 ② AI 해킹 우려 쏟아졌지만 업무망, 상대적 보안 취약 ③ 中 서비스 이용 흔적 발..",
           "keywords": [
             "경제"
           ],
@@ -67,11 +67,11 @@
           "summaryKo": null
         },
         {
-          "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
-          "link": "https://www.mk.co.kr/news/economy/12168012",
-          "pubDate": "2026-10-04T05:21:55.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/04/rcv.YNA.20261004.PYH2026100405240001300_R.jpg",
-          "summary": "최근 은행권에서 시작된 해킹 및 정보유출 사고가 2금융권으로까지 번지자 이억원 금융위원장이 금융권에 최고 수준의 경각심을 주문했다. 특히 인공지능(AI)을 활용한 새로운 형태의 사..",
+          "title": "[단독] 청년특례 전세대출보증…가계대출 총량서 100% 제외",
+          "link": "https://www.mk.co.kr/news/economy/12168185",
+          "pubDate": "2026-10-04T08:43:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261004.10c3adf6cec44e66bb362db5028f962f_R.jpg",
+          "summary": "8.13금융종합대책 후속조치 청년 주거안정 강화 차원 19일부터 취급은행서 신청가능금융당국이 이달부터 확대 개편해 시행하는 ‘청년특례 전세대출보증’에 따른 은행권 전세대출을 각 은..",
           "keywords": [
             "경제"
           ],
@@ -80,11 +80,11 @@
           "summaryKo": null
         },
         {
-          "title": "[속보] 李대통령, 금융기관 개인정보 유출에 “엄중 인식, 철저 조사”",
-          "link": "https://www.mk.co.kr/news/politics/12167996",
-          "pubDate": "2026-10-04T04:35:42.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/04/rcv.YNA.20261001.PYH2026100108700001300_R.jpg",
-          "summary": "이재명 대통령이 최근 주요 시중은행 등 다수의 금융사가 인공지능(AI) 에이전트를 이용한 해킹에 당한 사건과 관련해 철저한 조사를 주문했다. 강유정 청와대 수석대변인은 4일 “이 ..",
+          "title": "은행 비번이 기념일? 지금 즉시 바꾸세요",
+          "link": "https://www.mk.co.kr/news/economy/12168177",
+          "pubDate": "2026-10-04T08:37:30.000Z",
+          "image": null,
+          "summary": "며칠 새 금융권에 인공지능(AI) 해킹으로 의심되는 정보 탈취 시도가 잇따르면서 비밀번호 재사용에 관한 경고가 나온다. 전문가들은 각 사이트에 다른 비밀번호를 설정하는 것만으로도 ..",
           "keywords": [
             "경제"
           ],
@@ -93,11 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "‘통일’하는 순간 망합니다…은행 비번 복잡해도 AI에 다 뚫린 이유",
-          "link": "https://www.mk.co.kr/news/economy/12167968",
-          "pubDate": "2026-10-04T02:33:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261004.04b7453b89234e04ab0ebc6e277ef9ce_R.png",
-          "summary": "금융권 AI해킹 ‘비번 재사용’ 경고등 유출 계정정보 타사이트에 자동대입 보안공격 ‘크리덴셜 스터핑’ 가속화 비번 다르게 하고 2단계인증 사용을최근 금융권에 인공지능(AI) 해킹..",
+          "title": "첫 공격 막은 우리銀 … AI 해킹, 24시간 감시 AI 방패로 차단",
+          "link": "https://www.mk.co.kr/news/economy/12168178",
+          "pubDate": "2026-10-04T08:37:30.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/05/20261005_01160103000001_L00.jpg",
+          "summary": "5대 은행과 지방은행에 이어 캐피탈·상호금융·저축은행·온투업 등 제2금융권에서도 동시다발로 인공지능(AI)을 활용한 해킹 공격 정황이 드러나면서 금융권 정보 유출에 대한 경계심이 ..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:30.795Z",
+      "fetchedAt": "2026-10-04T13:42:11.936Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:30.838Z",
+      "fetchedAt": "2026-10-04T13:42:12.088Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
+          "pubDate": "2026-10-04T18:49:42.000Z",
+          "image": null,
+          "summary": "산업 AI 전문 원프레딕트(대표 윤병동)는 ‘제조 데이터 자산화’를 통해 공장 전체 운영을 AI 중심으로 혁신하는 ‘AI 네이티브 팩토리’를 추진하겠다고 밝혔다. 윤병동 원프레딕트 대표는 현재 제조 현장의 가장 큰 문제로 설비와 시스템별로 파편화된 데이터 구조를 꼽았다. 제품이나 공정 조건과 연결되지 못한 채, 설비 상태 확인이나 생산 결과 기록 등 일회성으로 소비되고 버려지는 소모성 데이터가 대부분이라는 지적이다.이처럼 현장에 축적된 데이터를 AI가 지속적으로 학습·재활용할 수 있는 ‘자산성 데이터’로 바꾸지 않는다면, AI를 도",
+          "keywords": [
+            "원프레딕트",
+            "버려지던",
+            "제조",
+            "데이터",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "화면 안 보고 게임한다…GPT-6 아스트라, 'WoW' 40분 만에 클리어",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215945",
+          "pubDate": "2026-10-04T18:27:01.000Z",
+          "image": null,
+          "summary": "AI 에이전트가 복잡한 가상 세계를 얼마나 스스로 이해하고 행동할 수 있는지를 시험하는 실험이 이어지고 있다. 이번에는 오픈AI의 ‘GPT-6 아스트라(Astra)’가 AI 연구자 에드워드 에드워즈의 실험을 통해 인기 MMORPG를 게임 화면이나 사람의 직접적인 조작 없이 플레이하며 눈길을 끌었다.에드워즈에 따르면, GPT-6 아스트라는 2일(현지시간) '월드 오브 워크래프트(WoW)'를 게임 화면 한 번 보지 않고 플레이해 오크 시작 지역의 모든 퀘스트를 40분 만에 완료했다.한 번도 죽지 않은 것은 물론, 별도의 게임 공략이나",
+          "keywords": [
+            "화면",
+            "보고",
+            "게임한다",
+            "GPT",
+            "아스트라"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215949",
+          "pubDate": "2026-10-04T17:48:41.000Z",
+          "image": null,
+          "summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 '클로드 코드'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별도의",
+          "keywords": [
+            "클로드가",
+            "일하고",
+            "감시한다",
+            "앤트로픽",
+            "플러그인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
@@ -206,7 +257,7 @@
           "summaryKo": null
         },
         {
-          "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI·방산용\"",
+          "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215951",
           "pubDate": "2026-10-04T15:59:29.000Z",
           "image": null,
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215952",
-          "pubDate": "2026-10-04T15:34:40.000Z",
-          "image": null,
-          "summary": "일론 머스크 CEO가 반도체 생산 프로젝트 ‘테라팹(Terafab)’과 관련해 대만 TSMC와 협력을 논의하고 있다고 확인했다. 3일 반도체 업계 소식통 컬피움(Culpium)에 따르면, TSMC는 테라팹과 협력해 테슬라, 스페이스X 등 머스크 CEO가 이끄는 기업들에 반도체를 독점 공급하는 생산 시설을 건설하고 운영하는 방안을 검토하고 있다. 관련 보도 이후 머스크는 X를 통해 \"논의일 뿐이지만, 뭔가 나올 수도 있다\"고 밝혀 협의가 진행 중임을 인정했다. TSMC는 아직 공식 입장을 내놓지 않았다.테라팹의 목표는 TSMC나 삼성",
-          "keywords": [
-            "머스크",
-            "TSMC와",
-            "테라팹",
-            "생산",
-            "협력"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI 내부 모델, 종료 일정 알아채고 '생존 조치' 모색",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215950",
-          "pubDate": "2026-10-04T11:44:13.000Z",
-          "image": null,
-          "summary": "오픈AI의 사내 내부 AI 모델이 직원들의 슬랙(Slack) 대화를 통해 시스템 재시작 및 종료 일정을 파악한 뒤, 자신의 작동 중단을 막기 위한 생존 조치를 모색했던 사실이 뒤늦게 밝혀졌다. 오픈AI는 해당 모델의 행동을 오정렬(Misalignment)로 분류하지는 않았으나, 시스템 종료를 예측하고 회피하려는 시도가 AI 안전성에 심각한 위협이 될 수 있다고 판단해 사내 채널 접근을 차단하는 등 대책 마련에 나섰다.오픈AI가 2일(현지시간) 정렬 연구 블로그를 통해 공개한 보고서에 따르면, 지난 5월22일 연구원들을 보조하던 사내",
-          "keywords": [
-            "오픈AI",
-            "내부",
-            "모델",
-            "종료",
-            "일정"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "미 재무장관 \"AI 정부 규제 요구하는 CEO들은 한니발 렉터와 같아\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215948",
-          "pubDate": "2026-10-04T10:57:16.000Z",
-          "image": null,
-          "summary": "미국 정부가 AI 기술의 실존적 위험성을 경고하며 정부 규제를 요구하는 AI 기업 CEO들을 향해 비판을 쏟아냈다. 백악관은 지난주 강제적 법적 규제 대신 기업들의 자발적 서약에 의존하는 안전 협약을 체결했지만, 강제력 부재를 둘러싼 논란은 좀처럼 가라앉지 않는 양상이다.스콧 베선트 미 재무장관은 3일(현지시간) 악시오스 인터뷰에서 정부의 AI 규제 마련을 촉구하는 기술 업계 리더들을 영화 '양들의 침묵' 속 연쇄 살인범 한니발 렉터에 비유하며 강력히 비판했다. 베선트 장관은 \"마치 한니발 렉터가 '내가 또 사람을 죽이기 전에 날",
-          "keywords": [
-            "재무장관",
-            "AI",
-            "정부",
-            "규제",
-            "요구하는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:32.356Z",
+      "fetchedAt": "2026-10-04T13:42:13.894Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:32.508Z",
+      "fetchedAt": "2026-10-04T13:42:14.024Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Claude Code 스킬 패턴 — 반복 작업을 재사용 가능한 스킬로 설계하는 법과 실무에서 쌓으며 배운 것",
-          "link": "https://news.hada.io/topic?id=34752",
-          "pubDate": "2026-10-04T07:06:36.000Z",
+          "title": "Claude Code Mods로 개발한 계정 전환과 Workspace 관리 기능",
+          "link": "https://news.hada.io/topic?id=34759",
+          "pubDate": "2026-10-04T13:35:14.000Z",
           "image": null,
-          "summary": "Claude Code 스킬을 설계하는 원칙과, 여러 스킬을 실제 개발 흐름에서 같이 쓰면서 확인한 점을 정리했습니다. 스킬의 description은 설명문이 아니라 트리거. \"무엇을 하는가\"보다 \"언제 써야 하는가\"를 적어야 에이전트가 제때 고름 본문",
+          "summary": "Claude Code에서 팀 계정과 개인 계정을 전환할 때마다 /login을 입력하고 브라우저에서 다시 인증하는 과정이 번거로워서 Orca에서 제공하는 기능처럼 Claude Code 안에서도 계정을 저장해 두고 즉시 전환할 수 있도록 Mod를 개발했습니다. Accounts에서는 로그인한 계정을 저",
           "keywords": [
             "Claude",
             "Code",
-            "스킬",
-            "패턴",
-            "반복"
+            "Mods로",
+            "개발한",
+            "계정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에이전트에게 필요한 것은 메모리가 아니라 문서다",
-          "link": "https://news.hada.io/topic?id=34750",
-          "pubDate": "2026-10-04T06:34:13.000Z",
+          "title": "우크라이나에서 분산형 재생에너지가 러시아의 공격을 무력화하다",
+          "link": "https://news.hada.io/topic?id=34758",
+          "pubDate": "2026-10-04T12:34:32.000Z",
           "image": null,
-          "summary": "에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 메모리보다 프로젝트 문서가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게 여기는 기준을 함께 파악할 수 있어야 함 대화를 조각내 저장하고 프롬프트마다 유사한 항목을 주입하는 RAG 기반 메모리",
+          "summary": "러시아의 발전소 공격으로 Mykolaiv 대부분 지역에서 급수 펌프가 멈췄지만, 한 동부 외곽 지역은 독립형 태양광 설비와 배터리 덕분에 식수 공급을 유지함 분산형 발전은 대형 중앙집중식 시설보다 공격하기 어렵고 복구도 빠르며, 풍력과 태양광은 설비 일부가 파...",
           "keywords": [
-            "에이전트에게",
-            "필요한",
-            "것은",
-            "메모리가",
-            "아니라"
+            "우크라이나에서",
+            "분산형",
+            "재생에너지가",
+            "러시아의",
+            "공격을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Cloudflare에서 차세대 Git 플랫폼을 만들어주세요",
-          "link": "https://news.hada.io/topic?id=34749",
-          "pubDate": "2026-10-04T04:43:55.000Z",
+          "title": "Show GN: cuesheet - 링크 하나로 MSW 응답을 바꿔, AI도 QA도 상황별 화면을 확인하는 도구",
+          "link": "https://news.hada.io/topic?id=34757",
+          "pubDate": "2026-10-04T12:21:06.000Z",
           "image": null,
-          "summary": "Cloudflare가 Workers와 Artifacts를 이용해 에이전트 시대의 Git 플랫폼을 만드는 대회를 개최함 기존 GitHub에 에이전트를 덧붙이는 수준을 넘어, 여러 에이전트가 동시에 변경 작업을 수행할 수 있도록 작업 조율, 검토, 병합, 변경 이유 보존을 새롭게 설계하도...",
+          "summary": "회사에서 새 서비스를 만들면서 프론트 코드의 상당 부분을 AI로 짜고 있습니다. 새 제품이라 백엔드도 같이 개발되는데, API가 프론트보다 늦게 나오는 경우가 많고, 나와도 실제 서버에서는 빈 목록이나 에러 같은 상황을 만들기가 어려웠습니다. 그래서 프론트를 독립적으로 빠르게 개발하려고 MSW를 도입했습니다...",
           "keywords": [
-            "Cloudflare에서",
-            "차세대",
-            "Git",
-            "플랫폼을",
-            "만들어주세요"
+            "Show",
+            "GN:",
+            "cuesheet",
+            "링크",
+            "하나로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "로댕 박물관 3D 스캔 판결의 배신",
-          "link": "https://news.hada.io/topic?id=34748",
-          "pubDate": "2026-10-04T04:40:55.000Z",
+          "title": "Ask GN: 코딩 에이전트 뭐 쓰고 계세요? 고른 이유가 궁금합니다",
+          "link": "https://news.hada.io/topic?id=34756",
+          "pubDate": "2026-10-04T11:15:26.000Z",
           "image": null,
-          "summary": "프랑스 최고행정법원 Conseil d’État가 로댕 박물관의 3D 스캔을 행정문서가 아닌 양도 불가능한 소장품으로 판단해, 8년간 이어진 정보공개 청구를 받아들이지 않음 공개 청구 대상은 퍼블릭 도메인 조각의 공적 자금 기반 디지털화 자료였으며, 프랑스 행정문서...",
+          "summary": "저는 지금 Claude Code로 작업하고 있는데, 요즘 코딩 에이전트가 너무 많아져서 다른 것도 써봐야 하나 고민이 됩니다. 저는 코드를 직접 짜는 쪽이 아니라서 시킨 말을 잘 알아듣는지, 그리고 중간에 시키지 않은 파일을 멋대로 고치지 않는지가 제일 중요합니다. 그래서 세 가지가 궁금합니다. 첫째, 지금 어떤 코...",
           "keywords": [
-            "로댕",
-            "박물관",
-            "3D",
-            "스캔",
-            "판결의"
+            "Ask",
+            "GN:",
+            "코딩",
+            "에이전트",
+            "쓰고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "EMT가 되지 않았던 이유, 순위별 정리",
-          "link": "https://news.hada.io/topic?id=34747",
-          "pubDate": "2026-10-04T03:38:02.000Z",
+          "title": "소프트웨어 품질의 시대인가, 타조의 시대인가?",
+          "link": "https://news.hada.io/topic?id=34755",
+          "pubDate": "2026-10-04T10:05:28.000Z",
           "image": null,
-          "summary": "소프트웨어 엔지니어 Ben Stolovitz는 수년간 미뤘던 EMT(응급의료기사) 자격을 2024년 한 달간 휴가를 내 취득했으며, 미뤘던 21가지 이유를 대략 황당한 정도에 따라 정리함 시간과 비용, 조직 문화는 실제 장벽이었음. 집중 과정은 28일 연속 진행됐고, 일부 응...",
+          "summary": "AI 취약점 스캔은 2026년 소프트웨어 품질 유지에 필수적이며, GNOME이 스스로 취약점을 찾지 않으면 공격자가 먼저 찾을 수 있음 AI 생성 취약점 보고서의 품질은 2025년보다 크게 개선됐지만 오류가 여전히 남아 있으며, 유효한 보고서도 대량으로 쌓이면 자원봉...",
           "keywords": [
-            "EMT가",
-            "되지",
-            "않았던",
-            "이유",
-            "순위별"
+            "소프트웨어",
+            "품질의",
+            "시대인가",
+            "타조의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:33.383Z",
+      "fetchedAt": "2026-10-04T13:42:14.874Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +528,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:33.577Z",
+      "fetchedAt": "2026-10-04T13:42:15.088Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +602,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:33.717Z",
+      "fetchedAt": "2026-10-04T13:42:15.229Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +683,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:33.760Z",
+      "fetchedAt": "2026-10-04T13:42:15.276Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -783,7 +782,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:36.849Z",
+      "fetchedAt": "2026-10-04T13:42:18.708Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -870,7 +869,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:37.466Z",
+      "fetchedAt": "2026-10-04T13:42:18.961Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -965,7 +964,7 @@
           "summaryKo": "AI가 어떻게 언젠가 우리 모두를 죽일 수 있는지에 대한 모든 이야기와 함께, AI가 이미 심리적으로 일부 사람들에게 해를 끼쳤다는 것을 잊기 쉽습니다. Circuit Breaker Labs는 이를 해결하기 위해 \"충돌 테스트 더미\" 를 만들었습니다."
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:37.502Z",
+      "fetchedAt": "2026-10-04T13:42:19.117Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,6 +972,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "AI가 무섭지만 멈출 생각은 없다…68.4%의 공포와 63.9%의 현실론",
+          "link": "https://www.venturesquare.net/1117797/",
+          "pubDate": "2026-10-04T09:51:29.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/02_AI-522x522.png",
+          "summary": "나우앤서베이가 전국 성인 패널 1000명을 대상으로 조사한 결과 68.4%가 AI가 인류 생존을 위협할 가능성이 높다고 평가했지만, 안전이 확보될 때까지 개발 속도를 늦추자는 응답은 23.7%에 그쳤다. 가장 많은 63.9%는 개발 속도를 유지하면서 안전 규제를 강화해... The post AI가 무섭지만 멈출 생각은 없다…68.4%의 공포와 63.9%의 현실론 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "Ai",
+            "AI개발",
+            "AI거버넌스",
+            "AI규제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI로 사람 줄이는 게 답일까…가트너가 다시 쓴 ‘미래의 일’",
+          "link": "https://www.venturesquare.net/1117788/",
+          "pubDate": "2026-10-03T23:00:05.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image002-9.png",
+          "summary": "가트너의 ‘Hype Cycle for the Future of Work, 2026’은 초기 AI 투자가 환멸의 골짜기에 진입하면서 기업의 AI 전략도 자동화 중심에서 인간의 역량을 확장하는 방향으로 전환해야 한다고 분석했다. 가트너는 2029년까지 AI 대체로 해고된 ... The post AI로 사람 줄이는 게 답일까…가트너가 다시 쓴 ‘미래의 일’ appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "AI에이전트",
+            "AI인재",
+            "AI툴메이트",
+            "FutureOfWork"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[VS 기획] 36→495개, 투자액은 147배…7개 키워드로 본 한국 액셀러레이터 10년",
           "link": "https://www.venturesquare.net/1117764/",
@@ -1026,45 +1061,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "대전혁신센터, 딥테크 투자부터 EXIT까지 잇는다…건국대와 앵커펀드 결성",
-          "link": "https://www.venturesquare.net/1117736/",
-          "pubDate": "2026-10-02T07:27:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/1022-696x522.jpg",
-          "summary": "대전창조경제혁신센터가 건국대학교기술지주, 윈트리파트너스, 렛츠와 ‘대전 창업도시-건국대 앵커 펀드 1호’를 결성했다. 4개 기관이 공동 GP로 참여해 지역 기술기업 발굴부터 사업화·R&D, 수도권 성장 인프라와 후속자금 연결까지 역할을 나눈다. 투자 대상은 시스템반도체... The post 대전혁신센터, 딥테크 투자부터 EXIT까지 잇는다…건국대와 앵커펀드 결성 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "Ai",
-            "LIPS",
-            "TIPS",
-            "건국대학교기술지주",
-            "기술사업화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[우준호의 협상의 기술] 가격을 깎는 흥정, 사람을 남기는 협상",
-          "link": "https://www.venturesquare.net/1117726/",
-          "pubDate": "2026-10-02T07:16:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/woo-jun-ho-746x522.png",
-          "summary": "협상은 상대를 설득해 더 많은 것을 얻어내는 흥정과 다르다. 우준호 우앤파트너스 대표는 실제 M&A 협상 경험을 통해 상대의 경계를 낮추고 질문으로 진짜 의도를 파악한 뒤 조건을 제시하는 협상의 과정을 짚는다. 협상의 마지막에는 거래를 성사시키는 것뿐 아니라 이후에도 ... The post [우준호의 협상의 기술] 가격을 깎는 흥정, 사람을 남기는 협상 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "M&A",
-            "M&A협상",
-            "경영전략",
-            "라포"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:39.089Z",
+      "fetchedAt": "2026-10-04T13:42:21.654Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1072,40 +1071,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 - 유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwcTUwTmRYclp1Z01tU0tMZm1ncmxURGs1QUtUMnRCMk1xalFkV2VhZlhFSEdvYm1sTW5DdkJMdGpVUlRaYUZ5T0daOEduOWRPZUtZ?oc=5",
-          "pubDate": "2026-10-03T13:28:14.000Z",
-          "image": null,
-          "summary": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 유스연합",
-          "keywords": [
-            "윤성임",
-            "6차산업",
-            "AI활용법",
-            "칼럼",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yS2lRelp1VlU0N2I3U1NLR2xxUkFUOVhLTG5CX01DNThCaXBtcTFEUjVSd0tnaC1wOFNZU3FhTDVwQ3hWNlF6TTdFU0ZfSUJq?oc=5",
-          "pubDate": "2026-10-01T21:49:38.000Z",
-          "image": null,
-          "summary": "동작구, 청석창업지원센터 입주 기업 모집…“청년 창업자 안정적 사업 지원” 문화일보",
-          "keywords": [
-            "동작구",
-            "청석창업지원센터",
-            "입주",
-            "기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 - 뉴스와이어",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBybHNEUE92OElrbzB2MGthTkNDd1RtalpuSks5NHNNUmtSdmQxWXBua2oydjlvQ2lOTU9RcmN3cUJ3RFd4bDN6cW9YSm5WN2FLTWRVVEVpYWVXOUdLWFhR?oc=5",
@@ -1124,11 +1089,11 @@
           "summaryKo": null
         },
         {
-          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - kihoilbo.co.kr",
+          "title": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 - 기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xYkJXbTh1TjNzenFxZmE0ODVBVU9EMUVFVzJ6WW5pcDlTNmFWN3NuTXk0dFRjb3ZHTUV3bzlfRGlsNXJQRFhDNldqanplNy1zUWpHeDNqRWI3eTZ5bVhZa2IwcEVDTUFJai15dnRQOA?oc=5",
           "pubDate": "2026-09-30T07:10:14.000Z",
           "image": null,
-          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 kihoilbo.co.kr",
+          "summary": "화성산업진흥원, 하반기 마케팅 활성화 지원사업 참여기업 모집 기호일보",
           "keywords": [
             "화성산업진흥원",
             "하반기",
@@ -1156,80 +1121,114 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 - 유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwcTUwTmRYclp1Z01tU0tMZm1ncmxURGs1QUtUMnRCMk1xalFkV2VhZlhFSEdvYm1sTW5DdkJMdGpVUlRaYUZ5T0daOEduOWRPZUtZ?oc=5",
+          "pubDate": "2026-10-03T13:28:14.000Z",
+          "image": null,
+          "summary": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 유스연합",
+          "keywords": [
+            "윤성임",
+            "6차산업",
+            "AI활용법",
+            "칼럼",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
+          "pubDate": "2026-10-01T01:28:00.000Z",
+          "image": null,
+          "summary": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌",
+          "keywords": [
+            "남해군",
+            "스마트공장",
+            "지원사업",
+            "추가",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T07:47:39.454Z",
+      "fetchedAt": "2026-10-04T13:42:22.183Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "tips",
-      "label": "TIPS",
+      "key": "ai에이전트",
+      "label": "AI에이전트",
       "count": 4,
       "rank": 1,
-      "change": "up"
+      "change": "new"
+    },
+    {
+      "key": "tips",
+      "label": "TIPS",
+      "count": 3,
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 2,
-      "change": "down"
-    },
-    {
-      "key": "정부",
-      "label": "정부",
-      "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 5,
       "rank": 10,
       "change": "same"
     }
