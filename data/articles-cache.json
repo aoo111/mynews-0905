@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-03T20:37:21.041Z",
+  "collectedAt": "2026-10-04T00:22:16.406Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“포켓몬 카드 사줄 때가 아니네”…금리 7% 챙기는 아이통장 뭐길래",
+          "link": "https://www.mk.co.kr/news/economy/12167910",
+          "pubDate": "2026-10-04T00:21:27.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261002.c046bab59a8042a68fd112b0bef75804_R.jpg",
+          "summary": "성인까지 거래 이어가기 노려 카뱅, 출시 10개월새 80만명 인뱅 청소년 이용자 급증하자 시중銀도 특화상품 경쟁 가세은행권이 미성년 고객 선점 경쟁에 나서고 있다. 어린 자녀의 첫..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“금 사라고한 지인과 절연했습니다”…1월에 들어갔더니 30% 증발",
+          "link": "https://www.mk.co.kr/news/economy/12167908",
+          "pubDate": "2026-10-04T00:17:26.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261002.8b579ab06f504681b9fe1ff5fb1eb614_R.png",
+          "summary": "국민·신한·우리은행 골드뱅킹 잔액 1월말 2.4조 → 9월 1.6조로 급감해 “저가매수 기회…분할매수” 분석도수년간 치솟던 금값이 올해 들어 흘러내리면서 금 투자자 상당수도 큰 폭..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“생활비 아낀 돈, 이자로 다 나갑니다”…월평균 이자비용  55% 급증",
+          "link": "https://www.mk.co.kr/news/economy/12167905",
+          "pubDate": "2026-10-04T00:10:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/04/news-p.v1.20261002.b8ff53f4707b40ce80cfa5296a13ed7c_R.png",
+          "summary": "소비지출 증가율의 4.6배 카드 무이자 할부는 축소고금리 장기화로 가계가 부담하는 대출 이자비용이 4년 새 55% 가까이 늘어난 반면 카드 무이자 할부기간은 오히려 짧아진 것으로 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "30분 단축? 점심에 은행창구 더 몰릴텐데…저녁·주말 금융서비스는 어디에",
           "link": "https://www.mk.co.kr/news/economy/12167852",
           "pubDate": "2026-10-03T13:24:24.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“사람보다 비싼 우리 ‘황구 백구’ 치료비”…펫보험 들때  주의할 점은?",
-          "link": "https://www.mk.co.kr/news/economy/12167817",
-          "pubDate": "2026-10-03T08:54:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261002.149e48c891a24d48a8e142c203a00779_R.jpg",
-          "summary": "병원비 부담에 펫적금보다 펫보험 수요↑ 가입 후 보험금 지급 안 되는 면책기간도 “연령 어렸을 때 유리…보장범위도 확인”반려동물이 아파 병원에 가면 많게는 수백만원의 진료·수술비가..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "‘금융권 AI 해킹’ 현대캐피탈도 털렸다…대출모집인 정보 유출",
-          "link": "https://www.mk.co.kr/news/economy/12167805",
-          "pubDate": "2026-10-03T08:09:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.90bd3d2c6c0c483ab6c66d412488c381_R.jpeg",
-          "summary": "이름·휴대전화번호·주민번호 등 유출 “일반 고객정보 유출 없어”현대캐피탈도 인공지능(AI) 활용 해킹공격을 받아 주택대출 모집인 관련 정보가 유출된 것으로 확인됐다. 현대캐피탈은 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“AI에 시중은행 또 털렸다” …이번에는 예가람저축은행, 4만명 정보 털려",
-          "link": "https://www.mk.co.kr/news/economy/12167792",
-          "pubDate": "2026-10-03T06:58:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/03/news-p.v1.20261003.f45408eb0dc4439b8780edb3dc6859db_R.jpg",
-          "summary": "예가람저축은행에서도 해킹으로 고객 개인정보가 유출된 것으로 확인됐다. 국내 주요 시중은행에 이어 저축은행에서도 개인정보 유출 사고가 발생하면서 금융권의 보안 우려가 커지고 있다. ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:16.416Z",
+      "fetchedAt": "2026-10-04T00:22:07.445Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,14 +180,48 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T17:47:00.259Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-10-04T00:22:07.540Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215947",
+          "pubDate": "2026-10-04T08:59:00.000Z",
+          "image": null,
+          "summary": "오픈AI에서 안전 시스템 팀을 이끌며 모델 출시 안전 보고서 작성 등을 감독했던 핵심 인물 데이비드 로빈슨이 회사를 떠났다. 그는 오픈AI의 속도 중심 조직 문화가 위험을 키우고 있다며 \"시행착오를 거칠 시대는 끝났다\"고 경고했다.로빈슨은 3일(현지시간) 애틀랜틱에 기고한 '오픈AI의 문화가 망가져서 그만뒀다'라는 제목의 글을 통해 사임 소식을 알렸다. 그는 3년 반 동안 오픈AI에 근무하며 안전 투명성 확보와 시스템 카드 작성 등을 주도한 베테랑 직원이다.그 오픈AI가 배포 후 문제가 발생하면 대응하는 '반복적 배포' 방식을 고수",
+          "keywords": [
+            "오픈AI",
+            "안전",
+            "총괄",
+            "조직",
+            "문화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "루마니아 태양광, 최대 8600억원 금융약정…2028년 가동 목표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215872",
+          "pubDate": "2026-10-04T08:50:00.000Z",
+          "image": null,
+          "summary": "루마니아 서부에서 추진 중인 직류기준 1.3기가와트피크(GWp) 규모의 ‘다마 솔라(Dama Solar)’ 태양광발전소가 최대 5억6100만유로(약 8581억원)의 금융약정을 확보했다. 사업자는 이를 바탕으로 건설에 착수해 2028년 하반기 상업운전을 시작할 계획이다.재생에너지 개발사 레졸브에너지(Rezolv Energy)는 지난달 30일(현지시간) 루마니아 아라드주에서 개발하는 다마 솔라 프로젝트에 대해 14개 금융기관이 참여하는 금융약정을 체결했다고 밝혔다. 레졸브에너지는 이 사업이 완공되면 유럽연합(EU) 최대급 태양광발전소가",
+          "keywords": [
+            "루마니아",
+            "태양광",
+            "최대",
+            "8600억원",
+            "금융약정"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
-          "pubDate": "2026-10-03T15:03:13.000Z",
-          "image": null,
-          "summary": "AI 검색 결과가 질문자, 시장, 언어, 플랫폼에 따라 다양하게 나타나면서 브랜드의 AI 검색 성과를 단순 평균 노출률로 판단하기가 어려워지고 있다. 이에 AI 검색 가시성을 단순히 '얼마나 많이 보이는가'보다 '중요한 질문에서 얼마나 정확히 설명되고 인용되는가'로 재정의하고, 고객의 질문 의도와 구매 여정에 맞춘 다단계 측정 및 실질적인 콘텐츠 보완 대책이 새로운 해법으로 제시됐다.글로벌 콘텐츠 마케팅 전문 버블쉐어(대표 이수아)의 AI 검색 가시성 솔루션 ‘비비(VIVI)’는 챗GPT, 제미나이, 퍼플렉시티, 구글 AI 모드,",
-          "keywords": [
-            "버블쉐어",
-            "AI",
-            "검색",
-            "성과",
-            "분석"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "'나만의 클로드 코드' 만든다...앤트로픽, 커스텀 확장 기능 '모드' 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215932",
-          "pubDate": "2026-10-03T14:23:12.000Z",
-          "image": null,
-          "summary": "앤트로픽이 ‘클로드 코드’에 사용자 맞춤형 기능을 구현할 수 있는 ‘모드(Mods)’를 선보였다. 기존 AI 도구들의 천편일률적인 인터페이스와 단조로운 작동 방식을 벗어나, 개발자 개개인의 워크플로우에 최적화된 맞춤형 환경을 제공하기 위한 것이다.앤트로픽은 2일(현지시간) 클로드 코드의 외형과 작동 방식을 사용자가 원하는 대로 바꿀 수 있는 모드 기능을 공개했다.보리스 체르니 클로드 코드 책임자는 \"사람마다 업무 방식이 다르니 모두가 똑같은 클로드 경험을 할 필요는 없다\"라며 \"자신만의 클로드를 만들고, 플러그인 형태로 모드를 공유",
-          "keywords": [
-            "나만의",
-            "클로드",
-            "코드",
-            "만든다",
-            "앤트로픽"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:17.865Z",
+      "fetchedAt": "2026-10-04T00:22:08.555Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:18.009Z",
+      "fetchedAt": "2026-10-04T00:22:08.716Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,90 +365,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "GrapheneOS, Android 17 QPR1 커널 성능 저하 문제 수정",
-          "link": "https://news.hada.io/topic?id=34726",
-          "pubDate": "2026-10-03T19:45:04.000Z",
+          "title": "업스테이지, GPU 한 장에서 실행하는 Solar Mini 4 발표",
+          "link": "https://news.hada.io/topic?id=34738",
+          "pubDate": "2026-10-04T00:15:01.000Z",
           "image": null,
-          "summary": "GrapheneOS가 Android 17 QPR1의 Pixel 커널 드라이버 트리에서 발생한 성능 저하 문제를 수정해 자체 릴리스에 반영함 이 문제는 메모리 압박 상황에서 끊김, 지연, 완전한 멈춤을 일으키며, 작업 정체로 프로세스가 종료될 정도로 심각함 GrapheneOS는 ...",
+          "summary": "정보 조회, 문서 분류, 도구 호출처럼 반복되는 에이전트 작업을 적은 연산과 비용으로 처리하는 언어 모델 총 350억 파라미터 중 토큰당 30억만 활성화하는 MoE 구조이며, 양자화 모델은 H100 80GB 한 장에서 배포 가능 Artificial Ana...",
           "keywords": [
-            "GrapheneOS",
-            "Android",
-            "17",
-            "QPR1",
-            "커널"
+            "업스테이지",
+            "GPU",
+            "장에서",
+            "실행하는",
+            "Solar"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에티오피아 전쟁의 격화",
-          "link": "https://news.hada.io/topic?id=34725",
-          "pubDate": "2026-10-03T19:42:04.000Z",
+          "title": "네덜란드의 컴퓨터 박물관들(2022)",
+          "link": "https://news.hada.io/topic?id=34737",
+          "pubDate": "2026-10-03T23:47:19.000Z",
           "image": null,
-          "summary": "에티오피아 북부에서 TPLF와 암하라 파노 민병대가 연방정부 및 정부와 연대한 티그라이 세력과 대규모 교전을 재개함. 정부 전복을 목표로 한 반군 연합의 공세가 2022년 평화협정 이후의 질서를 흔들고 있음 전쟁의 원인은 Abiy Ahmed 개인을 넘어선 구조적 문제...",
+          "summary": "네덜란드의 세 컴퓨터 전시 공간은 거실형 체험 박물관, 대규모 창고형 박물관, 외딴 헛간의 DEC 컬렉션으로 서로 다른 관람 경험을 제공함 Helmond의 HomeComputerMuseum은 주로 1980년대 이후 컴퓨터 500대 이상을 소장하며, 상당수를 직접 작동하거나 게임을 즐...",
           "keywords": [
-            "에티오피아",
-            "전쟁의",
-            "격화"
+            "네덜란드의",
+            "컴퓨터",
+            "박물관들(2022)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
-          "link": "https://news.hada.io/topic?id=34724",
-          "pubDate": "2026-10-03T19:33:55.000Z",
+          "title": "Kolibri - 기술 보고서 [PDF]",
+          "link": "https://news.hada.io/topic?id=34736",
+          "pubDate": "2026-10-03T23:44:19.000Z",
           "image": null,
-          "summary": "알리에서 약 5달러에 산 시계에 Claude·Codex 사용량을 띄워봤습니다. 책상에 두니 생각보다 귀엽네요. 코드 ·",
+          "summary": "Kolibri는 영어와 독일어를 지원하는 MoE 모델로, 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화하며 가중치를 Apache 2.0으로 공개함 공공행정, 산업, 항공우주처럼 민감한 데이터를 처리하는 조직의 자체 인프라 배포를 목표로 하며, 데...",
           "keywords": [
-            "Show",
-            "GN:",
-            "5달러",
-            "시계에",
-            "Claude"
+            "Kolibri",
+            "기술",
+            "보고서",
+            "PDF"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: 오픈소스 LEGO AI 생성기를 만들었습니다",
-          "link": "https://news.hada.io/topic?id=34723",
-          "pubDate": "2026-10-03T18:32:50.000Z",
+          "title": "미 연방 판사, Flock을 ‘무차별적 대규모 감시’로 규정",
+          "link": "https://news.hada.io/topic?id=34735",
+          "pubDate": "2026-10-03T23:41:19.000Z",
           "image": null,
-          "summary": "ldraw-nova는 사용자가 모델 아이디어를 주고 제작을 안내하면 AI 에이전트가 실제 LDraw 부품으로 LEGO 모델을 설계하는 오픈소스 프로젝트임 에이전트가 직접 기하 계산을 수행하기보다 설계 계획과 Python 생성 스크립트를 만들고, 이를 실행해 LDraw 소스를 생...",
+          "summary": "오클라호마주 Tulsa의 보안관보가 영장 없이 Flock Safety에서 한 여성의 차량 번호판을 조회한 행위는 수정헌법 제4조 위반이라는 연방 판결이 나옴 Sara Hill 판사는 캘리포니아 번호판이라는 점 외에 뚜렷한 조회 이유가 없었다며, 사전 영장이...",
           "keywords": [
-            "Show",
-            "HN:",
-            "오픈소스",
-            "LEGO",
-            "AI"
+            "연방",
+            "판사",
+            "Flock을",
+            "무차별적",
+            "대규모"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
-          "link": "https://news.hada.io/topic?id=34722",
-          "pubDate": "2026-10-03T17:37:06.000Z",
+          "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
+          "link": "https://news.hada.io/topic?id=34734",
+          "pubDate": "2026-10-03T22:42:52.000Z",
           "image": null,
-          "summary": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
+          "summary": "Opus 5.5는 긴 다단계 작업을 이어가는 능력이 개선돼, 작업 전체와 완료 조건, 멈춰서 질문할 조건을 한 번에 전달하는 방식이 적합함 모델이 응답 전에 스스로 추론하므로 “신중하게 생각하라”는 상투적인 지시는 생략할 수 있음. Claude Code에서는 eff...",
           "keywords": [
-            "ICE",
-            "시위",
-            "참가자",
-            "사진을",
-            "Palantir"
+            "Claude와",
+            "Claude",
+            "Code에서",
+            "Opus",
+            "5를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:18.770Z",
+      "fetchedAt": "2026-10-04T00:22:09.379Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -527,7 +526,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:18.995Z",
+      "fetchedAt": "2026-10-04T00:22:09.546Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -601,7 +600,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:19.078Z",
+      "fetchedAt": "2026-10-04T00:22:09.726Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -682,7 +681,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:19.135Z",
+      "fetchedAt": "2026-10-04T00:22:09.817Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -868,7 +867,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:20.289Z",
+      "fetchedAt": "2026-10-04T00:22:10.688Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -963,7 +962,7 @@
           "summaryKo": "AI가 어떻게 언젠가 우리 모두를 죽일 수 있는지에 대한 모든 이야기와 함께, AI가 이미 심리적으로 일부 사람들에게 해를 끼쳤다는 것을 잊기 쉽습니다. Circuit Breaker Labs는 이를 해결하기 위해 \"충돌 테스트 더미\" 를 만들었습니다."
         }
       ],
-      "fetchedAt": "2026-10-03T20:37:20.355Z",
+      "fetchedAt": "2026-10-04T00:22:10.741Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1157,14 +1156,14 @@
         }
       ],
       "fetchedAt": "2026-10-03T20:37:21.032Z",
-      "error": null
+      "error": "HTTP 503"
     }
   },
   "trendingDomestic": [
     {
       "key": "ai",
       "label": "AI",
-      "count": 5,
+      "count": 3,
       "rank": 1,
       "change": "same"
     },
