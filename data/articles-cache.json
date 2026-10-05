@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-04T21:14:00.644Z",
+  "collectedAt": "2026-10-05T00:27:08.278Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:50.508Z",
+      "fetchedAt": "2026-10-05T00:26:58.506Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "기관은 15개 은행 조직에 대한 해결 계획 피드백 서한을 게시합니다."
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:50.603Z",
+      "fetchedAt": "2026-10-05T00:26:58.638Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "\"AI가 인류 위협\" 경고한 제이콥 콕슨, 뉴욕시의회 청문회 선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215959",
+          "pubDate": "2026-10-05T09:09:23.000Z",
+          "image": null,
+          "summary": "뉴욕시의회가 빅테크 기업의 인공지능 위험성을 규제하기 위한 청문회를 개최한 가운데, 전직 AI 연구원들과 주요 기업 대표들이 대거 증언대에 선다.블룸버그는 5일(현지시간) 전 앤트로픽 연구원 제이콥 콕슨이 이날 열리는 뉴욕시의회 청문회에 출석해 증언할 예정이라고 보도했다. 콕슨은 오픈AI와 앤트로픽에서 3년간 사전 훈련 연구를 담당했던 인물로, 지난달 8일 앤트로픽을 떠나며 작성한 X 게시물이 1억7000만회 이상의 조회수를 기록해 전 세계적인 화제를 모았다. 사임 이후 CNN 등 주요 언론 인터뷰에 연이어 출연해 빅테크 기업들이",
+          "keywords": [
+            "AI가",
+            "인류",
+            "위협",
+            "경고한",
+            "제이콥"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "머스크, '스페이스XSI'로 리브랜딩 시사…트럼프 'SI' 발언 동조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215954",
+          "pubDate": "2026-10-05T08:49:24.000Z",
+          "image": null,
+          "summary": "일론 머스크 CEO가 자사의 AI 사업부인 ‘스페이스XAI’의 명칭을 ‘스페이스XSI’로 변경할 가능성을 내비쳤다. 도널드 트럼프 미국 대통령이 ‘AI’ 대신 ‘초지능(SI)’이라는 용어를 사용해야 한다고 언급한 데 따른 반응이다.머스크 CEO는 4일(현지시간) X에서 회사 이름을 스페이스XSI로 변경할 의향이 있느냐는 한 사용자의 질문에 \"그렇다, 그렇게 할 것\"이라고 답했다.이는 지난달 유엔 총회 연설에서 나온 트럼프 대통령의 발언에서 비롯됐다. 당시 트럼프 대통령은 연설을 통해 앞으로 미국 및 전 세계의 공식 문서에서 ‘인공’",
+          "keywords": [
+            "머스크",
+            "스페이스XSI",
+            "리브랜딩",
+            "시사",
+            "트럼프"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "트럼프, ‘슈퍼 인텔리전스 부대’ 출범…국가정보국장, 백악관 AI 차르 겸임",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215953",
+          "pubDate": "2026-10-05T08:28:07.000Z",
+          "image": null,
+          "summary": "도널드 트럼프 미국 대통령이 연방 정부의 AI 정책을 총괄할 전담 기구인 ‘슈퍼 인텔리전스 부대(SIF)’를 공식 출범시켰다. 조직의 수장으로는 제이 클레이튼 국가정보국장(DNI)이 임명, 미국 정보기관 총괄과 행정부의 AI 총괄 책임자(AI 차르) 역할을 동시에 수행하게 된다. 트럼프 대통령은 4일(현지시간) 트루스 소셜을 통해 SIF가 미국이 초지능 분야에서 세계를 계속 선도하도록 연방 정부의 노력을 조율하는 임무를 맡고 있으며, 많은 사람이 초지능을 산업혁명과 인터넷보다 더 큰 의미를 지닌 기술로 평가하고 있는 만큼 모든 미국",
+          "keywords": [
+            "트럼프",
+            "슈퍼",
+            "인텔리전스",
+            "부대",
+            "출범"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215949",
-          "pubDate": "2026-10-04T17:48:41.000Z",
-          "image": null,
-          "summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 '클로드 코드'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별도의",
-          "keywords": [
-            "클로드가",
-            "일하고",
-            "감시한다",
-            "앤트로픽",
-            "플러그인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
-          "pubDate": "2026-10-04T16:16:07.000Z",
-          "image": null,
-          "summary": "구글이 '제미나이' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 '플래시-라이트'만 사용할 수 있게 된다.AI 플러스 요금제에서도 '프로' 모델 접근이 사라지고 플래시-라이트와 '플래시'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 '제미나이 4 아르곤",
-          "keywords": [
-            "구글",
-            "제미나이",
-            "요금제",
-            "개편",
-            "무료"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215951",
-          "pubDate": "2026-10-04T15:59:29.000Z",
-          "image": null,
-          "summary": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한",
-          "keywords": [
-            "알레프",
-            "알파",
-            "범용",
-            "LLM",
-            "포기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:51.881Z",
+      "fetchedAt": "2026-10-05T00:26:59.635Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "새로운 장소가 개설됨에 따라 소셜 클럽은 3일이 아닌 2시간 내에 보조금 신청서를 준비하고 4일이 아닌 3시간 이내에 주류 라이선스 자료를 준비합니다."
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:52.022Z",
+      "fetchedAt": "2026-10-05T00:26:59.928Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Thoreau BASIC - BASIC이 유행에서 밀려나지 않았다면?",
-          "link": "https://news.hada.io/topic?id=34778",
-          "pubDate": "2026-10-04T20:57:07.000Z",
+          "title": "과업이 곧 일의 목적은 아니다",
+          "link": "https://news.hada.io/topic?id=34789",
+          "pubDate": "2026-10-05T00:03:04.000Z",
           "image": null,
-          "summary": "Thoreau BASIC은 GW-BASIC 스타일 문법에 64비트 메모리, 그래픽, 네트워킹, 오디오와 네이티브 x64 JIT 컴파일을 결합한 BASIC 구현임 같은 언어를 Windows 프로그램으로 실행하거나 운영체제 없이 UEFI에서 직접 실행할 수 있으며, BASIC 프로그...",
+          "summary": "코딩 에이전트가 구현 속도를 높여도 무엇을 만들 가치가 있는지 판단하는 능력까지 같은 비율로 좋아지지는 않음. 구현에 들던 시간이 줄면서 어려운 의사결정에 더 빨리 도달하게 됨 발표용 배경음악이 필요하면 완성된 곡을 받으면 되지만, 직접 음악을 만들고 싶다면 창...",
           "keywords": [
-            "Thoreau",
-            "BASIC",
-            "BASIC이",
-            "유행에서",
-            "밀려나지"
+            "과업이",
+            "일의",
+            "목적은",
+            "아니다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Big Balls, 이제 최소 6개 주에서 중대한 형사 기소 가능성에 직면",
-          "link": "https://news.hada.io/topic?id=34777",
-          "pubDate": "2026-10-04T20:54:07.000Z",
+          "title": "Rust의 derive는 종종 inline을 암묵적으로 포함함",
+          "link": "https://news.hada.io/topic?id=34788",
+          "pubDate": "2026-10-05T00:01:59.000Z",
           "image": null,
-          "summary": "DOGE 출신 Edward Coristine, 일명 Big Balls가 DOGE의 3억 명 이상 사회보장 기록 복사 의혹을 다룬 내부고발에 실명으로 등장함. 기록을 기관 보안 감시 밖의 클라우드로 옮긴 프로젝트에 참여하고 서버에 접근할 예정이었다는 자료를 토대로 주법상 기소 가능성이 거론됨...",
+          "summary": "Rust는 현재 #[derive(...)]로 생성하는 구현에 #[inline]을 추가함. 보장된 동작은 아닌 것으로 보이지만, 레퍼런스 예제와 매크로 확장에서 확인할 수 있음 #[inline]은 힌트일 뿐이며, 자동 생성한 Debug,...",
           "keywords": [
-            "Big",
-            "Balls",
+            "Rust의",
+            "derive는",
+            "종종",
+            "inline을",
+            "암묵적으로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "영국 정부 기구, 극단주의 대응 정책 비판자들의 온라인 게시물 수집",
+          "link": "https://news.hada.io/topic?id=34787",
+          "pubDate": "2026-10-04T23:31:50.000Z",
+          "image": null,
+          "summary": "영국 내무부 연계 기구 Prevent Standards and Compliance Unit(StaCU) 이 정부의 극단주의 대응 프로그램인 Prevent를 온라인에서 비판한 사람들에 관한 기록을 수집하고 보관함 2024년 3월부터 2025년 2월까지 77건의 관찰 기록을 작성했으며, 대부분 X에서 수집...",
+          "keywords": [
+            "영국",
+            "정부",
+            "기구",
+            "극단주의",
+            "대응"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미국 살인범의 형량, 법정에서 상영된 피해자 AI 영상 때문에 파기",
+          "link": "https://news.hada.io/topic?id=34786",
+          "pubDate": "2026-10-04T22:49:19.000Z",
+          "image": null,
+          "summary": "미국 애리조나주 항소법원이 숨진 피해자를 재현한 AI 영상의 법정 상영이 부적절했다고 판단해, 징역 10년을 선고받은 Gabriel Paul Horcasitas의 형량을 다시 정하도록 함 항소법원은 영상이 실제 사건이나 특정 순간의 기록이 아니라, 피해자 자매의 상상으로 만든 피해자...",
+          "keywords": [
+            "미국",
+            "살인범의",
+            "형량",
+            "법정에서",
+            "상영된"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "GitHub의 새 대시보드가 이제 기본 화면으로 적용됨",
+          "link": "https://news.hada.io/topic?id=34785",
+          "pubDate": "2026-10-04T22:46:19.000Z",
+          "image": null,
+          "summary": "기능 미리보기로 제공하던 새 대시보드가 모든 사용자의 기본 화면으로 전환됨 활성 에이전트 세션, 이슈, 풀 리퀘스트를 한곳에서 확인하고, 필터로 각 영역에 표시할 항목을 선택할 수 있음 업데이트를 확인하는 Feed 탭을 별도로 두어...",
+          "keywords": [
+            "GitHub의",
+            "대시보드가",
             "이제",
-            "최소",
-            "6개"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "전직 SR-71 엔지니어가 말하는 NASA의 Blackbird 부활 프로그램",
-          "link": "https://news.hada.io/topic?id=34776",
-          "pubDate": "2026-10-04T20:51:07.000Z",
-          "image": null,
-          "summary": "NASA의 SR-71 Tail 844가 전시 장소에서 사라진 가운데, 과거 추진계통 책임자 Tim Conners는 기체 육안 검사가 끝났으며 곧 외부 전원을 연결하는 시험에 들어간다고 전함 Conners는 복원 목적이 고속 엔진 시험 플랫폼일 가능성에 무게를 둠. 공기역학은 전산 모...",
-          "keywords": [
-            "전직",
-            "SR",
-            "71",
-            "엔지니어가",
-            "말하는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "VGHF 디지털 아카이브, 잡지 5,000권 돌파와 향후 계획",
-          "link": "https://news.hada.io/topic?id=34775",
-          "pubDate": "2026-10-04T20:48:07.000Z",
-          "image": null,
-          "summary": "Video Game History Foundation의 디지털 아카이브가 잡지 5,000권을 넘어섰으며, 연구용으로 무료 열람하고 본문을 검색할 수 있는 컬렉션이 출시 당시보다 3배 이상 커짐 현재 컬렉션은 1981~2026년의 46년을 아우르는 약 60만 페이지로, 지금까지 목록화한 실물...",
-          "keywords": [
-            "VGHF",
-            "디지털",
-            "아카이브",
-            "잡지",
-            "000권"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show HN: macOS의 모든 사진과 동영상의 모든 프레임을 위한 AI 검색",
-          "link": "https://news.hada.io/topic?id=34774",
-          "pubDate": "2026-10-04T19:37:48.000Z",
-          "image": null,
-          "summary": "SCM(Screen Memories) 은 macOS 폴더의 사진과 동영상을 자연어로 검색하는 로컬 우선 앱으로, 계정이나 업로드 없이 Mac에서 추론을 실행함 Files, Scenes, OCR, Dialogue, LLMs의 다섯 검색 모드를 제공하며, 시각적 의미 검색과 화면 속 문자 검색, 정확한 대사...",
-          "keywords": [
-            "Show",
-            "HN:",
-            "macOS의",
-            "모든",
-            "사진과"
+            "기본",
+            "화면으로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:52.930Z",
+      "fetchedAt": "2026-10-05T00:27:00.844Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +528,7 @@
           "summaryKo": "기생충, 롱레그, 아노라와 같은 영화 제작사인 네온은 자체 SCP 재단 영화를 만들기로 결정했으며, A24와 달리 실제로 SCP 위키를 운영하는 사람들과 소통하고 있습니다. A24는 이번 달 초에 공포 선집의 다음 할부 계획을 발표하면서 인터넷의 IRE를 그렸습니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:53.085Z",
+      "fetchedAt": "2026-10-05T00:27:01.137Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +602,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:53.384Z",
+      "fetchedAt": "2026-10-05T00:27:01.332Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +683,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:53.457Z",
+      "fetchedAt": "2026-10-05T00:27:01.419Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -692,6 +691,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "개인투자 넘어 기관금융으로…a16z가 서울에서 본 크립토의 다음 시장",
+          "link": "https://www.venturesquare.net/1117717/",
+          "pubDate": "2026-10-02T06:50:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/1790748898908-789x444.jpeg",
+          "summary": "a16z 크립토가 서울에서 한국 첫 자체 서밋을 열고 스테이블코인과 DeFi, 기관금융의 온체인 전환, AI와 크립토 인프라를 둘러싼 시장 변화를 논의했다. 지난 6월 서울에 아시아 첫 오피스를 연 a16z는 높은 디지털 기술 수용도와 개인 이용자층, 금융기관·대기업의... The post 개인투자 넘어 기관금융으로…a16z가 서울에서 본 크립토의 다음 시장 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "현장스케치",
+            "a16z",
+            "a16zcrypto"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "데일리페이, 컬리 판매대금 최대 120% 먼저 정산…10월 수수료도 면제",
           "link": "https://www.venturesquare.net/1117704/",
@@ -763,27 +780,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "로소타, 외과의사 ‘손의 움직임’ AI 학습 데이터로 만든다…TIPS 선정",
-          "link": "https://www.venturesquare.net/1117674/",
-          "pubDate": "2026-10-02T05:45:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ROSOTA-2-757x522.jpg",
-          "summary": "수술 데이터 기반 AI 로보틱스 기업 로소타가 ‘2026년 팁스 R&D 일반트랙’에 선정됐다. 로소타는 기존 복강경 수술기구에 부착하는 ‘서지로거’를 활용해 수술 영상과 기구 위치·방향·움직임·힘 등의 물리 데이터를 함께 수집한다. 이번 과제를 통해 수술 술기 데이터를... The post 로소타, 외과의사 ‘손의 움직임’ AI 학습 데이터로 만든다…TIPS 선정 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "Rosota",
-            "TIPS",
-            "로보틱스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:57.666Z",
+      "fetchedAt": "2026-10-05T00:27:05.452Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -870,7 +869,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:57.899Z",
+      "fetchedAt": "2026-10-05T00:27:05.746Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -966,7 +965,7 @@
           "summaryKo": "Blackstone의 Jas Khaira는 TechCrunch Disrupt 2026에서 차세대 AI 구축을 위한 Builders Stage에 참가할 예정입니다. 이용권을 등록하고 1초에 50% 할인을 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-04T21:13:58.346Z",
+      "fetchedAt": "2026-10-05T00:27:05.864Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1065,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:14:00.246Z",
+      "fetchedAt": "2026-10-05T00:27:07.679Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1073,6 +1072,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "구미형 청년월세 지원 추가 모집...상반기에 청년 1,900명 몰려… - 구미뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hbnM5LUFfenVnMHh6ODBBNnFVZDR1VEZqbkRYN0JpdGl4SElYZW02aXpTOUtiQUE5NFVHUGpoT2p5M2pHNEVLTDVkcEs0SWJEd1Z3Z0JsOTBaV1hLODE2LTVHRzh3bHBpLW03eEg1cXdrZGZ4?oc=5",
+          "pubDate": "2026-10-04T22:26:00.000Z",
+          "image": null,
+          "summary": "구미형 청년월세 지원 추가 모집...상반기에 청년 1,900명 몰려… 구미뉴스",
+          "keywords": [
+            "구미형",
+            "청년월세",
+            "지원",
+            "추가",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 - 뉴스와이어",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBybHNEUE92OElrbzB2MGthTkNDd1RtalpuSks5NHNNUmtSdmQxWXBua2oydjlvQ2lOTU9RcmN3cUJ3RFd4bDN6cW9YSm5WN2FLTWRVVEVpYWVXOUdLWFhR?oc=5",
@@ -1125,11 +1141,11 @@
           "summaryKo": null
         },
         {
-          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - sisaanseong.com",
+          "title": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 - 시사안성",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRDdNdzFfVTJoRU1NeGN1eEgwcWJhams4RDVXSExYVGZOX250SHc0cWVOVm9PaFpZa1NqcGNCcTJyd1ptRTEyRVYwc0EzeWplX1NHaUhVZTFuWTEzc01UMTlTTF9rWTNHemdFWg?oc=5",
           "pubDate": "2026-10-01T21:43:05.000Z",
           "image": null,
-          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 sisaanseong.com",
+          "summary": "안성시, 1인 가구 지원사업 ‘생활꿀팁 바구니’ 청년 참여자 모집 시사안성",
           "keywords": [
             "안성시",
             "1인",
@@ -1140,26 +1156,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMVdicE5majNyTEZfMjFGZ1JIbnJIS2VsM1l5MVdyNmxjeXJEMGo3UkRhN0RhdHFKb3BtakpuZmhWbFBQbTBmWExaUTljM0hFZkR6UDZybm5OYlhr?oc=5",
-          "pubDate": "2026-10-01T01:28:00.000Z",
-          "image": null,
-          "summary": "남해군, 스마트공장 지원사업 추가 모집 기한 연장 뉴스핌",
-          "keywords": [
-            "남해군",
-            "스마트공장",
-            "지원사업",
-            "추가",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-04T21:14:00.635Z",
+      "fetchedAt": "2026-10-05T00:27:08.269Z",
       "error": null
     }
   },
@@ -1172,18 +1171,18 @@
       "change": "same"
     },
     {
-      "key": "tips",
-      "label": "TIPS",
-      "count": 3,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "ai",
       "label": "AI",
       "count": 2,
+      "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "정부",
+      "label": "정부",
+      "count": 2,
       "rank": 3,
-      "change": "same"
+      "change": "new"
     },
     {
       "key": "경제",
@@ -1228,11 +1227,11 @@
       "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 5,
+      "key": "special post",
+      "label": "Special Post",
+      "count": 4,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
