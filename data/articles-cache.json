@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-07T12:42:01.192Z",
+  "collectedAt": "2026-10-07T19:45:09.977Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:52.925Z",
+      "fetchedAt": "2026-10-07T19:44:45.060Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+          "pubDate": "2026-10-07T18:00:00.000Z",
+          "image": null,
+          "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+          "keywords": [
+            "Monetary Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록",
+          "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
+        },
         {
           "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방 준비 이사회는 Ontario Bancorporation, Inc. 에 집행 조치를 내립니다.",
           "summaryKo": "연방 준비 이사회는 Ontario Bancorporation, Inc. 에 집행 조치를 내립니다."
-        },
-        {
-          "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-          "pubDate": "2026-09-30T13:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-          "keywords": [
-            "Banking and Consumer Regulatory Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 스트레스 테스트의 투명성과 공공 책임성을 강화하고 스트레스 테스트 관련 자본 요구 사항의 변동성을 줄이기 위해 변경 사항을 마무리합니다.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 스트레스 테스트의 투명성과 공공 책임성을 강화하고 스트레스 테스트 관련 자본 요구 사항의 변동성을 줄이기 위해 변경 사항을 마무리합니다."
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:52.976Z",
+      "fetchedAt": "2026-10-07T19:44:47.198Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -240,7 +240,7 @@
           "summaryKo": null
         },
         {
-          "title": "스튜어트 러셀의 경고 \"AI 정렬은 불가능…모방 학습과 RLHF의 한계\"",
+          "title": "스튜어트 러셀의 경고 \"LLM 정렬 불가능…모방 학습과 RLHF 한계\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216033",
           "pubDate": "2026-10-07T17:35:00.000Z",
           "image": null,
@@ -249,8 +249,8 @@
             "스튜어트",
             "러셀의",
             "경고",
-            "AI",
-            "정렬은"
+            "LLM",
+            "정렬"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:54.408Z",
+      "fetchedAt": "2026-10-07T19:44:48.296Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,49 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "link": "https://openai.com/index/teens-learn-and-plan",
+          "pubDate": "2026-10-07T12:00:00.000Z",
+          "image": null,
+          "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "청소년들이 인공지능의 미래를 배우고, 계획하고, 형성할 수 있도록 돕는다.",
+          "summaryKo": "College Planner는 학생들이 새로운 플래시 카드, 퀴즈 및 십대 AI 협의회와 함께 대학 응용 프로그램을 관리하는 데 도움이 되는 청소년용 ChatGPT를 선보입니다."
+        },
+        {
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "link": "https://openai.com/index/radisson",
+          "pubDate": "2026-10-07T07:00:00.000Z",
+          "image": null,
+          "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+          "keywords": [
+            "Radisson",
+            "Hotel",
+            "Group",
+            "brings",
+            "hotel"
+          ],
+          "isForeign": true,
+          "titleKo": "래디슨 호텔 그룹 (Radisson Hotel Group) 이 호텔 검색을 ChatGPT로 가져옵니다.",
+          "summaryKo": "Radisson은 Accenture와 파트너십을 맺고 OpenAI 기술을 사용하여 ChatGPT 플러그인을 구축하여 여행자들이 여행을 계획하는 동안 호텔을 찾고, 비교하고, 예약할 수 있도록 지원했습니다."
+        },
+        {
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "link": "https://openai.com/index/gpt-6-for-everyone",
+          "pubDate": "2026-10-07T00:00:00.000Z",
+          "image": null,
+          "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "모두를 위한 GPT-6 및 지능형 UI",
+          "summaryKo": "GPT ‑ 6은 지능형 UI를 갖춘 ChatGPT에서 전 세계적으로 출시되어 직접 탐색하고 사용할 수 있는 비주얼 및 대화형 경험을 통해 더 빠른 응답을 제공합니다."
+        },
         {
           "title": "How Jump Trading is scaling quant research with ChatGPT",
           "link": "https://openai.com/index/jump-trading",
@@ -311,48 +354,9 @@
           "isForeign": true,
           "titleKo": "수학에서 AI 진행 상황 공유",
           "summaryKo": "OpenAI는 내부 프론티어 모델에서 수학의 열린 문제에 대한 새로운 결과를 게시하고 GitHub에서 린 증명 공식화 및 연구 세부 정보를 공유합니다."
-        },
-        {
-          "title": "Advancing computer use with Ironclad",
-          "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "pubDate": "2026-10-06T10:00:00.000Z",
-          "image": null,
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-          "keywords": [
-            "Publication"
-          ],
-          "isForeign": true,
-          "titleKo": "Ironclad로 컴퓨터 사용 개선",
-          "summaryKo": "OpenAI와 Ironclad가 복잡한 계약 워크플로우에 대해 AI 상담원을 교육하고 평가하여 전문적인 업무를 위한 컴퓨터 사용을 촉진하는 방법을 알아보세요."
-        },
-        {
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "link": "https://openai.com/index/atlassian-partnership",
-          "pubDate": "2026-10-06T16:00:00.000Z",
-          "image": null,
-          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "Atlassian과 OpenAI는 파트너십을 확대하여 전사적 지식을 행동으로 옮깁니다.",
-          "summaryKo": "Atlassian과 OpenAI는 프론티어 모델과 엔터프라이즈 지식을 연결하고 팀이 업무를 계획, 구축 및 제공할 수 있도록 파트너십을 확장하고 있습니다."
-        },
-        {
-          "title": "Our approach to EU text provenance rules",
-          "link": "https://openai.com/index/eu-text-provenance",
-          "pubDate": "2026-10-05T15:00:00.000Z",
-          "image": null,
-          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-          "keywords": [
-            "Safety"
-          ],
-          "isForeign": true,
-          "titleKo": "EU 텍스트 출처 규칙에 대한 당사의 접근 방식",
-          "summaryKo": "OpenAI가 EU 규칙에 따라 텍스트 워터마킹에 접근하는 방법. 워터마크가 적용되는 위치, 탐지 방법, 연구자로부터 액세스가 시작되는 이유에 대해 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:54.569Z",
+      "fetchedAt": "2026-10-07T19:44:53.303Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +365,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "ESP32-C3 광고 차단기",
-          "link": "https://news.hada.io/topic?id=34943",
-          "pubDate": "2026-10-07T12:41:02.000Z",
+          "title": "Show HN: Bigwords.page - 어떤 화면이든 안내판으로, URL 자체가 앱",
+          "link": "https://news.hada.io/topic?id=34961",
+          "pubDate": "2026-10-07T19:43:37.000Z",
           "image": null,
-          "summary": "2달러 ESP32-C3에서 PSRAM 없이 동작하는 Pi-hole 방식의 DNS 광고 차단기로, 차단 목록을 RAM 대신 플래시에 저장해 RAM 사용량을 약 50KB로 줄임 도메인을 정렬된 40비트 해시로 저장하고 이진 탐색함으로써, 14만 개 이상의 도메인을 약 0.7MB에 담고 WiFi 왕복...",
-          "keywords": [
-            "ESP32",
-            "C3",
-            "광고",
-            "차단기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "클래식 Commodore 64 키캡 사진으로 재현한 폰트",
-          "link": "https://news.hada.io/topic?id=34942",
-          "pubDate": "2026-10-07T12:38:02.000Z",
-          "image": null,
-          "summary": "C64 Keyboard는 클래식 Commodore 64 키캡 사진을 바탕으로 글자 형태를 다듬고 비례를 일관되게 맞춘 폰트임 화면의 비트맵 폰트가 아니라 키캡에 인쇄된 문자와 기호를 재현하며, 소문자를 입력해도 대문자로 표시함 대문자, 숫자, 문장부호, 화살표, £...",
-          "keywords": [
-            "클래식",
-            "Commodore",
-            "64",
-            "키캡",
-            "사진으로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 해외 직구한 내 소포, 어디쯤 있을까요?",
-          "link": "https://news.hada.io/topic?id=34940",
-          "pubDate": "2026-10-07T10:33:59.000Z",
-          "image": null,
-          "summary": "먼 나라에서 날아 오는 소포, 어디있을지 상상만 하며 우편함을 열어 보셨나요? 하염없이 우체국 홈페이지만 새로고침하며 기다리셨나요? 국제 배송, 지금 어디쯤 왔는지 궁금할 때. 송장 번호 하나면 됩니다. DB에 기반합니다 많은 예측 서비스들은 LLM에게 정보를",
+          "summary": "Bigwords.page는 링크 하나로 전체 화면 안내판, 타이머, 메시지를 만드는 서비스로, 계정이나 별도 앱 없이 사용할 수 있음 화면 구성이 URL에 담기는 방식이라 링크를 공유하거나 북마크할 수 있으며, 메시지는 브라우저가 서버로 보내지 않는 URL 프래그먼트에 ...",
           "keywords": [
             "Show",
-            "GN:",
-            "해외",
-            "직구한",
-            "소포"
+            "HN:",
+            "Bigwords",
+            "page",
+            "어떤"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "x32에서 실행한 Janet: 32비트 포인터, 64비트 속도, RAM 25% 절감",
-          "link": "https://news.hada.io/topic?id=34939",
-          "pubDate": "2026-10-07T10:09:34.000Z",
+          "title": "모두를 위한 GPT‑6와 Intelligent UI",
+          "link": "https://news.hada.io/topic?id=34960",
+          "pubDate": "2026-10-07T19:40:36.000Z",
           "image": null,
-          "summary": "Linux x32 ABI는 64비트 명령어 집합을 유지하면서 32비트 포인터를 사용함. Janet 실험에서는 RAM 사용량이 평균 21% 줄었으며, 실행 속도는 작업에 따라 느려지거나 빨라짐 일반 32비트 빌드인 -m32와 x32 빌드인 -mx32는 다름. Arch에...",
+          "summary": "OpenAI가 주간 이용자 12억 명 이상을 대상으로 GPT‑6 제공을 확대하고, 대화 안에서 그래픽, 버튼, 폼, 차트 등을 사용할 수 있는 Intelligent UI를 도입함 Intelligent UI는 질문에 맞춰 텍스트, 시각 자료, 상호작용 요소를 조합하며, 네이티브 컴포넌...",
           "keywords": [
-            "x32에서",
-            "실행한",
-            "Janet:",
-            "32비트",
-            "포인터"
+            "모두를",
+            "위한",
+            "GPT‑6와",
+            "Intelligent",
+            "UI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "노트북 도둑과 함께 일했던 때 (2025)",
-          "link": "https://news.hada.io/topic?id=34938",
-          "pubDate": "2026-10-07T10:06:34.000Z",
+          "title": "번역 과정에서 의미를 잃은 Navier-Stokes",
+          "link": "https://news.hada.io/topic?id=34959",
+          "pubDate": "2026-10-07T18:46:26.000Z",
           "image": null,
-          "summary": "IT 부서 재정비 중 새로 주문한 MacBook의 재고가 맞지 않는 사실을 발견했고, 조사 끝에 계약직 직원이 약 1년간 노트북 30대 이상을 훔친 사실이 드러남 계약직 직원은 누락된 기기를 초기 불량으로 수리 보냈다고 했지만, Apple 수리 기록과 배송 정보를 확인하...",
+          "summary": "Lean 검증 통과는 생성된 형식 증명의 타당성을 확인하지만, 그 증명이 원래 자연어 논증을 충실하게 옮겼거나 자연어 증명 자체가 올바르다는 보장은 아님 자동 형식화에는 이미 정확히 형식화된 정리의 증명을 생성하는 작업과, 정의부터 증명까지 수학적 의미를...",
           "keywords": [
-            "노트북",
-            "도둑과",
-            "함께",
-            "일했던",
-            "(2025)"
+            "번역",
+            "과정에서",
+            "의미를",
+            "잃은",
+            "Navier"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude Haiku 5.5",
+          "link": "https://news.hada.io/topic?id=34958",
+          "pubDate": "2026-10-07T18:43:26.000Z",
+          "image": null,
+          "summary": "Anthropic이 대량의 비용 민감형 작업을 위한 소형 모델 Claude Haiku 5.5를 출시함. 요약, 컨텍스트 압축, 데이터베이스 질의, 분류와 코딩 보조 에이전트 작업에 적합함 Haiku 4.5보다 평균 실행 비용이 약 75% 낮아짐. 프롬프트 10만 토큰 이하 요청은 토큰 단가...",
+          "keywords": [
+            "Claude",
+            "Haiku"
+          ],
+          "isForeign": true,
+          "titleKo": "클로드 하이쿠 5.5",
+          "summaryKo": "Anthropic 이 대량의 비용 민감형 작업을 위한 소형 모델 Claude Haiku 5.5를 출시함.요약,컨텍스트 압축,데이터베이스 질의, 분류와 코딩 보조 에이전트 작업에 적합함 하이쿠 4.5보다 평균 실행 비용이 약 75%낮아짐. 프롬프트 10만 토큰 이하 요청은 토큰 단가..."
+        },
+        {
+          "title": "웹 페이지용 애니메이션 ASCII 아트",
+          "link": "https://news.hada.io/topic?id=34957",
+          "pubDate": "2026-10-07T18:40:25.000Z",
+          "image": null,
+          "summary": "ascii.rest는 웹 페이지용 애니메이션 ASCII 아트를 소개하는 프로젝트임 doom fire와 fireworks는 각각 불 확산 효과와 여러 형태로 터지는 폭죽을 구현함 matrix rain은 문자가 줄지어 떨어지는 효과이며, 선두는 짙...",
+          "keywords": [
+            "페이지용",
+            "애니메이션",
+            "ASCII",
+            "아트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:55.515Z",
+      "fetchedAt": "2026-10-07T19:44:55.184Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +535,7 @@
           "summaryKo": "지난 5년 동안, 우리 업계가 짧은 형태의 메가 소비, AI 추진 생산성 플랫폼, 할리우드 고개를 끄덕이는 새로운 시대로 접어들면서 두 가지 뚜렷한 일이 일어났습니다. '콘텐츠 크리에이터' 는 널리 인정받는 커리어가 되었고, 그에 수반되는 독특한 스트레스 요인은 더 심각한 인정을 받았습니다. 항상 게시해야 하는 압박감 […] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:55.635Z",
+      "fetchedAt": "2026-10-07T19:44:55.372Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:55.766Z",
+      "fetchedAt": "2026-10-07T19:44:55.611Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:55.825Z",
+      "fetchedAt": "2026-10-07T19:44:55.710Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -697,6 +698,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "힘펠, 출산·육아 지원에 장기근속 휴가까지…경기도 ‘가족친화 기업’ 선정",
+          "link": "https://www.venturesquare.net/1118465/",
+          "pubDate": "2026-10-07T16:45:33.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/HIMFEL-785x522.jpg",
+          "summary": "힘펠이 경기도가 주관하는 ‘2026 경기가족친화 일하기 좋은 기업’에 신규 선정됐다. 힘펠은 출산·육아 지원금과 육아기 근로시간 조정, 장기근속 보상휴가 등을 운영하며 임직원의 일·가정 양립을 지원하고 있다. 직무부터 교양·문화까지 다루는 사내 교육 프로그램 ‘힘펠 아... The post 힘펠, 출산·육아 지원에 장기근속 휴가까지…경기도 ‘가족친화 기업’ 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "가족친화기업",
+            "가족친화인증",
+            "경기가족친화기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "알파칩스, 주식 수 666만→1332만주로 두 배…1주당 1주 무상증자",
+          "link": "https://www.venturesquare.net/1118452/",
+          "pubDate": "2026-10-07T11:03:51.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ALPHA-789x444.png",
+          "summary": "알파칩스가 보통주 1주당 신주 1주를 배정하는 100% 무상증자를 실시한다. 무상증자 후 총 발행주식 수는 666만1742주에서 1332만3484주로 두 배 증가하며 재원은 주식발행초과금 약 33억3000만원이다. 신주 배정 기준일은 10월 22일, 상장 예정일은 11... The post 알파칩스, 주식 수 666만→1332만주로 두 배…1주당 1주 무상증자 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI반도체",
+            "ASIC",
+            "CPO"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "딥브레인AI, 퀴즈 틀리면 AI가 ‘왜 틀렸는지’ 코칭…기업교육 기능 강화",
           "link": "https://www.venturesquare.net/1118426/",
@@ -750,45 +787,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "캐시워크 ‘팀워크’, 누적 참여 8650만명…걷기 챌린지 넘어 ‘상품 구매·체험’까지",
-          "link": "https://www.venturesquare.net/1118399/",
-          "pubDate": "2026-10-07T10:13:46.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/8650-787x522.jpg",
-          "summary": "캐시워크의 B2B·B2G 챌린지 플랫폼 ‘팀워크’가 2026년 9월 기준 누적 참여자 8650만명을 돌파했다. 지난해 같은 달 6400만명에서 약 35% 증가했으며 누적 챌린지는 1056개, 재참여율은 66%로 집계됐다. 최근에는 걷기와 장소 방문 중심의 미션에서 상품... The post 캐시워크 ‘팀워크’, 누적 참여 8650만명…걷기 챌린지 넘어 ‘상품 구매·체험’까지 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "B2B",
-            "B2G",
-            "TeamWalk"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "센디, AI로 빈 화물차 이동 줄이고 전기트럭 경험 늘린다…친환경 물류 전환",
-          "link": "https://www.venturesquare.net/1118401/",
-          "pubDate": "2026-10-07T10:10:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/SENDY-696x522.png",
-          "summary": "센디가 AI 기반 운송 매칭과 전기 상용차 이용 환경 확대를 중심으로 친환경 물류 전환에 나서고 있다. 운송 조건과 기사 데이터를 활용해 화주와 운송 기사를 연결하고 불필요한 이동과 공차거리를 줄이는 방향으로 AI 매칭 로직을 고도화하고 있다. 현대자동차 ST1 기반 ... The post 센디, AI로 빈 화물차 이동 줄이고 전기트럭 경험 늘린다…친환경 물류 전환 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI매칭",
-            "AI물류",
-            "ESG"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:58.759Z",
+      "fetchedAt": "2026-10-07T19:44:58.346Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:59.037Z",
+      "fetchedAt": "2026-10-07T19:44:58.580Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -888,92 +889,92 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-          "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-          "pubDate": "2026-10-06T22:34:03.000Z",
+          "title": "Greenairy is building smart plant towers to clean the air in your office",
+          "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+          "pubDate": "2026-10-07T17:30:00.000Z",
           "image": null,
-          "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+          "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
           "keywords": [
-            "AI",
             "Startups",
-            "CRV",
-            "General Catalyst",
-            "ai video"
+            "TechCrunch Disrupt",
+            "Startup Battlefield 200"
           ],
           "isForeign": true,
-          "titleKo": "전 경사로 엔지니어는 첫 번째 제품을 폐기한 후 플랫폼 Melius를 위해 $ 20M를 모금합니다.",
-          "summaryKo": "이 회사는 마케터가 광고 지출을 관리하고 최적화하는 것을 돕는 대신 크리에이티브 자산과 캠페인을 생성하는 도구를 구축하는 데 집중하고 있습니다."
+          "titleKo": "Greenairy는 사무실의 공기를 정화하기 위해 스마트 플랜트 타워를 구축하고 있습니다.",
+          "summaryKo": "알고 보니, 답답하고 화학 물질이 주입된 사무실 공기에 대한 치료법은 녹음이 우거진 탑일 수 있습니다."
         },
         {
-          "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-          "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-          "pubDate": "2026-10-06T20:47:01.000Z",
+          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+          "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+          "pubDate": "2026-10-07T15:07:08.000Z",
           "image": null,
-          "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
-          "keywords": [
-            "Apps",
-            "Startups",
-            "TC",
-            "AI assistant",
-            "underdog"
-          ],
-          "isForeign": true,
-          "titleKo": "실리콘 밸리의 AI wunderkind, 가장 사적인 본능/뮤즈 경쟁자 인 Underdog 출시",
-          "summaryKo": "실리콘 밸리 WHO의 지원을 받는 시길 웬 (Sigil Wen) 은 자유롭고 완전히 사적이며 일상적인 작업을 수행할 수 있는 온디바이스 AI 어시스턴트를 구축했습니다."
-        },
-        {
-          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-          "pubDate": "2026-10-06T20:00:30.000Z",
-          "image": null,
-          "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+          "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
           "keywords": [
             "AI",
+            "Biotech & Health",
             "Fundraising",
             "Startups",
-            "Blackstone",
-            "Coatue Management",
-            "In Brief"
+            "HealthLeap",
+            "HealthTech"
           ],
           "isForeign": true,
-          "titleKo": "AI 컴퓨팅 스타트업 Lambda, 계획된 IPO에 앞서 $ 40B 조달",
-          "summaryKo": "엔비디아의 지원을 받는 Lambda는 Coatue와 Blackstone이 주도하는 계획된 2027년 IPO를 앞두고 145억 달러의 자금 평가에서 최대 40억 달러를 모금하고 있습니다."
+          "titleKo": "Healthleap은 자세히 살펴봐야 할 수도 있는 병원 환자에게 플래그를 표시하는 AI로 $ 38M를 모금합니다.",
+          "summaryKo": "자금 조달에는 세쿼이아 캐피털과 퍼스트 라운드 캐피털이 공동 주도하는 $ 8M 시드 라운드와 허밍버드 벤처스가 이끄는 $ 3,000만 시리즈 A가 포함됩니다."
         },
         {
-          "title": "Hark releases an AI personal assistant with a focus on privacy",
-          "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-          "pubDate": "2026-10-06T18:22:45.000Z",
+          "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+          "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+          "pubDate": "2026-10-07T15:00:00.000Z",
           "image": null,
-          "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+          "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+          "keywords": [
+            "Fundraising",
+            "Startups",
+            "Transportation",
+            "bloom",
+            "Exclusive",
+            "supply chain ai"
+          ],
+          "isForeign": true,
+          "titleKo": "블룸, 미국 제조업의 ‘알리바바‘ 가 되기 위해 $ 360만 모금",
+          "summaryKo": "디트로이트 스타트업은 드론 및 로봇 회사가 미국에 본사를 둔 제조업체, 화주 등을 찾을 수 있도록 이동성을 넘어 그 범위를 넓혔습니다."
+        },
+        {
+          "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+          "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+          "pubDate": "2026-10-07T15:00:00.000Z",
+          "image": null,
+          "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+          "keywords": [
+            "Climate",
+            "Startups",
+            "Transportation",
+            "autonomous freight",
+            "parallel systems",
+            "Trains"
+          ],
+          "isForeign": true,
+          "titleKo": "자율주행 화물 열차 배송을 다시 생각하기 위해 스페이스X 동창들이 $ 100M를 모았습니다.",
+          "summaryKo": "Parallel Systems는 최대 500마일까지 수천 파운드의 화물을 운송할 수 있는 자율주행 전기 철도 차량의 생산을 확대하기 위해 1억 달러 ($) 를 모금했습니다."
+        },
+        {
+          "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+          "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+          "pubDate": "2026-10-07T14:30:00.000Z",
+          "image": null,
+          "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
           "keywords": [
             "Startups",
             "AI",
-            "hark",
-            "AI assistant"
+            "TechCrunch Disrupt",
+            "OpenAI"
           ],
           "isForeign": true,
-          "titleKo": "Hark는 개인 정보 보호에 중점을 둔 AI 개인 비서를 공개합니다",
-          "summaryKo": "AI 연구소의 개인 비서는 Muse, Dots 및 Instinct와 경쟁하도록 설계된 미래의 운영 체제입니다."
-        },
-        {
-          "title": "Mirror Particle is building a ‘world model’ of human behavior",
-          "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-          "pubDate": "2026-10-06T16:35:00.000Z",
-          "image": null,
-          "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Mirror Particle",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "미러 파티클은 인간 행동의 ‘세계 모델’ 을 구축하고 있습니다.",
-          "summaryKo": "Mirror Particle은 TechCrunch Disrupt의 Startup Battlefield 200에서 LLM 역할극이 시장 조사 및 브랜드 전략에 부족하다고 주장하면서 인간의 행동을 예측하기 위해 처음부터 구축된 세계 모델을 출시할 예정입니다."
+          "titleKo": "OpenAI의 Alexander Embiricos가 Dots 출시 며칠 후인 TechCrunch Disrupt 2026에 출시됩니다.",
+          "summaryKo": "OpenAI의 Alexander Embiricos는 Dots 출시 며칠 후 TechCrunch Disrupt 2026의 AI 스테이지에 참가할 예정입니다. 이용권에 등록하여 이 대화에 참여하세요. 지금 이용권을 구매하고 최대 $ 100를 할인받고 50% 할인 혜택을 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-07T12:41:59.073Z",
+      "fetchedAt": "2026-10-07T19:45:06.770Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1072,7 +1073,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:42:00.742Z",
+      "fetchedAt": "2026-10-07T19:45:08.973Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1080,6 +1081,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlFJWlpsNGRUUU9BazlsTVZtWmV2WkdWbmJHU3JDd2RGTzVFNy1JekRHdXBVRS1GQlo2cm92N1dUVHhDa0w0T21wY0s5ZnU0Sk85dk1Qd1NtOGh3VzZkOHA1YlZEb19LM2xxUzFNclFnTTk1b0hCX2hBS0RKLWxWY0JsLWF6VlVVMVZGVGFMSQ?oc=5",
+          "pubDate": "2026-10-07T10:05:24.000Z",
+          "image": null,
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 인천광역시",
+          "keywords": [
+            "내게",
+            "맞는",
+            "정책",
+            "지원",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "대구 남구. 2026 남구다운 청년창업지원 사업 참가자 모집 - 데일리대구경북뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJWWJ6WWlueWNSaExVYW9XSTVtUnN6M3FVaUhrbHVlQVpwY0dOSVIzTDN6MTlEcVVldmo4OVpGTEFZb2VYV05IWVpaNHlJRXhha3BrTlVBbmd2aEtGS2U0bVp2dkN2QQ?oc=5",
@@ -1098,11 +1116,11 @@
           "summaryKo": null
         },
         {
-          "title": "대구 남구, 청년 창업 4개 분야 지원…32개 팀 모집 - www.kyongbuk.co.kr",
+          "title": "대구 남구, 청년 창업 4개 분야 지원…32개 팀 모집 - 경북일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ib0hXZEctMk5OWjJFR0lCNXhWU3Exa3M0ZFNRM1lyTjlyYlB1eUxqYjI1MjFLZnZ6WTNybTJiczMxT093bGdSRzNUY1UxVm11T0tPWnotSVdyb216bnRMYVFVNG1DTUJsVjZKRENsNA?oc=5",
           "pubDate": "2026-10-07T09:02:43.000Z",
           "image": null,
-          "summary": "대구 남구, 청년 창업 4개 분야 지원…32개 팀 모집 www.kyongbuk.co.kr",
+          "summary": "대구 남구, 청년 창업 4개 분야 지원…32개 팀 모집 경북일보",
           "keywords": [
             "대구",
             "남구",
@@ -1115,128 +1133,111 @@
           "summaryKo": null
         },
         {
-          "title": "파주도시공사, ‘무장애 관광 민간시설 접근성 개선 지원사업’ 참여업체 모집 - 문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05Mkk2OXRmaFdDRkRISTIxS2pSdHhyb0dSenJPek8xV0F3NlExTEUzWVJGVUVkNEd1YV85ZWRoaXE1OEhKVGhEOFZua19MaTRn?oc=5",
-          "pubDate": "2026-10-07T01:57:56.000Z",
+          "title": "대구 남구, 내달 12일까지 청년창업 지원 참여자 모집 - 경북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YWpMWUNadTB1eTdkMmNsRFJFX1MyZ0pwUThtcjdMRTV4NTZheTBwcnhURUM5ZXZHRFN4T3E3YS1kemlzLTJRYVhjVF81YnNNQjg3Sk1wekNMeE56SDRkWkpYVjNSNmhxYnc?oc=5",
+          "pubDate": "2026-10-07T11:33:21.000Z",
           "image": null,
-          "summary": "파주도시공사, ‘무장애 관광 민간시설 접근성 개선 지원사업’ 참여업체 모집 문화일보",
+          "summary": "대구 남구, 내달 12일까지 청년창업 지원 참여자 모집 경북도민일보",
           "keywords": [
-            "파주도시공사",
-            "무장애",
-            "관광",
-            "민간시설",
-            "접근성"
+            "대구",
+            "남구",
+            "내달",
+            "12일까지",
+            "청년창업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "\"흉물 빈집 허물고 동네 쉼터로\"… 영주시, 빈집 정비 지원사업 2동 추가 모집 - 이로운넷",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IYVg2eVZhcFN1dEtpazBoTmVuWHRKMWp5c1dVeUpNS0xoelBjTG9LdnlvY2plYng3R0xiMWJBNUE4WGZaekhmS0tySWJLVENHbnlFa2F0UG1kbHR0V0VmdTZOeFNXUQ?oc=5",
-          "pubDate": "2026-10-07T03:49:00.000Z",
+          "title": "무안군, 음식점 경사로 지원사업 참여업소 추가 모집 - 서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxZ3ZwTF9NVW1Fak9sVVFXMGctMkpDWWx2cUd1cGFoTWd5bjJ6NS12MFRwLVM0aDhqb1BHVjUtUU1ldFRiUDU0a2t2bjB0YTJ0TTV0anJ3NjV1UDVTc1FOUWg1bFRPcXpBU0VF?oc=5",
+          "pubDate": "2026-10-07T12:25:05.000Z",
           "image": null,
-          "summary": "\"흉물 빈집 허물고 동네 쉼터로\"… 영주시, 빈집 정비 지원사업 2동 추가 모집 이로운넷",
+          "summary": "무안군, 음식점 경사로 지원사업 참여업소 추가 모집 서울뉴스통신",
           "keywords": [
-            "흉물",
-            "빈집",
-            "허물고",
-            "동네",
-            "쉼터로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "나주시 ‘청년 활력소득 지원사업’ 4분기 참여자 모집 - https://www.theleader.co.kr/",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxNmpaa2NXMUFSTVlRSWZzU3dnWmVRdnUtLVVjcDNOdENrU1VBbmxiaW93dFVUQmdDQU95VHkzcVZwbTJ5SGpCMEd4RjZINERMNGVaTGdNLWxrdzdMcElTdW05ajkzMjV6dUZteA?oc=5",
-          "pubDate": "2026-10-07T05:25:58.000Z",
-          "image": null,
-          "summary": "나주시 ‘청년 활력소득 지원사업’ 4분기 참여자 모집 https://www.theleader.co.kr/",
-          "keywords": [
-            "나주시",
-            "청년",
-            "활력소득",
+            "무안군",
+            "음식점",
+            "경사로",
             "지원사업",
-            "4분기"
+            "참여업소"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-07T12:42:01.185Z",
+      "fetchedAt": "2026-10-07T19:45:09.474Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "esg",
-      "label": "ESG",
-      "count": 2,
-      "rank": 1,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "구글",
       "label": "구글",
       "count": 4,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "남구",
+      "label": "남구",
+      "count": 3,
       "rank": 7,
-      "change": "new"
+      "change": "up"
+    },
+    {
+      "key": "대구",
+      "label": "대구",
+      "count": 3,
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "공개",
       "label": "공개",
       "count": 2,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "남구",
-      "label": "남구",
-      "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "대구",
-      "label": "대구",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1276,52 +1277,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "추천 동영상"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "뉴스"
     },
     {
-      "key": "ai assistant",
-      "label": "AI assistant",
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "AI"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI 어시스턴트"
+      "change": "new",
+      "labelKo": "모금 활동"
     }
   ]
 }
