@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-08T17:12:37.689Z",
+  "collectedAt": "2026-10-08T22:56:47.986Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "농지 전수조사 반발에 결국…“관행적 위반은 손 안대겠다”는 정부",
+          "link": "https://www.mk.co.kr/news/economy/12172124",
+          "pubDate": "2026-10-08T20:59:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/09/rcv.NEWS1.NEWS1.20261008.2026-10-08T112405_1008149343_ECONOMY_I_R.jpg",
+          "summary": "농지 전수조사 후속조치 고령자 농지 등 관행적 임대차 적법한 계약으로 인정하기로 땅 쪼개팔기 등은 투기 분류농지 전수조사에 대한 농민들의 불만이 가라앉지 않자 정부가 상속 농지나 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "국내 금융권 해킹 배후는 ‘26세 중국인’?…지목된 남성은 “휴대전화 도용당했다”",
           "link": "https://www.mk.co.kr/news/economy/12172047",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "현대해상 3세 승계 속도 … 정몽윤, 장남에 6% 증여",
-          "link": "https://www.mk.co.kr/news/economy/12171939",
-          "pubDate": "2026-10-08T10:47:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/09/20261009_01160108000003_M00.jpg",
-          "summary": "정몽윤 현대해상 회장이 장남인 정경선 부사장(사진)에게 보유 지분 6%를 증여한다. 정 부사장의 경영 참여에 이어 대규모 지분 이전까지 진행되면서 현대해상의 오너 3세 경영권 승계..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:13.411Z",
+      "fetchedAt": "2026-10-08T22:56:20.365Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+          "pubDate": "2026-10-08T20:30:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+          "keywords": [
+            "Enforcement Actions"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 아메리칸 익스프레스 컴퍼니 (American Express Company) 에 대한 집행 조치를 발표하여 자금 세탁과 관련된 의심스러운 활동을 충분히 탐지하고 보고하지 못했습니다.",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 아메리칸 익스프레스 컴퍼니 (American Express Company) 에 대한 집행 조치를 발표하여 자금 세탁과 관련된 의심스러운 활동을 충분히 탐지하고 보고하지 못했습니다."
+        },
         {
           "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다.",
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다."
-        },
-        {
-          "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-          "pubDate": "2026-10-02T15:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-          "keywords": [
-            "Enforcement Actions"
-          ],
-          "isForeign": true,
-          "titleKo": "연방 준비 이사회는 Ontario Bancorporation, Inc. 에 집행 조치를 내립니다.",
-          "summaryKo": "연방 준비 이사회는 Ontario Bancorporation, Inc. 에 집행 조치를 내립니다."
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:13.524Z",
+      "fetchedAt": "2026-10-08T22:56:22.913Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
+          "pubDate": "2026-10-09T07:00:00.000Z",
+          "image": null,
+          "summary": "오픈AI는 미공개 프론티어 모델에 약 4000개의 고난도 수학 연구 문제를 제시하고, 그 과정에서 나온 의미 있는 성과를 722편의 연구 원고(manuscript)로 정리해 6일(현지시간) 공개했습니다. 여기에는 정수론과 대수학, 위상수학, 이론 컴퓨터과학 등 여러 분야가 포함됐으며, 722편의 원고는 372개의 관련 결과 군(result family)으로 묶였습니다. 증명을 컴퓨터가 검증할 수 있는 프로그래밍 언어인 '린(Lean)'으로 형식화한 자료와 연구 과정에 사용한 연산량, 문제 풀이 시도에 관한 통계도 함께 공개했습니다.",
+          "keywords": [
+            "10월8일",
+            "수학",
+            "문제",
+            "4000개에",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "구글, 텍스트 입력으로 게임 만드는 플랫폼 공개…유니티와 협력",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216076",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "MS, 서피스 랩톱 울트라 출시에 'MAI-코드-1.1' 온디바이스 최적화 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216071",
-          "pubDate": "2026-10-08T16:43:40.000Z",
-          "image": null,
-          "summary": "마이크로소프트(MS)가 차세대 대표 하드웨어 출시 시점에 맞춰 자사의 최신 코딩 AI 모델을 클라우드가 아닌 사용자 PC에서 직접 실행할 수 있도록 온디바이스 환경을 대폭 강화했다.MS는 7일(현지시간) 엔비디아 RTX 스파크 기반 '서피스 랩톱 울트라' 등 차세대 PC 출시에 발맞추어 코딩 특화 AI 모델 'MAI-코드-1.1 플래시(MAI-Code-1.1-Flash)'의 PC 로컬 구동 최적화 버전을 공개했다.이번 조치는 이미 지난 8월 선보였던 모델의 연산 성능과 메모리 효율을 온디바이스 환경에 최적화해 고성능 PC 단말기에서",
-          "keywords": [
-            "MS",
-            "서피스",
-            "랩톱",
-            "울트라",
-            "출시에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:14.513Z",
+      "fetchedAt": "2026-10-08T22:56:24.159Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,36 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "link": "https://openai.com/index/oracle",
+          "pubDate": "2026-10-08T16:00:00.000Z",
+          "image": null,
+          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "keywords": [
+            "How",
+            "Oracle",
+            "turns",
+            "days",
+            "of"
+          ],
+          "isForeign": true,
+          "titleKo": "오라클이 ChatGPT 및 CODEX를 통해 업무 시간을 분 단위로 전환하는 방법",
+          "summaryKo": "채용, 엔지니어링 및 운영 전반에 걸쳐 오라클은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다."
+        },
+        {
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "link": "https://openai.com/index/pollo-ai",
+          "pubDate": "2026-10-08T12:00:00.000Z",
+          "image": null,
+          "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI로 창의적인 아이디어를 캠페인으로 전환하는 Pollo AI",
+          "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra 및 GPT ‑ Image ‑ 2.5를 통해 크리에이터가 대담한 아이디어를 세부 이미지와 시네마틱 동영상 광고로 전환할 수 있도록 지원합니다."
+        },
         {
           "title": "Disrupting AI-enabled “false front” operations",
           "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -324,39 +354,9 @@
           "isForeign": true,
           "titleKo": "래디슨 호텔 그룹 (Radisson Hotel Group) 이 호텔 검색을 ChatGPT로 가져옵니다.",
           "summaryKo": "Radisson은 Accenture와 파트너십을 맺고 OpenAI 기술을 사용하여 ChatGPT 플러그인을 구축하여 여행자들이 여행을 계획하는 동안 호텔을 찾고, 비교하고, 예약할 수 있도록 지원했습니다."
-        },
-        {
-          "title": "GPT-6 and Intelligent UI for everyone",
-          "link": "https://openai.com/index/gpt-6-for-everyone",
-          "pubDate": "2026-10-07T00:00:00.000Z",
-          "image": null,
-          "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "모두를 위한 GPT-6 및 지능형 UI",
-          "summaryKo": "GPT ‑ 6은 지능형 UI를 갖춘 ChatGPT에서 전 세계적으로 출시되어 직접 탐색하고 사용할 수 있는 비주얼 및 대화형 경험을 통해 더 빠른 응답을 제공합니다."
-        },
-        {
-          "title": "How Jump Trading is scaling quant research with ChatGPT",
-          "link": "https://openai.com/index/jump-trading",
-          "pubDate": "2026-10-06T12:00:00.000Z",
-          "image": null,
-          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-          "keywords": [
-            "How",
-            "Jump",
-            "Trading",
-            "is",
-            "scaling"
-          ],
-          "isForeign": true,
-          "titleKo": "Jump Trading이 ChatGPT로 양적 연구를 확장하는 방법",
-          "summaryKo": "JUMP Trading은 OpenAI를 사용하여 정량적 연구를 확장합니다. 장기적으로 실행되는 AI 워크플로우가 여러 데이터 소스와 인적 검토를 결합하는 방법을 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:16.571Z",
+      "fetchedAt": "2026-10-08T22:56:27.677Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "오래가는 소프트웨어가 천천히 만들어지는 과정",
-          "link": "https://news.hada.io/topic?id=35022",
-          "pubDate": "2026-10-08T16:46:35.000Z",
+          "title": "Theranos.world",
+          "link": "https://news.hada.io/topic?id=35033",
+          "pubDate": "2026-10-08T22:31:28.000Z",
           "image": null,
-          "summary": "Zotero는 역사학자들이 연구에 필요한 도구를 함께 탐색하며 구상한 소프트웨어로, 초기 시제품까지 약 5년이 걸렸으며 현재 2,000만 명 이상이 사용함 출발점은 웹 자료를 수집하는 Web Scrapbook과 로컬에서 메모와 인용을 관리하는 Scribe의 결...",
+          "summary": "Elizabeth Holmes의 책상을 재현한 인터랙티브 시뮬레이션으로, MacBook과 iPhone, Edison 기기를 조작할 수 있음 문자와 이메일은 모두 실제 재판 자료에서 가져왔으며, Extend로 파싱함 의자를 클릭하거나 탭해 앉고, 드래그로 주변을...",
           "keywords": [
-            "오래가는",
-            "소프트웨어가",
-            "천천히",
-            "만들어지는",
-            "과정"
+            "Theranos",
+            "world"
+          ],
+          "isForeign": true,
+          "titleKo": "Theranos.world",
+          "summaryKo": "엘리자베스 홈즈의 책상을 재현한 인터랙티브 시뮬레이션으로, 맥북과 아이폰, 에디슨기기를 조작할 수 있음 문자와 이메일은 모두 실제 재판 자료에서 가져왔으며, 익스텐드로 파싱함 의자를 클릭하거나 탭해 앉고,드래그로 주변을..."
+        },
+        {
+          "title": "왜 AI 업계는 DeepSeek 4.1 Flash에 긴장하지 않는가?",
+          "link": "https://news.hada.io/topic?id=35032",
+          "pubDate": "2026-10-08T21:38:33.000Z",
+          "image": null,
+          "summary": "DeepSeek 4.1 Flash를 약 한 달간 12개 프로젝트에서 집중적으로 사용한 경험상, 대화와 작업 결과, 속도에서 Opus와 차이를 체감하기 어려웠지만 비용은 훨씬 낮았음 일상적인 개발 작업에는 이미 충분한 성능을 제공하므로, 최신 최고급 모델을 좇기보다 같은 일을 얼마나...",
+          "keywords": [
+            "AI",
+            "업계는",
+            "DeepSeek",
+            "Flash에",
+            "긴장하지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국, Microsoft 등 기술 기업 대상 비자 프로그램 중단",
-          "link": "https://news.hada.io/topic?id=35021",
-          "pubDate": "2026-10-08T16:43:35.000Z",
+          "title": "일러스트레이터에게 우리 집 그림을 의뢰했다. 이제 그 그림이 Home Assistant 대시보드다",
+          "link": "https://news.hada.io/topic?id=35031",
+          "pubDate": "2026-10-08T21:35:33.000Z",
           "image": null,
-          "summary": "Trump 행정부가 여러 기술 기업을 대상으로 이민 프로그램을 중단하겠다고 밝힘 중단 대상에는 Microsoft가 포함됨 행정부는 취업 비자 제도의 광범위한 남용 의혹을 중단 사유로 내세움 JD Vance 부통령은 워...",
+          "summary": "실제 집을 그린 인터랙티브 대시보드를 만들어, 기존 Home Assistant 앱을 쓰려 하지 않던 가족들도 기기를 직접 제어하게 됨 벽난로의 불꽃, 정원 조명, 에어컨의 바람을 그림에 반영하며, 기기 상태에 따라 정지 이미지와 애니메이션 WebP를 바꿔 표시함",
           "keywords": [
-            "미국",
-            "Microsoft",
-            "기술",
-            "기업",
-            "대상"
+            "일러스트레이터에게",
+            "우리",
+            "그림을",
+            "의뢰했다",
+            "이제"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Tell HN: 탄자니아 농촌 주민 한 명의 교육비를 10년째 지원하고 있습니다",
-          "link": "https://news.hada.io/topic?id=35020",
-          "pubDate": "2026-10-08T16:40:35.000Z",
+          "title": "SynthID Detector - AI 생성 미디어 워터마크 탐지 도구",
+          "link": "https://news.hada.io/topic?id=35030",
+          "pubDate": "2026-10-08T20:37:02.000Z",
           "image": null,
-          "summary": "10년 전 19세에 탄자니아 Njombe 고지대의 Ibumila 마을에서 여름을 보내며, 머물던 집의 11세 딸 Anwarite의 학비 지원을 시작함. 마을에는 학교가 없고 한 시간 거리의 기숙학교는 연간 수백 달러로 대부분의 가정이 감당하기 어려웠지만, 당시 여름 아르바이트 2주 치 수입으로 지원할 수 ...",
+          "summary": "Google의 SynthID Detector는 이미지, 영상, 오디오를 업로드해 AI 생성 또는 편집 과정에서 삽입된 SynthID 워터마크를 확인하는 도구임 이미지에서는 워터마크 존재 여부를, 영상과 오디오에서는 워터마크가 있는 구간을 탐지함 Google DeepMind가 개발...",
           "keywords": [
-            "Tell",
-            "HN:",
-            "탄자니아",
-            "농촌",
-            "주민"
+            "SynthID",
+            "Detector",
+            "AI",
+            "생성",
+            "미디어"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "브라우저에서 네이티브로 실행되는 고전 PC 데모씬 작품들",
-          "link": "https://news.hada.io/topic?id=35019",
-          "pubDate": "2026-10-08T15:32:55.000Z",
+          "title": "스마트 커피 머신, 열흘간 트래픽 1TB 발생 - 대부분 집 안 네트워크 통신",
+          "link": "https://news.hada.io/topic?id=35029",
+          "pubDate": "2026-10-08T20:34:02.000Z",
           "image": null,
-          "summary": "demoscene-recomp는 고전 PC 데모의 원본 DOS 코드를 명령어 단위로 재컴파일해 브라우저에서 실행함 x86 에뮬레이터에서 데모를 처음부터 끝까지 실행하며 CPU가 실제 실행한 코드 블록을 기록하고, 원래 명령어와 정확한 사이클 타이밍을 유지한 C 코드로 변환함...",
+          "summary": "부모님 집의 네트워크를 관리하다가 Keurig 스마트 커피 머신에서 열흘간 약 1TB의 트래픽이 발생한 것을 발견함 처음에는 대규모 업로드에 놀랐지만, 추가 확인 결과 트래픽 대부분은 외부 인터넷으로 나가지 않고 집 안 네트워크에 머물렀음 외부 전송량...",
           "keywords": [
-            "브라우저에서",
-            "네이티브로",
-            "실행되는",
-            "고전",
-            "PC"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 반도체부터 전세·보험까지, 시뮬레이터를 만지며 배우는 무료 웹 교과서 시리즈",
-          "link": "https://news.hada.io/topic?id=35018",
-          "pubDate": "2026-10-08T15:27:26.000Z",
-          "image": null,
-          "summary": "2022년 Bartosz Ciechanowski의 Mechanical Watch를 보고 신선한 충격을 받았습니다. 그 뒤로 제가 관심 있는 분야도 저렇게 직접 만져 보며 이해하는 웹 페이지로 만들고 싶다는 생각이 늘 있었는데, AI가 발전한 덕분에 이제는 혼자서도 만들 수 있게 되었습...",
-          "keywords": [
-            "Show",
-            "GN:",
-            "반도체부터",
-            "전세",
-            "보험까지"
+            "스마트",
+            "커피",
+            "머신",
+            "열흘간",
+            "트래픽"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:20.980Z",
+      "fetchedAt": "2026-10-08T22:56:29.727Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -458,6 +455,73 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "A YouTube test brought creator analytics directly into brands’ YouTube Studio dashboards",
+          "link": "https://www.tubefilter.com/2026/10/08/youtube-studio-creator-analytics-tool-discovery/",
+          "pubDate": "2026-10-08T22:40:29.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/sambucha-analytics.jpg",
+          "summary": "At its annual Made On presentation, YouTube announced several tools that help brands forge partnerships with creators. Now, a related feature has been spotted in the wild. On X, creator growth platform VidIQ shared a screenshot that shows a YouTube Studio tab described as a \"creator discovery\" hub. The page shows analytics from the channels of other creators, including the product reviewer Sambucha. \"You can search certain channels and see their backend data: unique viewers, watch time, audience",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "channel search"
+          ],
+          "isForeign": true,
+          "titleKo": "브랜드의 YouTube Studio 대시보드에 크리에이터 분석을 직접 가져온 YouTube 테스트",
+          "summaryKo": "연례 Made On 프레젠테이션에서 YouTube는 브랜드가 크리에이터와의 파트너십을 구축하는 데 도움이 되는 몇 가지 도구를 발표했습니다. 이제 야생에서 관련 기능이 발견되었습니다. X에서 크리에이터 성장 플랫폼 VidIQ는 '크리에이터 검색' 허브로 설명된 YouTube 스튜디오 탭을 보여주는 스크린샷을 공유했습니다. 페이지에는 제품 리뷰어인 Sambucha를 포함한 다른 크리에이터의 채널에서 얻은 분석 정보가 표시됩니다. \"특정 채널을 검색하고 백엔드 데이터를 볼 수 있습니다: 고유 시청자,"
+        },
+        {
+          "title": "OpenAI brought in Patreon’s Co-Founder. Here’s what he has planned.",
+          "link": "https://www.tubefilter.com/2026/10/08/openai-sam-yam-creator-project-chloe-shih-office-drama/",
+          "pubDate": "2026-10-08T22:00:10.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/chloe-shih-office-drama.jpg",
+          "summary": "Two weeks after OpenAI announced the hire of Sam Yam as the head of its Creator Product division, the Patreon Co-Founder is already hard at work. Yam's team has announced a partnership with Chloe Shih, who will use OpenAI tech to produce a parenting series. Shih gained a significant following across platforms like YouTube and Instagram by uploading sincere, polished videos that document her life and her career in the tech industry. Empowered by her success, Shih launched Office Drama, a podcast ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "chloe shih",
+            "office drama"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI가 Patreon의 공동 창업자를 영입했습니다. 그가 계획한 것은 다음과 같습니다.",
+          "summaryKo": "OpenAI가 Sam Yam을 크리에이터 제품 부문 책임자로 고용했다고 발표한 지 2주 후, Patreon 공동 창업자는 이미 열심히 일하고 있습니다. Yam의 팀은 OpenAI 기술을 사용하여 육아 시리즈를 제작할 Chloe Shih와의 파트너십을 발표했습니다. Shih는 자신의 삶과 기술 업계에서의 경력을 기록한 성실하고 세련된 동영상을 업로드하여 YouTube 및 Instagram과 같은 플랫폼에서 상당한 팔로워를 확보했습니다. 그녀의 성공에 힘입어 Shih는 Offi를 출시했습니다."
+        },
+        {
+          "title": "AI-generated videos get labels. The European Union is applying the same standards to text.",
+          "link": "https://www.tubefilter.com/2026/10/08/european-union-eu-generative-ai-text-chatgpt/",
+          "pubDate": "2026-10-08T20:36:01.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/chatgpt-icon.jpg",
+          "summary": "AI-generated text has become a major concern in classrooms, offices, and publishing houses, but the European Union has proposed a solution. The continental body is beginning to enforce the EU AI Act, and OpenAI is one of the first tech companies that will comply with the law by placing invisible watermarks on text generated by ChatGPT. The EU AI Act, first published in 2024, is expected to fully take effect over the next four years. As national governments put the regulation into operation, Open",
+          "keywords": [
+            "Articles",
+            "Artificial Intelligence",
+            "ChatGPT",
+            "Featured",
+            "Homepage Feature",
+            "News"
+          ],
+          "isForeign": true,
+          "titleKo": "AI로 생성된 동영상에는 라벨이 표시됩니다. 유럽 연합 (EU) 은 텍스트에 동일한 기준을 적용하고 있습니다.",
+          "summaryKo": "AI 생성 텍스트는 교실, 사무실 및 출판사에서 주요 관심사가되었지만 유럽 연합은 해결책을 제안했습니다. 유럽연합 AI법이 시행되기 시작했고, OpenAI는 ChatGPT에 의해 생성된 텍스트에 보이지 않는 워터마크를 배치하여 법을 준수할 최초의 기술 회사 중 하나입니다. 2024년에 처음 발표된 EU AI 법은 향후 4년간 완전히 발효될 것으로 예상됩니다. 각국 정부가 규제를"
+        },
+        {
+          "title": "Canon’s $100,000 First Cut contest returns to help creators fund their dream projects",
+          "link": "https://www.tubefilter.com/2026/10/08/canons-100000-first-cut-contest-returns-to-help-creators-fund-their-dream-projects/",
+          "pubDate": "2026-10-08T17:51:17.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/2252318131.jpg",
+          "summary": "Canon is putting another $100,000 straight into creators’ hands to help them bring their dream projects to life. Last year, Canon introduced its First Cut Contest, which called on digital content creators and filmmakers to submit a video pitch for the project they would make if they had proper production support and funding. Winners Braxton […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "캐논의 $ 100,000 퍼스트 컷 콘테스트가 돌아와 크리에이터가 꿈에 그리던 프로젝트에 자금을 지원할 수 있도록 지원합니다.",
+          "summaryKo": "Canon은 크리에이터가 꿈에 그리던 프로젝트를 실현할 수 있도록 $ 100,000를 더 지원하고 있습니다. 작년에 캐논은 퍼스트 컷 콘테스트를 도입했습니다. 이 콘테스트는 디지털 콘텐츠 제작자와 영화 제작자에게 적절한 제작 지원과 자금이 있다면 제작할 프로젝트에 대한 비디오 피치를 제출하도록 요청했습니다. 수상작 Braxton […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
+        },
         {
           "title": "Dhar Mann wants to broker $100 million in creator/brand deals, and also he’s opening “Creator City” in Los Angeles",
           "link": "https://www.tubefilter.com/2026/10/07/dhar-mann-advertising-week-new-york-creator-city/",
@@ -470,76 +534,9 @@
           "isForeign": true,
           "titleKo": "Dhar Mann은 크리에이터/브랜드 거래에서 1억 달러 ($) 를 중개하고자 하며, 로스앤젤레스에 '크리에이터 시티' 를 열고 있습니다.",
           "summaryKo": "다르 만 (Dhar Mann) 은 올해 뉴욕 광고 주간 (Advertising Week New York) 에서 그의 이름을 알렸습니다. 이 행사의 첫 번째 \"최고 크리에이터 책임자\" (및 기조 연설자) 로서 그는 AWNY가 끝날 때까지 1억 달러 상당의 스폰서십 거래를 중개하기 위해 브랜드와 크리에이터 사이에 연락을 취하겠다는 서약을 했습니다. $ Digiday에 따르면, Mann은 […] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "Meta’s smart glasses are innovative. Are they a security threat?",
-          "link": "https://www.tubefilter.com/2026/10/07/meta-ray-ban-smart-glasses-privacy-security-question/",
-          "pubDate": "2026-10-07T22:54:01.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/meta-ray-bans-smart-glasses.jpg",
-          "summary": "Last month, Meta made a big announcement. The Big Tech giant took a bold step forward in its wearables division by announcing advanced smart glasses that can play major entertainment apps while remaining completely portable. When that product arrives next year, it will cement Meta's status as a wearables titan. Its Orion line has benefitted from a Ray-Ban partnership that makes smart glasses sportier than ever before. An Oakley-inspired design upped the ante last year, and Meta's rivals have rol",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "Meta",
-            "News",
-            "meta"
-          ],
-          "isForeign": true,
-          "titleKo": "Meta의 스마트 안경은 혁신적입니다. 보안 위협인가요?",
-          "summaryKo": "지난 달, Meta는 큰 발표를 했습니다. 빅 테크 거대 기업은 휴대성을 완벽하게 유지하면서 주요 엔터테인먼트 앱을 재생할 수 있는 고급 스마트 안경을 발표함으로써 웨어러블 부문에서 대담한 발걸음을 내디뎠습니다. 그 제품이 내년에 도착하면 웨어러블 타이탄으로서의 메타의 지위를 확고히 할 것입니다. Orion 라인은 스마트 안경을 그 어느 때보다 스포티하게 만드는 Ray-Ban 파트너십의 혜택을 받았습니다. Oakley에서 영감을 받은 디자인이 작년에 상향 조정되었고, Me"
-        },
-        {
-          "title": "In the war to control social media feeds, VPNs are a battleground. A “day of action” defended them.",
-          "link": "https://www.tubefilter.com/2026/10/07/defend-vpns-day-of-action-fight-for-the-future/",
-          "pubDate": "2026-10-07T22:18:49.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/vpn-getty.jpg",
-          "summary": "On September 25, a group of tech companies and digital rights activists came together to launch a global campaign. Together, they made their message clear: The time is now to rally behind virtual private networks (VPNs). That message was amplified during the Defend VPNs Day of Action, an initiative led by the nonprofit group Fight for the Future. Together with VPN providers Surfshark, Windscribe, and Amnezia, Fight for the Future rallied to defend internet users' collective right to use private ",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Defend VPNs Day of Action",
-            "fight for the future"
-          ],
-          "isForeign": true,
-          "titleKo": "소셜 미디어 피드를 통제하기 위한 전쟁에서 VPN은 전쟁터입니다. '행동의 날' 이 그들을 옹호했다.",
-          "summaryKo": "9월 25일, 기술 회사와 디지털 권리 운동가 그룹이 모여 글로벌 캠페인을 시작했습니다. 이제 가상 사설망 (VPN) 을 구축할 때입니다. 이 메시지는 비영리 단체인 Fight for the Future가 주도하는 이니셔티브인 Defend VPNs Day of Action 기간 동안 증폭되었습니다. VPN 제공 업체 인 Surfshark, Windscribe 및 Amnezia와 함께 Fight for the Future는 인터넷 사용자의 집단을 방어하기 위해 모였습니다."
-        },
-        {
-          "title": "Some TikTok users trust medical influencers more than their own doctors",
-          "link": "https://www.tubefilter.com/2026/10/07/tiktok-study-vcu-medical-misinformation-doctors/",
-          "pubDate": "2026-10-07T21:19:11.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/tiktok-hq-sign.jpg",
-          "summary": "Medical misinformation is a significant issue on TikTok. The app has been populated with misleading videos discussing topics like steroids, ADHD, and acetaminophen. Despite TikTok's preventative measures, those videos continue to be a thorn in its side. What mechanisms allow health misinformation to spread on TikTok? A research team led by Dr. Suzanne Makarem of Virginia Commonwealth University studied medical influencers on TikTok and put forth a compelling idea: Viewers might be putting too mu",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "TikTok",
-            "medical misinformation"
-          ],
-          "isForeign": true,
-          "titleKo": "일부 TikTok 사용자는 자신의 의사보다 의료 인플루언서를 더 신뢰합니다",
-          "summaryKo": "의료 허위 정보는 TikTok에서 중요한 문제입니다. 이 앱에는 스테로이드, ADHD, 아세트아미노펜과 같은 주제에 대해 논의하는 오해의 소지가 있는 동영상이 가득합니다. TikTok의 예방 조치에도 불구하고 해당 동영상은 계속해서 옆구리에 가시가 되고 있습니다. TikTok에서 건강에 관한 잘못된 정보가 퍼질 수 있는 메커니즘은 무엇인가요? 버지니아 커먼웰스 대학 (Virginia Commonwealth University) 의 수잔 마카렘 (Suzanne Makarem) 박사가 이끄는 연구팀이 틱톡 (TikTok) 에서 의학 인플루언서를 연구하고 설득력 있는 아이디어를 내놓았습니다. 시청자 이동"
-        },
-        {
-          "title": "The studio making Jacksepticeye’s Bloodborne film just tapped MoistCr1TiKaL for a RuneScape adaptation",
-          "link": "https://www.tubefilter.com/2026/10/06/lyrical-animation-moistcritikal-runescape-bloodborne-jacksepticeye/",
-          "pubDate": "2026-10-06T23:37:26.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/moistrune.jpg",
-          "summary": "Lyrical Animation, the production company behind the upcoming Bloodborne film produced by Jacksepticeye, has tapped another lore-expert YouTuber to lead its next video game adaptation. MoistCr1TiKaL (aka penguinz0, aka Charlie White) has partnered with Lyrical and game developer Jagex to adapt long-running, beloved fantasy MMORPG RuneScape as an animated series. White, who is well-known for […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "Jacksepticeye의 Bloodborne 필름을 제작하는 스튜디오는 RuneScape 적응을 위해 MoistCr1TiKaL을 탭했습니다.",
-          "summaryKo": "Jacksepticeye가 제작할 예정인 Bloodborne 영화의 제작사인 Lyrical Animation은 또 다른 설화 전문가 유튜버를 활용하여 다음 비디오 게임 적응을 이끌었습니다. MoistCr1TiKaL (일명 penguinz0, 일명 Charlie White) 은 Lyrical 및 게임 개발자 Jagex와 제휴하여 오랫동안 사랑받는 판타지 MMORPG RuneScape를 애니메이션 시리즈로 각색했습니다. […] Tubefilter를 방문하여 더 멋진 이야기를 들어보세요."
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:21.220Z",
+      "fetchedAt": "2026-10-08T22:56:37.239Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:21.421Z",
+      "fetchedAt": "2026-10-08T22:56:37.426Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:21.478Z",
+      "fetchedAt": "2026-10-08T22:56:37.500Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:25.527Z",
+      "fetchedAt": "2026-10-08T22:56:39.991Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:25.851Z",
+      "fetchedAt": "2026-10-08T22:56:40.347Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -891,20 +888,37 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "pubDate": "2026-10-08T18:19:45.000Z",
+          "image": null,
+          "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+          "keywords": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "TC",
+            "AI leaderboard",
+            "Arena AI"
+          ],
+          "isForeign": true,
+          "titleKo": "인기 AI 리더보드 아레나, 10개월 만에 밸류에이션이 $ 3.1B로 거의 두 배 증가",
+          "summaryKo": "인기있는 LMArena 리더 보드의 배후에있는 회사는 Lightspeed와 Khosla가 이끄는 $ 2 억을 모금했으며 현재 거짓말과 같은 정렬 문제에 대해 AI 모델을 측정하고 있습니다."
+        },
+        {
           "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
           "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
           "pubDate": "2026-10-08T16:45:00.000Z",
           "image": null,
-          "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community and even dates.",
+          "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
           "keywords": [
-            "TC",
             "Startups",
             "Startup Battlefield 200",
-            "Battlefield 200"
+            "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "교도소에서 복역한 스타트업 창업자가 미개척 시장인 전과자를 법정에 세우려고 합니다.",
-          "summaryKo": "증권 위반으로 연방 교도소에서 근무했던 전 스트래튼 오크몬트 파트너였던 리처드 브론슨 (Richard Bronson) 은 감옥을 떠나는 사람들이 일자리, 주택, 지역 사회, 심지어 날짜까지 찾을 수 있도록 AI를 사용하는 스타트업인 커미서리 클럽을 시작했습니다."
+          "summaryKo": "증권 위반으로 연방 교도소에서 근무했던 전 스트래튼 오크몬트 파트너였던 리처드 브론슨 (Richard Bronson) 은 감옥을 떠나는 사람들이 일자리, 주택, 지역 사회, 심지어 날짜까지 찾을 수 있도록 AI를 사용하는 스타트업인 커미서리 클럽 (Commissary Club) 을 시작했습니다."
         },
         {
           "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
@@ -942,43 +956,21 @@
           "summaryKo": "10월 13 ~ 15일 샌프란시스코 모스콘 웨스트에서 열리는 테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 에는 글로벌 기술 생태계가 모여 있습니다. 지금 이용권을 구매하고 최대 $ 100의 할인 혜택을 받으세요. 동일한 유형의 티켓을 1초 안에 구매하고 50% 할인을 받으세요."
         },
         {
-          "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-          "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "title": "The complete Side Events lineup at Founder Summit 2026",
+          "link": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
           "pubDate": "2026-10-08T14:00:00.000Z",
           "image": null,
-          "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+          "summary": "Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode with energy — and the real magic kicks off with an epic lineup of Side Events lighting up the city from November 3–6!",
           "keywords": [
-            "AI",
-            "Fundraising",
             "Startups",
-            "TC",
-            "Exclusive",
-            "Zach Yadegari"
+            "TechCrunch Founder Summit"
           ],
           "isForeign": true,
-          "titleKo": "Cal AI의 19세 창업자는 새로운 AI 스타트업을 위해 $ 10M를 모금했습니다.",
-          "summaryKo": "인기 있는 Cal AI 칼로리 추적 앱의 공동 설립자인 Zach Yadegari는 Instinct, Muse 및 Bee와 경쟁하는 새로운 개인 AI 에이전트 스타트업을 시작했습니다."
-        },
-        {
-          "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-          "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-          "pubDate": "2026-10-08T13:20:32.000Z",
-          "image": null,
-          "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Startups",
-            "manus",
-            "Manus AI",
-            "Meta"
-          ],
-          "isForeign": true,
-          "titleKo": "중국의 Manus는 Meta와의 분할 이후 첫 번째 자금 조달 라운드에서 $ 500M 이상을 모금합니다.",
-          "summaryKo": "Boyu Capital과 IDG Capital이 펀딩 라운드를 이끌었으며, 기존 주주인 Tencent, HSG (이전 명칭: Sequoia China), ZhenFund 등도 참여했습니다."
+          "titleKo": "파운더 서밋 2026의 전체 사이드 이벤트 라인업",
+          "summaryKo": "보스턴, 준비됐어?! 테크크런치 창립자 서밋 2026이 에너지로 폭발할 예정입니다. 그리고 11월 3일부터 6일까지 사이드 이벤트의 장대한 라인업으로 진정한 마술이 시작됩니다!"
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:34.198Z",
+      "fetchedAt": "2026-10-08T22:56:44.620Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1077,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:36.691Z",
+      "fetchedAt": "2026-10-08T22:56:46.843Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1096,6 +1088,23 @@
             "중소",
             "제조기업용",
             "정부",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlFJWlpsNGRUUU9BazlsTVZtWmV2WkdWbmJHU3JDd2RGTzVFNy1JekRHdXBVRS1GQlo2cm92N1dUVHhDa0w0T21wY0s5ZnU0Sk85dk1Qd1NtOGh3VzZkOHA1YlZEb19LM2xxUzFNclFnTTk1b0hCX2hBS0RKLWxWY0JsLWF6VlVVMVZGVGFMSQ?oc=5",
+          "pubDate": "2026-10-07T10:05:24.000Z",
+          "image": null,
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 인천광역시",
+          "keywords": [
+            "내게",
+            "맞는",
+            "정책",
+            "지원",
             "지원사업"
           ],
           "isForeign": false,
@@ -1137,23 +1146,6 @@
           "summaryKo": null
         },
         {
-          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlFJWlpsNGRUUU9BazlsTVZtWmV2WkdWbmJHU3JDd2RGTzVFNy1JekRHdXBVRS1GQlo2cm92N1dUVHhDa0w0T21wY0s5ZnU0Sk85dk1Qd1NtOGh3VzZkOHA1YlZEb19LM2xxUzFNclFnTTk1b0hCX2hBS0RKLWxWY0JsLWF6VlVVMVZGVGFMSQ?oc=5",
-          "pubDate": "2026-10-07T10:05:24.000Z",
-          "image": null,
-          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 제5차 기업부설창작연구소(전담부서) 인정신청 공고 인천광역시",
-          "keywords": [
-            "내게",
-            "맞는",
-            "정책",
-            "지원",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "대구 남구, `남구다운 청년 창업 지원 사업 3차` 참가자 모집 - 매일신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zcDhNem9NZzhJeHJuTWc1YXIwczJTSTI4QWJ0ZnF2bThORlg1X2ctd3FmbUticzhZaG5wQ1pFV0dNd3BucXAxaFRQU05ZR2RJbUpqOUNmaUFwNTdYWlhWYVp3?oc=5",
           "pubDate": "2026-10-08T00:52:30.000Z",
@@ -1171,71 +1163,71 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T17:12:37.246Z",
+      "fetchedAt": "2026-10-08T22:56:47.344Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "스타트업",
       "label": "스타트업",
       "count": 4,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "ax",
       "label": "AX",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 4,
       "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 5,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 9,
       "change": "down"
     },
@@ -1244,88 +1236,88 @@
       "label": "AI전환",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
     {
-      "key": "meta",
-      "label": "Meta",
-      "count": 3,
-      "rank": 1,
-      "change": "new",
-      "labelKo": "메타"
-    },
-    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 2,
-      "change": "down",
+      "rank": 1,
+      "change": "up",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
-      "rank": 3,
-      "change": "down",
+      "rank": 2,
+      "change": "up",
       "labelKo": "애드 센스"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "down",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
-      "change": "down",
-      "labelKo": "스타트업"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 6,
+      "rank": 4,
       "change": "up",
-      "labelKo": "AI"
+      "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 7,
-      "change": "down",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "same",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 8,
-      "change": "down",
+      "rank": 7,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 9,
-      "change": "down",
+      "rank": 8,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "뉴스"
     },
     {
       "key": "fundraising",
       "label": "Fundraising",
-      "count": 3,
+      "count": 2,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "모금 활동"
     }
   ]
