@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-09T19:16:19.230Z",
+  "collectedAt": "2026-10-09T23:49:28.863Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“신호 위반했으니 8500만원 내라”…작심한 건보공단 청구에 법원은? [어쩌다 세상이]",
+          "link": "https://www.mk.co.kr/news/economy/12172643",
+          "pubDate": "2026-10-09T22:41:33.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261008.3f6c5bcd292a455cb52b037d6f936751_R.png",
+          "summary": "70세 운전자, 신호 위반하다 택시와 충돌 건보공단 “12대 중과실”…치료비 환수 통보 법원 “신호 위반만으로 중대 과실 단정 못해”교통사고로 다쳐 건강보험으로 치료를 받으면 병원..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 10일)",
+          "link": "https://www.mk.co.kr/news/economy/12172424",
+          "pubDate": "2026-10-09T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/09/news-p.v1.20261009.22e5344b72574884a9fd2d0fbdac397e_R.jpg",
+          "summary": "1. 최태원 SK그룹 회장이 9일 곽노정 SK하이닉스 사장 등 경영진과 함께 호남권 반도체 클러스터가 들어설 전남광주통합특별시 군공항 부지를 찾았습니다. 이 자리에서 최 회장은 광..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "투자 지식의 복리효과 … 매경플러스 200% 활용법",
+          "link": "https://www.mk.co.kr/news/economy/12172392",
+          "pubDate": "2026-10-09T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/09/news-a.v1.20261009.a35a24dc12654c1bb526fb47e200ce10_R.jpg",
+          "summary": "매경플러스 내비게이션“처음엔 뭐부터 눌러야 할지 몰라 메인 화면만 훑고 나갔습니다. 그런데 순서를 정해놓고 읽으니 같은 시간을 써도 남는 것이 완전히 달라지더군요.” 매경플러스 연..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“내 번호 누가 훔쳐 썼다”던 금융권 해킹용의자…계정 추적했더니 ‘반전’",
           "link": "https://www.mk.co.kr/news/economy/12172550",
           "pubDate": "2026-10-09T13:34:53.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "5천억 털려도 고객 돈 지킨 비트겟…국내 거래소는? [AI 해킹, 다음은 코인②]",
-          "link": "https://www.mk.co.kr/news/economy/12172470",
-          "pubDate": "2026-10-09T08:51:40.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/09/news-p.v1.20261008.07217b85cfc54308b5923da22ba3e920_R.png",
-          "summary": "해킹을 막는 것만큼 중요한 것은 사고가 발생했을 때 이용자 자산을 지키는 일이다. 최근 글로벌 가산자산 거래소인 비트겟에서 5000억원대 가상자산이 유출되면서 국내 거래소의 피해보..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12172462",
-          "pubDate": "2026-10-09T08:34:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/10/20261010_01110109000008_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "산은, 中企 공급자금 47조…절반이상 서울·경기 집중",
-          "link": "https://www.mk.co.kr/news/economy/12172458",
-          "pubDate": "2026-10-09T08:34:29.000Z",
-          "image": null,
-          "summary": "한국산업은행이 중소기업에 공급한 자금의 절반 이상이 수도권에 집중된 것으로 나타났다. 9일 민병덕 더불어민주당 의원이 산은에서 받은 자료에 따르면 2023년부터 올해 7월까지 전체..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:15:57.313Z",
+      "fetchedAt": "2026-10-09T23:49:14.712Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-09T19:15:59.479Z",
+      "fetchedAt": "2026-10-09T23:49:14.791Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:00.673Z",
+      "fetchedAt": "2026-10-09T23:49:15.612Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -364,7 +364,7 @@
           "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:02.476Z",
+      "fetchedAt": "2026-10-09T23:49:15.767Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -373,17 +373,65 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "2027년 2월부터 인증서 유효기간 64일 적용",
+          "title": "유튜버, 경찰 추적용 Flock 방식 카메라를 만들자 경찰이 찾아왔다고 밝혀",
+          "link": "https://news.hada.io/topic?id=35084",
+          "pubDate": "2026-10-09T23:46:33.000Z",
+          "image": null,
+          "summary": "캐나다 소프트웨어 엔지니어이자 유튜버인 Anthony Sistilli가 경찰차 동선을 추적하는 자동 번호판 인식(ALPR) 카메라를 직접 제작해 설치함 Sistilli에 따르면 Peel Regional Police 소속 경찰관 2명이 집을 방문해 수집한 데이터를 어떤 목적으...",
+          "keywords": [
+            "유튜버",
+            "경찰",
+            "추적용",
+            "Flock",
+            "방식"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미국, 전직 ICC 판사의 노벨평화상 수상 몇 시간 뒤 ICC 제재",
+          "link": "https://news.hada.io/topic?id=35083",
+          "pubDate": "2026-10-09T23:43:33.000Z",
+          "image": null,
+          "summary": "Trump 행정부가 전직 국제형사재판소(ICC) 판사의 노벨평화상 수상 몇 시간 뒤 재판소 자체에 제재를 부과하며 유럽 동맹국들과 외교적 충돌을 빚음 기존 검사와 판사 개인에 대한 제재를 넘어 ICC와의 거래를 금지하는 조치로, 재판소에 서비스를 제공하는 기업까...",
+          "keywords": [
+            "미국",
+            "전직",
+            "ICC",
+            "판사의",
+            "노벨평화상"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AAA 지뢰찾기",
+          "link": "https://news.hada.io/topic?id=35082",
+          "pubDate": "2026-10-09T23:40:32.000Z",
+          "image": null,
+          "summary": "AAA 지뢰찾기",
+          "keywords": [
+            "AAA",
+            "지뢰찾기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Let’s Encrypt, 2027년 2월부터 기본 인증서 유효기간을 64일로 단축",
           "link": "https://news.hada.io/topic?id=35079",
           "pubDate": "2026-10-09T16:01:13.000Z",
           "image": null,
-          "summary": "Let’s Encrypt가 2027년 2월 10일부터 기본 인증서 유효기간을 64일로 단축함. 더 짧은 45일 또는 6일 유효기간을 선택한 경우는 제외되며, 기존의 유효한 인증서는 폐기하지 않음 자동 갱신을 사용하고 클라이언트가 ACME Renewal Info(ARI) 를...",
+          "summary": "Let’s Encrypt가 2027년 2월 10일부터 기본 인증서 유효기간을 90일에서 64일로 단축하며, 이미 발급된 유효한 인증서를 폐기하지는 않음 자동 갱신과 ACME Renewal Info(ARI) 를 지원하는 클라이언트를 사용하면 별도 준비 없이 전환 가능하며, ARI가 인증기관에...",
           "keywords": [
+            "Let",
+            "Encrypt",
             "2027년",
             "2월부터",
-            "인증서",
-            "유효기간",
-            "64일"
+            "기본"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -405,58 +453,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Show GN: 한글날을 맞아 한글 퍼즐게임 바이브코딩 했습니다.",
-          "link": "https://news.hada.io/topic?id=35077",
-          "pubDate": "2026-10-09T15:22:50.000Z",
-          "image": null,
-          "summary": "한글 자모 기반의 규칙으로 추리하는 제가 창안한 게임은 아니구요 재밌게 보았던 유튜브 웹 서바이벌 예능 ‘네가지 소원’의 두번째 에피소드에 나온 ‘한글 숨바꼭질’이라는 게임을 웹으로 즐기고 싶어서 해당 규칙 기반으로 만들어봤",
-          "keywords": [
-            "Show",
-            "GN:",
-            "한글날을",
-            "맞아",
-            "한글"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Oxide, 약 6,700억원 규모 시리즈 D 투자 유치",
-          "link": "https://news.hada.io/topic?id=35074",
-          "pubDate": "2026-10-09T14:36:42.000Z",
-          "image": null,
-          "summary": "Oxide가 공급을 크게 웃도는 수요에 대응하기 위해 4억 4,500만 달러($445m) 규모의 시리즈 D 투자를 유치함 컴퓨터 판매에서 부품비, 제조비, 급여와 운영비를 차감하고도 과세소득이 발생해, 봄에 법인 소득세를 납부함 하드웨어 사업은 고객에게 시스템...",
-          "keywords": [
-            "Oxide",
-            "700억원",
-            "규모",
-            "시리즈",
-            "투자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Deno 팀, Cloudflare에 합류",
-          "link": "https://news.hada.io/topic?id=35073",
-          "pubDate": "2026-10-09T14:33:42.000Z",
-          "image": null,
-          "summary": "Deno 팀 전체가 Cloudflare에 합류하며, 별도 런타임과 호스팅 서비스 대신 Workers 및 Durable Objects 팀과 함께 만드는 공통 플랫폼에 향후 개발 역량을 집중함 Deno 런타임은 1년간 버그 수정과 보안 업데이트를 담은 월별 릴리스를 제공한 뒤 팀의 개발을 종료...",
-          "keywords": [
-            "Deno",
-            "Cloudflare에",
-            "합류"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:03.123Z",
+      "fetchedAt": "2026-10-09T23:49:16.490Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -464,6 +463,60 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Have you heard? Pokimane at Chipotle, a Rooster Teeth reunion, and a Mike Tomlin Minecraft update.",
+          "link": "https://www.tubefilter.com/2026/10/09/have-you-heard-pokimane-chipotle-rooster-teeth-mike-tomlin-minecraft/",
+          "pubDate": "2026-10-09T23:00:29.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/mike-tomlin-minecraft.jpg",
+          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, the newest fast-casual menu item comes from a streaming star, two internet legends get into the Christmas spirit, and an NFL lifer takes another step into the Minecraft community. The biz The Pokimane Pollo Asado and Steak Bowl has arrived at Chipotle. Keith Lee and Salish Matter need to make some room in the burrito queue, because another",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "bendadonnn",
+            "Haley Kalil"
+          ],
+          "isForeign": true,
+          "titleKo": "들어보셨나요? 치폴레의 포키마네, 닭 이빨 동창회, 마이크 톰린 마인크래프트 업데이트.",
+          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 최신 패스트 캐주얼 메뉴 아이템은 스트리밍 스타에서 나오고, 두 명의 인터넷 전설이 크리스마스 분위기에 빠져들며, NFL 리프터가 마인크래프트 커뮤니티에 한 걸음 더 다가갑니다. Biz The Pokimane Pollo Asado and Steak Bowl이 Chipotle에 도착했습니다. 키스 리 (Keith Lee) 와 살리시 매터 (Salish Matter) 는 부리토 지구에 약간의 공간을 만들어야합니다."
+        },
+        {
+          "title": "Hollywood’s creator obsession continues as Sony hires YouTube exec to lead horror label",
+          "link": "https://www.tubefilter.com/2026/10/09/fede-goldenberg-sony-screen-gems-hire-youtube-exec/",
+          "pubDate": "2026-10-09T21:25:48.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/fede-goldenberg.jpg",
+          "summary": "As major film studios seek deals with directors whose careers began on social media, Sony Pictures Entertainment is taking a slightly different approach: It's bringing the business side of YouTube to Hollywood. Sony has announced the hire of Fede Goldenberg, who will serve as the head of Screen Gems. After a 15-year stint at YouTube -- during which he became the company's Head of Film and TV Partnerships -- Goldenberg is taking the reins of a production and distribution label that delivers many ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Sony",
+            "fede goldenberg"
+          ],
+          "isForeign": true,
+          "titleKo": "소니가 유튜브 경영진을 고용해 공포 레이블을 이끌면서 할리우드의 크리에이터에 대한 집착은 계속되고 있습니다.",
+          "summaryKo": "주요 영화 스튜디오가 소셜 미디어에서 경력을 시작한 감독과 거래를 모색함에 따라 Sony Pictures Entertainment는 YouTube의 비즈니스 측면을 할리우드에 도입하는 것과는 조금 다른 접근 방식을 취하고 있습니다. 소니는 스크린 젬스 (Screen Gems) 의 수장을 맡을 페데 골든버그 (Fede Goldenberg) 의 고용을 발표했습니다. YouTube에서 15년 동안 근무한 후 (이 기간 동안 그는 회사의 영화 및 TV 파트너십 책임자가 됨) Goldenberg는 제작 및 유통 레이블의 고삐를 잡고 있습니다."
+        },
+        {
+          "title": "YouTube eclipses TV to become the top news source in the U.S.",
+          "link": "https://www.tubefilter.com/2026/10/09/syracuse-university-center-creatory-economy-report-us-news-youtube/",
+          "pubDate": "2026-10-09T19:19:31.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/neal-mohan-youtube-getty.jpg",
+          "summary": "Syracuse University's Center for the Creator Economy has published a report that will make traditional news outlets quake in their boots. In its first-ever Industry Flash Report, Syracuse surveyed 1,001 Americans and found that YouTube is relied on most often as a primary news source. Alongside research partner Prolific, Syracuse surveyed U.S.-based respondents about their media and news-gathering habits. One question asked the respondents to name the news source they use the most, and YouTube t",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "center for the creator economy"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube eclipses TV, 미국 최고의 뉴스 출처가 되다",
+          "summaryKo": "시러큐스 대학의 창조자 경제 센터 (Center for the Creator Economy) 는 전통적인 뉴스 매체가 그들의 부츠를 떨게 할 보고서를 발표했습니다. 업계 최초의 플래시 보고서에서 시러큐스는 1,001명의 미국인을 대상으로 설문 조사를 실시한 결과 YouTube가 주요 뉴스 출처로 가장 자주 의존하고 있음을 발견했습니다. 연구 파트너인 Prolific과 함께 시러큐스는 미국에 기반을 둔 응답자들에게 미디어 및 뉴스 수집 습관에 대해 설문 조사를 실시했습니다. 한 가지 질문은 응답자들에게 그들이 사용하는 뉴스 소스의 이름을"
+        },
         {
           "title": "A YouTube test brought creator analytics directly into brands’ YouTube Studio dashboards",
           "link": "https://www.tubefilter.com/2026/10/08/youtube-studio-creator-analytics-tool-discovery/",
@@ -499,54 +552,10 @@
           "isForeign": true,
           "titleKo": "OpenAI가 Patreon의 공동 창업자를 영입했습니다. 그가 계획한 것은 다음과 같습니다.",
           "summaryKo": "OpenAI가 Sam Yam을 크리에이터 제품 부문 책임자로 고용했다고 발표한 지 2주 후, Patreon 공동 창업자는 이미 열심히 일하고 있습니다. Yam의 팀은 OpenAI 기술을 사용하여 육아 시리즈를 제작할 Chloe Shih와의 파트너십을 발표했습니다. Shih는 자신의 삶과 기술 업계에서의 경력을 기록한 성실하고 세련된 동영상을 업로드하여 YouTube 및 Instagram과 같은 플랫폼에서 상당한 팔로워를 확보했습니다. 그녀의 성공에 힘입어 Shih는 Offi를 출시했습니다."
-        },
-        {
-          "title": "AI-generated videos get labels. The European Union is applying the same standards to text.",
-          "link": "https://www.tubefilter.com/2026/10/08/european-union-eu-generative-ai-text-chatgpt/",
-          "pubDate": "2026-10-08T20:36:01.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/chatgpt-icon.jpg",
-          "summary": "AI-generated text has become a major concern in classrooms, offices, and publishing houses, but the European Union has proposed a solution. The continental body is beginning to enforce the EU AI Act, and OpenAI is one of the first tech companies that will comply with the law by placing invisible watermarks on text generated by ChatGPT. The EU AI Act, first published in 2024, is expected to fully take effect over the next four years. As national governments put the regulation into operation, Open",
-          "keywords": [
-            "Articles",
-            "Artificial Intelligence",
-            "ChatGPT",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "AI로 생성된 동영상에는 라벨이 표시됩니다. 유럽 연합 (EU) 은 텍스트에 동일한 기준을 적용하고 있습니다.",
-          "summaryKo": "AI 생성 텍스트는 교실, 사무실 및 출판사에서 주요 관심사가되었지만 유럽 연합은 해결책을 제안했습니다. 유럽연합 AI법이 시행되기 시작했고, OpenAI는 ChatGPT에 의해 생성된 텍스트에 보이지 않는 워터마크를 배치하여 법을 준수할 최초의 기술 회사 중 하나입니다. 2024년에 처음 발표된 EU AI 법은 향후 4년간 완전히 발효될 것으로 예상됩니다. 각국 정부가 규제를"
-        },
-        {
-          "title": "Canon’s $100,000 First Cut contest returns to help creators fund their dream projects",
-          "link": "https://www.tubefilter.com/2026/10/08/canons-100000-first-cut-contest-returns-to-help-creators-fund-their-dream-projects/",
-          "pubDate": "2026-10-08T17:51:17.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/2252318131.jpg",
-          "summary": "Canon is putting another $100,000 straight into creators’ hands to help them bring their dream projects to life. Last year, Canon introduced its First Cut Contest, which called on digital content creators and filmmakers to submit a video pitch for the project they would make if they had proper production support and funding. Winners Braxton […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "캐논의 $ 100,000 퍼스트 컷 콘테스트가 돌아와 크리에이터가 꿈에 그리던 프로젝트에 자금을 지원할 수 있도록 지원합니다.",
-          "summaryKo": "Canon은 크리에이터가 꿈에 그리던 프로젝트를 실현할 수 있도록 $ 100,000를 더 지원하고 있습니다. 작년에 캐논은 퍼스트 컷 콘테스트를 도입했습니다. 이 콘테스트는 디지털 콘텐츠 제작자와 영화 제작자에게 적절한 제작 지원과 자금이 있다면 제작할 프로젝트에 대한 비디오 피치를 제출하도록 요청했습니다. 수상작 Braxton […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
-        },
-        {
-          "title": "Dhar Mann wants to broker $100 million in creator/brand deals, and also he’s opening “Creator City” in Los Angeles",
-          "link": "https://www.tubefilter.com/2026/10/07/dhar-mann-advertising-week-new-york-creator-city/",
-          "pubDate": "2026-10-08T03:09:18.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/GettyImages-22827668061.jpg",
-          "summary": "Dhar Mann has his name in lights at this year’s Advertising Week New York. As the event’s first “Chief Creator Officer” (and keynote speaker) he came in with a pledge to liaise between brands and creators in hopes of brokering $100 million worth of sponsorship deals by the time AWNY ends. According to Digiday, Mann […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "Dhar Mann은 크리에이터/브랜드 거래에서 1억 달러 ($) 를 중개하고자 하며, 로스앤젤레스에 '크리에이터 시티' 를 열고 있습니다.",
-          "summaryKo": "다르 만 (Dhar Mann) 은 올해 뉴욕 광고 주간 (Advertising Week New York) 에서 그의 이름을 알렸습니다. 이 행사의 첫 번째 \"최고 크리에이터 책임자\" (및 기조 연설자) 로서 그는 AWNY가 끝날 때까지 1억 달러 상당의 스폰서십 거래를 중개하기 위해 브랜드와 크리에이터 사이에 연락을 취하겠다는 서약을 했습니다. $ Digiday에 따르면, Mann은 […] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:18.977Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-10-09T23:49:22.295Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -619,7 +628,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:03.872Z",
+      "fetchedAt": "2026-10-09T23:49:22.496Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -700,7 +709,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:03.949Z",
+      "fetchedAt": "2026-10-09T23:49:22.561Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -799,7 +808,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:06.775Z",
+      "fetchedAt": "2026-10-09T23:49:25.336Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -890,7 +899,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:07.218Z",
+      "fetchedAt": "2026-10-09T23:49:25.562Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -898,6 +907,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "pubDate": "2026-10-09T21:41:29.000Z",
+          "image": null,
+          "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "AI model",
+            "Andreessen Horowitz",
+            "In Brief",
+            "typesafe"
+          ],
+          "isForeign": true,
+          "titleKo": "텍스트가 아닌 AI 모델 JEV의 제조업체는 출시 직후 $ 7.5B를 평가했습니다.",
+          "summaryKo": "사용자와 대기업이 JEV에 대해 매우 흥분하고 있는 것은 TypeSafe가 LLM보다 훨씬 빠르게 작동하고 토큰을 훨씬 적게 사용한다는 주장입니다."
+        },
         {
           "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
           "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
@@ -965,27 +992,9 @@
           "isForeign": true,
           "titleKo": "Beyond TechCrunch Disrupt 2026: 놓칠 수 없는 사이드 이벤트, 파티 및 네트워킹",
           "summaryKo": "TechCrunch Disrupt 2026은 시작에 불과합니다. 독점 네트워킹 이벤트와 스타트업 쇼케이스부터 해피 아워, 디너, 애프터 아워 밋업에 이르기까지, 10월 10일부터 16일까지 진행되는 디스럽트 위크 기간 동안 샌프란시스코 전역에서 어떤 일이 벌어지고 있는지 알아보세요. 다음 연결, 다음 기회 또는 다음 좋아하는 이벤트를 찾으십시오."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-          "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-          "pubDate": "2026-10-09T14:00:00.000Z",
-          "image": null,
-          "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-          "keywords": [
-            "Startups",
-            "Climate",
-            "Fintech",
-            "Biotech & Health",
-            "Venture",
-            "AI"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026은 4일 후에 시작됩니다. 가격이 상승하기 전에 최대 $ 100의 이용권 할인 혜택을 누리세요",
-          "summaryKo": "테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 이 시작되기까지 4일, 10월 13 ~ 15일 샌프란시스코의 모스콘 웨스트에서 10,000명의 창업자, 투자자, 기술 리더가 모입니다. 요금에서 최대 $ 100를 할인받으세요. 또한, 동일한 유형의 두 번째 이용권을 50% 할인된 가격에 구매하실 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:15.451Z",
+      "fetchedAt": "2026-10-09T23:49:27.144Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1084,7 +1093,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:17.784Z",
+      "fetchedAt": "2026-10-09T23:49:28.501Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1144,23 +1153,6 @@
           "summaryKo": null
         },
         {
-          "title": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 - 웰페어뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QaVp4R09MX1VSNF9sYkdJSHNYaG5fVHpTU20zTm95cmRfenJvelJuT3dhNzNtc3RNXzJteTd3YmRTQnBySXF2YldqWWxVOUtwRFhteEE5ME13dC1YbGo0cTU5WE1oOWNzbHBfUHY0RQ?oc=5",
-          "pubDate": "2026-10-07T23:33:30.000Z",
-          "image": null,
-          "summary": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 웰페어뉴스",
-          "keywords": [
-            "장애인기업종합지원센터",
-            "2027년",
-            "창업지원사업",
-            "대비",
-            "제2회"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "대구 남구, 청년 창업 지원사업 참가자 모집...기업 성장 등 단계별 지원 - 한국일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HbTVtLTRhRVVSWURjY19VU0hJcEhPQ2U1UVpVWUxUTmpvVVBIOUI2Y0RMSTh1LU8xNjVVcGVrYlFtd2tpb2l1dFhicEtwb1dqRkRWZ3Q4YTRaZG5uVHc2SVVmSjBaWVFwYWUtQ1JR0gFzQVVfeXFMUE15TGdId3RsU1FuR2dub1BSV2hwQWkzZ1FORnNfdUJCWkg2WjV2WUczWVpXejM5Vm1MUEdkakpaTDJpMU1lX2FpbGhVcUp6SHF2UldfM1k1aFRtaUlVU2EtcG5NSTVwY1d6dVBEN3hKb1Fzbw?oc=5",
           "pubDate": "2026-10-08T01:40:00.000Z",
@@ -1176,9 +1168,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 - 웰페어뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QaVp4R09MX1VSNF9sYkdJSHNYaG5fVHpTU20zTm95cmRfenJvelJuT3dhNzNtc3RNXzJteTd3YmRTQnBySXF2YldqWWxVOUtwRFhteEE5ME13dC1YbGo0cTU5WE1oOWNzbHBfUHY0RQ?oc=5",
+          "pubDate": "2026-10-07T23:33:30.000Z",
+          "image": null,
+          "summary": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 웰페어뉴스",
+          "keywords": [
+            "장애인기업종합지원센터",
+            "2027년",
+            "창업지원사업",
+            "대비",
+            "제2회"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T19:16:18.275Z",
+      "fetchedAt": "2026-10-09T23:49:28.853Z",
       "error": null
     }
   },
@@ -1188,7 +1197,7 @@
       "label": "2027년",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "special post",
@@ -1272,59 +1281,59 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "homepage feature",
-      "label": "Homepage Feature",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "홈페이지 기능"
-    },
-    {
-      "key": "startups",
-      "label": "Startups",
-      "count": 5,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
       "key": "articles",
       "label": "Articles",
-      "count": 3,
-      "rank": 6,
+      "count": 5,
+      "rank": 3,
       "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 3,
-      "rank": 7,
+      "count": 5,
+      "rank": 4,
       "change": "up",
       "labelKo": "추천 동영상"
     },
     {
+      "key": "homepage feature",
+      "label": "Homepage Feature",
+      "count": 5,
+      "rank": 5,
+      "change": "down",
+      "labelKo": "홈페이지 기능"
+    },
+    {
       "key": "news",
       "label": "News",
-      "count": 3,
-      "rank": 8,
+      "count": 5,
+      "rank": 6,
       "change": "up",
       "labelKo": "뉴스"
+    },
+    {
+      "key": "startups",
+      "label": "Startups",
+      "count": 5,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "스타트업"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
       "rank": 9,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1332,7 +1341,7 @@
       "label": "costs",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "비용"
     }
   ]
