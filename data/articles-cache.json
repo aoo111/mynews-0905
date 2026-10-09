@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-08T22:56:47.986Z",
+  "collectedAt": "2026-10-09T04:42:02.081Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "‘전세계 해커 맛집’ 된 한국 금융권…누가 어디서 공격했는지 모른다",
+          "link": "https://www.mk.co.kr/news/economy/12172259",
+          "pubDate": "2026-10-09T04:20:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/09/rcv.NEWS1.NEWS1.20260503.2026-05-03T104330_1007887180_FINANCE-STOCK_I_R.jpg",
+          "summary": "2년새 18건중 공격주체 확인 2건 13건은 국가만 추정, 3건은 미상 공격주체 식별 기술 중요성 부각금융권에서 해킹 사고가 잇따르고 있지만, 2024년 이후 해외에서 발생한 것으..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "해외발 금융권 해킹 10건 중 9건 “공격 주체 파악 못해”",
+          "link": "https://www.mk.co.kr/news/economy/12172199",
+          "pubDate": "2026-10-09T00:32:20.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/09/news-p.v1.20261009.a15cb4cc3bf3460ba4e7344fc6cae3fc_R.jpg",
+          "summary": "최근 금융권 해킹 사고가 잇따르는 가운데 2024년 이후 발생한 해외발 해킹 사고 10건 중 9건은 공격 주체조차 파악하지 못한 것으로 나타났다. 9일 국회 정무위원회 소속 송언석..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "농지 전수조사 반발에 결국…“관행적 위반은 손 안대겠다”는 정부",
           "link": "https://www.mk.co.kr/news/economy/12172124",
           "pubDate": "2026-10-08T20:59:38.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "브랜드 아닌 ‘가격’이 통하는 시대…한·일·EU 15개국, 中전기차 공동대응",
-          "link": "https://www.mk.co.kr/news/economy/12172017",
-          "pubDate": "2026-10-08T13:17:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20261008.97ec06f25de446c487994f95996baaf9_R.png",
-          "summary": "프랑스서 장관 공동성명 태양광·범용반도체도 대상 전담협의체 구성해 대응 논의한국, 일본을 비롯한 주요국이 전기차(EV) 등 5개 주요 품목에 대해 구조적으로 과잉 생산되고 있다며 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] “돈 얼마나 새나갔을지 감도 안와”…느닷없는 할인 오류에 카드사는 뒷수습",
-          "link": "https://www.mk.co.kr/news/economy/12171957",
-          "pubDate": "2026-10-08T11:14:21.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20261008.cf394e44a70a4474a4a04f3b53d5ee63_R.png",
-          "summary": "김치 구매 고객, 토익 할인 서비스 적용 사측 “해당 매장 업종 등록 잘못된 듯” 결제 건수·누적 할인액 등 “파악 중” 정부 재원 새 나갔냔 물음엔 “아니다”나라사랑체크카드로 김..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:20.365Z",
+      "fetchedAt": "2026-10-09T04:41:49.522Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:22.913Z",
+      "fetchedAt": "2026-10-09T04:41:49.701Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,16 +189,16 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
-          "pubDate": "2026-10-09T07:00:00.000Z",
+          "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+          "pubDate": "2026-10-09T12:45:25.000Z",
           "image": null,
-          "summary": "오픈AI는 미공개 프론티어 모델에 약 4000개의 고난도 수학 연구 문제를 제시하고, 그 과정에서 나온 의미 있는 성과를 722편의 연구 원고(manuscript)로 정리해 6일(현지시간) 공개했습니다. 여기에는 정수론과 대수학, 위상수학, 이론 컴퓨터과학 등 여러 분야가 포함됐으며, 722편의 원고는 372개의 관련 결과 군(result family)으로 묶였습니다. 증명을 컴퓨터가 검증할 수 있는 프로그래밍 언어인 '린(Lean)'으로 형식화한 자료와 연구 과정에 사용한 연산량, 문제 풀이 시도에 관한 통계도 함께 공개했습니다.",
+          "summary": "오픈AI에서 해고된 안전 연구원 3명이 회사에 외부 안전 평가기관과의 협력 강화와 최첨단 AI 모델의 추론 과정을 감시할 수 있는 능력 유지를 촉구했다. 이들은 이번 해고가 내부 직원들에게 불이익에 대한 공포를 심어주는 '위축 효과(Chilling Effect)'를 일으키고, AI 위험을 검증하는 외부 협력 체계에도 악영향을 미칠 수 있다고 경고했다.자스민 왕, 토멕 코르박, 미키타 발레스니는 8일(현지시간) 오픈AI 이사회와 안전 관련 위원회에 보낸 공개서한에서 이같이 주장했다. 세 사람은 오픈AI의 AI 안전 및 정렬 연구 조직",
           "keywords": [
-            "10월8일",
-            "수학",
-            "문제",
-            "4000개에",
+            "오픈AI",
+            "해고",
+            "연구원",
+            "3인",
             "AI"
           ],
           "isForeign": false,
@@ -206,75 +206,75 @@
           "summaryKo": null
         },
         {
-          "title": "구글, 텍스트 입력으로 게임 만드는 플랫폼 공개…유니티와 협력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216076",
-          "pubDate": "2026-10-08T17:12:53.000Z",
+          "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216102",
+          "pubDate": "2026-10-09T12:05:00.000Z",
           "image": null,
-          "summary": "구글이 간단한 텍스트 입력만으로 비디오 게임을 만들고 플레이할 수 있는 새로운 AI 플랫폼을 선보이고, 게임 엔진 유니티(Unity)와 손을 잡았다.구글은 7일(현지시간) 자연어로 설명하면 AI가 2D 및 3D 게임을 구현해 주는 AI 게임 제작 플랫폼 '플레이그라운드(Playground)'를 출시했다고 밝혔다.이는 과거 클라우드 게임 서비스 '스타디아(Stadia)'의 실패 이후, AI 중심의 생성 플랫폼으로 게임 시장에 다시 도전장을 내민 것으로 풀이된다.미국 내 18세 이상 사용자를 대상으로 우선 제공되며, 빈 화면이나 제공되",
+          "summary": "도널드 트럼프 미국 대통령이 실리콘밸리 기술 리더들을 백악관으로 불러 모아 최고 영예의 훈장을 수여하고 24억달러(약 3조2000억원) 규모의 AI 연구 투자를 확정 지었다. 하지만 정책 발표 직전 수혜 기업의 주식을 사들인 이해충돌 논란과 함께, 비자 발급 중단 및 AI 안전 감사를 앞세운 길들이기가 동시에 진행되고 있다.트럼프 대통령은 8일(현지시간) 워싱턴 D.C.에서 열린 정상회담에서 젠슨 황 엔비디아 CEO, 일론 머스크 CEO, 세르게이 브린 구글 공동창업자, 리사 수 AMD CEO에게 국가 과학 훈장을 수여했다. 머스크",
+          "keywords": [
+            "트럼프",
+            "빅테크에",
+            "훈장",
+            "수여",
+            "주식"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미국, 외국인 노동자 단속 강화…MS·어도비 영주권 신청 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216097",
+          "pubDate": "2026-10-09T11:59:01.000Z",
+          "image": null,
+          "summary": "도널드 트럼프 행정부가 마이크로소프트(MS)와 어도비를 비롯한 주요 기술 기업의 외국인 노동자 영주권 취득 절차를 중단했다. 미국인 일자리를 보호하고 취업 비자 제도의 부정 이용을 막겠다는 명분으로, 외국인 전문 인력의 영주권 취득 경로를 겨냥한 대대적인 단속에 나선 것이다. 로이터 등에 따르면, JD 밴스 미국 부통령은 8일(현지시간) MS가 미국 노동자를 해고하면서 외국인 노동자를 고용해 왔다고 비판했다. 그는 MS가 지난해 미국인 직원 약 6000명을 해고하면서 'H-1B' 취업 비자와 영주권을 적극적으로 활용했다며, 이민 제",
+          "keywords": [
+            "미국",
+            "외국인",
+            "노동자",
+            "단속",
+            "강화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 연간 매출 추정치 27조 하향…빅테크 주가 일제히 요동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216098",
+          "pubDate": "2026-10-09T11:18:39.000Z",
+          "image": null,
+          "summary": "오픈AI의 연간 반복 매출(ARR)이 당초 시장에 알려진 수치보다 200억달러(약 26조8600억원)가량 적은 것으로 확인되면서 월가와 글로벌 기술 시장이 크게 요동쳤다.8일(현지시간) 파이낸셜타임스(FT)에 따르면, 오픈AI는 최근 투자자 설명회를 통해 9월 말 기준 ARR이 500억달러(약 67조1500원)에 육박했다고 공개했다. 이는 지난달 말 시장과 주요 매체를 통해 알려졌던 680억~700억달러를 크게 밑도는 수치다.이번 수치 하향은 오픈AI의 사업 성과가 악화된 것이 아니라, 경쟁사인 앤트로픽과의 실적 비교 과정에서 발생",
+          "keywords": [
+            "오픈AI",
+            "연간",
+            "매출",
+            "추정치",
+            "27조"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+          "pubDate": "2026-10-09T10:27:51.000Z",
+          "image": null,
+          "summary": "구글 클라우드가 기업용 AI 통합 솔루션인 '제미나이 에이전트(Gemini agent)'를 공개하며 차세대 에이전트 시장 주도권 잡기에 나섰다. 이번 발표는 단발성 질의응답을 처리하는 대화형 챗봇 단계를 넘어, 기업 내 실질적인 자율 수행 디지털 동료를 구축하려는 구글의 전략적 기조를 잘 보여준다.구글 클라우드는 8일(현지시간) 미국 샌프란시스코에서 '제미나이 앳 워크' 행사를 열고 제미나이 에이전트를 선보였다. 순다르 피차이 구글 CEO는 \"제미나이는 현재 월간 활성 사용자(MAU) 수가 10억명이 넘으며, 포춘 100대 기업의",
           "keywords": [
             "구글",
-            "텍스트",
-            "입력으로",
-            "게임",
-            "만드는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "머스크 “테라팹 직접 운영한다”…TSMC 위탁운영설 일축",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216080",
-          "pubDate": "2026-10-08T17:01:18.000Z",
-          "image": null,
-          "summary": "일론 머스크 CEO가 텍사스에 추진 중인 대규모 AI 반도체 공장 ‘테라팹(Terafab)’을 직접 건설하고 운영하겠다고 밝혔다. 최근 제기된 대만 TSMC의 테라팹 운영 참여 가능성을 일축한 것이다.머스크는 7일(현지시간) X에서 관련 의문이 제기되자, “우리가 공장을 건설하고 운영할 것”이라며 “이에 대해 의심의 여지가 전혀 없게 하겠다”고 강조했다.이어 “TSMC가 원한다면 테라팹 일부를 임대할 수도 있지만, 그 이상은 아니다”라고 덧붙였다. TSMC가 테라팹의 일부 공간을 사용할 가능성은 열어뒀지만, 공장 운영이나 핵심 제조",
-          "keywords": [
-            "머스크",
-            "테라팹",
-            "직접",
-            "운영한다",
-            "TSMC"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216073",
-          "pubDate": "2026-10-08T16:52:58.000Z",
-          "image": null,
-          "summary": "카카오가 AI 모델의 학습 효율을 높이고 모델 크기를 줄이는 경량화 연구 성과를 공개했다.카카오는 언어모델링 국제 학회 'COLM 2026'의 메인 컨퍼런스와 토크나이제이션 워크숍 'TokShop'에서 각각 연구 성과를 발표했다고 8일 밝혔다.메인 컨퍼런스에서 발표한 논문은 대규모 전문가 혼합(MoE) 모델의 사전학습에 필요한 최적 학습률을 전체 학습 비용의 약 1% 수준으로 예측하는 방법론이다.학습률은 학습의 안정성과 성능을 좌우하는 핵심 설정값으로, MoE 모델은 관련 공개 연구가 부족해 최적값 탐색 과정에서 비용 부담이 크다.",
-          "keywords": [
-            "카카오",
-            "국제",
-            "AI",
-            "학회서",
-            "MoE"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "리퀴드 AI, 10배 큰 체급 제친 멀티모달 의사결정 모델 ‘d1-3B’ 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216087",
-          "pubDate": "2026-10-08T16:51:59.000Z",
-          "image": null,
-          "summary": "리퀴드 AI가 30억개 매개변수 수준의 소형 크기로 10배 이상 큰 대형 모델을 제친 오픈웨이트 멀티모달 의사결정 모델을 공개했다.리퀴드 AI는 7일(현지시간) 의사결정 모델 ‘d1’ 제품군의 새로운 모델인 ‘d1-3B’와 ‘d1-옴니-600M’을 출시했다. 두 모델은 생성 AI처럼 답변을 토큰 단위로 순차 생성하는 대신, 입력 상태를 한 번에 연산해 즉각 판단 점수를 반환하도록 설계됐다.특히 31억2000만개 매개변수 규모의 'd1-3B'는 소형 모델임에도 압도적인 의사결정 성능을 증명했다.공개 데이터셋인 의사결정 지수(Decis",
-          "keywords": [
-            "리퀴드",
-            "AI",
-            "10배",
-            "체급",
-            "제친"
+            "기업용",
+            "제미나이",
+            "에이전트",
+            "출시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:24.159Z",
+      "fetchedAt": "2026-10-09T04:41:50.961Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -313,6 +313,23 @@
           "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra 및 GPT ‑ Image ‑ 2.5를 통해 크리에이터가 대담한 아이디어를 세부 이미지와 시네마틱 동영상 광고로 전환할 수 있도록 지원합니다."
         },
         {
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "link": "https://openai.com/index/legalon-halves-codex-costs",
+          "pubDate": "2026-10-08T12:00:00.000Z",
+          "image": null,
+          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "keywords": [
+            "LegalOn",
+            "halves",
+            "Codex",
+            "costs",
+            "while"
+          ],
+          "isForeign": true,
+          "titleKo": "LegalOn은 개발 속도를 유지하면서 코덱스 비용을 절반으로 줄입니다",
+          "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
+        },
+        {
           "title": "Disrupting AI-enabled “false front” operations",
           "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
           "pubDate": "2026-10-08T00:00:00.000Z",
@@ -337,26 +354,9 @@
           "isForeign": true,
           "titleKo": "청소년들이 인공지능의 미래를 배우고, 계획하고, 형성할 수 있도록 돕는다.",
           "summaryKo": "College Planner는 학생들이 새로운 플래시 카드, 퀴즈 및 십대 AI 협의회와 함께 대학 응용 프로그램을 관리하는 데 도움이 되는 청소년용 ChatGPT를 선보입니다."
-        },
-        {
-          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-          "link": "https://openai.com/index/radisson",
-          "pubDate": "2026-10-07T07:00:00.000Z",
-          "image": null,
-          "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-          "keywords": [
-            "Radisson",
-            "Hotel",
-            "Group",
-            "brings",
-            "hotel"
-          ],
-          "isForeign": true,
-          "titleKo": "래디슨 호텔 그룹 (Radisson Hotel Group) 이 호텔 검색을 ChatGPT로 가져옵니다.",
-          "summaryKo": "Radisson은 Accenture와 파트너십을 맺고 OpenAI 기술을 사용하여 ChatGPT 플러그인을 구축하여 여행자들이 여행을 계획하는 동안 호텔을 찾고, 비교하고, 예약할 수 있도록 지원했습니다."
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:27.677Z",
+      "fetchedAt": "2026-10-09T04:41:53.069Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,89 +365,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Theranos.world",
-          "link": "https://news.hada.io/topic?id=35033",
-          "pubDate": "2026-10-08T22:31:28.000Z",
+          "title": "Show HN: LED 필라멘트로 유연한 ‘네온’ 티셔츠 만들기",
+          "link": "https://news.hada.io/topic?id=35048",
+          "pubDate": "2026-10-09T03:41:15.000Z",
           "image": null,
-          "summary": "Elizabeth Holmes의 책상을 재현한 인터랙티브 시뮬레이션으로, MacBook과 iPhone, Edison 기기를 조작할 수 있음 문자와 이메일은 모두 실제 재판 자료에서 가져왔으며, Extend로 파싱함 의자를 클릭하거나 탭해 앉고, 드래그로 주변을...",
+          "summary": "회사의 네온 테마 행사에 맞춰 유연한 LED 필라멘트를 티셔츠에 꿰매고, USB 보조배터리로 구동하는 의상을 며칠 만에 제작함 필라멘트는 길이를 잘라 조절할 수 없어, Inkscape에서 연속 경로를 그린 뒤 보유한 부품 길이에 맞춰 도안 크기를 조정함 부드...",
           "keywords": [
-            "Theranos",
-            "world"
+            "Show",
+            "HN:",
+            "LED",
+            "필라멘트로",
+            "유연한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미국 남성, 봇으로 음악 스트리밍 횟수를 조작해 징역형 선고받음",
+          "link": "https://news.hada.io/topic?id=35047",
+          "pubDate": "2026-10-09T03:38:15.000Z",
+          "image": null,
+          "summary": "Michael Smith가 AI 생성곡을 봇으로 반복 재생해 수백만 달러의 로열티를 챙긴 혐의로 징역 18개월을 선고받음 2017년부터 2024년 체포될 때까지 부정하게 벌어들인 로열티 800만 달러도 몰수됨 최대 1만 개의 허위 계정",
+          "keywords": [
+            "미국",
+            "남성",
+            "봇으로",
+            "음악",
+            "스트리밍"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "DuckDB DuckLake",
+          "link": "https://news.hada.io/topic?id=35046",
+          "pubDate": "2026-10-09T03:35:15.000Z",
+          "image": null,
+          "summary": "DuckLake는 SQL과 Parquet 기반의 개방형 레이크하우스 형식이며, DuckDB 확장을 통해 데이터를 직접 읽고 쓸 수 있음 메타데이터는 카탈로그 데이터베이스, 실제 데이터는 Parquet 파일에 나누어 저장함 DuckLake 데이터베이스를 ATTACH...",
+          "keywords": [
+            "DuckDB",
+            "DuckLake"
           ],
           "isForeign": true,
-          "titleKo": "Theranos.world",
-          "summaryKo": "엘리자베스 홈즈의 책상을 재현한 인터랙티브 시뮬레이션으로, 맥북과 아이폰, 에디슨기기를 조작할 수 있음 문자와 이메일은 모두 실제 재판 자료에서 가져왔으며, 익스텐드로 파싱함 의자를 클릭하거나 탭해 앉고,드래그로 주변을..."
+          "titleKo": "DuckDB DuckLake",
+          "summaryKo": "DuckLake 는 SQL과 Parquet기반의 개방형 레이크하우스 형식이며, DuckDB확장을 통해 데이터를 직접 읽고 쓸 수 있음 메타데이터는 카탈로그 데이터베이스, 실제 데이터는 Parquet 파일에 나누어 저장함 DuckLake 데이터베이스를 ATTACH..."
         },
         {
-          "title": "왜 AI 업계는 DeepSeek 4.1 Flash에 긴장하지 않는가?",
-          "link": "https://news.hada.io/topic?id=35032",
-          "pubDate": "2026-10-08T21:38:33.000Z",
+          "title": "곧장 본론으로 들어가지 않는 것의 가치 (2015)",
+          "link": "https://news.hada.io/topic?id=35045",
+          "pubDate": "2026-10-09T02:32:06.000Z",
           "image": null,
-          "summary": "DeepSeek 4.1 Flash를 약 한 달간 12개 프로젝트에서 집중적으로 사용한 경험상, 대화와 작업 결과, 속도에서 Opus와 차이를 체감하기 어려웠지만 비용은 훨씬 낮았음 일상적인 개발 작업에는 이미 충분한 성능을 제공하므로, 최신 최고급 모델을 좇기보다 같은 일을 얼마나...",
+          "summary": "잡담과 대화의 의례는 불필요한 우회가 아니라, 민감한 이야기를 꺼낼 만큼 편안함과 신뢰를 쌓는 과정임 음식과 음료는 대화 내내 무언가 말해야 한다는 부담을 덜어주며, 가벼운 이야기는 불편한 주제로 넘어가기 위한 준비가 될 수 있음 언어는 감정을...",
           "keywords": [
-            "AI",
-            "업계는",
-            "DeepSeek",
-            "Flash에",
-            "긴장하지"
+            "곧장",
+            "본론으로",
+            "들어가지",
+            "않는",
+            "것의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "일러스트레이터에게 우리 집 그림을 의뢰했다. 이제 그 그림이 Home Assistant 대시보드다",
-          "link": "https://news.hada.io/topic?id=35031",
-          "pubDate": "2026-10-08T21:35:33.000Z",
+          "title": "시스템으로 사고하고, 반복 루프로 출시하기",
+          "link": "https://news.hada.io/topic?id=35043",
+          "pubDate": "2026-10-09T01:25:02.000Z",
           "image": null,
-          "summary": "실제 집을 그린 인터랙티브 대시보드를 만들어, 기존 Home Assistant 앱을 쓰려 하지 않던 가족들도 기기를 직접 제어하게 됨 벽난로의 불꽃, 정원 조명, 에어컨의 바람을 그림에 반영하며, 기기 상태에 따라 정지 이미지와 애니메이션 WebP를 바꿔 표시함",
+          "summary": "소프트웨어 엔지니어링의 중심이 직접 코드를 작성하는 일에서 AI가 대규모로 올바른 코드를 작성하도록 시스템을 설계하는 일로 옮겨감 Artemis는 플랫폼의 모든 코드를 에이전트가 작성하며, 엔지니어는 시스템 설계·제약 설정·결과 검토를 맡음 Grok 팀...",
           "keywords": [
-            "일러스트레이터에게",
-            "우리",
-            "그림을",
-            "의뢰했다",
-            "이제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "SynthID Detector - AI 생성 미디어 워터마크 탐지 도구",
-          "link": "https://news.hada.io/topic?id=35030",
-          "pubDate": "2026-10-08T20:37:02.000Z",
-          "image": null,
-          "summary": "Google의 SynthID Detector는 이미지, 영상, 오디오를 업로드해 AI 생성 또는 편집 과정에서 삽입된 SynthID 워터마크를 확인하는 도구임 이미지에서는 워터마크 존재 여부를, 영상과 오디오에서는 워터마크가 있는 구간을 탐지함 Google DeepMind가 개발...",
-          "keywords": [
-            "SynthID",
-            "Detector",
-            "AI",
-            "생성",
-            "미디어"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "스마트 커피 머신, 열흘간 트래픽 1TB 발생 - 대부분 집 안 네트워크 통신",
-          "link": "https://news.hada.io/topic?id=35029",
-          "pubDate": "2026-10-08T20:34:02.000Z",
-          "image": null,
-          "summary": "부모님 집의 네트워크를 관리하다가 Keurig 스마트 커피 머신에서 열흘간 약 1TB의 트래픽이 발생한 것을 발견함 처음에는 대규모 업로드에 놀랐지만, 추가 확인 결과 트래픽 대부분은 외부 인터넷으로 나가지 않고 집 안 네트워크에 머물렀음 외부 전송량...",
-          "keywords": [
-            "스마트",
-            "커피",
-            "머신",
-            "열흘간",
-            "트래픽"
+            "시스템으로",
+            "사고하고",
+            "반복",
+            "루프로",
+            "출시하기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:29.727Z",
+      "fetchedAt": "2026-10-09T04:41:55.270Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +536,7 @@
           "summaryKo": "다르 만 (Dhar Mann) 은 올해 뉴욕 광고 주간 (Advertising Week New York) 에서 그의 이름을 알렸습니다. 이 행사의 첫 번째 \"최고 크리에이터 책임자\" (및 기조 연설자) 로서 그는 AWNY가 끝날 때까지 1억 달러 상당의 스폰서십 거래를 중개하기 위해 브랜드와 크리에이터 사이에 연락을 취하겠다는 서약을 했습니다. $ Digiday에 따르면, Mann은 […] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:37.239Z",
+      "fetchedAt": "2026-10-09T04:41:55.407Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:37.426Z",
+      "fetchedAt": "2026-10-09T04:41:55.523Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:37.500Z",
+      "fetchedAt": "2026-10-09T04:41:55.565Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,6 +699,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "엑스와이지, 커피 만드는 로봇에서 빨래 개는 로봇으로…‘듀스’ 12월 출시 목표",
+          "link": "https://www.venturesquare.net/1118631/",
+          "pubDate": "2026-10-08T11:32:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/XYZ-2-782x522.png",
+          "summary": "엑스와이지가 서울 코엑스에서 열린 ‘2026 서울AI로봇쇼’에서 로봇 바리스타 바리스브루와 양팔형 세미 휴머노이드 듀스를 공개했다. 바리스브루는 음료 제조부터 픽업까지 이어지는 서비스를 제공하며 지난 9월 월드스마트시티엑스포에서 총 1005잔의 음료를 판매한 바 있다.... The post 엑스와이지, 커피 만드는 로봇에서 빨래 개는 로봇으로…‘듀스’ 12월 출시 목표 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "DEUX",
+            "XYZ",
+            "듀스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "워터베이션, 필터 없이 물로 미세먼지 씻는다…‘큐에어워셔’ 와디즈 펀딩 시작",
           "link": "https://www.venturesquare.net/1118619/",
@@ -770,27 +788,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "삼성 월렛·수이, 갤럭시에서 USDC 바로 보낸다…미국서 스테이블코인 송금 시범 운영",
-          "link": "https://www.venturesquare.net/1118589/",
-          "pubDate": "2026-10-08T10:45:14.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/sui-789x444.png",
-          "summary": "삼성 월렛이 블록체인 수이를 스테이블코인 인프라 파트너로 선정하고 갤럭시 이용자를 위한 USDC 송수신 기능을 도입한다. 서비스는 미국에서 시범 운영을 시작한 뒤 글로벌 시장으로 확대하는 방식으로 추진된다. 수이의 가스리스 전송 기술을 활용하면 이용자가 SUI 토큰을 ... The post 삼성 월렛·수이, 갤럭시에서 USDC 바로 보낸다…미국서 스테이블코인 송금 시범 운영 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "SamsungWallet",
-            "Sui",
-            "USDC"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:39.991Z",
+      "fetchedAt": "2026-10-09T04:41:58.855Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:40.347Z",
+      "fetchedAt": "2026-10-09T04:41:59.134Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -970,7 +970,7 @@
           "summaryKo": "보스턴, 준비됐어?! 테크크런치 창립자 서밋 2026이 에너지로 폭발할 예정입니다. 그리고 11월 3일부터 6일까지 사이드 이벤트의 장대한 라인업으로 진정한 마술이 시작됩니다!"
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:44.620Z",
+      "fetchedAt": "2026-10-09T04:41:59.253Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -978,6 +978,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "제주창조경제혁신센터, 창업 아이디어 8개 공개 경쟁…‘모두의 창업’ 권역 오디션 진출자 3명 선발",
+          "link": "https://www.venturesquare.net/1118643/",
+          "pubDate": "2026-10-08T11:36:34.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/jeju-369x522.jpg",
+          "summary": "제주창조경제혁신센터가 13일 쉐라톤 제주에서 ‘2026년 1차 모두의 창업 프로젝트 지역 오디션’을 개최한다. 멘토링과 AI 솔루션 등 보육 프로그램을 거친 제주 지역 창업자 8명이 공개 IR 피칭에 참여하며 전문가 평가를 통해 상위 3명이 권역별 오디션 진출자로 선정... The post 제주창조경제혁신센터, 창업 아이디어 8개 공개 경쟁…‘모두의 창업’ 권역 오디션 진출자 3명 선발 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "공개IR",
+            "넥스트챌린지",
+            "모두의창업",
+            "스타트업피칭",
+            "엠와이소셜컴퍼니"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "KOSA·한국벤처투자, AI 기업과 모태펀드 운용사 직접 연결…공동 IR·투자상담 추진",
           "link": "https://www.venturesquare.net/1118598/",
@@ -1049,27 +1067,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경기창조경제혁신센터, 기후테크 ‘기술력’을 투자 가치로 바꾸려면…밸류에이션·IR 해법 공유",
-          "link": "https://www.venturesquare.net/1118409/",
-          "pubDate": "2026-10-07T10:16:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/1791289868472.png",
-          "summary": "경기도와 경기창조경제혁신센터가 기후테크 스타트업의 투자유치 전략을 다룬 ‘2026 제2회 기후테크 세미나ON’을 개최했다. 스타트업과 유관기관 관계자 60여명이 참여해 밸류에이션과 투자기관의 판단 기준, IR 전략 등을 점검했다. 탄소감축량과 같은 환경 성과를 객관적인... The post 경기창조경제혁신센터, 기후테크 ‘기술력’을 투자 가치로 바꾸려면…밸류에이션·IR 해법 공유 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "ESG",
-            "IR",
-            "경기창조경제혁신센터",
-            "경기혁신센터",
-            "기후테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:46.843Z",
+      "fetchedAt": "2026-10-09T04:42:01.527Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1112,23 +1112,6 @@
           "summaryKo": null
         },
         {
-          "title": "충북과기원, 중소기업 정보보호 지원사업 참여기업 모집 - 세종경제뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03QmZjVWdHSDg5NU9sdmhYblNXMFNURWYya0tLOUVUQ3BsdHJjVHJ4QUNQNTBzaXBacG00cDRJUVhIYmU5cXh0TTB6bTVNQzdqSmE4NlEwRVR2WjlBUDJMUUpZTVZ0R1REbFB4atIBcEFVX3lxTE9oUlNZcDNDVTNSTmJtOWE4SklwM25HRjRYaUR5MnpBMWpRbkxocnUyR19STjMybE93Zl90emNGbnowR2pFeUppbW1mZEQ5WEhNNmEwZzVhMEEtREhTTmFieW9EdmFjNE5ndlJoR20wUXo?oc=5",
-          "pubDate": "2026-10-08T02:01:38.000Z",
-          "image": null,
-          "summary": "충북과기원, 중소기업 정보보호 지원사업 참여기업 모집 세종경제뉴스",
-          "keywords": [
-            "충북과기원",
-            "중소기업",
-            "정보보호",
-            "지원사업",
-            "참여기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "인증 축산물 유통 활성화 지원 사업 대상 모집 - 농축유통신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHNEVFSmcwMlBJNTdaZDhkejN0b1J5SVNJZ2E1WU9BM1lKTmw4QzFhUURpQk1MNWs0cWwwbTNCZTljZFhZbjg3LTRlWTN6eGRqLUVVb3l4TUt5bmQwUTdSd1pqMEVqdW1E?oc=5",
           "pubDate": "2026-10-08T15:03:40.000Z",
@@ -1140,6 +1123,23 @@
             "유통",
             "활성화",
             "지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "충북과기원, 중소기업 정보보호 지원사업 참여기업 모집 - 세종경제뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03QmZjVWdHSDg5NU9sdmhYblNXMFNURWYya0tLOUVUQ3BsdHJjVHJ4QUNQNTBzaXBacG00cDRJUVhIYmU5cXh0TTB6bTVNQzdqSmE4NlEwRVR2WjlBUDJMUUpZTVZ0R1REbFB4atIBcEFVX3lxTE9oUlNZcDNDVTNSTmJtOWE4SklwM25HRjRYaUR5MnpBMWpRbkxocnUyR19STjMybE93Zl90emNGbnowR2pFeUppbW1mZEQ5WEhNNmEwZzVhMEEtREhTTmFieW9EdmFjNE5ndlJoR20wUXo?oc=5",
+          "pubDate": "2026-10-08T02:01:38.000Z",
+          "image": null,
+          "summary": "충북과기원, 중소기업 정보보호 지원사업 참여기업 모집 세종경제뉴스",
+          "keywords": [
+            "충북과기원",
+            "중소기업",
+            "정보보호",
+            "지원사업",
+            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1163,73 +1163,73 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-08T22:56:47.344Z",
+      "fetchedAt": "2026-10-09T04:42:02.072Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 1,
-      "change": "up"
-    },
-    {
       "key": "스타트업",
       "label": "스타트업",
       "count": 4,
-      "rank": 2,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "ax",
       "label": "AX",
       "count": 2,
+      "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "미국",
+      "label": "미국",
+      "count": 2,
       "rank": 3,
-      "change": "down"
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "ai전환",
@@ -1245,7 +1245,7 @@
       "label": "Ads (DEPRECATED)",
       "count": 5,
       "rank": 1,
-      "change": "up",
+      "change": "same",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
@@ -1253,7 +1253,7 @@
       "label": "AdSense",
       "count": 5,
       "rank": 2,
-      "change": "up",
+      "change": "same",
       "labelKo": "애드 센스"
     },
     {
@@ -1261,7 +1261,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1269,7 +1269,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1277,7 +1277,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1293,7 +1293,7 @@
       "label": "Articles",
       "count": 3,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1301,7 +1301,7 @@
       "label": "Featured",
       "count": 3,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1309,7 +1309,7 @@
       "label": "News",
       "count": 3,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
