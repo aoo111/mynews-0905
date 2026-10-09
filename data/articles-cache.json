@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-09T12:37:25.636Z",
+  "collectedAt": "2026-10-09T19:16:19.230Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“내 번호 누가 훔쳐 썼다”던 금융권 해킹용의자…계정 추적했더니 ‘반전’",
+          "link": "https://www.mk.co.kr/news/economy/12172550",
+          "pubDate": "2026-10-09T13:34:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/09/news-p.v1.20261009.960751362ce64638977718ed09a6d7df_R.png",
+          "summary": "국내 금융권을 겨냥한 해킹 공격의 배후로 지목된 인물이 중국계 디도스(DDoS·분산서비스거부) 대행 조직에서 활동한 정황이 포착됐다. 다만 해당 인물이 실제 공격을 주도했는지는 추..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "30년역사 호텔이 주차장·창고와 동급?…수백억 상속세 내라는 개편안",
           "link": "https://www.mk.co.kr/news/economy/12172495",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "호텔업 稅개편 직격탄 …\"상속세 0 → 109억\"",
-          "link": "https://www.mk.co.kr/news/economy/12172455",
-          "pubDate": "2026-10-09T08:34:28.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/10/20261010_01110109000001_L00.jpg",
-          "summary": "가업상속공제 대상 업종에서 관광호텔·병원 등을 제외한 정부의 세제 개편안을 두고 산업계에서 혼란이 커지고 있다. 편법을 최소화하겠다는 취지는 좋지만, 공제 혜택이 사라지면 K관광·..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:15.075Z",
+      "fetchedAt": "2026-10-09T19:15:57.313Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+          "pubDate": "2026-10-09T14:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+          "keywords": [
+            "Other Announcements"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다.",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
+        },
         {
           "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표",
           "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
-        },
-        {
-          "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-          "pubDate": "2026-10-02T20:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-          "keywords": [
-            "Banking and Consumer Regulatory Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 규정 O를 현대화하기 위한 제안에 대한 의견 제시 기간을 11월 4일까지 연장한다고 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:15.138Z",
+      "fetchedAt": "2026-10-09T19:15:59.479Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "앤트로픽 '클로드 사이언스', 인류 최초 자외선 전체 하늘 지도 완성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+          "pubDate": "2026-10-09T21:36:50.000Z",
+          "image": null,
+          "summary": "앤트로픽이 '클로드 사이언스(Claude Science)'를 활용해 그동안 관측 공백으로 남아있던 우주의 자외선 영역을 모두 채운 최초의 완벽한 자외선 전천(All-Sky) 지도를 8일(현지시간) 공개했다. 존스홉킨스대학교 천체물리학자이자 앤트로픽 연구원인 브리스 메나르 교수가 이끈 이번 프로젝트는 대규모 과학 데이터를 자율 처리하는 연구용 AI 에이전트 시스템의 가능성을 입증한 대표적 사례로 평가받는다.자외선은 지구 대기의 오존층에 흡수되기 때문에 우주 망원경을 통해서만 관측할 수 있다. 하지만 2003년부터 2013년까지 운용된",
+          "keywords": [
+            "앤트로픽",
+            "클로드",
+            "사이언스",
+            "인류",
+            "최초"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216105",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216094",
-          "pubDate": "2026-10-09T17:49:39.000Z",
-          "image": null,
-          "summary": "애플이 첫 터치스크린 맥북과 OLED(유기발광다이오드) 디스플레이를 탑재한 새로운 아이패드 미니를 10월 말 공개할 전망이다. 'M6' 칩을 탑재한 맥북 프로와 아이맥도 함께 선보일 것으로 알려졌다.블룸버그는 8일(현지시간) 정통한 소식통을 인용, 애플이 오는 27일경 맥과 아이패드 신제품 공개 행사를 개최할 예정이라고 보도했다.행사는 온라인 영상 발표와 언론 대상 오프라인 행사로 구성되며, 영상 제작과 사진 편집, 음악 작업 등 창작 전문가를 겨냥할 것으로 알려졌다.이번 발표에서 가장 주목되는 제품은 애플의 첫 터치스크린 맥북 프",
-          "keywords": [
-            "애플",
-            "10월",
-            "터치스크린",
-            "맥북",
-            "공개"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:16.243Z",
+      "fetchedAt": "2026-10-09T19:16:00.673Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -298,6 +298,23 @@
           "isForeign": true,
           "titleKo": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
           "summaryKo": "Sophos가 OpenAI의 Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축하고 MDR 사례의 52% 를 자동화하는 동시에 인적 감시를 유지하는 방법을 알아보세요."
+        },
+        {
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "link": "https://openai.com/index/asana-browser-agent",
+          "pubDate": "2026-10-09T07:00:00.000Z",
+          "image": null,
+          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "keywords": [
+            "Asana",
+            "cuts",
+            "model",
+            "costs",
+            "76x"
+          ],
+          "isForeign": true,
+          "titleKo": "Asana, GPT-6.1 SOL로 브라우저 테스트에서 모델 비용 76배 절감",
+          "summaryKo": "Asana는 Codex에서 GPT-6 Astra를 사용하여 브라우저 에이전트를 76배 더 저렴하고 5배 더 빠르게 테스트하여 고객에게 더 유능한 모델을 제공했습니다."
         },
         {
           "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -345,22 +362,9 @@
           "isForeign": true,
           "titleKo": "LegalOn은 개발 속도를 유지하면서 코덱스 비용을 절반으로 줄입니다",
           "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
-        },
-        {
-          "title": "Disrupting AI-enabled “false front” operations",
-          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-          "pubDate": "2026-10-08T00:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-          "keywords": [
-            "Safety"
-          ],
-          "isForeign": true,
-          "titleKo": "AI가 활성화된 \"허위 전선\" 작업 중단",
-          "summaryKo": "OpenAI는 거짓 전선 저널리스트와 씽크탱크를 사용하여 지정학적 메시지를 전파하는 두 가지 AI 지원 영향력 운영을 중단했습니다."
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:18.314Z",
+      "fetchedAt": "2026-10-09T19:16:02.476Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,92 +373,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Jev, GTM용 의사결정 AI에 관해 알아야 할 것",
-          "link": "https://news.hada.io/topic?id=35063",
-          "pubDate": "2026-10-09T12:23:31.000Z",
+          "title": "2027년 2월부터 인증서 유효기간 64일 적용",
+          "link": "https://news.hada.io/topic?id=35079",
+          "pubDate": "2026-10-09T16:01:13.000Z",
           "image": null,
-          "summary": "Jev는 텍스트와 미리 정한 판단 기준을 받아 분류, 점수, 예/아니오 확률을 반환하는 모델임. 글을 생성하는 대신 GTM 업무의 반복적인 판단을 처리함 타입이 정해진 응답과 선택지별 확률, 신뢰도를 제공하며, 한 API 요청의 여러 질문을 각각 병렬로 처리함. LLM...",
+          "summary": "Let’s Encrypt가 2027년 2월 10일부터 기본 인증서 유효기간을 64일로 단축함. 더 짧은 45일 또는 6일 유효기간을 선택한 경우는 제외되며, 기존의 유효한 인증서는 폐기하지 않음 자동 갱신을 사용하고 클라이언트가 ACME Renewal Info(ARI) 를...",
           "keywords": [
-            "Jev",
-            "GTM용",
-            "의사결정",
-            "AI에",
-            "관해"
+            "2027년",
+            "2월부터",
+            "인증서",
+            "유효기간",
+            "64일"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Claude Startups 프로그램, 모든 신청서 재검토 예정",
-          "link": "https://news.hada.io/topic?id=35062",
-          "pubDate": "2026-10-09T12:14:27.000Z",
+          "title": "OpenAI, “연구 정보의 부적절한 취급”을 이유로 안전 연구원 3명 해고",
+          "link": "https://news.hada.io/topic?id=35078",
+          "pubDate": "2026-10-09T15:32:42.000Z",
           "image": null,
-          "summary": "Anthropic이 Claude Startups 공식 페이지 FAQ에 공지를 추가했습니다. 지난 며칠간 신청서가 수십만 건 접수됨 Claude Team 1년 무료 이용권과 $1,000 API 크레딧은 현재 제공 한도를 초과한 상태 모든 신청서를 재검토하며, 일부 신청서의 상태가 바뀔 수 있음 이미 혜택을",
+          "summary": "OpenAI가 안전 연구원 Jasmine Wang, Tomek Korbak, Mikita Balesni를 해고했으며, 세 사람은 공개서한에서 민감한 정보를 회사 절차 밖에서 취급했다는 혐의를 부인함 연구원들은 외부 안전 전문가와의 협업과 자유로운 문제 제기가 필수 안전장치라며, 갑작스러운...",
           "keywords": [
-            "Claude",
-            "Startups",
-            "프로그램",
-            "모든",
-            "신청서"
+            "OpenAI",
+            "연구",
+            "정보의",
+            "부적절한",
+            "취급"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Rust 오류 처리에 빠진 한 조각",
-          "link": "https://news.hada.io/topic?id=35061",
-          "pubDate": "2026-10-09T12:02:38.000Z",
+          "title": "Show GN: 한글날을 맞아 한글 퍼즐게임 바이브코딩 했습니다.",
+          "link": "https://news.hada.io/topic?id=35077",
+          "pubDate": "2026-10-09T15:22:50.000Z",
           "image": null,
-          "summary": "Rust 오류 처리에서 정확한 오류 타입과 간편한 전파를 양립하려면, 함수처럼 오류 타입도 쉽게 조합하고 처리한 오류는 타입에서 제거할 수 있어야 함 eros는 가능한 오류를 튜플 형태의 집합으로 표현하며, 새 enum이나 변환 코드를 선언하지 않고도 오류 집합을...",
-          "keywords": [
-            "Rust",
-            "오류",
-            "처리에",
-            "빠진",
-            "조각"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Windows와 Mac의 키보드 차이 - Ctrl을 Command로 바꾸는 것만으로는 부족하다",
-          "link": "https://news.hada.io/topic?id=35060",
-          "pubDate": "2026-10-09T10:34:50.000Z",
-          "image": null,
-          "summary": "같은 코드베이스로 Windows와 Mac을 지원하는 웹 앱도 키 이름, 보조 키, 문자 입력과 커서 이동 관행의 차이를 고려해야 함 Windows의 Ctrl 중심 단축키는 Mac에서 대체로 Command에 대응하지만, Mac의 별도 Control 키는 텍스트 편집과 다른 단축키에 사용됨",
-          "keywords": [
-            "Windows와",
-            "Mac의",
-            "키보드",
-            "차이",
-            "Ctrl을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: AriaX - React Aria와 StyleX로 구현한 shadcn/ui 컴포넌트 레지스트리",
-          "link": "https://news.hada.io/topic?id=35059",
-          "pubDate": "2026-10-09T09:49:55.000Z",
-          "image": null,
-          "summary": "AriaX, React Aria와 StyleX로 구현한 shadcn/ui 컴포넌트 레지스트리를 소개합니다. 아마 많은 분들이 shadcn/ui를 좋아하실 듯합니다. 저도 shadcn/ui의 깔끔한 기본스타일과 쉬운 커스터마이징이 좋아서 잘 쓰고 있습니다. 하지만 shadcn/ui가 사용하는 Tailwind CSS에 대해서는 때때로 불편함",
+          "summary": "한글 자모 기반의 규칙으로 추리하는 제가 창안한 게임은 아니구요 재밌게 보았던 유튜브 웹 서바이벌 예능 ‘네가지 소원’의 두번째 에피소드에 나온 ‘한글 숨바꼭질’이라는 게임을 웹으로 즐기고 싶어서 해당 규칙 기반으로 만들어봤",
           "keywords": [
             "Show",
             "GN:",
-            "AriaX",
-            "React",
-            "Aria와"
+            "한글날을",
+            "맞아",
+            "한글"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Oxide, 약 6,700억원 규모 시리즈 D 투자 유치",
+          "link": "https://news.hada.io/topic?id=35074",
+          "pubDate": "2026-10-09T14:36:42.000Z",
+          "image": null,
+          "summary": "Oxide가 공급을 크게 웃도는 수요에 대응하기 위해 4억 4,500만 달러($445m) 규모의 시리즈 D 투자를 유치함 컴퓨터 판매에서 부품비, 제조비, 급여와 운영비를 차감하고도 과세소득이 발생해, 봄에 법인 소득세를 납부함 하드웨어 사업은 고객에게 시스템...",
+          "keywords": [
+            "Oxide",
+            "700억원",
+            "규모",
+            "시리즈",
+            "투자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Deno 팀, Cloudflare에 합류",
+          "link": "https://news.hada.io/topic?id=35073",
+          "pubDate": "2026-10-09T14:33:42.000Z",
+          "image": null,
+          "summary": "Deno 팀 전체가 Cloudflare에 합류하며, 별도 런타임과 호스팅 서비스 대신 Workers 및 Durable Objects 팀과 함께 만드는 공통 플랫폼에 향후 개발 역량을 집중함 Deno 런타임은 1년간 버그 수정과 보안 업데이트를 담은 월별 릴리스를 제공한 뒤 팀의 개발을 종료...",
+          "keywords": [
+            "Deno",
+            "Cloudflare에",
+            "합류"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:18.869Z",
+      "fetchedAt": "2026-10-09T19:16:03.123Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -544,7 +546,7 @@
         }
       ],
       "fetchedAt": "2026-10-09T12:37:18.977Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -617,7 +619,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:19.116Z",
+      "fetchedAt": "2026-10-09T19:16:03.872Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +700,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:19.204Z",
+      "fetchedAt": "2026-10-09T19:16:03.949Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -797,7 +799,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:22.887Z",
+      "fetchedAt": "2026-10-09T19:16:06.775Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -888,7 +890,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:23.062Z",
+      "fetchedAt": "2026-10-09T19:16:07.218Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -897,89 +899,93 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-          "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-          "pubDate": "2026-10-08T18:19:45.000Z",
+          "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+          "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+          "pubDate": "2026-10-09T18:57:06.000Z",
           "image": null,
-          "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+          "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
           "keywords": [
-            "AI",
             "Fundraising",
             "Startups",
-            "TC",
-            "AI leaderboard",
-            "Arena AI"
+            "Venture",
+            "engine",
+            "Gamma",
+            "google ventures"
           ],
           "isForeign": true,
-          "titleKo": "인기 AI 리더보드 아레나, 10개월 만에 밸류에이션이 $ 3.1B로 거의 두 배 증가",
-          "summaryKo": "인기있는 LMArena 리더 보드의 배후에있는 회사는 Lightspeed와 Khosla가 이끄는 $ 2 억을 모금했으며 현재 거짓말과 같은 정렬 문제에 대해 AI 모델을 측정하고 있습니다."
+          "titleKo": "TechCrunch Disrupt 2026: 감마의 그랜트 리 (Grant Lee), 엔진의 엘리아 월렌 (Elia Wallen), GV의 크리스탈 황 (Crystal Huang) 이 첫 1,000명의 고객을 유치합니다.",
+          "summaryKo": "Gamma, Engine, Google Ventures의 리더들이 TechCrunch Disrupt 2026에 참여하여 첫 고객을 유치하는 방법에 대해 이야기합니다. 지금 등록하고 최대 $ 100를 절약하세요. 50% 할인된 가격에 두 번째 이용권을 구매하세요."
         },
         {
-          "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-          "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-          "pubDate": "2026-10-08T16:45:00.000Z",
+          "title": "LumenUs helps automate tedious paperwork in times of grief",
+          "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+          "pubDate": "2026-10-09T17:00:00.000Z",
           "image": null,
-          "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+          "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
           "keywords": [
             "Startups",
+            "Lumenus",
             "Startup Battlefield 200",
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
-          "titleKo": "교도소에서 복역한 스타트업 창업자가 미개척 시장인 전과자를 법정에 세우려고 합니다.",
-          "summaryKo": "증권 위반으로 연방 교도소에서 근무했던 전 스트래튼 오크몬트 파트너였던 리처드 브론슨 (Richard Bronson) 은 감옥을 떠나는 사람들이 일자리, 주택, 지역 사회, 심지어 날짜까지 찾을 수 있도록 AI를 사용하는 스타트업인 커미서리 클럽 (Commissary Club) 을 시작했습니다."
+          "titleKo": "LumenUs는 슬픔의 시기에 지루한 서류 작업을 자동화하는 데 도움이 됩니다",
+          "summaryKo": "설립자 사라 타샤코리니아 (Sara Tashakorinia) 는 \"사랑하는 사람이 세상을 떠나는 날, 전혀 몰랐던 프로젝트에 대한 프로젝트 매니저의 명예 배지도 받게 됩니다.\" 라고 말했습니다."
         },
         {
-          "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-          "pubDate": "2026-10-08T15:00:00.000Z",
+          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+          "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+          "pubDate": "2026-10-09T16:53:02.000Z",
           "image": null,
-          "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+          "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
           "keywords": [
-            "Startups",
             "AI",
-            "Bloom Energy",
-            "TechCrunch Disrupt",
-            "Ambrosia Energy"
+            "Startups",
+            "AI agents",
+            "Amazon",
+            "data centers",
+            "Equity podcast"
           ],
           "isForeign": true,
-          "titleKo": "앰브로시아 에너지 (Ambrosia Energy) 와 블룸 에너지 (Bloom Energy) 가 테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 에서 인공지능 (AI) 인프라 붐이 기회를 창출하고 있는",
-          "summaryKo": "암브로시아 에너지 CEO 벤 롱미어 (Ben Longmier) 와 블룸 에너지 수석 부사장 빌 테이어 (Bill Thayer) 가 테크크런치 디스럽트 (TechCrunch Disrupt) 의 스마트 시스템 무대에 합류 지금 등록하고 최대 $ 100를 절약하세요. 동일한 이용권을 1초 동안 구매하고 50% 할인을 받으세요."
+          "titleKo": "Amazon은 데이터 센터 NDA를 삭제하고 AI 에이전트는 신용 카드를 원합니다.",
+          "summaryKo": "아마존은 올해 초 마이크로소프트의 비슷한 움직임에 따라 현지 정부와 데이터 센터 계약을 협상할 때 NDA 사용을 중단할 것이라고 밝혔다. 비밀은 뉴욕에서 샌프란시스코에 이르는 수백 개의 제안 및 제정 유예로 이어지는 반대와 함께 AI 인프라에 대한 지역 사회의 반발을 불러 일으켰습니다. 한편, 신생 기업들의 물결은 소비자들이 AI 에이전트에게 접근 권한을 부여 할 것이라고 베팅하고 있습니다 […]"
         },
         {
-          "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-          "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-          "pubDate": "2026-10-08T14:00:00.000Z",
+          "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+          "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+          "pubDate": "2026-10-09T14:42:34.000Z",
           "image": null,
-          "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+          "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
+          "keywords": [
+            "Media & Entertainment",
+            "Social",
+            "Startups",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "Beyond TechCrunch Disrupt 2026: 놓칠 수 없는 사이드 이벤트, 파티 및 네트워킹",
+          "summaryKo": "TechCrunch Disrupt 2026은 시작에 불과합니다. 독점 네트워킹 이벤트와 스타트업 쇼케이스부터 해피 아워, 디너, 애프터 아워 밋업에 이르기까지, 10월 10일부터 16일까지 진행되는 디스럽트 위크 기간 동안 샌프란시스코 전역에서 어떤 일이 벌어지고 있는지 알아보세요. 다음 연결, 다음 기회 또는 다음 좋아하는 이벤트를 찾으십시오."
+        },
+        {
+          "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+          "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+          "pubDate": "2026-10-09T14:00:00.000Z",
+          "image": null,
+          "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
           "keywords": [
             "Startups",
+            "Climate",
             "Fintech",
+            "Biotech & Health",
             "Venture",
-            "AI",
-            "Robotics",
-            "Fundraising"
+            "AI"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026까지 5일 남음: 이용권으로 문 앞에서 더 많은 비용을 지불하지 마세요",
-          "summaryKo": "10월 13 ~ 15일 샌프란시스코 모스콘 웨스트에서 열리는 테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 에는 글로벌 기술 생태계가 모여 있습니다. 지금 이용권을 구매하고 최대 $ 100의 할인 혜택을 받으세요. 동일한 유형의 티켓을 1초 안에 구매하고 50% 할인을 받으세요."
-        },
-        {
-          "title": "The complete Side Events lineup at Founder Summit 2026",
-          "link": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
-          "pubDate": "2026-10-08T14:00:00.000Z",
-          "image": null,
-          "summary": "Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode with energy — and the real magic kicks off with an epic lineup of Side Events lighting up the city from November 3–6!",
-          "keywords": [
-            "Startups",
-            "TechCrunch Founder Summit"
-          ],
-          "isForeign": true,
-          "titleKo": "파운더 서밋 2026의 전체 사이드 이벤트 라인업",
-          "summaryKo": "보스턴, 준비됐어?! 테크크런치 창립자 서밋 2026이 에너지로 폭발할 예정입니다. 그리고 11월 3일부터 6일까지 사이드 이벤트의 장대한 라인업으로 진정한 마술이 시작됩니다!"
+          "titleKo": "TechCrunch Disrupt 2026은 4일 후에 시작됩니다. 가격이 상승하기 전에 최대 $ 100의 이용권 할인 혜택을 누리세요",
+          "summaryKo": "테크크런치 디스럽트 2026 (TechCrunch Disrupt 2026) 이 시작되기까지 4일, 10월 13 ~ 15일 샌프란시스코의 모스콘 웨스트에서 10,000명의 창업자, 투자자, 기술 리더가 모입니다. 요금에서 최대 $ 100를 할인받으세요. 또한, 동일한 유형의 두 번째 이용권을 50% 할인된 가격에 구매하실 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:23.102Z",
+      "fetchedAt": "2026-10-09T19:16:15.451Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1078,7 +1084,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:25.118Z",
+      "fetchedAt": "2026-10-09T19:16:17.784Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1097,23 +1103,6 @@
             "맞는",
             "정책",
             "지원",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 - 국민기자뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WGpVUXh3ZUlRQUMzSERXOV9YOHFxVFFXa0N6di1EZkRPbTlhODlNZHI3b0FXdVFvSlpjR0tjMjJ4NWx1aENZYnExWnBWakpzV3lLc253UVFzRWEyeFhBSWM5Z9IBZ0FVX3lxTE1CcTVtMGVrYzVJQXRXT1ZIUDYwNWVEMFBncXI3bVZmS3Z3QlRxV19hLXh2aDlidHptZVl4Vmo1NlZNZmlpOXdhM0lnbXhacXlIaUZ1Yjh2bU5ySnViajBqZ1oyNW9PTHM?oc=5",
-          "pubDate": "2026-10-08T17:00:00.000Z",
-          "image": null,
-          "summary": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 국민기자뉴스",
-          "keywords": [
-            "우정소프트웨어",
-            "중소",
-            "제조기업용",
-            "정부",
             "지원사업"
           ],
           "isForeign": false,
@@ -1155,31 +1144,48 @@
           "summaryKo": null
         },
         {
-          "title": "10월 마감 창업 지원사업 7선…SK에코플랜트 PoC 1000만원부터 입주공간까지 - ISSUE ON (이슈온)",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQmRVMlkyb3owVzVGOWlSR0tOUnMxaFFOTW1oWDBzYnFtTjVDRVJONnY3c0VlWE1HMjdkSDJhYTRxczc2SXQ1UzhYZ25yMVdYLTFqbHhNeXBIZ3VhdGswLUl3cXgzZkl0c2lv?oc=5",
-          "pubDate": "2026-10-09T05:26:01.000Z",
+          "title": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 - 웰페어뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QaVp4R09MX1VSNF9sYkdJSHNYaG5fVHpTU20zTm95cmRfenJvelJuT3dhNzNtc3RNXzJteTd3YmRTQnBySXF2YldqWWxVOUtwRFhteEE5ME13dC1YbGo0cTU5WE1oOWNzbHBfUHY0RQ?oc=5",
+          "pubDate": "2026-10-07T23:33:30.000Z",
           "image": null,
-          "summary": "10월 마감 창업 지원사업 7선…SK에코플랜트 PoC 1000만원부터 입주공간까지 ISSUE ON (이슈온)",
+          "summary": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 웰페어뉴스",
           "keywords": [
-            "10월",
-            "마감",
+            "장애인기업종합지원센터",
+            "2027년",
+            "창업지원사업",
+            "대비",
+            "제2회"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "대구 남구, 청년 창업 지원사업 참가자 모집...기업 성장 등 단계별 지원 - 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HbTVtLTRhRVVSWURjY19VU0hJcEhPQ2U1UVpVWUxUTmpvVVBIOUI2Y0RMSTh1LU8xNjVVcGVrYlFtd2tpb2l1dFhicEtwb1dqRkRWZ3Q4YTRaZG5uVHc2SVVmSjBaWVFwYWUtQ1JR0gFzQVVfeXFMUE15TGdId3RsU1FuR2dub1BSV2hwQWkzZ1FORnNfdUJCWkg2WjV2WUczWVpXejM5Vm1MUEdkakpaTDJpMU1lX2FpbGhVcUp6SHF2UldfM1k1aFRtaUlVU2EtcG5NSTVwY1d6dVBEN3hKb1Fzbw?oc=5",
+          "pubDate": "2026-10-08T01:40:00.000Z",
+          "image": null,
+          "summary": "대구 남구, 청년 창업 지원사업 참가자 모집...기업 성장 등 단계별 지원 한국일보",
+          "keywords": [
+            "대구",
+            "남구",
+            "청년",
             "창업",
-            "지원사업",
-            "7선"
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-09T12:37:25.629Z",
+      "fetchedAt": "2026-10-09T19:16:18.275Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "10월",
-      "label": "10월",
+      "key": "2027년",
+      "label": "2027년",
       "count": 2,
       "rank": 1,
       "change": "new"
@@ -1189,14 +1195,14 @@
       "label": "Special Post",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1236,7 +1242,7 @@
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 3,
       "rank": 9,
       "change": "same"
     },
@@ -1290,44 +1296,44 @@
       "labelKo": "다음을 따르세요"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "추천 동영상"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "뉴스"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "AI"
+    },
+    {
+      "key": "costs",
+      "label": "costs",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "모금 활동"
+      "change": "new",
+      "labelKo": "비용"
     }
   ]
 }
