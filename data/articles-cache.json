@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-10T11:57:32.291Z",
+  "collectedAt": "2026-10-10T17:10:56.053Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "국가 전력수급 설계하는데 명단은 ‘비공개’…국감장 달군 비밀의 ‘전기본’",
+          "link": "https://www.mk.co.kr/news/economy/12172799",
+          "pubDate": "2026-10-10T13:55:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/10/rcv.NEWSIS.NEWSIS.20261006.NISI20261006_0021477376_R.jpg",
+          "summary": "국감서 전기본 위원 명단 공방 기후부, 로비 우려에 비공개 야당은 전문성·이해충돌 검증 요구 11차 명단 공개 여부도 엇갈려 실제 전기본 위원들 생각은 “공개” 다만 정치적 시비에..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“치료 더 받고 싶은데” vs “보험료 인상 부담”…도수치료 두고 의견차",
           "link": "https://www.mk.co.kr/news/economy/12172753",
           "pubDate": "2026-10-10T11:12:18.000Z",
@@ -54,10 +67,10 @@
           "summaryKo": null
         },
         {
-          "title": "“40대인데, 이렇게 젊어?”…미모女 “이혼 후 홀로서기 중” 난리 났는데 ‘대반전’",
+          "title": "“이혼 후 홀로서기 중이에요”…만남 요청 쏟아졌는데, 알고 보니 ‘대반전’",
           "link": "https://www.mk.co.kr/news/economy/12172751",
           "pubDate": "2026-10-10T10:55:20.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261010.786dbafdc95c482b92432c4435db60c8_R.jpeg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261010.c9d8f5b03e7a43c181e74be4ac1b65c9_R.jpg",
           "summary": "만남 요청·신상정보 공개…“로맨스 스캠 악용”인공지능(AI)으로 만든 가짜 여성 사진과 정교한 사연을 내세운 사회관계망서비스(SNS) 계정이 잇따라 등장하면서, 연애를 빙자해 돈을..",
           "keywords": [
             "경제"
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“최대 적립률 14% 진짜라고?”…컬리 마니아들 난리난 ‘이 카드’",
-          "link": "https://www.mk.co.kr/news/economy/12172709",
-          "pubDate": "2026-10-10T06:13:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/10/news-p.v1.20261010.69c9e7a8535b441c99a323bcf0543dd1_R.jpg",
-          "summary": "최대 14% 적립금 ‘컬리 신한카드’ 주목신한카드가 컬리에서 결제하면 이용금액의 7%를 적립해주는 ‘컬리 신한카드’를 최근 선보였다. 컬리 멤버십의 최대 7% 적립 혜택을 더하면 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:24.228Z",
+      "fetchedAt": "2026-10-10T17:10:42.807Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:24.289Z",
+      "fetchedAt": "2026-10-10T17:10:42.934Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:25.648Z",
+      "fetchedAt": "2026-10-10T17:10:43.925Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -364,7 +364,7 @@
           "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:25.800Z",
+      "fetchedAt": "2026-10-10T17:10:44.203Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -373,92 +373,87 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show HN: 아마 한 번도 읽어보지 못했을, 가장 희귀한 기술 서적과 문서들",
-          "link": "https://news.hada.io/topic?id=35114",
-          "pubDate": "2026-10-10T11:32:35.000Z",
+          "title": "Bitwarden 이중 라이선스 모델",
+          "link": "https://news.hada.io/topic?id=35127",
+          "pubDate": "2026-10-10T16:37:51.000Z",
           "image": null,
-          "summary": "Read Rare는 Apple, Intel, Google, Netflix, Facebook 등을 만든 사람들의 내부 메모, 유출된 핸드북, 잊힌 책 등 54개 자료를 모은 목록임 자료는 문서 29개와 책 25권으로 나뉘며, 모두 무료로 읽거나 빌릴 수 있음 문서 목록에는",
+          "summary": "Bitwarden은 다음 릴리스부터 앱 스토어에 상용 라이선스 빌드를 배포하며, 사용자가 따로 조치할 필요 없이 앱은 현재와 동일하게 작동함 GPLv3 오픈소스 버전은 GitHub에서 계속 업데이트하고 공개하며, 현재 제공하는 모든 기능은 두 버전에서 모두 이용할 수 있...",
           "keywords": [
-            "Show",
-            "HN:",
-            "아마",
-            "번도",
-            "읽어보지"
+            "Bitwarden",
+            "이중",
+            "라이선스",
+            "모델"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Tor Project와 Mullvad의 관계에 관한 성명",
-          "link": "https://news.hada.io/topic?id=35113",
-          "pubDate": "2026-10-10T09:38:15.000Z",
+          "title": "자기회귀 확산으로 시장 데이터를 생성할 수 있을까?",
+          "link": "https://news.hada.io/topic?id=35126",
+          "pubDate": "2026-10-10T16:34:51.000Z",
           "image": null,
-          "summary": "Tor Project는 Mullvad 공동창립자의 정치 기부로 제기된 우려에도 기술 협력을 유지하되, 관계에 명확한 경계를 설정함 협력 지속 결정은 커뮤니티, 직원, 이사회와의 논의, 직원 설문, 재무 분석과 시나리오 검토를 거쳐 내려짐 Mullvad와의 협력은",
+          "summary": "Jane Street의 연구 인턴 프로젝트는 미래 가격 하나를 예측하는 대신, 시장 이벤트와 발생 시점까지 생성하는 자기회귀 확산 모델을 실험함 시장 데이터에는 연속적인 수치와 이산적인 행동이 섞여 있어, 완전 연속형 확산 모델만으로는 특정 가격과 시간에 확률이...",
           "keywords": [
-            "Tor",
-            "Project와",
-            "Mullvad의",
-            "관계에",
-            "관한"
+            "자기회귀",
+            "확산으로",
+            "시장",
+            "데이터를",
+            "생성할"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Telegram Desktop 취약점으로 사용자 파일 탈취가 가능했음",
-          "link": "https://news.hada.io/topic?id=35112",
-          "pubDate": "2026-10-10T09:35:15.000Z",
+          "title": "Bun, TypeScript를 네이티브 코드로 선행 컴파일하는 AOT 컴파일러 실험 공개",
+          "link": "https://news.hada.io/topic?id=35124",
+          "pubDate": "2026-10-10T14:55:44.000Z",
           "image": null,
-          "summary": "Telegram Desktop 7.2.8 이하에서 조작된 링크를 클릭하면 로컬 파일이 공격자 소유 채팅으로 유출될 수 있었으며, 로컬 패스코드가 없으면 세션 파일 탈취로 계정까지 장악할 수 있었음 실행 중인 Telegram에 링크를 전달하는 프로세스 간 통신(IPC) 에서 구분자를...",
+          "summary": "Bun이 TypeScript/JavaScript를 실행 전에 네이티브 코드로 컴파일하는 AOT(Ahead-of-Time) 컴파일러의 실험 결과를 공개함 기존 bun build --compile은 JavaScript 번들과 Bun 런타임을 단일 실행 파일로 패키징하며, --bytecode는 JavaScriptCore의 바이...",
           "keywords": [
-            "Telegram",
-            "Desktop",
-            "취약점으로",
-            "사용자",
-            "파일"
+            "Bun",
+            "TypeScript를",
+            "네이티브",
+            "코드로",
+            "선행"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "아이디어를 찾기가 더 어려워지고 있는 것은 아니다 (2022)",
-          "link": "https://news.hada.io/topic?id=35111",
-          "pubDate": "2026-10-10T08:44:13.000Z",
+          "title": "컴퓨터는 결정을 내릴 수 없다",
+          "link": "https://news.hada.io/topic?id=35123",
+          "pubDate": "2026-10-10T14:36:58.000Z",
           "image": null,
-          "summary": "연구자 1인당 생산성 감소만으로 새로운 아이디어를 찾기 어려워졌다고 단정할 수는 없음. 연구 조직의 비효율과 유인 구조 등 다른 원인으로도 같은 결과가 나타날 수 있음 과거의 발견은 사후확신 편향 때문에 쉬워 보이고, 아직 떠올리지 못한 아이디어는 언제나...",
+          "summary": "컴퓨터 프로그램은 결정을 내릴 수 없으므로, 그 결과에 대한 책임은 프로그램이 아니라 사람에게 있음 LLM에 결과의 책임을 돌리는 것은 의사결정 세탁(decision laundering) 이며, 실제로 결정을 내린 사람의 책임을 가림 OpenAI와 Anthropic...",
           "keywords": [
-            "아이디어를",
-            "찾기가",
-            "어려워지고",
-            "있는",
-            "것은"
+            "컴퓨터는",
+            "결정을",
+            "내릴",
+            "없다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI로 기록 보관소를 탐색해 잊힌 운석과 코뿔소 기록 등을 찾아냄",
-          "link": "https://news.hada.io/topic?id=35110",
-          "pubDate": "2026-10-10T08:41:13.000Z",
+          "title": "로비는 부패다",
+          "link": "https://news.hada.io/topic?id=35122",
+          "pubDate": "2026-10-10T14:33:57.000Z",
           "image": null,
-          "summary": "의미 기반 검색과 다단계 AI 필터링으로 수백만 쪽의 역사 자료를 조사해 운석 낙하 보고, 코뿔소 세 마리의 운송 기록, 기존 목록에 없는 화산 분화 후보를 찾아냄 네덜란드 동인도회사 기록 435만 쪽, 570만 구절을 단일 GPU로 밤새 처리하고, 소형 판단 모델",
+          "summary": "기업과 부유층이 정치인의 선거운동에 돈을 대고 원하는 법률을 얻는 로비는, 합법 여부와 무관하게 부패와 본질적으로 다르지 않음 George Hotz가 풍자한 미국의 로비에서는 정치인이 자금 제공자의 요구를 듣고, 퇴임 후에는 자신에게 로비했던...",
           "keywords": [
-            "AI로",
-            "기록",
-            "보관소를",
-            "탐색해",
-            "잊힌"
+            "로비는",
+            "부패다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:26.468Z",
+      "fetchedAt": "2026-10-10T17:10:45.008Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -557,7 +552,7 @@
           "summaryKo": "OpenAI가 Sam Yam을 크리에이터 제품 부문 책임자로 고용했다고 발표한 지 2주 후, Patreon 공동 창업자는 이미 열심히 일하고 있습니다. Yam의 팀은 OpenAI 기술을 사용하여 육아 시리즈를 제작할 Chloe Shih와의 파트너십을 발표했습니다. Shih는 자신의 삶과 기술 업계에서의 경력을 기록한 성실하고 세련된 동영상을 업로드하여 YouTube 및 Instagram과 같은 플랫폼에서 상당한 팔로워를 확보했습니다. 그녀의 성공에 힘입어 Shih는 Offi를 출시했습니다."
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:26.582Z",
+      "fetchedAt": "2026-10-10T17:10:45.202Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -631,7 +626,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:26.720Z",
+      "fetchedAt": "2026-10-10T17:10:45.358Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -712,7 +707,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:26.780Z",
+      "fetchedAt": "2026-10-10T17:10:45.411Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -811,7 +806,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:29.681Z",
+      "fetchedAt": "2026-10-10T17:10:48.382Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -905,7 +900,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:29.991Z",
+      "fetchedAt": "2026-10-10T17:10:48.680Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -913,6 +908,40 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Cloudflare acquires Deno to improve its Workers programming model",
+          "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+          "pubDate": "2026-10-10T16:25:42.000Z",
+          "image": null,
+          "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+          "keywords": [
+            "Enterprise",
+            "Startups",
+            "cloudflare",
+            "Deno"
+          ],
+          "isForeign": true,
+          "titleKo": "Cloudflare는 Workers 프로그래밍 모델을 개선하기 위해 Deno를 인수합니다",
+          "summaryKo": "Cloudflare는 이 인수를 통해 근로자 프로그래밍 모델 및 플랫폼을 개선할 것입니다."
+        },
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "pubDate": "2026-10-10T15:00:00.000Z",
+          "image": null,
+          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+          "keywords": [
+            "Startups",
+            "Climate",
+            "Fintech",
+            "Venture",
+            "AI",
+            "Robotics"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026까지 3일: 스타트업이 메인스트림에 진입하기 전에 스타트업을 만나보세요",
+          "summaryKo": "TechCrunch Disrupt 2026은 10월 13일부터 15일까지 샌프란시스코에서 열립니다. 300개 이상의 스타트업이 10,000명의 기술 리더에게 그들이 구축한 것을 보여줄 것입니다. 또한, 250명 이상의 연사가 200개 이상의 세션에서 인사이트를 공유할 수 있습니다. 문이 열리기 전에 등록하여 최대 $ 100를 할인받고 50% 할인된 가격에 두 번째 이용권을 받으세요."
+        },
         {
           "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
           "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -964,43 +993,9 @@
           "isForeign": true,
           "titleKo": "LumenUs는 슬픔의 시기에 지루한 서류 작업을 자동화하는 데 도움이 됩니다",
           "summaryKo": "설립자 사라 타샤코리니아 (Sara Tashakorinia) 는 \"사랑하는 사람이 세상을 떠나는 날, 전혀 몰랐던 프로젝트에 대한 프로젝트 매니저의 명예 배지도 받게 됩니다.\" 라고 말했습니다."
-        },
-        {
-          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-          "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-          "pubDate": "2026-10-09T16:53:02.000Z",
-          "image": null,
-          "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
-          "keywords": [
-            "AI",
-            "Startups",
-            "AI agents",
-            "Amazon",
-            "data centers",
-            "Equity podcast"
-          ],
-          "isForeign": true,
-          "titleKo": "Amazon은 데이터 센터 NDA를 삭제하고 AI 에이전트는 신용 카드를 원합니다.",
-          "summaryKo": "아마존은 올해 초 마이크로소프트의 비슷한 움직임에 따라 현지 정부와 데이터 센터 계약을 협상할 때 NDA 사용을 중단할 것이라고 밝혔다. 비밀은 뉴욕에서 샌프란시스코에 이르는 수백 개의 제안 및 제정 유예로 이어지는 반대와 함께 AI 인프라에 대한 지역 사회의 반발을 불러 일으켰습니다. 한편, 신생 기업들의 물결은 소비자들이 AI 에이전트에게 접근 권한을 부여 할 것이라고 베팅하고 있습니다 […]"
-        },
-        {
-          "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-          "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-          "pubDate": "2026-10-09T14:42:34.000Z",
-          "image": null,
-          "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
-          "keywords": [
-            "Media & Entertainment",
-            "Social",
-            "Startups",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Beyond TechCrunch Disrupt 2026: 놓칠 수 없는 사이드 이벤트, 파티 및 네트워킹",
-          "summaryKo": "TechCrunch Disrupt 2026은 시작에 불과합니다. 독점 네트워킹 이벤트와 스타트업 쇼케이스부터 해피 아워, 디너, 애프터 아워 밋업에 이르기까지, 10월 10일부터 16일까지 진행되는 디스럽트 위크 기간 동안 샌프란시스코 전역에서 어떤 일이 벌어지고 있는지 알아보세요. 다음 연결, 다음 기회 또는 다음 좋아하는 이벤트를 찾으십시오."
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:30.038Z",
+      "fetchedAt": "2026-10-10T17:10:52.190Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1099,7 +1094,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:31.781Z",
+      "fetchedAt": "2026-10-10T17:10:55.456Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1193,7 +1188,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-10T11:57:32.281Z",
+      "fetchedAt": "2026-10-10T17:10:56.044Z",
       "error": null
     }
   },
@@ -1210,60 +1205,60 @@
       "label": "마누스",
       "count": 3,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "벤처투자",
       "label": "벤처투자",
       "count": 3,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "메타",
       "label": "메타",
       "count": 2,
       "rank": 4,
+      "change": "same"
+    },
+    {
+      "key": "모델",
+      "label": "모델",
+      "count": 2,
+      "rank": 5,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
+      "rank": 9,
       "change": "down"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
-      "count": 4,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
       "count": 4,
       "rank": 10,
       "change": "down"
