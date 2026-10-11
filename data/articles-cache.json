@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-11T16:09:09.904Z",
+  "collectedAt": "2026-10-11T21:31:07.240Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,10 +41,36 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "대통령의 과도한 SNS 소통이 걱정되는 이유, ‘호모 휴리스티쿠스’ [논설실 Pick ]",
+          "title": "[단독] 시급 ‘30만원’ 혈세 컨설팅 유명무실…노사 갈등 해결 전혀 못 했다",
+          "link": "https://www.mk.co.kr/news/economy/12173226",
+          "pubDate": "2026-10-11T20:49:22.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.19312d891b814c1d8a0e3fa288de9f54_R.png",
+          "summary": "정부가 노란봉투법 시행 이후 원·하청 상생교섭을 위해 추진했던 컨설팅 사업 실적이 저조한 것으로 나타났다. 11일 이헌승 국민의힘 의원이 고용노동부에서 제출받은 자료에 따르면 올해..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "성장과 분배, 시장에 맡길까 국가가 이끌까",
+          "link": "https://www.mk.co.kr/news/economy/12173049",
+          "pubDate": "2026-10-11T20:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20260926.039393454f234e4db9e2b367a91ac162_R.png",
+          "summary": "⑮ 산업혁명 이후 현대까지 이어지는 자본주의vs사회주의 논쟁18세기 후반 영국의 산업혁명은 증기기관과 공장제 대량생산을 통해 인류에게 비약적인 물질적 풍요를 안겨주었습니다. 하지만..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "대통령의 SNS 소통이 걱정되는 이유, ‘호모 휴리스티쿠스’ [논설실 Pick ]",
           "link": "https://www.mk.co.kr/news/economy/12173207",
           "pubDate": "2026-10-11T12:06:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20261011.626bead808c7490bbdf5bf47bb7d6f20_R.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261011.626bead808c7490bbdf5bf47bb7d6f20_R.jpg",
           "summary": "X계정서 쏟아지는 민감한 현안 메시지 시스템 관리 필요한 국가기록물의 위상 덜 정제된 메시지, 국가 시스템의 문제“핵단추를 누를 것인가, 멈출 것인가…3초…2초…1초…해제!” 냉..",
           "keywords": [
             "경제"
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] “빚 돌려막기도 못합니다”…기업대출 연체액, 처음으로 10조 넘어",
-          "link": "https://www.mk.co.kr/news/economy/12173110",
-          "pubDate": "2026-10-11T08:30:08.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20261011.150e9ed0834c48afa71985497688bf51_R.png",
-          "summary": "은행권 기업대출 2000조 넘어 부채규모 5년간 30% 늘 때 연체액 4배 증가 ‘부실 뇌관’국내 은행권 기업대출 연체액이 처음으로 10조원을 돌파했다. 은행의 기업대출 규모가 최..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "4대 신항만 장비 38%가 '메이드 인 차이나'",
-          "link": "https://www.mk.co.kr/news/economy/12173100",
-          "pubDate": "2026-10-11T08:26:51.000Z",
-          "image": null,
-          "summary": "국내 주요 신항만에 설치된 항만장비의 국산 비중이 35%에 그치는 것으로 나타났다. 중국산 장비가 전체에서 38%를 차지하는 등 수입 의존도가 높은 가운데 항만 자동화가 확대되면서..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:08:59.834Z",
+      "fetchedAt": "2026-10-11T21:30:56.151Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-11T16:08:59.915Z",
+      "fetchedAt": "2026-10-11T21:30:56.279Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:01.098Z",
+      "fetchedAt": "2026-10-11T21:30:57.367Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -364,7 +364,7 @@
           "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:01.262Z",
+      "fetchedAt": "2026-10-11T21:30:57.515Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -373,92 +373,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "내부 문건, ExxonMobil의 기후 기만 캠페인 증거를 더하다",
-          "link": "https://news.hada.io/topic?id=35178",
-          "pubDate": "2026-10-11T15:40:20.000Z",
+          "title": "핵심 오픈소스 프로젝트 23개 중 11개, 1~2명이 운영",
+          "link": "https://news.hada.io/topic?id=35196",
+          "pubDate": "2026-10-11T20:46:32.000Z",
           "image": null,
-          "summary": "Massachusetts주의 소송에서 공개된 내부 문건과 과학자 증언이 ExxonMobil의 기후 대응 홍보와 내부 판단 사이의 차이를 드러냄 조류 바이오연료 연구에 참여한 과학자는 2025년 하루 1만 배럴 생산 목표가 달성 불가능했으며, 이를 보도자료 발표 전에 회사에 알...",
+          "summary": "휴대전화, 브라우저, 서버가 의존하는 오픈소스 프로젝트 23개를 분석한 결과, 11개는 정기 기여자가 1~2명에 불과함. 조사 대상 1년 동안 병합과 봇을 제외하고 변경을 10회 이상 작성한 사람을 집계함 xz, sudo, bash, 시간대 데이터베이스처럼 널리 쓰이는 기반...",
           "keywords": [
-            "내부",
-            "문건",
-            "ExxonMobil의",
-            "기후",
-            "기만"
+            "핵심",
+            "오픈소스",
+            "프로젝트",
+            "23개",
+            "11개"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "사람들에게 돈을 주고 내 README를 따라 해보게 했다",
-          "link": "https://news.hada.io/topic?id=35177",
-          "pubDate": "2026-10-11T15:37:20.000Z",
+          "title": "최신 AI 모델들, 인간의 알고리듬 혁신에 필적하는 성과를 내는 데 어려움 겪어",
+          "link": "https://news.hada.io/topic?id=35195",
+          "pubDate": "2026-10-11T20:43:32.000Z",
           "image": null,
-          "summary": "ActivityBot의 설치 경험을 검증하기 위해 실제 사용자에게 시간당 25유로를 지급하고, README를 따라 하는 과정을 관찰함 개발자가 직접 문서를 시험해도 자신이 이미 아는 것에 대한 편향 때문에 명령어 권한, 옵션 표기, 재부팅 같은 전제를 놓칠 수 있음 ...",
+          "summary": "Epoch AI의 InnovationEval에서 Claude Fable 5와 GPT-5.6 Sol은 수천 달러 규모의 GPU 실험을 수행했지만, 인간이 개발한 후속 학습 기법 SDPO에 필적하는 혁신을 독자적으로 만들지 못함 평가는 아이디어 구상부터 구현, 실험, 분석까지 연구 전 과정을 맡기고, ...",
           "keywords": [
-            "사람들에게",
-            "돈을",
-            "주고",
-            "README를",
-            "따라"
+            "최신",
+            "AI",
+            "모델들",
+            "인간의",
+            "알고리듬"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "중학생이 AI(Claude)와 함께 &#039;자기 자신을 통과하지 못하는 입체&#039; 추측을 증명",
-          "link": "https://news.hada.io/topic?id=35175",
-          "pubDate": "2026-10-11T14:35:29.000Z",
+          "title": "현대 컴퓨터에 맞게 재구현한 Total Annihilation",
+          "link": "https://news.hada.io/topic?id=35194",
+          "pubDate": "2026-10-11T20:40:32.000Z",
           "image": null,
-          "summary": "안녕하세요, 경기도의 중학교 3학년 정기효입니다. 2025년 화제가 된 '노퍼테드론(자기 자신을 통과하지 못하는 첫 입체)' 연구자들이 2021년에 추측으로 남긴 문제, \"마름모십이이십면체는 루퍼트가 아니다\"를 Claude와 함께 컴퓨터 보조 증명으로 풀었습니다. 기존 방법이 막히는 특",
+          "summary": "Nanolathe는 클린룸 연구로 Total Annihilation을 재구현한 MIT 라이선스의 오픈소스 2.5D RTS 엔진이며, 현재 공개 베타 상태임 브라우저 데모로 원작의 3개 미션을 설치나 별도 게임 폴더 없이 플레이할 수 있으며, 데스크톱 Chrome, Edge, Safari와 키보드/마우...",
           "keywords": [
-            "중학생이",
-            "AI(Claude)와",
-            "함께",
-            "&#039;자기",
-            "자신을"
+            "현대",
+            "컴퓨터에",
+            "맞게",
+            "재구현한",
+            "Total"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Oh My Focus - 마우스가 없는 모니터를 어둡게 가리는 macOS 앱",
-          "link": "https://news.hada.io/topic?id=35174",
-          "pubDate": "2026-10-11T14:33:20.000Z",
+          "title": "뉴욕시의 ‘Click to Cancel’ 규정 시행",
+          "link": "https://news.hada.io/topic?id=35193",
+          "pubDate": "2026-10-11T19:50:09.000Z",
           "image": null,
-          "summary": "Oh My Focus는 마우스 포인터가 있는 모니터를 남기고 다른 모니터를 어둡게 가리는 macOS 메뉴 막대 앱입니다. 여러 AI 작업을 다른 모니터에 띄워 두고 제 일을 하다가 겪은 불편에서 시작했습니다. 저는 ADHD 성향이 있어서인지, 옆 화면에 답변이 출력",
+          "summary": "뉴욕시의 Click to Cancel 규정은 기업이 구독 가입과 동일한 방식으로 간단한 해지 절차를 제공하도록 요구함 공식 안내 본문에 명시된 시행일은 2026년 10월 1일이며, 이날부터 구독 해지를 어렵게 만드는 기업에 대한 민원을 제출할 수 있음 기업은",
           "keywords": [
-            "Show",
-            "GN:",
-            "Oh",
-            "My",
-            "Focus"
+            "뉴욕시의",
+            "Click",
+            "to",
+            "Cancel",
+            "규정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Tom Brown, 공화당 인맥으로 월 약 1.9조원 규모 SpaceX 컴퓨팅 계약 중개",
-          "link": "https://news.hada.io/topic?id=35173",
-          "pubDate": "2026-10-11T14:31:37.000Z",
+          "title": "바이브 코딩으로 만든 Halo, The Simpsons: Hit And Run, GTA 브라우저 이식판이 잘 작동함",
+          "link": "https://news.hada.io/topic?id=35192",
+          "pubDate": "2026-10-11T19:47:09.000Z",
           "image": null,
-          "summary": "Anthropic 공동창업자이자 최고 컴퓨팅 책임자인 Tom Brown이 공화당 인맥을 활용해 월 12억 5,000만 달러($1.25b) 규모의 SpaceX 컴퓨팅 계약을 중개함 AI 학습용 칩 확보 협상 경험을 바탕으로 사업적, 정치적 협력 관계를 구축하고 있으며, 이는 기업가치가",
+          "summary": "최근 몇 주 사이 AI 디컴파일과 바이브 코딩으로 만든 에뮬레이터와 게임 수백 개가 등장했으며, 브라우저 이식판 일부는 직접 플레이에서 거의 흠잡을 데 없이 작동함 Claude Opus 5.5의 디컴파일 성능으로 과거 개발자가 수개월에 걸쳐 수행하던 게임 코드 재구성...",
           "keywords": [
-            "Tom",
-            "Brown",
-            "공화당",
-            "인맥으로",
-            "9조원"
+            "바이브",
+            "코딩으로",
+            "만든",
+            "Halo",
+            "The"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:02.009Z",
+      "fetchedAt": "2026-10-11T21:30:58.068Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -557,7 +557,7 @@
           "summaryKo": "OpenAI가 Sam Yam을 크리에이터 제품 부문 책임자로 고용했다고 발표한 지 2주 후, Patreon 공동 창업자는 이미 열심히 일하고 있습니다. Yam의 팀은 OpenAI 기술을 사용하여 육아 시리즈를 제작할 Chloe Shih와의 파트너십을 발표했습니다. Shih는 자신의 삶과 기술 업계에서의 경력을 기록한 성실하고 세련된 동영상을 업로드하여 YouTube 및 Instagram과 같은 플랫폼에서 상당한 팔로워를 확보했습니다. 그녀의 성공에 힘입어 Shih는 Offi를 출시했습니다."
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:02.150Z",
+      "fetchedAt": "2026-10-11T21:30:58.171Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -631,7 +631,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:02.382Z",
+      "fetchedAt": "2026-10-11T21:30:58.420Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -712,7 +712,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:02.431Z",
+      "fetchedAt": "2026-10-11T21:30:58.520Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -811,7 +811,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:05.107Z",
+      "fetchedAt": "2026-10-11T21:31:01.246Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -903,7 +903,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:05.387Z",
+      "fetchedAt": "2026-10-11T21:31:01.443Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -911,6 +911,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "pubDate": "2026-10-11T19:00:00.000Z",
+          "image": null,
+          "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Climate",
+            "Crypto",
+            "Fintech",
+            "Fundraising"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026까지 48시간 — 다음 단계에 대한 사람들의 의견을 직접 들어보세요",
+          "summaryKo": "TechCrunch Disrupt 2026은 샌프란시스코의 모스콘 웨스트에서 48시간 이내에 시작됩니다. 문 앞에서 요금이 인상되기 전에 이용권을 최대 $ 100 할인받고, 두 번째 이용권을 50% 할인받으세요. 또는 다른 거래를 득점하세요."
+        },
         {
           "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
           "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
@@ -974,27 +992,9 @@
           "isForeign": true,
           "titleKo": "Cloudflare는 Workers 프로그래밍 모델을 개선하기 위해 Deno를 인수합니다",
           "summaryKo": "Cloudflare는 이 인수를 통해 근로자 프로그래밍 모델 및 플랫폼을 개선할 것입니다."
-        },
-        {
-          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-          "pubDate": "2026-10-10T15:00:00.000Z",
-          "image": null,
-          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-          "keywords": [
-            "Startups",
-            "Climate",
-            "Fintech",
-            "Venture",
-            "AI",
-            "Robotics"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026까지 3일: 스타트업이 메인스트림에 진입하기 전에 스타트업을 만나보세요",
-          "summaryKo": "TechCrunch Disrupt 2026은 10월 13일부터 15일까지 샌프란시스코에서 열립니다. 300개 이상의 스타트업이 10,000명의 기술 리더에게 그들이 구축한 것을 보여줄 것입니다. 또한, 250명 이상의 연사가 200개 이상의 세션에서 인사이트를 공유할 수 있습니다. 문이 열리기 전에 등록하여 최대 $ 100를 할인받고 50% 할인된 가격에 두 번째 이용권을 받으세요."
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:07.369Z",
+      "fetchedAt": "2026-10-11T21:31:03.508Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1093,7 +1093,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:09.457Z",
+      "fetchedAt": "2026-10-11T21:31:06.808Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1187,7 +1187,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T16:09:09.896Z",
+      "fetchedAt": "2026-10-11T21:31:07.231Z",
       "error": null
     }
   },
@@ -1195,70 +1195,70 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 4,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 3,
       "rank": 2,
-      "change": "down"
-    },
-    {
-      "key": "내부",
-      "label": "내부",
-      "count": 2,
-      "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "same"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 4,
-      "rank": 9,
+      "rank": 8,
       "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "ai스타트업",
+      "label": "AI스타트업",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
@@ -1313,20 +1313,20 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "startups",
-      "label": "Startups",
-      "count": 5,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "startups",
+      "label": "Startups",
+      "count": 4,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
       "key": "ai",
