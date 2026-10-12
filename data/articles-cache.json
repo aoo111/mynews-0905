@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-11T21:31:07.240Z",
+  "collectedAt": "2026-10-12T01:00:33.800Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "[단독] “20년 살았는데 내집 해줘”…장기전세 갈등, 은평·마포·구로 차례온다",
+          "link": "https://www.mk.co.kr/news/economy/12173277",
+          "pubDate": "2026-10-12T00:11:43.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.6d56a862d29a43b5934b7aacff65f24e_R.png",
+          "summary": "강동구 이어 곳곳서 ‘만기갈등’ 예고 2030년 은평·마포·중랑 2212가구 2031년 강동·구로·양천 2923가구 “전월세 시장 연착륙대책 마련해야”서울 강동구에서 불거진 장기전..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“웬만한 의사보다 똑똑해 보인다고?”…아무 문제 없다는 AI의료기 괜찮나",
+          "link": "https://www.mk.co.kr/news/economy/12173276",
+          "pubDate": "2026-10-12T00:10:03.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.71a7f1159b9c4c6e93b69e3acfe7b5e4_R.png",
+          "summary": "AI 의료기 허가·인증 매년 늘지만 3년 간 이상사례 보고 전무한 상태 “SW 오류 잡아낼 체계 없을 수도”질병 진단과 영상 판독 등을 돕는 인공지능(AI) 의료기기가 빠르게 늘고..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "한은 인수 위조지폐 4억7천만원…SNS선 “24시간 영업 중”",
+          "link": "https://www.mk.co.kr/news/economy/12173257",
+          "pubDate": "2026-10-11T23:27:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20260426.0eea08202bf24c68aff8385e56f056ad_R.png",
+          "summary": "작년 한은 인수 위조지폐 9716장지난해 한국은행이 수사기관에서 넘겨받은 위·변조지폐 금액이 4억7664만5000원으로 2024년(463만원)의 100배를 웃도는 것으로 나타났다...",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 12일)",
+          "link": "https://www.mk.co.kr/news/economy/12173087",
+          "pubDate": "2026-10-11T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261011.23b159625391491492b9bbe77bee66cb_R.jpg",
+          "summary": "1. 미국 정부가 한국에 정보·방첩 분야에서 수십 년간 이어져 온 ‘동맹의 기준’을 준수해야 한다는 입장을 밝혔습니다. 미국이 한국에 대한 일부 대북 정보 공유를 제한하고, 한미일..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[단독] 시급 ‘30만원’ 혈세 컨설팅 유명무실…노사 갈등 해결 전혀 못 했다",
           "link": "https://www.mk.co.kr/news/economy/12173226",
           "pubDate": "2026-10-11T20:49:22.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "성장과 분배, 시장에 맡길까 국가가 이끌까",
-          "link": "https://www.mk.co.kr/news/economy/12173049",
-          "pubDate": "2026-10-11T20:30:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20260926.039393454f234e4db9e2b367a91ac162_R.png",
-          "summary": "⑮ 산업혁명 이후 현대까지 이어지는 자본주의vs사회주의 논쟁18세기 후반 영국의 산업혁명은 증기기관과 공장제 대량생산을 통해 인류에게 비약적인 물질적 풍요를 안겨주었습니다. 하지만..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대통령의 SNS 소통이 걱정되는 이유, ‘호모 휴리스티쿠스’ [논설실 Pick ]",
-          "link": "https://www.mk.co.kr/news/economy/12173207",
-          "pubDate": "2026-10-11T12:06:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261011.626bead808c7490bbdf5bf47bb7d6f20_R.jpg",
-          "summary": "X계정서 쏟아지는 민감한 현안 메시지 시스템 관리 필요한 국가기록물의 위상 덜 정제된 메시지, 국가 시스템의 문제“핵단추를 누를 것인가, 멈출 것인가…3초…2초…1초…해제!” 냉..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "총 1억3500만 원 납입한 일반 계좌 vs IRP 계좌…15년 후 자산 차이는? [금융 리터러시2.0]",
-          "link": "https://www.mk.co.kr/news/economy/12173180",
-          "pubDate": "2026-10-11T09:51:53.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/11/news-p.v1.20261007.7e071f31fe644d718b56988b689f59eb_R.jpg",
-          "summary": "IRP를 단순히 연말에 세금을 줄이기 위한 금융상품으로만 이해하면 중요한 부분을 놓치게 됩니다. IRP는 지금 넣은 돈을 오랜 기간 운용하고, 은퇴 후에는 연금으로 나누어 사용하는..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "유럽 뱃길 열흘 단축 … 컨테이너선 북극항로 첫 왕복",
-          "link": "https://www.mk.co.kr/news/economy/12173161",
-          "pubDate": "2026-10-11T08:42:13.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/12/20261012_01160101000001_L00.jpg",
-          "summary": "국내 컨테이너선 최초로 북극항로 왕복 시범운항에 나선 팬스타 아크로호가 50일간의 항해를 마치고 11일 부산항으로 돌아왔다. 정부는 이번 운항에서 확보한 항해 시간과 비용 등의 데..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:56.151Z",
+      "fetchedAt": "2026-10-12T01:00:10.472Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:56.279Z",
+      "fetchedAt": "2026-10-12T01:00:10.573Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,7 +189,24 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토",
+          "title": "[AI리더의 서가] 핸즈온 머신러닝 with 사이킷런. 파이토치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216139",
+          "pubDate": "2026-10-12T09:03:08.000Z",
+          "image": null,
+          "summary": "핸즈온 머신러닝 with 사이킷런. 파이토치오렐리앙 제롱 | 한빛미디어2026년 9월 28일추천이유저자는 머신러닝의 기본 원리부터 트랜스포머, LLM, 멀티모달까지 실제 코드로 직접 구현하며 현대 AI 기술의 흐름을 이해하도록 안내합니다. 기초 개념과 최신 기술을 체계적으로 연결하여 AI를 단순히 사용하는 것을 넘어 원리를 깊이 있게 학습할 수 있습니다.상세보기영풍문고 개발서 서가에서 '핸즈온 머신러닝'은 판이 바뀔 때마다 다시 찾는 독자가 많은 이름이다. 한빛미디어가 지난달 28일 펴낸 『핸즈온 머신러닝 with 사이킷런. 파이토",
+          "keywords": [
+            "AI리더의",
+            "서가",
+            "핸즈온",
+            "머신러닝",
+            "with"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 재검토",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
           "pubDate": "2026-10-11T19:46:59.000Z",
           "image": null,
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "할리우드, AI 불안 속 저커버그·머스크·알트먼 영화 잇따라 선보여",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216132",
-          "pubDate": "2026-10-11T17:54:55.000Z",
-          "image": null,
-          "summary": "할리우드가 마크 저커버그 메타 CEO와 일론 머스크 CEO, 샘 알트먼 오픈AI CEO 등 기술 업계 거물들이 등장하는 작품을 연이어 선보인다. AI의 위험과 빅테크의 영향력에 대한 대중의 불안이 커지는 가운데, 이들 작품이 어떤 반향을 일으킬지 관심이 모인다.애런 소킨 감독의 소니 픽처스 영화 ‘소셜 레코닝(The Social Reckoning)’은 9일(현지시간) 미국에서 개봉했다. 2010년작 ‘소셜 네트워크’의 후속작으로, 페이스북 내부 문서를 폭로한 내부고발자 프랜시스 하우건의 2021년 사건을 다룬다. 영화는 개봉 첫날",
-          "keywords": [
-            "할리우드",
-            "AI",
-            "불안",
-            "저커버그",
-            "머스크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:57.367Z",
+      "fetchedAt": "2026-10-12T01:00:11.840Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -364,7 +364,7 @@
           "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:57.515Z",
+      "fetchedAt": "2026-10-12T01:00:12.001Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -373,92 +373,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "핵심 오픈소스 프로젝트 23개 중 11개, 1~2명이 운영",
-          "link": "https://news.hada.io/topic?id=35196",
-          "pubDate": "2026-10-11T20:46:32.000Z",
+          "title": "MCP Gateway - 기존 API를 MCP 도구로 통합하는 Uber의 플랫폼 설계",
+          "link": "https://news.hada.io/topic?id=35213",
+          "pubDate": "2026-10-12T00:55:02.000Z",
           "image": null,
-          "summary": "휴대전화, 브라우저, 서버가 의존하는 오픈소스 프로젝트 23개를 분석한 결과, 11개는 정기 기여자가 1~2명에 불과함. 조사 대상 1년 동안 병합과 봇을 제외하고 변경을 10회 이상 작성한 사람을 집계함 xz, sudo, bash, 시간대 데이터베이스처럼 널리 쓰이는 기반...",
+          "summary": "Uber는 분산된 MCP 연동을 MCP Gateway로 통합해 기존 API와 네이티브 MCP 서버를 일관된 방식으로 제공하며, 현재 800개 이상의 서버와 5,000개 이상의 도구를 운영함 MCP Registry가 검색, 소유권, 활성화 설정을 관리하고, Proxy Gate...",
           "keywords": [
-            "핵심",
-            "오픈소스",
-            "프로젝트",
-            "23개",
-            "11개"
+            "MCP",
+            "Gateway",
+            "기존",
+            "API를",
+            "도구로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "최신 AI 모델들, 인간의 알고리듬 혁신에 필적하는 성과를 내는 데 어려움 겪어",
-          "link": "https://news.hada.io/topic?id=35195",
-          "pubDate": "2026-10-11T20:43:32.000Z",
+          "title": "이제 우리는 모두 제품 엔지니어다",
+          "link": "https://news.hada.io/topic?id=35212",
+          "pubDate": "2026-10-12T00:45:02.000Z",
           "image": null,
-          "summary": "Epoch AI의 InnovationEval에서 Claude Fable 5와 GPT-5.6 Sol은 수천 달러 규모의 GPU 실험을 수행했지만, 인간이 개발한 후속 학습 기법 SDPO에 필적하는 혁신을 독자적으로 만들지 못함 평가는 아이디어 구상부터 구현, 실험, 분석까지 연구 전 과정을 맡기고, ...",
+          "summary": "AI가 개발 생명주기 전체를 자동화한다면, 소프트웨어 개발의 중심은 고객 요구 파악, 좋은 결과 정의, 즐거운 사용 경험 설계로 옮겨갈 것 이 전망은 개발 생명주기 전반의 자동화와 사실상 상한이 없는 소프트웨어 수요를 가정함. 코드 검토와 ...",
           "keywords": [
-            "최신",
-            "AI",
-            "모델들",
-            "인간의",
-            "알고리듬"
+            "이제",
+            "우리는",
+            "모두",
+            "제품",
+            "엔지니어다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "현대 컴퓨터에 맞게 재구현한 Total Annihilation",
-          "link": "https://news.hada.io/topic?id=35194",
-          "pubDate": "2026-10-11T20:40:32.000Z",
+          "title": "컨텍스트가 새로운 코드다",
+          "link": "https://news.hada.io/topic?id=35211",
+          "pubDate": "2026-10-12T00:35:02.000Z",
           "image": null,
-          "summary": "Nanolathe는 클린룸 연구로 Total Annihilation을 재구현한 MIT 라이선스의 오픈소스 2.5D RTS 엔진이며, 현재 공개 베타 상태임 브라우저 데모로 원작의 3개 미션을 설치나 별도 게임 폴더 없이 플레이할 수 있으며, 데스크톱 Chrome, Edge, Safari와 키보드/마우...",
+          "summary": "AI 에이전트에 제공하는 컨텍스트를 코드처럼 관리하고, 생성 → 평가 → 배포 → 관찰의 수명주기를 적용해야 함 컨텍스트 품질은 문법 검사만으로 판단할 수 없으며, 실제 코드베이스에서의 작업 수행 평가와 변경 전후 비교가 필요함 컨텍스트도",
           "keywords": [
-            "현대",
-            "컴퓨터에",
-            "맞게",
-            "재구현한",
-            "Total"
+            "컨텍스트가",
+            "새로운",
+            "코드다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "뉴욕시의 ‘Click to Cancel’ 규정 시행",
-          "link": "https://news.hada.io/topic?id=35193",
-          "pubDate": "2026-10-11T19:50:09.000Z",
+          "title": "하루 160장 웹캠 촬영을 거부한 원격근무 직원, 회사는 그녀를 해고했다",
+          "link": "https://news.hada.io/topic?id=35210",
+          "pubDate": "2026-10-12T00:32:10.000Z",
           "image": null,
-          "summary": "뉴욕시의 Click to Cancel 규정은 기업이 구독 가입과 동일한 방식으로 간단한 해지 절차를 제공하도록 요구함 공식 안내 본문에 명시된 시행일은 2026년 10월 1일이며, 이날부터 구독 해지를 어렵게 만드는 기업에 대한 민원을 제출할 수 있음 기업은",
+          "summary": "뉴저지에서 제기된 소송에 따르면, Sutherland Healthcare Solutions는 웹캠 감시에 동의하지 않은 장기 근속 원격근무 직원을 해고함 회사가 도입을 통보한 Sentinel AI는 약 3분마다 웹캠으로 직원을 촬영해 하루 약 160장의 사진을 찍는 도구임 직원은...",
           "keywords": [
-            "뉴욕시의",
-            "Click",
-            "to",
-            "Cancel",
-            "규정"
+            "하루",
+            "160장",
+            "웹캠",
+            "촬영을",
+            "거부한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "바이브 코딩으로 만든 Halo, The Simpsons: Hit And Run, GTA 브라우저 이식판이 잘 작동함",
-          "link": "https://news.hada.io/topic?id=35192",
-          "pubDate": "2026-10-11T19:47:09.000Z",
+          "title": "jevgrep - 코드의 동작을 질문해 관련 파일을 찾는 코딩 에이전트용 CLI",
+          "link": "https://news.hada.io/topic?id=35208",
+          "pubDate": "2026-10-12T00:30:03.000Z",
           "image": null,
-          "summary": "최근 몇 주 사이 AI 디컴파일과 바이브 코딩으로 만든 에뮬레이터와 게임 수백 개가 등장했으며, 브라우저 이식판 일부는 직접 플레이에서 거의 흠잡을 데 없이 작동함 Claude Opus 5.5의 디컴파일 성능으로 과거 개발자가 수개월에 걸쳐 수행하던 게임 코드 재구성...",
+          "summary": "낯선 코드베이스에서 코딩 에이전트가 필요한 파일과 소스를 찾도록 돕는 검색 도구 \"인증을 어디서 검사해?\", \"재시도 동작을 검증하는 테스트는?\" 처럼 동작을 질문하면 관련 파일과 원문 코드 발췌를 반환",
           "keywords": [
-            "바이브",
-            "코딩으로",
-            "만든",
-            "Halo",
-            "The"
+            "jevgrep",
+            "코드의",
+            "동작을",
+            "질문해",
+            "파일을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:58.068Z",
+      "fetchedAt": "2026-10-12T01:00:12.700Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -557,7 +555,7 @@
           "summaryKo": "OpenAI가 Sam Yam을 크리에이터 제품 부문 책임자로 고용했다고 발표한 지 2주 후, Patreon 공동 창업자는 이미 열심히 일하고 있습니다. Yam의 팀은 OpenAI 기술을 사용하여 육아 시리즈를 제작할 Chloe Shih와의 파트너십을 발표했습니다. Shih는 자신의 삶과 기술 업계에서의 경력을 기록한 성실하고 세련된 동영상을 업로드하여 YouTube 및 Instagram과 같은 플랫폼에서 상당한 팔로워를 확보했습니다. 그녀의 성공에 힘입어 Shih는 Offi를 출시했습니다."
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:58.171Z",
+      "fetchedAt": "2026-10-12T01:00:12.876Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -631,7 +629,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:58.420Z",
+      "fetchedAt": "2026-10-12T01:00:13.017Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -712,7 +710,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-11T21:30:58.520Z",
+      "fetchedAt": "2026-10-12T01:00:13.092Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -721,97 +719,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "당근, 첫 ‘당근절’에 중고거래 141% 급증…1시간 만에 평소 하루 거래량 넘어",
-          "link": "https://www.venturesquare.net/1118772/",
-          "pubDate": "2026-10-11T09:14:57.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image-5-789x444.jpeg",
-          "summary": "당근이 10월 10일 처음 개최한 ‘당근절’에서 중고거래 건수가 평소 토요일 대비 141% 증가했다고 밝혔다. 행사 시작 1시간 만에 평소 하루 거래량을 넘어섰으며 구매자와 판매자 수는 각각 72%, 85% 늘었다. 전국 6545개 동네 중 6090개 동네에서 거래가 ... The post 당근, 첫 ‘당근절’에 중고거래 141% 급증…1시간 만에 평소 하루 거래량 넘어 appeared first on 벤처스퀘어.",
+          "title": "네이버지도, 길 찾을 때 스마트폰 꺼낼 필요 없어진다…메타·구글·삼성 AI 글래스에 음성 길안내",
+          "link": "https://www.venturesquare.net/1118811/",
+          "pubDate": "2026-10-12T00:49:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ai-glass-704x522.png",
+          "summary": "네이버가 메타 및 구글·삼성과 협력해 네이버지도의 실시간 도보 길안내 기능을 AI 글래스로 확장한다. 메타의 레이밴 메타와 오클리 메타에서 먼저 지원하고, 연내 출시 예정인 구글·삼성의 인텔리전트 아이웨어에도 연동할 예정이다. 이용자는 AI 글래스를 통해 이동 방향과 ... The post 네이버지도, 길 찾을 때 스마트폰 꺼낼 필요 없어진다…메타·구글·삼성 AI 글래스에 음성 길안내 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "당근",
-            "당근절",
-            "동네거래"
+            "AI글래스",
+            "구글",
+            "네이버"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "숙소 하나 창업하는 데 필요한 모든 것…‘K-Stay EXPO 2026’, 공유숙박 산업의 가능성 확인",
-          "link": "https://www.venturesquare.net/1118712/",
-          "pubDate": "2026-10-10T09:00:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image003-2-789x404.jpg",
-          "summary": "국내 첫 공유숙박 전문 박람회 ‘K-Stay EXPO 2026’이 10일 서울 동대문디자인플라자에서 이틀간의 일정을 마쳤다. 사전등록자 8,000명을 돌파한 이번 행사에는 인테리어와 가전, 청소·방역, 세무 등 공유숙박 관련 40여 개 기업과 기관이 참여했다. 개회식에... The post 숙소 하나 창업하는 데 필요한 모든 것…‘K-Stay EXPO 2026’, 공유숙박 산업의 가능성 확인 appeared first on 벤처스퀘어.",
+          "title": "케어링, 전국 60여 개 돌봄센터 일상 영상으로 담는다…‘케어링 한마당’ 공모전 개최",
+          "link": "https://www.venturesquare.net/1118866/",
+          "pubDate": "2026-10-12T00:46:32.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/cariong-769x522.jpg",
+          "summary": "케어링이 전국 60여 개 주간보호·통합요양 직영 센터를 대상으로 ‘제2회 케어링 한마당’ 영상 공모전을 개최한다. 10월 12일부터 31일까지 센터별로 최대 5분 이내의 영상을 출품할 수 있으며 숏츠와 브이로그, 다큐멘터리, 인터뷰 등 다양한 형식으로 참여할 수 있다.... The post 케어링, 전국 60여 개 돌봄센터 일상 영상으로 담는다…‘케어링 한마당’ 공모전 개최 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
+            "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "현장스케치",
-            "KStayExpo2026",
-            "K관광"
+            "노인돌봄",
+            "돌봄서비스",
+            "돌봄종사자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "베슬AI, 업스테이지 ‘솔라 프로4’ 글로벌 추론 맡았다…하루 1550억 토큰 처리 뒷받침",
-          "link": "https://www.venturesquare.net/1118725/",
-          "pubDate": "2026-10-10T03:55:07.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/AI-2-789x396.jpg",
-          "summary": "베슬AI가 업스테이지의 대규모언어모델 ‘솔라 프로4’에 글로벌 추론 인프라를 제공하며 해외 서비스 운영을 지원했다. 솔라 프로4는 지난 9월 오픈라우터 사용량 순위에서 3위를 기록했으며, 베슬AI는 일일 토큰 처리량이 80억 개에서 1550억 개로 증가하는 과정에서 글... The post 베슬AI, 업스테이지 ‘솔라 프로4’ 글로벌 추론 맡았다…하루 1550억 토큰 처리 뒷받침 appeared first on 벤처스퀘어.",
+          "title": "kt 밀리의서재, 노벨문학상 수상 앤 카슨 대표작 3종 공개…‘빨강의 자서전’ 주간 2위",
+          "link": "https://www.venturesquare.net/1118810/",
+          "pubDate": "2026-10-11T23:02:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/KT-783x522.jpg",
+          "summary": "kt 밀리의서재가 2026년 노벨문학상 수상 작가 앤 카슨의 대표작 《남편의 아름다움》, 《빨강의 자서전》, 《레드 닥>》 등 3종을 제공한다. 앤 카슨은 고전문학과 현대적 서사를 결합하는 작품 세계로 알려져 있으며 《빨강의 자서전》은 밀리의서재 소설 분야 주간 베스트... The post kt 밀리의서재, 노벨문학상 수상 앤 카슨 대표작 3종 공개…‘빨강의 자서전’ 주간 2위 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Ai인프라",
-            "AI추론",
-            "GPU인프라"
+            "AnneCarson",
+            "kt밀리의서재",
+            "남편의아름다움"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미스터마인드, AI 말벗 인형으로 어르신 위험 신호 감지…경기도 31개 시·군에 돌봄 서비스 소개",
-          "link": "https://www.venturesquare.net/1118717/",
-          "pubDate": "2026-10-10T03:11:14.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MRMIND-392x522.png",
-          "summary": "미스터마인드가 경기도 ‘2026 스마트 사회서비스 혁신 공모전’ 최종 선정기업으로 참여해 AI 기반 어르신 돌봄 로봇 서비스를 소개했다. 경기도 31개 시·군 담당자를 대상으로 열린 사업설명회에서 대화형 AI를 통한 정서 지원과 위험 징후 분석, 복지 담당자 보고 기능... The post 미스터마인드, AI 말벗 인형으로 어르신 위험 신호 감지…경기도 31개 시·군에 돌봄 서비스 소개 appeared first on 벤처스퀘어.",
+          "title": "메타브랜딩, AI 검색에 선택받는 브랜드는 어떻게 만들까…16일 브랜딩 실전 세미나",
+          "link": "https://www.venturesquare.net/1118793/",
+          "pubDate": "2026-10-11T22:58:26.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image-20-789x444.gif",
+          "summary": "메타브랜딩이 10월 16일 서울 강남구 슈피겐홀에서 ‘AI시대 브랜딩 실전을 논하다’를 주제로 제761회 수요스터디 오픈세미나를 개최한다. 박항기 메타브랜딩 대표를 비롯한 전문가 6명이 브랜드 전략과 AI 검색, 디자인, 소비자 조사, 팬덤 분야의 실무 방법론을 공유한... The post 메타브랜딩, AI 검색에 선택받는 브랜드는 어떻게 만들까…16일 브랜딩 실전 세미나 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "24시간관제",
-            "AI돌봄",
-            "경기도"
+            "AI검색",
+            "AI마케팅",
+            "AI브랜딩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구루이엔티, 산사태 복원에 드론·기계화 기술 적용…인도·나이지리아와 해외 실증 논의",
-          "link": "https://www.venturesquare.net/1118718/",
-          "pubDate": "2026-10-10T03:01:36.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ENT-789x444.jpg",
-          "summary": "산림·훼손지 복원 기술기업 구루이엔티가 부산에서 열린 ‘BOUNCE 2026’에서 기능성 복원소재와 기계화 시공, 드론 살포 기술을 결합한 솔루션을 선보였다. 인도 애그테크 기업과는 스마트 관개 및 토양환경 관리를 결합한 복원모델을, 나이지리아 기업과는 산사태 피해지역... The post 구루이엔티, 산사태 복원에 드론·기계화 기술 적용…인도·나이지리아와 해외 실증 논의 appeared first on 벤처스퀘어.",
+          "title": "메디컬에이아이, 심전도 2000만건 학습한 AI로 기술평가 A·A 재획득…딥테크 상장 추진",
+          "link": "https://www.venturesquare.net/1118780/",
+          "pubDate": "2026-10-11T10:24:57.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MEDICALAI-789x478.jpg",
+          "summary": "메디컬에이아이가 딥테크 기술특례상장을 위한 기술성 평가에서 전문평가기관 2곳으로부터 모두 A등급을 재획득했다. 회사는 약 2000만건의 심전도 데이터를 학습한 파운데이션 모델을 기반으로 데이터 분포 차이와 복잡한 파형, 라벨 데이터 부족 문제에 대응하고 있다. 대표 의... The post 메디컬에이아이, 심전도 2000만건 학습한 AI로 기술평가 A·A 재획득…딥테크 상장 추진 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "BOUNCE2026",
-            "GPAD",
-            "KOICA"
+            "AiTiA",
+            "AiTiALVSD",
+            "IPO"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:31:01.246Z",
+      "fetchedAt": "2026-10-12T01:00:23.068Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -903,7 +901,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:31:01.443Z",
+      "fetchedAt": "2026-10-12T01:00:23.400Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -911,6 +909,20 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "pubDate": "2026-10-12T00:59:01.000Z",
+          "image": null,
+          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+          "keywords": [
+            "Startups",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 창립자 가이드: 알아야 할 모든 것",
+          "summaryKo": "TechCrunch Disrupt 2026은 AI 시대에 지속 가능한 회사를 어떻게 구축할 것인가라는 한 가지 질문을 중심으로 구축되었습니다. 우리의 프로그래밍 및 스피커 라인업은 이를 반영합니다."
+        },
         {
           "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
           "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
@@ -976,25 +988,9 @@
           "isForeign": true,
           "titleKo": "Petra Power, 데이터 센터 및 방어 차량용 에너지 현대화 모색",
           "summaryKo": "이 스타트업은 연료 전지가 매우 효율적이며 기술 산업이 충분한 전기를 공급받지 못하는 시기에 연료 비용을 절감했다고 말합니다."
-        },
-        {
-          "title": "Cloudflare acquires Deno to improve its Workers programming model",
-          "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-          "pubDate": "2026-10-10T16:25:42.000Z",
-          "image": null,
-          "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-          "keywords": [
-            "Enterprise",
-            "Startups",
-            "cloudflare",
-            "Deno"
-          ],
-          "isForeign": true,
-          "titleKo": "Cloudflare는 Workers 프로그래밍 모델을 개선하기 위해 Deno를 인수합니다",
-          "summaryKo": "Cloudflare는 이 인수를 통해 근로자 프로그래밍 모델 및 플랫폼을 개선할 것입니다."
         }
       ],
-      "fetchedAt": "2026-10-11T21:31:03.508Z",
+      "fetchedAt": "2026-10-12T01:00:25.558Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1002,6 +998,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "서울 AI 허브, 시민이 만든 AI 해법 13개 정책 논의로 연결…59건 의견서 후속 과제 발굴",
+          "link": "https://www.venturesquare.net/1118779/",
+          "pubDate": "2026-10-11T10:34:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ai-for-good-1-756x522.png",
+          "summary": "서울 AI 허브가 시민과 개발자가 직접 사회문제를 해결하는 ‘AI IMPACT: AI for Good’ 행사를 통해 AI 프로토타입 13개와 시민 정책의견 59건을 발굴했다. 해커톤에는 115명이 신청해 59명이 참여했으며 수어 데이터 구축, 외국인 생활행정 지원, A... The post 서울 AI 허브, 시민이 만든 AI 해법 13개 정책 논의로 연결…59건 의견서 후속 과제 발굴 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AIforGood",
+            "AIIMPACT",
+            "AI리터러시",
+            "AI스타트업",
+            "AI접근성"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중기부·국세청, AI 스타트업 2559곳에 R&D부터 세무조사 유예까지 연계 지원한다",
           "link": "https://www.venturesquare.net/1118763/",
@@ -1073,27 +1087,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "KOSA·한국벤처투자, AI 기업과 모태펀드 운용사 직접 연결…공동 IR·투자상담 추진",
-          "link": "https://www.venturesquare.net/1118598/",
-          "pubDate": "2026-10-08T11:15:45.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/kosa-3-789x426.jpg",
-          "summary": "한국인공지능·소프트웨어산업협회(KOSA)와 한국벤처투자가 유망 AI·SW 기업의 투자 및 사업화 지원을 위한 업무협약을 체결했다. 양 기관은 KOSA의 산업 네트워크와 한국벤처투자의 모태펀드 투자 네트워크를 연결해 공동 IR과 투자상담회를 추진한다. AI+X 투자사협의... The post KOSA·한국벤처투자, AI 기업과 모태펀드 운용사 직접 연결…공동 IR·투자상담 추진 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI스타트업",
-            "AI전환",
-            "AX",
-            "KOSA",
-            "kvic"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:31:06.808Z",
+      "fetchedAt": "2026-10-12T01:00:33.287Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1113,6 +1109,23 @@
             "작은",
             "업무부터",
             "시작하고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "우정소프트웨어, 카카오톡 ‘STAFF AI 지원사업 레이더’ 무료 공개 - 뉴스와이어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYkdocGE2VGg2akd5ek56d0p6SGlSLV9hb3l2S0U2OG1DREVFSXJCYXFvNDJSaHV4cGhTQURrSFN5dWdtWXd6ZXNsWmxfbkxFSnZjRnZpbFpaQzJTYklj?oc=5",
+          "pubDate": "2026-10-11T22:30:00.000Z",
+          "image": null,
+          "summary": "우정소프트웨어, 카카오톡 ‘STAFF AI 지원사업 레이더’ 무료 공개 뉴스와이어",
+          "keywords": [
+            "우정소프트웨어",
+            "카카오톡",
+            "STAFF",
+            "AI",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1153,23 +1166,6 @@
           "summaryKo": null
         },
         {
-          "title": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 - 국민기자뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WGpVUXh3ZUlRQUMzSERXOV9YOHFxVFFXa0N6di1EZkRPbTlhODlNZHI3b0FXdVFvSlpjR0tjMjJ4NWx1aENZYnExWnBWakpzV3lLc253UVFzRWEyeFhBSWM5Z9IBZ0FVX3lxTE1CcTVtMGVrYzVJQXRXT1ZIUDYwNWVEMFBncXI3bVZmS3Z3QlRxV19hLXh2aDlidHptZVl4Vmo1NlZNZmlpOXdhM0lnbXhacXlIaUZ1Yjh2bU5ySnViajBqZ1oyNW9PTHM?oc=5",
-          "pubDate": "2026-10-08T17:00:00.000Z",
-          "image": null,
-          "summary": "우정소프트웨어, 중소 제조기업용 ‘정부 지원사업 추천’ 무료 공개… 고른 이유와 공고 원문까지 함께 국민기자뉴스",
-          "keywords": [
-            "우정소프트웨어",
-            "중소",
-            "제조기업용",
-            "정부",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "대구 남구, `남구다운 청년 창업 지원 사업 3차` 참가자 모집 - 매일신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zcDhNem9NZzhJeHJuTWc1YXIwczJTSTI4QWJ0ZnF2bThORlg1X2ctd3FmbUticzhZaG5wQ1pFV0dNd3BucXAxaFRQU05ZR2RJbUpqOUNmaUFwNTdYWlhWYVp3?oc=5",
           "pubDate": "2026-10-08T00:52:30.000Z",
@@ -1187,7 +1183,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-11T21:31:07.231Z",
+      "fetchedAt": "2026-10-12T01:00:33.794Z",
       "error": null
     }
   },
@@ -1195,27 +1191,27 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 4,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "special post",
-      "label": "Special Post",
       "count": 3,
-      "rank": 2,
+      "rank": 1,
       "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
+      "count": 5,
+      "rank": 3,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
       "change": "up"
@@ -1225,39 +1221,39 @@
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
-      "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 9,
+      "rank": 8,
       "change": "up"
     },
     {
       "key": "ai스타트업",
       "label": "AI스타트업",
+      "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "china",
+      "label": "China",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1317,7 +1313,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1325,7 +1321,7 @@
       "label": "Startups",
       "count": 4,
       "rank": 8,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
