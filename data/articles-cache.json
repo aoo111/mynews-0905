@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-13T17:22:09.223Z",
+  "collectedAt": "2026-10-13T22:18:44.100Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“지갑사정 나만 힘든가요?”…IMF, 한국 경제성장률 3.3%로 확 올렸다",
+          "link": "https://www.mk.co.kr/news/economy/12175070",
+          "pubDate": "2026-10-13T20:43:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261013.0c6e54c1184c4c92bf9e74dbb84f87b4_R.png",
+          "summary": "7월 2.6%서 0.7%P 높여 반도체 수출 호조로 성장세 “중동전쟁發 리스크도 상쇄” 美성장률 4년만에 넘어설듯 고물가 대응책 마련은 숙제국제통화기금(IMF)이 올해 우리나라 성..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "공동명의가 불리할 수도 있다? … 세금폭탄 피하는 1주택자 ‘꿀팁’",
+          "link": "https://www.mk.co.kr/news/economy/12174610",
+          "pubDate": "2026-10-13T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20260916.ee700ade948d41719df4050935fc3dfe_R.png",
+          "summary": "잘못 알려진 부동산 세금상식 Q&A부동산 세금에서 경계해야 할 것은 복잡한 규정만이 아닙니다. 일부 요건을 생략한 채 널리 알려진 설명도 잘못된 의사결정의 원인이 될 수 있습니다...",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“회의하시죠, KTX 시간 좀 볼게요”…금융사는 서울, 금융위는 세종",
           "link": "https://www.mk.co.kr/news/economy/12174867",
           "pubDate": "2026-10-13T10:42:23.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "석달만에 … IMF, 올 韓성장률 3.3%로 상향",
-          "link": "https://www.mk.co.kr/news/economy/12174769",
-          "pubDate": "2026-10-13T08:47:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01160110000001_L00.jpg",
-          "summary": "국제통화기금(IMF)이 올해 우리나라 성장률 전망치를 2.6%에서 3.3%로 석 달 만에 0.7%포인트 높였다. 중동전쟁 충격에도 강력한 반도체 수출에 성장률이 높아질 것으로 본 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] 정부, 수소차 늘린다더니 보조금은 9년만에 줄인다",
-          "link": "https://www.mk.co.kr/news/economy/12174770",
-          "pubDate": "2026-10-13T08:47:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01160110000002_S00.jpg",
-          "summary": "내년부터 수소승용차 한 대당 국비 보조금이 올해보다 11.1% 줄어든 2000만원으로 인하된다. 정부가 수소승용차 국비 보조금을 인하하는 것은 2018년 이후 9년 만이다. 13일..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:53.938Z",
+      "fetchedAt": "2026-10-13T22:18:23.525Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+          "pubDate": "2026-10-13T18:00:00.000Z",
+          "image": null,
+          "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+          "keywords": [
+            "Monetary Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록",
+          "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
+        },
         {
           "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회, 이사벨라 뱅크 코퍼레이션 (Isabella Bank Corporation) 의 신청 승인 발표",
           "summaryKo": "연방준비제도이사회, 이사벨라 뱅크 코퍼레이션 (Isabella Bank Corporation) 의 신청 승인 발표"
-        },
-        {
-          "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-          "pubDate": "2026-10-02T20:45:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-          "keywords": [
-            "Orders on Banking Applications"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표",
-          "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:54.007Z",
+      "fetchedAt": "2026-10-13T22:18:25.571Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[10월13일] 1년 반 만에 약속 지킨 저커버그…이제는 '개인용 초지능' 승부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216183",
+          "pubDate": "2026-10-14T07:00:00.000Z",
+          "image": null,
+          "summary": "마크 저커버그 메타 CEO가 마침내 최첨단 AI 모델 경쟁에 복귀했다며 자신감을 드러냈습니다. 지난해 4월 '라마 4'의 실패 이후 AI 조직을 전면 개편하고 막대한 자금을 투입한 지 약 1년 반 만입니다. 이제는 경쟁사를 따라잡는 단계를 넘어, 개인용 초지능 시장에서 차별화하겠다는 구상입니다.메타가 12일(현지시간) 공개한 '뮤즈 원더(Muse Wonder)'는 독립 평가기관 아티피셜 애널리시스의 지능 지수(AAII)에서 앤트로픽에 이어 2위권에 올랐습니다. 특히 고성능 버전인 '뮤즈 원더 풀'은 현재 1위 모델인 앤트로픽의 '클",
+          "keywords": [
+            "10월13일",
+            "1년",
+            "만에",
+            "약속",
+            "지킨"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216220",
+          "pubDate": "2026-10-14T05:01:14.000Z",
+          "image": null,
+          "summary": "구글이 플래그십 모델 ‘제미나이 4 아르곤(Gemini 4 Argon)’을 전 세계 개발자와 기업, 유료 이용자에게 확대 출시했다. 지난달 제한적으로 공개한 모델을 본격 상용화하면서, 복잡한 실제 업무에서 거둔 성과와 기존 제품에 통합하는 전략을 전면에 내세웠다.구글은 13일(현지시간) 아르곤을 구글 AI 스튜디오와 제미나이 플랫폼 API로 제공한다고 발표했다. 구글 AI 프로·울트라 구독자는 제미나이 앱과 검색의 AI 모드에서, 울트라 구독자는 코딩 도구 ‘안티그래비티’에서도 이용할 수 있다.지난 9월30일 일부 사이버보안 파트너",
+          "keywords": [
+            "구글",
+            "제미나이",
+            "아르곤",
+            "본격",
+            "상용화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "\"오퍼스 5.5 넘었다\"...앤트로픽, 차세대 모델 실전 라우팅 테스트 중",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216200",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "MS, 코드로 영상 속 물리법칙 정밀 제어하는 '코드 비디오 모델' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216205",
-          "pubDate": "2026-10-13T17:20:00.000Z",
-          "image": null,
-          "summary": "AI의 영상 제작 기술이 발전하면서 원하는 장면과 움직임을 얼마나 정확하게 구현하느냐가 핵심 과제로 떠오르고 있다. 마이크로소프트(MS)는 코드로 영상의 구조와 동작을 설계해 생성 과정을 직접 제어하는 새로운 접근법을 제시했다. MS는 11일(현지시간) 실행 가능한 코드를 활용해 영상의 장면 구성과 객체 움직임, 카메라 경로 등을 정밀하게 제어하는 '코드 비디오 모델(Code Video Model)'을 공개했다.기존 비디오 생성 모델이 장면의 물리적 움직임과 객체 배치를 내부적으로 처리하는 방식에서 벗어나, 코드로 장면을 설계하고",
-          "keywords": [
-            "MS",
-            "코드로",
-            "영상",
-            "물리법칙",
-            "정밀"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 오픈소스 모델 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216213",
-          "pubDate": "2026-10-13T17:17:35.000Z",
-          "image": null,
-          "summary": "멀티모달 AI 에이전트 도입이 가속화되는 가운데, 텍스트와 구조화된 데이터 처리에 국한됐던 기존 '의사결정' 모델이 이미지와 오디오, 비디오 등 다양한 입력 정보를 직접 이해하고 판단하는 멀티모달 모델로 빠르게 진화하고 있다.vLLM 시맨틱 라우터(vLLM Semantic Router) 개발팀은 11일(현지시간) 텍스트와 JSON뿐만 아니라 이미지까지 직접 분석할 수 있는 멀티모달 의사결정 모델 제품군 ‘디시전 3.0(Decision 3.0)’을 오픈소스로 공개했다.기존 의사결정 모델이 주로 텍스트와 구조화된 데이터에 의존했던 것과",
-          "keywords": [
-            "의사결정",
-            "모델도",
-            "멀티모달로",
-            "진화",
-            "vLLM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:55.367Z",
+      "fetchedAt": "2026-10-13T22:18:26.855Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "pubDate": "2026-10-13T12:00:00.000Z",
+          "image": null,
+          "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "힉스필드는 AI 동영상을 1분에서 10분 이상",
+          "summaryKo": "힉스필드는 GPT-6 Astra로 크리에이터에게 더 긴 동영상, GPT-Image-2.5로 정밀한 비주얼, GPT-Live로 음성 영화 제작의 길을 제시합니다."
+        },
         {
           "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
           "link": "https://openai.com/index/sophos",
@@ -345,26 +358,9 @@
           "isForeign": true,
           "titleKo": "OpenAI로 창의적인 아이디어를 캠페인으로 전환하는 Pollo AI",
           "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra 및 GPT ‑ Image ‑ 2.5를 통해 크리에이터가 대담한 아이디어를 세부 이미지와 시네마틱 동영상 광고로 전환할 수 있도록 지원합니다."
-        },
-        {
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "link": "https://openai.com/index/legalon-halves-codex-costs",
-          "pubDate": "2026-10-08T12:00:00.000Z",
-          "image": null,
-          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-          "keywords": [
-            "LegalOn",
-            "halves",
-            "Codex",
-            "costs",
-            "while"
-          ],
-          "isForeign": true,
-          "titleKo": "LegalOn은 개발 속도를 유지하면서 코덱스 비용을 절반으로 줄입니다",
-          "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:55.521Z",
+      "fetchedAt": "2026-10-13T22:18:28.422Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -373,66 +369,67 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Apple HomeView - Siri AI와 스마트홈 제어를 결합한 7인치 가정용 디스플레이",
-          "link": "https://news.hada.io/topic?id=35305",
-          "pubDate": "2026-10-13T15:34:16.000Z",
+          "title": "HN에 글을 올린 뒤, 내 웹사이트에 AI 봇 트래픽이 밀려들었다",
+          "link": "https://news.hada.io/topic?id=35313",
+          "pubDate": "2026-10-13T21:41:29.000Z",
           "image": null,
-          "summary": "Siri AI, 음악과 영상 재생, FaceTime, 스마트홈 제어를 한 기기에 결합한 가정용 디스플레이로, 탁상형과 벽걸이형 공개 7인치 Liquid Retina 화면과 A18 칩, 12MP Center Stage 카메라를 탑재, 4개 마이크와 공간 음향 지원, 최대 6명의 얼굴을 인식해 개인별 화...",
+          "summary": "맞춤형 피드 리더 sprinklz.io를 HN에 소개한 뒤 사이트가 심하게 느려졌으며, 실제 로그인 사용자는 소수인데도 서버 부하는 높았음 엔드포인트별 로그를 추가하자 요청 대부분이 뉴스 기사 조회조차 시도하지 않았고, 단일 페이지 애플리케이션의 화면 렌더링에 ...",
+          "keywords": [
+            "HN에",
+            "글을",
+            "올린",
+            "웹사이트에",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Minions - 유휴 Mac의 GPU를 모아 머신러닝 추론 작업을 분산하는 Apple의 시스템",
+          "link": "https://news.hada.io/topic?id=35312",
+          "pubDate": "2026-10-13T21:38:29.000Z",
+          "image": null,
+          "summary": "여러 Mac의 유휴 Apple Silicon GPU로 대규모 머신러닝 추론 작업을 나눠 처리하는 Apple 연구진의 분산 시스템 기존 하드웨어를 활용해 GPU 추가 구매 부담을 줄이고, 자원이 부족한 중앙 GPU 인프라를 보완 Hugging Face 모델의 임베딩 생성과 Ollama 기반 LLM 추...",
+          "keywords": [
+            "Minions",
+            "유휴",
+            "Mac의",
+            "GPU를",
+            "모아"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Ledger, 지갑 암호화폐 도난 원인으로 삽입된 스파이 칩 확인",
+          "link": "https://news.hada.io/topic?id=35311",
+          "pubDate": "2026-10-13T21:35:29.000Z",
+          "image": null,
+          "summary": "Ledger가 동남아 리셀러 CryptoBilis를 통해 판매된 일부 지갑의 암호화폐 도난과 관련해, 피해 기기에서 무단 하드웨어 삽입물을 확인함 연구진이 분석한 Ledger X 삽입물은 화면 출력과 버튼 입력으로 시드 구문을 알아낸 뒤, eSIM을 사용하는 ...",
+          "keywords": [
+            "Ledger",
+            "지갑",
+            "암호화폐",
+            "도난",
+            "원인으로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Apple, 새로운 Apple TV 4K 공개",
+          "link": "https://news.hada.io/topic?id=35310",
+          "pubDate": "2026-10-13T19:46:48.000Z",
+          "image": null,
+          "summary": "Apple이 Siri AI와 원거리 마이크를 탑재한 Apple TV 4K 4세대를 발표함. 전체 화면에서 대화로 콘텐츠를 찾고, 리모컨 없이 재생을 제어할 수 있음 A19는 이전 세대 대비 CPU 성능이 최대 50%, GPU 성능이 최대 2배 빨라졌으며, 전용 AV1 디코더로 대역폭을 줄이면...",
           "keywords": [
             "Apple",
-            "HomeView",
-            "Siri",
-            "AI와",
-            "스마트홈"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: Flats – AI 에이전트가 만든 웹사이트를 내 컴퓨터에서 호스팅",
-          "link": "https://news.hada.io/topic?id=35303",
-          "pubDate": "2026-10-13T14:59:52.000Z",
-          "image": null,
-          "summary": "안녕하세요. Claude Code, Codex 같은 AI 에이전트가 만든 결과물을 자신의 컴퓨터에서 실행하고 공유할 수 있는 오픈소스 프로젝트 Flats를 만들었습니다. Claude Artifacts나 ChatGPT의 Sites처럼 AI가 웹사이트나 앱을 만들어주는 경험은 편리하지만, 결과물을 실행하고 공유하려면 외부 서비스에 의존하게",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Flats",
-            "AI",
-            "에이전트가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "MacBook Air에서 1시간 분량 오디오를 약 13초 만에 전사",
-          "link": "https://news.hada.io/topic?id=35302",
-          "pubDate": "2026-10-13T14:37:50.000Z",
-          "image": null,
-          "summary": "Embedding Gemma Transcribe는 Google의 멀티모달 임베딩 모델 EmbeddingGemma 2를 음성 인식에 활용하며, 기본형 MacBook Air에서 1시간 분량 오디오를 약 13초 만에 기기 내에서 전사함 오디오 인코더는 그대로 유지하고, 짧은 오디오 구간을 텍스트 공간으로 옮...",
-          "keywords": [
-            "MacBook",
-            "Air에서",
-            "1시간",
-            "분량",
-            "오디오를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Mozilla, Firefox Enterprise 공개",
-          "link": "https://news.hada.io/topic?id=35301",
-          "pubDate": "2026-10-13T14:34:50.000Z",
-          "image": null,
-          "summary": "Firefox Enterprise는 규제 및 보안에 민감한 조직을 위한 기업용 브라우저로, 자체 인프라에서 브라우저 관리와 정책, 데이터를 통제하도록 설계됨 온프레미스 배포를 지원하며, 조직이 데이터와 정책, 관리 기능의 위치를 정하고 감사할 수 있음",
-          "keywords": [
-            "Mozilla",
-            "Firefox",
-            "Enterprise",
+            "새로운",
+            "TV",
+            "4K",
             "공개"
           ],
           "isForeign": false,
@@ -440,24 +437,24 @@
           "summaryKo": null
         },
         {
-          "title": "프랑스 슈퍼마켓 체인들, 사이버공격으로 냉장설비 가동 중단",
-          "link": "https://news.hada.io/topic?id=35300",
-          "pubDate": "2026-10-13T14:02:23.000Z",
+          "title": "Anthropic, AI 코딩으로 늘어난 변경량에 대응해 Git을 자체 버전 관리 시스템 Scion으로 교체",
+          "link": "https://news.hada.io/topic?id=35309",
+          "pubDate": "2026-10-13T19:43:48.000Z",
           "image": null,
-          "summary": "프랑스 주요 슈퍼마켓 수백 개 매장에서 사이버공격으로 냉장설비 온도가 급상승해 신선식품과 냉동식품을 폐기하는 피해가 발생함 BFM TV에 따르면 공격자들은 냉장 시스템의 강제 제상 기능을 원격으로 작동시켰으며, E. Leclerc는 냉장설비 공급업체에 대한 공격...",
+          "summary": "AI 코딩으로 소스 관리와 빌드, CI가 병목이 되자 자체 버전 관리 시스템 Scion을 개발하고 5개월 만에 모노레포를 Git에서 이전 하루 병합량은 2026년 5월 평균 약 2,500건에서 9월 3만 건 이상으로 증가했으며, CI에서만 하루 약 2,500만 회 체크아웃 항...",
           "keywords": [
-            "프랑스",
-            "슈퍼마켓",
-            "체인들",
-            "사이버공격으로",
-            "냉장설비"
+            "Anthropic",
+            "AI",
+            "코딩으로",
+            "늘어난",
+            "변경량에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:56.325Z",
+      "fetchedAt": "2026-10-13T22:18:29.371Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -557,7 +554,7 @@
         }
       ],
       "fetchedAt": "2026-10-13T17:21:56.453Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -630,7 +627,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:56.565Z",
+      "fetchedAt": "2026-10-13T22:18:30.058Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -711,7 +708,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:56.642Z",
+      "fetchedAt": "2026-10-13T22:18:30.171Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -810,7 +807,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:21:59.743Z",
+      "fetchedAt": "2026-10-13T22:18:33.231Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -896,7 +893,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:22:00.002Z",
+      "fetchedAt": "2026-10-13T22:18:33.537Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -904,6 +901,75 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+          "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+          "pubDate": "2026-10-13T20:00:00.000Z",
+          "image": null,
+          "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
+          "keywords": [
+            "Climate",
+            "Startups",
+            "fusion power",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "Licube는 융합 전력 산업의 연료 공급업체가 되고자 합니다. TechCrunch Disrupt에서 방법을 확인하세요.",
+          "summaryKo": "핵융합 발전소는 많은 리튬이 필요할 것이며, Licube는 핵심 공급업체가 될 준비를 하고 있습니다."
+        },
+        {
+          "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+          "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+          "pubDate": "2026-10-13T19:00:00.000Z",
+          "image": null,
+          "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+          "keywords": [
+            "Hardware",
+            "Startups",
+            "TC",
+            "Batteries",
+            "Battlefield 200",
+            "chips"
+          ],
+          "isForeign": true,
+          "titleKo": "니오비아는 기술 분야에서 가장 비싼 실수 중 일부를 추측합니다.",
+          "summaryKo": "샌프란시스코의 스타트업은 배터리 및 칩 제조업체가 생산 라인의 결함을 식별하여 가동 중지 시간과 비용이 많이 드는 실수를 줄이는 것을 목표로 합니다."
+        },
+        {
+          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+          "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+          "pubDate": "2026-10-13T18:30:00.000Z",
+          "image": null,
+          "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+          "keywords": [
+            "AI",
+            "Hardware",
+            "Startups",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt",
+            "wildlife"
+          ],
+          "isForeign": true,
+          "titleKo": "Flox Intelligence는 기차, 공항 및 도로에서 야생 동물을 멀리하기 위해 AI를 구축하고 있습니다.",
+          "summaryKo": "Flox의 엣지 장치는 동물을 식별하고 종별 사운드를 사용하여 중요한 인프라에서 동물을 몰아낼 수 있습니다."
+        },
+        {
+          "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+          "pubDate": "2026-10-13T18:05:00.000Z",
+          "image": null,
+          "summary": "Longshot is trying to build a gun big enough to make space data centers a reality.",
+          "keywords": [
+            "Space",
+            "Startups",
+            "longshot space",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "로켓을 잊어라 — 롱샷은 총으로 화물을 우주로 발사하고자 합니다. TechCrunch Disrupt 2026에서 보기",
+          "summaryKo": "Longshot은 우주 데이터 센터를 현실화할 수 있을 만큼 큰 총을 만들려고 노력하고 있습니다."
+        },
         {
           "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
           "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
@@ -918,77 +984,9 @@
           "isForeign": true,
           "titleKo": "The 2026 Startup Battlefield Top 20: 장기에서 궤도까지 그리고 그 사이의 모든 것",
           "summaryKo": "20명의 창업자가 Disrupt의 영광을 만끽했습니다. 그들은 TechCrunch Disrupt의 메인 스테이지로 이동하여 $ 100,000의 상금과 탐나는 Disrupt Cup을 놓고 경쟁합니다."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Day 1",
-          "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-          "pubDate": "2026-10-13T14:00:00.000Z",
-          "image": null,
-          "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-          "keywords": [
-            "AI",
-            "Fintech",
-            "Fundraising",
-            "Robotics",
-            "Startups",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "테크크런치 디스럽트 2026: 1일 차",
-          "summaryKo": "TechCrunch Disrupt 2026이 오늘 공식적으로 시작됩니다. 샌프란시스코 모스콘 웨스트의 1일차 (10월 13일) 매장을 확인해보세요. 놓치지 마세요. 지금 패스에 등록하고 올해의 스타트업 중심지에서 10,000명 이상의 기술 리더를 만나보세요."
-        },
-        {
-          "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-          "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-          "pubDate": "2026-10-13T13:28:06.000Z",
-          "image": null,
-          "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Venture",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "최종 Disrupt Stage 라인업: TechCrunch Disrupt 2026 외부에서는 들을 수 없는 3일간의 대화",
-          "summaryKo": "전체 TechCrunch Disrupt Stage 라인업이 공개되었으며, Max Hodak, Mark Wahlberg, Benchmark 파트너 등이 참여합니다. 지금 등록하고 패스에서 최대 $ 100를 할인받고 50% 할인된 가격에 1초를 받으세요."
-        },
-        {
-          "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-          "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-          "pubDate": "2026-10-13T12:40:00.000Z",
-          "image": null,
-          "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-          "keywords": [
-            "Climate",
-            "Startups",
-            "critical minerals",
-            "Exclusive",
-            "mining"
-          ],
-          "isForeign": true,
-          "titleKo": "Giraffe Bio는 구리 부족 현상을 해결하기 위해 맞춤형 생체 분자를 개발하고 있습니다.",
-          "summaryKo": "AI 데이터 센터와 전기차로 구리에 대한 수요가 증가함에 따라 Giraffe Bio는 광부가 광물을 더 많이 추출할 수 있도록 640만 $ 규모의 종자를 발굴했습니다."
-        },
-        {
-          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-          "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-          "pubDate": "2026-10-12T17:19:14.000Z",
-          "image": null,
-          "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Exclusive",
-            "Windborne Systems"
-          ],
-          "isForeign": true,
-          "titleKo": "WindBorne은 풍선 데이터로 무거운 미 공군 계약을 따냅니다",
-          "summaryKo": "날씨를 예측하기 위해 기상 풍선과 AI를 사용하는 실리콘 밸리의 한 스타트업은 거의 5천만 달러 상당의 미군 계약을 따냈습니다. $"
         }
       ],
-      "fetchedAt": "2026-10-13T17:22:06.010Z",
+      "fetchedAt": "2026-10-13T22:18:39.685Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1087,7 +1085,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:22:08.755Z",
+      "fetchedAt": "2026-10-13T22:18:42.214Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1095,6 +1093,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 - 글로벌뉴스통신GNA",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bEE5ZmFEWFU5RW91SVJvSlhKSXYxaE9tMzZFZjJEN3dtdUV5YnozZnF0WVJIOVRXMXZSWERuZ0lrTE1ta2JRUkIwWjA4OWF1cDREUENJU0tQa1E1dVZmRUt5SjZ1aTk1RDhvcWRMY0h6Yk1w?oc=5",
+          "pubDate": "2026-10-13T15:45:24.000Z",
+          "image": null,
+          "summary": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 글로벌뉴스통신GNA",
+          "keywords": [
+            "중기부",
+            "해외규격인증획득",
+            "지원사업",
+            "3차",
+            "참여기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 - 법률신문",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUdIBckFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUQ?oc=5",
@@ -1124,23 +1139,6 @@
             "지원사업",
             "참여기업",
             "모집(~11월13일)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 - 글로벌뉴스통신GNA",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bEE5ZmFEWFU5RW91SVJvSlhKSXYxaE9tMzZFZjJEN3dtdUV5YnozZnF0WVJIOVRXMXZSWERuZ0lrTE1ta2JRUkIwWjA4OWF1cDREUENJU0tQa1E1dVZmRUt5SjZ1aTk1RDhvcWRMY0h6Yk1w?oc=5",
-          "pubDate": "2026-10-13T15:45:24.000Z",
-          "image": null,
-          "summary": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 글로벌뉴스통신GNA",
-          "keywords": [
-            "중기부",
-            "해외규격인증획득",
-            "지원사업",
-            "3차",
-            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1181,7 +1179,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T17:22:09.215Z",
+      "fetchedAt": "2026-10-13T22:18:42.744Z",
       "error": null
     }
   },
@@ -1254,7 +1252,7 @@
       "label": "3차",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1323,20 +1321,20 @@
       "labelKo": "다음을 따르세요"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
+      "key": "techcrunch disrupt",
+      "label": "TechCrunch Disrupt",
+      "count": 4,
       "rank": 9,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "new",
+      "labelKo": "TechCrunch Disrupt"
     },
     {
-      "key": "costs",
-      "label": "costs",
-      "count": 2,
+      "key": "startup battlefield 200",
+      "label": "Startup Battlefield 200",
+      "count": 3,
       "rank": 10,
-      "change": "same",
-      "labelKo": "비용"
+      "change": "new",
+      "labelKo": "스타트업 Battlefield 200"
     }
   ]
 }
