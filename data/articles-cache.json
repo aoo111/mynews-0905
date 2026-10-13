@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-13T08:58:08.877Z",
+  "collectedAt": "2026-10-13T17:22:09.223Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“회의하시죠, KTX 시간 좀 볼게요”…금융사는 서울, 금융위는 세종",
+          "link": "https://www.mk.co.kr/news/economy/12174867",
+          "pubDate": "2026-10-13T10:42:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.b933188a58534c748bb8875d5104ba3f_R.png",
+          "summary": "중앙행정기관 44곳 이전 금융위 등 27곳 내년 이전 외교·통일부 등 17개 기관은 2031년까지 청사 지어 이동 공무원 주거·통근 부담 커져 민간 이직 등 인력 유출 우려 정부,..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "삼전닉스 자사주 매입 끝나자 주가 와르르 … 코스피 사줄 사람이 없다 [머니닥터 시장진단]",
+          "link": "https://www.mk.co.kr/news/stock/12174815",
+          "pubDate": "2026-10-13T09:33:35.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.e4dd3611c801487887558ecae351a000_R.jpg",
+          "summary": "코스피 수급 여건 심층분석코스피가 12일 6500선이 무너진데 이어 13일에는 장중에 6000선까지 무너졌다. 반도체 기업들의 실적 개선에도 국내 증시가 오히려 뒷걸음질 치면서 시..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "\"시민 지켜라\"… 로봇개, 첫 도심순찰 나선다",
           "link": "https://www.mk.co.kr/news/economy/12174772",
           "pubDate": "2026-10-13T08:47:06.000Z",
@@ -57,7 +83,7 @@
           "title": "석달만에 … IMF, 올 韓성장률 3.3%로 상향",
           "link": "https://www.mk.co.kr/news/economy/12174769",
           "pubDate": "2026-10-13T08:47:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01110110000002_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01160110000001_L00.jpg",
           "summary": "국제통화기금(IMF)이 올해 우리나라 성장률 전망치를 2.6%에서 3.3%로 석 달 만에 0.7%포인트 높였다. 중동전쟁 충격에도 강력한 반도체 수출에 성장률이 높아질 것으로 본 ..",
           "keywords": [
             "경제"
@@ -67,37 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "韓기업 해외원화 조달 숨통 … 신고기준 10억→500억 완화",
-          "link": "https://www.mk.co.kr/news/economy/12174771",
-          "pubDate": "2026-10-13T08:47:05.000Z",
-          "image": null,
-          "summary": "재정경제부가 국내 기업이 해외 금융기관 등에서 원화를 빌릴 때 적용되는 사전신고 기준을 연간 10억원 초과에서 500억원 초과로 높이는 내용을 담은 외국환거래규정 개정안을 13일 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "정부, 수소차 늘린다더니 보조금은 9년만에 줄인다",
+          "title": "[단독] 정부, 수소차 늘린다더니 보조금은 9년만에 줄인다",
           "link": "https://www.mk.co.kr/news/economy/12174770",
           "pubDate": "2026-10-13T08:47:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01110110000003_S00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01160110000002_S00.jpg",
           "summary": "내년부터 수소승용차 한 대당 국비 보조금이 올해보다 11.1% 줄어든 2000만원으로 인하된다. 정부가 수소승용차 국비 보조금을 인하하는 것은 2018년 이후 9년 만이다. 13일..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12174759",
-          "pubDate": "2026-10-13T08:44:41.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/20261014_01110112000006_L00.jpg",
-          "summary": "",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:57:59.919Z",
+      "fetchedAt": "2026-10-13T17:21:53.938Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, Fleur Capital Corporation의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-13T08:57:59.971Z",
+      "fetchedAt": "2026-10-13T17:21:54.007Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,17 +189,34 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "멜론 수확량 높이는 핵심 유전자, AI가 4분 만에 찾아냈다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216217",
-          "pubDate": "2026-10-13T17:36:02.000Z",
+          "title": "\"오퍼스 5.5 넘었다\"...앤트로픽, 차세대 모델 실전 라우팅 테스트 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216200",
+          "pubDate": "2026-10-13T17:55:00.000Z",
           "image": null,
-          "summary": "AI가 농작물의 수확량을 높이는 핵심 유전자 변이를 찾아내는 데 성공했다. 식물 DNA에 특화된 AI 모델과 범용 언어모델을 결합해 수천개의 후보 변이 가운데 실제 형질 변화와 관련된 변이를 수분 만에 식별한 것이다. 가뭄에 강하거나 더 많은 열매를 맺는 작물을 개발하는 데 AI를 활용할 수 있을 것으로 기대된다.AI 연구소 리빙 모델스(Living Models)는 6일(현지시간) 식물 DNA를 학습한 모델 ‘보타닉-1(BOTANIC-1)’과 구글의 ‘젬마 4(Gemma 4)’를 결합해 유전자 변이를 분석하는 시스템을 공개했다.특히",
+          "summary": "앤트로픽이 이미 서비스 중인 플래그십 모델 환경을 활용해 차세대 체크포인트의 실전 라우팅(Routing) 테스트에 착수한 정황이 포착됐다. 정식 출시나 발표가 이뤄지지 않은 상태에서 기존 모델 트래픽의 일부를 미공개 고성능 모델로 우회시키는 '셰도우 디플로이먼트(Shadow Deployment)' 및 'A/B 테스트(A/B Testing)'가 진행되면서, 개발자와 테스터들 사이에서 폭발적인 반응과 함께 성능 분석이 이어지고 있다.12일(현지시간) 테스팅카탈로그 등에 따르면, 이번 차세대 모델 테스트는 앤트로픽이 최상위 모델인 '오퍼",
           "keywords": [
-            "멜론",
-            "수확량",
-            "높이는",
-            "핵심",
-            "유전자"
+            "오퍼스",
+            "넘었다",
+            "앤트로픽",
+            "차세대",
+            "모델"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "의사결정 모델 '제브' 표절 논란...\"1년 전 연구 베꼈다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216211",
+          "pubDate": "2026-10-13T17:50:00.000Z",
+          "image": null,
+          "summary": "AI 스타트업 타입세이프가 공개한 의사결정 모델 '제브(Jev)'를 둘러싸고 표절 논란이 불거졌다. 콘브이 이노베이션스(ConvAI Innovations)의 설립자 난다키쇼르 무쿤노스는 제브의 핵심 아키텍처가 자신의 기존 연구와 유사하다며, 관련 아이디어와 기술을 먼저 개발했다고 주장했다.톰스하드웨어에 따르면, 무쿤노스는 지닌달 타입세이프가 제브를 공개한 직후 블로그를 통해 \"1년 전에 이미 제브 아키텍처를 설계했다\"고 밝혔다.그는 2025년 3월30일 공개한 '세일즈RL에이전트(SalesRLAgent)' 논문과 함께 모델 가중치,",
+          "keywords": [
+            "의사결정",
+            "모델",
+            "제브",
+            "표절",
+            "논란"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[게시판] 델 테크놀로지스, IBK기업은행에 데이터 복원 솔루션 공급 등 단신",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216216",
-          "pubDate": "2026-10-13T17:00:00.000Z",
-          "image": null,
-          "summary": "■ 델 테크놀로지스는 IBK기업은행 하남데이터센터에 데이터 백업 및 사이버 복원력 솔루션을 공급했다고 밝혔다. 공급 제품은 데이터 보호 솔루션 '파워프로텍트 데이터도메인 DD9400·DD9900'과 '파워프로텍트 사이버 리커버리', '네트워커'다. 이를 통해 랜섬웨어 등 사이버 공격이나 재난 상황에서도 핵심 금융 데이터를 보호하고 신속하게 복구할 수 있을 것으로 기대된다는 설명이다.■ 노타(대표 채명수)는 14일부터 16일까지 일산 킨텍스에서 열리는 '2026 한국건설·안전박람회'에 참가한다고 밝혔다. 이번 박람회에서는 서버 구축",
-          "keywords": [
-            "게시판",
-            "테크놀로지스",
-            "IBK기업은행에",
-            "데이터",
-            "복원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:01.092Z",
+      "fetchedAt": "2026-10-13T17:21:55.367Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -364,7 +364,7 @@
           "summaryKo": "LegalOn은 개발 속도를 유지하면서 예상 일일 코덱스 비용을 65% 절감했습니다. 아스트라, 솔, 루나를 업무에 매칭시키고 예산을 전략적으로 관리했다."
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:01.241Z",
+      "fetchedAt": "2026-10-13T17:21:55.521Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -373,89 +373,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: claude-bulkhead: PC에서 병렬로 돌리는 Claude Code 세션들의 프로세스, 포트, 메모리 충돌을 막는 플...",
-          "link": "https://news.hada.io/topic?id=35290",
-          "pubDate": "2026-10-13T08:53:00.000Z",
+          "title": "Apple HomeView - Siri AI와 스마트홈 제어를 결합한 7인치 가정용 디스플레이",
+          "link": "https://news.hada.io/topic?id=35305",
+          "pubDate": "2026-10-13T15:34:16.000Z",
           "image": null,
-          "summary": "Claude Code 세션 여러 개를 git worktree별로 나누어 한 PC에서 동시에 실행하고 있습니다. 이 환경에서 같은 문제가 반복되었습니다. 한 에이전트가 정리 작업 중에 taskkill /F /IM node.exe를 실행하면 다른 세션에서 실행 중이던 개발 서버와 테스트가 모두 종료되었습니다. 세 세션이 동시에 빌드를 시작했을 때...",
+          "summary": "Siri AI, 음악과 영상 재생, FaceTime, 스마트홈 제어를 한 기기에 결합한 가정용 디스플레이로, 탁상형과 벽걸이형 공개 7인치 Liquid Retina 화면과 A18 칩, 12MP Center Stage 카메라를 탑재, 4개 마이크와 공간 음향 지원, 최대 6명의 얼굴을 인식해 개인별 화...",
+          "keywords": [
+            "Apple",
+            "HomeView",
+            "Siri",
+            "AI와",
+            "스마트홈"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: Flats – AI 에이전트가 만든 웹사이트를 내 컴퓨터에서 호스팅",
+          "link": "https://news.hada.io/topic?id=35303",
+          "pubDate": "2026-10-13T14:59:52.000Z",
+          "image": null,
+          "summary": "안녕하세요. Claude Code, Codex 같은 AI 에이전트가 만든 결과물을 자신의 컴퓨터에서 실행하고 공유할 수 있는 오픈소스 프로젝트 Flats를 만들었습니다. Claude Artifacts나 ChatGPT의 Sites처럼 AI가 웹사이트나 앱을 만들어주는 경험은 편리하지만, 결과물을 실행하고 공유하려면 외부 서비스에 의존하게",
           "keywords": [
             "Show",
             "GN:",
-            "claude",
-            "bulkhead:",
-            "PC에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Firefox에서 대용량 다운로드를 재개할 수 있게 하기",
-          "link": "https://news.hada.io/topic?id=35289",
-          "pubDate": "2026-10-13T08:47:40.000Z",
-          "image": null,
-          "summary": "Firefox의 about:config에서 network.http.response.timeout을 0 또는 매우 큰 값으로 변경하면, 실험상 대용량 다운로드 재개가 가능해지고 안정성도 다소 나아지는 것으로 보임 Firefox 28 이상은 이 설정의 기본값이 30...",
-          "keywords": [
-            "Firefox에서",
-            "대용량",
-            "다운로드를",
-            "재개할",
-            "있게"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Intel D270 GPU AI 가속기, 최대 480GB LPDDR5X 탑재",
-          "link": "https://news.hada.io/topic?id=35288",
-          "pubDate": "2026-10-13T08:44:40.000Z",
-          "image": null,
-          "summary": "Intel GPU D270은 대규모 학습보다 프로덕션 AI 추론에 최적화한 데이터센터 GPU로, 긴 컨텍스트와 다수의 동시 세션을 처리하는 에이전트 워크로드를 겨냥함 카드당 최대 480GB LPDDR5X를 탑재해 더 큰 모델과 긴 컨텍스트, 추론 중 늘어나는 KV 캐시를 메모리에 ...",
-          "keywords": [
-            "Intel",
-            "D270",
-            "GPU",
+            "Flats",
             "AI",
-            "가속기"
+            "에이전트가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI 모델은 임의의 능력을 숨길 수 있으며, 이를 이론적으로 증명할 수 있음",
-          "link": "https://news.hada.io/topic?id=35287",
-          "pubDate": "2026-10-13T08:41:39.000Z",
+          "title": "MacBook Air에서 1시간 분량 오디오를 약 13초 만에 전사",
+          "link": "https://news.hada.io/topic?id=35302",
+          "pubDate": "2026-10-13T14:37:50.000Z",
           "image": null,
-          "summary": "모델 가중치 안에 암호화된 신경망을 넣고 비밀 트리거가 입력될 때만 복호화해 실행하는 백도어를 구성함으로써, 적대적 조건에서는 숨겨진 능력을 평가로 끌어낼 수 있다는 가정이 성립하지 않음을 보임 디지털 로커(digital locker) 와 명시된 암호학적 가정 아...",
+          "summary": "Embedding Gemma Transcribe는 Google의 멀티모달 임베딩 모델 EmbeddingGemma 2를 음성 인식에 활용하며, 기본형 MacBook Air에서 1시간 분량 오디오를 약 13초 만에 기기 내에서 전사함 오디오 인코더는 그대로 유지하고, 짧은 오디오 구간을 텍스트 공간으로 옮...",
           "keywords": [
-            "AI",
-            "모델은",
-            "임의의",
-            "능력을",
-            "숨길"
+            "MacBook",
+            "Air에서",
+            "1시간",
+            "분량",
+            "오디오를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "vfmaddrnd231pd는 누구인가?",
-          "link": "https://news.hada.io/topic?id=35286",
-          "pubDate": "2026-10-13T07:32:32.000Z",
+          "title": "Mozilla, Firefox Enterprise 공개",
+          "link": "https://news.hada.io/topic?id=35301",
+          "pubDate": "2026-10-13T14:34:50.000Z",
           "image": null,
-          "summary": "Intel SDM에 문서화된 vfmaddrnd231pd 는 명령어별 반올림 제어를 지원하는 FMA 명령어지만, 도구 지원과 실제 실행을 확인하는 과정에서 존재 여부에 의문이 생김 문서대로라면 전역 반올림 설정을 바꾸지 않고 연산별 반올림을 제어할 수 있어, AVX...",
+          "summary": "Firefox Enterprise는 규제 및 보안에 민감한 조직을 위한 기업용 브라우저로, 자체 인프라에서 브라우저 관리와 정책, 데이터를 통제하도록 설계됨 온프레미스 배포를 지원하며, 조직이 데이터와 정책, 관리 기능의 위치를 정하고 감사할 수 있음",
           "keywords": [
-            "vfmaddrnd231pd는",
-            "누구인가"
+            "Mozilla",
+            "Firefox",
+            "Enterprise",
+            "공개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "프랑스 슈퍼마켓 체인들, 사이버공격으로 냉장설비 가동 중단",
+          "link": "https://news.hada.io/topic?id=35300",
+          "pubDate": "2026-10-13T14:02:23.000Z",
+          "image": null,
+          "summary": "프랑스 주요 슈퍼마켓 수백 개 매장에서 사이버공격으로 냉장설비 온도가 급상승해 신선식품과 냉동식품을 폐기하는 피해가 발생함 BFM TV에 따르면 공격자들은 냉장 시스템의 강제 제상 기능을 원격으로 작동시켰으며, E. Leclerc는 냉장설비 공급업체에 대한 공격...",
+          "keywords": [
+            "프랑스",
+            "슈퍼마켓",
+            "체인들",
+            "사이버공격으로",
+            "냉장설비"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:01.925Z",
+      "fetchedAt": "2026-10-13T17:21:56.325Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -554,7 +556,7 @@
           "summaryKo": "OpenAI가 Sam Yam을 크리에이터 제품 부문 책임자로 고용했다고 발표한 지 2주 후, Patreon 공동 창업자는 이미 열심히 일하고 있습니다. Yam의 팀은 OpenAI 기술을 사용하여 육아 시리즈를 제작할 Chloe Shih와의 파트너십을 발표했습니다. Shih는 자신의 삶과 기술 업계에서의 경력을 기록한 성실하고 세련된 동영상을 업로드하여 YouTube 및 Instagram과 같은 플랫폼에서 상당한 팔로워를 확보했습니다. 그녀의 성공에 힘입어 Shih는 Offi를 출시했습니다."
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:02.029Z",
+      "fetchedAt": "2026-10-13T17:21:56.453Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -628,7 +630,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:02.170Z",
+      "fetchedAt": "2026-10-13T17:21:56.565Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -709,7 +711,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:02.205Z",
+      "fetchedAt": "2026-10-13T17:21:56.642Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -718,97 +720,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "아카마이, 기업 AI 챗봇 대화 6%서 민감정보 확인…AI 에이전트 보안 관리 전환 제안",
-          "link": "https://www.venturesquare.net/1119376/",
-          "pubDate": "2026-10-13T06:29:12.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ACAMAI.jpg",
-          "summary": "아카마이가 AI 에이전트 확산에 따른 보안 위험을 분석한 ‘에이전틱 위협 환경’ 보고서를 발표했다. 보고서에 따르면 기업용 AI 챗봇 대화의 6% 이상에 민감정보가 포함됐으며, 기업 사용자의 40% 이상이 AI 기반 브라우저 확장 프로그램을 설치한 것으로 나타났다. 아... The post 아카마이, 기업 AI 챗봇 대화 6%서 민감정보 확인…AI 에이전트 보안 관리 전환 제안 appeared first on 벤처스퀘어.",
+          "title": "델 테크놀로지스, IBK기업은행 백업 인프라 구축…랜섬웨어 대응·데이터 복구 체계 강화",
+          "link": "https://www.venturesquare.net/1119568/",
+          "pubDate": "2026-10-13T13:23:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/DELL-789x368.jpg",
+          "summary": "델 테크놀로지스가 IBK기업은행 하남데이터센터에 전사 데이터를 보호하는 백업 및 사이버 복원력 인프라를 구축했다. 파워프로텍트 데이터도메인과 사이버 리커버리 솔루션을 적용해 원본 외 3개의 백업 사본을 구성하고, 에어갭과 리텐션 락 기술로 중요 데이터를 격리·보호한다.... The post 델 테크놀로지스, IBK기업은행 백업 인프라 구축…랜섬웨어 대응·데이터 복구 체계 강화 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "IBK기업은행",
+            "금융IT",
+            "데이터도메인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "카스퍼스키, 발리서 글로벌 보안 서밋 개최…라자루스·AI 취약점·모바일 공격 분석 공개",
+          "link": "https://www.venturesquare.net/1119549/",
+          "pubDate": "2026-10-13T13:20:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/‘SAS-2026.png",
+          "summary": "카스퍼스키가 10월 20일부터 23일까지 인도네시아 발리에서 제18회 시큐리티 애널리스트 서밋 ‘SAS 2026’을 개최한다. 전 세계 보안 전문가 200여 명이 참여해 UEFI 부트킷과 라자루스 공격 전술, 게임 콘솔 및 모바일 기기 취약점 등 최신 연구 결과를 공유... The post 카스퍼스키, 발리서 글로벌 보안 서밋 개최…라자루스·AI 취약점·모바일 공격 분석 공개 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
             "AI보안",
-            "AI에이전트",
-            "CISO"
+            "CTF",
+            "LLM보안"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "한국딥러닝, 제조업 AI 전환 전문기업 선정…도면·BOM 데이터화 기술 인정",
-          "link": "https://www.venturesquare.net/1119364/",
-          "pubDate": "2026-10-13T06:27:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MAX-2-789x444.jpg",
-          "summary": "한국딥러닝이 산업통상부와 한국산업기술기획평가원이 추진하는 제조업 AI 대전환(M.AX) 전문기업에 선정됐다. 품질제어 및 검사자동화, 생성형 AI, 제조 데이터 가공, 제조 암묵지 데이터 가공 등 4개 분야에서 전문성을 인정받았다. 제조 특화 솔루션 ‘DEEP Agen... The post 한국딥러닝, 제조업 AI 전환 전문기업 선정…도면·BOM 데이터화 기술 인정 appeared first on 벤처스퀘어.",
+          "title": "세화피앤씨 센녹, 성수동에 ‘물 없는 목욕탕’ 열었더니…5일 만에 6842명 방문",
+          "link": "https://www.venturesquare.net/1119538/",
+          "pubDate": "2026-10-13T13:16:08.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/20261012220433_df16760652-789x345.jpg",
+          "summary": "세화피앤씨의 라이프스타일 뷰티 브랜드 센녹이 서울 성수동에 개장한 첫 플래그십 스토어에서 5일간 누적 방문객 6842명을 기록했다. 한글날 연휴 사흘 동안 5131명이 방문했으며, 매장 한정 사우나 모자와 수면안대 등이 일시 품절됐다. 매장은 한국 목욕탕 문화를 현대적... The post 세화피앤씨 센녹, 성수동에 ‘물 없는 목욕탕’ 열었더니…5일 만에 6842명 방문 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "BOM",
-            "DeepAgent",
-            "DEEPOps"
+            "K뷰티",
+            "SENNOK",
+            "라이프스타일뷰티"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "엑스와이지·엔비디아, 휴머노이드 실무 인재 키운다…900명 몰린 로보틱스 교육 개강",
-          "link": "https://www.venturesquare.net/1119362/",
-          "pubDate": "2026-10-13T06:25:22.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/20261013_-784x522.png",
-          "summary": "엔비디아가 주관하고 엑스와이지가 운영에 참여하는 피지컬 AI 로보틱스 교육 과정이 10월 12일 서울 성수동에서 개강했다. 약 900명이 지원해 60여 명이 선발됐으며, 2027년 4월까지 총 960시간의 교육을 진행한다. 교육생들은 엔비디아의 Isaac Sim과 Is... The post 엑스와이지·엔비디아, 휴머노이드 실무 인재 키운다…900명 몰린 로보틱스 교육 개강 appeared first on 벤처스퀘어.",
+          "title": "마이리얼트립, 대전 빵축제 이어 구미 라면축제까지…지역 먹거리 여행 기획전 확대",
+          "link": "https://www.venturesquare.net/1119536/",
+          "pubDate": "2026-10-13T13:13:50.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MYREAL-783x522.jpg",
+          "summary": "마이리얼트립이 구미시와 함께 11월 30일까지 구미라면축제를 중심으로 한 지역 여행 기획전을 운영한다. 11월 6일부터 8일까지 구미역 일원에서 열리는 라면축제와 송정맛길, 금오산 관광 콘텐츠, 지역 숙박 정보를 한곳에서 소개한다. 앞서 대전관광공사와 대전빵축제 연계 ... The post 마이리얼트립, 대전 빵축제 이어 구미 라면축제까지…지역 먹거리 여행 기획전 확대 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI인재양성",
-            "DEUX",
-            "IsaacLab"
+            "K푸드페스타",
+            "구미라면축제",
+            "구미시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "현대차·기아, 자율주행 데이터 인프라 협력사 바스트 데이터에 투자…피지컬 AI 개발 가속",
-          "link": "https://www.venturesquare.net/1119352/",
-          "pubDate": "2026-10-13T06:20:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/VAST_Data_logo-1-1-789x325.jpg",
-          "summary": "현대자동차와 기아가 글로벌 AI 데이터 인프라 기업 바스트 데이터에 전략적 투자를 단행했다. 이번 투자는 포티투닷이 수년간 VAST AI OS를 실제 자율주행 연구개발 환경에서 운용하며 기술을 검증한 결과로, 투자 규모는 공개되지 않았다. 포티투닷은 ADAS와 LLM ... The post 현대차·기아, 자율주행 데이터 인프라 협력사 바스트 데이터에 투자…피지컬 AI 개발 가속 appeared first on 벤처스퀘어.",
+          "title": "엔닷라이트, 스케일업 팁스 선정…최대 30억원 지원받아 로봇 학습용 3D 데이터 검증 기술 개발",
+          "link": "https://www.venturesquare.net/1119522/",
+          "pubDate": "2026-10-13T13:11:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image-24-789x400.png",
+          "summary": "피지컬 AI 데이터 인프라 기업 엔닷라이트가 중소벤처기업부의 ‘2026년 스케일업 팁스 R&D(특화형)’ 과제에 선정됐다. 향후 3년간 최대 30억원을 지원받아 3D 데이터 생성 플랫폼 트리닉스의 물리 속성 검증·보정 기술을 개발한다. 생성한 3D 에셋을 실제 측정 데... The post 엔닷라이트, 스케일업 팁스 선정…최대 30억원 지원받아 로봇 학습용 3D 데이터 검증 기술 개발 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "42dot",
-            "ADAS",
-            "Ai인프라"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "BTQ 테크놀로지, 문페이 코리아와 원화 스테이블코인 양자 보안 구축…국내 은행과 기술검증 추진",
-          "link": "https://www.venturesquare.net/1119324/",
-          "pubDate": "2026-10-13T06:16:26.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/BTQ-2-744x522.jpg",
-          "summary": "BTQ 테크놀로지가 문페이 코리아와 전략적 파트너십을 체결하고 원화 스테이블코인 인프라에 양자내성암호를 적용하는 보안 체계 구축에 협력한다. 양사는 기존 암호 체계를 점검하고 발행·거래 서명·키 관리·정산에 이르는 단계별 양자 보안 전환 로드맵을 수립한다. BTQ 테크... The post BTQ 테크놀로지, 문페이 코리아와 원화 스테이블코인 양자 보안 구축…국내 은행과 기술검증 추진 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "BTQ테크놀로지",
-            "MoonPay",
-            "PQC"
+            "3D데이터",
+            "Ai인프라",
+            "TRINIX"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:05.321Z",
+      "fetchedAt": "2026-10-13T17:21:59.743Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -894,7 +896,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:05.562Z",
+      "fetchedAt": "2026-10-13T17:22:00.002Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -902,6 +904,73 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+          "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+          "pubDate": "2026-10-13T15:02:00.000Z",
+          "image": null,
+          "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+          "keywords": [
+            "Startups",
+            "TechCrunch Disrupt",
+            "Startup Battlefield 200"
+          ],
+          "isForeign": true,
+          "titleKo": "The 2026 Startup Battlefield Top 20: 장기에서 궤도까지 그리고 그 사이의 모든 것",
+          "summaryKo": "20명의 창업자가 Disrupt의 영광을 만끽했습니다. 그들은 TechCrunch Disrupt의 메인 스테이지로 이동하여 $ 100,000의 상금과 탐나는 Disrupt Cup을 놓고 경쟁합니다."
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Day 1",
+          "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+          "pubDate": "2026-10-13T14:00:00.000Z",
+          "image": null,
+          "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+          "keywords": [
+            "AI",
+            "Fintech",
+            "Fundraising",
+            "Robotics",
+            "Startups",
+            "Venture"
+          ],
+          "isForeign": true,
+          "titleKo": "테크크런치 디스럽트 2026: 1일 차",
+          "summaryKo": "TechCrunch Disrupt 2026이 오늘 공식적으로 시작됩니다. 샌프란시스코 모스콘 웨스트의 1일차 (10월 13일) 매장을 확인해보세요. 놓치지 마세요. 지금 패스에 등록하고 올해의 스타트업 중심지에서 10,000명 이상의 기술 리더를 만나보세요."
+        },
+        {
+          "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+          "pubDate": "2026-10-13T13:28:06.000Z",
+          "image": null,
+          "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Venture",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "최종 Disrupt Stage 라인업: TechCrunch Disrupt 2026 외부에서는 들을 수 없는 3일간의 대화",
+          "summaryKo": "전체 TechCrunch Disrupt Stage 라인업이 공개되었으며, Max Hodak, Mark Wahlberg, Benchmark 파트너 등이 참여합니다. 지금 등록하고 패스에서 최대 $ 100를 할인받고 50% 할인된 가격에 1초를 받으세요."
+        },
+        {
+          "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+          "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
+          "pubDate": "2026-10-13T12:40:00.000Z",
+          "image": null,
+          "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
+          "keywords": [
+            "Climate",
+            "Startups",
+            "critical minerals",
+            "Exclusive",
+            "mining"
+          ],
+          "isForeign": true,
+          "titleKo": "Giraffe Bio는 구리 부족 현상을 해결하기 위해 맞춤형 생체 분자를 개발하고 있습니다.",
+          "summaryKo": "AI 데이터 센터와 전기차로 구리에 대한 수요가 증가함에 따라 Giraffe Bio는 광부가 광물을 더 많이 추출할 수 있도록 640만 $ 규모의 종자를 발굴했습니다."
+        },
         {
           "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
           "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
@@ -917,75 +986,9 @@
           "isForeign": true,
           "titleKo": "WindBorne은 풍선 데이터로 무거운 미 공군 계약을 따냅니다",
           "summaryKo": "날씨를 예측하기 위해 기상 풍선과 AI를 사용하는 실리콘 밸리의 한 스타트업은 거의 5천만 달러 상당의 미군 계약을 따냈습니다. $"
-        },
-        {
-          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-          "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-          "pubDate": "2026-10-12T15:45:00.000Z",
-          "image": null,
-          "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-          "keywords": [
-            "AI",
-            "Media & Entertainment",
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Honeyjar는 모든 회사의 PR 및 커뮤니케이션을 개선하는 AI 도구를 제공합니다.",
-          "summaryKo": "언론인, 기업가, 심지어 일부 홍보 전문가도 PR 프로세스가 깨졌다고 말할 것입니다. 하지만 인공지능이 실제로 상황을 개선할 수 있을까요?"
-        },
-        {
-          "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-          "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-          "pubDate": "2026-10-12T14:09:34.000Z",
-          "image": null,
-          "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
-          "keywords": [
-            "Biotech & Health",
-            "Startups",
-            "wearables",
-            "abu dhabi",
-            "ultrahuman"
-          ],
-          "isForeign": true,
-          "titleKo": "스마트 링 메이커 울트라휴먼, UAE 전역에 생물학적 연령 모델 출시",
-          "summaryKo": "울트라휴먼과 아부다비는 향후 2년 동안 이 모델의 연구 및 임상 검증 작업을 할 것입니다."
-        },
-        {
-          "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-          "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-          "pubDate": "2026-10-12T14:00:00.000Z",
-          "image": null,
-          "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-          "keywords": [
-            "AI",
-            "Fintech",
-            "Fundraising",
-            "Startups",
-            "Venture",
-            "Startup Battlefield"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026이 내일부터 시작됩니다. 최대 $ 100의 티켓 할인 혜택을 받을 수 있는 마지막 기회입니다.",
-          "summaryKo": "내일 오전 8시 (태평양 표준시 기준) 에 모든 것이 시작됩니다. 10,000명 이상의 창업자, 투자자 및 기술 운영자가 샌프란시스코의 모스콘 웨스트에 모여 TechCrunch Disrupt 2026을 위해 3일 동안 아이디어, 인맥 및 신생 기업을 형성합니다. 티켓을 최대 $ 100까지 할인받고 1초에 50% 할인을 받을 수 있는 마지막 24시간입니다."
-        },
-        {
-          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "pubDate": "2026-10-12T00:59:01.000Z",
-          "image": null,
-          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-          "keywords": [
-            "Startups",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 창립자 가이드: 알아야 할 모든 것",
-          "summaryKo": "TechCrunch Disrupt 2026은 AI 시대에 지속 가능한 회사를 어떻게 구축할 것인가라는 한 가지 질문을 중심으로 구축되었습니다. 우리의 프로그래밍 및 스피커 라인업은 이를 반영합니다."
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:05.611Z",
+      "fetchedAt": "2026-10-13T17:22:06.010Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -993,6 +996,78 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "초기투자액셀러레이터협회, 동남권 AC 네트워크 출범…누적 투자 3404억원 지역 생태계 연결",
+          "link": "https://www.venturesquare.net/1119499/",
+          "pubDate": "2026-10-13T12:45:49.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/SAI-789x444.jpg",
+          "summary": "초기투자액셀러레이터협회가 부산 FLY ASIA 2026과 연계해 동남권 액셀러레이터 커뮤니티 ‘사이(SAI)’의 첫 네트워킹 행사를 개최했다. 행사에서는 2025년 말 기준 국내 등록 AC 495개사, 누적 투자금액 4조5291억원 등 초기투자 업계 현황과 정책 변화를... The post 초기투자액셀러레이터협회, 동남권 AC 네트워크 출범…누적 투자 3404억원 지역 생태계 연결 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AC런치사이",
+            "FLYASIA2026",
+            "SAI",
+            "개인투자조합",
+            "공성현"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부, 스마트공장 6800곳 지원 넘어 제조 AI로…이소영 장관 “중소기업이 혁신 주역 돼야”",
+          "link": "https://www.venturesquare.net/1119456/",
+          "pubDate": "2026-10-13T12:03:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/3-9-783x522.jpg",
+          "summary": "이소영 중소벤처기업부 장관이 13일 스마트비즈엑스포 개막식과 경기 군포 디팜스테크를 방문해 중소 제조기업의 AI 전환 현황을 점검했다. 중기부는 2018년부터 60여 개 대기업·공기업과 협력해 약 6800개 중소기업의 스마트공장 구축을 지원했다. 디팜스테크는 AI를 활... The post 중기부, 스마트공장 6800곳 지원 넘어 제조 AI로…이소영 장관 “중소기업이 혁신 주역 돼야” appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI품질검사",
+            "디지털전환",
+            "디팜스테크",
+            "삼성전자",
+            "상생형스마트공장"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "KOC·경기창조경제혁신센터, 권영수 전 LG 부회장 초청…“경영은 사람의 마음을 얻는 일”",
+          "link": "https://www.venturesquare.net/1119445/",
+          "pubDate": "2026-10-13T11:58:26.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/KOC-789x474.jpg",
+          "summary": "KOC와 경기창조경제혁신센터가 13일 판교 기업지원허브 창업존에서 권영수 전 LG 부회장 초청 특강을 개최했다. 권 전 부회장은 ‘당신이 잘되길 바랍니다’를 주제로 경청과 공감, 실패와 위기 극복, 협력의 중요성을 강조했다. 이어진 토크쇼에서는 투자유치와 영업 확대, ... The post KOC·경기창조경제혁신센터, 권영수 전 LG 부회장 초청…“경영은 사람의 마음을 얻는 일” appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "KAISTOneClub",
+            "KOC",
+            "경기창조경제혁신센터",
+            "경영리더십",
+            "권영수"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "부산창조경제혁신센터, 팁스 첫 추천 6개사 전원 선정…기업당 최대 8억원 R&D 지원",
+          "link": "https://www.venturesquare.net/1119396/",
+          "pubDate": "2026-10-13T06:33:49.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/BUSAN-2-783x522.jpg",
+          "summary": "부산창조경제혁신센터가 2026년 팁스에 추천한 스타트업 6곳이 모두 최종 선정됐다. 2025년 10월 팁스 운영사 지정 이후 첫 추천 성과로, 선정 기업은 2년간 기업당 최대 8억원의 R&D 자금을 지원받을 수 있다. 선정 기업에는 사사사, 조벡스, 씨쓰리브이, 위트글... The post 부산창조경제혁신센터, 팁스 첫 추천 6개사 전원 선정…기업당 최대 8억원 R&D 지원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "TIPS",
+            "골든브레인케어",
+            "기술창업",
+            "김용우",
+            "부산창경"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "씨엔티테크, 기후·ESG 스타트업 투자유치 지원…최대 5억원 직접 투자 검토",
           "link": "https://www.venturesquare.net/1119378/",
@@ -1010,81 +1085,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "더인벤션랩, 두 달간 초기 스타트업 8곳 투자…이보커넥트·루티너리 팁스 선정까지",
-          "link": "https://www.venturesquare.net/1119350/",
-          "pubDate": "2026-10-13T06:22:36.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/unnamed-29-789x444.png",
-          "summary": "더인벤션랩이 2026년 8월부터 9월까지 AI 반도체, 첨단소재, 디지털 헬스케어, 콘텐츠 IP, F&B·라이프스타일 분야의 초기 스타트업 8곳에 신규 투자를 집행했다. 투자기업은 모두 시드~시드플러스 단계로, 하이퍼비주얼에이아이와 인피니티랩스, 더메디컬브릿지 등 다양... The post 더인벤션랩, 두 달간 초기 스타트업 8곳 투자…이보커넥트·루티너리 팁스 선정까지 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "TIPS",
-            "김진영",
-            "더메디컬브릿지",
-            "더인벤션랩",
-            "라이크플레이엑스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경기콘텐츠진흥원·텀블벅, 판교 직장인 위한 ‘회복 포션’ 팝업…아날로그 굿즈 4개 브랜드 전시",
-          "link": "https://www.venturesquare.net/1119323/",
-          "pubDate": "2026-10-13T05:45:11.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/content-2-371x522.jpg",
-          "summary": "경기콘텐츠진흥원이 텀블벅과 함께 10월 13일부터 11월 2일까지 판교 ‘POPUP7@판교’에서 팝업 전시 ‘오늘의 회복 포션’을 개최한다. 소용, 나란, 무의미의 탐색, 쿨리불리 등 4개 창작팀이 필사 책과 힐링 노트, 타로카드, 조명 오브제를 선보인다. 평일 점심시... The post 경기콘텐츠진흥원·텀블벅, 판교 직장인 위한 ‘회복 포션’ 팝업…아날로그 굿즈 4개 브랜드 전시 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "POPUP7",
-            "경기콘텐츠진흥원",
-            "나란",
-            "무의미의탐색",
-            "소용"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "초기투자액셀러레이터협회, FLY ASIA서 글로벌 투자자 연결…초기 스타트업 육성 가치 논의",
-          "link": "https://www.venturesquare.net/1119299/",
-          "pubDate": "2026-10-13T03:38:32.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/WAF-783x522.jpg",
-          "summary": "초기투자액셀러레이터협회가 지난 8일 부산 벡스코에서 열린 FLY ASIA 2026과 연계해 ‘World Startup Accelerator Forum’을 개최했다. 스타트업부트캠프의 기조발표를 시작으로 아시아·호주 투자자들이 초기 스타트업 육성과 크로스보더 투자의 가치... The post 초기투자액셀러레이터협회, FLY ASIA서 글로벌 투자자 연결…초기 스타트업 육성 가치 논의 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "BNIVentures",
-            "FLYASIA2026",
-            "GobiPartners",
-            "VSVCapital",
-            "WAF"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "원주의료기기산업진흥원, 인도네시아서 의료기기 65만5000달러 계약…국내 6개사 수출 지원",
-          "link": "https://www.venturesquare.net/1119166/",
-          "pubDate": "2026-10-12T13:11:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/2222-696x522.jpg",
-          "summary": "원주의료기기산업진흥원이 인도네시아 ‘Hospital Expo 2026’에 국내 의료기기 제조기업 6개사의 공동관 참가를 지원했다. 참가기업들은 44건의 상담을 통해 325만달러 규모의 수출 상담을 진행하고 4건, 총 65만5000달러의 계약 실적을 확보했다. 갈렙과 메... The post 원주의료기기산업진흥원, 인도네시아서 의료기기 65만5000달러 계약…국내 6개사 수출 지원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "HospitalExpo2026",
-            "K의료기기",
-            "WMIT",
-            "갈렙",
-            "글로벌시장진출"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:08.350Z",
+      "fetchedAt": "2026-10-13T17:22:08.755Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1092,6 +1095,57 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 - 법률신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUdIBckFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUQ?oc=5",
+          "pubDate": "2026-10-13T04:30:35.000Z",
+          "image": null,
+          "summary": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 법률신문",
+          "keywords": [
+            "2026년",
+            "ESS",
+            "중앙계약시장",
+            "입찰",
+            "공고"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부, 해외규격인증획득 지원사업 참여기업 모집(~11월13일) - 와우테일",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQ3ZFb3U3RUp0MFp4WlJNdlpRTjQtUGM4Z01yN1d5THBzbFU0NUN0TkJHU2hOWEdZYzFGTzI4VWlxSjNlQjFRNy1FcTBzOVE?oc=5",
+          "pubDate": "2026-10-13T04:29:37.000Z",
+          "image": null,
+          "summary": "중기부, 해외규격인증획득 지원사업 참여기업 모집(~11월13일) 와우테일",
+          "keywords": [
+            "중기부",
+            "해외규격인증획득",
+            "지원사업",
+            "참여기업",
+            "모집(~11월13일)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 - 글로벌뉴스통신GNA",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bEE5ZmFEWFU5RW91SVJvSlhKSXYxaE9tMzZFZjJEN3dtdUV5YnozZnF0WVJIOVRXMXZSWERuZ0lrTE1ta2JRUkIwWjA4OWF1cDREUENJU0tQa1E1dVZmRUt5SjZ1aTk1RDhvcWRMY0h6Yk1w?oc=5",
+          "pubDate": "2026-10-13T15:45:24.000Z",
+          "image": null,
+          "summary": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 글로벌뉴스통신GNA",
+          "keywords": [
+            "중기부",
+            "해외규격인증획득",
+            "지원사업",
+            "3차",
+            "참여기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중기부, 해외규격인증획득 지원사업 공모…최대 1억원 지원 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wcm10dTh4X0ZrczA0YWRZd2hnNGZMSnI1NVNmTnhwLWs5MjFiWFBkYWVCUUhwQkhCQ0N0NXhkeHZtVjhRa3p1YjZwcUU5bVBSUUlwUVBCMXFPT2xwRTRPTdIBYEFVX3lxTE1wcm10dTh4X0ZrczA0YWRZd2hnNGZMSnI1NVNmTnhwLWs5MjFiWFBkYWVCUUhwQkhCQ0N0NXhkeHZtVjhRa3p1YjZwcUU5bVBSUUlwUVBCMXFPT2xwRTRPTQ?oc=5",
@@ -1125,60 +1179,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 - 아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbllTLTdQbm1HcEgxbklFRHppbURSS2lvUUJmb0dOeEZBVVo1UGdnQ0FCQ0RpRHdCT3JINWZRbFdyRzcyOThuUF9sQlJJRVF3Rkt4YTFlTEVBenB1Q3lfZWl0WGJNdmg0ekF3QXRn?oc=5",
-          "pubDate": "2026-10-13T03:00:00.000Z",
-          "image": null,
-          "summary": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 아시아투데이",
-          "keywords": [
-            "중기부",
-            "해외규격인증획득",
-            "지원사업(3차)",
-            "참여기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 해외규격인증획득 지원사업 참여기업 모집(~11월13일) - 와우테일",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQ3ZFb3U3RUp0MFp4WlJNdlpRTjQtUGM4Z01yN1d5THBzbFU0NUN0TkJHU2hOWEdZYzFGTzI4VWlxSjNlQjFRNy1FcTBzOVE?oc=5",
-          "pubDate": "2026-10-13T04:29:37.000Z",
-          "image": null,
-          "summary": "중기부, 해외규격인증획득 지원사업 참여기업 모집(~11월13일) 와우테일",
-          "keywords": [
-            "중기부",
-            "해외규격인증획득",
-            "지원사업",
-            "참여기업",
-            "모집(~11월13일)"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 - 법률신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OTmtRb3pfMkc1UW9LNVI2Wkh0QTl4ekZKOHdvNXRCTXk4ZjJPTVpsMjh0UDU5NEJ6M0NkQmhjbUlVNWdoWUZyRE1uWU9sQVhkUmtNdk9TbDlKY3BXREZTSFBCaWhjZ1h6ODdjVFJ30gFyQVVfeXFMT2tIM3pXVTRlZjVIUTZ5RzdYWVRkekk4V0tTSmRyU0lEU2hpTFpRNEhHMnMySE1tM2VRWjk2Y0lheElCNTlibW5SWnZYS3JZMEtKWVFZWlBDRnc0NHh1NFVFSWJvRFdCMWpnczhmNWZtc09R?oc=5",
-          "pubDate": "2026-10-13T04:30:35.000Z",
-          "image": null,
-          "summary": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 법률신문",
-          "keywords": [
-            "2026년",
-            "ESS",
-            "중앙계약시장",
-            "입찰",
-            "공고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-13T08:58:08.867Z",
+      "fetchedAt": "2026-10-13T17:22:09.215Z",
       "error": null
     }
   },
@@ -1188,70 +1191,70 @@
       "label": "경제",
       "count": 6,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "tips",
       "label": "TIPS",
       "count": 3,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "중기부",
       "label": "중기부",
       "count": 4,
       "rank": 7,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 3,
+      "count": 4,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "해외규격인증획득",
       "label": "해외규격인증획득",
       "count": 3,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "3차",
+      "label": "3차",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
