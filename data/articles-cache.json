@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-14T14:53:51.609Z",
+  "collectedAt": "2026-10-14T19:59:10.871Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:33.341Z",
+      "fetchedAt": "2026-10-14T19:58:47.240Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 이사벨라 뱅크 코퍼레이션 (Isabella Bank Corporation) 의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:33.401Z",
+      "fetchedAt": "2026-10-14T19:58:47.353Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:34.451Z",
+      "fetchedAt": "2026-10-14T19:58:48.447Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,49 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "pubDate": "2026-10-14T12:00:00.000Z",
+          "image": null,
+          "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "AMP는 AI 에이전트가 OpenAI 모델에서 코드 이상의 작업을 수행하도록 합니다.",
+          "summaryKo": "Amp가 GPT-6 Astra, Ultrafast, GPT-Live-1 및 ChatGPT로 로그인하여 상담원이 할 수 있는 일의 최전선을 어떻게 밀어붙이는지 알아보세요."
+        },
+        {
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "link": "https://openai.com/index/sentinelone",
+          "pubDate": "2026-10-14T12:00:00.000Z",
+          "image": null,
+          "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+          "keywords": [
+            "SentinelOne",
+            "cuts",
+            "malware",
+            "analysis",
+            "from"
+          ],
+          "isForeign": true,
+          "titleKo": "SentinelOne은 악성 소프트웨어 분석을 몇 주에서 몇 시간으로 단축합니다.",
+          "summaryKo": "OpenAI Daybreak를 통해 SentinelOne은 몇 주에 걸친 악성 소프트웨어 분석을 몇 시간으로 단축하여 더 많은 위협을 조사할 수 있는 역량을 창출합니다."
+        },
+        {
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "link": "https://openai.com/index/third-moment-research",
+          "pubDate": "2026-10-14T07:00:00.000Z",
+          "image": null,
+          "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "Third Moment Research가 36시간 이상 10,000명의 상담원을 운영하는 방법",
+          "summaryKo": "사이버 보안을 위해 GPT-6 Astra 및 GPT-6.1 SOL, CODEX 및 DAYBREAK를 사용하는 이 AI 연구소는 며칠 동안 집중하고 사용으로 개선하는 에이전트를 구축합니다."
+        },
         {
           "title": "The EU’s next chapter in AI is agentic",
           "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
@@ -307,60 +350,9 @@
           "isForeign": true,
           "titleKo": "힉스필드는 AI 동영상을 1분에서 10분 이상",
           "summaryKo": "힉스필드는 GPT-6 Astra로 크리에이터에게 더 긴 동영상, GPT-Image-2.5로 정밀한 비주얼, GPT-Live로 음성 영화 제작의 길을 제시합니다."
-        },
-        {
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "link": "https://openai.com/index/sophos",
-          "pubDate": "2026-10-09T07:00:00.000Z",
-          "image": null,
-          "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "keywords": [
-            "Sophos",
-            "cuts",
-            "threat",
-            "investigation",
-            "time"
-          ],
-          "isForeign": true,
-          "titleKo": "Sophos, OpenAI Daybreak로 위협 조사 시간 96% 단축",
-          "summaryKo": "Sophos가 OpenAI의 Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축하고 MDR 사례의 52% 를 자동화하는 동시에 인적 감시를 유지하는 방법을 알아보세요."
-        },
-        {
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "link": "https://openai.com/index/asana-browser-agent",
-          "pubDate": "2026-10-09T07:00:00.000Z",
-          "image": null,
-          "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "keywords": [
-            "Asana",
-            "cuts",
-            "model",
-            "costs",
-            "76x"
-          ],
-          "isForeign": true,
-          "titleKo": "Asana, GPT-6.1 SOL로 브라우저 테스트에서 모델 비용 76배 절감",
-          "summaryKo": "Asana는 Codex에서 GPT-6 Astra를 사용하여 브라우저 에이전트를 76배 더 저렴하고 5배 더 빠르게 테스트하여 고객에게 더 유능한 모델을 제공했습니다."
-        },
-        {
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "link": "https://openai.com/index/oracle",
-          "pubDate": "2026-10-08T16:00:00.000Z",
-          "image": null,
-          "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-          "keywords": [
-            "How",
-            "Oracle",
-            "turns",
-            "days",
-            "of"
-          ],
-          "isForeign": true,
-          "titleKo": "오라클이 ChatGPT 및 CODEX를 통해 업무 시간을 분 단위로 전환하는 방법",
-          "summaryKo": "채용, 엔지니어링 및 운영 전반에 걸쳐 오라클은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다."
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:36.708Z",
+      "fetchedAt": "2026-10-14T19:58:53.514Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,90 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "스위스, 미성년자 대상 프로파일링 기반 광고 금지 제안",
-          "link": "https://news.hada.io/topic?id=35351",
-          "pubDate": "2026-10-14T14:37:46.000Z",
+          "title": "ASML의 수주 호조, AI 투자 붐 둔화 우려 완화",
+          "link": "https://news.hada.io/topic?id=35363",
+          "pubDate": "2026-10-14T19:47:54.000Z",
           "image": null,
-          "summary": "스위스 연방평의회가 통신 플랫폼 및 검색엔진 신법의 의견수렴 결과를 검토하고 후속 입법 문서 작성을 지시함 예비 법안에 아동 보호 조치를 추가할 예정임 신고 절차의 적용 범위를 불법으로 의심되는 모든 콘텐츠로 확대할 계획임...",
+          "summary": "ASML 고객들이 2028년 장비 주문을 대거 넣는 데 이어 2029~2030년 주문에도 관심을 보이면서, AI 투자 붐의 동력이 약해지고 있다는 우려가 완화됨 생산능력 확대는 기존 계획을 넘어설 전망임. ASML은 2027년과 2028년에 각각 30%씩 늘리기로 했지만, CEO Christ...",
           "keywords": [
-            "스위스",
-            "미성년자",
-            "대상",
-            "프로파일링",
-            "기반"
+            "ASML의",
+            "수주",
+            "호조",
+            "AI",
+            "투자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: 당신은 얼마나 무작위로 숫자를 고를 수 있나요?",
-          "link": "https://news.hada.io/topic?id=35350",
-          "pubDate": "2026-10-14T14:34:46.000Z",
+          "title": "Kid Pix의 탄생 이야기",
+          "link": "https://news.hada.io/topic?id=35362",
+          "pubDate": "2026-10-14T19:44:54.000Z",
           "image": null,
-          "summary": "1부터 9까지 숫자를 무작위로 말하면, 브라우저의 예측기가 다음 숫자를 얼마나 잘 맞히는지 확인하는 실험임 예측기는 사용자가 숫자를 말하기 전에 추측을 확정하고, 숫자를 말하면 봉투를 열어 예측값을 공개함 작은 예측기 10개를 동...",
+          "summary": "Kid Pix는 1988년 세 살 아들이 MacPaint의 메뉴와 읽을 수 없는 대화상자 때문에 좌절하는 모습을 본 Craig Hickman이 아이 혼자 쓸 수 있는 그림 프로그램을 만들면서 시작됨 설명서 없이 쓸 수 있는 인터페이스를 최우선에 두고, 완성된 그림만큼 그리는 과정도...",
           "keywords": [
-            "Show",
-            "HN:",
-            "당신은",
-            "얼마나",
-            "무작위로"
+            "Kid",
+            "Pix의",
+            "탄생",
+            "이야기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Amazon이 인터넷 전반의 가격을 끌어올린다",
-          "link": "https://news.hada.io/topic?id=35349",
-          "pubDate": "2026-10-14T13:33:51.000Z",
+          "title": "Google이 로그인된 모든 계정에 전화번호를 조용히 연결하고 있음",
+          "link": "https://news.hada.io/topic?id=35361",
+          "pubDate": "2026-10-14T19:41:53.000Z",
           "image": null,
-          "summary": "Amazon 판매자는 수수료와 부가 비용으로 매출의 절반 가까이를 내는 경우가 많으며, 상품 원가와 운영비를 충당하기 위해 판매 가격을 올려야 함 기본 판매 수수료 외에 배송 대행과 광고는 선택 사항이지만, 실제 판매를 위해서는 사실상 필수 비용에 가까움",
+          "summary": "Google은 Android 기기에 로그인된 모든 Google 계정에 전화번호를 자동으로 인증하고 연결하며, 별도의 명시적 확인을 요청하지 않음 전화번호 인증은 기본 활성화되는 옵트아웃 방식이며, Google은 2025년 8~10월 사이 지원 문서에 이 동작을 반영함 연...",
           "keywords": [
-            "Amazon이",
-            "인터넷",
-            "전반의",
-            "가격을",
-            "끌어올린다"
+            "Google이",
+            "로그인된",
+            "모든",
+            "계정에",
+            "전화번호를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "NeXT에서 돌아가는 Lotus Improv",
-          "link": "https://news.hada.io/topic?id=35348",
-          "pubDate": "2026-10-14T13:05:46.000Z",
+          "title": "사기가 나아질 때까지 되돌리기는 계속된다",
+          "link": "https://news.hada.io/topic?id=35360",
+          "pubDate": "2026-10-14T19:01:46.000Z",
           "image": null,
-          "summary": "Lotus Improv는 셀 좌표 대신 의미 있는 범주와 항목으로 데이터를 모델링하고, 데이터와 수식, 화면 구성을 분리한 스프레드시트임 공유 수식 하나를 전체 범주에 적용할 수 있으며, 이름 충돌과 수식 중복을 드러내 사용자가 직접 해결하도록 함",
+          "summary": "PostgreSQL 19는 베타 시작 이후 집계 방식에 따라 주요 기능 약 8~10개를 되돌렸으며, 일부는 베타 후반에 제외됨 LLM 보조 코드 리뷰가 과거에는 수년에 걸쳐 발견했을 경계 사례의 결함을 빠르게 찾아내면서, 이미 작성하고 커밋한 기능에 적용...",
           "keywords": [
-            "NeXT에서",
-            "돌아가는",
-            "Lotus",
-            "Improv"
+            "사기가",
+            "나아질",
+            "때까지",
+            "되돌리기는",
+            "계속된다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "프론트엔드 ai티를 많이 줄이는 법",
-          "link": "https://news.hada.io/topic?id=35347",
-          "pubDate": "2026-10-14T12:27:42.000Z",
+          "title": "Pg_vectorsearch - pgvector의 IVFFlat과 HNSW보다 빠른 인덱스",
+          "link": "https://news.hada.io/topic?id=35359",
+          "pubDate": "2026-10-14T18:48:31.000Z",
           "image": null,
-          "summary": "디자인 시스템을 먼저 만들어 색·버튼·표 같은 컴포넌트를 정의하고, 필요한 게 생기면 디자인 시스템에 먼저 추가한 다음, 화면은 그걸 가져다 짠다. 그러면 모든 화면의 일관성이 유지되고, 일관성이 유지되면 AI 티가 나지 않는다.",
+          "summary": "pg_vectorsearch는 PostgreSQL에서 고성능 근사 최근접 이웃(ANN) 검색을 제공하는 확장으로, C로 구현한 PRISM 인덱스를 사용함 PRISM은 pgvector의 IVFFlat과 HNSW보다 검색과 인덱스 구축이 빠르며, 1억 벡터 데이터셋에서는 메모리가 4분의 1...",
           "keywords": [
-            "프론트엔드",
-            "ai티를",
-            "많이",
-            "줄이는"
+            "Pg_vectorsearch",
+            "pgvector의",
+            "IVFFlat과",
+            "HNSW보다",
+            "빠른"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:37.293Z",
+      "fetchedAt": "2026-10-14T19:58:54.115Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -547,7 +540,7 @@
         }
       ],
       "fetchedAt": "2026-10-14T14:53:37.400Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -620,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:37.728Z",
+      "fetchedAt": "2026-10-14T19:58:54.823Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -701,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:37.829Z",
+      "fetchedAt": "2026-10-14T19:58:54.900Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -800,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:40.999Z",
+      "fetchedAt": "2026-10-14T19:58:57.413Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:41.300Z",
+      "fetchedAt": "2026-10-14T19:58:57.657Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -894,94 +887,94 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "TechCrunch Disrupt 2026: Day 2",
-          "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-          "pubDate": "2026-10-14T14:30:00.000Z",
+          "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+          "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+          "pubDate": "2026-10-14T19:00:00.000Z",
           "image": null,
-          "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+          "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
           "keywords": [
-            "TC",
+            "Hardware",
             "Startups",
-            "Climate",
-            "Fintech",
-            "Biotech & Health",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "테크크런치 디스럽트 2026: 2일차",
-          "summaryKo": "TechCrunch Disrupt 2026에서 2일차, AI, 투자자 전용 세션, 더 많은 라운드테이블 등 모든 테마로 가득합니다. 등록하고 이용권을 50% 할인받으세요."
-        },
-        {
-          "title": "NTangible bets it can predict how athletes will perform under pressure",
-          "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-          "pubDate": "2026-10-14T14:00:00.000Z",
-          "image": null,
-          "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-          "keywords": [
-            "Startups",
-            "Battlefield 200",
-            "Sports",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "유형 베팅은 선수들이 어떻게 압박을 받을지 예측할 수 있습니다.",
-          "summaryKo": "NTangible은 선수의 \"클러치\" 요인을 측정하기 위해 대학 스포츠 조직 및 기타 클럽을 위한 분석 플랫폼을 구축하고 있습니다."
-        },
-        {
-          "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-          "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-          "pubDate": "2026-10-14T11:00:00.000Z",
-          "image": null,
-          "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-          "keywords": [
-            "AI",
-            "Enterprise",
-            "Startups",
-            "Exclusive",
-            "hitachi",
-            "Scimplify"
-          ],
-          "isForeign": true,
-          "titleKo": "Scimplify, AI로 중요한 재료에 대한 중국의 손아귀에 도전하기 위해 $ 25M 모금",
-          "summaryKo": "Scimplify의 연간 매출 실행률은 미국 확장을 눈으로 볼 때 2억 달러 ($) 로 3배 증가했습니다."
-        },
-        {
-          "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-          "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-          "pubDate": "2026-10-13T20:00:00.000Z",
-          "image": null,
-          "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-          "keywords": [
-            "Climate",
-            "Startups",
-            "fusion power",
+            "health tracker",
             "Startup Battlefield 200",
             "TechCrunch Disrupt"
           ],
           "isForeign": true,
-          "titleKo": "Licube는 융합 전력 산업의 연료 공급업체가 되고자 합니다. TechCrunch Disrupt에서 방법을 확인하세요.",
-          "summaryKo": "핵융합 발전소는 많은 리튬이 필요할 것이며, Licube는 핵심 공급업체가 될 준비를 하고 있습니다."
+          "titleKo": "Hiyd는 이미 착용하고 있는 시계에 부착하는 헬스 트래커입니다.",
+          "summaryKo": "전직 Apple 엔지니어들은 자석이나 접착제 없이 생체 센서를 시계에 부착하는 방법을 알아냈습니다."
         },
         {
-          "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-          "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-          "pubDate": "2026-10-13T19:00:00.000Z",
+          "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+          "pubDate": "2026-10-14T18:00:00.000Z",
           "image": null,
-          "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+          "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
           "keywords": [
-            "Hardware",
             "Startups",
-            "TC",
-            "Batteries",
-            "Battlefield 200",
-            "chips"
+            "Security",
+            "AI",
+            "TechCrunch Disrupt",
+            "cybersecurity",
+            "Startup Battlefield 200"
           ],
           "isForeign": true,
-          "titleKo": "니오비아는 기술 분야에서 가장 비싼 실수 중 일부를 추측합니다.",
-          "summaryKo": "샌프란시스코의 스타트업은 배터리 및 칩 제조업체가 생산 라인의 결함을 식별하여 가동 중지 시간과 비용이 많이 드는 실수를 줄이는 것을 목표로 합니다."
+          "titleKo": "Apate는 사기 정보를 수집할 수 있도록 AI 상담원을 잠복으로 보내 사기를 당하게 합니다.",
+          "summaryKo": "대부분의 회사는 AI 에이전트를 사용하여 제품을 더 빠르게 배송하거나 워크플로우 속도를 높입니다. Apate.ai는 사기를 치기 위해 그들을 비밀리에 보냅니다."
+        },
+        {
+          "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+          "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+          "pubDate": "2026-10-14T17:00:00.000Z",
+          "image": null,
+          "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+          "keywords": [
+            "Biotech & Health",
+            "Startups",
+            "Battlefield 200",
+            "Mosqitter",
+            "mosquitos",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "Mosqitter는 모기 트랩을 AI 기반 감시 네트워크로 전환하고 있습니다.",
+          "summaryKo": "Mosqitter는 모기 포획 하드웨어를 종을 식별하고 개체수를 모니터링하며 모기 매개 질병 위험에 대한 조기 경고를 제공하도록 설계된 AI 기반 감시 네트워크로 전환하고 있습니다."
+        },
+        {
+          "title": "Prismm helps banks keep inherited money in-house",
+          "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+          "pubDate": "2026-10-14T16:00:00.000Z",
+          "image": null,
+          "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+          "keywords": [
+            "Fintech",
+            "Startups",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "Prismm은 은행이 상속받은 돈을 사내에 보관할 수 있도록 도와줍니다",
+          "summaryKo": "Prismm를 통해 계정 소유자는 지정된 가족 구성원이 자신의 계정과 문서에 미리 액세스할 수 있도록 할 수 있습니다."
+        },
+        {
+          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+          "pubDate": "2026-10-14T15:13:24.000Z",
+          "image": null,
+          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+          "keywords": [
+            "AI",
+            "Apps",
+            "Biotech & Health",
+            "Crypto",
+            "Fintech",
+            "Media & Entertainment"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 티켓을 50% 할인받고 지난 2일간 샌프란시스코 모스콘 웨스트에서 즐거운 시간을 보내세요",
+          "summaryKo": "10월 14일부터 15일까지 이틀간 샌프란시스코에서 TechCrunch Disrupt 2026을 50% 할인된 가격에 만나보세요. 지금 등록하고 나머지 스타트업 생태계에 참여하세요. 오늘날, 그것은 모두 물리적 및 소프트웨어 AI에 관한 것입니다."
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:46.706Z",
+      "fetchedAt": "2026-10-14T19:59:05.355Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1080,7 +1073,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:49.365Z",
+      "fetchedAt": "2026-10-14T19:59:07.788Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1157,97 +1150,97 @@
           "summaryKo": null
         },
         {
-          "title": "중소기업 해외인증 비용 최대 1.5억 지원…올해 마지막 참여기업 모집 - 뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzeFpMYzhoWktYWjk5WEdfSkhzSTV1SmlBTUo0ajU1MVdBSTZrSnVaSUtDaVNfM2xFdlVXY3hRWl9laUhmMVBzN1FJYTBoLURqb1hsTl9iU0hUX0h0?oc=5",
-          "pubDate": "2026-10-13T22:41:32.000Z",
+          "title": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 - 법률신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUdIBckFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUQ?oc=5",
+          "pubDate": "2026-10-13T04:30:35.000Z",
           "image": null,
-          "summary": "중소기업 해외인증 비용 최대 1.5억 지원…올해 마지막 참여기업 모집 뉴스1",
+          "summary": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 법률신문",
           "keywords": [
-            "중소기업",
-            "해외인증",
-            "비용",
-            "최대",
-            "5억"
+            "2026년",
+            "ESS",
+            "중앙계약시장",
+            "입찰",
+            "공고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:49.873Z",
+      "fetchedAt": "2026-10-14T19:59:08.327Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "투자",
+      "label": "투자",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "중기부",
       "label": "중기부",
       "count": 3,
-      "rank": 6,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
-      "rank": 7,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 8,
-      "change": "new"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "ir피칭",
       "label": "IR피칭",
       "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "앤트로픽",
-      "label": "앤트로픽",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1276,60 +1269,60 @@
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "startups",
-      "label": "Startups",
-      "count": 5,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
       "count": 4,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "뉴스"
     },
     {
-      "key": "statistics",
-      "label": "Statistics",
-      "count": 3,
-      "rank": 8,
-      "change": "up",
-      "labelKo": "스탯"
+      "key": "startups",
+      "label": "Startups",
+      "count": 4,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
-      "key": "youtube",
-      "label": "YouTube",
+      "key": "techcrunch disrupt",
+      "label": "TechCrunch Disrupt",
+      "count": 4,
+      "rank": 8,
+      "change": "new",
+      "labelKo": "TechCrunch Disrupt"
+    },
+    {
+      "key": "startup",
+      "label": "Startup",
       "count": 3,
       "rank": 9,
       "change": "new",
-      "labelKo": "유튜브"
+      "labelKo": "시동"
     },
     {
-      "key": "battlefield 200",
-      "label": "Battlefield 200",
-      "count": 2,
+      "key": "startup battlefield 200",
+      "label": "Startup Battlefield 200",
+      "count": 3,
       "rank": 10,
       "change": "new",
-      "labelKo": "Battlefield 200"
+      "labelKo": "스타트업 Battlefield 200"
     }
   ]
 }
