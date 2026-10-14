@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-14T19:59:10.871Z",
+  "collectedAt": "2026-10-14T23:07:20.511Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“집주인에 카톡 한줄 깜빡해 사달 났다”…전세보증보험도 ‘무쓸모’ 된다는데",
+          "link": "https://www.mk.co.kr/news/economy/12175691",
+          "pubDate": "2026-10-14T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.b5fdfcac6716433aaa7e68b78f0902e6_R.jpg",
+          "summary": "2개월전 계약종료 통지안했으면 HUG 반환보험 거절 당할수있어 거절사유 54%가 ‘종료 미통지’전세보증금 반환보증보험에 가입했더라도 집주인에게 계약 종료 의사를 제대로 알리지 않으..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“부모·자식 다 내 책임, 쓰러질 수도 없네요”…60대 연체율 4년새 두배로",
+          "link": "https://www.mk.co.kr/news/economy/12176319",
+          "pubDate": "2026-10-14T20:38:41.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261014.078c908be20c48a29c8820c965bde760_R.png",
+          "summary": "한은 2분기 가계부채 분석 연체율 0.7%서 1.5%로 급등 부실차주 20%가 60대 이상 소득 적어 금리인상 충격 커가구 제작회사를 운영하는 60대 초반 A씨는 거래처 부도로 매..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "건보료 아끼는 연금 포트폴리오 … 은퇴자가 알아야 할 3가지",
+          "link": "https://www.mk.co.kr/news/economy/12175663",
+          "pubDate": "2026-10-14T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261012.3e295bec4c5e4a6ca37c51116ec6d6d7_R.png",
+          "summary": "현실로 다가오는 건보료 폭탄61세 퇴직자 김 씨는 매달 통장을 보면 한숨만 나온다. 가뜩이나 소득이 줄어들어 불안한데, 매달 적지 않은 건강보험료가 통장에서 빠져나가고 있다. 직장..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "계란 공급에서 드러난 K관료들의 ‘포퓰리즘 담력’ [논설실 Pick]",
           "link": "https://www.mk.co.kr/news/economy/12176192",
           "pubDate": "2026-10-14T12:41:36.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] “국산차 왜 타냐?” 비웃던 테슬라 오너…2배 수리비에 말 없어졌다",
-          "link": "https://www.mk.co.kr/news/economy/12176050",
-          "pubDate": "2026-10-14T09:10:08.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.55853243904b4a2da24f0b2d3289bad2_R.png",
-          "summary": "500만원 이상 고액 수리 비중 16.1% 8개월 고액 수리건수, 작년 전체 추월테슬라 전기차의 보험 수리비가 현대자동차·기아 전기차의 두 배 수준인 것으로 나타났다. 수리비가 5..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "이형일 부총리, G7·G20 재무장관회의 참석차 출국",
-          "link": "https://www.mk.co.kr/news/economy/12175586",
-          "pubDate": "2026-10-14T09:04:00.000Z",
-          "image": null,
-          "summary": "올해 두 번째 G7장관회의 초청 IMF 등 국제금융기구 수장 회동 글로벌 3대 신용평가사 총괄 면담이형일 부총리 겸 재정경제부 장관이 국제통화기금(IMF)·세계은행(WB) 연차총회..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] 삼성·SK, 美웨스팅하우스 지분확보 전격 참여",
-          "link": "https://www.mk.co.kr/news/economy/12176030",
-          "pubDate": "2026-10-14T08:49:32.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/15/20261015_01160101000002_L00.jpg",
-          "summary": "삼성·SK·현대차·두산그룹 등으로 구성된 '팀 코리아'가 미국 원전 설계기업 웨스팅하우스에 대해 최대 4조원 규모의 지분 투자를 검토하고 나섰다. 한국전력·한국수력원자력 등 정부 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:47.240Z",
+      "fetchedAt": "2026-10-14T23:06:55.658Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 이사벨라 뱅크 코퍼레이션 (Isabella Bank Corporation) 의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:47.353Z",
+      "fetchedAt": "2026-10-14T23:06:55.761Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[10월14일] 챗GPT와 맞먹던 캐릭터닷AI가 4년 만에 파산한 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216239",
+          "pubDate": "2026-10-15T07:00:00.000Z",
+          "image": null,
+          "summary": "한때 챗GPT와 맞먹을 정도로 인기를 끌었던 캐릭터닷AI(Character.AI)가 결국 파산보호를 신청했습니다. 2022년 서비스를 시작한 지 불과 4년 만입니다. 특히 눈길을 끄는 것은 한때 빅테크들의 인수 대상으로 거론됐던 회사가 이제는 28곳의 잠재적 인수자와 접촉하고도 소송과 규제 위험 때문에 인수자를 찾지 못했다는 점입니다.캐릭터닷AI는 2022년 9월 서비스를 공개한 뒤 빠르게 성장했습니다. 이어 등장한 챗GPT가 질문에 답하고 정보를 제공하는 AI로 인기를 끌었다면, 캐릭터닷AI는 유명인이나 역사적 인물, 영화와 게임",
+          "keywords": [
+            "10월14일",
+            "챗GPT와",
+            "맞먹던",
+            "캐릭터닷AI가",
+            "4년"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "앤트로픽 \"소형 AI, IoT 기기 감염해 자율 복제하는 'AI 웜' 수준 도달\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216242",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Z.ai, 법률 특화 모델 'GLM-리걸' 출시...벤치마크서 '페이블 5' 제치고 1위",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216260",
-          "pubDate": "2026-10-14T17:12:36.000Z",
-          "image": null,
-          "summary": "중국 Z.ai(지푸 AI)가 법률 문서 분석부터 최종 결과물 작성까지 수행하도록 설계한 특화 모델을 선보였다. 법률 에이전트 성능 평가에서 앤트로픽의 '클로드 페이블 5'와 문샷 AI의 '키미 K3'를 앞서는 성적을 거뒀다. Z.ai는 12일 계약 검토와 증거 분석, 규정 준수 조사 등 법률 실무에 특화한 AI 모델 'GLM-리걸(GLM-Legal)'을 출시했다. GLM-리걸은 'GLM-5.3-플래시'를 기반으로 법률 업무에 맞게 추가 학습한 모델이다. 단순히 법률 질문에 답하는 데 그치지 않고, 문서에서 핵심 쟁점을 추출하고 관련",
-          "keywords": [
-            "ai",
-            "법률",
-            "특화",
-            "모델",
-            "GLM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:48.447Z",
+      "fetchedAt": "2026-10-14T23:06:57.126Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -326,6 +326,23 @@
           "summaryKo": "사이버 보안을 위해 GPT-6 Astra 및 GPT-6.1 SOL, CODEX 및 DAYBREAK를 사용하는 이 AI 연구소는 며칠 동안 집중하고 사용으로 개선하는 에이전트를 구축합니다."
         },
         {
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "link": "https://openai.com/index/block-ai-powered-security",
+          "pubDate": "2026-10-14T07:00:00.000Z",
+          "image": null,
+          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+          "keywords": [
+            "How",
+            "Block",
+            "is",
+            "building",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "블록이 OpenAI 기술로 AI 기반 보안을 구축하는 방법",
+          "summaryKo": "블록은 OpenAI로 AI 기반 보안을 구축하고 있습니다. 보안 팀은 위협을 더 빠르게 조사하고 몇 분 안에 패치를 제안합니다."
+        },
+        {
           "title": "The EU’s next chapter in AI is agentic",
           "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
           "pubDate": "2026-10-14T00:00:00.000Z",
@@ -337,22 +354,9 @@
           "isForeign": true,
           "titleKo": "AI에서 EU의 다음 장은 agentic입니다.",
           "summaryKo": "새로운 분석은 에이전트 AI 채택이 EU 기업과 중소기업에서 어떻게 성장하고 있는지, 그리고 더 깊은 사용이 더 많은 가치를 창출할 수 있는지를 보여줍니다."
-        },
-        {
-          "title": "Higgsfield takes AI video from 1 minute to over 10",
-          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-          "pubDate": "2026-10-13T12:00:00.000Z",
-          "image": null,
-          "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "힉스필드는 AI 동영상을 1분에서 10분 이상",
-          "summaryKo": "힉스필드는 GPT-6 Astra로 크리에이터에게 더 긴 동영상, GPT-Image-2.5로 정밀한 비주얼, GPT-Live로 음성 영화 제작의 길을 제시합니다."
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:53.514Z",
+      "fetchedAt": "2026-10-14T23:06:58.949Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "ASML의 수주 호조, AI 투자 붐 둔화 우려 완화",
-          "link": "https://news.hada.io/topic?id=35363",
-          "pubDate": "2026-10-14T19:47:54.000Z",
+          "title": "중년 남성 자살률, 역대 최고치 기록",
+          "link": "https://news.hada.io/topic?id=35370",
+          "pubDate": "2026-10-14T22:37:17.000Z",
           "image": null,
-          "summary": "ASML 고객들이 2028년 장비 주문을 대거 넣는 데 이어 2029~2030년 주문에도 관심을 보이면서, AI 투자 붐의 동력이 약해지고 있다는 우려가 완화됨 생산능력 확대는 기존 계획을 넘어설 전망임. ASML은 2027년과 2028년에 각각 30%씩 늘리기로 했지만, CEO Christ...",
+          "summary": "잉글랜드와 웨일스의 2025년 45~64세 남성 자살률이 인구 10만 명당 23.8명으로, 1981년 통계 수집 시작 이후 최고치를 기록함 50~54세 남성의 자살률은 10만 명당 28명으로 가장 높았으며, 전체 남성의 자살률은 여성의 3배를 넘음 전체 자살 사망 등록 ...",
           "keywords": [
-            "ASML의",
-            "수주",
-            "호조",
+            "중년",
+            "남성",
+            "자살률",
+            "역대",
+            "최고치"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Anthropic의 Scion은 Mononoke에서 큰 영향을 받음",
+          "link": "https://news.hada.io/topic?id=35369",
+          "pubDate": "2026-10-14T22:34:17.000Z",
+          "image": null,
+          "summary": "Anthropic의 새 버전 관리 시스템 Scion은 blame 같은 작업을 효율화하기 위해 ‘파생 데이터’를 사용하며, Mononoke 개발 참여자는 자신이 2022년에 소개한 Mononoke의 설계와 겹친다고 비판함 비판의 핵심은 설계 재사용 자체가 아니라 출처 인정 부족...",
+          "keywords": [
+            "Anthropic의",
+            "Scion은",
+            "Mononoke에서",
+            "영향을",
+            "받음"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Go 1.27의 HTTP/1 연결 재사용 개선",
+          "link": "https://news.hada.io/topic?id=35368",
+          "pubDate": "2026-10-14T21:42:04.000Z",
+          "image": null,
+          "summary": "Go 1.27의 net/http.Transport는 응답 본문을 닫을 때 읽지 않은 데이터가 남아 있으면 백그라운드에서 읽어 버려, HTTP/1 연결을 재사용할 수 있도록 함 자동으로 읽어 버리는 범위는 최대 50ms 또는 256KB로 제한하며, Connection: close 헤더가 있...",
+          "keywords": [
+            "Go",
+            "27의",
+            "HTTP/1",
+            "연결",
+            "재사용"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "은행들, 막 인수한 AI 데이터센터 부채를 매각하려 함",
+          "link": "https://news.hada.io/topic?id=35367",
+          "pubDate": "2026-10-14T21:39:03.000Z",
+          "image": null,
+          "summary": "JPMorgan, Morgan Stanley, SMBC, MUFG가 AI 대출 위험의 외부 이전을 검토 중임. AI 관련 익스포저가 은행 내부 한도에 가까워지면서 대출은 장부에 남기되 가장 위험한 부분을 외부 투자자에게 넘기려 함 JPMorgan과 MUFG 등이 참여한 은행단은 Oracle이 임차하는 데이터센터의",
+          "keywords": [
+            "은행들",
+            "인수한",
             "AI",
-            "투자"
+            "데이터센터",
+            "부채를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Kid Pix의 탄생 이야기",
-          "link": "https://news.hada.io/topic?id=35362",
-          "pubDate": "2026-10-14T19:44:54.000Z",
+          "title": "암 진단을 받았을 때 알아둘 것들, 2026년판",
+          "link": "https://news.hada.io/topic?id=35366",
+          "pubDate": "2026-10-14T21:36:03.000Z",
           "image": null,
-          "summary": "Kid Pix는 1988년 세 살 아들이 MacPaint의 메뉴와 읽을 수 없는 대화상자 때문에 좌절하는 모습을 본 Craig Hickman이 아이 혼자 쓸 수 있는 그림 프로그램을 만들면서 시작됨 설명서 없이 쓸 수 있는 인터페이스를 최우선에 두고, 완성된 그림만큼 그리는 과정도...",
+          "summary": "2026년 5월 구강 편평세포암 진단 경험을 바탕으로, 예약과 검사 진행을 환자가 직접 끈질기게 확인하고 후속 연락을 이어갈 것을 권함 AI가 증상의 심각성을 낮게 평가할 수 있음에 유의해야 함. 실제로 상담한 여러 모델 대부분이 한동안 암이 아니라는 방향으로...",
           "keywords": [
-            "Kid",
-            "Pix의",
-            "탄생",
-            "이야기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Google이 로그인된 모든 계정에 전화번호를 조용히 연결하고 있음",
-          "link": "https://news.hada.io/topic?id=35361",
-          "pubDate": "2026-10-14T19:41:53.000Z",
-          "image": null,
-          "summary": "Google은 Android 기기에 로그인된 모든 Google 계정에 전화번호를 자동으로 인증하고 연결하며, 별도의 명시적 확인을 요청하지 않음 전화번호 인증은 기본 활성화되는 옵트아웃 방식이며, Google은 2025년 8~10월 사이 지원 문서에 이 동작을 반영함 연...",
-          "keywords": [
-            "Google이",
-            "로그인된",
-            "모든",
-            "계정에",
-            "전화번호를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "사기가 나아질 때까지 되돌리기는 계속된다",
-          "link": "https://news.hada.io/topic?id=35360",
-          "pubDate": "2026-10-14T19:01:46.000Z",
-          "image": null,
-          "summary": "PostgreSQL 19는 베타 시작 이후 집계 방식에 따라 주요 기능 약 8~10개를 되돌렸으며, 일부는 베타 후반에 제외됨 LLM 보조 코드 리뷰가 과거에는 수년에 걸쳐 발견했을 경계 사례의 결함을 빠르게 찾아내면서, 이미 작성하고 커밋한 기능에 적용...",
-          "keywords": [
-            "사기가",
-            "나아질",
-            "때까지",
-            "되돌리기는",
-            "계속된다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Pg_vectorsearch - pgvector의 IVFFlat과 HNSW보다 빠른 인덱스",
-          "link": "https://news.hada.io/topic?id=35359",
-          "pubDate": "2026-10-14T18:48:31.000Z",
-          "image": null,
-          "summary": "pg_vectorsearch는 PostgreSQL에서 고성능 근사 최근접 이웃(ANN) 검색을 제공하는 확장으로, C로 구현한 PRISM 인덱스를 사용함 PRISM은 pgvector의 IVFFlat과 HNSW보다 검색과 인덱스 구축이 빠르며, 1억 벡터 데이터셋에서는 메모리가 4분의 1...",
-          "keywords": [
-            "Pg_vectorsearch",
-            "pgvector의",
-            "IVFFlat과",
-            "HNSW보다",
-            "빠른"
+            "진단을",
+            "받았을",
+            "알아둘",
+            "것들",
+            "2026년판"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:54.115Z",
+      "fetchedAt": "2026-10-14T23:06:59.874Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -453,6 +458,77 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 5 Branded Videos of the Week: Is this thumbnail culture?",
+          "link": "https://www.tubefilter.com/2026/10/14/top-5-branded-videos-mrbeast-hyogax-airrack-cleo-abram-novympia/",
+          "pubDate": "2026-10-14T22:41:31.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/eat-everything.jpg",
+          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And – as the […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Brands",
+            "Featured",
+            "Homepage Feature",
+            "News"
+          ],
+          "isForeign": true,
+          "titleKo": "금주의 5대 브랜드 동영상: 썸네일 문화인가요?",
+          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 들어보세요."
+        },
+        {
+          "title": "An encounter between hololive’s VTubers and Critical Role’s voice actors is rolling out",
+          "link": "https://www.tubefilter.com/2026/10/14/hololive-vtuber-critical-role-tabletop-rpg-shattered-legends/",
+          "pubDate": "2026-10-14T22:04:56.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/hololive-critical-role-shattered-legends.jpg",
+          "summary": "Here's a partnership I didn't have on my bingo card: Critical Role and hololive are teaming up. VTubers and voice actors will collide in Shattered Legends, an actual play series set within the confines of the tabletop RPG Daggerheart. Beginning in November 2026, Critical Role co-founder Matt Mercer will serve as the game master for an adventure that will unite one of the most popular streaming programs in the U.S. with a cultural phenomenon born in Japan. Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "VTuber",
+            "critical role"
+          ],
+          "isForeign": true,
+          "titleKo": "Hololive의 VTubers와 Critical Role의 성우들의 만남이 시작됩니다",
+          "summaryKo": "빙고 카드에는 없는 파트너십이 있습니다. Critical Role과 Hololive가 팀을 이룹니다. 탁상용 RPG Daggerheart의 범위 내에서 설정된 실제 플레이 시리즈인 Shattered Legends에서 VTubers와 성우가 충돌합니다. 2026년 11월부터 Critical Role의 공동 설립자 Matt Mercer는 미국에서 가장 인기 있는 스트리밍 프로그램 중 하나를 일본에서 탄생한 문화 현상과 결합하는 모험의 게임 마스터 역할을 하게 됩니다."
+        },
+        {
+          "title": "Cal’s Twitch studio for student-athletes shows that creator content is the new recruiting hack",
+          "link": "https://www.tubefilter.com/2026/10/14/university-of-california-berkeley-twitch-studio-student-athletes/",
+          "pubDate": "2026-10-14T21:37:03.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/cal-bears.jpg",
+          "summary": "Division I schools use new stadiums, locker room renovations, and booster perks to attract blue-chip prospects to their teams, but the University of California at Berkeley has figured out a forward-thinking way to feed the development of its student-athletes. The Bay Area institution has teamed up with StreamU and UnlimitedIRL to build a studio that athletes can use to stream content on Twitch. Amenities at the new facility include professional lighting, Canon and Sony cameras, a video switcher ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "college sports",
+            "NIL"
+          ],
+          "isForeign": true,
+          "titleKo": "학생 운동선수를 위한 CAL의 트위치 스튜디오는 크리에이터 콘텐츠가 새로운 모집 도구라는 것을 보여줍니다.",
+          "summaryKo": "Division I 학교는 팀에 블루칩 잠재 고객을 유치하기 위해 새로운 경기장, 라커룸 리노베이션 및 부스터 특전을 사용하지만 University of California at Berkeley는 학생 운동 선수의 발전을 지원할 수 있는 진취적인 방법을 알아냈습니다. Bay Area 기관은 StreamU 및 UnlimitedIRL과 협력하여 선수들이 Twitch에서 콘텐츠를 스트리밍하는 데 사용할 수 있는 스튜디오를 구축했습니다. 새로운 시설의 편의시설에는 전문 조명, 캐논 및 소니 카메라가 포함됩니다."
+        },
+        {
+          "title": "Druski will break new ground for creators by hosting ‘Saturday Night Live’",
+          "link": "https://www.tubefilter.com/2026/10/14/druski-saturday-night-live-snl-host-november-7/",
+          "pubDate": "2026-10-14T20:06:53.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/druski-getty.jpg",
+          "summary": "November 7 will be an historic night for Drew Desbordes. That's when Desbordes, whose 13.6 million Instagram followers know him as Druski, will become the first Saturday Night Live host who began his career as a social media content creator. After rising to prominence with his viral Instagram Live broadcasts, Druski became a multi-hyphenate creator who extended his \"Coulda Been\" brand through entrepreneurship, original programming, and strategic partnerships. His success with branded content has",
+          "keywords": [
+            "Articles",
+            "Comedy",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "druski"
+          ],
+          "isForeign": true,
+          "titleKo": "드루스키가 ‘새터데이 나이트 라이브‘ 를 개최해 크리에이터들에게 새로운 지평을 열 예정입니다.",
+          "summaryKo": "11월 7일은 드류 데스보르드에게 역사적인 밤이 될 것입니다. 1360만 명의 인스타그램 팔로워가 그를 Druski로 알고 있는 Desbordes는 소셜 미디어 콘텐츠 크리에이터로 커리어를 시작한 첫 번째 Saturday Night Live 호스트가 될 것입니다. Druski는 바이럴 Instagram Live 방송으로 명성을 얻은 후 기업가 정신, 독창적 인 프로그래밍 및 전략적 파트너십을 통해 \"Coulda Been\" 브랜드를 확장 한 다중 하이픈 크리에이터가되었습니다."
+        },
         {
           "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/11/2026",
           "link": "https://www.tubefilter.com/2026/10/13/top-50-most-subscribed-youtube-channels-week-of-10-11-2026/",
@@ -470,77 +546,10 @@
           "isForeign": true,
           "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 10월 11일 주간",
           "summaryKo": "글로벌 서브 톱 50의 리더인 Lucan Pevidor의 통치가 막을 내렸습니다. 브라질 크리에이터는 9월 한 달 동안 이 순위에서 1위를 차지했지만, 10월은 MrBeast가 빛을 발할 때입니다. 지미 도날드슨 (Jimmy Donaldson) 은 새로운 동영상과 파트너십을 통해 자신의 주요 채널에 주간 구독자 200만 명을 추가했습니다. 2위인 페비도르는 그 절반에 불과했다. Global Sub Top 50의 모든 채널은 최소 280,000 주간 구독을 추가했습니다."
-        },
-        {
-          "title": "Talk to the algorithm: Facebook is the latest platform to add a recommendation-altering chatbot for users",
-          "link": "https://www.tubefilter.com/2026/10/13/facebook-your-algorithm-ai-chatbot/",
-          "pubDate": "2026-10-13T22:38:27.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/Negative-Dynamic-Pills-Final_Version.png",
-          "summary": "Major social platforms just love their chatbots–because those chatbots mean users are now responsible for fixing their own recommendation algorithms, instead of big tech companies having to (gasp) pay people for code cleanup. YouTube did it, X did it, Instagram did it, and now Facebook joins the ranks. Its new “Your Algorithm” system asks users […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "알고리즘에 문의: Facebook은 사용자에게 권장 사항을 변경하는 챗봇을 추가하는 최신 플랫폼입니다.",
-          "summaryKo": "주요 소셜 플랫폼은 챗봇을 좋아합니다. 챗봇은 이제 거대 기술 회사가 사람들에게 코드 정리를 위해 비용을 지불하는 대신 사용자가 자신의 추천 알고리즘을 수정할 책임이 있음을 의미하기 때문입니다. 유튜브가 해냈고, X가 해냈고, 인스타그램이 해냈고, 이제 페이스북이 대열에 합류했습니다. 새로운 \"Your Algorithm\" 시스템은 사용자에게 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 제공합니다."
-        },
-        {
-          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 10/11/2026",
-          "link": "https://www.tubefilter.com/2026/10/13/top-50-most-viewed-youtube-channels-week-of-10-11-2026/",
-          "pubDate": "2026-10-13T22:25:22.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/flipkart-youtube.jpg",
-          "summary": "T-Series has been on a hot streak in the Global Top 50, but this week, the most-watched YouTube channel of all time could only manage a third-place finish in our weekly viewership ranking. U.S.-based channels Zack D. Films and MaviGadget surged past the Indian record label, with Zack recording 1.39 billion weekly views and taking first place. It's rare to see an independent creator like Zack at the front of the Global Top 50. That being said, not all entrants in the Global Top 50 are one-man sho",
-          "keywords": [
-            "Articles",
-            "Homepage Feature",
-            "News",
-            "Statistics",
-            "statistics",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 Top 50 • 2026년 10월 11일 주간",
-          "summaryKo": "T 시리즈는 글로벌 톱 50에서 뜨거운 인기를 누리고 있지만, 이번 주에는 역대 가장 많은 시청률을 기록한 유튜브 채널이 주간 시청률 순위에서 3위를 차지하는 데 그쳤습니다. 미국 채널 Zack D. Films와 MaviGadget은 Zack이 주간 조회수 13억 9천만 회를 기록하고 1위를 차지하면서 인도 레코드 레이블을 넘어 급증했습니다. Zack과 같은 독립 크리에이터가 글로벌 톱 50의 전면에 서는 것은 드문 일입니다. 그렇긴 하지만, Global To의 모든 참가자가"
-        },
-        {
-          "title": "Can YouTube’s €8.4 billion economic contribution get it a better deal in Europe?",
-          "link": "https://www.tubefilter.com/2026/10/13/youtube-2026-european-union-economic-impact-report/",
-          "pubDate": "2026-10-13T21:15:51.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/youtube-julian-shapiro-barnum.jpg",
-          "summary": "For the second year in a row, YouTube has brought its Economic Impact Report across the pond. The eminent platform broke down its capital contributions across Europe as part of its effort to promote more harmonious dealings with continental regulators and media companies. The report claims that YouTube's creator economy added €8.4 billion to the European gross domestic product (GDP) in 2025. That ecosystem supported more than 220,000 of what YouTube calls \"full-time equivalent\" jobs. Visit Tubef",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube",
-            "creator economy"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube의 € 84억 경제 기여가 유럽에서 더 나은 거래를 할 수 있을까요?",
-          "summaryKo": "2년 연속으로 YouTube는 경제 영향 보고서를 연못을 가로질러 가져왔습니다. 이 저명한 플랫폼은 대륙 규제 기관 및 미디어 회사와의 보다 조화로운 거래를 촉진하기 위한 노력의 일환으로 유럽 전역의 자본 기여를 무너뜨렸습니다. 이 보고서는 유튜브의 크리에이터 경제가 2025년 유럽 국내총생산 (GDP) 에 84억 달러 (€) 를 추가했다고 주장합니다. 그 생태계는 YouTube가 \"풀 타임 등가물\" 이라고 부르는 220,000 개 이상을 지원했습니다."
-        },
-        {
-          "title": "Have you heard? Pokimane at Chipotle, a Rooster Teeth reunion, and a Mike Tomlin Minecraft update.",
-          "link": "https://www.tubefilter.com/2026/10/09/have-you-heard-pokimane-chipotle-rooster-teeth-mike-tomlin-minecraft/",
-          "pubDate": "2026-10-09T23:00:29.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/mike-tomlin-minecraft.jpg",
-          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, the newest fast-casual menu item comes from a streaming star, two internet legends get into the Christmas spirit, and an NFL lifer takes another step into the Minecraft community. The biz The Pokimane Pollo Asado and Steak Bowl has arrived at Chipotle. Keith Lee and Salish Matter need to make some room in the burrito queue, because another",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "bendadonnn",
-            "Haley Kalil"
-          ],
-          "isForeign": true,
-          "titleKo": "들어보셨나요? 치폴레의 포키마네, 닭 이빨 동창회, 마이크 톰린 마인크래프트 업데이트.",
-          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 최신 패스트 캐주얼 메뉴 아이템은 스트리밍 스타에서 나오고, 두 명의 인터넷 전설이 크리스마스 분위기에 빠져들며, NFL 리프터가 마인크래프트 커뮤니티에 한 걸음 더 다가갑니다. Biz The Pokimane Pollo Asado and Steak Bowl이 Chipotle에 도착했습니다. 키스 리 (Keith Lee) 와 살리시 매터 (Salish Matter) 는 부리토 지구에 약간의 공간을 만들어야합니다."
         }
       ],
-      "fetchedAt": "2026-10-14T14:53:37.400Z",
-      "error": "HTTP 403"
+      "fetchedAt": "2026-10-14T23:07:06.221Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -613,7 +622,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:54.823Z",
+      "fetchedAt": "2026-10-14T23:07:07.054Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +703,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:54.900Z",
+      "fetchedAt": "2026-10-14T23:07:07.106Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +802,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:57.413Z",
+      "fetchedAt": "2026-10-14T23:07:10.568Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +887,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:58:57.657Z",
+      "fetchedAt": "2026-10-14T23:07:11.310Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -886,6 +895,56 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+          "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+          "pubDate": "2026-10-14T22:00:00.000Z",
+          "image": null,
+          "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+          "keywords": [
+            "Enterprise",
+            "Startups",
+            "databases",
+            "battlefield 20"
+          ],
+          "isForeign": true,
+          "titleKo": "CedarDB는 AI 에이전트가 스테이크를 올릴 때 하나의 데이터베이스가 트랜잭션과 분석을 모두 처리하기를 원합니다.",
+          "summaryKo": "데이터베이스는 전통적으로 분석 데이터 또는 운영 데이터를 위해 설계되었습니다. 그러나 데이터베이스 엔진 CedarDB는 이 두 가지를 모두 지원하며, 이 접근 방식은 에이전트 AI의 부상과 관련이 있습니다."
+        },
+        {
+          "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+          "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+          "pubDate": "2026-10-14T21:00:00.000Z",
+          "image": null,
+          "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+          "keywords": [
+            "Biotech & Health",
+            "Startups",
+            "AI",
+            "Colossal Biosciences"
+          ],
+          "isForeign": true,
+          "titleKo": "콜로설 바이오사이언스 (Colossal Biosciences) 가 멸종 방지 노력을 가속화하는 데 도움이 되는 새로운 AI 플랫폼을 발표했습니다.",
+          "summaryKo": "Colossal은 멸종 방지 노력을 가속화하는 데 도움이 되는 새로운 AI 플랫폼을 발표했으며 Peter Diamandis는 이를 사용하는 신생 기업을 지원하기 위한 새로운 펀드를 출시했습니다."
+        },
+        {
+          "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+          "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+          "pubDate": "2026-10-14T20:00:00.000Z",
+          "image": null,
+          "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+          "keywords": [
+            "Biotech & Health",
+            "Startups",
+            "battlefield 20",
+            "oncology",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "TimeTeller는 내부 시계를 맞춤 의학의 중심에 둡니다.",
+          "summaryKo": "독일 스타트업 타임텔러 (TimeTeller) 는 누구나 자신의 일주기 리듬을 이해하는 데 도움이 되는 타액 검사 키트를 개발했습니다. 이 키트는 암 치료로 인한 부작용을 줄이는 것을 목표로 합니다."
+        },
         {
           "title": "Hiyd is a health tracker that attaches to the watch you already wear",
           "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
@@ -920,61 +979,9 @@
           "isForeign": true,
           "titleKo": "Apate는 사기 정보를 수집할 수 있도록 AI 상담원을 잠복으로 보내 사기를 당하게 합니다.",
           "summaryKo": "대부분의 회사는 AI 에이전트를 사용하여 제품을 더 빠르게 배송하거나 워크플로우 속도를 높입니다. Apate.ai는 사기를 치기 위해 그들을 비밀리에 보냅니다."
-        },
-        {
-          "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-          "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-          "pubDate": "2026-10-14T17:00:00.000Z",
-          "image": null,
-          "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
-          "keywords": [
-            "Biotech & Health",
-            "Startups",
-            "Battlefield 200",
-            "Mosqitter",
-            "mosquitos",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Mosqitter는 모기 트랩을 AI 기반 감시 네트워크로 전환하고 있습니다.",
-          "summaryKo": "Mosqitter는 모기 포획 하드웨어를 종을 식별하고 개체수를 모니터링하며 모기 매개 질병 위험에 대한 조기 경고를 제공하도록 설계된 AI 기반 감시 네트워크로 전환하고 있습니다."
-        },
-        {
-          "title": "Prismm helps banks keep inherited money in-house",
-          "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-          "pubDate": "2026-10-14T16:00:00.000Z",
-          "image": null,
-          "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
-          "keywords": [
-            "Fintech",
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Prismm은 은행이 상속받은 돈을 사내에 보관할 수 있도록 도와줍니다",
-          "summaryKo": "Prismm를 통해 계정 소유자는 지정된 가족 구성원이 자신의 계정과 문서에 미리 액세스할 수 있도록 할 수 있습니다."
-        },
-        {
-          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-          "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-          "pubDate": "2026-10-14T15:13:24.000Z",
-          "image": null,
-          "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-          "keywords": [
-            "AI",
-            "Apps",
-            "Biotech & Health",
-            "Crypto",
-            "Fintech",
-            "Media & Entertainment"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch Disrupt 2026 티켓을 50% 할인받고 지난 2일간 샌프란시스코 모스콘 웨스트에서 즐거운 시간을 보내세요",
-          "summaryKo": "10월 14일부터 15일까지 이틀간 샌프란시스코에서 TechCrunch Disrupt 2026을 50% 할인된 가격에 만나보세요. 지금 등록하고 나머지 스타트업 생태계에 참여하세요. 오늘날, 그것은 모두 물리적 및 소프트웨어 AI에 관한 것입니다."
         }
       ],
-      "fetchedAt": "2026-10-14T19:59:05.355Z",
+      "fetchedAt": "2026-10-14T23:07:16.019Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -982,6 +989,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "경남창조경제혁신센터, ‘모두의 창업’ 지역오디션 개최…17개 팀 중 7개 팀 권역 진출",
+          "link": "https://www.venturesquare.net/1119972/",
+          "pubDate": "2026-10-14T13:26:58.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MODOO-2-696x522.jpg",
+          "summary": "경남창조경제혁신센터가 10월 13일부터 14일까지 창원에서 ‘모두의 창업 프로젝트’ 1차 2라운드 지역오디션을 개최했다. IT와 바이오·의료, 에너지 등 다양한 분야의 17개 창업팀이 공개 IR을 통해 초기 사업화 성과와 사업계획을 발표했다. 행사에는 시민과 투자사, ... The post 경남창조경제혁신센터, ‘모두의 창업’ 지역오디션 개최…17개 팀 중 7개 팀 권역 진출 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "IR피칭",
+            "경남스타트업",
+            "경남창조경제혁신센터",
+            "모두의창업",
+            "모두의창업프로젝트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경북창조경제혁신센터, 스타트업 9개사에 36.8억원 투자확약…투자매칭 데이 개최",
           "link": "https://www.venturesquare.net/1119945/",
@@ -1053,27 +1078,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "서울경제진흥원, 스타트업 M&A 성장전략 세미나 개최…기술가치평가부터 성공·실패 사례까지",
-          "link": "https://www.venturesquare.net/1119816/",
-          "pubDate": "2026-10-14T11:56:29.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/SBA-2-369x522.png",
-          "summary": "서울시와 서울경제진흥원이 오는 21일 서울창업허브 스케일업센터에서 창업기업의 성장전략 수립을 지원하는 ‘M&A 세미나’를 개최한다. 이번 행사에서는 M&A 시장 동향과 추진전략, 기술가치평가, 기업 합병·분할 등 실무 주제를 다룬다. M&A 성공 및 실패사례를 통해 창... The post 서울경제진흥원, 스타트업 M&A 성장전략 세미나 개최…기술가치평가부터 성공·실패 사례까지 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "M&A",
-            "SBA",
-            "기술가치평가",
-            "기업분할",
-            "기업합병"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:59:07.788Z",
+      "fetchedAt": "2026-10-14T23:07:19.033Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1099,26 +1106,9 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, 내달 13일까지 해외규격인증 지원사업 참여기업 모집 - 서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zRlB3WlY2alhWaFdBakxLOUNTMUJyQ1VEc25ER2ZPa19zempUZ3FqeTVBT2Zzc2lNR2JTOHd3YjNYczNfbmYtQmsxajRyVmE1dmx3SzQxS0lEc2J0TUpodnFzU25Yek5KUVE?oc=5",
-          "pubDate": "2026-10-13T23:41:15.000Z",
-          "image": null,
-          "summary": "중기부, 내달 13일까지 해외규격인증 지원사업 참여기업 모집 서울파이낸스",
-          "keywords": [
-            "중기부",
-            "내달",
-            "13일까지",
-            "해외규격인증",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "중기부, 해외규격인증 획득 지원사업 3차 모집 - 한국관세신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QaGpNNXRqV0l5N1dvVHdmcjdmWTdlTHoxQ0dzdGpVQ0pkNktvSnY4R01BdE5qcDJJQnRPOGt4aDlnbGpENURzT3BHaHo2RU4zQWxjMUtXMng1NEp3dDdHRFJ5aks2QVZaaTRV0gFrQVVfeXFMTlBoak01dGpXSXk3V29Ud2ZyN2ZZN2VMejFDR3N0alVDSmQ2S29KdjhHTUF0TmpwMklCdE84a3hoOWdsakQ1RHNPcEdoejZFTjNBbGMxS1cyeDU0Snd0N0dEUnlqSzZBVlppNFU?oc=5",
-          "pubDate": "2026-10-14T03:29:34.000Z",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1adjJzeXZ6WVJSLUtyd2dnSXkzdV9OeWtXMldDdlJudmVENTRta3Via29vRWN1QWJmclVVcGhnbzVoZ29oV1FzQTEtWkN3VG9vWHpjLU5RUGVmT2hIcFlwTEVVR2ZlQdIBa0FVX3lxTE5QaGpNNXRqV0l5N1dvVHdmcjdmWTdlTHoxQ0dzdGpVQ0pkNktvSnY4R01BdE5qcDJJQnRPOGt4aDlnbGpENURzT3BHaHo2RU4zQWxjMUtXMng1NEp3dDdHRFJ5aks2QVZaaTRV?oc=5",
+          "pubDate": "2026-10-14T02:45:32.000Z",
           "image": null,
           "summary": "중기부, 해외규격인증 획득 지원사업 3차 모집 한국관세신문",
           "keywords": [
@@ -1133,17 +1123,17 @@
           "summaryKo": null
         },
         {
-          "title": "화성산업진흥원, '수출 패키지 지원사업' 10개사 모집 - 인천일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpX2N6VlNidEt4LTVZZzNoM3FLWmdBdkNoQ281TS13VnBWd19GdENyalFTUF9pblkwLWFubGVSUXRBTzFmRklsSk1sQlhCWnQxWDI2UlVsbHRBcVhXSG1yMi1HUlFZMnYtZTVBSTFIcl8?oc=5",
-          "pubDate": "2026-10-14T01:20:00.000Z",
+          "title": "「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 - 벤처스퀘어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdmxVTDZfeWVGUXlEVnNjd2FVcWRFNldWYTlzMzN0QWlZSmlLbDN3Q2xnQnU2TzNRVWg0MzhnbUh2Zm9VeG5MdHhaVm9RejJSY09VRnc1OVN2ODlNRFFR?oc=5",
+          "pubDate": "2026-10-13T07:00:00.000Z",
           "image": null,
-          "summary": "화성산업진흥원, '수출 패키지 지원사업' 10개사 모집 인천일보",
+          "summary": "「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 벤처스퀘어",
           "keywords": [
-            "화성산업진흥원",
-            "수출",
-            "패키지",
+            "「2026",
+            "슈퍼:콘",
+            "엑셀러레이팅」",
             "지원사업",
-            "10개사"
+            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1165,9 +1155,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "중기부, 해외규격인증획득 지원사업 공모…최대 1억원 지원 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wcm10dTh4X0ZrczA0YWRZd2hnNGZMSnI1NVNmTnhwLWs5MjFiWFBkYWVCUUhwQkhCQ0N0NXhkeHZtVjhRa3p1YjZwcUU5bVBSUUlwUVBCMXFPT2xwRTRPTdIBYEFVX3lxTE1wcm10dTh4X0ZrczA0YWRZd2hnNGZMSnI1NVNmTnhwLWs5MjFiWFBkYWVCUUhwQkhCQ0N0NXhkeHZtVjhRa3p1YjZwcUU5bVBSUUlwUVBCMXFPT2xwRTRPTQ?oc=5",
+          "pubDate": "2026-10-13T03:00:03.000Z",
+          "image": null,
+          "summary": "중기부, 해외규격인증획득 지원사업 공모…최대 1억원 지원 연합뉴스",
+          "keywords": [
+            "중기부",
+            "해외규격인증획득",
+            "지원사업",
+            "공모",
+            "최대"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T19:59:08.327Z",
+      "fetchedAt": "2026-10-14T23:07:19.580Z",
       "error": null
     }
   },
@@ -1175,153 +1182,153 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
-      "rank": 1,
-      "change": "up"
-    },
-    {
-      "key": "투자",
-      "label": "투자",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 1,
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "ir피칭",
+      "label": "IR피칭",
+      "count": 3,
       "rank": 7,
-      "change": "down"
+      "change": "up"
     },
     {
       "key": "중기부",
       "label": "중기부",
       "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "ir피칭",
-      "label": "IR피칭",
+      "key": "앤트로픽",
+      "label": "앤트로픽",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 1,
+      "change": "new",
+      "labelKo": "AI"
+    },
+    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 1,
-      "change": "same",
+      "rank": 2,
+      "change": "down",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
-      "rank": 2,
-      "change": "same",
+      "rank": 3,
+      "change": "down",
       "labelKo": "애드 센스"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 5,
+      "rank": 4,
+      "change": "same",
+      "labelKo": "기사"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "홈페이지 기능"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 4,
-      "rank": 4,
-      "change": "up",
-      "labelKo": "기사"
-    },
-    {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
       "rank": 5,
-      "change": "up",
-      "labelKo": "다음을 따르세요"
+      "change": "down",
+      "labelKo": "홈페이지 기능"
     },
     {
       "key": "news",
       "label": "News",
-      "count": 4,
+      "count": 5,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
       "key": "startups",
       "label": "Startups",
-      "count": 4,
+      "count": 5,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
-      "key": "techcrunch disrupt",
-      "label": "TechCrunch Disrupt",
+      "key": "featured",
+      "label": "Featured",
       "count": 4,
       "rank": 8,
       "change": "new",
-      "labelKo": "TechCrunch Disrupt"
+      "labelKo": "추천 동영상"
     },
     {
-      "key": "startup",
-      "label": "Startup",
-      "count": 3,
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
       "rank": 9,
-      "change": "new",
-      "labelKo": "시동"
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "startup battlefield 200",
       "label": "Startup Battlefield 200",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "스타트업 Battlefield 200"
     }
   ]
