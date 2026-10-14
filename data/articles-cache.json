@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-14T03:39:13.202Z",
+  "collectedAt": "2026-10-14T09:17:58.888Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[단독] 금융권 비상인데…새마을금고, 해킹 당하고도 60시간 몰랐다",
-          "link": "https://www.mk.co.kr/news/economy/12175452",
-          "pubDate": "2026-10-14T02:34:01.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.c475b148fcc4431383857cc3e29d3d52_R.png",
-          "summary": "400여명 이름 등 개인정보 유출 외부서 공격 IP 공유받아 인지 금융권 해킹 경계령 내렸지만 계속되는 감독 사각지대 논란새마을금고가 해킹 공격을 당하고도 약 60시간 가까이 이를..",
+          "title": "[단독] “모르면 연 256만원씩 버리는 꼴”…온라인 주담대 갈아타기, 1800명만 했다",
+          "link": "https://www.mk.co.kr/news/economy/12176052",
+          "pubDate": "2026-10-14T09:13:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.bb82a5e461a7479cbc8710514c139316_R.png",
+          "summary": "연256만원 이자절감 효과에도 가계대출 관리강화에 실적 ‘뚝’온라인 대출 갈아타기 서비스를 통해 주택담보대출을 옮긴 차주가 올해 들어 85% 넘게 급감했다. 갈아타기에 따른 1인당..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "분양가 치솟자 ‘국민평형’ 외면…서울 청약 80%가 소형쏠림",
-          "link": "https://www.mk.co.kr/news/economy/12175392",
-          "pubDate": "2026-10-14T02:10:04.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.a5760118d6474aa19b3e9ee4dc3dac44_R.jpg",
-          "summary": "서울 84㎡ 포함 중형 청약 비중 11.5%로 급감 60㎡ 이하 소형은 79.8%…1년 새 19%P 상승 서울 3.3㎡당 분양가 6043만원…17.6% 올라 실수요는 소형·고자산가..",
+          "title": "[단독] “국산차 왜 타냐?” 비웃던 테슬라 오너…2배 수리비에 말 없어졌다",
+          "link": "https://www.mk.co.kr/news/economy/12176050",
+          "pubDate": "2026-10-14T09:10:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.55853243904b4a2da24f0b2d3289bad2_R.png",
+          "summary": "500만원 이상 고액 수리 비중 16.1% 8개월 고액 수리건수, 작년 전체 추월테슬라 전기차의 보험 수리비가 현대자동차·기아 전기차의 두 배 수준인 것으로 나타났다. 수리비가 5..",
           "keywords": [
             "경제"
           ],
@@ -67,11 +67,11 @@
           "summaryKo": null
         },
         {
-          "title": "증시 활황이었던 2분기…저축은행 소액대출 다시 ‘쑥’",
-          "link": "https://www.mk.co.kr/news/economy/12175390",
-          "pubDate": "2026-10-14T02:09:33.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261012.3ba4a05df0d14d3a8304538cfb8a9e1d_R.png",
-          "summary": "분기 증가세 800억원대로 고객 유치전에 금리도 내려올해 2분기 저축은행업권의 소액신용대출 취급액이 다시 가파르게 늘어난 것으로 나타났다. 증시 활황에 따른 투자 수요와 저축은행의..",
+          "title": "이형일 부총리, G7·G20 재무장관회의 참석차 출국",
+          "link": "https://www.mk.co.kr/news/economy/12175586",
+          "pubDate": "2026-10-14T09:04:00.000Z",
+          "image": null,
+          "summary": "올해 두 번째 G7장관회의 초청 IMF 등 국제금융기구 수장 회동 글로벌 3대 신용평가사 총괄 면담이형일 부총리 겸 재정경제부 장관이 국제통화기금(IMF)·세계은행(WB) 연차총회..",
           "keywords": [
             "경제"
           ],
@@ -80,11 +80,11 @@
           "summaryKo": null
         },
         {
-          "title": "섬박람회 논란 큰데 이번엔 K컬처 전시회?…117억 투입 지역행사 키운다",
-          "link": "https://www.mk.co.kr/news/economy/12175201",
-          "pubDate": "2026-10-14T00:23:07.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.3bc276385e9a44bfa6adc678f6d07b56_R.png",
-          "summary": "2030년까지 전시회 5개 이상 육성 첨단 제조산업·K-컬처 등 연계 계획 기존 전시장들 낮은 가동률은 문제정부가 2030년까지 국가·지역 대표 전시회를 5개 이상 육성하고 관련 ..",
+          "title": "삼성·SK, 美웨스팅하우스 지분확보 전격 참여",
+          "link": "https://www.mk.co.kr/news/economy/12176030",
+          "pubDate": "2026-10-14T08:49:32.000Z",
+          "image": null,
+          "summary": "삼성·SK·현대차·두산그룹 등으로 구성된 '팀 코리아'가 미국 원전 설계기업 웨스팅하우스에 대해 최대 4조원 규모의 지분 투자를 검토하고 나섰다. 한국전력·한국수력원자력 등 정부 ..",
           "keywords": [
             "경제"
           ],
@@ -93,11 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "롯데손보 품는 신한금융에 축하보다 우려…증권가 “이게 최선이었나” [오늘 나온 보고서]",
-          "link": "https://www.mk.co.kr/news/stock/12175145",
-          "pubDate": "2026-10-13T23:56:31.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.eb364c02ad614eb28e5e40b0c35bb76f_R.png",
-          "summary": "NH證·iM證 보고서 주주환원 악영향 제한적이나 보험사 빠른 회수가능성 낮아 추가증자 가능성도 부담으로증권가가 신한금융지주의 롯데손해보험 인수를 두고 기대와 우려 섞인 시선을 동..",
+          "title": "[단독] SK·삼성 ‘원전 동맹’…웨스팅하우스 4조지분 확보해 美진출",
+          "link": "https://www.mk.co.kr/news/business/12176026",
+          "pubDate": "2026-10-14T08:48:36.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20251204.7d335e5129844552935b9119129bf62e_R.png",
+          "summary": "민·관 원팀으로 최대 4조 투자, 지분 5~10% 규모 현대건설·두산도 참여…AI전력 수요 급증에 대응SK·삼성·현대·두산 등으로 구성된 ‘팀 코리아’가 미국 원전 설계기업 웨스팅..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:38:56.136Z",
+      "fetchedAt": "2026-10-14T09:17:44.684Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 이사벨라 뱅크 코퍼레이션 (Isabella Bank Corporation) 의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-14T03:38:56.197Z",
+      "fetchedAt": "2026-10-14T09:17:44.750Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "캐릭터닷AI, 파산 신청...디즈니에 270억 자산 매각 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216237",
-          "pubDate": "2026-10-14T11:58:29.000Z",
+          "title": "앤트로픽, 불법 증류 차단 고강도 방어 체계 도입...“추출 시도 최대 99% 감축”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216253",
+          "pubDate": "2026-10-14T17:58:10.000Z",
           "image": null,
-          "summary": "캐릭터닷AI(Character.AI)가 막대한 운영 비용과 잇따른 법적 분쟁을 견디지 못하고 파산 절차에 들어갔다. 디즈니는 캐릭터닷AI의 일부 지식재산권을 2000만달러(약 270억원)에 인수하기 위한 우선협상 입찰자로 나섰다. 활성 사용자 1200만명을 확보한 인기 플랫폼이지만, 수익성 악화와 청소년 안전 문제에 따른 소송이 겹치면서 사업 존속마저 불투명해졌다.로이터와 월스트리트저널(WSJ) 등에 따르면, 캐릭터닷AI는 13일(현지시간) 미국 델라웨어주 윌밍턴 파산법원에 자발적 파산보호 신청서(쳅터 11)를 제출했다.챕터 11은",
+          "summary": "앤트로픽이 AI 모델의 성능을 몰래 복제하는 ‘불법 증류’를 막기 위해 추론 데이터 보호와 공격 탐지 기능을 강화하고, 반복적으로 공격에 나선 계정을 대거 차단하는 등 대응 수위를 높이고 있다. 앤트로픽은 12일(현지시간) 자사 AI 모델 ‘클로드(Claude)’의 핵심 추론 능력을 무단으로 복제하는 불법 증류 공격을 차단하기 위해 방어 체계를 대폭 강화했다고 발표했다. 새로운 보안 조치를 통해 공격자들이 수집하는 추론 데이터양을 기존보다 약 90~99% 줄였다고 밝혔다. 증류는 성능이 뛰어난 AI 모델에서 대량의 응답 데이터를 수",
           "keywords": [
-            "캐릭터닷AI",
-            "파산",
-            "신청",
-            "디즈니에",
-            "270억"
+            "앤트로픽",
+            "불법",
+            "증류",
+            "차단",
+            "고강도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "CXMT 메모리 신기술 발표에 글로벌 반도체 증시 휘청...\"실효성은 의문\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216234",
-          "pubDate": "2026-10-14T11:48:04.000Z",
+          "title": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216246",
+          "pubDate": "2026-10-14T17:39:48.000Z",
           "image": null,
-          "summary": "중국 창신메모리(CXMT)가 메모리 집적도를 높이는 신기술 개발에 진전을 이뤘다고 발표하면서 글로벌 반도체주가 일제히 하락했다. 삼성전자와 SK하이닉스의 주가가 급락한 데 이어 미국 마이크론과 주요 데이터 저장장치 기업들도 약세를 보였다. 다만 업계에서는 양산 능력과 상용화 수준이 확인되지 않은 만큼 시장의 반응이 지나치다는 지적도 나온다.CNBC와 블룸버그 등에 따르면, CXMT는 9일 중국 상하이에서 열린 반도체 관련 행사에서 메모리 셀의 크기를 줄여 저장 밀도를 높이는 새로운 셀 아키텍처 개발에 상당한 진전을 이뤘다고 밝혔다.",
+          "summary": "구글이 로봇이 실제 환경을 이해하고 스스로 작업 방법을 개선하도록 돕는 AI 기술 개발에 나섰다. 물리 법칙과 3D 공간을 추론하고 가상 시뮬레이션에서 동작을 검증하는 방식으로, 로봇의 정교한 조작 능력과 작업 효율을 높이는 데 초점을 맞췄다. 구글은 13일(현지시간) 로봇의 물리적 상황 이해와 제어, 시뮬레이션 구축, 동작 개선을 지원하는 모델 ‘로보틱스용 제미나이 4 아르곤(Gemini 4 Argon for Robotics)’을 공개했다.영상과 3D 공간, 물리 법칙을 함께 추론해 로봇이 복잡한 작업을 수행하도록 돕는 모델로,",
           "keywords": [
-            "CXMT",
-            "메모리",
-            "신기술",
-            "발표에",
-            "글로벌"
+            "구글",
+            "물리",
+            "추론",
+            "강화한",
+            "로봇용"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "부여군 지티봉기 기념공원 조성사업, 항일의병 역사문화공간 조성",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216240",
-          "pubDate": "2026-10-14T11:40:00.000Z",
+          "title": "Z.ai, 법률 특화 모델 'GLM-리걸' 출시...벤치마크서 '페이블 5' 제치고 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216260",
+          "pubDate": "2026-10-14T17:12:36.000Z",
           "image": null,
-          "summary": "충청남도 부여군에 항일의병의 역사적 의미를 되새기고 선열들의 숭고한 희생정신을 기리기 위한 지티봉기 기념공원이 조성됐다. 이번 사업은 일제의 침략에 맞서 나라를 지키고자 했던 의병들의 발자취를 기억하고, 지역의 항일 역사를 후대에 전달하기 위한 역사문화공간 조성에 의미를 두고 있다.공원에 설치된 역사기록 아트월은 1906년 홍주의병의 항일투쟁을 중심으로 당시의 역사적 사건과 주요 인물, 의병 활동을 시각적으로 표현했다. 특히 홍주성 전투를 묘사한 역사화와 의병 진행도, 관련 문헌 및 기록자료를 함께 배치해 방문객들이 당시의 시대적",
+          "summary": "중국 Z.ai(지푸 AI)가 법률 문서 분석부터 최종 결과물 작성까지 수행하도록 설계한 특화 모델을 선보였다. 법률 에이전트 성능 평가에서 앤트로픽의 '클로드 페이블 5'와 문샷 AI의 '키미 K3'를 앞서는 성적을 거뒀다. Z.ai는 12일 계약 검토와 증거 분석, 규정 준수 조사 등 법률 실무에 특화한 AI 모델 'GLM-리걸(GLM-Legal)'을 출시했다. GLM-리걸은 'GLM-5.3-플래시'를 기반으로 법률 업무에 맞게 추가 학습한 모델이다. 단순히 법률 질문에 답하는 데 그치지 않고, 문서에서 핵심 쟁점을 추출하고 관련",
           "keywords": [
-            "부여군",
-            "지티봉기",
-            "기념공원",
-            "조성사업",
-            "항일의병"
+            "ai",
+            "법률",
+            "특화",
+            "모델",
+            "GLM"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "스타트업 '유연한', 글로벌 지원사업 선정…AI 기반 프로그램 운영 플랫폼 개발 박차",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216218",
-          "pubDate": "2026-10-14T09:00:00.000Z",
+          "title": "스페이스XSI, X·그록·커서 통합한 월 구독 패키지 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216258",
+          "pubDate": "2026-10-14T17:07:35.000Z",
           "image": null,
-          "summary": "AI 기반 프로그램 운영 플랫폼을 개발하는 스타트업 '유연한'이 '글로벌 스타트업 창업사업화 지원사업'에 선정되어 제품 개발과 시장 검증 등 사업화 작업에 착수했다고 14일 밝혔다.유연한은 이번 사업으로 확보한 지원을 바탕으로 기획 단계에 있던 프로그램 운영 플랫폼을 실제 제품으로 구현하고 시장 적용이 가능한 서비스로 고도화하는 데 집중하고 있다. 전담 매니저의 가이드와 전문가 멘토링을 활용해 제품 개발 방향을 구체화하고 있으며, 전문가 피드백을 바탕으로 서비스 개선점과 시장 진입 전략을 점검하는 동시에 초반 인지도 제고를 위한 홍",
+          "summary": "스페이스XSI가 그록과 커서, X 프리미엄을 결합한 상품을 선보이며 AI 서비스 구독 시장에서 오픈AI와 앤트로픽에 도전장을 내밀었다. 스페이스XSI는 13일(현지시간) X의 유료 서비스와 AI 챗봇 '그록', AI 코딩 도구 '커서'를 하나로 묶은 통합 구독 상품 'X 구독(The X Subscription)'을 출시했다.개별 서비스로 나뉘어 있던 구독 체계를 통합해 사용자 선택의 폭을 넓히고, 오픈AI와 앤트로픽 등 경쟁사와의 유료 AI 시장 경쟁에서 우위를 확보하려는 전략이다.새 구독 상품은 그록의 AI 채팅 기능과 에이전트형",
           "keywords": [
-            "스타트업",
-            "유연한",
-            "글로벌",
-            "지원사업",
-            "선정"
+            "스페이스XSI",
+            "그록",
+            "커서",
+            "통합한",
+            "구독"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "글로벌 AI 3대 강국 향한 'K-문샷 반도체 미션' 본격 시동",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216204",
-          "pubDate": "2026-10-14T09:00:00.000Z",
+          "title": "[게시판] 롯데이노베이트, CMC그룹과 베트남 데이터센터 사업 확장 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216266",
+          "pubDate": "2026-10-14T17:00:00.000Z",
           "image": null,
-          "summary": "\"성능과 전력의 한계를 허무는 차세대 반도체 원천기술 확보를 목표로 한 차세대 반도체 기술혁신으로 '글로벌 AI 3대 강국(G3)' 도약을 일군다.\"과학기술정보통신부는 14일 서울 정동 달개비에서 'K-문샷 반도체' 운영위원회와 기술위원회를 출범하고, 산·학·연 전문가들과 ▲K-문샷 반도체 미션 및 기술로드맵 ▲향후 추진방향 등을 논의한다고 밝혔다.K-문샷은 AI와 과학기술을 융합, 국가적 임무를 해결하고 과학기술 혁신을 가속화하는 프로그램이다. 12대 미션 중 하나인 '반도체 미션'은 '일상 속 모든 기기에서 성능과 전력의 한계를",
+          "summary": "■ 롯데이노베이트(대표 김경엽)는 베트남 하노이에서 현지 IT 기업 CMC그룹과 전략적 사업 협력을 위한 업무협약(MOU)을 체결했다고 밝혔다. 양사는 하이퍼스케일 데이터센터, 전기차 충전사업(CPO), 사이버보안, 오프쇼어 IT 서비스, 클라우드 등 5개 분야에서 협력 기회를 모색한다. 국내에서 쌓은 데이터센터 설계·구축·운영(DBO) 역량을 바탕으로 베트남 하이퍼스케일 데이터센터 시장 진출을 검토할 계획이다.■ 카테노이드(대표 김형석)는 클라우드 기반 라이브 스트리밍 플랫폼 '콜러스 라이브'에 AI 음성인식(STT) 기반 실시간",
           "keywords": [
-            "글로벌",
-            "AI",
-            "3대",
-            "강국",
-            "향한"
+            "게시판",
+            "롯데이노베이트",
+            "CMC그룹과",
+            "베트남",
+            "데이터센터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:38:57.164Z",
+      "fetchedAt": "2026-10-14T09:17:46.190Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -360,7 +360,7 @@
           "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra 및 GPT ‑ Image ‑ 2.5를 통해 크리에이터가 대담한 아이디어를 세부 이미지와 시네마틱 동영상 광고로 전환할 수 있도록 지원합니다."
         }
       ],
-      "fetchedAt": "2026-10-14T03:38:57.317Z",
+      "fetchedAt": "2026-10-14T09:17:46.356Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,91 +369,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Apple, 새 ‘Switch to Safari’ 캠페인으로 Chrome을 떠나야 할 이유 소개",
-          "link": "https://news.hada.io/topic?id=35327",
-          "pubDate": "2026-10-14T02:32:56.000Z",
+          "title": "ZX Spectrum용 데모씬 인트로 만들기",
+          "link": "https://news.hada.io/topic?id=35337",
+          "pubDate": "2026-10-14T08:44:54.000Z",
           "image": null,
-          "summary": "Apple이 ‘Switch to Safari’ 웹페이지와 YouTube 영상 2개를 공개하며, Chrome보다 강력하고 개인정보 보호에 유리한 브라우저로 Safari를 홍보함 Apple이 내세운 배터리 이점은 Mac에서 Chrome 대비 최대 5시간 더 긴 동영상 스트리밍임 Apple에 따르면...",
+          "summary": "기본 사양의 128KB ZX Spectrum에서 부드러운 스크롤 텍스트, 3채널 AY 음악, VU 미터, 시차 효과가 있는 별 배경을 구현한 인트로를 완성함 Z80 어셈블리로 화면 메모리와 하드웨어를 직접 다뤘으며, 비선형 화면 배치와 프레임당 처리 시간 제약이 구현의 주요 난...",
           "keywords": [
-            "Apple",
-            "Switch",
-            "to",
-            "Safari",
-            "캠페인으로"
+            "ZX",
+            "Spectrum용",
+            "데모씬",
+            "인트로",
+            "만들기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "로보틱스를 위한 Gemini 4 Argon",
-          "link": "https://news.hada.io/topic?id=35326",
-          "pubDate": "2026-10-14T01:34:07.000Z",
+          "title": "테크 업계를 떠나며",
+          "link": "https://news.hada.io/topic?id=35336",
+          "pubDate": "2026-10-14T08:41:54.000Z",
           "image": null,
-          "summary": "Gemini 4 Argon은 물리 추론, 코드 생성, 시각적 의미 추론을 결합해 로봇 제어부터 시뮬레이션 구축, 데이터 주석, 연구와 자기 개선까지 지원함 3D 환경의 물리적 공간 문제 해결 능력을 평가하는 ERQA 벤치마크에서 순수 추론으로 87% 를 기록...",
+          "summary": "Ryan Bigg가 테크 업계를 떠나기로 함. 36곳 넘게 지원해 24곳에서 거절을 받았고, 반복되는 채용 거절로 큰 정신적 고통을 겪고 있음 20년의 개발 경력에 프로그래밍 서적 집필, 발표, 행사 운영 경험이 있으며, 다운로드 수가 가장 많은 Ruby 패키지 중 2개를 유...",
           "keywords": [
-            "로보틱스를",
-            "위한",
-            "Gemini",
-            "Argon"
+            "테크",
+            "업계를",
+            "떠나며"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 자신이 독서를 기록하고 공유하는 사이트",
-          "link": "https://news.hada.io/topic?id=35324",
-          "pubDate": "2026-10-14T01:21:59.000Z",
+          "title": "AOSP 소스 공개가 너무 늦어 개발자들이 버그 신고를 위해 라이브러리를 역어셈블함",
+          "link": "https://news.hada.io/topic?id=35335",
+          "pubDate": "2026-10-14T08:38:54.000Z",
           "image": null,
-          "summary": "요즘 독서에 빠지면서 직접 기록하는 사이트를 만들어보고자 진행한 프로젝트입니다. 블로그에 독후감을 기록하듯이 자신이 읽은 책을 기록하며 남들과 공유할 수 있고, 다른 사람들은 어떤 책들을 읽는지 자유롭게 탐방할 수 있습니다.",
+          "summary": "Android 17의 2026년 9월 빌드에서 wcscspn()과 wcspbrk()의 유니코드 처리 오류가 확인됨. 공개 소스와 실제 탑재 코드가 달라 신고자는 배포된 libc.so를 역어셈블해 원인을 분석함 검색 대상 집합이 U+0100 미만 문자 두 개 이상...",
+          "keywords": [
+            "AOSP",
+            "소스",
+            "공개가",
+            "너무",
+            "늦어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: TV 리모컨 - 폰으로 삼성·LG·소니·구글 TV를 조작하는 무료 안드로이드 앱",
+          "link": "https://news.hada.io/topic?id=35334",
+          "pubDate": "2026-10-14T08:20:21.000Z",
+          "image": null,
+          "summary": "안녕하세요. 폰으로 TV를 조작하는 리모컨 앱을 만들어서 소개드려요. 같은 와이파이에 있는 TV를 앱이 알아서 찾아서, 삼성·LG·소니·안드로이드 TV·구글 TV(크롬캐스트)를 브랜드 고르지 않고 바로 연결해요. 처음 한 번만 TV 화면에서 「허용」을 누르거나 숫자를 넣으면 다음부터는 그냥 붙어요. 가입이나",
           "keywords": [
             "Show",
             "GN:",
-            "자신이",
-            "독서를",
-            "기록하고"
+            "TV",
+            "리모컨",
+            "폰으로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AesCode - 이미지의 디자인을 참고해 HTML/CSS를 생성하는 AI 모델",
-          "link": "https://news.hada.io/topic?id=35322",
-          "pubDate": "2026-10-14T00:40:02.000Z",
+          "title": "MIT 수업 프로젝트, FDA 허가를 받은 떨림 치료 기기로 발전",
+          "link": "https://news.hada.io/topic?id=35333",
+          "pubDate": "2026-10-14T06:32:27.000Z",
           "image": null,
-          "summary": "슬라이드와 포스터, 대시보드를 수정 가능한 HTML/CSS로 생성하는 Microsoft의 AI 모델 이미지 생성 모델이 만든 참고 이미지에서 레이아웃과 스타일을 가져오고, 문구와 수치는 프롬프트를 기준으로 생성하도록 학습 결과물은 완전한 HTML 문서로 출력, ...",
+          "summary": "Encora Therapeutics의 손목 착용형 기기가 2026년 2월 성인 본태성 떨림 치료용으로 FDA 510(k) 허가를 받음. 2017년 MIT 제품 설계 수업에서 시작해 약 9년 만에 이룬 성과임 손목에 가하는 기계적 진동으로 감각 수용체를 자극하고 신경계를 통...",
           "keywords": [
-            "AesCode",
-            "이미지의",
-            "디자인을",
-            "참고해",
-            "HTML/CSS를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "영국의 1인당 전력 생산량, 1970년대보다 적어짐",
-          "link": "https://news.hada.io/topic?id=35321",
-          "pubDate": "2026-10-14T00:34:00.000Z",
-          "image": null,
-          "summary": "영국의 1인당 전력 생산량은 2003년 정점 이후 3분의 1 넘게 감소해, 현재 1960년대 후반 수준으로 돌아감 이와 반대로 전 세계 1인당 전력 생산량은 이번 세기 들어 50% 넘게 증가함 발전량 감소의 일부는 전력 순수입 증가에 따른 것이...",
-          "keywords": [
-            "영국의",
-            "1인당",
-            "전력",
-            "생산량",
-            "1970년대보다"
+            "MIT",
+            "수업",
+            "프로젝트",
+            "FDA",
+            "허가를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:38:57.918Z",
+      "fetchedAt": "2026-10-14T09:17:47.091Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -547,7 +546,7 @@
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 최신 패스트 캐주얼 메뉴 아이템은 스트리밍 스타에서 나오고, 두 명의 인터넷 전설이 크리스마스 분위기에 빠져들며, NFL 리프터가 마인크래프트 커뮤니티에 한 걸음 더 다가갑니다. Biz The Pokimane Pollo Asado and Steak Bowl이 Chipotle에 도착했습니다. 키스 리 (Keith Lee) 와 살리시 매터 (Salish Matter) 는 부리토 지구에 약간의 공간을 만들어야합니다."
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:05.513Z",
+      "fetchedAt": "2026-10-14T09:17:47.162Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -621,7 +620,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:05.785Z",
+      "fetchedAt": "2026-10-14T09:17:47.323Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -702,7 +701,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:05.891Z",
+      "fetchedAt": "2026-10-14T09:17:47.375Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -801,7 +800,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:10.080Z",
+      "fetchedAt": "2026-10-14T09:17:54.213Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -810,75 +809,74 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "[이달의 TIPS] 택로봇, 티알, 엔닷라이트",
-          "link": "https://platum.kr/archives/296022?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25eb%258b%25ac%25ec%259d%2598-tips-%25ed%2583%259d%25eb%25a1%259c%25eb%25b4%2587-%25ed%258b%25b0%25ec%2595%258c-%25ec%2597%2594%25eb%258b%25b7%25eb%259d%25bc%25ec%259d%25b4%25ed%258a%25b8",
-          "pubDate": "2026-10-13T06:59:08.000Z",
+          "title": "카메라 기반 자율주행 AI 모티프드라이브, 65억 투자 유치… 내년 초 실차 데모",
+          "link": "https://platum.kr/archives/296212?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc-%25ea%25b8%25b0%25eb%25b0%2598-%25ec%259e%2590%25ec%259c%25a8%25ec%25a3%25bc%25ed%2596%2589-ai-%25eb%25aa%25a8%25ed%258b%25b0%25ed%2594%2584%25eb%2593%259c%25eb%259d%25bc%25ec%259d%25b4%25eb%25b8%258c-65%25ec%2596%25b5-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0",
+          "pubDate": "2026-10-14T07:02:15.000Z",
           "image": null,
-          "summary": "중소벤처기업부가 주관하는 팁스(TIPS, Tech Incubator Program for Startup)는 성장 가능성이 높이 평가되는 스타트업을 정부와 민간 투자사가 함께 발굴해 지원하는 민간 투자 주도형 기술 창업 지원 프로그램이다. 선정된 기업은 기술적으로 검증되었단 평가를 받는다. 최근 한 달(대외 공개 기준) 다수의 스타트업이 이 프로그램에 선정되었다. 택로봇 로봇 손이 물건을 쥘 때 압력과 미끄러짐을 감지하는 촉각센서를 개발하는 택로봇이 소풍벤처스의 ... 더 읽기",
+          "summary": "카메라 영상으로 차량 주행을 판단하는 자율주행 소프트웨어 스타트업 모티프드라이브가 65억원 규모의 투자를 유치했다. 이번 투자에는 엠와이소셜컴퍼니(MYSC), 토니인베스트먼트, 케이런벤처스, BSK인베스트먼트 등이 참여했다. 모티프드라이브는 투자금으로 자율주행 AI를 고도화하고 실제 차량에서 성능을 검증할 계획이다. 2024년 8월 설립된 모티프드라이브는 ‘엔드투엔드(E2E)’ 방식의 자율주행 기술을 개발한다. 도로 인식, 주변 차량의 움직임 예측, 주행 경로 결정을 각각 따로 만들지 않고, 카메라 영상과 ... 더 읽기",
           "keywords": [
-            "스타트업",
-            "TIPS",
-            "엔닷라이트",
-            "택로봇",
-            "티알"
+            "투자",
+            "BSK인베스트먼트",
+            "모티프드라이브",
+            "엠와이소셜컴퍼니",
+            "케이런벤처스",
+            "토니인베스트먼트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "부동산 매매 다섯 달째 감소, 서울 아파트 거래 급감",
-          "link": "https://platum.kr/archives/296132?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b6%2580%25eb%258f%2599%25ec%2582%25b0-%25eb%25a7%25a4%25eb%25a7%25a4-%25eb%258b%25a4%25ec%2584%25af-%25eb%258b%25ac%25ec%25a7%25b8-%25ea%25b0%2590%25ec%2586%258c-%25ec%2584%259c%25ec%259a%25b8-%25ec%2595%2584%25ed%258c%258c%25ed%258a%25b8-%25ea%25b1%25b0%25eb%259e%2598-%25ea%25b8%2589%25ea%25b0%2590",
-          "pubDate": "2026-10-13T06:51:03.000Z",
+          "title": "[BLT칼럼] AI 시대, 누구나 발명가가 되는 착시",
+          "link": "https://platum.kr/archives/296208?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-ai-%25ec%258b%259c%25eb%258c%2580-%25eb%2588%2584%25ea%25b5%25ac%25eb%2582%2598-%25eb%25b0%259c%25eb%25aa%2585%25ea%25b0%2580%25ea%25b0%2580-%25eb%2590%2598%25eb%258a%2594-%25ec%25b0%25a9%25ec%258b%259c",
+          "pubDate": "2026-10-14T06:51:56.000Z",
           "image": null,
-          "summary": "지난 8월 전국 부동산 매매거래량이 7만2,976건으로 2025년 1월 이후 가장 적었다. 부동산플래닛이 국토교통부 실거래가 자료를 분석한 ‘2026년 8월 전국 부동산 유형별 매매시장 동향’에 따르면, 8월 거래량은 7월(8만5,163건)보다 14.3% 줄며 5개월 연속 감소했다. 거래금액은 28조8,532억원으로 7월(37조5,174억원)보다 23.1% 줄어 2개월 연속 감소했다. 지난해 8월과 비교하면 거래량은 6.9% 적었고 거래금액은 3.1% 많았다. 부동산 유형 9개 가운데 전월보다 거래량이 ... 더 읽기",
-          "keywords": [
-            "경제",
-            "부동산",
-            "부동산플래닛"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "마이크로소프트, 자체 AI 칩 ‘마이아 300’ 공개… 코파일럿 추론 맡긴다",
-          "link": "https://platum.kr/archives/296126?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%259d%25b4%25ed%2581%25ac%25eb%25a1%259c%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8-%25ec%259e%2590%25ec%25b2%25b4-ai-%25ec%25b9%25a9-%25eb%25a7%2588%25ec%259d%25b4%25ec%2595%2584-300-%25ea%25b3%25b5%25ea%25b0%259c-%25ec%25bd%2594%25ed%258c%258c%25ec%259d%25bc%25eb%259f%25bf",
-          "pubDate": "2026-10-13T06:24:51.000Z",
-          "image": null,
-          "summary": "마이크로소프트가 자체 설계한 3세대 AI 칩 ‘애저 마이아 300(Azure Maia 300)’을 공개하고, 2027년부터 마이아 제품군 배포를 멀티 기가와트 규모로 늘린다고 12일(미국 태평양시간) 발표했다. 마이아를 자사 제품과 서비스의 주력 AI 추론 시스템으로 쓰겠다는 계획이다. 추론은 학습을 마친 AI 모델이 실제 질문에 답을 만들어 내는 과정으로, 챗봇이나 AI 비서를 쓸 때마다 일어나는 연산이다. 현재 쓰이고 있는 2세대 ... 더 읽기",
-          "keywords": [
-            "글로벌",
-            "AI 칩",
-            "마이크로소프트",
-            "애저 마이아 300"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "회사 PC 속 AI 대화 절반은 개인 계정으로",
-          "link": "https://platum.kr/archives/296120?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%259a%258c%25ec%2582%25ac-pc-%25ec%2586%258d-ai-%25eb%258c%2580%25ed%2599%2594-%25ec%25a0%2588%25eb%25b0%2598%25ec%259d%2580-%25ea%25b0%259c%25ec%259d%25b8-%25ea%25b3%2584%25ec%25a0%2595%25ec%259c%25bc%25eb%25a1%259c",
-          "pubDate": "2026-10-13T06:19:56.000Z",
-          "image": null,
-          "summary": "기업 직원들이 회사 기기에서 나누는 AI 챗봇 대화의 47%는 회사가 관리하지 않는 개인 계정으로 이뤄지는 것으로 나타났다. 아카마이가 13일 발표한 인터넷 보안 현황(SOTI) 보고서 ‘속도, 확장성, 그리고 비인간 ID: 에이전틱 위협 환경’에 따르면, 직원과 AI 챗봇의 대화 가운데 약 6%에는 민감한 정보가 담겨 있었다. 회사 보안팀이 개인 계정 대화를 들여다볼 수 없는 만큼, 민감 정보가 ... 더 읽기",
+          "summary": "“AI가 명세서까지 써주는데, 변리사 없이 직접 출원해도 되지 않을까?” 최근 스타트업 창업가나 개인 발명가들을 만나다 보면 AI를 활용해 특허 아이디어를 가듬었다는 이야기를 부쩍 자주 듣습니다. 실제로 생성형 AI는 지식재산(IP)의 장벽을 낮추는 데 엄청난 혁신을 가져왔습니다. 아이디어 스케치 몇 줄만 입력해도 기술의 세부 동작 원리를 보완해 주고, 특허 명세서 양식에 맞춘 초안까지 그럴듯한 문장으로 뽑아내 주기 ... 더 읽기",
           "keywords": [
             "트렌드",
-            "AI 챗봇",
-            "보안",
-            "아카마이"
+            "BLT",
+            "김종국 변리사",
+            "특허"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI가 부품 불량 골라내는 군포 금형공장, 이소영 장관 “단계별 지원 강화”",
-          "link": "https://platum.kr/archives/296123?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%25b6%2580%25ed%2592%2588-%25eb%25b6%2588%25eb%259f%2589-%25ea%25b3%25a8%25eb%259d%25bc%25eb%2582%25b4%25eb%258a%2594-%25ea%25b5%25b0%25ed%258f%25ac-%25ea%25b8%2588%25ed%2598%2595%25ea%25b3%25b5%25ec%259e%25a5-%25ec%259d%25b4%25ec%2586%258c%25ec%2598%2581-%25ec%259e%25a5%25ea%25b4%2580",
-          "pubDate": "2026-10-13T06:08:35.000Z",
+          "title": "우주에서 신약 후보물질 결정 키운다, 스페이스린텍 실험 모듈 ISS로 발사",
+          "link": "https://platum.kr/archives/296204?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259a%25b0%25ec%25a3%25bc%25ec%2597%2590%25ec%2584%259c-%25ec%258b%25a0%25ec%2595%25bd-%25ed%259b%2584%25eb%25b3%25b4%25eb%25ac%25bc%25ec%25a7%2588-%25ea%25b2%25b0%25ec%25a0%2595-%25ed%2582%25a4%25ec%259a%25b4%25eb%258b%25a4-%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4%25eb%25a6%25b0%25ed%2585%258d",
+          "pubDate": "2026-10-14T06:33:23.000Z",
           "image": null,
-          "summary": "경기도 군포의 금형 제조기업 디팜스테크 공장에서는 손톱만 한 광학부품을 초당 20~40장씩 촬영한 이미지로 학습한 AI가 불량 선별 작업을 맡고 있다. 이소영 중소벤처기업부 장관은 13일 이 공장을 찾아 AI가 생산공정에 적용된 현장을 둘러보고 중소 제조기업의 애로를 들었다. 디팜스테크는 초정밀 금형 기술로 자동차 부품, 반도체 소켓, 카메라 부품 등을 만드는 수출기업이다. 10여 년 전부터 스마트공장을 도입해 생산실적 ... 더 읽기",
+          "summary": "신약 후보물질이 표적 단백질에 어떻게 결합하는지 알아보기 위한 국내 우주 실험 장비가 국제우주정거장(ISS)으로 향했다. 우주의약 기업 스페이스린텍은 단백질 결정화 실험 모듈 ‘BEE-PC2’를 13일 오후 7시 33분(한국시간) 미국 플로리다에서 스페이스X 팰컨9 로켓에 실어 발사했다고 밝혔다. 이번 발사는 미국항공우주국(NASA)의 ISS 상업 화물 보급 임무(CRS-35)를 통해 이뤄졌다. BEE-PC2의 핵심 실험은 표적 단백질과 신약 후보 화합물을 함께 결정으로 키우는 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "BEE-PC2",
+            "스페이스린텍",
+            "우주의약"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경북 스타트업 9곳, 지역펀드 투자 확약… 구미서 투자매칭 데이",
+          "link": "https://platum.kr/archives/296199?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%25bd%25eb%25b6%2581-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-9%25ea%25b3%25b3-%25ec%25a7%2580%25ec%2597%25ad%25ed%258e%2580%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ed%2599%2595%25ec%2595%25bd-%25ea%25b5%25ac%25eb%25af%25b8%25ec%2584%259c-%25ed%2588%25ac%25ec%259e%2590",
+          "pubDate": "2026-10-14T06:29:35.000Z",
+          "image": null,
+          "summary": "경북 지역 스타트업 9곳이 지역펀드로부터 모두 36억8,000만원 규모의 투자 확약을 받았다. 경상북도와 경북창조경제혁신센터는 13일부터 14일까지 구미코 전시관에서 ‘2026 경북 스타트업 투자매칭 데이’를 열고, 첫날 본행사에서 투자 확약식을 진행했다. 투자를 확약받은 기업은 노만, 퓨처렉스, 아일비스, 에타일렉트로닉스, 한스네트워크(이상 경산), 디자인드에이아이(구미), 트러스트키(김천), 마치바이오닉스, 아셀로(이상 포항)다. 투자 확약은 투자사가 투자 의사를 공식적으로 밝힌 단계로, 실제 집행은 이후 계약을 거쳐 ... 더 읽기",
+          "keywords": [
+            "이벤트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "에너지 스타트업 100곳 한자리에, 한전 빅스포 2026 투자관 연다",
+          "link": "https://platum.kr/archives/296191?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-100%25ea%25b3%25b3-%25ed%2595%259c%25ec%259e%2590%25eb%25a6%25ac%25ec%2597%2590-%25ed%2595%259c%25ec%25a0%2584-%25eb%25b9%2585%25ec%258a%25a4%25ed%258f%25ac-2026-%25ed%2588%25ac%25ec%259e%2590%25ea%25b4%2580",
+          "pubDate": "2026-10-14T06:21:54.000Z",
+          "image": null,
+          "summary": "에너지·기후테크 스타트업 100곳이 참가하는 투자관이 한국전력공사의 국제 전력기술 박람회 ‘빛가람국제전력기술엑스포(BIXPO) 2026’에 마련된다. 행사는 다음 달 4일부터 6일까지 광주 김대중컨벤션센터에서 열린다. 올해 주제는 ‘혁신과 가능성의 만남(Tech Innovation meets Possibility)’으로, 기술 전시를 넘어 투자로 이어지는 프로그램을 늘렸다. 스타트업 투자관에는 4개 분야에서 92곳이 부스를 낸다. 분야는 친환경 발전·전력 저장(에너지·전력), AI 기반 전력망 최적화·로봇(AI·미래), 폐배터리 재활용·친환경 소재(그린 소재), 산업안전·스마트팩토리(스마트 ... 더 읽기",
           "keywords": [
             "이벤트"
           ],
@@ -887,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:10.423Z",
+      "fetchedAt": "2026-10-14T09:17:54.513Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +978,7 @@
           "summaryKo": "20명의 창업자가 Disrupt의 영광을 만끽했습니다. 그들은 TechCrunch Disrupt의 메인 스테이지로 이동하여 $ 100,000의 상금과 탐나는 Disrupt Cup을 놓고 경쟁합니다."
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:10.504Z",
+      "fetchedAt": "2026-10-14T09:17:54.606Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1077,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:11.868Z",
+      "fetchedAt": "2026-10-14T09:17:58.253Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1087,6 +1085,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 - 헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mWXpja3gxMUhpWW8wNEtBVEdvUF9uMEE0WmRGU1dSajB2cWdxaHFYM0ZveW1wMEFFZzJtbnB3Q2pNUXYzWGhNNHNxazkwMmpsaXVtWUk5dURiRlo5Y3hF?oc=5",
+          "pubDate": "2026-10-14T07:34:06.000Z",
+          "image": null,
+          "summary": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 헬로티",
+          "keywords": [
+            "중기부",
+            "해외규격인증획득",
+            "지원사업(3차)",
+            "참여기업",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중기부, 내달 13일까지 해외규격인증 지원사업 참여기업 모집 - 서울파이낸스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zRlB3WlY2alhWaFdBakxLOUNTMUJyQ1VEc25ER2ZPa19zempUZ3FqeTVBT2Zzc2lNR2JTOHd3YjNYczNfbmYtQmsxajRyVmE1dmx3SzQxS0lEc2J0TUpodnFzU25Yek5KUVE?oc=5",
@@ -1105,75 +1120,58 @@
           "summaryKo": null
         },
         {
-          "title": "2026년 해외규격인증획득 지원사업 3차 참여기업 모집… 최대 1.5억 원 지원 - 기계신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fMzlXMVR3YTJGZTZLME9pLWFvdzROaWowQ3hhSWN2eHl2aG5UTjVSXzhVcFBWRkdFTldmSGtwa3BoVGFFREJ6LXV2UHN5anJvZGRJQi1UQzZybkZaM09iNkFIY1hXUQ?oc=5",
-          "pubDate": "2026-10-14T02:41:03.000Z",
+          "title": "중기부, 해외규격인증 획득 지원사업 3차 모집 - 한국관세신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QaGpNNXRqV0l5N1dvVHdmcjdmWTdlTHoxQ0dzdGpVQ0pkNktvSnY4R01BdE5qcDJJQnRPOGt4aDlnbGpENURzT3BHaHo2RU4zQWxjMUtXMng1NEp3dDdHRFJ5aks2QVZaaTRV0gFrQVVfeXFMTlBoak01dGpXSXk3V29Ud2ZyN2ZZN2VMejFDR3N0alVDSmQ2S29KdjhHTUF0TmpwMklCdE84a3hoOWdsakQ1RHNPcEdoejZFTjNBbGMxS1cyeDU0Snd0N0dEUnlqSzZBVlppNFU?oc=5",
+          "pubDate": "2026-10-14T03:29:34.000Z",
           "image": null,
-          "summary": "2026년 해외규격인증획득 지원사업 3차 참여기업 모집… 최대 1.5억 원 지원 기계신문",
+          "summary": "중기부, 해외규격인증 획득 지원사업 3차 모집 한국관세신문",
           "keywords": [
-            "2026년",
-            "해외규격인증획득",
+            "중기부",
+            "해외규격인증",
+            "획득",
             "지원사업",
-            "3차",
-            "참여기업"
+            "3차"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "양산시, 스마트공장 구축·제조AI 지원 참여기업 모집 - 양산신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GOUcwQ1l6WnpaZnA0WmNSN3RRRDFoMjZqNFkybC1WMVcwSTc2M3VUWjl2SFZTMkpJQ3drSkhUejBDcGxwZTZRVl9vYmlfREE5c2Q5VV95UGRNVU1UZDN6S193THlubjQweERKVm0xRQ?oc=5",
-          "pubDate": "2026-10-13T22:40:00.000Z",
+          "title": "화성산업진흥원, '수출 패키지 지원사업' 10개사 모집 - 인천일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpX2N6VlNidEt4LTVZZzNoM3FLWmdBdkNoQ281TS13VnBWd19GdENyalFTUF9pblkwLWFubGVSUXRBTzFmRklsSk1sQlhCWnQxWDI2UlVsbHRBcVhXSG1yMi1HUlFZMnYtZTVBSTFIcl8?oc=5",
+          "pubDate": "2026-10-14T01:20:00.000Z",
           "image": null,
-          "summary": "양산시, 스마트공장 구축·제조AI 지원 참여기업 모집 양산신문",
+          "summary": "화성산업진흥원, '수출 패키지 지원사업' 10개사 모집 인천일보",
           "keywords": [
-            "양산시",
-            "스마트공장",
-            "구축",
-            "제조AI",
-            "지원"
+            "화성산업진흥원",
+            "수출",
+            "패키지",
+            "지원사업",
+            "10개사"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "해외규격인증획득 지원사업(3차) 참여기업 모집 - 서울Pn",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tNDRSaTlkaVB0MGFJOTk0WGp5c1o0eVNFQkVCQ1UxUVRVcnJvNVVWaE9rTU0zNWNSbHBOV2t5Z0gwYnZhamtuSUtHN0t0aVBveGZneWNTN3V4NWJCbGhLTjRR?oc=5",
-          "pubDate": "2026-10-14T01:02:27.000Z",
+          "title": "중소기업 해외인증 비용 최대 1.5억 지원…올해 마지막 참여기업 모집 - 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzeFpMYzhoWktYWjk5WEdfSkhzSTV1SmlBTUo0ajU1MVdBSTZrSnVaSUtDaVNfM2xFdlVXY3hRWl9laUhmMVBzN1FJYTBoLURqb1hsTl9iU0hUX0h0?oc=5",
+          "pubDate": "2026-10-13T22:41:32.000Z",
           "image": null,
-          "summary": "해외규격인증획득 지원사업(3차) 참여기업 모집 서울Pn",
+          "summary": "중소기업 해외인증 비용 최대 1.5억 지원…올해 마지막 참여기업 모집 뉴스1",
           "keywords": [
-            "해외규격인증획득",
-            "지원사업(3차)",
-            "참여기업",
-            "모집",
-            "서울Pn"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 - 법률신문",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUdIBckFVX3lxTE9rSDN6V1U0ZWY1SFE2eUc3WFlUZHpJOFdLU0pkclNJRFNoaUxaUTRIRzJzMkhNbTNlUVo5NmNJYXhJQjU5Ym1uUlp2WEtyWTBLSllRWVpQQ0Z3NDR4dTRVRUlib0RXQjFqZ3M4ZjVmbXNPUQ?oc=5",
-          "pubDate": "2026-10-13T04:30:35.000Z",
-          "image": null,
-          "summary": "2026년 ESS 중앙계약시장 입찰 공고 및 ESS 구축지원 사업 공고 법률신문",
-          "keywords": [
-            "2026년",
-            "ESS",
-            "중앙계약시장",
-            "입찰",
-            "공고"
+            "중소기업",
+            "해외인증",
+            "비용",
+            "최대",
+            "5억"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-14T03:39:12.342Z",
+      "fetchedAt": "2026-10-14T09:17:58.879Z",
       "error": null
     }
   },
@@ -1181,69 +1179,69 @@
     {
       "key": "경제",
       "label": "경제",
-      "count": 6,
+      "count": 5,
       "rank": 1,
       "change": "same"
-    },
-    {
-      "key": "글로벌",
-      "label": "글로벌",
-      "count": 4,
-      "rank": 2,
-      "change": "new"
-    },
-    {
-      "key": "tips",
-      "label": "TIPS",
-      "count": 3,
-      "rank": 3,
-      "change": "down"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 4,
-      "change": "up"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
-      "rank": 5,
-      "change": "new"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 9,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "중기부",
+      "label": "중기부",
+      "count": 3,
+      "rank": 6,
+      "change": "new"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 7,
       "change": "down"
     },
     {
-      "key": "2026년",
-      "label": "2026년",
+      "key": "tips",
+      "label": "TIPS",
+      "count": 2,
+      "rank": 8,
+      "change": "down"
+    },
+    {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "해외규격인증",
+      "label": "해외규격인증",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1271,7 +1269,7 @@
       "label": "Homepage Feature",
       "count": 5,
       "rank": 3,
-      "change": "up",
+      "change": "same",
       "labelKo": "홈페이지 기능"
     },
     {
@@ -1279,7 +1277,7 @@
       "label": "Startups",
       "count": 5,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업"
     },
     {
@@ -1287,7 +1285,7 @@
       "label": "Articles",
       "count": 4,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1295,7 +1293,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1303,7 +1301,7 @@
       "label": "News",
       "count": 4,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
@@ -1311,7 +1309,7 @@
       "label": "TechCrunch Disrupt",
       "count": 4,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "TechCrunch Disrupt"
     },
     {
@@ -1319,7 +1317,7 @@
       "label": "Startup Battlefield 200",
       "count": 3,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "스타트업 Battlefield 200"
     },
     {
@@ -1327,7 +1325,7 @@
       "label": "Statistics",
       "count": 3,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "스탯"
     }
   ]
