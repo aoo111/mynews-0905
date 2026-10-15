@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-15T14:41:09.597Z",
+  "collectedAt": "2026-10-15T19:42:27.141Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:47.830Z",
+      "fetchedAt": "2026-10-15T19:42:14.229Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 이사벨라 뱅크 코퍼레이션 (Isabella Bank Corporation) 의 신청 승인 발표"
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:48.028Z",
+      "fetchedAt": "2026-10-15T19:42:14.390Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:49.154Z",
+      "fetchedAt": "2026-10-15T19:42:15.425Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "블록은 OpenAI로 AI 기반 보안을 구축하고 있습니다. 보안 팀은 위협을 더 빠르게 조사하고 몇 분 안에 패치를 제안합니다."
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:56.252Z",
+      "fetchedAt": "2026-10-15T19:42:15.577Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,33 +365,33 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Tesla 로보택시의 스쿨존 과속 의혹, NHTSA에 조사 청원 접수",
-          "link": "https://news.hada.io/topic?id=35419",
-          "pubDate": "2026-10-15T14:39:13.000Z",
+          "title": "Krea 3 - 대규모 편집을 위해 설계된 이미지 모델",
+          "link": "https://news.hada.io/topic?id=35433",
+          "pubDate": "2026-10-15T19:40:06.000Z",
           "image": null,
-          "summary": "미국 도로교통안전국(NHTSA)이 Tesla 로보택시가 제한속도 적용 중인 스쿨존에서 과속한다는 결함 조사 청원을 검토하기 시작함 청원은 Model Y Robotaxi와 Cybercab 약 1,000대를 대상으로 하며, 스쿨존에 게시된 제한속도를 초과한다는 의혹을 담고 있음",
+          "summary": "Krea 3는 제품의 일관성을 유지하는 장면 변경, 객체 제거, 대량 변형 이미지 제작을 위한 편집 전용 모델임 이미지 전체가 아니라 변경할 영역을 먼저 찾아 렌더링하며, 큰 모델을 증류한 것이 아니라 편집용으로 새롭게 학습한 모델임 최대 8개...",
           "keywords": [
-            "Tesla",
-            "로보택시의",
-            "스쿨존",
-            "과속",
-            "의혹"
+            "Krea",
+            "대규모",
+            "편집을",
+            "설계된",
+            "이미지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이스라엘 기업의 디지털 광고, ‘제로클릭’ 스파이웨어 설치에 이용",
-          "link": "https://news.hada.io/topic?id=35418",
-          "pubDate": "2026-10-15T14:36:13.000Z",
+          "title": "이스라엘 기업, 온라인 광고로 제로클릭 스파이웨어 유포",
+          "link": "https://news.hada.io/topic?id=35432",
+          "pubDate": "2026-10-15T19:37:06.000Z",
           "image": null,
-          "summary": "토론토대학교 Citizen Lab에 따르면 이스라엘 광고업체 Discover-Tech의 광고가 사용자의 조작 없이 스파이웨어를 설치하는 경로로 이용됨 광고 플랫폼 Controlium은 인터넷 이용자를 대규모로 프로파일링하고 신원을 식별한 뒤, 선정된 표적에 제3자 스파이웨어를...",
+          "summary": "Citizen Lab과 Confiant의 공동 조사에 따르면, 이스라엘 광고 기술 기업 Discover-Tech가 스파이웨어 업체들과 협력해 온라인 광고를 보여주는 것만으로 기기를 감염시킴 연구진은 사용자 행동이 필요 없는 제로클릭 공격을 표적 광고로 전달한 기술적 증거를 처음...",
           "keywords": [
             "이스라엘",
-            "기업의",
-            "디지털",
-            "광고",
+            "기업",
+            "온라인",
+            "광고로",
             "제로클릭"
           ],
           "isForeign": false,
@@ -399,58 +399,55 @@
           "summaryKo": null
         },
         {
-          "title": "Show GN: 맥북 데스크탑 부캉이",
-          "link": "https://news.hada.io/topic?id=35417",
-          "pubDate": "2026-10-15T14:27:30.000Z",
+          "title": "Muse Spark Open - M5 Ultra Mac Studio 두 대에서 실행하는 멀티모달 오픈 웨이트 모델",
+          "link": "https://news.hada.io/topic?id=35431",
+          "pubDate": "2026-10-15T19:11:57.000Z",
           "image": null,
-          "summary": "맥북 화면에서 부캉이가 이리저리 헤엄칩니다. 창 위아래로 돌아다니고, 마우스로 다가가면 피하기도 하고, 가끔 잠수도 합니다. brew install --cask dohyeon5626/tap/bukangi 단",
+          "summary": "Meta가 코딩과 에이전트 작업용 Muse Spark Open의 가중치를 공개함. 네이티브 멀티모달 모델로, 장시간 이어지는 작업, 복잡한 소프트웨어 엔지니어링, 다단계 추론을 겨냥함 전체 8,160억 개 파라미터 중 420억 개를 활성화하며, 100만 토큰 컨텍스트 창...",
           "keywords": [
-            "Show",
-            "GN:",
-            "맥북",
-            "데스크탑",
-            "부캉이"
+            "Muse",
+            "Spark",
+            "Open",
+            "M5",
+            "Ultra"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 오마이스캔 – 책을 찍으면 편집 가능한 한글(HWPX) 파일로 만들어 주는 앱",
-          "link": "https://news.hada.io/topic?id=35416",
-          "pubDate": "2026-10-15T13:51:09.000Z",
+          "title": "Steam 클라이언트, Epic의 새 바이브 코딩 런처보다 빨라짐",
+          "link": "https://news.hada.io/topic?id=35430",
+          "pubDate": "2026-10-15T19:08:57.000Z",
           "image": null,
-          "summary": "책이나 서류를 찍으면 글자를 읽어서 PDF와 편집 가능한 한글 문서(HWPX)로 저장하는 안드로이드 앱입니다. 스캔 앱은 많은데 결과물이 대부분 이미지나 PDF이고 대부분 광고가 있습니다. 그리고 스캔 하고 ocr 적용하고 hwpx로 편집가능한 문서로 만들어주는 앱이 없어 제가쓰려고 만들었습니다^^ 하는",
+          "summary": "Epic Games가 Steam보다 빠른 로딩을 내세워 새 런처 프리뷰를 출시한 지 24시간 만에, Valve가 Steam 클라이언트 속도를 높이는 소규모 업데이트를 배포함 기본 테스트 시스템에서 업데이트된 Steam의 시작 시간이 5.23초로 줄어 Epic의 새 런처보다 빨라짐 ...",
           "keywords": [
-            "Show",
-            "GN:",
-            "오마이스캔",
-            "책을",
-            "찍으면"
+            "Steam",
+            "클라이언트",
+            "Epic의",
+            "바이브",
+            "코딩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이제 UI에 광고를 표시하는 Apple Keynote",
-          "link": "https://news.hada.io/topic?id=35415",
-          "pubDate": "2026-10-15T13:37:19.000Z",
+          "title": "신경망은 깔끔하다",
+          "link": "https://news.hada.io/topic?id=35429",
+          "pubDate": "2026-10-15T19:05:57.000Z",
           "image": null,
-          "summary": "이제 UI에 광고를 표시하는 Apple Keynote",
+          "summary": "신경망의 뉴런과 회로는 먼저 분해하거나 재구성하지 않아도 직접 이해할 수 있다는 가설임. 무관한 개념의 혼합처럼 보이던 현상 상당수는 재귀적 일반화와 관찰 도구의 오류로 설명할 수 있음 대표적인 중첩 사례였던 고양이/자동차 뉴런은 V자 형태를, 자동차 정...",
           "keywords": [
-            "이제",
-            "UI에",
-            "광고를",
-            "표시하는",
-            "Apple"
+            "신경망은",
+            "깔끔하다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:56.975Z",
+      "fetchedAt": "2026-10-15T19:42:16.478Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -543,7 +540,7 @@
           "summaryKo": "11월 7일은 드류 데스보르드에게 역사적인 밤이 될 것입니다. 1360만 명의 인스타그램 팔로워가 그를 Druski로 알고 있는 Desbordes는 소셜 미디어 콘텐츠 크리에이터로 커리어를 시작한 첫 번째 Saturday Night Live 호스트가 될 것입니다. Druski는 바이럴 Instagram Live 방송으로 명성을 얻은 후 기업가 정신, 독창적 인 프로그래밍 및 전략적 파트너십을 통해 \"Coulda Been\" 브랜드를 확장 한 다중 하이픈 크리에이터가되었습니다."
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:57.174Z",
+      "fetchedAt": "2026-10-15T19:42:16.689Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -617,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:57.354Z",
+      "fetchedAt": "2026-10-15T19:42:16.921Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:57.418Z",
+      "fetchedAt": "2026-10-15T19:42:16.998Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -797,7 +794,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:40:59.716Z",
+      "fetchedAt": "2026-10-15T19:42:19.105Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:41:00.626Z",
+      "fetchedAt": "2026-10-15T19:42:20.034Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -891,22 +888,57 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+          "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+          "pubDate": "2026-10-15T18:00:00.000Z",
+          "image": null,
+          "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+          "keywords": [
+            "AI",
+            "Fundraising",
+            "Startups",
+            "Venture",
+            "TechCrunch Founder Summit"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Founder Summit 이용권으로 최대 $ 200를 절약할 수 있는 마지막 기회: 조기 예약은 10월 16일에 종료됩니다.",
+          "summaryKo": "TechCrunch Founder Summit의 경우 10월 16일 말까지 최대 $ 200를 절약할 수 있습니다. 창업자 및 투자자 이용권에 대한 할인 혜택은 금요일 이후 사라집니다. 11월 4일 보스턴의 소와 발전소에서 1,000명의 창업자와 투자자와 함께하세요. 가장 어려운 질문을 던져 비즈니스에 중요한 하루를 만드세요."
+        },
+        {
+          "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+          "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+          "pubDate": "2026-10-15T14:47:09.000Z",
+          "image": null,
+          "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+          "keywords": [
+            "Fintech",
+            "Fundraising",
+            "Startups",
+            "ai tokens",
+            "expense management",
+            "Ramp"
+          ],
+          "isForeign": true,
+          "titleKo": "램프가 AI에 더 깊이 파고들면서 $ 60B 밸류에이션에 도달합니다.",
+          "summaryKo": "자금 조달은 Ramp의 연간 수익이 $ 2B를 넘고 고객 수가 85,000에 도달함에 따라 이루어집니다."
+        },
+        {
           "title": "TechCrunch Disrupt 2026: Last day",
           "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
           "pubDate": "2026-10-15T14:00:00.000Z",
           "image": null,
-          "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+          "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
           "keywords": [
-            "TC",
-            "Startups",
+            "AI",
+            "Apps",
+            "Biotech & Health",
             "Climate",
             "Fintech",
-            "Biotech & Health",
-            "Venture"
+            "Fundraising"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Disrupt 2026: 마지막 날",
-          "summaryKo": "TechCrunch Disrupt 2026에 참여하는 마지막 날입니다. 10,000명 이상의 기술 리더와 함께 하루 동안 인맥을 쌓고 인사이트를 얻으세요. 지금 이용권을 75% 할인받으세요."
+          "summaryKo": "TechCrunch Disrupt 2026의 일원이 되는 마지막 날입니다. 10,000명 이상의 기술 리더와 함께 하루 동안 인맥을 쌓고 인사이트를 얻으세요. 지금 이용권을 75% 할인받으세요."
         },
         {
           "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -933,48 +965,15 @@
           "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
           "keywords": [
             "Startups",
-            "TechCrunch Disrupt",
-            "Startup Battlefield"
+            "Startup Battlefield",
+            "TechCrunch Disrupt"
           ],
           "isForeign": true,
           "titleKo": "Disrupt 2026에서 스타트업 배틀필드 결승에서 경쟁하는 5개의 회사를 만나보세요",
           "summaryKo": "스타트업 배틀필드 결승전에서 경쟁할 5개 회사를 공개할 시간입니다."
-        },
-        {
-          "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-          "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-          "pubDate": "2026-10-15T00:00:00.000Z",
-          "image": null,
-          "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-          "keywords": [
-            "AI",
-            "Enterprise",
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Gudea는 AI를 활용하여 조직이 폭발하기 전에 소셜 미디어 위기를 예방할 수 있도록 지원합니다.",
-          "summaryKo": "자신을 \"인터넷의 폭풍 추적기\" 라고 묘사하는 이야기와 소문이 온라인에서 어떻게 퍼지는지 추적하는 회사인 Gudea는 AI를 사용하여 조직이 위기로 변하기 전에 온라인으로 양조하는 문제를 파악할 수 있도록 돕고 있습니다."
-        },
-        {
-          "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-          "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-          "pubDate": "2026-10-14T23:00:00.000Z",
-          "image": null,
-          "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-          "keywords": [
-            "Biotech & Health",
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Intero Biosystems는 의약품 제조업체가 동물이 아닌 미니 인간의 장에서 테스트하기를 원합니다.",
-          "summaryKo": "Intero Biosystems는 규제 기관이 동물 실험에 대한 대안을 추진함에 따라 실험실에서 재배한 인간 장을 의약품 제조업체에 판매하고 있으며, 스타트업은 생산을 확대하고 오가노이드 기술을 확장하려고 합니다."
         }
       ],
-      "fetchedAt": "2026-10-15T14:41:06.226Z",
+      "fetchedAt": "2026-10-15T19:42:24.342Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1073,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:41:08.452Z",
+      "fetchedAt": "2026-10-15T19:42:26.148Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1150,24 +1149,24 @@
           "summaryKo": null
         },
         {
-          "title": "평택시, '평택청년 취업성공 지원사업' 참여자 모집…오는 27일까지 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NVDBsNHQtSC05MHJGWGZVd29oaVdEVWtyZ1VoaE96bG1oX25VQ1ZXVnAzMFBKU1NrVWFFMGlDWjBuNXNTUm05N2hKXzJXQk5oT2d1cjVSN2pHNGcw?oc=5",
-          "pubDate": "2026-10-15T06:17:00.000Z",
+          "title": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 - 헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mWXpja3gxMUhpWW8wNEtBVEdvUF9uMEE0WmRGU1dSajB2cWdxaHFYM0ZveW1wMEFFZzJtbnB3Q2pNUXYzWGhNNHNxazkwMmpsaXVtWUk5dURiRlo5Y3hF?oc=5",
+          "pubDate": "2026-10-14T07:34:06.000Z",
           "image": null,
-          "summary": "평택시, '평택청년 취업성공 지원사업' 참여자 모집…오는 27일까지 뉴스핌",
+          "summary": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 헬로티",
           "keywords": [
-            "평택시",
-            "평택청년",
-            "취업성공",
-            "지원사업",
-            "참여자"
+            "중기부",
+            "해외규격인증획득",
+            "지원사업(3차)",
+            "참여기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-15T14:41:08.889Z",
+      "fetchedAt": "2026-10-15T19:42:26.652Z",
       "error": null
     }
   },
@@ -1177,68 +1176,68 @@
       "label": "경제",
       "count": 5,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 5,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "취업성공",
-      "label": "취업성공",
       "count": 4,
-      "rank": 7,
-      "change": "up"
+      "rank": 6,
+      "change": "same"
     },
     {
       "key": "3기",
       "label": "3기",
       "count": 3,
-      "rank": 8,
+      "rank": 7,
       "change": "up"
     },
     {
       "key": "이벤트",
       "label": "이벤트",
       "count": 3,
-      "rank": 9,
-      "change": "new"
+      "rank": 8,
+      "change": "up"
     },
     {
-      "key": "평택시",
-      "label": "평택시",
+      "key": "취업성공",
+      "label": "취업성공",
       "count": 3,
+      "rank": 9,
+      "change": "down"
+    },
+    {
+      "key": "ai금융",
+      "label": "AI금융",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
@@ -1247,7 +1246,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 4,
       "rank": 1,
       "change": "same",
       "labelKo": "AI"
@@ -1277,52 +1276,52 @@
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "startups",
-      "label": "Startups",
-      "count": 5,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 4,
-      "rank": 7,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 8,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
       "count": 4,
-      "rank": 9,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "뉴스"
     },
     {
-      "key": "techcrunch disrupt",
-      "label": "TechCrunch Disrupt",
+      "key": "startups",
+      "label": "Startups",
       "count": 4,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "스타트업"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 3,
       "rank": 10,
       "change": "new",
-      "labelKo": "TechCrunch Disrupt"
+      "labelKo": "모금 활동"
     }
   ]
 }
