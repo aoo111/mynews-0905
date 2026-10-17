@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-17T20:10:06.453Z",
+  "collectedAt": "2026-10-17T23:45:17.407Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“삼전닉스 믿었는데”…국민연금, 3분기 보유주식 182조원 증발",
+          "link": "https://www.mk.co.kr/news/economy/12178633",
+          "pubDate": "2026-10-17T23:35:38.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261018.e15b0bc6ff0543418e3952a43799997c_R.jpg",
+          "summary": "국내 주식시장의 ‘큰 손’인 국민연금이 약 100일 만에 200조원에 가까운 역대 최악의 손실을 본 것으로 나타났다. 18일 금융정보업체 에프앤가이드에 따르면 국민연금이 6월 30..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“돈 벌 생각 말라는 명령, 7개월째네요”…석유 최고가격 4번째 동결",
+          "link": "https://www.mk.co.kr/news/economy/12178611",
+          "pubDate": "2026-10-17T20:59:40.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261016.dcfb9932cf6f4b08b643864854b21e99_R.png",
+          "summary": "정부선 손실 보전해준다지만 편성된 예비비 4.2조원 그쳐 최근 업계 담합의혹 불거지자 정당한 보상 요구마저 ‘눈치’ 휘발유 소비는 7개월만에 반등 정부, 최고가격제 중단도 난감정부..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "나의 ‘오답 노트’가 되어준 추미애 지사님께 [논설실 Pick]",
           "link": "https://www.mk.co.kr/news/economy/12178607",
           "pubDate": "2026-10-17T15:37:57.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-          "link": "https://www.mk.co.kr/news/economy/12178547",
-          "pubDate": "2026-10-17T08:19:28.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.7277aafefbe0499594a03b4c864b2c43_R.png",
-          "summary": "전날 낙폭 일부 만회에도 직전 7거래일간 20.7% 급락 국민·우리·농협 변동형 주담대 금리 최대 0.25%P↑ 4억원 대출, 잔액 일정하면 연 이자 100만원 증가코스피가 지난 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“벤츠는 뒷범퍼 박으면 엔진도 고장나나?”…1855만원 견적서에 ‘멘붕’ [어쩌다 세상이]",
-          "link": "https://www.mk.co.kr/news/economy/12178380",
-          "pubDate": "2026-10-16T23:48:33.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.143c62bda8a640cf8c9f94c994a8ee07_R.png",
-          "summary": "주차장서 벤츠 ‘우측 뒷범퍼’ 접촉사고 벤츠 차주 “엔진 경고등 켜졌다” 주장 범퍼 431만원·엔진 1424만원 견적 제출주차장에서 남의 차를 살짝 들이받았다면 수리비가 얼마나 나..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:09:58.676Z",
+      "fetchedAt": "2026-10-17T23:45:09.497Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-17T20:09:58.758Z",
+      "fetchedAt": "2026-10-17T23:45:09.615Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:09:59.889Z",
+      "fetchedAt": "2026-10-17T23:45:10.900Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:00.044Z",
+      "fetchedAt": "2026-10-17T23:45:11.067Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,91 +365,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "인공지능은 자본주의의 최종 목적지다",
-          "link": "https://news.hada.io/topic?id=35544",
-          "pubDate": "2026-10-17T19:43:51.000Z",
+          "title": "나는 일본 시민이 되었다",
+          "link": "https://news.hada.io/topic?id=35555",
+          "pubDate": "2026-10-17T23:32:57.000Z",
           "image": null,
-          "summary": "AI 산업은 인류가 축적한 지식과 창작물을 기업 자산으로 전환하고, 접근권과 가격을 통제하는 새로운 식민화 체제라는 비판을 받음 인류 멸종 위험을 강조하는 논쟁이 AI 기업의 권력을 오히려 키우는 반면, 무기화, 차별 재생산, 환경 파괴처럼 이미 발생하는 피...",
+          "summary": "Derek Wessman은 2012년과 2018년의 중단된 시도 끝에 2025년 2월 귀화를 정식 신청했고, 2026년 6월 일본 국적을 취득함 귀화 준비에는 가족관계와 평생의 거주/학업/직업 이력부터 개인과 회사의 재무자료까지 방대한 서류 작업이 필요했으며, 납세 여부뿐 아니라...",
           "keywords": [
-            "인공지능은",
-            "자본주의의",
-            "최종",
-            "목적지다"
+            "나는",
+            "일본",
+            "시민이",
+            "되었다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
-          "link": "https://news.hada.io/topic?id=35543",
-          "pubDate": "2026-10-17T19:40:51.000Z",
+          "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
+          "link": "https://news.hada.io/topic?id=35554",
+          "pubDate": "2026-10-17T22:43:24.000Z",
           "image": null,
-          "summary": "캐나다 노조와의 법적 분쟁에서 공개된 내부 문서에 따르면, Amazon의 AI 예측 도구 Atlas가 미국, 캐나다, 영국 물류창고의 노조 결성, 점거 농성 등 노동행동 가능성을 평가하는 것으로 나타남 Reddit 게시물과 직원 설문 응답 등 수백 개 데이터 항목을 모아 창...",
+          "summary": "초기 개발 중인 해양 탐험 게임 Around The World에서 구름의 빛 산란, 하늘의 색, 수평선, 톤 매핑을 조정해 바다와 하늘, 구름이 더 자연스럽게 어우러지도록 개선함 Rust로 직접 만든 광선 추적기로 다중 산란을 반영한 룩업 테이블을 생성해, 두꺼운 구름의 밑...",
           "keywords": [
-            "Amazon",
-            "AI로",
-            "영국",
-            "물류창고의",
-            "노조"
+            "Around",
+            "The",
+            "World",
+            "게임에서",
+            "아름다운"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenCode 해킹: 사용자 인증 정보 유출",
-          "link": "https://news.hada.io/topic?id=35542",
-          "pubDate": "2026-10-17T19:37:51.000Z",
+          "title": "댐 철거로 미국 북동부 전역에 물고기가 돌아오고 있음",
+          "link": "https://news.hada.io/topic?id=35553",
+          "pubDate": "2026-10-17T22:40:24.000Z",
           "image": null,
-          "summary": "OpenCode가 전날 밤 대규모 증류 공격과 관련된 보안 침해를 겪음 OpenCode Console 사용자 1.4% 가 영향을 받음 영향을 받은 사용자 전원에게 당일 아침 이메일로 통지함 사건이 진행 중이어서 현시점에는 추...",
+          "summary": "미국의 댐 철거는 대규모 서부 연어 하천뿐 아니라 동부의 작은 하천에서도 진행되며, 막혔던 산란 경로를 다시 열고 회유성 어류를 회복시키고 있음 Massachusetts의 Town Brook에서는 여러 댐을 철거한 뒤 연간 회귀 청어류가 약 2만 5,000마리에서 여러 해에 걸...",
           "keywords": [
-            "OpenCode",
-            "해킹:",
-            "사용자",
-            "인증",
-            "정보"
+            "철거로",
+            "미국",
+            "북동부",
+            "전역에",
+            "물고기가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "예전의 내 일은 이제 멀게 느껴진다",
-          "link": "https://news.hada.io/topic?id=35541",
-          "pubDate": "2026-10-17T18:45:23.000Z",
+          "title": "에스토니아 온라인 투표 시스템의 소스 코드",
+          "link": "https://news.hada.io/topic?id=35552",
+          "pubDate": "2026-10-17T22:37:24.000Z",
           "image": null,
-          "summary": "한 개발자의 업무가 검색과 코드 복사/붙여넣기에서 에이전트에 작업을 맡기는 방식으로 바뀌었으며, 최근에는 코드 검토보다 QA와 결과의 제약 조건을 먼저 생각하는 단계로 이동함 초기 ChatGPT는 익숙하지 않은 Ruby 코드 작성과 Python 컴퓨터 비전 프로젝트를...",
+          "summary": "IVXV는 에스토니아 온라인 투표 시스템의 소스 코드를 누구나 검토할 수 있도록 공개하는 저장소임 이 저장소는 실제 개발 작업용으로 사용되지 않음 저장소를 최신 상태로 유지해 실제 선거에 사용되는 코드를 제공함 법적 구...",
           "keywords": [
-            "예전의",
-            "일은",
-            "이제",
-            "멀게",
-            "느껴진다"
+            "에스토니아",
+            "온라인",
+            "투표",
+            "시스템의",
+            "소스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GLP-1이 생물학적 노화를 늦출 가능성",
-          "link": "https://news.hada.io/topic?id=35540",
-          "pubDate": "2026-10-17T18:42:23.000Z",
+          "title": "Linux 7.2 커널 개발 통계",
+          "link": "https://news.hada.io/topic?id=35551",
+          "pubDate": "2026-10-17T21:47:04.000Z",
           "image": null,
-          "summary": "세마글루타이드가 HIV 감염 성인의 DNA에서 생물학적 노화 표지 축적을 늦출 가능성을 뒷받침하는 첫 무작위 위약 대조 임상 근거가 나옴 HIV 관련 지방비대증이 있는 성인 108명의 임상시험 데이터를 분석한 결과, 32주 투여군에서 염증과 여러 장기의 건강에 연관...",
+          "summary": "Linux 7.2에는 병합을 제외한 16,418개 커밋과 약 60만 줄의 코드가 추가됐으며, 커밋 수 기준 커널 역사상 두 번째로 활발한 개발 주기였음 참여 개발자는 2,652명, 첫 기여자는 613명으로 모두 기록을 경신했으며, 소속을 확인할 수 없는 개발자...",
           "keywords": [
-            "GLP",
-            "1이",
-            "생물학적",
-            "노화를",
-            "늦출"
+            "Linux",
+            "커널",
+            "개발",
+            "통계"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:00.964Z",
+      "fetchedAt": "2026-10-17T23:45:11.706Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -539,7 +538,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:01.044Z",
+      "fetchedAt": "2026-10-17T23:45:11.871Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:01.124Z",
+      "fetchedAt": "2026-10-17T23:45:12.056Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:01.181Z",
+      "fetchedAt": "2026-10-17T23:45:12.114Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +792,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:04.178Z",
+      "fetchedAt": "2026-10-17T23:45:15.266Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:04.441Z",
+      "fetchedAt": "2026-10-17T23:45:15.551Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -973,7 +972,7 @@
           "summaryKo": "이 회사는 2 년 동안 3 천만 달러 이상의 매출을 올렸으며 3 월에 MyFitnessPal에 공개되지 않은 금액으로 인수되었습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:04.526Z",
+      "fetchedAt": "2026-10-17T23:45:15.651Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -981,6 +980,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[김지현의 Scale-Up Note]  스타트업은 언제 ‘꼰대 조직’이 되는가",
+          "link": "https://www.venturesquare.net/1120771/",
+          "pubDate": "2026-10-17T23:00:56.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/SCALEUP-NOTE-789x414.jpg",
+          "summary": "유능한 창업자가 이끄는 스타트업에서도 직원들이 지쳐가고 조직의 활력이 사라지는 일이 발생한다. 김지현 JiHyun & Company 대표는 권한 위임 이후 현장의 목소리가 경영진에게 제대로 전달되지 않을 때 조직이 유연성을 잃는다고 지적한다. 창업자가 직접 현장을 확인... The post [김지현의 Scale-Up Note] 스타트업은 언제 ‘꼰대 조직’이 되는가 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "JiHyunCompany",
+            "경영전략",
+            "권한위임",
+            "김지현"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[AI 시대 리더의 대화법] C등급에 퇴사를 결심하는 직원들…평가 전 30분이 중요한 이유",
           "link": "https://www.venturesquare.net/1120737/",
@@ -1052,27 +1069,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경남창조경제혁신센터, 제조 현장 바꿀 피지컬 AI 스타트업 3개사 투자유치 지원한다",
-          "link": "https://www.venturesquare.net/1120633/",
-          "pubDate": "2026-10-16T13:03:38.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/DC-696x522.jpg",
-          "summary": "경남창조경제혁신센터와 경남진주강소특구지원센터가 창원컨벤션센터에서 ‘2026 피지컬 AI 스타트업 IR 피칭데이’를 개최했다. 행사에는 투자기관 9곳과 대기업, 수요기업 및 유관기관 관계자 등 약 150명이 참석했다. 아이브로보틱스, 프보이, 디컴소프트 등 3개 스타트업... The post 경남창조경제혁신센터, 제조 현장 바꿀 피지컬 AI 스타트업 3개사 투자유치 지원한다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "SMATOF2026",
-            "경남스타트업",
-            "경남진주강소특구지원센터",
-            "경남창조경제혁신센터",
-            "디컴소프트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:05.914Z",
+      "fetchedAt": "2026-10-17T23:45:16.815Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1166,7 +1165,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T20:10:06.445Z",
+      "fetchedAt": "2026-10-17T23:45:17.399Z",
       "error": null
     }
   },
@@ -1174,7 +1173,7 @@
     {
       "key": "special post",
       "label": "Special Post",
-      "count": 2,
+      "count": 3,
       "rank": 1,
       "change": "same"
     },
