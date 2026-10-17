@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-17T13:28:09.032Z",
+  "collectedAt": "2026-10-17T16:51:03.983Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "나의 ‘오답 노트’가 되어준 추미애 지사님께 [논설실 Pick]",
+          "link": "https://www.mk.co.kr/news/economy/12178607",
+          "pubDate": "2026-10-17T15:37:57.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261018.f58ea95d51d1429ab8a671da0c2a779c_R.jpg",
+          "summary": "①비유를 적절히 가려 써야 한다 ②일어나지 않을 법한 일은 일어난다 ③자기객관화가 무너지면 끝이다삶에 지혜를 주신 추미애 경기도지사님께. 23년 언론계 생활을 하며 ‘뉴스란 무엇인..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
           "link": "https://www.mk.co.kr/news/economy/12178581",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“노후자금 똑같이 1억 모아도 6000만원 더 쓴다”…은퇴 통장 ‘인출의 기술’",
-          "link": "https://www.mk.co.kr/news/economy/12178379",
-          "pubDate": "2026-10-16T23:45:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.20efd5debc524256a2a46954ad112f61_R.png",
-          "summary": "주식·채권 분산투자, 적정인출률 3.1%→4.4%같은 은퇴자금이라도 투자 대상과 인출 방식에 따라 노후 생활비가 크게 달라질 수 있다는 분석이 나왔다. 국내 자산에만 투자할 때보다..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:02.035Z",
+      "fetchedAt": "2026-10-17T16:50:54.100Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:02.097Z",
+      "fetchedAt": "2026-10-17T16:50:54.229Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:03.504Z",
+      "fetchedAt": "2026-10-17T16:50:57.713Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -300,19 +300,6 @@
           "summaryKo": "대화형 인터페이스인 ia.i와 Iara 거버넌스 플랫폼을 통해 Itaú는 브라질에서 가장 규제된 분야 중 하나인 고객과 직원에게 AI First 전략을 적용하고 있습니다."
         },
         {
-          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "pubDate": "2026-10-16T00:00:00.000Z",
-          "image": null,
-          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "상담원용 스택 오버플로는 ChatGPT 플러그인으로 가입을 세 배로 늘립니다.",
-          "summaryKo": "두 명의 엔지니어가 코덱스와 함께 몇 주 만에 에이전트용 스택 오버플로를 제공했으며, ChatGPT 플러그인은 에이전트 생성에서 최대 10배의 성장을 도왔습니다."
-        },
-        {
           "title": "Benefit Street Partners answers questions faster with Codex",
           "link": "https://openai.com/index/benefit-street-partners",
           "pubDate": "2026-10-16T00:00:00.000Z",
@@ -328,6 +315,19 @@
           "isForeign": true,
           "titleKo": "Benefit Street Partners는 Codex로 질문에 더 빠르게 답변합니다.",
           "summaryKo": "Anant Kumar는 코드 검토 및 더 빠른 후속 조치를 위해 Codex를 사용하여 대출 평가를 비교하고 신용 계약을 분석하는 도구를 구축합니다."
+        },
+        {
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "pubDate": "2026-10-16T00:00:00.000Z",
+          "image": null,
+          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "상담원용 스택 오버플로는 ChatGPT 플러그인으로 가입을 세 배로 늘립니다.",
+          "summaryKo": "두 명의 엔지니어가 코덱스와 함께 몇 주 만에 에이전트용 스택 오버플로를 제공했으며, ChatGPT 플러그인은 에이전트 생성에서 최대 10배의 성장을 도왔습니다."
         },
         {
           "title": "Bringing GPT-Rosalind to academic research labs",
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:03.639Z",
+      "fetchedAt": "2026-10-17T16:50:57.856Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,91 +365,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때",
-          "link": "https://news.hada.io/topic?id=35526",
-          "pubDate": "2026-10-17T12:05:48.000Z",
+          "title": "Token Ring 네트워크란 무엇이었나?",
+          "link": "https://news.hada.io/topic?id=35534",
+          "pubDate": "2026-10-17T16:46:03.000Z",
           "image": null,
-          "summary": "비정합성(decoherence) 은 개별적으로는 타당하지만 서로 호환되지 않거나 중복되는 모델이 시스템에 쌓이는 현상임. 모델 사이를 오가고 의도치 않은 부작용을 막는 일이 변경 비용의 대부분을 차지하게 됨 비정합성은 시간 자체가 아니라 시스템의 변경에 따라 커...",
+          "summary": "Token Ring은 IBM이 1985년 발표한 네트워크 기술로, 1980~1990년대 Ethernet과 경쟁했지만 비용과 고속화 경쟁에서 밀려 사라짐 네트워크를 순환하는 토큰을 가진 시스템만 전송할 수 있어 초기 Ethernet과 달리 충돌이 없었으며, 네트워크가 포화된 상황에도 강했...",
           "keywords": [
-            "비정합성의",
-            "함정:",
-            "AI",
-            "저질",
-            "콘텐츠가"
+            "Token",
+            "Ring",
+            "네트워크란",
+            "무엇이었나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델",
-          "link": "https://news.hada.io/topic?id=35525",
-          "pubDate": "2026-10-17T11:32:19.000Z",
+          "title": "고마워요, Deno",
+          "link": "https://news.hada.io/topic?id=35533",
+          "pubDate": "2026-10-17T16:43:03.000Z",
           "image": null,
-          "summary": "DeepSeek V4.1 Flash는 회사 최초로 Causal Encoder-Decoder(CED) 아키텍처를 적용한 희소 MoE 모델로, 사전 학습 시작부터 시각 및 텍스트 임베딩을 함께 학습함 총 5,520억 개 파라미터 중 입력 처리에 80억 개, 출력 생성에 160억 개를 활성화하는 비대칭 구조로...",
+          "summary": "Deno 팀이 Cloudflare에 합류하며 향후 1년에 걸쳐 런타임 투자를 축소함. 독립 런타임으로서의 확산은 제한적이었지만, Deno가 추진한 기능과 설계는 JavaScript 생태계에 남음 런타임 간 경쟁은 Node의 변화를 재촉함. 웹 표준 API, 권한 모델, 별도 빌드 없는 T...",
           "keywords": [
-            "DeepSeek",
-            "V4",
-            "Flash",
-            "1017",
-            "CED"
+            "고마워요",
+            "Deno"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
-          "link": "https://news.hada.io/topic?id=35524",
-          "pubDate": "2026-10-17T10:31:48.000Z",
+          "title": "태양광 발전량, 사상 처음으로 전 세계 원자력 발전량 추월",
+          "link": "https://news.hada.io/topic?id=35532",
+          "pubDate": "2026-10-17T16:40:02.000Z",
           "image": null,
-          "summary": "DeepSeek-V4.1-Flash-1017은 기존 V4.1-Flash의 소규모 업데이트로, 추론, 코딩, 에이전트 작업과 시각 벤치마크 성능을 개선함 공개 평가에서 Terminal-Bench 4.0 점수는 31.2에서 42.3으로, ProgramBench는 20.3에서 29.1로 상승함",
+          "summary": "WNISR 2026에 따르면 2025년 전 세계 태양광 발전량이 30% 증가하며 처음으로 연간 원자력 발전량을 넘어섬 태양광과 풍력의 설비 확장이 원자력을 크게 앞서고 있음. 보고서 기준 2025년 태양광 설비는 27%, 풍력은 14% 증가한 반면, 원자력 설치 용량은 1.5GW 늘...",
           "keywords": [
-            "DeepSeek",
-            "V4",
-            "Flash",
-            "1017",
-            "추론"
+            "태양광",
+            "발전량",
+            "사상",
+            "처음으로",
+            "세계"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: CarTroller - 웹캠 손 인식으로 운전하는 브라우저 RC카 게임",
-          "link": "https://news.hada.io/topic?id=35523",
-          "pubDate": "2026-10-17T10:26:41.000Z",
+          "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
+          "link": "https://news.hada.io/topic?id=35531",
+          "pubDate": "2026-10-17T16:33:01.000Z",
           "image": null,
-          "summary": "웹캠 앞에서 손으로 책상 위 RC카를 조종하는 브라우저 게임입니다. 설치나 회원가입 없이 바로 해 볼 수 있고, 웹캠이 없으면 키보드와 마우스로도 됩니다. 조작 왼손: 손목을 기울이면 조향, 손을 펴면 가속, 주먹은 브레이크, 멈춘 채 주먹을 유지하면 후진 오른손: 엄지·검지로 집어",
+          "summary": "직접 Suno로 곡을 만들어 유튜브에 올리고 있고(수익도 나고 있습니다), 그 과정에서 이런 실패를 줄이려고 쓰던 작사 규칙을 Claude 에이전트 스킬로 정리해 공개했습니다. Suno로 노래를 만들면 가사는 멀쩡한데 이상하게 들리는 경우가 많습니다. 줄 끝이 랩처럼 몰아치거나, 한 글자를 길게 끌어 늘어지거",
           "keywords": [
             "Show",
             "GN:",
-            "CarTroller",
-            "웹캠",
-            "인식으로"
+            "수노(Suno)용",
+            "한국어",
+            "작사"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "ImageMagick으로 88x31 버튼에 책 담기",
-          "link": "https://news.hada.io/topic?id=35520",
-          "pubDate": "2026-10-17T07:01:32.000Z",
+          "title": "Claude로 더 효율적인 양자 회로 설계하기",
+          "link": "https://news.hada.io/topic?id=35530",
+          "pubDate": "2026-10-17T14:38:47.000Z",
           "image": null,
-          "summary": "88x31 픽셀 애니메이션 GIF에 책의 텍스트를 여러 프레임으로 나눠 담아, 작은 웹 버튼에서 《Moby Dick》을 읽을 수 있게 만듦 초소형 글꼴 TomThumb을 사용하면 버튼 하나에 22자씩 5줄을 넣을 수 있어, 일반 글꼴보다 좁은 공간을 활용하기 좋음 POSIX...",
+          "summary": "Claude Mythos 5가 자연어 명세와 자동 평가기를 바탕으로 8개 양자 계산 기본 연산의 회로를 설계해, 기존에 발표된 최고 설계보다 큐비트와 게이트 사용을 개선함 회로를 코드로 작성하고 정확성과 큐비트 수 × 게이트 수를 평가하는 반복 과정에서, 기존 설계의...",
           "keywords": [
-            "ImageMagick으로",
-            "88x31",
-            "버튼에",
-            "담기"
+            "Claude로",
+            "효율적인",
+            "양자",
+            "회로",
+            "설계하기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:04.376Z",
+      "fetchedAt": "2026-10-17T16:50:58.606Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -539,7 +536,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:04.434Z",
+      "fetchedAt": "2026-10-17T16:50:58.765Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:04.573Z",
+      "fetchedAt": "2026-10-17T16:50:59.170Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:04.622Z",
+      "fetchedAt": "2026-10-17T16:50:59.255Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:07.209Z",
+      "fetchedAt": "2026-10-17T16:51:01.749Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:07.361Z",
+      "fetchedAt": "2026-10-17T16:51:02.036Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +977,7 @@
           "summaryKo": "이 회사는 2 년 동안 3 천만 달러 이상의 매출을 올렸으며 3 월에 MyFitnessPal에 공개되지 않은 금액으로 인수되었습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:07.428Z",
+      "fetchedAt": "2026-10-17T16:51:02.198Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:08.610Z",
+      "fetchedAt": "2026-10-17T16:51:03.519Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1173,50 +1170,50 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T13:28:09.026Z",
+      "fetchedAt": "2026-10-17T16:51:03.976Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 1,
-      "change": "up"
-    },
-    {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
       "rank": 6,
       "change": "down"
     },
@@ -1225,25 +1222,25 @@
       "label": "뉴스 모음",
       "count": 4,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "모집",
       "label": "모집",
       "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "중기부",
       "label": "중기부",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "1017",
-      "label": "1017",
+      "key": "esg",
+      "label": "ESG",
       "count": 2,
       "rank": 10,
       "change": "new"
