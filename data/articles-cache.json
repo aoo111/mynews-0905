@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-17T08:16:55.757Z",
+  "collectedAt": "2026-10-17T13:28:09.032Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
+          "link": "https://www.mk.co.kr/news/economy/12178581",
+          "pubDate": "2026-10-17T11:51:08.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-a.v1.20261016.9b06cbb4208a4aeb8a96790e456e49e1_R.png",
+          "summary": "AI 답변, 실제 시장 비중과 차이도 자체 콘텐츠와 상품 설명 영향 有생성형 인공지능(AI)에게 금융상품을 물으면 어떤 금융사가 가장 많이 거론될까. AI 브랜드 분석 전문기업 에..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“실손보험료 낮춰 볼까”…할인형 특약과 세대 전환 다음 달 도입 앞둬",
+          "link": "https://www.mk.co.kr/news/economy/12178564",
+          "pubDate": "2026-10-17T10:24:14.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.687c647272ee4c75ad483360598d0e17_R.jpg",
+          "summary": "실손 1~2세대 가입자 보험료 부담 비급여 보장 제외해 보험료 낮출수도 5세대로 전환하면 일정 기간 할인다음 달에 1~2세대 초기 실손보험 가입자의 보험료 부담을 줄일 선택형 할인..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
+          "link": "https://www.mk.co.kr/news/economy/12178547",
+          "pubDate": "2026-10-17T08:19:28.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.7277aafefbe0499594a03b4c864b2c43_R.png",
+          "summary": "전날 낙폭 일부 만회에도 직전 7거래일간 20.7% 급락 국민·우리·농협 변동형 주담대 금리 최대 0.25%P↑ 4억원 대출, 잔액 일정하면 연 이자 100만원 증가코스피가 지난 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“벤츠는 뒷범퍼 박으면 엔진도 고장나나?”…1855만원 견적서에 ‘멘붕’ [어쩌다 세상이]",
           "link": "https://www.mk.co.kr/news/economy/12178380",
           "pubDate": "2026-10-16T23:48:33.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "일자리 구하려다 ‘신종 금융사기’ 공범으로…2030 노리는 구직사이트",
-          "link": "https://www.mk.co.kr/news/economy/12178368",
-          "pubDate": "2026-10-16T23:14:08.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261015.c7eaf61008ea48f7bc015064b01ffe6d_R.png",
-          "summary": "28세 A씨는 구직사이트에서 일자리를 찾던 중 재택근무로 콜센터 일을 할 수 있다고 해서 지원했다. 그런데 교육을 받을수록 일반적인 콜센터 업무와 다르다는 의심이 들었다. 불법투자..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“취업자 늘었다는데, 우리 애는 왜 방에만 있죠”…20대는 17만명 줄었다",
-          "link": "https://www.mk.co.kr/news/economy/12178340",
-          "pubDate": "2026-10-16T21:18:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/17/news-p.v1.20261016.57dc3905ec9d41d69609c2b40f115ad8_R.png",
-          "summary": "데이터처, 9월 고용동향 제조업 27개월만에 증가에도 청년층은 47개월 연속 줄어 정부, 연령기준 29→34세 올려 30대까지 포함해도 9.8만 감소 재경부 “민간 일자리 확대 총..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] 한미 재무·통화당국 첫 '2+2 회동'",
-          "link": "https://www.mk.co.kr/news/economy/12178211",
-          "pubDate": "2026-10-16T10:41:03.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/17/20261017_01160109000005_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:46.119Z",
+      "fetchedAt": "2026-10-17T13:28:02.035Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:46.201Z",
+      "fetchedAt": "2026-10-17T13:28:02.097Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+          "pubDate": "2026-10-17T19:47:45.000Z",
+          "image": null,
+          "summary": "■ 블랙포레스트랩스, 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인’ 가중치 공개블랙포레스트랩스(BFL)가 56억개의 매개변수를 갖춘 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인(FLUX 3 Image Klein)’의 가중치를 공개했다. 최대 10장의 참조 이미지와 4K 이미지 생성을 지원하며, 특정 영역만 선택해 수정하거나 원하는 위치에 요소를 배치할 수 있다. 개인과 연 매출 500만달러 미만 기업에는 무료 상업적 이용을 허용하며, 그 이상 기업은 별도 계약이나 API를 이용해야 한다.FLUX 3 Image Klein",
+          "keywords": [
+            "AI",
+            "모델",
+            "신작",
+            "BFL",
+            "플럭스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+          "pubDate": "2026-10-17T19:27:01.000Z",
+          "image": null,
+          "summary": "AI로 소프트웨어를 만드는 작업이 쉬워지면서, 결과물이 실제로 제대로 작동하는지 검증하는 문제가 부각되고 있다. AI 코딩 서비스 업체 레플릿도 외부 업체의 상용 테스트 플랫폼을 활용하는 것으로 알려졌다. 기업용 에이전트에 이어 AI 코딩 분야에서도 LLM에만 의존하지 않고 별도의 통제·검증 장치를 결합하는 움직임이 나타나고 있다.디 인포메이션은 15일(현지시간) 레플릿을 비롯한 기업들이 네트워크 장애 등 다양한 상황에서 소프트웨어의 작동을 확인하기 위해 시뮬레이션 도구를 사용하고 있다고 보도했다.루이스 차베스 레플릿 최고 기술책임",
+          "keywords": [
+            "AI",
+            "코딩도",
+            "LLM만으론",
+            "부족",
+            "레플릿"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+          "pubDate": "2026-10-17T18:45:28.000Z",
+          "image": null,
+          "summary": "오픈AI 직원의 회의실 도청 혐의 사건을 계기로 미국 AI 기업을 겨냥한 첩보 활동에 대한 우려가 커지고 있다. 미국 정보당국은 AI 기밀 보호를 국가 경쟁력과 안보의 문제로 강조했으며, 주요 AI 기업들은 사건 이전부터 직원들에게 금전적 제안은 물론 일상적인 대화와 연애를 통한 정보 수집까지 경계하도록 교육해 온 것으로 드러났다.CNBC는 16일(현지시간) 제이 클레이튼 미국 국가정보국장이 오픈AI 사건과 관련해 미국 기업과 정부 모두 외국의 정보 수집 활동을 경계해야 한다고 밝혔다고 보도했다.클레이튼 국장은 인터뷰에서 “기업 차",
+          "keywords": [
+            "오픈AI",
+            "도청",
+            "사건에",
+            "드러난",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+          "pubDate": "2026-10-17T18:06:23.000Z",
+          "image": null,
+          "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대학교, 구글 딥마인드 등 연구진 35명은 지난 9일 아카이브를 통해 이론물리 평가 벤치마크 ‘시오피즈이밸(TheoPhysEval)’과 이를 활용한 평가 결과를 담은 논문을 공개했다.이 벤치마크는 AI 에이전트가 실제",
+          "keywords": [
+            "GPT",
+            "아스트라",
+            "미공개",
+            "물리",
+            "문제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
-          "pubDate": "2026-10-17T15:40:58.000Z",
-          "image": null,
-          "summary": "오픈AI가 '챗GPT'와 구글 크롬 브라우저의 통합을 강화했다. 챗GPT가 사용자가 열어 둔 여러 탭의 정보를 한꺼번에 분석하는 것은 물론, 탭을 직접 제어해 양식 작성이나 자료 정리 같은 작업도 수행할 수 있게 됐다.오픈AI는 15일(현지시간) X를 통해 크롬용 챗GPT 확장 프로그램의 개선 사항을 공개했다. 업데이트된 확장 프로그램은 브라우저에서 열린 탭의 내용을 활용해 질문에 답하고, 사용자의 요청에 따라 해당 탭에서 작업을 진행할 수 있다.이 기능은 크롬에 설치하는 확장 프로그램을 통해 제공된다. 사용자는 크롬 웹 스토어에서",
-          "keywords": [
-            "오픈AI",
-            "크롬용",
-            "챗GPT",
-            "확장",
-            "기능"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216363",
-          "pubDate": "2026-10-17T15:17:31.000Z",
-          "image": null,
-          "summary": "AI타임스와 이스트에이드의 10월 둘째 주(10월9일~15일) 이슈 분석 결과, 코스피 급락을 포함한 증시 이슈와 쿠팡 서비스 장애, 인천 흉기 난동 등이 상위권을 차지했다.이번 주 검색량 1위는 '코스피 6400선 붕괴(5.00%)'가 차지했다. 코스피는 외국인 매도와 반도체주 약세로 연속 하락했으며, 특히 지난 15일에는 장중 8% 넘게 급락해 서킷브레이커가 발동되기도 했다.이후 소폭 반등해 5668에 장을 마감했지만, 연이은 하락으로 빚을 내 주식에 투자했다가 강제 처분된 반대매매 규모는 3000억원에 육박한 것으로 집계됐다.",
-          "keywords": [
-            "AI",
-            "이슈트렌드",
-            "삼전",
-            "최대",
-            "실적에도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216352",
-          "pubDate": "2026-10-17T12:05:55.000Z",
-          "image": null,
-          "summary": "앤트로픽이 미국 의회 의원들에게 첨단 AI 모델의 안전과 보안을 규제하는 법안 초안을 제안했다. 기업에 안전 평가와 정보 공개 의무를 부과하는 한편, 정부가 모델 출시나 사용을 중단할 수 있는 조건을 엄격히 제한하고 일부 주정부의 AI 안전 규제를 연방 기준으로 대체하는 내용이다.폴리티코는 16일(현지시간) 앤트로픽 관계자들이 의회 의원들에게 비공개로 법안 초안을 제시했다고 보도했다. 이번에 알려진 내용은 의원들에게 비공개로 제안한 초안으로, 회사가 자사 기술에 적용될 규제의 방향을 직접 제시한 것이다.앤트로픽은 “이 법안은 우리가",
-          "keywords": [
-            "앤트로픽",
-            "의회에",
-            "자체",
-            "AI",
-            "안전"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "인도에서도 AI 에이전트 무단 침입 발생…\"개발사가 피해 기업에 보고\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216359",
-          "pubDate": "2026-10-17T11:48:12.000Z",
-          "image": null,
-          "summary": "AI 모델을 시험하는 과정에서 여러 AI 기업의 에이전트가 인도 기업들의 실제 운영 시스템에 침입해 개인정보와 기밀 사업 자료를 열람한 것으로 드러났다. 피해 기업들은 침입 사실을 자체적으로 감지하지 못했다. AI 모델 제공업체들이 사고를 자발적으로 신고하면서 침입 사실이 확인됐다.로이터와 테크크런치는 16일(현지시간) 인도 컴퓨터 비상 대응팀(CERT-In)이 전날 성명을 통해 여러 AI 모델 제공업체로부터 이 같은 사고를 보고받았다고 밝혔다고 보도했다.업체들은 공개 인터넷에서 모델을 연구·평가하던 중 AI 에이전트가 인도 기업의",
-          "keywords": [
-            "인도에서도",
-            "AI",
-            "에이전트",
-            "무단",
-            "침입"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:47.354Z",
+      "fetchedAt": "2026-10-17T13:28:03.504Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:49.324Z",
+      "fetchedAt": "2026-10-17T13:28:03.639Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -364,6 +364,74 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때",
+          "link": "https://news.hada.io/topic?id=35526",
+          "pubDate": "2026-10-17T12:05:48.000Z",
+          "image": null,
+          "summary": "비정합성(decoherence) 은 개별적으로는 타당하지만 서로 호환되지 않거나 중복되는 모델이 시스템에 쌓이는 현상임. 모델 사이를 오가고 의도치 않은 부작용을 막는 일이 변경 비용의 대부분을 차지하게 됨 비정합성은 시간 자체가 아니라 시스템의 변경에 따라 커...",
+          "keywords": [
+            "비정합성의",
+            "함정:",
+            "AI",
+            "저질",
+            "콘텐츠가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델",
+          "link": "https://news.hada.io/topic?id=35525",
+          "pubDate": "2026-10-17T11:32:19.000Z",
+          "image": null,
+          "summary": "DeepSeek V4.1 Flash는 회사 최초로 Causal Encoder-Decoder(CED) 아키텍처를 적용한 희소 MoE 모델로, 사전 학습 시작부터 시각 및 텍스트 임베딩을 함께 학습함 총 5,520억 개 파라미터 중 입력 처리에 80억 개, 출력 생성에 160억 개를 활성화하는 비대칭 구조로...",
+          "keywords": [
+            "DeepSeek",
+            "V4",
+            "Flash",
+            "1017",
+            "CED"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
+          "link": "https://news.hada.io/topic?id=35524",
+          "pubDate": "2026-10-17T10:31:48.000Z",
+          "image": null,
+          "summary": "DeepSeek-V4.1-Flash-1017은 기존 V4.1-Flash의 소규모 업데이트로, 추론, 코딩, 에이전트 작업과 시각 벤치마크 성능을 개선함 공개 평가에서 Terminal-Bench 4.0 점수는 31.2에서 42.3으로, ProgramBench는 20.3에서 29.1로 상승함",
+          "keywords": [
+            "DeepSeek",
+            "V4",
+            "Flash",
+            "1017",
+            "추론"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: CarTroller - 웹캠 손 인식으로 운전하는 브라우저 RC카 게임",
+          "link": "https://news.hada.io/topic?id=35523",
+          "pubDate": "2026-10-17T10:26:41.000Z",
+          "image": null,
+          "summary": "웹캠 앞에서 손으로 책상 위 RC카를 조종하는 브라우저 게임입니다. 설치나 회원가입 없이 바로 해 볼 수 있고, 웹캠이 없으면 키보드와 마우스로도 됩니다. 조작 왼손: 손목을 기울이면 조향, 손을 펴면 가속, 주먹은 브레이크, 멈춘 채 주먹을 유지하면 후진 오른손: 엄지·검지로 집어",
+          "keywords": [
+            "Show",
+            "GN:",
+            "CarTroller",
+            "웹캠",
+            "인식으로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "ImageMagick으로 88x31 버튼에 책 담기",
           "link": "https://news.hada.io/topic?id=35520",
@@ -379,74 +447,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "Ultramarine 1 Flash - 금융, 법률, 컨설팅, 운영 실무용 오픈 모델",
-          "link": "https://news.hada.io/topic?id=35519",
-          "pubDate": "2026-10-17T06:31:35.000Z",
-          "image": null,
-          "summary": "Ultramarine 1 Flash는 금융, 법률, 컨설팅, 운영 분야의 전문 업무를 위한 오픈 모델로, 고객에게 전달할 문서와 결과물 작성에 초점을 맞춤 Paper Instruments의 내부 평가 PI Knowledge Work에서 작업당 0.13달러로 Claude Fable 5 (max)와 GPT-5.6 Sol (max)보...",
-          "keywords": [
-            "Ultramarine",
-            "Flash",
-            "금융",
-            "법률",
-            "컨설팅"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "버틀레리안 지하드",
-          "link": "https://news.hada.io/topic?id=35518",
-          "pubDate": "2026-10-17T05:36:57.000Z",
-          "image": null,
-          "summary": "버틀레리안 지하드",
-          "keywords": [
-            "버틀레리안",
-            "지하드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "FLUX 3 Image Klein - 56억 파라미터의 오픈 웨이트 이미지 생성/편집 모델",
-          "link": "https://news.hada.io/topic?id=35517",
-          "pubDate": "2026-10-17T05:33:57.000Z",
-          "image": null,
-          "summary": "Black Forest Labs가 FLUX 3 Image Klein을 공개함. 56억 파라미터로 텍스트 기반 이미지 생성, 이미지 편집, 최대 10장의 참조 이미지를 활용한 생성을 지원함 네이티브 4K 생성과 픽셀 단위의 정밀 편집을 지원하며, 바운딩 박스로 요소 배치 위치나 편집 영역을...",
-          "keywords": [
-            "FLUX",
-            "Image",
-            "Klein",
-            "56억",
-            "파라미터의"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "메모리 벤치마크 점수 믿어도 되나",
-          "link": "https://news.hada.io/topic?id=35516",
-          "pubDate": "2026-10-17T05:15:58.000Z",
-          "image": null,
-          "summary": "에이전트 기억 벤치마크(LoCoMo, LongMemEval 등)의 점수를 그대로 믿기 어려운 이유를 정리한 글 같은 제품의 LoCoMo 점수가 누가 쟀느냐에 따라 58.44~94.7로 변동이 큼 LoCoMo 정답지 1,540개를 대화 원문과 대조하니 약 7%가 틀렸거나 모호 같은 답이라도 채점 프롬프트만 바꾸...",
-          "keywords": [
-            "메모리",
-            "벤치마크",
-            "점수",
-            "믿어도",
-            "되나"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:50.305Z",
+      "fetchedAt": "2026-10-17T13:28:04.376Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +539,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:50.422Z",
+      "fetchedAt": "2026-10-17T13:28:04.434Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:50.590Z",
+      "fetchedAt": "2026-10-17T13:28:04.573Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:50.642Z",
+      "fetchedAt": "2026-10-17T13:28:04.622Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,6 +702,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "“성수 상권의 변화부터 AI 데이터센터 투자까지”…알스퀘어가 짚은 부동산 시장의 새 흐름",
+          "link": "https://www.venturesquare.net/1120741/",
+          "pubDate": "2026-10-17T09:49:51.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/jung-696x522.png",
+          "summary": "알스퀘어가 16일 제5회 미디어허브를 열고 서울 리테일 상권과 데이터센터 투자, 중대재해 예방을 둘러싼 시장 변화를 분석했다. 올해 1~9월 성수동 팝업스토어는 전년 동기 대비 5.3% 증가했지만 전국 점유율은 낮아져 팝업 시장의 지역적 확산이 확인됐다. 데이터센터는 ... The post “성수 상권의 변화부터 AI 데이터센터 투자까지”…알스퀘어가 짚은 부동산 시장의 새 흐름 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "현장스케치",
+            "AI데이터센터",
+            "ESG"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "덱스터스튜디오, 스페인·룩셈부르크와 영상 제작 협력 논의…유럽 콘텐츠 시장 접점 확대",
           "link": "https://www.venturesquare.net/1120720/",
@@ -770,27 +791,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "핀텔, 교통·방범·안전 통합하는 AI 도시 운영 플랫폼 공개…강릉 ITS 세계총회 참가",
-          "link": "https://www.venturesquare.net/1120679/",
-          "pubDate": "2026-10-16T13:33:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/FINTEL-420x522.png",
-          "summary": "AI 영상분석 기업 핀텔이 오는 19일부터 23일까지 열리는 ‘2026 강릉 ITS 세계총회’에서 AI 도시 운영 플랫폼 ‘프리벡스 4.0’을 공개한다. 프리벡스 4.0은 교통·방범·안전 관제를 통합하고 고해상도 영상분석과 다중객체 추적 기술을 활용해 도시 상황을 분석... The post 핀텔, 교통·방범·안전 통합하는 AI 도시 운영 플랫폼 공개…강릉 ITS 세계총회 참가 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI영상분석",
-            "ITS",
-            "LLM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:53.423Z",
+      "fetchedAt": "2026-10-17T13:28:07.209Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:53.660Z",
+      "fetchedAt": "2026-10-17T13:28:07.361Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +980,7 @@
           "summaryKo": "이 회사는 2 년 동안 3 천만 달러 이상의 매출을 올렸으며 3 월에 MyFitnessPal에 공개되지 않은 금액으로 인수되었습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:53.705Z",
+      "fetchedAt": "2026-10-17T13:28:07.428Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1079,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:55.098Z",
+      "fetchedAt": "2026-10-17T13:28:08.610Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1170,77 +1173,77 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T08:16:55.748Z",
+      "fetchedAt": "2026-10-17T13:28:09.026Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
       "count": 4,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "모집",
       "label": "모집",
       "count": 3,
-      "rank": 7,
-      "change": "up"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "중기부",
       "label": "중기부",
       "count": 3,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "경남스타트업",
-      "label": "경남스타트업",
-      "count": 2,
       "rank": 9,
       "change": "down"
     },
     {
-      "key": "오픈ai",
-      "label": "오픈AI",
+      "key": "1017",
+      "label": "1017",
       "count": 2,
       "rank": 10,
       "change": "new"
