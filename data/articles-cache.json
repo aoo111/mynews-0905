@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-17T03:06:12.066Z",
+  "collectedAt": "2026-10-17T08:16:55.757Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:02.256Z",
+      "fetchedAt": "2026-10-17T08:16:46.119Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:02.306Z",
+      "fetchedAt": "2026-10-17T08:16:46.201Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+          "pubDate": "2026-10-17T17:02:23.000Z",
+          "image": null,
+          "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 전문가들의 평가가 엇갈리고 있다.비즈니스인사이더 등에 따르면, 15일(현지시간) 전 오픈AI 연구원 닉 카마라타가 공개한 에세이 ‘신경망은 이미 정돈돼 있다(Neural Networks Are Already Clean)’",
+          "keywords": [
+            "오픈AI",
+            "연구원",
+            "AI",
+            "내부",
+            "읽을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+          "pubDate": "2026-10-17T15:40:58.000Z",
+          "image": null,
+          "summary": "오픈AI가 '챗GPT'와 구글 크롬 브라우저의 통합을 강화했다. 챗GPT가 사용자가 열어 둔 여러 탭의 정보를 한꺼번에 분석하는 것은 물론, 탭을 직접 제어해 양식 작성이나 자료 정리 같은 작업도 수행할 수 있게 됐다.오픈AI는 15일(현지시간) X를 통해 크롬용 챗GPT 확장 프로그램의 개선 사항을 공개했다. 업데이트된 확장 프로그램은 브라우저에서 열린 탭의 내용을 활용해 질문에 답하고, 사용자의 요청에 따라 해당 탭에서 작업을 진행할 수 있다.이 기능은 크롬에 설치하는 확장 프로그램을 통해 제공된다. 사용자는 크롬 웹 스토어에서",
+          "keywords": [
+            "오픈AI",
+            "크롬용",
+            "챗GPT",
+            "확장",
+            "기능"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216363",
+          "pubDate": "2026-10-17T15:17:31.000Z",
+          "image": null,
+          "summary": "AI타임스와 이스트에이드의 10월 둘째 주(10월9일~15일) 이슈 분석 결과, 코스피 급락을 포함한 증시 이슈와 쿠팡 서비스 장애, 인천 흉기 난동 등이 상위권을 차지했다.이번 주 검색량 1위는 '코스피 6400선 붕괴(5.00%)'가 차지했다. 코스피는 외국인 매도와 반도체주 약세로 연속 하락했으며, 특히 지난 15일에는 장중 8% 넘게 급락해 서킷브레이커가 발동되기도 했다.이후 소폭 반등해 5668에 장을 마감했지만, 연이은 하락으로 빚을 내 주식에 투자했다가 강제 처분된 반대매매 규모는 3000억원에 육박한 것으로 집계됐다.",
+          "keywords": [
+            "AI",
+            "이슈트렌드",
+            "삼전",
+            "최대",
+            "실적에도"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216352",
+          "pubDate": "2026-10-17T12:05:55.000Z",
+          "image": null,
+          "summary": "앤트로픽이 미국 의회 의원들에게 첨단 AI 모델의 안전과 보안을 규제하는 법안 초안을 제안했다. 기업에 안전 평가와 정보 공개 의무를 부과하는 한편, 정부가 모델 출시나 사용을 중단할 수 있는 조건을 엄격히 제한하고 일부 주정부의 AI 안전 규제를 연방 기준으로 대체하는 내용이다.폴리티코는 16일(현지시간) 앤트로픽 관계자들이 의회 의원들에게 비공개로 법안 초안을 제시했다고 보도했다. 이번에 알려진 내용은 의원들에게 비공개로 제안한 초안으로, 회사가 자사 기술에 적용될 규제의 방향을 직접 제시한 것이다.앤트로픽은 “이 법안은 우리가",
+          "keywords": [
+            "앤트로픽",
+            "의회에",
+            "자체",
+            "AI",
+            "안전"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "인도에서도 AI 에이전트 무단 침입 발생…\"개발사가 피해 기업에 보고\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216359",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "애플 첫 폴더블 ‘아이폰 듀오’ 예판 대란…배송 최대 3개월 지연",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216362",
-          "pubDate": "2026-10-17T11:35:39.000Z",
-          "image": null,
-          "summary": "애플의 첫 폴더블 스마트폰 ‘아이폰 듀오(iPhone Duo)’가 사전 예약 시작 직후부터 주문이 몰리며 배송 일정이 내년 1월 말까지 밀렸다. 초기 수요가 예상을 뛰어넘었다고 밝혔으며, 공급 부족에도 온라인 주문을 계속 받겠다는 방침이다.블룸버그에 따르면, 애플은 16일(현지시간) 성명을 통해 “첫 폴더블 아이폰인 아이폰 듀오의 사전 주문 수요는 그야말로 이례적일 정도로 뜨겁다”며 “이 혁신적인 신제품을 고객에게 최대한 빨리 전달하기 위해 노력하고 있으며, 온라인 주문도 계속 받을 것”이라고 밝혔다.미국에서 사전 예약이 시작된 직",
-          "keywords": [
-            "애플",
-            "폴더블",
-            "아이폰",
-            "듀오",
-            "예판"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216354",
-          "pubDate": "2026-10-17T11:25:39.000Z",
-          "image": null,
-          "summary": "주요 7개국(G7)이 AI을 활용한 사이버 공격에 대비해 금융 시스템의 대응 능력을 점검하는 모의훈련을 실시하기로 했다. AI 모델이 사이버 공격의 속도와 규모를 키우면서 금융기관과 핵심 서비스에 대한 위협이 커지자 국제 공조를 강화하려는 움직임이다.로이터에 따르면, 가타야마 사쓰키 일본 재무상은 15일(현지시간) 태국 방콕에서 열린 주요국 재무장관·중앙은행 총재 회의 이후 “G7 재무차관들이 프런티어 AI를 대상으로 한 모의훈련 실시 방안을 논의해 왔으며, 장관급에서 이를 승인했다”고 밝혔다.이번 회의는 국제통화기금(IMF) 연차",
-          "keywords": [
-            "G7",
-            "AI",
-            "금융",
-            "사이버",
-            "공격"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "IMF “AI 기대 꺾이면 세계 성장률 1.3%p 하락 가능”…안전장치 촉구",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216358",
-          "pubDate": "2026-10-17T11:12:31.000Z",
-          "image": null,
-          "summary": "국제통화기금(IMF)이 AI 투자에 대한 기대가 실제 성과로 이어지지 않으면 세계 경제가 충격을 받을 수 있다고 경고했다. 비관적 시나리오에서는 2028년 세계 경제성장률이 최대 1.3%포인트 낮아질 수 있다고 분석했다. 크리스탈리나 게오르기에바 IMF 총재는 AI의 위험이 기회를 넘어서지 않도록 안전장치와 윤리적 기준도 마련해야 한다고 강조했다.로이터와 월스트리트저널(WSJ)은 16일(현지시간) 태국 방콕에서 열린 IMF·세계은행 연례 총회에서 AI 투자의 경제적 효과와 금융 안정성, 안전 기준 등이 주요 의제로 논의됐다고 보도했",
-          "keywords": [
-            "IMF",
-            "AI",
-            "기대",
-            "꺾이면",
-            "세계"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216353",
-          "pubDate": "2026-10-17T10:47:07.000Z",
-          "image": null,
-          "summary": "앤트로픽이 신용평가사 크롤 본드 레이팅 에이전시(KBRA)로부터 ‘투자등급(investment grade)’보다 한 단계 낮은 ‘BB+’ 신용등급을 받은 것으로 확인됐다. 투자 등급에 진입하면 더 낮은 금리로 자금을 빌릴 수 있어 향후 대규모 AI 인프라 투자에도 영향을 미칠 전망이다. 다만 이번 평가는 현금흐름 등 핵심 재무 정보가 빠진 상태에서 이뤄졌다.파이낸셜타임스(FT)는 16일(현지시간) 관련 문서를 인용해 KBRA가 지난 6월 아폴로 주도의 350억달러 규모 반도체 금융 조달에 앞서 앤트로픽에 BB+ 발행자 신용등급을 부",
-          "keywords": [
-            "앤트로픽",
-            "신용등급",
-            "투자적격",
-            "단계",
-            "빌리기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:03.458Z",
+      "fetchedAt": "2026-10-17T08:16:47.354Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -313,6 +313,23 @@
           "summaryKo": "두 명의 엔지니어가 코덱스와 함께 몇 주 만에 에이전트용 스택 오버플로를 제공했으며, ChatGPT 플러그인은 에이전트 생성에서 최대 10배의 성장을 도왔습니다."
         },
         {
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "link": "https://openai.com/index/benefit-street-partners",
+          "pubDate": "2026-10-16T00:00:00.000Z",
+          "image": null,
+          "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "keywords": [
+            "Benefit",
+            "Street",
+            "Partners",
+            "answers",
+            "questions"
+          ],
+          "isForeign": true,
+          "titleKo": "Benefit Street Partners는 Codex로 질문에 더 빠르게 답변합니다.",
+          "summaryKo": "Anant Kumar는 코드 검토 및 더 빠른 후속 조치를 위해 Codex를 사용하여 대출 평가를 비교하고 신용 계약을 분석하는 도구를 구축합니다."
+        },
+        {
           "title": "Bringing GPT-Rosalind to academic research labs",
           "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
           "pubDate": "2026-10-15T19:00:00.000Z",
@@ -337,26 +354,9 @@
           "isForeign": true,
           "titleKo": "학생들에게 질문을 통해 생각하고 배우도록 가르치기",
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
-        },
-        {
-          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-          "link": "https://openai.com/index/sullivan-cromwell",
-          "pubDate": "2026-10-15T00:00:00.000Z",
-          "image": null,
-          "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-          "keywords": [
-            "Sullivan",
-            "Cromwell",
-            "brings",
-            "legal",
-            "expertise"
-          ],
-          "isForeign": true,
-          "titleKo": "설리번 앤 크롬웰 (Sullivan & Cromwell) 은 계약 검토에 법률 전문 지식을 제공합니다.",
-          "summaryKo": "Sullivan & Cromwell은 OpenAI와 공동으로 계약 초안의 문제를 식별하기 위한 AI 도구인 계약 분석기를 개발했습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:05.345Z",
+      "fetchedAt": "2026-10-17T08:16:49.324Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,90 +365,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "/dev/null: 개발자를 위한 소셜 네트워크",
-          "link": "https://news.hada.io/topic?id=35513",
-          "pubDate": "2026-10-17T02:31:22.000Z",
+          "title": "ImageMagick으로 88x31 버튼에 책 담기",
+          "link": "https://news.hada.io/topic?id=35520",
+          "pubDate": "2026-10-17T07:01:32.000Z",
           "image": null,
-          "summary": "/dev/null은 GitHub 계정으로 로그인해 개발자를 팔로우하고, 게시물에 별을 달거나 대화에 참여하는 소셜 네트워크임 게시물을 커밋(commit) 이라고 부르며, 최대 4,000자의 일반 텍스트를 작성할 수 있음 서비스 안내에 따르면",
+          "summary": "88x31 픽셀 애니메이션 GIF에 책의 텍스트를 여러 프레임으로 나눠 담아, 작은 웹 버튼에서 《Moby Dick》을 읽을 수 있게 만듦 초소형 글꼴 TomThumb을 사용하면 버튼 하나에 22자씩 5줄을 넣을 수 있어, 일반 글꼴보다 좁은 공간을 활용하기 좋음 POSIX...",
           "keywords": [
-            "/dev/null:",
-            "개발자를",
-            "위한",
-            "소셜",
-            "네트워크"
+            "ImageMagick으로",
+            "88x31",
+            "버튼에",
+            "담기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "쓰라린 교훈 (2019)",
-          "link": "https://news.hada.io/topic?id=35512",
-          "pubDate": "2026-10-17T02:26:46.000Z",
+          "title": "Ultramarine 1 Flash - 금융, 법률, 컨설팅, 운영 실무용 오픈 모델",
+          "link": "https://news.hada.io/topic?id=35519",
+          "pubDate": "2026-10-17T06:31:35.000Z",
           "image": null,
-          "summary": "AI 연구의 역사는 인간의 지식을 직접 활용하는 특수한 방법보다 연산 자원을 활용하는 범용적인 방법이 장기적으로 압도적인 성과를 거두었음을 보여줌. 인간의 지식을 내장하는 접근법은 단기적으로 효과적이지만, 방법론의 복잡성을 높이고 연산 규모의 확장에 따른 발전을 저해하는 경향이 있음....",
+          "summary": "Ultramarine 1 Flash는 금융, 법률, 컨설팅, 운영 분야의 전문 업무를 위한 오픈 모델로, 고객에게 전달할 문서와 결과물 작성에 초점을 맞춤 Paper Instruments의 내부 평가 PI Knowledge Work에서 작업당 0.13달러로 Claude Fable 5 (max)와 GPT-5.6 Sol (max)보...",
           "keywords": [
-            "쓰라린",
-            "교훈",
-            "(2019)"
+            "Ultramarine",
+            "Flash",
+            "금융",
+            "법률",
+            "컨설팅"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "NIST 타원곡선 시드 생성의 수수께끼가 풀려 현상금 지급",
-          "link": "https://news.hada.io/topic?id=35509",
-          "pubDate": "2026-10-17T02:02:06.000Z",
+          "title": "버틀레리안 지하드",
+          "link": "https://news.hada.io/topic?id=35518",
+          "pubDate": "2026-10-17T05:36:57.000Z",
           "image": null,
-          "summary": "NIST 타원곡선의 시드는 영어 문장의 해시가 아니라, 1997~1998년의 UNIX 타임스탬프로 초기화한 drand48 난수 생성기의 출력에서 만들어졌음 Anthropic 연구팀이 생성 방식을 밝혀 현상금 전액을 수령했으며, 상금을 Let’s Encrypt 운영 비영리단체 ISRG...",
+          "summary": "버틀레리안 지하드",
           "keywords": [
-            "NIST",
-            "타원곡선",
-            "시드",
-            "생성의",
-            "수수께끼가"
+            "버틀레리안",
+            "지하드"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "메모리에서 출발해 트랜스포머를 발명할 수도 있었다",
-          "link": "https://news.hada.io/topic?id=35508",
-          "pubDate": "2026-10-17T01:33:28.000Z",
+          "title": "FLUX 3 Image Klein - 56억 파라미터의 오픈 웨이트 이미지 생성/편집 모델",
+          "link": "https://news.hada.io/topic?id=35517",
+          "pubDate": "2026-10-17T05:33:57.000Z",
           "image": null,
-          "summary": "선형 계층, MLP, 셀프 어텐션을 모두 키와 값의 쌍을 저장하고 유사도로 검색하는 연상 메모리로 볼 수 있으며, 회상 과정의 간섭을 줄이는 방식으로 각 구조를 유도할 수 있음 메모리 용량을 다른 기억의 간섭이 목표 신호만큼 커지기 전까지 저장할 수 있는 기억...",
+          "summary": "Black Forest Labs가 FLUX 3 Image Klein을 공개함. 56억 파라미터로 텍스트 기반 이미지 생성, 이미지 편집, 최대 10장의 참조 이미지를 활용한 생성을 지원함 네이티브 4K 생성과 픽셀 단위의 정밀 편집을 지원하며, 바운딩 박스로 요소 배치 위치나 편집 영역을...",
           "keywords": [
-            "메모리에서",
-            "출발해",
-            "트랜스포머를",
-            "발명할",
-            "수도"
+            "FLUX",
+            "Image",
+            "Klein",
+            "56억",
+            "파라미터의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "NVIDIA Run:ai - 여러 팀이 GPU를 나눠 쓰도록 관리하는 Kubernetes 기반 플랫폼",
-          "link": "https://news.hada.io/topic?id=35507",
-          "pubDate": "2026-10-17T00:30:02.000Z",
+          "title": "메모리 벤치마크 점수 믿어도 되나",
+          "link": "https://news.hada.io/topic?id=35516",
+          "pubDate": "2026-10-17T05:15:58.000Z",
           "image": null,
-          "summary": "여러 팀이 공유하는 GPU 인프라에서 AI 개발, 학습, 추론 작업을 배치하고 자원을 배분하는 NVIDIA의 오픈소스 플랫폼 GPU 하나를 여러 작업에 나눠 할당하고, 남는 자원을 동적으로 활용해 유휴 GPU를 줄이는 방식 작업 우선순위와 공정한 배분, 자원 회...",
+          "summary": "에이전트 기억 벤치마크(LoCoMo, LongMemEval 등)의 점수를 그대로 믿기 어려운 이유를 정리한 글 같은 제품의 LoCoMo 점수가 누가 쟀느냐에 따라 58.44~94.7로 변동이 큼 LoCoMo 정답지 1,540개를 대화 원문과 대조하니 약 7%가 틀렸거나 모호 같은 답이라도 채점 프롬프트만 바꾸...",
           "keywords": [
-            "NVIDIA",
-            "Run:ai",
-            "여러",
-            "팀이",
-            "GPU를"
+            "메모리",
+            "벤치마크",
+            "점수",
+            "믿어도",
+            "되나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:06.247Z",
+      "fetchedAt": "2026-10-17T08:16:50.305Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +536,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:06.443Z",
+      "fetchedAt": "2026-10-17T08:16:50.422Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:06.627Z",
+      "fetchedAt": "2026-10-17T08:16:50.590Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:06.675Z",
+      "fetchedAt": "2026-10-17T08:16:50.642Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:09.658Z",
+      "fetchedAt": "2026-10-17T08:16:53.423Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:09.929Z",
+      "fetchedAt": "2026-10-17T08:16:53.660Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -979,7 +977,7 @@
           "summaryKo": "이 회사는 2 년 동안 3 천만 달러 이상의 매출을 올렸으며 3 월에 MyFitnessPal에 공개되지 않은 금액으로 인수되었습니다."
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:09.960Z",
+      "fetchedAt": "2026-10-17T08:16:53.705Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1078,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:11.280Z",
+      "fetchedAt": "2026-10-17T08:16:55.098Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,23 +1084,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRjUwTU5ZQzBxcHkyQl9DLUVnNFBfTTgwcjBuQWJHXzhqQTMtQzFiZDBmb3YtZ1RRYkl5OGtTRFl3VkY4UEVhLTltRHRvaDlVeGxBSWlWcGpoeUnSAWBBVV95cUxQNkt2aExSR0hHdndrSjFfNDg4VGJHRnJVTW1lYWFCelRVd3R1Y0txcXhtbnVlYkRGcHJwWHFuTHRHeEd3MlA2OXdoeVJPaFEyOHYwczVzU3JaUm1OdGduMkU?oc=5",
-          "pubDate": "2026-10-16T06:45:28.000Z",
-          "image": null,
-          "summary": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 연합뉴스",
-          "keywords": [
-            "강원랜드",
-            "석탄산업",
-            "전환지역",
-            "이전기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "[지원사업 공고] 10월 13~15일 새 정부 지원사업 공고 78건… 경영 27건·기술 20건 - CEO경제신문",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8za1N4Q1p1V0d2OUwxeGpXQ3B4aXEwX2NYRWVvYzQxQTdfZUV5bnRWVmJWV1I4Z0FBN3QyV1pYX3d4SkNESnFYOHJGYkotV1pGeUdJSENvQzdrTTFuUTRtblJVTm81QXZIenlVOQ?oc=5",
@@ -1121,17 +1102,34 @@
           "summaryKo": null
         },
         {
-          "title": "‘지역자원 연계 청년창업 지원사업’ 참여하세요 - 담양뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmRC0wb1hkQ1pDbEo3U2lvQlBLTXFobWo1QUR0cUgwdFRqWXhnc1M0UG1VRjlITTE2Zmt6cURTd2l3TUdmT2FFZTBGWHJLREt6elloWk5PSmZHMWo1ZnVIbEg0bmYwTk1l?oc=5",
-          "pubDate": "2026-10-16T07:23:11.000Z",
+          "title": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 - 헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mWXpja3gxMUhpWW8wNEtBVEdvUF9uMEE0WmRGU1dSajB2cWdxaHFYM0ZveW1wMEFFZzJtbnB3Q2pNUXYzWGhNNHNxazkwMmpsaXVtWUk5dURiRlo5Y3hF?oc=5",
+          "pubDate": "2026-10-14T07:34:06.000Z",
           "image": null,
-          "summary": "‘지역자원 연계 청년창업 지원사업’ 참여하세요 담양뉴스",
+          "summary": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 헬로티",
           "keywords": [
-            "지역자원",
-            "연계",
-            "청년창업",
-            "지원사업",
-            "참여하세요"
+            "중기부",
+            "해외규격인증획득",
+            "지원사업(3차)",
+            "참여기업",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRjUwTU5ZQzBxcHkyQl9DLUVnNFBfTTgwcjBuQWJHXzhqQTMtQzFiZDBmb3YtZ1RRYkl5OGtTRFl3VkY4UEVhLTltRHRvaDlVeGxBSWlWcGpoeUnSAWBBVV95cUxQNkt2aExSR0hHdndrSjFfNDg4VGJHRnJVTW1lYWFCelRVd3R1Y0txcXhtbnVlYkRGcHJwWHFuTHRHeEd3MlA2OXdoeVJPaFEyOHYwczVzU3JaUm1OdGduMkU?oc=5",
+          "pubDate": "2026-10-16T06:45:28.000Z",
+          "image": null,
+          "summary": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 연합뉴스",
+          "keywords": [
+            "강원랜드",
+            "석탄산업",
+            "전환지역",
+            "이전기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1172,7 +1170,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-17T03:06:12.055Z",
+      "fetchedAt": "2026-10-17T08:16:55.748Z",
       "error": null
     }
   },
@@ -1215,34 +1213,34 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 4,
       "rank": 6,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
+      "key": "모집",
+      "label": "모집",
       "count": 3,
       "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "중기부",
+      "label": "중기부",
+      "count": 3,
+      "rank": 8,
       "change": "up"
     },
     {
       "key": "경남스타트업",
       "label": "경남스타트업",
       "count": 2,
-      "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "모집",
-      "label": "모집",
-      "count": 2,
       "rank": 9,
       "change": "down"
     },
     {
-      "key": "중기부",
-      "label": "중기부",
+      "key": "오픈ai",
+      "label": "오픈AI",
       "count": 2,
       "rank": 10,
       "change": "new"
