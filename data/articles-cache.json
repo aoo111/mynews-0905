@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-18T17:04:51.723Z",
+  "collectedAt": "2026-10-18T20:08:37.830Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:41.000Z",
+      "fetchedAt": "2026-10-18T20:08:27.901Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:41.116Z",
+      "fetchedAt": "2026-10-18T20:08:27.952Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:42.387Z",
+      "fetchedAt": "2026-10-18T20:08:29.114Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:42.540Z",
+      "fetchedAt": "2026-10-18T20:08:29.278Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Matthew Prince가 밝힌 Cloudflare의 무료 버전 제공 이유와 유지 방침 (2016)",
-          "link": "https://news.hada.io/topic?id=35582",
-          "pubDate": "2026-10-18T16:42:54.000Z",
+          "title": "Show HN: Ocarina of Time 리메이크 전에 살펴보는 Zelda 연대표",
+          "link": "https://news.hada.io/topic?id=35593",
+          "pubDate": "2026-10-18T19:41:29.000Z",
           "image": null,
-          "summary": "Cloudflare의 무료 사용자 기반은 유료 사용자만으로는 접하기 어려운 다양한 공격 데이터를 확보하게 해, 유료 고객의 보안 수준을 높이는 데 기여함 무료 서비스를 사용한 직원이 직장에 Cloudflare를 도입하는 고객 추천 경로가 있으며, 대형 고객 다수가 이런 ...",
+          "summary": "The Legend of Hyrule는 Nintendo의 공식 연대표를 바탕으로 Hyrule의 역사와 각 게임의 사건을 정리한 사이트임 Ocarina of Time 이후 역사는 Link가 패배한 흐름, 과거로 돌아간 어린 시절의 흐름, 영웅이 사라진 성인 시대의 흐름으로 갈라짐 세계 창조...",
           "keywords": [
-            "Matthew",
-            "Prince가",
-            "밝힌",
-            "Cloudflare의",
-            "무료"
+            "Show",
+            "HN:",
+            "Ocarina",
+            "of",
+            "Time"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "파서 조합기 - 작은 파서를 조합해 구조화된 데이터를 만드는 방법",
-          "link": "https://news.hada.io/topic?id=35581",
-          "pubDate": "2026-10-18T16:39:54.000Z",
+          "title": "소프트웨어 뒤에 있는 누군가",
+          "link": "https://news.hada.io/topic?id=35592",
+          "pubDate": "2026-10-18T19:38:29.000Z",
           "image": null,
-          "summary": "파서 조합기(parser combinator) 는 작은 파싱 함수를 조합해 복잡한 텍스트를 구조화된 데이터로 변환하는 방식으로, 정규식으로는 복잡하고 tree-sitter를 쓰기에는 과한 작업에 적합함 기본 단위인 부분 파서는 입력 문자열에서 일부를 읽고, 파싱한 값과 남은 ...",
+          "summary": "좋은 제품에는 만드는 사람의 경험과 가치관, 작동 방식에 대한 생각이 담기며, 사용자는 제작자가 누구인지 몰라도 그 시각을 느낄 수 있음 Linear가 프로세스나 데이터보다 중시하는 직관은 단순한 개인 취향이 아니라, 고객과 대화하고 실수하며 쌓은 이해를 바...",
           "keywords": [
-            "파서",
-            "조합기",
-            "작은",
-            "파서를",
-            "조합해"
+            "소프트웨어",
+            "뒤에",
+            "있는",
+            "누군가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "RepRapMicron - 마이크론급 제작과 자기 복제를 목표로 하는 3D 프린터",
-          "link": "https://news.hada.io/topic?id=35580",
-          "pubDate": "2026-10-18T16:36:54.000Z",
+          "title": "방금 내 모든 도메인을 압류하고 비활성화한 Namecheap",
+          "link": "https://news.hada.io/topic?id=35591",
+          "pubDate": "2026-10-18T19:35:29.000Z",
           "image": null,
-          "summary": "μRepRap은 쉽게 구할 수 있는 재료로 마이크론 및 서브마이크론급 제작이 가능한 자기 복제형 3D 프린터를 목표로 하며, 초기 시제품의 반복 위치 결정과 가정 작업실용 프로브 제작 목표는 사실상 달성함 현재 권장하는 PIKA V0.02는 한 변이 약 8mm인 입방체 작업...",
+          "summary": "방금 내 모든 도메인을 압류하고 비활성화한 Namecheap",
           "keywords": [
-            "RepRapMicron",
-            "마이크론급",
-            "제작과",
-            "자기",
-            "복제를"
+            "방금",
+            "모든",
+            "도메인을",
+            "압류하고",
+            "비활성화한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GNOME OS Preview 공개, 최신 안정판 GNOME 기반의 운영체제",
-          "link": "https://news.hada.io/topic?id=35579",
-          "pubDate": "2026-10-18T16:01:55.000Z",
+          "title": "웹사이트들이 AI 에이전트에 문을 닫고 있음",
+          "link": "https://news.hada.io/topic?id=35590",
+          "pubDate": "2026-10-18T18:44:55.000Z",
           "image": null,
-          "summary": "GNOME OS Preview는 최신 안정판 GNOME을 기반으로 하는 새 에디션으로, 개발자와 테스터용 Nightly를 넘어 비개발자 얼리어답터까지 사용 대상을 넓힘 공개 시점에는 GNOME 51.1을 사용하며, GNOME 구성 요소의 최신 Git 커밋을 계속 반영하는 Nightly와 달리 안정...",
+          "summary": "예약과 쇼핑 등을 대신하는 AI 에이전트가 주요 웹사이트의 접근 제한에 부딪히고 있음. Meta Muse, xAI Grok, OpenAI Dots, Instinct 사용자들이 작업 차단을 겪고 있음 차단 이유는 보안 우려와 사업적 이해관계에 걸쳐 있음. 금융사는 계좌 접근을 막고, Yelp는...",
           "keywords": [
-            "GNOME",
-            "OS",
-            "Preview",
-            "공개",
-            "최신"
+            "웹사이트들이",
+            "AI",
+            "에이전트에",
+            "문을",
+            "닫고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "법률 전문가들, Meta의 새 약관이 여전히 광범위한 스크래핑을 허용한다고 경고",
-          "link": "https://news.hada.io/topic?id=35578",
-          "pubDate": "2026-10-18T15:31:59.000Z",
+          "title": "미국 민병대 최고위층에 잠입한 내부 공작원 (2025)",
+          "link": "https://news.hada.io/topic?id=35589",
+          "pubDate": "2026-10-18T18:41:55.000Z",
           "image": null,
-          "summary": "Meta가 비즈니스 계정용 새 약관에서 ‘학습(train)’을 삭제하고 수집 콘텐츠의 사용처를 광고 및 비즈니스 제품으로 좁혔지만, 법률 전문가들은 여전히 웹사이트 전체를 스크래핑하고 AI 학습에 활용할 여지가 있다고 경고함 기존에는 생성형 AI 광고 기능을 사용할 때 광...",
+          "summary": "야생 생존술 강사 John Williams가 경찰이나 FBI와 협력하지 않고 우익 민병대에 잠입해, AP3의 Utah주 최고 책임자에 오르고 Oath Keepers 지도부에 접근함 수만 건의 문서와 비공개 대화, 수십 시간의 녹음에는 민병대의 조직 재건과 언론인 감시",
           "keywords": [
-            "법률",
-            "전문가들",
-            "Meta의",
-            "약관이",
-            "여전히"
+            "미국",
+            "민병대",
+            "최고위층에",
+            "잠입한",
+            "내부"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:43.293Z",
+      "fetchedAt": "2026-10-18T20:08:30.112Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -540,7 +539,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:43.431Z",
+      "fetchedAt": "2026-10-18T20:08:30.238Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -614,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:43.607Z",
+      "fetchedAt": "2026-10-18T20:08:30.320Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -695,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:43.649Z",
+      "fetchedAt": "2026-10-18T20:08:30.369Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -794,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:46.953Z",
+      "fetchedAt": "2026-10-18T20:08:33.011Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -879,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:47.227Z",
+      "fetchedAt": "2026-10-18T20:08:34.060Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -892,17 +891,17 @@
           "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
           "pubDate": "2026-10-18T16:30:00.000Z",
           "image": null,
-          "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
           "keywords": [
-            "Startups",
-            "Media & Entertainment",
             "AI",
-            "Disney",
-            "character.ai"
+            "Media & Entertainment",
+            "Startups",
+            "character.ai",
+            "Disney"
           ],
           "isForeign": true,
           "titleKo": "디즈니는 Character.AI 인력의 대부분을 고용하는 데 동의합니다.",
-          "summaryKo": "이번 주 초 챗봇 스타트업 캐릭터 (Character.AI) 가 파산을 신청한 후, 많은 직원들이 디즈니에서 일할 기회를 갖게 될 것입니다. Character.AI의 전 CEO인 Karandeep Anand는 최근 엔터테인먼트 대기업의 첫 번째 CTO가 되었으며, 스타트업은 이전에 Disney가 자산의 일부를 2천만 달러 ($) 에 인수하기로 합의했다고 말했습니다. 법률 […]"
+          "summaryKo": "이 서류는 또한 디즈니에서 일자리를 제공받은 Character.AI 직원의 \"대다수\" 가 그들을 받아 들였다고 말합니다. 그러나 이것은 스토킹 말 입찰이므로 다른 회사가 더 높은 제안을 할 수 있습니다."
         },
         {
           "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -974,7 +973,7 @@
           "summaryKo": "위조자는 브랜드의 마크를 복제하고 \"슈퍼 페이크\" 로 알려진 속임수를 정품으로 전달하는 데 점점 더 능숙해지고 있습니다. Veritas라는 스타트업은 상품을 검증하는 자체 칩으로 문제를 해결하고자 합니다."
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:49.477Z",
+      "fetchedAt": "2026-10-18T20:08:35.448Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1073,7 +1072,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:51.224Z",
+      "fetchedAt": "2026-10-18T20:08:37.320Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1150,24 +1149,24 @@
           "summaryKo": null
         },
         {
-          "title": "하남시, 2026년 소상공인 마케팅 판로지원 사업…참여기업 모집 - 중앙신문",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPbGpsQVpZZ3h5cGlSU0d6YUZhWXBBalFrallyN0g4QXJ0SWg4NTBKWmw4STdjclhmcHZRMWZuN0tZRDluSUczSTlqMDV0WDFfZW9pVUFkQVlONGIzblh4QXRDZl92NDQ2MTlZLVJ2aXk1elA1UW9FZnNsM3Jjbmt1Nk9ldkVBZDVaZ2tRZk9TZ3B2NUVmQ05zc2MtcUpXMC1Canl1UUdYSHJYUFQ5UlpnLW5DTHZtZGxFd2Nhak1Ubmpqbk1IYW8wdXNiTm9JOUZfSzZmRDVkOUUybXdET3hYV3dtRGM4RVJvZjhMMHNyTHBxWkN4aVdWSGZmWnEzQTlNQXpmQmRsSVJfb2pTMnJiTkpEcHFGcDB1YkJ5ek9nNjVTV29FcVRjS0VldnlZWS1qdWhpVVZEWVZieHRaUnVEQXRlWFhYRl9QNkJaaS16LVhrd2F3c1MwcWZqV3BHNkNuUEIwemFCWTdod082cVNJTmVsTFJlYzNuYmlV?oc=5",
-          "pubDate": "2026-10-18T08:02:00.000Z",
+          "title": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRjUwTU5ZQzBxcHkyQl9DLUVnNFBfTTgwcjBuQWJHXzhqQTMtQzFiZDBmb3YtZ1RRYkl5OGtTRFl3VkY4UEVhLTltRHRvaDlVeGxBSWlWcGpoeUnSAWBBVV95cUxQNkt2aExSR0hHdndrSjFfNDg4VGJHRnJVTW1lYWFCelRVd3R1Y0txcXhtbnVlYkRGcHJwWHFuTHRHeEd3MlA2OXdoeVJPaFEyOHYwczVzU3JaUm1OdGduMkU?oc=5",
+          "pubDate": "2026-10-16T06:45:28.000Z",
           "image": null,
-          "summary": "하남시, 2026년 소상공인 마케팅 판로지원 사업…참여기업 모집 중앙신문",
+          "summary": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 연합뉴스",
           "keywords": [
-            "하남시",
-            "2026년",
-            "소상공인",
-            "마케팅",
-            "판로지원"
+            "강원랜드",
+            "석탄산업",
+            "전환지역",
+            "이전기업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T17:04:51.717Z",
+      "fetchedAt": "2026-10-18T20:08:37.815Z",
       "error": null
     }
   },
@@ -1180,44 +1179,44 @@
       "change": "same"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 2,
+      "change": "up"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 3,
-      "rank": 6,
-      "change": "up"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 7,
       "change": "down"
     },
@@ -1226,21 +1225,21 @@
       "label": "ESG",
       "count": 2,
       "rank": 8,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
+      "key": "모집",
+      "label": "모집",
       "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "이벤트",
-      "label": "이벤트",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
