@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-18T20:08:37.830Z",
+  "collectedAt": "2026-10-18T23:55:24.740Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 19일)",
+          "link": "https://www.mk.co.kr/news/economy/12179018",
+          "pubDate": "2026-10-18T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-a.v1.20261018.3cb1bf55690b415696ef657d86271692_R.jpg",
+          "summary": "1. 수도권 아파트의 전월세 품귀 현상이 심해지는 가운데 빌라 전월세 매물도 줄어든 것으로 나타났습니다. 18일 부동산 거래 지원 서비스 기업 프롭티어에 따르면 지난 9월 말 기준..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“연이자 4%는 인질이 좀 셉니다”…해킹에 돌아선 고객, 특판예금에 컴백",
+          "link": "https://www.mk.co.kr/news/economy/12179148",
+          "pubDate": "2026-10-18T21:53:05.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20260928.d1e073140db246aba7c5d88cf2946ea0_R.png",
+          "summary": "해킹사태 후 줄었던 예금잔액 수신금리 올리자 증가세 전환시중은행 정기예금에 일주일 새 뭉칫돈 16조원이 몰렸다. 증시 조정장 속 은행권이 연달아 수신금리를 올리자 이달 초 금융권 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“직내괴 7번 신고하더니, 결국 휴가 받아냈다”…정부도 대책마련 고심",
+          "link": "https://www.mk.co.kr/news/economy/12179138",
+          "pubDate": "2026-10-18T20:56:20.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261018.1ec9a8cb1c0b458d8198de63f9ec0a9f_R.png",
+          "summary": "혼돈의 직장 내 괴롭힘 현장 현행법상 ‘괴롭힘’ 기준 모호 제도악용 신고자 매년 급증 인사 불만에 잇단 ‘쳇바퀴 신고’ 기업노무 부담 커지고 조직갈등 경사노위, 개선방안 논의 착..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "실적 발표에는 널뛰는 주식 … 기준금리 변화 영향은 미미 한 까닭",
+          "link": "https://www.mk.co.kr/news/economy/12178906",
+          "pubDate": "2026-10-18T20:20:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261011.f5e69057777646cdac7f8ed3c62ea6eb_R.png",
+          "summary": "美 NBER 연구결과주식투자를 처음 시작할 때는 투자한 종목이 어떤 곳인가에 많은 관심을 쏟지만, 경력이 쌓일수록 종목외 뉴스에 주목하게 됩니다. 이런 종목 외 뉴스의 범위도 점점..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“곰돌이 푸 탄생 100주년인 줄 알았나”…도서관에 들어온 진짜 곰, 꿀통 털었다",
           "link": "https://www.mk.co.kr/news/economy/12179113",
           "pubDate": "2026-10-18T11:58:03.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "미래기금 편성 부실 논란…‘한전 주체’ 명시 사업에 한전 “우린 무관”",
-          "link": "https://www.mk.co.kr/news/economy/12179080",
-          "pubDate": "2026-10-18T09:25:35.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261005.9bc6cb293e7b465980e667e0aedc39c7_R.jpg",
-          "summary": "5000억 출자지원 사용계획 ‘전무’ 한전 “대부분 사업 기후부가 제안” 김기현 “기금 허점 곳곳서 드러나”162조3000억원 규모로 책정된 미래대응기금과 관련해 일부 지원·보조사..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서강대 플랫폼국가연구소, 제주시와 손잡고 플랫폼 국가모델 구현 나서",
-          "link": "https://www.mk.co.kr/news/economy/12179073",
-          "pubDate": "2026-10-18T09:12:59.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/18/news-p.v1.20261018.205cb1215afb40b38eda6dec31aafdbe_R.png",
-          "summary": "2026년 제3차 플랫폼국가론 세미나 위성곤 지사 “제주가 첫 실증 현장 되도록” 플랫폼국가연구소, 제주도와 협력 구체화 김용진 소장 “국가, 자원 연결하는 조정자 돼야”서강대학교..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "나랏빚 여유 부렸다간… 4년뒤 이자만 年 51조",
-          "link": "https://www.mk.co.kr/news/economy/12179062",
-          "pubDate": "2026-10-18T08:44:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/19/20261019_01110104000004_M00.jpg",
-          "summary": "올해 인공지능(AI) 호황에 정부 초과세수가 60조원이 넘을 것으로 예상되지만 국가채무 관리를 소홀히 할 경우 2030년 정부가 부담해야 할 순수 국채 이자가 51조원에 달하는 것..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "IMF “韓, AI호황에 성장 여력 커져 … 급변땐 세수·수출 충격\"",
-          "link": "https://www.mk.co.kr/news/economy/12179060",
-          "pubDate": "2026-10-18T08:44:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/19/20261019_01170104000001_L00.jpg",
-          "summary": "한국의 올해 경제성장률을 3.3%로 상향 조정한 국제통화기금(IMF)이 한국의 잠재성장률도 올해와 내년 연속 상승할 것이라는 전망을 내놨다. 한국의 잠재성장률 상승이 2년 연속 실..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:27.901Z",
+      "fetchedAt": "2026-10-18T23:55:17.176Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:27.952Z",
+      "fetchedAt": "2026-10-18T23:55:17.235Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:29.114Z",
+      "fetchedAt": "2026-10-18T23:55:18.537Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:29.278Z",
+      "fetchedAt": "2026-10-18T23:55:18.693Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,91 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show HN: Ocarina of Time 리메이크 전에 살펴보는 Zelda 연대표",
-          "link": "https://news.hada.io/topic?id=35593",
-          "pubDate": "2026-10-18T19:41:29.000Z",
+          "title": "Hybrid Reasoning Agents: 잠재 공간에서 사고하고 텍스트로 행동하는 LLM 에이전트",
+          "link": "https://news.hada.io/topic?id=35602",
+          "pubDate": "2026-10-18T23:32:17.000Z",
           "image": null,
-          "summary": "The Legend of Hyrule는 Nintendo의 공식 연대표를 바탕으로 Hyrule의 역사와 각 게임의 사건을 정리한 사이트임 Ocarina of Time 이후 역사는 Link가 패배한 흐름, 과거로 돌아간 어린 시절의 흐름, 영웅이 사라진 성인 시대의 흐름으로 갈라짐 세계 창조...",
+          "summary": "HybridAgent는 하나의 생성 과정에서 잠재 공간 추론과 텍스트 생성을 동적으로 전환하며, 내부 추론과 외부 도구 사용을 결합함 경량 어댑터 HybridLink가 마지막 계층의 은닉 상태를 입력 임베딩 공간으로 연결하고, 연속 작업 메모리가 텍스트, 잠재 벡터, 도구...",
           "keywords": [
-            "Show",
-            "HN:",
-            "Ocarina",
-            "of",
-            "Time"
+            "Hybrid",
+            "Reasoning",
+            "Agents:",
+            "잠재",
+            "공간에서"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "소프트웨어 뒤에 있는 누군가",
-          "link": "https://news.hada.io/topic?id=35592",
-          "pubDate": "2026-10-18T19:38:29.000Z",
+          "title": "혼자 만든 웹 MMORPG에 사람이 10배 몰리자 벌어진 일",
+          "link": "https://news.hada.io/topic?id=35601",
+          "pubDate": "2026-10-18T23:01:17.000Z",
           "image": null,
-          "summary": "좋은 제품에는 만드는 사람의 경험과 가치관, 작동 방식에 대한 생각이 담기며, 사용자는 제작자가 누구인지 몰라도 그 시각을 느낄 수 있음 Linear가 프로세스나 데이터보다 중시하는 직관은 단순한 개인 취향이 아니라, 고객과 대화하고 실수하며 쌓은 이해를 바...",
+          "summary": "이전에는 월 $6 VPS 한 대로 MMORPG 동접 1,000명에 도전해봤습니다라는 글에서 봇 부하 테스트를 진행했습니다. 당시 부하테스트용 봇은 주기적으로 타깃을 잡고 스킬을 사용하고 전리품을 얻었습니다. 하지만 채팅은 하지 않았고, 유저가 성장하며 사용하",
           "keywords": [
-            "소프트웨어",
-            "뒤에",
-            "있는",
-            "누군가"
+            "혼자",
+            "만든",
+            "MMORPG에",
+            "사람이",
+            "10배"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "방금 내 모든 도메인을 압류하고 비활성화한 Namecheap",
-          "link": "https://news.hada.io/topic?id=35591",
-          "pubDate": "2026-10-18T19:35:29.000Z",
+          "title": "Anthropic의 고용은 어떻게 변하고 있는가",
+          "link": "https://news.hada.io/topic?id=35600",
+          "pubDate": "2026-10-18T22:38:26.000Z",
           "image": null,
-          "summary": "방금 내 모든 도메인을 압류하고 비활성화한 Namecheap",
+          "summary": "Anthropic은 빠르게 성장하면서도 주니어 기술직 채용 비중을 줄이고 있음. 2025년 초 이후 기술직 신규 채용에서 주니어가 차지하는 비중은 27%에서 9%로 하락함 AI 에이전트 도입 이후 산출량이 늘어나 엔지니어뿐 아니라 영업, 법무 등에서도 변화가 나타남. 다...",
           "keywords": [
-            "방금",
-            "모든",
-            "도메인을",
-            "압류하고",
-            "비활성화한"
+            "Anthropic의",
+            "고용은",
+            "어떻게",
+            "변하고",
+            "있는가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "웹사이트들이 AI 에이전트에 문을 닫고 있음",
-          "link": "https://news.hada.io/topic?id=35590",
-          "pubDate": "2026-10-18T18:44:55.000Z",
+          "title": "Tesla, Roadster 예약자에게 차량을 인도할 수 있을지조차 “보장 불가”",
+          "link": "https://news.hada.io/topic?id=35599",
+          "pubDate": "2026-10-18T22:35:26.000Z",
           "image": null,
-          "summary": "예약과 쇼핑 등을 대신하는 AI 에이전트가 주요 웹사이트의 접근 제한에 부딪히고 있음. Meta Muse, xAI Grok, OpenAI Dots, Instinct 사용자들이 작업 차단을 겪고 있음 차단 이유는 보안 우려와 사업적 이해관계에 걸쳐 있음. 금융사는 계좌 접근을 막고, Yelp는...",
+          "summary": "Tesla의 새 Roadster 예약 약관은 차량이 개발 중이며, 인도 시점뿐 아니라 실제 인도 여부도 보장할 수 없다고 명시함 최대 25만 달러를 선납하더라도 확정된 생산 물량을 배정받는 것은 아니며, 양산에 들어갈 경우의 대략적인 대기 순서만 확보...",
           "keywords": [
-            "웹사이트들이",
-            "AI",
-            "에이전트에",
-            "문을",
-            "닫고"
+            "Tesla",
+            "Roadster",
+            "예약자에게",
+            "차량을",
+            "인도할"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 민병대 최고위층에 잠입한 내부 공작원 (2025)",
-          "link": "https://news.hada.io/topic?id=35589",
-          "pubDate": "2026-10-18T18:41:55.000Z",
+          "title": "Java sealed 타입의 함정 - 새 하위 타입이 기존 코드를 깨뜨릴 수 있다",
+          "link": "https://news.hada.io/topic?id=35598",
+          "pubDate": "2026-10-18T21:31:31.000Z",
           "image": null,
-          "summary": "야생 생존술 강사 John Williams가 경찰이나 FBI와 협력하지 않고 우익 민병대에 잠입해, AP3의 Utah주 최고 책임자에 오르고 Oath Keepers 지도부에 접근함 수만 건의 문서와 비공개 대화, 수십 시간의 녹음에는 민병대의 조직 재건과 언론인 감시",
+          "summary": "Java의 sealed 클래스와 인터페이스는 허용할 하위 타입을 제한해, 컴파일러가 switch에서 모든 경우를 처리했는지 검사할 수 있게 함 모든 타입을 처리하면 default 분기 없이 작성할 수 있고, 빠뜨린 타입이 있으면 컴파일 오류가 발생...",
           "keywords": [
-            "미국",
-            "민병대",
-            "최고위층에",
-            "잠입한",
-            "내부"
+            "Java",
+            "sealed",
+            "타입의",
+            "함정",
+            "하위"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:30.112Z",
+      "fetchedAt": "2026-10-18T23:55:19.632Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -539,7 +540,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:30.238Z",
+      "fetchedAt": "2026-10-18T23:55:19.757Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:30.320Z",
+      "fetchedAt": "2026-10-18T23:55:19.821Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:30.369Z",
+      "fetchedAt": "2026-10-18T23:55:19.876Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -702,6 +703,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "루센트블록 탈락으로 다시 불거진 조각투자 거래소 인가 논란…쟁점은 무엇인가",
+          "link": "https://www.venturesquare.net/1120852/",
+          "pubDate": "2026-10-18T23:02:32.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/LUCENT-789x444.png",
+          "summary": "조각투자 장외거래소 예비인가에서 탈락한 루센트블록을 둘러싸고 금융당국의 인가 기준과 혁신금융 육성 정책의 일관성 문제가 제기되고 있다. 금융위원회는 NXT컨소시엄과 KDX를 선정하면서 자본 적정성과 사업계획, 지배구조 등을 주요 평가 근거로 제시했다. 정치권의 문제 제... The post 루센트블록 탈락으로 다시 불거진 조각투자 거래소 인가 논란…쟁점은 무엇인가 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "KDX",
+            "NXT컨소시엄",
+            "sto"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[VS 기획] AGI를 먼저 개발한 나라가 세계를 지배할까…미중 AI 패권 경쟁의 진짜 위험",
           "link": "https://www.venturesquare.net/1120777/",
@@ -773,27 +792,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "키뮤스튜디오, 파리 스테이션 F서 임팩트 투자유치 추진…발달장애인 디자이너 육성 모델 유럽에 소개",
-          "link": "https://www.venturesquare.net/1120701/",
-          "pubDate": "2026-10-16T13:47:12.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/KOSME-695x522.jpg",
-          "summary": "소셜 스타트업 키뮤스튜디오가 지난 14일 프랑스 파리 스테이션 F에서 열린 KOSME 데모데이에 참가해 유럽 투자자들에게 사업 모델을 소개했다. 키뮤스튜디오는 발달장애인 디자이너를 발굴·교육하고 이들의 창작물을 기업용 디자인 콘텐츠와 굿즈, 브랜드 협업 사업으로 연결하... The post 키뮤스튜디오, 파리 스테이션 F서 임팩트 투자유치 추진…발달장애인 디자이너 육성 모델 유럽에 소개 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "ESG",
-            "KIMUSTUDIO",
-            "KOSME"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:33.011Z",
+      "fetchedAt": "2026-10-18T23:55:22.716Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -802,83 +803,83 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "벽에 붙고 날아오른 로드스터, 50년 된 레이싱 기술과 로켓 장치의 조합",
-          "link": "https://platum.kr/archives/296464?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%25bd%25ec%2597%2590-%25eb%25b6%2599%25ea%25b3%25a0-%25eb%2582%25a0%25ec%2595%2584%25ec%2598%25a4%25eb%25a5%25b8-%25eb%25a1%259c%25eb%2593%259c%25ec%258a%25a4%25ed%2584%25b0-50%25eb%2585%2584-%25eb%2590%259c-%25eb%25a0%2588%25ec%259d%25b4%25ec%258b%25b1-%25ea%25b8%25b0%25ec%2588%25a0%25ea%25b3%25bc-%25eb%25a1%259c",
-          "pubDate": "2026-10-16T18:25:58.000Z",
+          "title": "사람 대신 흥정하는 AI 에이전트, 협상 규칙은 변호사에게 묻는다",
+          "link": "https://platum.kr/archives/296488?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25ac%25eb%259e%258c-%25eb%258c%2580%25ec%258b%25a0-%25ed%259d%25a5%25ec%25a0%2595%25ed%2595%2598%25eb%258a%2594-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ed%2598%2591%25ec%2583%2581-%25ea%25b7%259c%25ec%25b9%2599%25ec%259d%2580-%25eb%25b3%2580%25ed%2598%25b8%25ec%2582%25ac%25ec%2597%2590",
+          "pubDate": "2026-10-18T14:34:30.000Z",
           "image": null,
-          "summary": "지난 15일(현지시간) 미국 텍사스에서 테슬라 차세대 로드스터가 곡면 벽을 타고 올라 천장에 거꾸로 매달렸다가 공중에서 한 바퀴 돌아 착지했다. 이어 테슬라 차량 다섯 대 위를 뛰어넘었고, 정지 상태에서 시속 60마일(약 97km)까지 1초가 안 걸려 도달했다. 운전석은 비어 있었고 차는 원격으로 움직였다. 마술처럼 보였지만 쓰인 기술은 두 가지다. 하나는 차를 바닥에 붙이는 장치, 다른 하나는 차를 ... 더 읽기",
+          "summary": "사용자의 지시를 받아 스스로 일을 처리하는 AI 에이전트가 다른 사람의 에이전트와 마주 앉아 값을 깎고 조건을 조율하는 상황을 앞두고, 앤트로픽이 로펌들에 자문을 구하고 있다. 변호사가 의뢰인을 대리하면서도 상대와 공정한 합의에 이르는 방식을 참고해 에이전트 간 협상의 규범을 세우겠다는 취지다. 파이낸셜타임스(FT)는 10월 18일 이 사안을 아는 두 관계자를 인용해 앤트로픽이 법률 전문 집단과 논의 중이라고 보도했다. ... 더 읽기",
           "keywords": [
             "글로벌",
-            "테슬라",
-            "테슬라 로드스터"
+            "트렌드",
+            "AI에이전트",
+            "앤트로픽"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "초기투자액셀러레이터협회 차기 회장 후보에 홍종철 부회장",
-          "link": "https://platum.kr/archives/296458?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b4%2588%25ea%25b8%25b0%25ed%2588%25ac%25ec%259e%2590%25ec%2595%25a1%25ec%2585%2580%25eb%259f%25ac%25eb%25a0%2588%25ec%259d%25b4%25ed%2584%25b0%25ed%2598%2591%25ed%259a%258c-%25ec%25b0%25a8%25ea%25b8%25b0-%25ed%259a%258c%25ec%259e%25a5-%25ed%259b%2584%25eb%25b3%25b4%25ec%2597%2590-%25ed%2599%258d%25ec%25a2%2585",
-          "pubDate": "2026-10-16T09:30:24.000Z",
+          "title": "신륵사·세종대왕릉에서 창업 아이템 찾는다, 청년 22명 여주 로컬 창업 답사",
+          "link": "https://platum.kr/archives/296485?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a0%25eb%25a5%25b5%25ec%2582%25ac%25c2%25b7%25ec%2584%25b8%25ec%25a2%2585%25eb%258c%2580%25ec%2599%2595%25eb%25a6%2589%25ec%2597%2590%25ec%2584%259c-%25ec%25b0%25bd%25ec%2597%2585-%25ec%2595%2584%25ec%259d%25b4%25ed%2585%259c-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4-%25ec%25b2%25ad%25eb%2585%2584-22",
+          "pubDate": "2026-10-18T06:47:39.000Z",
           "image": null,
-          "summary": "홍종철 초기투자액셀러레이터협회(KAIA) 부회장이 차기 회장 최종 후보로 선출됐다. 협회는 16일 열린 이사회에서 인포뱅크 소속인 홍 부회장을 차기 회장 단독 후보로 뽑았다고 밝혔다. 취임과 임기는 2027년 2월 열릴 총회 의결로 확정되며, 총회 일정은 추후 정해진다. 현 회장은 전화성 회장이다. 홍 후보는 후보 소견서에서 초기투자 재원을 늘리고 투자 생태계 안에서 상생 구조를 만드는 것을 운영 방향으로 내세웠다. ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "초기투자액셀러레이터협회"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "발달장애인 노후 준비부터 섭식장애 이해까지, 돌봄·건강 비영리스타트업 3곳 성과 공개",
-          "link": "https://platum.kr/archives/296455?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b0%259c%25eb%258b%25ac%25ec%259e%25a5%25ec%2595%25a0%25ec%259d%25b8-%25eb%2585%25b8%25ed%259b%2584-%25ec%25a4%2580%25eb%25b9%2584%25eb%25b6%2580%25ed%2584%25b0-%25ec%2584%25ad%25ec%258b%259d%25ec%259e%25a5%25ec%2595%25a0-%25ec%259d%25b4%25ed%2595%25b4%25ea%25b9%258c%25ec%25a7%2580-%25eb%258f%258c%25eb%25b4%2584",
-          "pubDate": "2026-10-16T07:16:17.000Z",
-          "image": null,
-          "summary": "부모가 세상을 떠난 뒤에도 중고령 발달장애인이 일상을 이어가도록 미리 준비를 돕는 팀, 동네의 옛 이발소를 주민 돌봄 공간으로 바꾸는 팀, 섭식장애를 제대로 이해하고 대응하는 방법을 알리는 팀이 지난 반년간의 활동 결과를 발표했다. 다음세대재단이 지난 15일 서울 강남 드리움에서 ‘돌봄&건강 비영리스타트업 인큐베이팅 사업 성과공유회’를 열었다. 이날 기업 CSR·ESG 담당자, 중간지원조직, 정부 관계자 등 40여 명이 참석했다. ... 더 읽기",
+          "summary": "로컬 창업에 관심 있는 청년들이 경기 여주의 사찰과 왕릉, 남한강변을 둘러보며 지역 자원으로 할 수 있는 사업을 살폈다. 경기콘텐츠진흥원은 경기도, 여주시와 함께 추진하는 ‘2026 지역가치 창업가 육성’ 사업의 하나로 지난 9일 ‘여주시 청년 창업 팸투어’를 진행했다고 밝혔다. 만 36세 이하 청년 22명이 참여했다. 팸투어는 여주의 역사, 문화, 관광, 음식 같은 지역 자원을 직접 보고 창업 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "다음세대재단",
-            "비영리스타트업"
+            "경기콘텐츠진흥원",
+            "여주시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "하이브랩, 베트남 K-뷰티 커머스 플랫폼 ‘애픽’ 론칭",
-          "link": "https://platum.kr/archives/296448?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%2598%25ec%259d%25b4%25eb%25b8%258c%25eb%259e%25a9-%25eb%25b2%25a0%25ed%258a%25b8%25eb%2582%25a8-k-%25eb%25b7%25b0%25ed%258b%25b0-%25ec%25bb%25a4%25eb%25a8%25b8%25ec%258a%25a4-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ec%2595%25a0%25ed%2594%25bd-%25eb%25a1%25a0%25ec%25b9%25ad",
-          "pubDate": "2026-10-16T07:02:18.000Z",
+          "title": "수·위탁거래 실태조사, 올해부터 상반기 아닌 1년 거래 전체 점검",
+          "link": "https://platum.kr/archives/296482?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2588%2598%25c2%25b7%25ec%259c%2584%25ed%2583%2581%25ea%25b1%25b0%25eb%259e%2598-%25ec%258b%25a4%25ed%2583%259c%25ec%25a1%25b0%25ec%2582%25ac-%25ec%2598%25ac%25ed%2595%25b4%25eb%25b6%2580%25ed%2584%25b0-%25ec%2583%2581%25eb%25b0%2598%25ea%25b8%25b0-%25ec%2595%2584%25eb%258b%258c-1%25eb%2585%2584-%25ea%25b1%25b0",
+          "pubDate": "2026-10-18T06:44:02.000Z",
           "image": null,
-          "summary": "AI 기반 고객경험(CX) 솔루션 기업 하이브랩이 베트남 소비자를 대상으로 한국 화장품과 헬스앤뷰티(H&B) 제품을 파는 커머스 플랫폼 ‘애픽(aepick)’을 출시했다. 한국 브랜드가 베트남에 직접 법인을 세우지 않고도 현지 소비자에게 제품을 팔 수 있도록 하는 국경 간 거래 플랫폼이다. 애픽은 베트남 소비자의 구매 패턴과 행동 데이터를 분석해 제품을 추천한다. 추천 기준으로는 재구매 의향, 실제 사용 만족도, 현지 환경과의 ... 더 읽기",
+          "summary": "대기업·중견기업이 중소기업에 제조나 가공을 맡기면서 납품대금을 제때 줬는지, 원자재 가격 변동을 대금에 반영했는지를 따지는 정부 실태조사가 올해부터 1년치 거래 전체를 대상으로 바뀐다. 중소벤처기업부는 19일부터 ‘2026년 수탁·위탁거래 정기 실태조사’를 실시한다고 밝혔다. 수탁·위탁거래는 제조, 공사, 가공, 수리, 판매, 용역 등을 하는 기업이 물품이나 부품, 원료의 제조·가공·수리나 기술개발을 다른 중소기업에 맡기는 거래를 말한다. 실태조사는 대·중소기업 상생협력 촉진에 관한 ... 더 읽기",
           "keywords": [
-            "스타트업",
-            "K-뷰티",
-            "베트남",
-            "애픽",
-            "하이브랩"
+            "경제"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "혼자 창업한 회사에 투자하려면, 계약서부터 바뀌어야",
-          "link": "https://platum.kr/archives/296445?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%25bc%25ec%259e%2590-%25ec%25b0%25bd%25ec%2597%2585%25ed%2595%259c-%25ed%259a%258c%25ec%2582%25ac%25ec%2597%2590-%25ed%2588%25ac%25ec%259e%2590%25ed%2595%2598%25eb%25a0%25a4%25eb%25a9%25b4-%25ea%25b3%2584%25ec%2595%25bd%25ec%2584%259c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2594%25eb%2580%258c%25ec%2596%25b4",
-          "pubDate": "2026-10-16T06:59:42.000Z",
+          "title": "서울투자진흥재단, 한·프 테크 서밋서 프랑스 기업에 서울 투자 환경 소개",
+          "link": "https://platum.kr/archives/296479?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8%25ed%2588%25ac%25ec%259e%2590%25ec%25a7%2584%25ed%259d%25a5%25ec%259e%25ac%25eb%258b%25a8-%25ed%2595%259c%25c2%25b7%25ed%2594%2584-%25ed%2585%258c%25ed%2581%25ac-%25ec%2584%259c%25eb%25b0%258b%25ec%2584%259c-%25ed%2594%2584%25eb%259e%2591%25ec%258a%25a4-%25ea%25b8%25b0%25ec%2597%2585",
+          "pubDate": "2026-10-18T06:39:28.000Z",
           "image": null,
-          "summary": "직원 없이 혼자 회사를 꾸리는 창업가는 늘고 있지만, 벤처투자는 여전히 팀을 갖춘 회사에 몰린다. 투자계약서도 팀을 전제로 짜여 있다. 혼자 일하는 창업가, 이른바 ‘솔로프리너’에게 맞는 투자 방식과 계약을 어떻게 만들지 창업가와 투자자, 변호사들이 머리를 맞댔다. 한국엔젤투자협회와 법무법인 채비가 지난 15일 서울 강남구 팁스타운에서 ‘솔로프리너와 벤처투자 생태계’ 포럼을 공동 개최했다. 이날 1인 창업가, 엔젤투자자, VC, 변호사 ... 더 읽기",
+          "summary": "AI와 딥테크 분야 프랑스 기업들을 상대로 한 서울 투자 설명이 파리에 이어 서울에서도 열렸다. 서울시 해외 투자유치 전담기관인 서울투자진흥재단이 지난 16일 서울 코엑스에서 열린 ‘프랑스-한국 테크 서밋’에 참여해 서울의 AI·딥테크 산업 환경과 외국인 투자 지원제도를 소개했다. 테크 서밋은 주한프랑스상공회의소(FKCCI)가 주최하는 행사로, 올해는 ‘AI와 그린테크’를 주제로 양국 기업과 기관 관계자들이 기술·산업 협력 방안을 논의했다. 재단은 ‘서울의 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "법무법인 채비",
-            "한국엔젤투자협회"
+            "랑스-한국 테크 서밋",
+            "서울투자진흥재단"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "세계지도 앞에 선 음악 팬들, 여행·여가 플랫폼이 킨텍스에 축제를 열었다",
+          "link": "https://platum.kr/archives/296470?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8%25ea%25b3%2584%25ec%25a7%2580%25eb%258f%2584-%25ec%2595%259e%25ec%2597%2590-%25ec%2584%25a0-%25ec%259d%258c%25ec%2595%2585-%25ed%258c%25ac%25eb%2593%25a4-%25ec%2597%25ac%25ed%2596%2589-%25ec%2595%25b1%25ec%259d%25b4-%25ed%2582%25a8%25ed%2585%258d%25ec%258a%25a4%25ec%2597%2590-%25ec%25b6%2595%25ec%25a0%259c",
+          "pubDate": "2026-10-17T19:08:34.000Z",
+          "image": null,
+          "summary": "17일 오후 경기 고양시 킨텍스 제2전시장. 맑은 가을 하늘 아래 7홀과 8홀 앞 광장에는 양산을 든 사람들의 줄이 길게 늘어섰고, ‘It’s NOL Time’이라고 적힌 메인 게이트를 지나 전시장 안으로 들어가서도 각 홀 입구 짐 검사 앞에 대기줄이 지그재그로 이어졌다. 입장 수속을 마친 사람들은 손목에 찬 입장 팔찌를 서로 맞대고 사진부터 찍었다. 천장에는 god와 자우림이 걸린 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "놀",
+            "놀 페스티벌",
+            "야놀자",
+            "인터파크"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:34.060Z",
+      "fetchedAt": "2026-10-18T23:55:22.955Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -973,7 +974,7 @@
           "summaryKo": "위조자는 브랜드의 마크를 복제하고 \"슈퍼 페이크\" 로 알려진 속임수를 정품으로 전달하는 데 점점 더 능숙해지고 있습니다. Veritas라는 스타트업은 상품을 검증하는 자체 칩으로 문제를 해결하고자 합니다."
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:35.448Z",
+      "fetchedAt": "2026-10-18T23:55:22.987Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1072,7 +1073,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:37.320Z",
+      "fetchedAt": "2026-10-18T23:55:24.365Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1080,6 +1081,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "원전 공급망 문 열렸다…KAIF, 신규 공급기업 23일까지 모집 - 에너지안전신문",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RN1Q0c1BlV1Q3a2Y2amlyQzlGSzNUbnNoOW00RUJpY3NvdFdOZGh2YmxUSHZOdy1VcHdQbEdwX0xZV1dMelFqdnU2b3BzdG91TkRaWmRKNUYxdWNZSTVyc2xKUmk?oc=5",
+          "pubDate": "2026-10-18T23:23:42.000Z",
+          "image": null,
+          "summary": "원전 공급망 문 열렸다…KAIF, 신규 공급기업 23일까지 모집 에너지안전신문",
+          "keywords": [
+            "원전",
+            "공급망",
+            "열렸다",
+            "KAIF",
+            "신규"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 - 벤처스퀘어",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdmxVTDZfeWVGUXlEVnNjd2FVcWRFNldWYTlzMzN0QWlZSmlLbDN3Q2xnQnU2TzNRVWg0MzhnbUh2Zm9VeG5MdHhaVm9RejJSY09VRnc1OVN2ODlNRFFR?oc=5",
@@ -1115,17 +1133,17 @@
           "summaryKo": null
         },
         {
-          "title": "[시장분석] 의료AI, 병원 문턱 넘었지만…올해 공고 26건, 절반 넘게 정부지원 - 조달경제신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tWldIcWNnWWtQZlRSb1JuS0VQT1pTVTF1UU52OTNvM2cwcE1sRHlXU2JjcG4zWHV6dXNaQTk0UEc4dy1GTmxrRWg1Z2ZTdmkyeDU5RGdWLTNMTHVfNzJ6TlBHTEM5UlVfa3pPUWVB?oc=5",
-          "pubDate": "2026-10-18T05:00:00.000Z",
+          "title": "지원사업은 알아서 찾아주고, 상권은 한눈에…강남구, 전국 최초 `우리 사장님 기회 ON` 출시 - www.mediatoday.asia",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvdTRZNzd0ZGdxbTQxQ1VzS2w1VjRwT2hTaXFwbnVEcjJuUUtVbkRZamotXzlpMTBqakpabVNJcHVneEZ0ME9ESWZR?oc=5",
+          "pubDate": "2026-10-18T22:10:00.000Z",
           "image": null,
-          "summary": "[시장분석] 의료AI, 병원 문턱 넘었지만…올해 공고 26건, 절반 넘게 정부지원 조달경제신문",
+          "summary": "지원사업은 알아서 찾아주고, 상권은 한눈에…강남구, 전국 최초 `우리 사장님 기회 ON` 출시 www.mediatoday.asia",
           "keywords": [
-            "시장분석",
-            "의료AI",
-            "병원",
-            "문턱",
-            "넘었지만"
+            "지원사업은",
+            "알아서",
+            "찾아주고",
+            "상권은",
+            "한눈에"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1147,99 +1165,82 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aRjUwTU5ZQzBxcHkyQl9DLUVnNFBfTTgwcjBuQWJHXzhqQTMtQzFiZDBmb3YtZ1RRYkl5OGtTRFl3VkY4UEVhLTltRHRvaDlVeGxBSWlWcGpoeUnSAWBBVV95cUxQNkt2aExSR0hHdndrSjFfNDg4VGJHRnJVTW1lYWFCelRVd3R1Y0txcXhtbnVlYkRGcHJwWHFuTHRHeEd3MlA2OXdoeVJPaFEyOHYwczVzU3JaUm1OdGduMkU?oc=5",
-          "pubDate": "2026-10-16T06:45:28.000Z",
-          "image": null,
-          "summary": "강원랜드, 석탄산업 전환지역 이전기업 모집…최대 10억 지원 연합뉴스",
-          "keywords": [
-            "강원랜드",
-            "석탄산업",
-            "전환지역",
-            "이전기업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-18T20:08:37.815Z",
+      "fetchedAt": "2026-10-18T23:55:24.730Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "special post",
-      "label": "Special Post",
-      "count": 4,
+      "key": "경제",
+      "label": "경제",
+      "count": 6,
       "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 2,
       "change": "up"
     },
     {
-      "key": "경제",
-      "label": "경제",
+      "key": "special post",
+      "label": "Special Post",
       "count": 5,
-      "rank": 3,
+      "rank": 2,
       "change": "down"
+    },
+    {
+      "key": "앤트로픽",
+      "label": "앤트로픽",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
+      "change": "same"
+    },
+    {
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 3,
+      "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
-      "count": 3,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "esg",
-      "label": "ESG",
-      "count": 2,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "모집",
-      "label": "모집",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
+      "key": "지원사업",
+      "label": "지원사업",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
