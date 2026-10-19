@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-19T09:36:57.863Z",
+  "collectedAt": "2026-10-19T16:48:14.436Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "기술유출 걸리면 개발비부터 전부 배상…산업스파이 처벌수위 확 높이기로",
+          "link": "https://www.mk.co.kr/news/economy/12180077",
+          "pubDate": "2026-10-19T13:35:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.91987de6733b457fb13297057bb6c90d_R.jpg",
+          "summary": "수사기관과 공조해 신속 대응 범죄수익 몰수대상 확 넓히고 기업R&D 비용도 손배에 반영정부가 반도체 등 첨단산업의 기술 유출에 대응하기 위해 산업통상부에 특별사법경찰 권한을 부여하..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "현대차, 하청 급식업체와 원청교섭 나서나",
+          "link": "https://www.mk.co.kr/news/economy/12180056",
+          "pubDate": "2026-10-19T13:03:33.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.a13516bea5be4fa785eee015b3b97d77_R.jpg",
+          "summary": "중노위, 근로조건 사용자성 인정중앙노동위원회가 현대자동차 구내식당 근무자들이 속한 현대그린푸드 노조의 산업안전 관련 근로조건에 대한 현대차의 사용자성이 인정된다고 판단했다. 중노위..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“메뉴판 가격 보다가 화들짝”…서울 비빔밥 평균 가격 1만2천원",
+          "link": "https://www.mk.co.kr/news/economy/12179966",
+          "pubDate": "2026-10-19T10:27:30.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.01ee31bc169e472b938e3ba885407c9d_R.png",
+          "summary": "서울에서 비빔밥 한 그릇 평균 가격이 처음으로 1만2000원 대에 들어섰다. 19일 한국소비자원 가격정보 종합포털 ‘참가격’을 보면 서울 비빔밥 한 그릇의 평균 가격은 지난 9월 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "베트남 진출 韓기업 부가세 환급길 열렸다…과거 거래도 소급 적용",
+          "link": "https://www.mk.co.kr/news/economy/12179960",
+          "pubDate": "2026-10-19T10:08:21.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.14f7a763e70e4c538e733c8cf0475229_R.jpg",
+          "summary": "2022년부터 韓기업 환급 지연 정부 지속 요청에 해결 실마리 베트남, 세무당국에 지침 하달 법 개정 전 거래에도 환급 허용베트남에 진출한 국내 기업들의 주요 애로사항으로 꼽혀온 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“월급 이체도 카드 실적도 필요 없다”…1억원까지 연 3.3% 주는 통장",
           "link": "https://www.mk.co.kr/news/economy/12179940",
           "pubDate": "2026-10-19T09:34:57.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“우리 아이 독감인데 보험금 왜 안주나요”…보험 보장 받을 때 주의할 점",
-          "link": "https://www.mk.co.kr/news/economy/12179934",
-          "pubDate": "2026-10-19T09:15:27.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.b1350cfe8ec34354a5641ab638766b28_R.jpg",
-          "summary": "독감환자 영유아중심으로 증가 연간 1회제한 보장한도 20만원 가입 후 ‘열흘간’ 지급 안돼 유의 면책기간과 보험료 효과 따져야최근 초가을을 맞아 독감이 유행하면서 독감 치료비와 진..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "문 닫은 자영업자, 갚을 빚만 21조",
-          "link": "https://www.mk.co.kr/news/economy/12179929",
-          "pubDate": "2026-10-19T09:01:31.000Z",
-          "image": null,
-          "summary": "서울에서 음식점을 운영하던 자영업자 A씨는 지난해 10월 경영난으로 가게 문을 닫았다. 하지만 폐업 후에도 사업자대출과 생활비를 충당하기 위해 빌린 신용대출 등 8000만원의 빚은..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "박홍근 “기업 청년 일자리 창출 지원”",
-          "link": "https://www.mk.co.kr/news/economy/12179924",
-          "pubDate": "2026-10-19T08:56:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/19/rcv.YNA.20261019.PYH2026101918360001300_R.jpg",
-          "summary": "의료로봇 스타트업 현장 간담회 청년 고용부진 해소 지원 강화박홍근 기획예산처 장관이 청년 고용 부진을 해소하기 위해 민간기업의 일자리 창출 지원을 강화하겠다고 밝혔다. 19일 기획..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "실적 발표에는 널뛰는 주식…기준금리 변화 영향은 미미 한 까닭 [너드의 투자법]",
-          "link": "https://www.mk.co.kr/news/economy/12179919",
-          "pubDate": "2026-10-19T08:51:51.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261011.f5e69057777646cdac7f8ed3c62ea6eb_R.png",
-          "summary": "美 NBER 연구결과주식투자를 처음 시작할 때는 투자한 종목이 어떤 곳인가에 많은 관심을 쏟지만, 경력이 쌓일수록 종목외 뉴스에 주목하게 됩니다. 이런 종목 외 뉴스의 범위도 점점..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:48.935Z",
+      "fetchedAt": "2026-10-19T16:48:07.366Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:49.059Z",
+      "fetchedAt": "2026-10-19T16:48:07.456Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:50.099Z",
+      "fetchedAt": "2026-10-19T16:48:08.658Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:50.267Z",
+      "fetchedAt": "2026-10-19T16:48:08.797Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,89 +365,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Linux 7.3 출시",
-          "link": "https://news.hada.io/topic?id=35635",
-          "pubDate": "2026-10-19T09:31:52.000Z",
+          "title": "Let&#039;s Encrypt, 도메인 검증용 원격 관측 지점 2곳 추가",
+          "link": "https://news.hada.io/topic?id=35648",
+          "pubDate": "2026-10-19T15:49:43.000Z",
           "image": null,
-          "summary": "Linux 7.3 정식 버전이 예정대로 출시됐으며, 다음 날 7.4 병합 기간이 시작됨 병합 커밋을 제외한 18,765개 커밋에 개발자 3,021명이 참여했고, 이 중 807명은 커널 개발에 처음 기여함 대규모 시스템 성능 개선을 목표로 그룹 스케줄링...",
+          "summary": "Let's Encrypt가 도메인 검증용 원격 관측 지점을 2곳 추가해, 검증 범위를 넓히고 BGP 공격 방어를 강화함 도메인 검증 요청은 주 데이터센터 1곳과 원격 관측 지점 6곳에서 총 7회 수행하며, 기존 원격 관측 지점은 4곳이었음 검증에 ...",
           "keywords": [
-            "Linux",
-            "출시"
+            "Let&#039;s",
+            "Encrypt",
+            "도메인",
+            "검증용",
+            "원격"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: mermaid-editor-sdk: 코드뿐만 아니라 UI로도 mermaid 다이어그램을 편집 가능한 무료 에디터 SDK",
-          "link": "https://news.hada.io/topic?id=35634",
-          "pubDate": "2026-10-19T09:12:07.000Z",
+          "title": "Superlite: Superpowers보다 빠른 대안",
+          "link": "https://news.hada.io/topic?id=35647",
+          "pubDate": "2026-10-19T15:46:43.000Z",
           "image": null,
-          "summary": "요즘 AI랑 설계하거나 결과 보고받을 때 mermaid 다이어그램을 자주 사용하는데요, 그래서 패키지 두개",
+          "summary": "Superlite는 명세를 받아 계획 수립, 병렬 구현, 통합 경계 점검, 리뷰까지 수행하는 Claude Code 플러그인으로, 반복적인 승인 없이 개발을 진행하도록 설계됨 파일 소유권과 인터페이스, 테스트를 명시한 작업 그래프를 만들고, 파일을 공유하지 않으며 서로 의존...",
           "keywords": [
-            "Show",
-            "GN:",
-            "mermaid",
-            "editor",
-            "sdk:"
+            "Superlite:",
+            "Superpowers보다",
+            "빠른",
+            "대안"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "DeepSeek V4.1 Flash 1017 (Max) - 100만 토큰 문맥을 지원하는 오픈 가중치 추론 모델",
-          "link": "https://news.hada.io/topic?id=35633",
-          "pubDate": "2026-10-19T08:33:27.000Z",
+          "title": "동물실험 대안이 마침내 본격적으로 확산되기 시작함",
+          "link": "https://news.hada.io/topic?id=35646",
+          "pubDate": "2026-10-19T15:43:43.000Z",
           "image": null,
-          "summary": "DeepSeek V4.1 Flash 1017 (Max) 는 텍스트와 이미지를 입력받고 텍스트를 출력하는 추론 모델로, 100만 토큰 문맥 창과 공개 가중치를 제공함 Artificial Analysis Intelligence Index에서 45점을 기록해, 비슷한 크기의 오픈 가중치 모델 중앙값인 19점을 크게 웃...",
+          "summary": "장기 칩과 인간 세포 기반 모델, 컴퓨터 시뮬레이션이 동물실험을 보완하거나 대체할 수단으로 부상하면서, 도입의 과제가 기술 개발에서 검증과 제도, 연구 관행의 변화로 넓어지고 있음 FDA Modernization Act 2.0은 2022년 신약의 임상시험 전 연구에 비동물 대...",
           "keywords": [
-            "DeepSeek",
-            "V4",
-            "Flash",
-            "1017",
-            "(Max)"
+            "동물실험",
+            "대안이",
+            "마침내",
+            "본격적으로",
+            "확산되기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "자체 LLM 프록시를 운영하지 않으면, 무슨 일이 벌어지는지 어떻게 알 수 있을까?",
-          "link": "https://news.hada.io/topic?id=35631",
-          "pubDate": "2026-10-19T07:32:09.000Z",
+          "title": "Wine, OpenBSD로 이식",
+          "link": "https://news.hada.io/topic?id=35645",
+          "pubDate": "2026-10-19T15:40:43.000Z",
           "image": null,
-          "summary": "제공업체의 사용 현황 표시와 분석 화면만으로는 의사결정에 필요한 시계열 토큰 사용 통계가 부족하며, 직접 운영하는 LLM 프록시로 가시성을 확보해야 함 통제 가능한 단일 엔드포인트에 여러 제공업체와 모델을 연결하면, 전체 설정을 다시 구성하지 않고도 모델...",
+          "summary": "OpenBSD용 Wine 포트 초안이 제안됐으며, 수십 개의 64비트 Windows 소프트웨어를 테스트한 결과 대부분 성공적으로 실행됨 gsbase를 설정할 수 없는 문제를 명령어의 %gs 접두사 에뮬레이션으로 해결하면서 이식이 가능해짐 가...",
           "keywords": [
-            "자체",
-            "LLM",
-            "프록시를",
-            "운영하지",
-            "않으면"
+            "Wine",
+            "OpenBSD로",
+            "이식"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: GlazeBar (GlazeWM 번들) - Windows에서 돌리는 Omarchy 같은 경험",
-          "link": "https://news.hada.io/topic?id=35630",
-          "pubDate": "2026-10-19T07:03:38.000Z",
+          "title": "보다 &quot;거대 삼각형에서 안전한&quot; 헤론의 공식을 작성하기",
+          "link": "https://news.hada.io/topic?id=35644",
+          "pubDate": "2026-10-19T15:09:20.000Z",
           "image": null,
-          "summary": "Omarchy 같은 타일링 기능은 GlazeWM이 수행합니다. Aether 색상 추출 알고리즘을 통해 사진에서 테마 색상을 추출하고 자동으로 Terminal, VS code, Codex CLI 등등 적용합니다. 실시간",
+          "summary": "카한의 알고리즘은 극단적으로 큰 변의 길이를 입력하면 중간 연산에서 오버플로(inf)가 발생함 변의 길이를 1.0으로 정규화한 뒤 진구소의 알고리즘을 변형해 계산하고 스케일을 복원하면 큰 변의 길이에서도 안전하게 넓이를 구함 일반적인 케이스는 카한 방식을 쓰고 임계값...",
           "keywords": [
-            "Show",
-            "GN:",
-            "GlazeBar",
-            "(GlazeWM",
-            "번들)"
+            "보다",
+            "&quot;거대",
+            "삼각형에서",
+            "안전한&quot;",
+            "헤론의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:51.156Z",
+      "fetchedAt": "2026-10-19T16:48:09.653Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +537,7 @@
           "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:51.327Z",
+      "fetchedAt": "2026-10-19T16:48:09.784Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:51.624Z",
+      "fetchedAt": "2026-10-19T16:48:10.029Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:51.664Z",
+      "fetchedAt": "2026-10-19T16:48:10.082Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -701,97 +701,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "래블업, GPU 운영 효율 2.8배 개선 앞세워 코스닥 상장 추진…글로벌 AI 인프라 시장 공략",
-          "link": "https://www.venturesquare.net/1121090/",
-          "pubDate": "2026-10-19T07:53:06.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/LABUP-696x522.jpeg",
-          "summary": "AI 인프라 관리·운영 소프트웨어 기업 래블업이 코스닥 상장을 앞두고 글로벌 시장 확대 전략을 공개했다. 주력 플랫폼 Backend.AI는 국내외 120개 이상 사이트에서 운영되고 있으며, 회사는 특정 운영 사례에서 GPU 활용률을 30%에서 85%로 개선했다고 밝혔다... The post 래블업, GPU 운영 효율 2.8배 개선 앞세워 코스닥 상장 추진…글로벌 AI 인프라 시장 공략 appeared first on 벤처스퀘어.",
+          "title": "엘핀, 위치인증·블록체인 결합한 ‘워크플러스’ 개발…출퇴근·외근 기록 통합 관리",
+          "link": "https://www.venturesquare.net/1121207/",
+          "pubDate": "2026-10-19T13:52:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ELFIN-789x383.jpg",
+          "summary": "엘핀이 한국인터넷진흥원(KISA)의 ‘2026년 블록체인 실증사업(민간분야)’을 통해 위치인증과 블록체인 기술을 결합한 근태·방문 관리 서비스 ‘워크플러스’를 개발했다. 직원이 모바일 앱으로 현장 방문 시작과 종료를 등록하면 GPS와 이동통신 기지국 정보를 활용해 위치... The post 엘핀, 위치인증·블록체인 결합한 ‘워크플러스’ 개발…출퇴근·외근 기록 통합 관리 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI가속기",
-            "AI오케스트레이션",
-            "Ai인프라"
+            "KISA",
+            "lfin",
+            "WorkPlus"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "로렌츄컴퍼니, 미국 국제 와인 품평회 은·동상 수상…논알코올 와인 ‘츄퍼’ 일본 진출 추진",
-          "link": "https://www.venturesquare.net/1121091/",
-          "pubDate": "2026-10-19T07:49:29.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/B.Cube_.png",
-          "summary": "부산창조경제혁신센터 B.Cube 입주기업 로렌츄컴퍼니의 논알코올 와인 브랜드 ‘츄퍼’가 2026 샌프란시스코 국제 와인 품평회에서 은상과 동상을 수상했다. ‘버블리 피치 샹그리아’는 은상, ‘샤인로제’는 동상을 받았으며, 앞서 몽드 셀렉션과 월드 드링크 어워즈 등에서도... The post 로렌츄컴퍼니, 미국 국제 와인 품평회 은·동상 수상…논알코올 와인 ‘츄퍼’ 일본 진출 추진 appeared first on 벤처스퀘어.",
+          "title": "지브라 테크놀로지스, 레드닷 디자인 어워드 3관왕…AI 모바일·웨어러블·스캐너 수상",
+          "link": "https://www.venturesquare.net/1121189/",
+          "pubDate": "2026-10-19T13:47:44.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/RED-789x455.jpg",
+          "summary": "지브라 테크놀로지스가 ‘레드닷 디자인 어워드 2026’ 제품 디자인 부문에서 3개 상을 수상했다. 수상 제품은 온디바이스 AI와 RFID를 적용한 TC501·TC701 모바일 컴퓨터, 음성 기반 핸즈프리 업무를 지원하는 WS301·WS101 웨어러블 컴퓨터, 바코드 스... The post 지브라 테크놀로지스, 레드닷 디자인 어워드 3관왕…AI 모바일·웨어러블·스캐너 수상 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Bcube",
-            "CHOOPER",
-            "글로벌진출"
+            "RedDotDesignAward",
+            "RFID",
+            "ZebraTechnologies"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "메이아이, 서북 ‘와쿠와쿠·겟챠’에 매장 분석 AI 공급…데이터 업무 시간 90% 단축",
-          "link": "https://www.venturesquare.net/1121075/",
-          "pubDate": "2026-10-19T07:44:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MAI-789x444.png",
-          "summary": "영상처리 AI 스타트업 메이아이가 라이프스타일 브랜드 운영사 서북에 매장 분석 솔루션 ‘매쉬’를 공급했다. 서북은 와쿠와쿠와 겟챠 매장 오픈 기획 단계부터 매쉬를 도입해 유동인구와 방문객 수, 체류 패턴, 매출 데이터를 분석하고 있다. 회사에 따르면 도입 이후 방문객 ... The post 메이아이, 서북 ‘와쿠와쿠·겟챠’에 매장 분석 AI 공급…데이터 업무 시간 90% 단축 appeared first on 벤처스퀘어.",
+          "title": "크린토피아, IFS 창업박람회서 1천만원대 창업 모델 공개…상권 분석·가맹 혜택 제공",
+          "link": "https://www.venturesquare.net/1121177/",
+          "pubDate": "2026-10-19T13:44:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image001-12-1-391x522.jpg",
+          "summary": "크린토피아가 10월 22일부터 24일까지 서울 코엑스에서 열리는 ‘2026 IFS 프랜차이즈 창업박람회’에 참가해 예비 창업자를 대상으로 맞춤형 상담을 진행한다. GIS와 빅데이터를 활용해 희망 지역의 상권을 분석하고 점포 개설 절차와 운영 지원 체계를 안내할 예정이다... The post 크린토피아, IFS 창업박람회서 1천만원대 창업 모델 공개…상권 분석·가맹 혜택 제공 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "MASH",
-            "mAyI",
-            "겟챠"
+            "GIS",
+            "IFS창업박람회",
+            "가맹비면제"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이수스페셜티케미컬, 전고체 배터리 핵심 소재 황화리튬 생산 거점 구축…마더플랜트 준공",
-          "link": "https://www.venturesquare.net/1121056/",
-          "pubDate": "2026-10-19T07:39:58.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ISU-789x405.jpg",
-          "summary": "이수스페셜티케미컬이 지난 16일 전고체 배터리 핵심 소재인 황화리튬(Li₂S) 마더플랜트 준공식을 개최했다. 이번 준공으로 연구개발 단계에서 확보한 기술을 실제 생산 공정에 적용하고 상업 생산 경험을 축적할 수 있는 기반을 마련했다. 회사는 공정 안정화와 생산성 개선을... The post 이수스페셜티케미컬, 전고체 배터리 핵심 소재 황화리튬 생산 거점 구축…마더플랜트 준공 appeared first on 벤처스퀘어.",
+          "title": "데브디, MYSC 후속 투자 유치…월세 카드결제 ‘집업페이’ 상업용 임대료 시장 확대",
+          "link": "https://www.venturesquare.net/1121168/",
+          "pubDate": "2026-10-19T13:26:23.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MYSC-4-696x522.jpg",
+          "summary": "월세 카드결제 플랫폼 ‘집업페이’를 운영하는 데브디가 기존 투자사인 엠와이소셜컴퍼니(MYSC)로부터 후속 투자를 유치했다. 집업페이는 임대인의 별도 동의 없이 신용카드 일시불·할부 및 간편결제로 월세를 납부할 수 있도록 지원하는 서비스다. 데브디는 임대차계약과 수취계좌... The post 데브디, MYSC 후속 투자 유치…월세 카드결제 ‘집업페이’ 상업용 임대료 시장 확대 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Li2S",
-            "마더플랜트",
-            "배터리공급망"
+            "B2B플랫폼",
+            "MYSC",
+            "간편결제"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "트러스테이, QR코드 기반 공동주택 시설관리 솔루션 ‘노크매니저’ 출시…점검·조치 이력 통합 관리",
-          "link": "https://www.venturesquare.net/1121055/",
-          "pubDate": "2026-10-19T07:37:38.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/TRU-789x444.png",
-          "summary": "AI 주거 플랫폼 기업 트러스테이가 공동주택의 현장 점검과 후속 조치 이력을 통합 관리하는 시설관리 솔루션 ‘노크매니저’를 출시했다. 현장 근무자는 QR코드와 모바일 앱을 이용해 점검 결과를 등록하고, 관리자는 웹 대시보드에서 미점검 구역과 미조치 사항을 실시간으로 확... The post 트러스테이, QR코드 기반 공동주택 시설관리 솔루션 ‘노크매니저’ 출시…점검·조치 이력 통합 관리 appeared first on 벤처스퀘어.",
+          "title": "네이버클라우드, AI 보안 위협까지 점검하는 무료 자가진단 서비스 출시…21개 문항으로 기업 보안 수준 확인",
+          "link": "https://www.venturesquare.net/1121161/",
+          "pubDate": "2026-10-19T13:23:48.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/NAVER-3-1-789x443.png",
+          "summary": "네이버클라우드가 기업의 정보보호 관리 현황을 무료로 점검할 수 있는 ‘보안 자가진단’ 서비스를 출시했다. 서비스는 네트워크 보안과 접근제어, 데이터 보호·암호화 등 7개 영역의 21개 문항으로 구성됐으며, AI 서비스 이용에 따른 민감정보 유출과 AI 자동화 공격 대응... The post 네이버클라우드, AI 보안 위협까지 점검하는 무료 자가진단 서비스 출시…21개 문항으로 기업 보안 수준 확인 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "QR코드",
-            "Trustay",
-            "공동주택관리"
+            "AI보안",
+            "AI에이전트",
+            "NAVERCLOUD"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:54.171Z",
+      "fetchedAt": "2026-10-19T16:48:12.338Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:54.460Z",
+      "fetchedAt": "2026-10-19T16:48:12.656Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -970,7 +970,7 @@
           "summaryKo": "Tressfecta는 질감 있는 모발을 위한 제품을 만듭니다. 첫 번째 프로젝트는 브레이더가 브레이딩을 시작하기 전에 팩에서 머리카락을 분리하는 초기 과정을 돕는 Plait Pilot이라는 도구입니다."
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:56.277Z",
+      "fetchedAt": "2026-10-19T16:48:12.768Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -978,6 +978,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "아이스타트업랩·마음인베스트먼트, 개인투자조합 결성…인하대·청년 창업기업 투자 지원",
+          "link": "https://www.venturesquare.net/1121196/",
+          "pubDate": "2026-10-19T13:50:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/20261019070138_cc1fdca7-17e0-4c92-beb7-d3e81de2685b-789x522.jpg",
+          "summary": "아이스타트업랩과 마음인베스트먼트가 인하대학교 연계 창업기업과 청년 스타트업의 투자 및 성장을 지원하기 위해 ‘비룡마음개인투자조합’을 결성했다. 조합은 기술과 아이디어의 사업화 가능성, 시장 수요, 창업팀의 실행 역량 등을 종합적으로 검토해 초기 투자 대상을 발굴할 계획... The post 아이스타트업랩·마음인베스트먼트, 개인투자조합 결성…인하대·청년 창업기업 투자 지원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "개인투자조합",
+            "대학창업",
+            "마음인베스트먼트",
+            "비룡마음개인투자조합",
+            "사업화지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "매쉬업벤처스, 딥테크 투자 확대…AI·신소재·에너지·우주 스타트업 5곳 소개",
+          "link": "https://www.venturesquare.net/1121175/",
+          "pubDate": "2026-10-19T13:33:05.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/MASHUP-696x522.jpg",
+          "summary": "매쉬업벤처스가 국내 주요 투자기관 관계자를 초청해 딥테크 산업의 기술 동향과 투자 방향성을 공유하는 ‘Mashup Atoms Day’를 개최했다. 행사에서는 AI 신뢰 인프라 기업 티냅스, 소재 개발 기업 나노포지에이아이, 청정수소 기업 비올로젠, 안티드론 기업 에어빌... The post 매쉬업벤처스, 딥테크 투자 확대…AI·신소재·에너지·우주 스타트업 5곳 소개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI신뢰인프라",
+            "MashupAtomsDay",
+            "나노포지에이아이",
+            "딥테크",
+            "매쉬업벤처스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울바이오허브, 셀트리온·SK바이오팜 등과 K바이오 성장 전략 논의…AI 신약개발·투자 전망 공유",
+          "link": "https://www.venturesquare.net/1121117/",
+          "pubDate": "2026-10-19T12:47:08.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/BIOHERB-292x522.jpg",
+          "summary": "서울바이오허브가 오는 11월 17일 서울바이오허브 글로벌센터에서 ‘2026 서울 바이오·의료 오픈콜라보’를 개최한다. 셀트리온과 대원제약, SK바이오팜 등 국내 제약사와 XtalPi, 갤럭스 등 AI 신약개발 기업이 참여해 연구개발 혁신과 오픈이노베이션 전략을 공유한다... The post 서울바이오허브, 셀트리온·SK바이오팜 등과 K바이오 성장 전략 논의…AI 신약개발·투자 전망 공유 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI신약개발",
+            "K바이오",
+            "SK바이오팜",
+            "XtalPi",
+            "갤럭스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[우준호의 협상의 기술] 투자자에게 계속 연락해도 될까? 끈질김이 협상의 무기가 될 때",
           "link": "https://www.venturesquare.net/1120778/",
@@ -1013,63 +1067,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "EU 비즈니스 허브, KES 2026서 유럽 혁신기업 44개사 한국 시장 연결…11개사 혁신상 수상",
-          "link": "https://www.venturesquare.net/1121059/",
-          "pubDate": "2026-10-19T07:41:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/EU-783x522.jpg",
-          "summary": "EU 비즈니스 허브가 지난 13일부터 16일까지 서울 코엑스에서 열린 KES 2026 연계 전시상담회를 마무리했다. 유럽 혁신 중소기업 및 스타트업 44개사가 참가해 AI, 로보틱스, 모빌리티, 디지털 헬스 등 첨단 기술을 소개하고 국내 기업·기관과 사업 협력 가능성을... The post EU 비즈니스 허브, KES 2026서 유럽 혁신기업 44개사 한국 시장 연결…11개사 혁신상 수상 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "EU",
-            "EUBusinessHub",
-            "EU비즈니스허브",
-            "KES2026",
-            "글로벌파트너십"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "씨엔티테크, K-Camp 강원 6기 데모데이 개최…피지컬 AI 스타트업 모투스 최우수상",
-          "link": "https://www.venturesquare.net/1121039/",
-          "pubDate": "2026-10-19T07:10:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/CNT-783x522.jpg",
-          "summary": "씨엔티테크가 한국예탁결제원이 주관하는 ‘2026 K-Camp 강원 6기 액셀러레이팅 프로그램’ 데모데이를 지난 8일 개최했다. 강원 지역 스타트업 7개사가 참가해 기술과 사업모델을 발표했으며, 봉제 공정 자동화 피지컬 AI 기업 모투스가 최우수상을 수상했다. 반려동물 ... The post 씨엔티테크, K-Camp 강원 6기 데모데이 개최…피지컬 AI 스타트업 모투스 최우수상 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "810FC",
-            "CNT테크",
-            "KCAMP",
-            "강원스타트업",
-            "로봇파운데이션모델"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수소 생산부터 충전 로봇까지…WHE 2026, 혁신기술 경쟁할 14개 기업 선정",
-          "link": "https://www.venturesquare.net/1120961/",
-          "pubDate": "2026-10-19T02:23:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image001-18.png",
-          "summary": "WHE 2026 조직위원회가 ‘H2 이노베이션 어워드’ 본선 진출 기업 14개사를 발표했다. 수소 생산 분야 5개사, 저장·운송 분야 3개사, 활용 분야 6개사가 선정됐으며 현대자동차, 현대로템, 빈센, 라이트브릿지 등이 참여한다. 본선 기업들은 10월 20일 결선 발... The post 수소 생산부터 충전 로봇까지…WHE 2026, 혁신기술 경쟁할 14개 기업 선정 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "H2이노베이션어워드",
-            "WHE2026",
-            "라이트브릿지",
-            "빈센",
-            "수소모빌리티"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:57.437Z",
+      "fetchedAt": "2026-10-19T16:48:13.937Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1095,6 +1095,40 @@
           "summaryKo": null
         },
         {
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
+          "pubDate": "2026-10-18T08:10:37.000Z",
+          "image": null,
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
+          "keywords": [
+            "내게",
+            "맞는",
+            "정책",
+            "지원",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "전북중기청, 전통시장 활성화 지원사업 모집 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZ3IyMVRkNkhjZDlNZmdTV0p6VEtlclZNSng0bDE3eXo2VUFGN1k4VlQtWEY2aDJaWHM3RjRsc2I0NllDV2pwSWs4aUdqcHhsV2JMUElNY1NkYTJtZXFrRzFJZ3BId08weFlWUFpyYXZWbERyWHUzTDlxTUtQdVE?oc=5",
+          "pubDate": "2026-10-19T08:40:00.000Z",
+          "image": null,
+          "summary": "전북중기청, 전통시장 활성화 지원사업 모집 전라매일",
+          "keywords": [
+            "전북중기청",
+            "전통시장",
+            "활성화",
+            "지원사업",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMV93NVR1LTRfd3VtZ0kzUEhISkVtdmk0R1ZTdE1OcjExLXhmekIxSE5BRGo2dTFHWUYwczk1NkdENlotUHlDOWhrMHpSZWNWcEFEZnk4bGxaSVZvS2FRZ3F2TU4ydkRSUjVJX2NHWTNjNEVrRF80elFJOElTMmM1eHJ5UVh2UQ?oc=5",
           "pubDate": "2026-10-19T07:20:00.000Z",
@@ -1112,58 +1146,24 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, 2027년도 상점가 활성화 지원사업 공고 - 글로벌뉴스통신GNA",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZWFtbjJGRHVuYWVrdmxnaDl1UThMRmJSVmhkUGEtSm92Y0lscnpKcDFLVEhxeXQ4RUF1UUJYM3doOXZ0WVphR3JZU1dJanFSNFdYVlBfUnZTdDZTSndPLVpBOEpvN2t4Z1FuQWtmTE5jWU5Y?oc=5",
-          "pubDate": "2026-10-19T08:07:00.000Z",
+          "title": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - www.skedaily.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55UzhSRkcyUlVXcVR5bi0yMXBVeHhEZEd0ZnJIN0U0anJzSTRxb0llR2RHdGlnSGh6Z0FoYldqd2tNOWVMS1VZNk9CNnJ6bGFLMUR3WDhiZ3Fzdm12SzJmQVJ4WlNUT3B2dmc?oc=5",
+          "pubDate": "2026-10-19T10:09:20.000Z",
           "image": null,
-          "summary": "중기부, 2027년도 상점가 활성화 지원사업 공고 글로벌뉴스통신GNA",
+          "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 www.skedaily.com",
           "keywords": [
-            "중기부",
+            "중소벤처기업부",
             "2027년도",
-            "상점가",
-            "활성화",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "전북중기청, 전통시장 활성화 지원사업 참여 모집 - 전북제일신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VHVubHJSMHcwQVpQWkF3cGpFOTUwSUtNMUU0eVUxN1ZJNDNfSnBsNDFIMnptT09WNjJXa3haekc3d05VNXp1TlY0ODY0TWN3dzhuNVU5YjVLdGdPdFcyOHFIY1IxcmNCcHc?oc=5",
-          "pubDate": "2026-10-19T07:31:56.000Z",
-          "image": null,
-          "summary": "전북중기청, 전통시장 활성화 지원사업 참여 모집 전북제일신문",
-          "keywords": [
-            "전북중기청",
             "전통시장",
-            "활성화",
-            "지원사업",
-            "참여"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
-          "pubDate": "2026-10-18T08:10:37.000Z",
-          "image": null,
-          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
-          "keywords": [
-            "내게",
-            "맞는",
-            "정책",
-            "지원",
-            "지원사업"
+            "상점가",
+            "활성화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:57.856Z",
+      "fetchedAt": "2026-10-19T16:48:14.430Z",
       "error": null
     }
   },
@@ -1176,65 +1176,65 @@
       "change": "same"
     },
     {
+      "key": "ai에이전트",
+      "label": "AI에이전트",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "앤트로픽",
       "label": "앤트로픽",
       "count": 2,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 4,
-      "rank": 7,
+      "rank": 8,
+      "change": "down"
+    },
+    {
+      "key": "전통시장",
+      "label": "전통시장",
+      "count": 4,
+      "rank": 9,
       "change": "new"
     },
     {
       "key": "활성화",
       "label": "활성화",
       "count": 4,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "상점가",
-      "label": "상점가",
-      "count": 3,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "이벤트",
-      "label": "이벤트",
-      "count": 3,
       "rank": 10,
       "change": "down"
     }
@@ -1277,7 +1277,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1285,7 +1285,7 @@
       "label": "AI",
       "count": 3,
       "rank": 6,
-      "change": "down",
+      "change": "same",
       "labelKo": "AI"
     },
     {
