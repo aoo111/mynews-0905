@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-19T16:48:14.436Z",
+  "collectedAt": "2026-10-19T22:01:25.259Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "[단독] 노후 임대주택 고칠 돈으로 ‘빚투’...758억원 까먹은 LH",
+          "link": "https://www.mk.co.kr/news/economy/12179552",
+          "pubDate": "2026-10-19T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.704bfb9ddbf84778a5b8c8a16f4c8b06_R.jpg",
+          "summary": "임대주택 수선자금 2.5조 위탁운용 금융자산 담보로 1.2조 추가 차입 투자 규모 3.7조로…758억 평가손실 차입 한도·담보 위험 관리기준 부재한국토지주택공사(LH)가 공공임대주..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "기술유출 걸리면 개발비부터 전부 배상…산업스파이 처벌수위 확 높이기로",
           "link": "https://www.mk.co.kr/news/economy/12180077",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“월급 이체도 카드 실적도 필요 없다”…1억원까지 연 3.3% 주는 통장",
-          "link": "https://www.mk.co.kr/news/economy/12179940",
-          "pubDate": "2026-10-19T09:34:57.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.be84e42157db48a38017592cf881b44b_R.png",
-          "summary": "월급 이체나 카드 사용 실적 등 까다로운 조건 없이 연 3.3%의 금리를 받을 수 있는 입출금통장이 나왔다. 최대 1억원까지 해당 금리가 적용되며, 기존 가입자도 같은 혜택을 받을..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:07.366Z",
+      "fetchedAt": "2026-10-19T22:00:58.761Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:07.456Z",
+      "fetchedAt": "2026-10-19T22:00:58.855Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 규모",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216418",
+          "pubDate": "2026-10-20T06:41:29.000Z",
+          "image": null,
+          "summary": "일론 머스크 CEO가 내년 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 약속했다. 현재 주가로 약 105억달러(약 14조원) 규모다. 앤트로픽이 회사 지분 5%를 공익 기금에 배정하겠다고 발표하자, 대중에게 직접 주식을 나눠주겠다고 나선 것이다.머스크는 19일(현지시간) X를 통해 “내년에는 미국에 있는 모든 어린이에게 내가 보유한 스페이스X 주식 1주씩을 나눠주겠다”며 “앞으로 있을 많은 일의 시작일 뿐”이라고 밝혔다. 이 글은 게시 13시간 만에 좋아요 48만개를 넘겼으며, 댓글도 3만1000개나",
+          "keywords": [
+            "머스크",
+            "미국",
+            "모든",
+            "어린이에게",
+            "스페이스X"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미국, 연방기관서 딥시크 퇴출…기반 기술 활용 외부 서비스도 포함",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216417",
+          "pubDate": "2026-10-20T05:29:07.000Z",
+          "image": null,
+          "summary": "미국 정부가 연방 민간기관의 중국 딥시크 사용 제한을 강화했다. 딥시크 제품뿐 아니라 해당 기술을 활용해 다른 기업이 만든 제품과 서비스도 IT 시스템에서 제거하고, 향후 구매를 금지하도록 했다.미 국토안보부(DHS)는 19일(현지시간) 연방관보 웹사이트에 이 같은 내용의 명령을 공개했다. 여기서 ‘민간기관(Federal Civilian Executive Branch)’은 민간기업이 아니라 연방정부 행정부에 속한 비군사 정부기관을 뜻한다.앞서 미 상무부와 해군 등은 정부 기기에서 딥시크 사용을 금지했으며, 뉴욕과 테네시, 버지니아",
+          "keywords": [
+            "미국",
+            "연방기관서",
+            "딥시크",
+            "퇴출",
+            "기반"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "구글, AI 성능 스스로 높이는 자기개선 프레임워크 ‘하네스²’ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216410",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앤트로픽 직원 91% “2030년 AI가 노벨상급 발견” 예측...일반인은 39%",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216398",
-          "pubDate": "2026-10-19T17:26:50.000Z",
-          "image": null,
-          "summary": "앤트로픽 직원 10명 중 9명은 AI가 2030년까지 노벨상 수준의 과학적 발견을 할 수 있을 것으로 전망했다. 반면 미국 일반인 가운데 같은 전망을 내놓은 비율은 39%에 그쳤다. AI 기술을 직접 개발하고 업무에 활용하는 사람들과 일반인 사이에 AI의 발전 속도와 일자리 영향에 대한 인식 차이가 크다는 조사 결과다.앤트로픽은 16일(현지시간) 자사 직원과 미국 성인의 설문조사를 비교한 보고서 ‘AI 기대 격차(The AI Expectations Gap)’를 공개했다. 이번 조사에서는 앤트로픽 직원 1334명의 응답을 미국 성인",
-          "keywords": [
-            "앤트로픽",
-            "직원",
-            "91%",
-            "2030년",
-            "AI가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "센드버드, 업스테이지와 기업용 AI 에이전트 영역서 협력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216412",
-          "pubDate": "2026-10-19T17:07:09.000Z",
-          "image": null,
-          "summary": "업스테이지의 대형언어모델(LLM) '솔라(Solar)'가 센드버드의 기업용 AI 에이전트 플랫폼에 적용된다.센드버드(대표 김동신)는 업스테이지와 국산 LLM의 기업 현장 적용 및 AI 에이전트 상용화 확대를 위한 업무협약(MOU)을 체결했다고 19일 밝혔다.양사는 센드버드의 AI 에이전트 플랫폼 'Delight.ai'와 솔라를 연계해 기업 고객 업무에 적용하고 검증 결과를 각사 제품 고도화에 반영할 방침이다.센드버드는 에이전트 설계와 운영을, 업스테이지는 모델 최적화를 맡는다. 응답 속도와 업무 정확도, 고객 만족도 등을 단계적으로",
-          "keywords": [
-            "센드버드",
-            "업스테이지와",
-            "기업용",
-            "AI",
-            "에이전트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:08.658Z",
+      "fetchedAt": "2026-10-19T22:01:00.019Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "브라질 포르투갈어 교육자를 위한 AI로 스승의 날을 기념하고 학습 모드가 교사가 능동적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:08.797Z",
+      "fetchedAt": "2026-10-19T22:01:00.210Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,89 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Let&#039;s Encrypt, 도메인 검증용 원격 관측 지점 2곳 추가",
-          "link": "https://news.hada.io/topic?id=35648",
-          "pubDate": "2026-10-19T15:49:43.000Z",
+          "title": "Ask HN: 이해하지 못하는 AI 작성 코드를 배포하는 상황에 어떻게 대처하시나요?",
+          "link": "https://news.hada.io/topic?id=35662",
+          "pubDate": "2026-10-19T21:33:18.000Z",
           "image": null,
-          "summary": "Let's Encrypt가 도메인 검증용 원격 관측 지점을 2곳 추가해, 검증 범위를 넓히고 BGP 공격 방어를 강화함 도메인 검증 요청은 주 데이터센터 1곳과 원격 관측 지점 6곳에서 총 7회 수행하며, 기존 원격 관측 지점은 4곳이었음 검증에 ...",
+          "summary": "Meta 엔지니어의 LinkedIn 게시물에 공감하며, AI가 작성한 코드를 충분히 이해하지 못한 채 배포하는 상황에 다른 엔지니어들은 어떻게 대처하는지 경험을...",
           "keywords": [
-            "Let&#039;s",
-            "Encrypt",
-            "도메인",
-            "검증용",
-            "원격"
+            "Ask",
+            "HN:",
+            "이해하지",
+            "못하는",
+            "AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Superlite: Superpowers보다 빠른 대안",
-          "link": "https://news.hada.io/topic?id=35647",
-          "pubDate": "2026-10-19T15:46:43.000Z",
+          "title": "모터 하나만으로 드론을 만들었다 [영상]",
+          "link": "https://news.hada.io/topic?id=35661",
+          "pubDate": "2026-10-19T20:39:07.000Z",
           "image": null,
-          "summary": "Superlite는 명세를 받아 계획 수립, 병렬 구현, 통합 경계 점검, 리뷰까지 수행하는 Claude Code 플러그인으로, 반복적인 승인 없이 개발을 진행하도록 설계됨 파일 소유권과 인터페이스, 테스트를 명시한 작업 그래프를 만들고, 파일을 공유하지 않으며 서로 의존...",
+          "summary": "모터 하나만으로 드론을 만들었다 [영상]",
           "keywords": [
-            "Superlite:",
-            "Superpowers보다",
-            "빠른",
-            "대안"
+            "모터",
+            "하나만으로",
+            "드론을",
+            "만들었다",
+            "영상"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "동물실험 대안이 마침내 본격적으로 확산되기 시작함",
-          "link": "https://news.hada.io/topic?id=35646",
-          "pubDate": "2026-10-19T15:43:43.000Z",
+          "title": "StarCraft: Ashfall - 분대를 조작하는 자동 사격 지상 전투 게임",
+          "link": "https://news.hada.io/topic?id=35660",
+          "pubDate": "2026-10-19T20:36:07.000Z",
           "image": null,
-          "summary": "장기 칩과 인간 세포 기반 모델, 컴퓨터 시뮬레이션이 동물실험을 보완하거나 대체할 수단으로 부상하면서, 도입의 과제가 기술 개발에서 검증과 제도, 연구 관행의 변화로 넓어지고 있음 FDA Modernization Act 2.0은 2022년 신약의 임상시험 전 연구에 비동물 대...",
+          "summary": "Terran Strike Team을 좌우로 이동시키고 자동 사격으로 전투하는 게임으로, 분대를 드래그해 이동할 라인을 선택할 수 있음 Space로 출격하고 A/D로 좌우 이동하며, 보급과 증원 관련 기능이 화면에 표시됨 첫 플레이는 준비 라...",
           "keywords": [
-            "동물실험",
-            "대안이",
-            "마침내",
-            "본격적으로",
-            "확산되기"
+            "StarCraft:",
+            "Ashfall",
+            "분대를",
+            "조작하는",
+            "자동"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Wine, OpenBSD로 이식",
-          "link": "https://news.hada.io/topic?id=35645",
-          "pubDate": "2026-10-19T15:40:43.000Z",
+          "title": "macOS에서 네이티브로 실행되는 Android 앱",
+          "link": "https://news.hada.io/topic?id=35659",
+          "pubDate": "2026-10-19T20:33:07.000Z",
           "image": null,
-          "summary": "OpenBSD용 Wine 포트 초안이 제안됐으며, 수십 개의 64비트 Windows 소프트웨어를 테스트한 결과 대부분 성공적으로 실행됨 gsbase를 설정할 수 없는 문제를 명령어의 %gs 접두사 에뮬레이션으로 해결하면서 이식이 가능해짐 가...",
+          "summary": "Mac.apk는 Android 애플리케이션 환경을 macOS 위에 직접 구현해, Apple Silicon Mac에서 에뮬레이터나 가상 머신, Linux 커널 없이 Android 앱을 실행함 앱은 일반 macOS 프로세스로 실행되며 Mac의 GPU로 화면을 그리고 CPU에서 네이티브 속도로 동작함. Dock, 개...",
           "keywords": [
-            "Wine",
-            "OpenBSD로",
-            "이식"
+            "macOS에서",
+            "네이티브로",
+            "실행되는",
+            "Android"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "보다 &quot;거대 삼각형에서 안전한&quot; 헤론의 공식을 작성하기",
-          "link": "https://news.hada.io/topic?id=35644",
-          "pubDate": "2026-10-19T15:09:20.000Z",
+          "title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM",
+          "link": "https://news.hada.io/topic?id=35658",
+          "pubDate": "2026-10-19T19:36:43.000Z",
           "image": null,
-          "summary": "카한의 알고리즘은 극단적으로 큰 변의 길이를 입력하면 중간 연산에서 오버플로(inf)가 발생함 변의 길이를 1.0으로 정규화한 뒤 진구소의 알고리즘을 변형해 계산하고 스케일을 복원하면 큰 변의 길이에서도 안전하게 넓이를 구함 일반적인 케이스는 카한 방식을 쓰고 임계값...",
+          "summary": "Inception이 확산 기반 LLM Mercury 3를 공개함. 회사 벤치마크 기준 GPT-6 Luna와 Claude Haiku 5.5를 여러 평가에서 앞서며, 초당 1,000토큰 이상으로 4~8배 빠르게 실행됨 총 파라미터 수는 Mercury 1 대비 40배 이상 늘었지만 속도는 유지됨. Inception 평가에...",
           "keywords": [
-            "보다",
-            "&quot;거대",
-            "삼각형에서",
-            "안전한&quot;",
-            "헤론의"
+            "Mercury",
+            "대규모로",
+            "확장한",
+            "확산",
+            "기반"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:09.653Z",
+      "fetchedAt": "2026-10-19T22:01:00.884Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -455,6 +457,60 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/18/2026",
+          "link": "https://www.tubefilter.com/2026/10/19/top-50-most-subscribed-youtube-channels-week-of-10-18-2026/",
+          "pubDate": "2026-10-19T21:02:19.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/shunkiwii.png",
+          "summary": "SASHA SHOW had a great week on YouTube. The Turkey-based channel is the home of a kid-friendly creator who works pop culture characters into his videos. That was a winning formula during the second full week of October, when SASHA SHOW added 1.92 million new subscribers. The two channels right behind SASHA SHOW in the Global Sub Top 50 have a lot in common. They both feature sweets in their videos, they're both preoccupied with large numbers, and, of course, they're both doing extremely well on ",
+          "keywords": [
+            "Articles",
+            "Homepage Feature",
+            "News",
+            "Statistics",
+            "YouTube",
+            "Youtube Chart"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 10월 18일 주간",
+          "summaryKo": "사샤 쇼는 유튜브에서 즐거운 한 주를 보냈습니다. 터키에 기반을 둔 이 채널은 자신의 동영상에 팝 컬처 캐릭터를 만드는 어린이 친화적인 크리에이터의 집입니다. 이는 SASHA show가 192만 명의 신규 구독자를 추가한 10월 둘째 주 전체 기간 동안의 승리 공식이었습니다. 글로벌 서브 톱 50에서 사샤 쇼 바로 뒤에 있는 두 채널은 많은 공통점을 가지고 있습니다. 둘 다 동영상에 달콤한 과자가 있고, 둘 다 큰 숫자에 몰두하고 있으며, 물론 둘 다"
+        },
+        {
+          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 10/18/2026",
+          "link": "https://www.tubefilter.com/2026/10/19/top-50-most-viewed-youtube-channels-week-of-10-18-2026/",
+          "pubDate": "2026-10-19T20:24:55.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/t-series-bhakti-sagar.jpg",
+          "summary": "Zack D. Films is leading the Global Top 50 for the second week in a row. The American creator, who explores curious situations and places, was the only person to cross the billion-view mark during the second full week of October. He topped out with 1.1 billion weekly views. T-Series took second place behind Zack D. Films for the second week in a row. After sitting atop the Global Top 50 throughout September, T-Series is relying on its subsidiary channels to keep the views coming -- and at least ",
+          "keywords": [
+            "Articles",
+            "Homepage Feature",
+            "News",
+            "statistics",
+            "Statistics",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 상위 50개 • 2026년 10월 18일 주간",
+          "summaryKo": "Zack D. Films는 2주 연속 글로벌 톱 50을 이끌고 있습니다. 호기심 많은 상황과 장소를 탐험하는 미국 크리에이터는 10월 둘째 주 전체 기간 동안 10억 뷰를 돌파한 유일한 사람입니다. 그는 주간 조회수 11억 회로 1위를 차지했습니다. T 시리즈는 Zack D. Films에 이어 2주 연속 2위를 차지했습니다. 9월 내내 글로벌 톱 50에 오른 후, T-시리즈는 자회사 채널에 의존하여 견해를 유지하고 있습니다."
+        },
+        {
+          "title": "The new class for Alex Cooper’s Unwell University is matriculating across the continent",
+          "link": "https://www.tubefilter.com/2026/10/19/alex-cooper-unwell-university-2026-network-class/",
+          "pubDate": "2026-10-19T19:20:51.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/alex-cooper-getty.jpg",
+          "summary": "The 2026-27 school year is in full swing, and a handful of campus all-stars are getting new opportunities thanks to the Unwell Network. The media company led by Alex Cooper has announced the latest cohort for Unwell University, a collective of college students who share their experiences on social media. Unwell University has existed in its current capacity since 2024, shortly after the official launch of Cooper's company. The higher-ed students who have joined the initiative across multiple cla",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "alex cooper",
+            "college"
+          ],
+          "isForeign": true,
+          "titleKo": "Alex Cooper's Unwell University의 새로운 수업은 대륙을 가로질러",
+          "summaryKo": "2026-27 학년이 본격적으로 시작되고 있으며, Unwell Network 덕분에 소수의 캠퍼스 올스타들이 새로운 기회를 얻고 있습니다. Alex Cooper가 이끄는 미디어 회사는 소셜 미디어에서 자신의 경험을 공유하는 대학생 집단인 Unwell University의 최신 코호트를 발표했습니다. Unwell University는 Cooper의 회사가 공식적으로 출범한 직후인 2024년부터 현재의 역량으로 존재해 왔습니다. 이니셔티브에 참여한 고등학생들은"
+        },
         {
           "title": "Creators are finally getting an official Small Business Administration classification, making it much easier for them to access loans, grants, and more",
           "link": "https://www.tubefilter.com/2026/10/16/content-creators-small-business-association-classification-loan-paperwork/",
@@ -485,59 +541,9 @@
           "isForeign": true,
           "titleKo": "혹시 들어보셨나요? 크리에이터 ‘제퍼디!’ 가 돌아오고, 베이비 샤크가 닥터 수스를 만나며, 일렉트리파이의 파워가 올라갑니다.",
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주에는 크리에이터가 다시 질문의 형태로 답변하고, 어린이 아이콘이 핼러윈을 위한 상어로 꾸며지며, 펀딩 회사에서 신규 직원을 채용하고 있습니다. POP CULTURE MINUTE 인기 퀴즈쇼의 \"YouTube 에디션\" 이 Double Jeopardy로 돌아왔습니다. 두 번째로 켄 제닝스 (Ken Jennings) 는"
-        },
-        {
-          "title": "Here’s some advice: LinkedIn has a new monetization product built around consulting sessions",
-          "link": "https://www.tubefilter.com/2026/10/16/linkedin-creator-monetization-update-advice-sessions-consulting/",
-          "pubDate": "2026-10-16T19:26:11.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/linkedin-getty.jpg",
-          "summary": "On October 15, LinkedIn unveiled a slew of updates for its 24-year-old platform. There's a lot to unpack in the corresponding announcement post, but one new product caught our eye. It's called Advice Sessions, and it will let professional influencers schedule and conduct paid consultations directly from the LinkedIn app. Advice Sessions is currently available in the U.S. for subscribers to LinkedIn's Business Premium tier, which unlocks a number of perks in exchange for a $59.99-per-month fee. A",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "LinkedIn",
-            "News",
-            "advice sessions"
-          ],
-          "isForeign": true,
-          "titleKo": "몇 가지 조언을 드리겠습니다. LinkedIn에는 컨설팅 세션을 중심으로 구축된 새로운 수익 창출 제품이 있습니다.",
-          "summaryKo": "10월 15일, LinkedIn은 24년 된 플랫폼에 대한 수많은 업데이트를 공개했습니다. 해당 발표 게시물에 포장을 풀어야 할 것이 많지만, 한 가지 신제품이 눈에 들어왔습니다. '조언 세션' 이라는 이름으로, 전문 인플루언서가 LinkedIn 앱에서 직접 유료 상담을 예약하고 진행할 수 있도록 합니다. 현재 미국에서 LinkedIn의 Business Premium 등급 구독자를 위한 조언 세션이 제공되고 있습니다. 이 세션은 $ 59의 대가로 다양한 혜택을 제공합니다."
-        },
-        {
-          "title": "TikTok Shop promises many Happy Returns as holiday season sales ramp up",
-          "link": "https://www.tubefilter.com/2026/10/16/tiktok-shop-holiday-season-ups-happy-returns/",
-          "pubDate": "2026-10-16T18:25:02.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/tiktok-shop-getty.jpg",
-          "summary": "On TikTok Shop, the holiday season has already started, and the platform is delivering a fresh perk for consumers: a cure for buyer's remorse. A partnership between TikTok Shop and UPS will integrate the Happy Returns service into the burgeoning ecommerce hub. Happy Returns, which UPS acquired in 2023, is a leading option for box-free, label-free returns. Users can bring their purchases back to the service's \"Return Bars,\" which can be found at stores like Ulta Beauty and Staples. According to M",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "TikTok",
-            "TikTok Shop"
-          ],
-          "isForeign": true,
-          "titleKo": "TikTok Shop은 연말연시 세일이 증가함에 따라 많은 해피 리턴즈를 약속합니다",
-          "summaryKo": "TikTok Shop에서 연말연시는 이미 시작되었으며, 플랫폼은 소비자에게 신선한 혜택, 즉 구매자의 후회에 대한 치료제를 제공하고 있습니다. TikTok Shop과 UPS 간의 파트너십은 해피 리턴즈 서비스를 급성장하는 전자상거래 허브에 통합할 것입니다. UPS가 2023년에 인수한 Happy Returns는 박스 없이 라벨 없이 반품할 수 있는 선도적인 옵션입니다. 사용자는 Ulta Beauty 및 STA와 같은 매장에서 찾을 수 있는 서비스의 \"반품 바\" 로 구매를 다시 가져올 수 있습니다."
-        },
-        {
-          "title": "Doing Things wants to turn its bevy of Instagram brands into a “broader development engine” for social shows",
-          "link": "https://www.tubefilter.com/2026/10/15/doing-things-creator-content-slate-overstimulated-family-ad-agency/",
-          "pubDate": "2026-10-15T22:56:48.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/Copy-of-CoverArt-Master-2.jpg",
-          "summary": "Doing Things, the studio behind a bouquet of entertainment/comedy accounts like Recess Therapy, Bob Does Sports, Shitheadsteve, and Middle Class Fancy, says it wants to turn the reach of these individual brands into a “broader development engine.” So, over the past year, it’s more than doubled its slate of original creator-led programming–and now two new […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "Uncategorized"
-          ],
-          "isForeign": true,
-          "titleKo": "Doing Things는 Instagram 브랜드를 소셜 쇼를 위한 \"더 광범위한 개발 엔진\" 으로 전환하고자 합니다.",
-          "summaryKo": "Recess Therapy, Bob Does Sports, Shitheadsteve 및 Middle Class Fancy와 같은 엔터테인먼트/코미디 계정의 꽃다발 뒤에있는 스튜디오 인 Doing Things는 이러한 개별 브랜드의 도달 범위를 \"광범위한 개발 엔진\" 으로 바꾸고 싶다고 말합니다. \"지난 한 해 동안 크리에이터가 주도하는 독창적인 프로그래밍이 두 배 이상 증가했으며, 이제 두 개의 새로운 [...] Tubefilter를 방문하여 더 많은 멋진 이야기를 들을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:09.784Z",
+      "fetchedAt": "2026-10-19T22:01:07.484Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +617,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:10.029Z",
+      "fetchedAt": "2026-10-19T22:01:07.713Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +698,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:10.082Z",
+      "fetchedAt": "2026-10-19T22:01:07.796Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +797,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:12.338Z",
+      "fetchedAt": "2026-10-19T22:01:10.291Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -800,83 +806,84 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "사람 대신 흥정하는 AI 에이전트, 협상 규칙은 변호사에게 묻는다",
-          "link": "https://platum.kr/archives/296488?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25ac%25eb%259e%258c-%25eb%258c%2580%25ec%258b%25a0-%25ed%259d%25a5%25ec%25a0%2595%25ed%2595%2598%25eb%258a%2594-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ed%2598%2591%25ec%2583%2581-%25ea%25b7%259c%25ec%25b9%2599%25ec%259d%2580-%25eb%25b3%2580%25ed%2598%25b8%25ec%2582%25ac%25ec%2597%2590",
-          "pubDate": "2026-10-18T14:34:30.000Z",
+          "title": "[BLT칼럼] 상표 사용을 허락할 때는 표장의 모습까지 정해야 한다",
+          "link": "https://platum.kr/archives/296579?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-%25ec%2583%2581%25ed%2591%259c-%25ec%2582%25ac%25ec%259a%25a9%25ec%259d%2584-%25ed%2597%2588%25eb%259d%25bd%25ed%2595%25a0-%25eb%2595%258c%25eb%258a%2594-%25ed%2591%259c%25ec%259e%25a5%25ec%259d%2598-%25eb%25aa%25a8%25ec%258a%25b5%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a0%2595",
+          "pubDate": "2026-10-19T07:12:48.000Z",
           "image": null,
-          "summary": "사용자의 지시를 받아 스스로 일을 처리하는 AI 에이전트가 다른 사람의 에이전트와 마주 앉아 값을 깎고 조건을 조율하는 상황을 앞두고, 앤트로픽이 로펌들에 자문을 구하고 있다. 변호사가 의뢰인을 대리하면서도 상대와 공정한 합의에 이르는 방식을 참고해 에이전트 간 협상의 규범을 세우겠다는 취지다. 파이낸셜타임스(FT)는 10월 18일 이 사안을 아는 두 관계자를 인용해 앤트로픽이 법률 전문 집단과 논의 중이라고 보도했다. ... 더 읽기",
+          "summary": "– 특허법원 ‘곰표’ 판결로 보는 사용권자의 변형 사용과 상표등록 취소의 요건 2026년 9월 15일 특허법원은 국수 상표 ‘곰표국수’의 등록을 취소한다는 특허심판원 심결이 정당하다고 판결했다(특허법원 2026. 9. 15. 선고 2026허10002 판결). 취소를 청구한 쪽은 밀가루 ‘곰표’로 알려진 대한제분이고, 상표권자는 국수 등을 판매해 온 영동식품의 대표다. 대한제분은 2023년 2월까지 이 상표권자에게서 ‘곰표’ 상표의 사용을 허락받았던 회사이기도 하다. ... 더 읽기",
           "keywords": [
-            "글로벌",
             "트렌드",
-            "AI에이전트",
-            "앤트로픽"
+            "BLT",
+            "곰표",
+            "정태균 변리사",
+            "특허"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "신륵사·세종대왕릉에서 창업 아이템 찾는다, 청년 22명 여주 로컬 창업 답사",
-          "link": "https://platum.kr/archives/296485?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a0%25eb%25a5%25b5%25ec%2582%25ac%25c2%25b7%25ec%2584%25b8%25ec%25a2%2585%25eb%258c%2580%25ec%2599%2595%25eb%25a6%2589%25ec%2597%2590%25ec%2584%259c-%25ec%25b0%25bd%25ec%2597%2585-%25ec%2595%2584%25ec%259d%25b4%25ed%2585%259c-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4-%25ec%25b2%25ad%25eb%2585%2584-22",
-          "pubDate": "2026-10-18T06:47:39.000Z",
+          "title": "위성에 달린 ‘셀카 카메라’가 찍은 태양과 달, 대전샛-1호 새 영상 공개",
+          "link": "https://platum.kr/archives/296574?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%2584%25ec%2584%25b1%25ec%2597%2590-%25eb%258b%25ac%25eb%25a6%25b0-%25ec%2585%2580%25ec%25b9%25b4-%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc%25ea%25b0%2580-%25ec%25b0%258d%25ec%259d%2580-%25ed%2583%259c%25ec%2596%2591%25ea%25b3%25bc-%25eb%258b%25ac-%25eb%258c%2580%25ec%25a0%2584%25ec%2583%259b-1",
+          "pubDate": "2026-10-19T06:57:59.000Z",
           "image": null,
-          "summary": "로컬 창업에 관심 있는 청년들이 경기 여주의 사찰과 왕릉, 남한강변을 둘러보며 지역 자원으로 할 수 있는 사업을 살폈다. 경기콘텐츠진흥원은 경기도, 여주시와 함께 추진하는 ‘2026 지역가치 창업가 육성’ 사업의 하나로 지난 9일 ‘여주시 청년 창업 팸투어’를 진행했다고 밝혔다. 만 36세 이하 청년 22명이 참여했다. 팸투어는 여주의 역사, 문화, 관광, 음식 같은 지역 자원을 직접 보고 창업 ... 더 읽기",
+          "summary": "지구 저궤도를 도는 초소형위성 대전샛-1호(DaejeonSat-1)가 태양과 달, 이탈리아 상공의 지구를 담은 영상을 새로 보내왔다. 위성 뒤편에서 태양이 떠오르듯 나타나는 장면도 담겼다. 우주용 부품·장치 기업 스텝랩은 자체 개발한 우주용 블랙박스 카메라 ‘SFCAM(On-board Compact Selfie Camera)’으로 10월 18일 이 영상과 사진을 확보했다고 밝혔다. SFCAM은 위성 몸체에 달려 위성 자신과 주변 우주 공간을 찍는 소형 카메라다. 지난 15일 ... 더 읽기",
           "keywords": [
-            "이벤트",
-            "경기콘텐츠진흥원",
-            "여주시"
+            "스타트업",
+            "SFCAM",
+            "대전샛-1호",
+            "스텝랩"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "수·위탁거래 실태조사, 올해부터 상반기 아닌 1년 거래 전체 점검",
-          "link": "https://platum.kr/archives/296482?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2588%2598%25c2%25b7%25ec%259c%2584%25ed%2583%2581%25ea%25b1%25b0%25eb%259e%2598-%25ec%258b%25a4%25ed%2583%259c%25ec%25a1%25b0%25ec%2582%25ac-%25ec%2598%25ac%25ed%2595%25b4%25eb%25b6%2580%25ed%2584%25b0-%25ec%2583%2581%25eb%25b0%2598%25ea%25b8%25b0-%25ec%2595%2584%25eb%258b%258c-1%25eb%2585%2584-%25ea%25b1%25b0",
-          "pubDate": "2026-10-18T06:44:02.000Z",
+          "title": "외근·현장 방문 기록을 블록체인에 남긴다, 엘핀 ‘워크플러스’ 개발",
+          "link": "https://platum.kr/archives/296569?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2599%25b8%25ea%25b7%25bc%25c2%25b7%25ed%2598%2584%25ec%259e%25a5-%25eb%25b0%25a9%25eb%25ac%25b8-%25ea%25b8%25b0%25eb%25a1%259d%25ec%259d%2584-%25eb%25b8%2594%25eb%25a1%259d%25ec%25b2%25b4%25ec%259d%25b8%25ec%2597%2590-%25eb%2582%25a8%25ea%25b8%25b4%25eb%258b%25a4-%25ec%2597%2598%25ed%2595%2580-%25ec%259b%258c",
+          "pubDate": "2026-10-19T06:52:05.000Z",
           "image": null,
-          "summary": "대기업·중견기업이 중소기업에 제조나 가공을 맡기면서 납품대금을 제때 줬는지, 원자재 가격 변동을 대금에 반영했는지를 따지는 정부 실태조사가 올해부터 1년치 거래 전체를 대상으로 바뀐다. 중소벤처기업부는 19일부터 ‘2026년 수탁·위탁거래 정기 실태조사’를 실시한다고 밝혔다. 수탁·위탁거래는 제조, 공사, 가공, 수리, 판매, 용역 등을 하는 기업이 물품이나 부품, 원료의 제조·가공·수리나 기술개발을 다른 중소기업에 맡기는 거래를 말한다. 실태조사는 대·중소기업 상생협력 촉진에 관한 ... 더 읽기",
+          "summary": "위치인증 기술 기업 엘핀(lfin)이 직원의 출퇴근과 외근, 고객사 방문 기록을 블록체인에 남겨 관리하는 방문인증 서비스 ‘워크플러스’를 개발했다. 영업사원의 고객사 방문이나 현장 점검처럼 사무실 밖에서 하는 업무를 언제, 어디서 했는지 증빙할 수 있게 만든 서비스다. 워크플러스는 한국인터넷진흥원(KISA)의 ‘2026년 블록체인 실증사업(민간분야)’을 통해 개발됐다. 이 사업은 블록체인 기술을 실제 생활과 산업 현장에 적용해 볼 수 있는지 검증하는 정부 ... 더 읽기",
           "keywords": [
-            "경제"
+            "스타트업",
+            "엘핀",
+            "워크플러스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "서울투자진흥재단, 한·프 테크 서밋서 프랑스 기업에 서울 투자 환경 소개",
-          "link": "https://platum.kr/archives/296479?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8%25ed%2588%25ac%25ec%259e%2590%25ec%25a7%2584%25ed%259d%25a5%25ec%259e%25ac%25eb%258b%25a8-%25ed%2595%259c%25c2%25b7%25ed%2594%2584-%25ed%2585%258c%25ed%2581%25ac-%25ec%2584%259c%25eb%25b0%258b%25ec%2584%259c-%25ed%2594%2584%25eb%259e%2591%25ec%258a%25a4-%25ea%25b8%25b0%25ec%2597%2585",
-          "pubDate": "2026-10-18T06:39:28.000Z",
+          "title": "대화로 AI 상담 에이전트 고친다, 일레븐랩스 ‘아키텍트’ 알파 공개",
+          "link": "https://platum.kr/archives/296555?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ed%2599%2594%25eb%25a1%259c-ai-%25ec%2583%2581%25eb%258b%25b4-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ea%25b3%25a0%25ec%25b9%259c%25eb%258b%25a4-%25ec%259d%25bc%25eb%25a0%2588%25eb%25b8%2590%25eb%259e%25a9%25ec%258a%25a4-%25ec%2595%2584%25ed%2582%25a4%25ed%2585%258d%25ed%258a%25b8",
+          "pubDate": "2026-10-19T06:49:56.000Z",
           "image": null,
-          "summary": "AI와 딥테크 분야 프랑스 기업들을 상대로 한 서울 투자 설명이 파리에 이어 서울에서도 열렸다. 서울시 해외 투자유치 전담기관인 서울투자진흥재단이 지난 16일 서울 코엑스에서 열린 ‘프랑스-한국 테크 서밋’에 참여해 서울의 AI·딥테크 산업 환경과 외국인 투자 지원제도를 소개했다. 테크 서밋은 주한프랑스상공회의소(FKCCI)가 주최하는 행사로, 올해는 ‘AI와 그린테크’를 주제로 양국 기업과 기관 관계자들이 기술·산업 협력 방안을 논의했다. 재단은 ‘서울의 ... 더 읽기",
+          "summary": "AI 오디오 기업 일레븐랩스(ElevenLabs)가 기업용 음성·채팅 에이전트 플랫폼 ‘일레븐에이전트(ElevenAgents)’에 새 기능 ‘일레븐에이전트 아키텍트(ElevenAgents Architect)’를 넣고 알파 버전을 공개했다. 사용자가 음성이나 텍스트로 요청하면 상담 에이전트를 새로 만들거나 기존 에이전트를 고쳐 주는 기능이다. 일레븐에이전트는 기업이 고객 상담 등에 쓰는 AI 에이전트를 만들고 운영하는 플랫폼이다. 에이전트가 참고하는 지식베이스와 지시문(프롬프트), 업무 흐름, 음성 설정, 처리 절차, 금지 행동을 정하는 ... 더 읽기",
           "keywords": [
-            "이벤트",
-            "랑스-한국 테크 서밋",
-            "서울투자진흥재단"
+            "스타트업",
+            "일레븐랩스",
+            "일레븐에이전트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "세계지도 앞에 선 음악 팬들, 여행·여가 플랫폼이 킨텍스에 축제를 열었다",
-          "link": "https://platum.kr/archives/296470?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8%25ea%25b3%2584%25ec%25a7%2580%25eb%258f%2584-%25ec%2595%259e%25ec%2597%2590-%25ec%2584%25a0-%25ec%259d%258c%25ec%2595%2585-%25ed%258c%25ac%25eb%2593%25a4-%25ec%2597%25ac%25ed%2596%2589-%25ec%2595%25b1%25ec%259d%25b4-%25ed%2582%25a8%25ed%2585%258d%25ec%258a%25a4%25ec%2597%2590-%25ec%25b6%2595%25ec%25a0%259c",
-          "pubDate": "2026-10-17T19:08:34.000Z",
+          "title": "얼굴 10초 찍으면 맞춤형 휴식 사운드, 스트레스솔루션 ‘힐링비트’ 새 버전 출시",
+          "link": "https://platum.kr/archives/296561?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2596%25bc%25ea%25b5%25b4-10%25ec%25b4%2588-%25ec%25b0%258d%25ec%259c%25bc%25eb%25a9%25b4-%25eb%25a7%259e%25ec%25b6%25a4%25ed%2598%2595-%25ed%259c%25b4%25ec%258b%259d-%25ec%2582%25ac%25ec%259a%25b4%25eb%2593%259c-%25ec%258a%25a4%25ed%258a%25b8%25eb%25a0%2588%25ec%258a%25a4%25ec%2586%2594%25eb%25a3%25a8%25ec%2585%2598",
+          "pubDate": "2026-10-19T06:39:21.000Z",
           "image": null,
-          "summary": "17일 오후 경기 고양시 킨텍스 제2전시장. 맑은 가을 하늘 아래 7홀과 8홀 앞 광장에는 양산을 든 사람들의 줄이 길게 늘어섰고, ‘It’s NOL Time’이라고 적힌 메인 게이트를 지나 전시장 안으로 들어가서도 각 홀 입구 짐 검사 앞에 대기줄이 지그재그로 이어졌다. 입장 수속을 마친 사람들은 손목에 찬 입장 팔찌를 서로 맞대고 사진부터 찍었다. 천장에는 god와 자우림이 걸린 ... 더 읽기",
+          "summary": "스마트폰으로 얼굴을 찍으면 그때의 생체 상태에 맞춘 휴식용 사운드를 만들어 주는 앱이 새 버전을 내놨다. 생체신호 기반 디지털 헬스케어 기업 스트레스솔루션이 AI 사운드 웰니스 앱 ‘힐링비트(HealingBeats)’의 새 버전을 16일 국내외에 출시했다. 이용 방식은 측정, 생성, 청취의 세 단계다. 스마트폰 카메라로 얼굴을 10초간 찍으면 AI가 얼굴 영상에 나타나는 미세한 혈류 변화를 분석해 맥박 관련 정보와 스트레스 ... 더 읽기",
           "keywords": [
-            "이벤트",
-            "놀",
-            "놀 페스티벌",
-            "야놀자",
-            "인터파크"
+            "스타트업",
+            "힐링비트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:12.656Z",
+      "fetchedAt": "2026-10-19T22:01:10.583Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +891,58 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+          "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "pubDate": "2026-10-19T20:09:24.000Z",
+          "image": null,
+          "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "TC",
+            "AWS",
+            "nvidia"
+          ],
+          "isForeign": true,
+          "titleKo": "Amazon은 새로운 TorchNeuron 개발 도구를 사용하여 Nvidia에서 가장 큰 사진을 찍고 있습니다.",
+          "summaryKo": "아마존은 대부분의 AI 앱을 빌드하는 데 사용되는 무료 툴킷인 PyTorch에 대한 엔비디아의 보류를 해제하여 더 많은 개발자가 자신과 같은 대체 칩에서 앱을 실행하기를 원합니다."
+        },
+        {
+          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+          "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+          "pubDate": "2026-10-19T18:49:04.000Z",
+          "image": null,
+          "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "ai agent",
+            "AI assistant",
+            "Disrupt",
+            "eugenia kuyda"
+          ],
+          "isForeign": true,
+          "titleKo": "Replika의 창립자는 12년 전 Disrupt에 투구한 AI 비서를 만들었습니다.",
+          "summaryKo": "Eugenia Kuyda의 최신 스타트업 Wabi는 10여 년 전의 아이디어를 활용할 수 있는 위치에 있습니다. Wabi는 오늘 누구에게나 무료로 다운로드할 수 있는 개인 AI 비서를 제공합니다."
+        },
+        {
+          "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+          "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+          "pubDate": "2026-10-19T18:00:39.000Z",
+          "image": null,
+          "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "AI assistant",
+            "In Brief",
+            "unicorn"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 비서 스타트업 Town nabs 유니콘 밸류에이션 출시 4개월 후",
+          "summaryKo": "인공지능 비서 스타트업 타운(Town)이 월요일 포러너 벤처스(Forerunner Ventures)와 멘로 벤처스(Menlo Ventures)가 공동 주도한 1억 800만 달러 규모의 시리즈 B 투자 유치를 발표하며 기업 가치 10억 달러(유니콘)를 달성했다."
+        },
         {
           "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
           "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
@@ -902,7 +961,7 @@
           "summaryKo": "헬스케어조차 인도에서 병원 네트워크를 확장할 계획으로 Khosla Ventures가 주도하는 라운드에서 3억 달러 ($) 의 가치 평가에 도달했습니다."
         },
         {
-          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "title": "Disney agrees to hire the majority of Character AI’s workforce",
           "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
           "pubDate": "2026-10-18T16:30:00.000Z",
           "image": null,
@@ -912,65 +971,15 @@
             "Media & Entertainment",
             "Startups",
             "character.ai",
-            "Disney"
+            "Disney",
+            "In Brief"
           ],
           "isForeign": true,
-          "titleKo": "디즈니는 Character.AI 인력의 대부분을 고용하는 데 동의합니다.",
+          "titleKo": "디즈니는 캐릭터 AI 인력의 대부분을 고용하는 데 동의합니다",
           "summaryKo": "이 서류는 또한 디즈니에서 일자리를 제공받은 Character.AI 직원의 \"대다수\" 가 그들을 받아 들였다고 말합니다. 그러나 이것은 스토킹 말 입찰이므로 다른 회사가 더 높은 제안을 할 수 있습니다."
-        },
-        {
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-          "pubDate": "2026-10-16T16:30:00.000Z",
-          "image": null,
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-          "keywords": [
-            "Startups",
-            "AI",
-            "Robotics",
-            "nvidia",
-            "Equity podcast",
-            "early stage venture"
-          ],
-          "isForeign": true,
-          "titleKo": "물리적 AI는 로봇 그 이상이라고 엔비디아 베테랑은 말합니다.",
-          "summaryKo": "NVIDIA의 로봇 플랫폼을 위한 제품 마케팅을 7년 동안 이끌었던 Amulya Vishwanath는 액추에이터, 로봇 손, 소프트웨어 및 안전 표준과 같은 기본 구성 요소가 여전히 재구성되고 있는 현재 로봇 공학은 \"레고 시대\" 에 있다고 말합니다. 이 견해는 일반적인 기초 모델에 의해 구동되는 로봇 공학이 곧 […]"
-        },
-        {
-          "title": "Elorian’s first AI model wants to reason with images, not just about them",
-          "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "pubDate": "2026-10-16T16:01:37.000Z",
-          "image": null,
-          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "TC",
-            "ai models",
-            "Exclusive"
-          ],
-          "isForeign": true,
-          "titleKo": "엘로리안의 첫 번째 AI 모델은 이미지에 대한 것이 아니라 이미지에 대한 추론을 원합니다.",
-          "summaryKo": "Elorian의 평가에 따르면 Glimpse는 과학적 차트 추론 및 짧은 형식의 비디오 캡션에서 GPT-6 Astra를 능가하며 다른 시각적 추론 작업에서 경쟁적인 결과를 얻습니다."
-        },
-        {
-          "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-          "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-          "pubDate": "2026-10-16T16:00:00.000Z",
-          "image": null,
-          "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-          "keywords": [
-            "Startups",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt",
-            "Tressfecta"
-          ],
-          "isForeign": true,
-          "titleKo": "Tressfecta는 헤어 스타일리스트에게 헤어 브레이딩을 덜 힘든 작업으로 만들고 싶습니다.",
-          "summaryKo": "Tressfecta는 질감 있는 모발을 위한 제품을 만듭니다. 첫 번째 프로젝트는 브레이더가 브레이딩을 시작하기 전에 팩에서 머리카락을 분리하는 초기 과정을 돕는 Plait Pilot이라는 도구입니다."
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:12.768Z",
+      "fetchedAt": "2026-10-19T22:01:19.870Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1078,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:13.937Z",
+      "fetchedAt": "2026-10-19T22:01:22.405Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1095,16 +1104,33 @@
           "summaryKo": null
         },
         {
-          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
-          "pubDate": "2026-10-18T08:10:37.000Z",
+          "title": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 뉴스다",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfRkg3YXJjOVA4YVJJTWtxYzlPLTltUV9NRzc2Y0xGak1oZGxwSUp3VExzclNNSExMc1paaFRXM3l3LWpuWDE5UDBzSTI1c0JTbzdtNzIzQ3RzYzhzQXc4?oc=5",
+          "pubDate": "2026-10-19T11:10:07.000Z",
           "image": null,
-          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
+          "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 뉴스다",
           "keywords": [
-            "내게",
-            "맞는",
-            "정책",
-            "지원",
+            "중소벤처기업부",
+            "2027년도",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 농어업경제귀농신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZ1dOcnlHVFpyNjdLazFSVjdaRFBMckFyc2FUYTl2M1g4bXRNOFZOc1lsSVUydklnQTFkdmNrNUtRQWRuaXdsS002ZmRpWFp5b2tBcnJESF80Y2pjMDliY3pxQnVLRk5vOGQw?oc=5",
+          "pubDate": "2026-10-19T12:59:27.000Z",
+          "image": null,
+          "summary": "2027년도 전통시장 및 상점가 활성화 지원사업 공고 농어업경제귀농신문",
+          "keywords": [
+            "2027년도",
+            "전통시장",
+            "상점가",
+            "활성화",
             "지원사업"
           ],
           "isForeign": false,
@@ -1112,25 +1138,8 @@
           "summaryKo": null
         },
         {
-          "title": "전북중기청, 전통시장 활성화 지원사업 모집 - 전라매일",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZ3IyMVRkNkhjZDlNZmdTV0p6VEtlclZNSng0bDE3eXo2VUFGN1k4VlQtWEY2aDJaWHM3RjRsc2I0NllDV2pwSWs4aUdqcHhsV2JMUElNY1NkYTJtZXFrRzFJZ3BId08weFlWUFpyYXZWbERyWHUzTDlxTUtQdVE?oc=5",
-          "pubDate": "2026-10-19T08:40:00.000Z",
-          "image": null,
-          "summary": "전북중기청, 전통시장 활성화 지원사업 모집 전라매일",
-          "keywords": [
-            "전북중기청",
-            "전통시장",
-            "활성화",
-            "지원사업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMV93NVR1LTRfd3VtZ0kzUEhISkVtdmk0R1ZTdE1OcjExLXhmekIxSE5BRGo2dTFHWUYwczk1NkdENlotUHlDOWhrMHpSZWNWcEFEZnk4bGxaSVZvS2FRZ3F2TU4ydkRSUjVJX2NHWTNjNEVrRF80elFJOElTMmM1eHJ5UVh2UQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
           "pubDate": "2026-10-19T07:20:00.000Z",
           "image": null,
           "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
@@ -1146,46 +1155,46 @@
           "summaryKo": null
         },
         {
-          "title": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - www.skedaily.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55UzhSRkcyUlVXcVR5bi0yMXBVeHhEZEd0ZnJIN0U0anJzSTRxb0llR2RHdGlnSGh6Z0FoYldqd2tNOWVMS1VZNk9CNnJ6bGFLMUR3WDhiZ3Fzdm12SzJmQVJ4WlNUT3B2dmc?oc=5",
-          "pubDate": "2026-10-19T10:09:20.000Z",
+          "title": "중기부, 2027년도 상점가 활성화 지원사업 공고 - 글로벌뉴스통신GNA",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZWFtbjJGRHVuYWVrdmxnaDl1UThMRmJSVmhkUGEtSm92Y0lscnpKcDFLVEhxeXQ4RUF1UUJYM3doOXZ0WVphR3JZU1dJanFSNFdYVlBfUnZTdDZTSndPLVpBOEpvN2t4Z1FuQWtmTE5jWU5Y?oc=5",
+          "pubDate": "2026-10-19T08:07:00.000Z",
           "image": null,
-          "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 www.skedaily.com",
+          "summary": "중기부, 2027년도 상점가 활성화 지원사업 공고 글로벌뉴스통신GNA",
           "keywords": [
-            "중소벤처기업부",
+            "중기부",
             "2027년도",
-            "전통시장",
             "상점가",
-            "활성화"
+            "활성화",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-19T16:48:14.430Z",
+      "fetchedAt": "2026-10-19T22:01:22.793Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 6,
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
       "rank": 1,
-      "change": "same"
+      "change": "up"
     },
     {
-      "key": "ai에이전트",
-      "label": "AI에이전트",
+      "key": "기반",
+      "label": "기반",
       "count": 2,
       "rank": 2,
       "change": "new"
     },
     {
-      "key": "앤트로픽",
-      "label": "앤트로픽",
-      "count": 2,
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
       "rank": 3,
       "change": "down"
     },
@@ -1194,49 +1203,49 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
+    },
+    {
+      "key": "상점가",
+      "label": "상점가",
+      "count": 5,
+      "rank": 7,
+      "change": "new"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
       "rank": 8,
       "change": "down"
     },
     {
-      "key": "전통시장",
-      "label": "전통시장",
-      "count": 4,
-      "rank": 9,
-      "change": "new"
-    },
-    {
       "key": "활성화",
       "label": "활성화",
+      "count": 5,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "2027년도",
+      "label": "2027년도",
       "count": 4,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1273,52 +1282,52 @@
       "labelKo": "스타트업"
     },
     {
+      "key": "articles",
+      "label": "Articles",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 6,
+      "change": "down",
       "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 4,
+      "rank": 7,
+      "change": "up",
+      "labelKo": "뉴스"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
-      "rank": 6,
-      "change": "same",
+      "rank": 8,
+      "change": "down",
       "labelKo": "AI"
     },
     {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "기사"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
+      "key": "statistics",
+      "label": "Statistics",
       "count": 3,
       "rank": 9,
-      "change": "same",
-      "labelKo": "뉴스"
+      "change": "new",
+      "labelKo": "스탯"
     },
     {
-      "key": "enforcement actions",
-      "label": "Enforcement Actions",
+      "key": "ai assistant",
+      "label": "AI assistant",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "시행 조치"
+      "change": "new",
+      "labelKo": "AI 어시스턴트"
     }
   ]
 }
