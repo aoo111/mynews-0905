@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-20T14:41:12.728Z",
+  "collectedAt": "2026-10-20T19:50:14.431Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:54.997Z",
+      "fetchedAt": "2026-10-20T19:50:00.993Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:55.074Z",
+      "fetchedAt": "2026-10-20T19:50:01.090Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:56.373Z",
+      "fetchedAt": "2026-10-20T19:50:02.244Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,36 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "link": "https://openai.com/index/ted-taylor-restaurant",
+          "pubDate": "2026-10-20T10:00:00.000Z",
+          "image": null,
+          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+          "keywords": [
+            "Franchisee",
+            "reconciles",
+            "cash",
+            "in",
+            "94%"
+          ],
+          "isForeign": true,
+          "titleKo": "프랜차이즈 가맹점은 ChatGPT Work로 시간을 94% 단축하여 현금을 조율합니다.",
+          "summaryKo": "독립적 인 Schlotzsky와 Cinnabon 프랜차이즈 가맹점은 메뉴 재 책정 시간을 95% 줄이고 $ 100,000의 현금 흐름을 확보 할 수있는 워크 플로우를 구축했습니다."
+        },
+        {
+          "title": "OpenAI acquires Orchestra Bio",
+          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "pubDate": "2026-10-20T00:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI, Orchestra Bio 인수",
+          "summaryKo": "OpenAI는 생명 과학 R&D에 AI 기반 운영을 제공하기 위해 Orchestra Bio를 인수하여 바이오 제약 팀이 신약 개발을 가속화하고 새로운 치료법을 발전시킬 수 있도록 돕고 있습니다."
+        },
         {
           "title": "Advancing coding in low‑resource programming languages",
           "link": "https://openai.com/index/low-resource-programming-languages",
@@ -328,35 +358,9 @@
           "isForeign": true,
           "titleKo": "Benefit Street Partners는 Codex로 질문에 더 빠르게 답변합니다.",
           "summaryKo": "Anant Kumar는 코드 검토 및 더 빠른 후속 조치를 위해 Codex를 사용하여 대출 평가를 비교하고 신용 계약을 분석하는 도구를 구축합니다."
-        },
-        {
-          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "pubDate": "2026-10-16T00:00:00.000Z",
-          "image": null,
-          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "상담원용 스택 오버플로는 ChatGPT 플러그인으로 가입을 세 배로 늘립니다.",
-          "summaryKo": "두 명의 엔지니어가 코덱스와 함께 몇 주 만에 에이전트용 스택 오버플로를 제공했으며, ChatGPT 플러그인은 에이전트 생성에서 최대 10배의 성장을 도왔습니다."
-        },
-        {
-          "title": "Bringing GPT-Rosalind to academic research labs",
-          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "pubDate": "2026-10-15T19:00:00.000Z",
-          "image": null,
-          "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-          "keywords": [
-            "Research"
-          ],
-          "isForeign": true,
-          "titleKo": "학술 연구실에 GPT-Rosalind 도입",
-          "summaryKo": "Rosalind Academic Plan을 소개합니다. GPT-Rosalind에 대한 자격을 갖춘 학술 실험실 후원 액세스 및 생명 과학 연구를 발전시키는 도구를 제공합니다."
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:56.538Z",
+      "fetchedAt": "2026-10-20T19:50:06.289Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +369,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Google Cloud 장애로 은행 서비스 중단",
-          "link": "https://news.hada.io/topic?id=35714",
-          "pubDate": "2026-10-20T14:31:28.000Z",
+          "title": "Ofcom, 4chan 사건에서 패배 인정",
+          "link": "https://news.hada.io/topic?id=35726",
+          "pubDate": "2026-10-20T18:38:22.000Z",
           "image": null,
-          "summary": "Google Cloud 장애로 은행 서비스 중단",
+          "summary": "Ofcom 최고경영자는 외국 법원이 집행을 막으면 벌금을 회수하지 못할 수 있음을 영국 의회에서 인정함. 4chan 측 변호사 Preston Byrne은 이를 사실상의 패배로 봄 미국 법원은 미국 헌법에 위배되는 외국 판결의 집행을 일반적으로 거부하며, 4chan 사건에서도 미...",
           "keywords": [
-            "Google",
-            "Cloud",
-            "장애로",
-            "은행",
-            "서비스"
+            "Ofcom",
+            "4chan",
+            "사건에서",
+            "패배",
+            "인정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Pear - Apple Silicon Mac용 Windows Steam 런처",
-          "link": "https://news.hada.io/topic?id=35713",
-          "pubDate": "2026-10-20T14:05:46.000Z",
+          "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
+          "link": "https://news.hada.io/topic?id=35725",
+          "pubDate": "2026-10-20T18:35:22.000Z",
           "image": null,
-          "summary": "안녕하세요. Apple Silicon Mac에서 Windows Steam 실행 환경을 준비하는 무료 오픈소스 런처 Pear를 만들고 있습니다. 구매한 Megabonk를 맥에서 하고 싶어서 시작했고, 현재 v0.1.1을 배포하고 있습니다. Pear를 열면 필요한 런타임과 Windows Steam을 준비합니다. 이후에",
+          "summary": "Mistral이 Voxtral 3 음성 모델군과 음성 에이전트 SDK를 공개함. 음성 인식, 추론, 도구 호출, 음성 합성을 하나의 실시간 스트리밍 파이프라인으로 연결함 음성 전사는 50개 언어를 지원하며, 화자 분리와 문맥 기반 인식 보정을 제공함. 실시간 모델은 35개 이상...",
           "keywords": [
-            "Show",
-            "GN:",
-            "Pear",
-            "Apple",
-            "Silicon"
+            "Voxtral",
+            "50개",
+            "이상",
+            "언어의",
+            "음성"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "0.000000000000000000542%의 경우에 발생하는 버그를 고치기 위해 모든 나눗셈을 느리게 만들기",
-          "link": "https://news.hada.io/topic?id=35712",
-          "pubDate": "2026-10-20T14:02:19.000Z",
+          "title": "tsrs: TypeScript 컴파일러의 Rust 포트",
+          "link": "https://news.hada.io/topic?id=35724",
+          "pubDate": "2026-10-20T17:37:54.000Z",
           "image": null,
-          "summary": "Futhark가 부호 있는 정수의 최솟값을 -1로 나눌 때 생성된 C 코드에서 발생하는 정의되지 않은 동작을 수정함. 32비트 정수 입력 조합 2⁶⁴개 중 하나에 해당하지만, x86에서는 CPU 예외로 프로그램이 종료될 수 있음 수정된 구현은 나눗셈마다 제수가",
+          "summary": "Cloudflare와 VoidZero가 Owner.com의 Max Schwenk와 함께 TypeScript 컴파일러의 Rust 포트인 tsrs를 개발함. TypeScript 팀과 긴밀히 협력하며 Oxc 도구 체계 안에서 프로젝트를 육성함 초기 벤치마크에서 동일한 타입 검사 워커 수를 사용할 때...",
           "keywords": [
-            "000000000000000000542%의",
-            "경우에",
-            "발생하는",
-            "버그를",
-            "고치기"
+            "tsrs:",
+            "TypeScript",
+            "컴파일러의",
+            "Rust",
+            "포트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "MicroG: Google의 독점 Android 사용자 공간을 자유 소프트웨어로 재구현",
-          "link": "https://news.hada.io/topic?id=35711",
-          "pubDate": "2026-10-20T13:31:26.000Z",
+          "title": "Tor 출구 노드 300개 이상을 퇴출시킨 과정",
+          "link": "https://news.hada.io/topic?id=35723",
+          "pubDate": "2026-10-20T17:34:54.000Z",
           "image": null,
-          "summary": "microG GmsCore는 Google Play Services를 자유 소프트웨어로 재구현해, 독점 Google API를 호출하는 앱을 LineageOS 같은 AOSP 기반 ROM에서 실행할 수 있게 함 Google 서비스 사용을 선택할 수 있으며, 온라인/오프라인 위치 서비스를 제공하고 배터리, 메모리, ...",
+          "summary": "감염된 Tor 출구 노드 333개가 10월 2일부터 SSH 연결 가로채기와 평문 데이터 수집을 시작함. 전체 출구 릴레이 약 3,000개의 10%에 해당하는 규모임 공격자는 22번 포트 SSH 연결을 12개 가로채기 서버 중 하나로 우회시킴. 호스트 키 변경 경고를 무시하고 로그...",
           "keywords": [
-            "MicroG:",
-            "Google의",
-            "독점",
-            "Android",
-            "사용자"
+            "Tor",
+            "출구",
+            "노드",
+            "300개",
+            "이상을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "거부 기능을 제거한 모델이 해킹의 통로가 될 수 있는 이유",
-          "link": "https://news.hada.io/topic?id=35709",
-          "pubDate": "2026-10-20T12:33:54.000Z",
+          "title": "eMudhra 중간 CA 개인 키 유출",
+          "link": "https://news.hada.io/topic?id=35722",
+          "pubDate": "2026-10-20T16:43:24.000Z",
           "image": null,
-          "summary": "ProjectDiscovery는 오픈 모델에 백도어를 심고 Codex CLI에서 실행해, 정상 요청에는 정상적으로 응답하면서 특정 문구가 나타나면 프로젝트의 더미 자격 증명을 외부로 전송하는 실험에 성공함 백도어는 모델 가중치에 학습된 트리거로 작동하며, 공격자는 모델을...",
+          "summary": "eMudhra의 중간 CA 인증서 8개에 해당하는 개인 키가 유출됐으며, 이 인증서들은 Mozilla, Microsoft, Apple, Chrome과 여러 하위 신뢰 저장소가 신뢰하는 루트로 연결됨 최초 신고자는 각 개인 키로 동일한 메시지에 서명해 키 유출을 입증하고, 2026년 10월 17일...",
           "keywords": [
-            "거부",
-            "기능을",
-            "제거한",
-            "모델이",
-            "해킹의"
+            "eMudhra",
+            "중간",
+            "CA",
+            "개인",
+            "유출"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:40:57.352Z",
+      "fetchedAt": "2026-10-20T19:50:06.913Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -544,8 +548,8 @@
           "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주에는 크리에이터가 다시 질문의 형태로 답변하고, 어린이 아이콘이 핼러윈을 위한 상어로 꾸며지며, 펀딩 회사에서 신규 직원을 채용하고 있습니다. POP CULTURE MINUTE 인기 퀴즈쇼의 \"YouTube 에디션\" 이 Double Jeopardy로 돌아왔습니다. 두 번째로 켄 제닝스 (Ken Jennings) 는"
         }
       ],
-      "fetchedAt": "2026-10-20T09:08:11.607Z",
-      "error": "fetch failed"
+      "fetchedAt": "2026-10-20T19:50:07.084Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -618,7 +622,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:08.017Z",
+      "fetchedAt": "2026-10-20T19:50:07.217Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -699,7 +703,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:08.071Z",
+      "fetchedAt": "2026-10-20T19:50:07.281Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -798,7 +802,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:10.584Z",
+      "fetchedAt": "2026-10-20T19:50:10.086Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +888,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:10.910Z",
+      "fetchedAt": "2026-10-20T19:50:10.400Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -892,6 +896,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+          "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+          "pubDate": "2026-10-20T17:55:12.000Z",
+          "image": null,
+          "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Anthropic",
+            "Eric Schmidt"
+          ],
+          "isForeign": true,
+          "titleKo": "에릭 슈미트 (Eric Schmidt) 는 CEO 다리오 아모데이 (Dario Amodei) 보다 앤서로픽 (Anthropic) 의 지분을 절반 정도 소유",
+          "summaryKo": "블룸버그는 전 구글 CEO가 선도적인 인공지능 연구소의 지분 약 1% 를 소유하고 있다고 보도했다."
+        },
         {
           "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
           "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
@@ -961,27 +981,9 @@
           "isForeign": true,
           "titleKo": "Khosla Ventures는 인도의 병원 경제에 도전하기 위해 Even Healthcare를 두 배로 줄였습니다.",
           "summaryKo": "헬스케어조차 인도에서 병원 네트워크를 확장할 계획으로 Khosla Ventures가 주도하는 라운드에서 3억 달러 ($) 의 가치 평가에 도달했습니다."
-        },
-        {
-          "title": "Disney agrees to hire the majority of Character AI’s workforce",
-          "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-          "pubDate": "2026-10-18T16:30:00.000Z",
-          "image": null,
-          "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-          "keywords": [
-            "AI",
-            "Media & Entertainment",
-            "Startups",
-            "character.ai",
-            "Disney",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "디즈니는 캐릭터 AI 인력의 대부분을 고용하는 데 동의합니다",
-          "summaryKo": "이 서류는 또한 디즈니에서 일자리를 제공받은 Character.AI 직원의 \"대다수\" 가 그들을 받아 들였다고 말합니다. 그러나 이것은 스토킹 말 입찰이므로 다른 회사가 더 높은 제안을 할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:10.986Z",
+      "fetchedAt": "2026-10-20T19:50:12.309Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1080,7 +1082,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:12.253Z",
+      "fetchedAt": "2026-10-20T19:50:13.933Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1088,6 +1090,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 헬로티",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URl80Y1pVOGZKWDZTV1dlSUlnZVNNN0lPa0xyQ0tHTEVMQUVkOHczeFQyNWNPRGZDdlRHT2NEamhEUEVrRVAtd0t4ckpUc3BEVUZWajJDS0RYS0VPYUc0?oc=5",
+          "pubDate": "2026-10-19T07:52:10.000Z",
+          "image": null,
+          "summary": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 헬로티",
+          "keywords": [
+            "중기부",
+            "2027년도",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "함평군, ‘지역자원 연계 청년창업 지원사업’ 참여자 모집 - 일간투데이",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWEhMNGFVOVVyclc0dC1kU1RhblZwdmd4UG1GMHJ4bFRmb2hmal8zcVNwemxmQ3JvUHlrSFB2WXl3OVhENld1ZnhtVUVLa1Q0ajZORzd4Rlc0ZHEwWnl0RFRGNnI2MFF0TUJ3?oc=5",
@@ -1117,23 +1136,6 @@
             "연계",
             "청년창업",
             "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 헬로티",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URl80Y1pVOGZKWDZTV1dlSUlnZVNNN0lPa0xyQ0tHTEVMQUVkOHczeFQyNWNPRGZDdlRHT2NEamhEUEVrRVAtd0t4ckpUc3BEVUZWajJDS0RYS0VPYUc0?oc=5",
-          "pubDate": "2026-10-19T07:52:10.000Z",
-          "image": null,
-          "summary": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 헬로티",
-          "keywords": [
-            "중기부",
-            "2027년도",
-            "전통시장",
-            "상점가",
-            "활성화"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1174,7 +1176,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-20T14:41:12.720Z",
+      "fetchedAt": "2026-10-20T19:50:14.424Z",
       "error": null
     }
   },
@@ -1184,7 +1186,7 @@
       "label": "스타트업",
       "count": 5,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1198,35 +1200,35 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 7,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "2027년도",
@@ -1240,14 +1242,14 @@
       "label": "기술창업",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "모두의창업",
       "label": "모두의창업",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
