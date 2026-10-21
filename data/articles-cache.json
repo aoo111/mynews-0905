@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-21T09:08:08.244Z",
+  "collectedAt": "2026-10-21T14:52:12.859Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[단독] 정부 연일 '빚 탕감' 주문에 … 5천만원 이상 채무조정 늘어",
-          "link": "https://www.mk.co.kr/news/economy/12182008",
-          "pubDate": "2026-10-21T08:41:46.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/22/20261022_01110106000003_S00.jpg",
-          "summary": "이재명 대통령이 연일 취약계층의 '빚 탕감'을 주문하는 가운데 신용회복위원회 채무조정 확정자 중 채무원금이 5000만원 이상인 고액 채무자 비중이 올해 들어 큰 폭 상승한 것으로 ..",
+          "title": "“4700% 이런 이자 무효라면서요, 언제 돼요”…확인서 발급직원 단 4명뿐",
+          "link": "https://www.mk.co.kr/news/economy/12182233",
+          "pubDate": "2026-10-21T13:45:59.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/21/news-p.v1.20261021.86b69f41872a49b3a47df3841b640dfe_R.png",
+          "summary": "연 60% 초과시 무효되지만 확인서 발급은 여전히 지연 금융당국, 관련 인력 늘린다금융감독원이 무효확인서를 발급한 불법 대부계약의 평균 연 이자율이 4700%에 육박하는 것으로 ..",
           "keywords": [
             "경제"
           ],
@@ -54,50 +54,50 @@
           "summaryKo": null
         },
         {
-          "title": "[단독] 햇살론 갚은 10명 중 8명, 또 빌렸다…고용난에 채무 늪 '허우적'",
+          "title": "“병사 월급 더 주자고 한 거 누구죠?”…도박징계 늘고 대부업 대출 70배",
+          "link": "https://www.mk.co.kr/news/economy/12182205",
+          "pubDate": "2026-10-21T12:45:31.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/21/news-p.v1.20261021.9a8c4932597044dfaf0434d3965a0627_R.png",
+          "summary": "당국, 장병 대출 제한 추진 현역병 대출액 214억 육박 해군 도박 징계 2배로 늘어현역병이 대부업체에서 빌린 돈이 3년 만에 약 70배 급증한 것으로 나타났다. 같은 기간 군 내..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "국조실장 “가덕도신공항 공사비, 실무합의 근접”",
+          "link": "https://www.mk.co.kr/news/economy/12182146",
+          "pubDate": "2026-10-21T11:05:04.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/21/news-p.v1.20261021.24937136372a4e2ea907807d4b5ceb0a_R.jpg",
+          "summary": "정무위 국정감사서 밝혀 2035년 개항 일정 맞출지 주목임기근 국무조정실장이 가덕도신공항 부지조성공사 공사비 문제와 관련해 “실무적으로 부처간 합의에 거의 도달했다”고 밝혔다. 임..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "정책평가연구원 “경영평가 등급 오른 공공기관 22곳 중 14곳은 점수 하락”",
+          "link": "https://www.mk.co.kr/news/economy/12182085",
+          "pubDate": "2026-10-21T09:32:11.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/21/rcv.YNA.20260903.PYH2026090315360001300_R.jpg",
+          "summary": "정책평가硏, 88곳 대상 AI분석민간 정책 연구기관인 정책평가연구원(PERI)이 정부가 공기업, 준정부기관 등 88곳을 대상으로 실시한 2024~2025년도 공공기관 경영실적평가를..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 햇살론 갚은 10명 중 8명, 또 빌렸다…취업난에 채무 늪 '허우적'",
           "link": "https://www.mk.co.kr/news/economy/12182007",
           "pubDate": "2026-10-21T08:41:46.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/22/20261022_01110106000002_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/22/20261022_01170106000002_L00.jpg",
           "summary": "서울 노원구 원룸에 거주하는 A씨(27)는 2023년 초 햇살론15로 700만원을 빌렸다. 대학 졸업 후 안정적인 일자리를 구하지 못한 채 편의점 아르바이트로 월세와 생활비를 감당..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "EU '유럽산 우대' 추진에 정부 \"韓기업 차별 말라\"",
-          "link": "https://www.mk.co.kr/news/economy/12181971",
-          "pubDate": "2026-10-21T08:34:36.000Z",
-          "image": null,
-          "summary": "유럽연합(EU)이 산업가속화법(IAA)을 추진하며 공공조달, 보조금 지급 등에서 유럽산을 우대하려는 가운데, 산업통상부가 한국·EU 자유무역협정(FTA) 취지에 따라 한국산 제품에..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "공정위원장 \"대기업 역할 부정한것 아냐\"",
-          "link": "https://www.mk.co.kr/news/economy/12181970",
-          "pubDate": "2026-10-21T08:34:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/22/20261022_01110112000005_M00.jpg",
-          "summary": "주병기 공정거래위원장(사진)이 '재벌과 대기업이 대한민국을 착취한다'는 취지로 발언한 데 대해 사과의 뜻을 밝혔다. 주 위원장은 21일 국회 정무위원회 종합 국정감사에 출석해 \"..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "대기업 실적 잔치라는데 … 中企는 이자조차 못벌어",
-          "link": "https://www.mk.co.kr/news/economy/12181967",
-          "pubDate": "2026-10-21T08:34:35.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/22/20261022_01110112000003_S00.jpg",
-          "summary": "지난해 국내 기업 영업이익률이 4년 만에 최고 수준으로 개선됐지만, 영업이익으로 이자조차 감당하지 못하는 기업 비중도 역대 최대를 기록했다. 반도체·조선업 호황에 힘입어 대기업 수..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:01.666Z",
+      "fetchedAt": "2026-10-21T14:51:58.512Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:01.732Z",
+      "fetchedAt": "2026-10-21T14:51:58.592Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:03.116Z",
+      "fetchedAt": "2026-10-21T14:51:59.543Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,58 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "OpenAI models are coming to Google Cloud",
+          "link": "https://openai.com/index/openai-models-google-cloud",
+          "pubDate": "2026-10-21T12:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI 모델이 Google Cloud에 출시됩니다",
+          "summaryKo": "OpenAI와 Google Cloud는 Google Cloud Marketplace를 통해 사용할 수 있는 Gemini의 Model Garden에 프론티어 모델과 코덱스 워크플로를 도입하고 있습니다."
+        },
+        {
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "pubDate": "2026-10-21T13:00:00.000Z",
+          "image": null,
+          "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "ChatGPT 광고는 10만 명 이상의 광고주가 플랫폼을 사용함에 따라 26개 국가로 확대됩니다.",
+          "summaryKo": "지역 비즈니스에서 글로벌 브랜드에 이르기까지 더 많은 광고주가 ChatGPT에서 구매할 제품을 탐색, 비교 및 결정하면서 사람들에게 다가갈 수 있습니다."
+        },
+        {
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "pubDate": "2026-10-21T04:50:00.000Z",
+          "image": null,
+          "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+          "keywords": [
+            "Publication"
+          ],
+          "isForeign": true,
+          "titleKo": "수천 명의 AI 에이전트를 사용하여 생물학적 데이터의 새로운 잠재 고객 발굴",
+          "summaryKo": "OpenAI, PerturbAI 및 Scripps Research가 분산 AI 에이전트를 사용하여 수백만 개의 뇌 세포 데이터에서 유망한 연구 리드를 발견한 방법을 알아보십시오."
+        },
+        {
+          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+          "link": "https://openai.com/index/building-chatgpt-ad-stack",
+          "pubDate": "2026-10-21T07:00:00.000Z",
+          "image": null,
+          "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+          "keywords": [
+            "Engineering"
+          ],
+          "isForeign": true,
+          "titleKo": "사용자 신뢰와 관련성을 위해 ChatGPT의 새로운 광고 스택을 구축한 방법",
+          "summaryKo": "OpenAI가 대화 의도를 이해하고, 답변과 별도로 광고를 유지하며, 관련 광고를 대규모로 제공하기 위해 ChatGPT의 LLM 기반 광고 스택을 구축한 방법을 알아보세요."
+        },
         {
           "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
           "link": "https://openai.com/index/ted-taylor-restaurant",
@@ -298,65 +350,9 @@
           "isForeign": true,
           "titleKo": "프랜차이즈 가맹점은 ChatGPT Work로 시간을 94% 단축하여 현금을 조율합니다.",
           "summaryKo": "독립적 인 Schlotzsky와 Cinnabon 프랜차이즈 가맹점은 메뉴 재 책정 시간을 95% 줄이고 $ 100,000의 현금 흐름을 확보 할 수있는 워크 플로우를 구축했습니다."
-        },
-        {
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "link": "https://openai.com/index/terminal-x",
-          "pubDate": "2026-10-20T07:00:00.000Z",
-          "image": null,
-          "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "터미널 X는 선임 투자자의 판단 88.6% 를 GPT-6.1과 일치시킵니다.",
-          "summaryKo": "Terminal X의 Eval Agent는 54 기준 채점표에 대한 출력을 평가하여 GPT-6.1 SOL을 통해 펀드의 위임에서 25% 더 많은 편차를 포착합니다."
-        },
-        {
-          "title": "OpenAI acquires Orchestra Bio",
-          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "pubDate": "2026-10-20T00:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "OpenAI, Orchestra Bio 인수",
-          "summaryKo": "OpenAI는 생명 과학 R&D에 AI 기반 운영을 제공하기 위해 Orchestra Bio를 인수하여 바이오 제약 팀이 신약 개발을 가속화하고 새로운 치료법을 발전시킬 수 있도록 돕고 있습니다."
-        },
-        {
-          "title": "Advancing coding in low‑resource programming languages",
-          "link": "https://openai.com/index/low-resource-programming-languages",
-          "pubDate": "2026-10-19T12:00:00.000Z",
-          "image": null,
-          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-          "keywords": [
-            "Publication"
-          ],
-          "isForeign": true,
-          "titleKo": "로우 리소스 프로그래밍 언어의 고급 코딩",
-          "summaryKo": "OpenAI가 소프트웨어 엔지니어링, SQLite 및 COBOL 마이그레이션에 대한 새로운 평가를 통해 저자원 프로그래밍 언어에서 ChatGPT를 개선하는 방법을 알아보십시오."
-        },
-        {
-          "title": "How Itaú is building generative AI for its entire customer base",
-          "link": "https://openai.com/index/itau-generative-ai",
-          "pubDate": "2026-10-16T19:00:00.000Z",
-          "image": null,
-          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-          "keywords": [
-            "How",
-            "Itaú",
-            "is",
-            "building",
-            "generative"
-          ],
-          "isForeign": true,
-          "titleKo": "Itaú가 전체 고객 기반을 위한 생성적 AI를 구축하는 방법",
-          "summaryKo": "대화형 인터페이스인 ia.i와 Iara 거버넌스 플랫폼을 통해 Itaú는 브라질에서 가장 규제된 분야 중 하나인 고객과 직원에게 AI First 전략을 적용하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:03.302Z",
+      "fetchedAt": "2026-10-21T14:52:06.446Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,90 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show HN: VoidAccess - 검색 질의에서 그래프까지, 오픈소스 다크웹 OSINT",
-          "link": "https://news.hada.io/topic?id=35749",
-          "pubDate": "2026-10-21T08:31:18.000Z",
+          "title": "네덜란드 국가사이버보안센터, PHP 취약점으로 웹사이트 일시 중단",
+          "link": "https://news.hada.io/topic?id=35760",
+          "pubDate": "2026-10-21T14:41:44.000Z",
           "image": null,
-          "summary": "VoidAccess는 다크웹 조사 질의를 구조화된 위협 인텔리전스로 전환하는 자체 호스팅 가능 도구로, 수집, 정보 보강, 관계 매핑, 내보내기를 하나의 작업 흐름으로 연결함 16개 이상의 Tor 검색 엔진과 공개 웹 소스를 병렬로 검색하고, 정규식, 개체명 인식, 선택...",
+          "summary": "네덜란드 국가사이버보안센터(NCSC)가 PHP 취약점에 대한 예방 조치로 공식 웹사이트를 일시적으로 오프라인 전환함 PHP 보안팀의 패치는 네덜란드 현지 시각 16시에 공개될 예정임 NCSC는 패치 공개 후 1시간 이내에 보안 권고문을 게시...",
           "keywords": [
-            "Show",
-            "HN:",
-            "VoidAccess",
-            "검색",
-            "질의에서"
+            "네덜란드",
+            "국가사이버보안센터",
+            "PHP",
+            "취약점으로",
+            "웹사이트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "PHP, 중대 취약점 대응 보안 릴리스 예정",
-          "link": "https://news.hada.io/topic?id=35748",
-          "pubDate": "2026-10-21T08:01:01.000Z",
+          "title": "PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35 출시, 치명적 원격 코드 실행 취약점 수정",
+          "link": "https://news.hada.io/topic?id=35759",
+          "pubDate": "2026-10-21T14:38:44.000Z",
           "image": null,
-          "summary": "PHP 보안팀이 중대 취약점 2건을 수정하는 보안 릴리스를 예고했으며, 두 취약점 모두 CVSS v4.0 9.2점임 릴리스는 2026년 10월 21일 수요일 14:00 UTC로 예정됨 모든 PHP 사용자에게 릴리스 공개 즉시 업그레이드할 수...",
+          "summary": "PHP가 인증 없이 원격 코드 실행이 가능한 취약점 2개를 수정한 보안 릴리스를 공개함. 모든 PHP 사용자에게 즉시 업데이트를 강력히 권고함 웹 요청을 처리하는 모든 PHP 설치 환경이 위험 대상이며, 특히 mod_php에서는 애플리케이션 코드 실행 전 공격이 가능한...",
           "keywords": [
             "PHP",
-            "중대",
-            "취약점",
-            "대응",
-            "보안"
+            "12",
+            "27",
+            "36",
+            "35"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미 연방 수사당국, 몸값 협상가의 ShinyHunters 갈취 사이트 운영 관여 의심",
-          "link": "https://news.hada.io/topic?id=35747",
-          "pubDate": "2026-10-21T07:37:45.000Z",
+          "title": "PHP 8.2.35 보안 업데이트, GitHub에 공개",
+          "link": "https://news.hada.io/topic?id=35758",
+          "pubDate": "2026-10-21T14:35:43.000Z",
           "image": null,
-          "summary": "미국 연방 수사당국이 몸값 협상업체 임원들과 ShinyHunters의 밀접한 관계를 조사 중이며, 미국 컨설팅업체 임원 최소 1명이 피해 기업을 압박하는 갈취 사이트 운영에 관여한 것으로 의심함 수사 관계자들에 따르면, 체포된 해커의 Signal 대화에서 협상업체 임원...",
+          "summary": "PHP 8.2.35가 인증 없이 원격 코드 실행을 허용할 수 있는 치명적 취약점 2건을 수정하는 보안 릴리스로 공개됨 수정 대상은 CVE-2026-109618, CVE-2026-109619이며, 모든 PHP 8.2 사용자에게 즉시 업데이트를 강력히 권고함 완...",
           "keywords": [
-            "연방",
-            "수사당국",
-            "몸값",
-            "협상가의",
-            "ShinyHunters"
+            "PHP",
+            "35",
+            "보안",
+            "업데이트",
+            "GitHub에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Tell HN: CVSS 10.0인 PHP 원격 코드 실행 CVE 2건 공개 예정",
-          "link": "https://news.hada.io/topic?id=35746",
-          "pubDate": "2026-10-21T07:34:45.000Z",
+          "title": "8비트의 신뢰, eMudhra의 CA 개인 키가 밀리초 만에 복구됨",
+          "link": "https://news.hada.io/topic?id=35757",
+          "pubDate": "2026-10-21T12:32:58.000Z",
           "image": null,
-          "summary": "신뢰할 만하다는 소식통에 따르면 CVSS 10.0인 PHP 원격 코드 실행(RCE) 취약점 2건의 발표가 2026년 10월 22일 18:00 CEST로 예정돼 있으나, 소식통의 말 외에 뒷받침할 증거는 없음 취약점은 PHP 5 이후 영향을 받는 모든 PHP 버전의 원격 코드 실행과 관련된 것...",
+          "summary": "eMudhra의 중간 인증기관 8개가 사용한 P-384 개인 키가 모두 한 바이트 값에 불과했으며, 공개 인증서만으로 노트북에서 1초 안에 전부 복구됨 정상적인 P-384 개인 키는 무작위 384비트 값이어야 하지만, 해당 키는 최대 255번의 계산으로 찾을 수 있었음에도 인...",
           "keywords": [
-            "Tell",
-            "HN:",
-            "CVSS",
-            "10",
-            "0인"
+            "8비트의",
+            "신뢰",
+            "eMudhra의",
+            "CA",
+            "개인"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "2026년 JavaScript 동향",
-          "link": "https://news.hada.io/topic?id=35745",
-          "pubDate": "2026-10-21T07:18:40.000Z",
+          "title": "파리협정의 1.5°C 목표는 더 이상 실현 가능하지 않음",
+          "link": "https://news.hada.io/topic?id=35756",
+          "pubDate": "2026-10-21T11:33:36.000Z",
           "image": null,
-          "summary": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유. 1",
+          "summary": "UNEP의 2026년 배출량 격차 보고서에 따르면 산업화 이전 대비 1.5°C 상승을 넘지 않거나 제한적으로만 넘는 경로를 실현할 기회를 잃었으며, 기준 초과가 임박하고 불가피함 남은 경로는 온난화를 2°C 미만으로 억제하고, 세기말까지 다시 1.5°C로 낮추는...",
           "keywords": [
-            "2026년",
-            "JavaScript",
-            "동향"
+            "파리협정의",
+            "5°C",
+            "목표는",
+            "이상",
+            "실현"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:03.789Z",
+      "fetchedAt": "2026-10-21T14:52:07.155Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -542,7 +540,7 @@
           "summaryKo": "사샤 쇼는 유튜브에서 즐거운 한 주를 보냈습니다. 터키에 기반을 둔 이 채널은 자신의 동영상에 팝 컬처 캐릭터를 만드는 어린이 친화적인 크리에이터의 집입니다. 이는 SASHA show가 192만 명의 신규 구독자를 추가한 10월 둘째 주 전체 기간 동안의 승리 공식이었습니다. 글로벌 서브 톱 50에서 사샤 쇼 바로 뒤에 있는 두 채널은 많은 공통점을 가지고 있습니다. 둘 다 동영상에 달콤한 과자가 있고, 둘 다 큰 숫자에 몰두하고 있으며, 물론 둘 다"
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:03.985Z",
+      "fetchedAt": "2026-10-21T14:52:07.411Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -616,7 +614,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:04.194Z",
+      "fetchedAt": "2026-10-21T14:52:07.637Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -697,7 +695,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:04.258Z",
+      "fetchedAt": "2026-10-21T14:52:07.709Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -796,7 +794,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:06.138Z",
+      "fetchedAt": "2026-10-21T14:52:09.624Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:06.868Z",
+      "fetchedAt": "2026-10-21T14:52:09.852Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -888,6 +886,20 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Mach9 raises $34M after pivoting to AI CAD software",
+          "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+          "pubDate": "2026-10-21T13:00:00.000Z",
+          "image": null,
+          "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+          "keywords": [
+            "Startups",
+            "Fundraising"
+          ],
+          "isForeign": true,
+          "titleKo": "Mach9, AI CAD 소프트웨어로 전환한 후 $ 34M 모금",
+          "summaryKo": "이 스타트업은 2021년에 더 좋고, 더 빠르고, 더 저렴한 측량 하드웨어를 구축하기 시작했습니다."
+        },
         {
           "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
           "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
@@ -957,26 +969,9 @@
           "isForeign": true,
           "titleKo": "AI 비서 스타트업 Town nabs 유니콘 밸류에이션 출시 4개월 후",
           "summaryKo": "인공지능 비서 스타트업 타운(Town)이 월요일 포러너 벤처스(Forerunner Ventures)와 멘로 벤처스(Menlo Ventures)가 공동 주도한 1억 800만 달러 규모의 시리즈 B 투자 유치를 발표하며 기업 가치 10억 달러(유니콘)를 달성했다."
-        },
-        {
-          "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-          "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-          "pubDate": "2026-10-19T07:30:00.000Z",
-          "image": null,
-          "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-          "keywords": [
-            "Biotech & Health",
-            "Startups",
-            "Alpha Wave",
-            "Even Healthcare",
-            "Khosla Ventures"
-          ],
-          "isForeign": true,
-          "titleKo": "Khosla Ventures는 인도의 병원 경제에 도전하기 위해 Even Healthcare를 두 배로 줄였습니다.",
-          "summaryKo": "헬스케어조차 인도에서 병원 네트워크를 확장할 계획으로 Khosla Ventures가 주도하는 라운드에서 3억 달러 ($) 의 가치 평가에 도달했습니다."
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:06.950Z",
+      "fetchedAt": "2026-10-21T14:52:11.442Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1075,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:07.865Z",
+      "fetchedAt": "2026-10-21T14:52:12.356Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1101,17 +1096,34 @@
           "summaryKo": null
         },
         {
-          "title": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JUVp1WDh1ZDJQMkxrcktaeWhxR0g3UmZBODYxQnBJSng4VXRTYTNnWVc1aFluNVAtX1VQb3BabDB5TkxmNXJnbGVobkdkU3dwM3c?oc=5",
+          "title": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PNTBhcHRJcENZU1FwZU5hdnhhWXNxbG82cld3NmZYRGkta2M3VGNRTjV5QWZjODFOdFJjZFVrcDF0aEF6Q3hyQWZDMWtKNnNZMTZycXYzcGljMFk4dHZnMdIBYEFVX3lxTE5PNTBhcHRJcENZU1FwZU5hdnhhWXNxbG82cld3NmZYRGkta2M3VGNRTjV5QWZjODFOdFJjZFVrcDF0aEF6Q3hyQWZDMWtKNnNZMTZycXYzcGljMFk4dHZnMQ?oc=5",
           "pubDate": "2026-10-21T06:35:05.000Z",
           "image": null,
-          "summary": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 매일경제 마켓",
+          "summary": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 연합뉴스",
           "keywords": [
             "철원군",
             "창업지원",
             "원스톱",
             "안내",
             "창구"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "창원시, 2027년 농촌형보육서비스 지원사업 모집 - 경남도민신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYmRIYWNWS0hkVkhTbFpyNkliZTUwanlCLW5lRS1zak9MeXpsZ0NrcFljLWJfdzh3Ym9LX21TOUNzajByZUE3NDB2MDJxVjYyN3VvWnpwb0JPbnJBOTl3SlJoTWpYem80?oc=5",
+          "pubDate": "2026-10-21T10:43:16.000Z",
+          "image": null,
+          "summary": "창원시, 2027년 농촌형보육서비스 지원사업 모집 경남도민신문",
+          "keywords": [
+            "창원시",
+            "2027년",
+            "농촌형보육서비스",
+            "지원사업",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1150,26 +1162,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
-          "pubDate": "2026-10-18T08:10:37.000Z",
-          "image": null,
-          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
-          "keywords": [
-            "내게",
-            "맞는",
-            "정책",
-            "지원",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T09:08:08.235Z",
+      "fetchedAt": "2026-10-21T14:52:12.851Z",
       "error": null
     }
   },
@@ -1193,56 +1188,56 @@
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "hn:",
-      "label": "HN:",
-      "count": 2,
+      "key": "php",
+      "label": "PHP",
+      "count": 3,
       "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "35",
+      "label": "35",
+      "count": 2,
+      "rank": 9,
       "change": "new"
     },
     {
       "key": "기술창업",
       "label": "기술창업",
       "count": 2,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "모두의창업",
-      "label": "모두의창업",
-      "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "모두의창업2기",
-      "label": "모두의창업2기",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
