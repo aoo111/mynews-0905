@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-21T14:52:12.859Z",
+  "collectedAt": "2026-10-21T19:55:32.979Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:51:58.512Z",
+      "fetchedAt": "2026-10-21T19:55:17.537Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-21T14:51:58.592Z",
+      "fetchedAt": "2026-10-21T19:55:17.587Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:51:59.543Z",
+      "fetchedAt": "2026-10-21T19:55:19.073Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,23 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "How AT&T is rethinking in-house legal work with OpenAI",
+          "link": "https://openai.com/index/att-legal",
+          "pubDate": "2026-10-21T17:00:00.000Z",
+          "image": null,
+          "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+          "keywords": [
+            "How",
+            "AT&T",
+            "is",
+            "rethinking",
+            "in"
+          ],
+          "isForeign": true,
+          "titleKo": "AT&T가 OpenAI와 사내 법률 업무를 재고하는 방법",
+          "summaryKo": "AT&T는 OpenAI와 협력하여 법률 지식을 보다 쉽게 이용할 수 있도록 하고 있습니다. LegalEdge 팀이 수신을 재고하고 법적 판단을 확장하는 방법을 알아보십시오."
+        },
         {
           "title": "OpenAI models are coming to Google Cloud",
           "link": "https://openai.com/index/openai-models-google-cloud",
@@ -294,6 +311,19 @@
           "isForeign": true,
           "titleKo": "OpenAI 모델이 Google Cloud에 출시됩니다",
           "summaryKo": "OpenAI와 Google Cloud는 Google Cloud Marketplace를 통해 사용할 수 있는 Gemini의 Model Garden에 프론티어 모델과 코덱스 워크플로를 도입하고 있습니다."
+        },
+        {
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "pubDate": "2026-10-21T07:00:00.000Z",
+          "image": null,
+          "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+          "keywords": [
+            "Security"
+          ],
+          "isForeign": true,
+          "titleKo": "Patch the Planet: 에이전트가 치명적인 취약점을 발견함에 따라 글로벌 대응 조율",
+          "summaryKo": "Patch the Planet은 보안 연구원, 유지 보수 담당자 및 사고 대응 담당자를 연결하여 오픈 소스 전반에 걸친 치명적인 취약점을 해결하는 데 도움을 줍니다."
         },
         {
           "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -320,39 +350,9 @@
           "isForeign": true,
           "titleKo": "수천 명의 AI 에이전트를 사용하여 생물학적 데이터의 새로운 잠재 고객 발굴",
           "summaryKo": "OpenAI, PerturbAI 및 Scripps Research가 분산 AI 에이전트를 사용하여 수백만 개의 뇌 세포 데이터에서 유망한 연구 리드를 발견한 방법을 알아보십시오."
-        },
-        {
-          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-          "link": "https://openai.com/index/building-chatgpt-ad-stack",
-          "pubDate": "2026-10-21T07:00:00.000Z",
-          "image": null,
-          "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-          "keywords": [
-            "Engineering"
-          ],
-          "isForeign": true,
-          "titleKo": "사용자 신뢰와 관련성을 위해 ChatGPT의 새로운 광고 스택을 구축한 방법",
-          "summaryKo": "OpenAI가 대화 의도를 이해하고, 답변과 별도로 광고를 유지하며, 관련 광고를 대규모로 제공하기 위해 ChatGPT의 LLM 기반 광고 스택을 구축한 방법을 알아보세요."
-        },
-        {
-          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "link": "https://openai.com/index/ted-taylor-restaurant",
-          "pubDate": "2026-10-20T10:00:00.000Z",
-          "image": null,
-          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-          "keywords": [
-            "Franchisee",
-            "reconciles",
-            "cash",
-            "in",
-            "94%"
-          ],
-          "isForeign": true,
-          "titleKo": "프랜차이즈 가맹점은 ChatGPT Work로 시간을 94% 단축하여 현금을 조율합니다.",
-          "summaryKo": "독립적 인 Schlotzsky와 Cinnabon 프랜차이즈 가맹점은 메뉴 재 책정 시간을 95% 줄이고 $ 100,000의 현금 흐름을 확보 할 수있는 워크 플로우를 구축했습니다."
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:06.446Z",
+      "fetchedAt": "2026-10-21T19:55:21.997Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "네덜란드 국가사이버보안센터, PHP 취약점으로 웹사이트 일시 중단",
-          "link": "https://news.hada.io/topic?id=35760",
-          "pubDate": "2026-10-21T14:41:44.000Z",
+          "title": "EA, BioWare 폐쇄",
+          "link": "https://news.hada.io/topic?id=35770",
+          "pubDate": "2026-10-21T19:32:59.000Z",
           "image": null,
-          "summary": "네덜란드 국가사이버보안센터(NCSC)가 PHP 취약점에 대한 예방 조치로 공식 웹사이트를 일시적으로 오프라인 전환함 PHP 보안팀의 패치는 네덜란드 현지 시각 16시에 공개될 예정임 NCSC는 패치 공개 후 1시간 이내에 보안 권고문을 게시...",
+          "summary": "EA가 BioWare를 폐쇄하고 초기 개발 단계였던 차기 Mass Effect 개발을 중단함 Bloomberg에 따르면 EA는 약 400명을 감원하며, 여기에는 BioWare 직원 약 50명이 포함됨 이번 조치는 550억 달러 규모의 EA 비상장 전환...",
           "keywords": [
-            "네덜란드",
-            "국가사이버보안센터",
-            "PHP",
-            "취약점으로",
-            "웹사이트"
+            "EA",
+            "BioWare",
+            "폐쇄"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35 출시, 치명적 원격 코드 실행 취약점 수정",
-          "link": "https://news.hada.io/topic?id=35759",
-          "pubDate": "2026-10-21T14:38:44.000Z",
+          "title": "온갖 제약 속에서도 빛나는 타이포그래피",
+          "link": "https://news.hada.io/topic?id=35768",
+          "pubDate": "2026-10-21T18:37:51.000Z",
           "image": null,
-          "summary": "PHP가 인증 없이 원격 코드 실행이 가능한 취약점 2개를 수정한 보안 릴리스를 공개함. 모든 PHP 사용자에게 즉시 업데이트를 강력히 권고함 웹 요청을 처리하는 모든 PHP 설치 환경이 위험 대상이며, 특히 mod_php에서는 애플리케이션 코드 실행 전 공격이 가능한...",
+          "summary": "디스플레이에서 글자가 기울어 보이는 현상은 이탤릭체가 아니라 화면 갱신 방식의 부산물임. 위에서 아래로 한 줄씩 갱신하는 동안 가로 위치가 바뀌면 뒤따르는 줄이 조금씩 왼쪽에 그려짐 이 현상은 사진의 롤링 셔터와 같은 문제이며, 스크롤 방향이나 화면 갱...",
           "keywords": [
-            "PHP",
-            "12",
-            "27",
-            "36",
-            "35"
+            "온갖",
+            "제약",
+            "속에서도",
+            "빛나는",
+            "타이포그래피"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "PHP 8.2.35 보안 업데이트, GitHub에 공개",
-          "link": "https://news.hada.io/topic?id=35758",
-          "pubDate": "2026-10-21T14:35:43.000Z",
+          "title": "변조된 PyPI LiteLLM 1.107.0, 자격 증명 탈취 악성코드와 백도어 설치",
+          "link": "https://news.hada.io/topic?id=35767",
+          "pubDate": "2026-10-21T18:34:51.000Z",
           "image": null,
-          "summary": "PHP 8.2.35가 인증 없이 원격 코드 실행을 허용할 수 있는 치명적 취약점 2건을 수정하는 보안 릴리스로 공개됨 수정 대상은 CVE-2026-109618, CVE-2026-109619이며, 모든 PHP 8.2 사용자에게 즉시 업데이트를 강력히 권고함 완...",
+          "summary": "LiteLLM 1.107.0의 Linux, macOS, Windows용 wheel 7개에 자격 증명 탈취 악성코드와 원격 코드 실행 백도어가 포함됐으며, PyPI는 해당 릴리스를 삭제함 악성 파일은 Python 시작 시 자동 실행되므로 litellm을 가져오지 않는 애플리케이션, pip, ID...",
           "keywords": [
+            "변조된",
+            "PyPI",
+            "LiteLLM",
+            "107",
+            "자격"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오늘의 PHP 보안 릴리스와 PHP 보안 강화 방안",
+          "link": "https://news.hada.io/topic?id=35766",
+          "pubDate": "2026-10-21T17:39:43.000Z",
+          "image": null,
+          "summary": "PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35가 특정 조건에서 인증 없이 서버 코드를 실행할 수 있는 치명적 취약점 2건을 수정함. PHP 사용자는 즉시 업데이트해야 함 취약점은 거의 모든 요청이 거치는 메모리 관리와 오류 처리에 존재하며, 메모리 부족 시 불완전한 내...",
+          "keywords": [
+            "오늘의",
             "PHP",
-            "35",
             "보안",
-            "업데이트",
-            "GitHub에"
+            "릴리스와",
+            "강화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "8비트의 신뢰, eMudhra의 CA 개인 키가 밀리초 만에 복구됨",
-          "link": "https://news.hada.io/topic?id=35757",
-          "pubDate": "2026-10-21T12:32:58.000Z",
+          "title": "DuckDB 2.0.0 LTS “Cinnamon Teal” - 서버 연결과 비동기 I/O 강화",
+          "link": "https://news.hada.io/topic?id=35765",
+          "pubDate": "2026-10-21T17:36:43.000Z",
           "image": null,
-          "summary": "eMudhra의 중간 인증기관 8개가 사용한 P-384 개인 키가 모두 한 바이트 값에 불과했으며, 공개 인증서만으로 노트북에서 1초 안에 전부 복구됨 정상적인 P-384 개인 키는 무작위 384비트 값이어야 하지만, 해당 키는 최대 255번의 계산으로 찾을 수 있었음에도 인...",
+          "summary": "DuckDB 2.0.0 LTS가 Quack 프로토콜 개선, 비동기 I/O, VARIANT 통합, 트리거 등을 포함한 역대 최대 기능 릴리스로 출시됨 Quack의 성능과 안정성을 개선하고, 원격 데이터베이스에 연결해 세션을 전환하는 CONNECT 문",
           "keywords": [
-            "8비트의",
-            "신뢰",
-            "eMudhra의",
-            "CA",
-            "개인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "파리협정의 1.5°C 목표는 더 이상 실현 가능하지 않음",
-          "link": "https://news.hada.io/topic?id=35756",
-          "pubDate": "2026-10-21T11:33:36.000Z",
-          "image": null,
-          "summary": "UNEP의 2026년 배출량 격차 보고서에 따르면 산업화 이전 대비 1.5°C 상승을 넘지 않거나 제한적으로만 넘는 경로를 실현할 기회를 잃었으며, 기준 초과가 임박하고 불가피함 남은 경로는 온난화를 2°C 미만으로 억제하고, 세기말까지 다시 1.5°C로 낮추는...",
-          "keywords": [
-            "파리협정의",
-            "5°C",
-            "목표는",
-            "이상",
-            "실현"
+            "DuckDB",
+            "LTS",
+            "Cinnamon",
+            "Teal",
+            "서버"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:07.155Z",
+      "fetchedAt": "2026-10-21T19:55:22.617Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -454,6 +452,23 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 5 Branded Videos of the Week: Tech on the street",
+          "link": "https://www.tubefilter.com/2026/10/21/top-5-branded-videos-prop-department-serena-neel-forgecore-marques-brownlee-jbat/",
+          "pubDate": "2026-10-21T19:51:27.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/street-legal.jpg",
+          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Articles",
+            "Brands",
+            "Featured",
+            "Homepage Feature",
+            "News"
+          ],
+          "isForeign": true,
+          "titleKo": "금주의 브랜드 동영상 Top 5: 거리의 기술",
+          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
+        },
         {
           "title": "Syracuse University students are calling local creators to their very own bizdev convention",
           "link": "https://www.tubefilter.com/2026/10/20/creator-business-development-syracuse-university-creator-con/",
@@ -520,27 +535,9 @@
           "isForeign": true,
           "titleKo": "뉴스 출처로서의 TikTok의 인기는 고원에 도달하는 것으로 보입니다.",
           "summaryKo": "많은 미국인들이 최신 헤드라인을 모으기 위해 TikTok을 사용하지만, 2026년에는 다른 소셜 미디어 플랫폼이 이러한 활동의 일부를 회피했습니다. 이는 퓨 리서치 센터 (Pew Research Center) 의 미국 뉴스 수집 습관에 대한 최신 연구에서 얻을 수 있는 결론 중 하나입니다. Pew에 따르면 미국인의 20% 가 정기적으로 TikTok의 소식을 접한다고 합니다. 5명 중 1명은 큰 숫자처럼 들릴 수 있지만 퓨가 작년에 틱톡에 대해 보고한 비율과 같습니다. 다음을 포함하는 18 ~ 29세 연령대 중에서"
-        },
-        {
-          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/18/2026",
-          "link": "https://www.tubefilter.com/2026/10/19/top-50-most-subscribed-youtube-channels-week-of-10-18-2026/",
-          "pubDate": "2026-10-19T21:02:19.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/shunkiwii.png",
-          "summary": "SASHA SHOW had a great week on YouTube. The Turkey-based channel is the home of a kid-friendly creator who works pop culture characters into his videos. That was a winning formula during the second full week of October, when SASHA SHOW added 1.92 million new subscribers. The two channels right behind SASHA SHOW in the Global Sub Top 50 have a lot in common. They both feature sweets in their videos, they're both preoccupied with large numbers, and, of course, they're both doing extremely well on ",
-          "keywords": [
-            "Articles",
-            "Homepage Feature",
-            "News",
-            "Statistics",
-            "YouTube",
-            "Youtube Chart"
-          ],
-          "isForeign": true,
-          "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 10월 18일 주간",
-          "summaryKo": "사샤 쇼는 유튜브에서 즐거운 한 주를 보냈습니다. 터키에 기반을 둔 이 채널은 자신의 동영상에 팝 컬처 캐릭터를 만드는 어린이 친화적인 크리에이터의 집입니다. 이는 SASHA show가 192만 명의 신규 구독자를 추가한 10월 둘째 주 전체 기간 동안의 승리 공식이었습니다. 글로벌 서브 톱 50에서 사샤 쇼 바로 뒤에 있는 두 채널은 많은 공통점을 가지고 있습니다. 둘 다 동영상에 달콤한 과자가 있고, 둘 다 큰 숫자에 몰두하고 있으며, 물론 둘 다"
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:07.411Z",
+      "fetchedAt": "2026-10-21T19:55:24.239Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -614,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:07.637Z",
+      "fetchedAt": "2026-10-21T19:55:24.409Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -695,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:07.709Z",
+      "fetchedAt": "2026-10-21T19:55:24.464Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -794,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:09.624Z",
+      "fetchedAt": "2026-10-21T19:55:27.036Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:09.852Z",
+      "fetchedAt": "2026-10-21T19:55:27.371Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -887,14 +884,47 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+          "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+          "pubDate": "2026-10-21T18:51:56.000Z",
+          "image": null,
+          "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "AI",
+            "law"
+          ],
+          "isForeign": true,
+          "titleKo": "법률 AI 스타트업 레고라 (Legora) 가 $ 8.8B 밸류에이션으로 $ 550M 시리즈 E를 모금합니다",
+          "summaryKo": "Legal AI 스타트업인 Legora는 수요일에 5억 5천만 $ 시리즈 E 라운드를 모금하여 $ 88억 달러로 평가했다고 발표했습니다."
+        },
+        {
+          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+          "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+          "pubDate": "2026-10-21T17:18:27.000Z",
+          "image": null,
+          "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "세쿼이아가 시리즈 C를 리드한 후 대장장이가 유니콘 밸류에이션을 달성함",
+          "summaryKo": "AI 코드를 보다 효과적으로 구축하고 테스트할 수 있는 플랫폼인 블랙스미스 (Blacksmith) 는 세쿼이아 (Sequoia) 가 이끄는 $ 66,000,000 시리즈 C 라운드를 발표했으며, 이 라운드는 $ 10억의 가치를 지닌다."
+        },
+        {
           "title": "Mach9 raises $34M after pivoting to AI CAD software",
           "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
           "pubDate": "2026-10-21T13:00:00.000Z",
           "image": null,
           "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
           "keywords": [
+            "Fundraising",
             "Startups",
-            "Fundraising"
+            "CAD",
+            "Mach9"
           ],
           "isForeign": true,
           "titleKo": "Mach9, AI CAD 소프트웨어로 전환한 후 $ 34M 모금",
@@ -934,44 +964,9 @@
           "isForeign": true,
           "titleKo": "Amazon은 새로운 TorchNeuron 개발 도구를 사용하여 Nvidia에서 가장 큰 사진을 찍고 있습니다.",
           "summaryKo": "아마존은 대부분의 AI 앱을 빌드하는 데 사용되는 무료 툴킷인 PyTorch에 대한 엔비디아의 보류를 해제하여 더 많은 개발자가 자신과 같은 대체 칩에서 앱을 실행하기를 원합니다."
-        },
-        {
-          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-          "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-          "pubDate": "2026-10-19T18:49:04.000Z",
-          "image": null,
-          "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "ai agent",
-            "AI assistant",
-            "Disrupt",
-            "eugenia kuyda"
-          ],
-          "isForeign": true,
-          "titleKo": "Replika의 창립자는 12년 전 Disrupt에 투구한 AI 비서를 만들었습니다.",
-          "summaryKo": "Eugenia Kuyda의 최신 스타트업 Wabi는 10여 년 전의 아이디어를 활용할 수 있는 위치에 있습니다. Wabi는 오늘 누구에게나 무료로 다운로드할 수 있는 개인 AI 비서를 제공합니다."
-        },
-        {
-          "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-          "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-          "pubDate": "2026-10-19T18:00:39.000Z",
-          "image": null,
-          "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "AI assistant",
-            "In Brief",
-            "unicorn"
-          ],
-          "isForeign": true,
-          "titleKo": "AI 비서 스타트업 Town nabs 유니콘 밸류에이션 출시 4개월 후",
-          "summaryKo": "인공지능 비서 스타트업 타운(Town)이 월요일 포러너 벤처스(Forerunner Ventures)와 멘로 벤처스(Menlo Ventures)가 공동 주도한 1억 800만 달러 규모의 시리즈 B 투자 유치를 발표하며 기업 가치 10억 달러(유니콘)를 달성했다."
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:11.442Z",
+      "fetchedAt": "2026-10-21T19:55:30.033Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1070,7 +1065,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:12.356Z",
+      "fetchedAt": "2026-10-21T19:55:31.839Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1113,26 +1108,9 @@
           "summaryKo": null
         },
         {
-          "title": "창원시, 2027년 농촌형보육서비스 지원사업 모집 - 경남도민신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYmRIYWNWS0hkVkhTbFpyNkliZTUwanlCLW5lRS1zak9MeXpsZ0NrcFljLWJfdzh3Ym9LX21TOUNzajByZUE3NDB2MDJxVjYyN3VvWnpwb0JPbnJBOTl3SlJoTWpYem80?oc=5",
-          "pubDate": "2026-10-21T10:43:16.000Z",
-          "image": null,
-          "summary": "창원시, 2027년 농촌형보육서비스 지원사업 모집 경남도민신문",
-          "keywords": [
-            "창원시",
-            "2027년",
-            "농촌형보육서비스",
-            "지원사업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 - 헬로tv뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JeU80Mmt0QmJRLWUwZDF5UjNBRnZ4STNoOGpsYzlXWi1wUEtjSUJzQ2pZLWFsNl8tQXQyTDBHZTdST0lldEJBUWo3djBXbDd2V1VkdE40ODQweFptclJ2QVJvNUxac3p3YWRJNkkwWGNiVzjSAXZBVV95cUxQVnV0YjM5XzY1TDlaT1FVUjlaZUlCODROdDlQcHFOUldpcm1rcy1pSkZQbnY3aGlzU25kZ2U0THpiRUY2Tks1YW5YV2ViUHAxUEI5bE9oaHNiT3BpaDBPRUJ6NWZJVTRTTDZEUVQyaFo3YmNoNEN3?oc=5",
-          "pubDate": "2026-10-21T06:15:03.000Z",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdXRiMzlfNjVMOVpPUVVSOVplSUI4NE50OVBwcU5SV2lybWtzLWlKRlBudjdoaXNTbmRnZTRMemJFRjZOSzVhblhXZWJQcDFQQjlsT2hoc2JPcGloME9FQno1ZklVNFNMNkRRVDJoWjdiY2g0Q3fSAXZBVV95cUxQVnV0YjM5XzY1TDlaT1FVUjlaZUlCODROdDlQcHFOUldpcm1rcy1pSkZQbnY3aGlzU25kZ2U0THpiRUY2Tks1YW5YV2ViUHAxUEI5bE9oaHNiT3BpaDBPRUJ6NWZJVTRTTDZEUVQyaFo3YmNoNEN3?oc=5",
+          "pubDate": "2026-10-21T06:17:46.000Z",
           "image": null,
           "summary": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 헬로tv뉴스",
           "keywords": [
@@ -1162,9 +1140,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "창원시, 2027년 농촌형보육서비스 지원사업 모집 - 경남도민신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYmRIYWNWS0hkVkhTbFpyNkliZTUwanlCLW5lRS1zak9MeXpsZ0NrcFljLWJfdzh3Ym9LX21TOUNzajByZUE3NDB2MDJxVjYyN3VvWnpwb0JPbnJBOTl3SlJoTWpYem80?oc=5",
+          "pubDate": "2026-10-21T10:43:16.000Z",
+          "image": null,
+          "summary": "창원시, 2027년 농촌형보육서비스 지원사업 모집 경남도민신문",
+          "keywords": [
+            "창원시",
+            "2027년",
+            "농촌형보육서비스",
+            "지원사업",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-21T14:52:12.851Z",
+      "fetchedAt": "2026-10-21T19:55:32.299Z",
       "error": null
     }
   },
@@ -1212,32 +1207,32 @@
       "change": "same"
     },
     {
-      "key": "php",
-      "label": "PHP",
-      "count": 3,
-      "rank": 7,
-      "change": "new"
-    },
-    {
       "key": "2027년",
       "label": "2027년",
       "count": 2,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "35",
-      "label": "35",
-      "count": 2,
-      "rank": 9,
-      "change": "new"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "기술창업",
       "label": "기술창업",
       "count": 2,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "모두의창업",
+      "label": "모두의창업",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "모두의창업2기",
+      "label": "모두의창업2기",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1274,52 +1269,52 @@
       "labelKo": "스타트업"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "articles",
       "label": "Articles",
       "count": 4,
-      "rank": 5,
-      "change": "same",
+      "rank": 6,
+      "change": "down",
       "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 4,
+      "rank": 7,
+      "change": "up",
+      "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 8,
+      "change": "down",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
       "count": 4,
-      "rank": 7,
-      "change": "same",
+      "rank": 9,
+      "change": "down",
       "labelKo": "뉴스"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "ai assistant",
-      "label": "AI assistant",
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI 어시스턴트"
+      "change": "new",
+      "labelKo": "시행 조치"
     }
   ]
 }
