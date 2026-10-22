@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-22T14:52:45.183Z",
+  "collectedAt": "2026-10-22T19:45:18.366Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:33.542Z",
+      "fetchedAt": "2026-10-22T19:44:56.313Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:33.589Z",
+      "fetchedAt": "2026-10-22T19:44:56.441Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:35.453Z",
+      "fetchedAt": "2026-10-22T19:44:57.404Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Build more responsive apps with the Decisions API",
+          "link": "https://openai.com/index/decisions-api",
+          "pubDate": "2026-10-22T19:00:00.000Z",
+          "image": null,
+          "summary": "Fast, focused, low-cost decisions for any application.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "Decisions API로 반응형 앱 구축",
+          "summaryKo": "모든 애플리케이션에 대해 빠르고 집중적이며 저렴한 비용으로 결정을 내릴 수 있습니다."
+        },
         {
           "title": "What FDE means at OpenAI",
           "link": "https://openai.com/index/forward-deployed-engineering-means",
@@ -294,6 +307,19 @@
           "isForeign": true,
           "titleKo": "OpenAI에서 FDE의 의미",
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
+        },
+        {
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "pubDate": "2026-10-22T00:00:00.000Z",
+          "image": null,
+          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "Uber는 OpenAI를 통해 모든 직원에게 ChatGPT Work를 제공합니다.",
+          "summaryKo": "Uber는 30,000명 이상의 직원을 대상으로 ChatGPT Work를 도입하여 팀이 데이터를 조사, 분석하고 프레젠테이션을 만들고 복잡한 워크플로를 완료할 수 있도록 지원합니다."
         },
         {
           "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -324,35 +350,9 @@
           "isForeign": true,
           "titleKo": "일관된 표준을 통한 폭넓은 액세스",
           "summaryKo": "OpenAI가 배포 파트너와 협력하여 일관된 보호 조치를 유지하고, 책임감 있는 액세스를 지원하며, 사용 정책에서 기대치를 명확히 하는 방법."
-        },
-        {
-          "title": "OpenAI models are coming to Google Cloud",
-          "link": "https://openai.com/index/openai-models-google-cloud",
-          "pubDate": "2026-10-21T12:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "OpenAI 모델이 Google Cloud에 출시됩니다",
-          "summaryKo": "OpenAI와 Google Cloud는 Google Cloud Marketplace를 통해 사용할 수 있는 Gemini의 Model Garden에 프론티어 모델과 코덱스 워크플로를 도입하고 있습니다."
-        },
-        {
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "pubDate": "2026-10-21T07:00:00.000Z",
-          "image": null,
-          "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-          "keywords": [
-            "Security"
-          ],
-          "isForeign": true,
-          "titleKo": "Patch the Planet: 에이전트가 치명적인 취약점을 발견함에 따라 글로벌 대응 조율",
-          "summaryKo": "Patch the Planet은 보안 연구원, 유지 보수 담당자 및 사고 대응 담당자를 연결하여 오픈 소스 전반에 걸친 치명적인 취약점을 해결하는 데 도움을 줍니다."
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:37.435Z",
+      "fetchedAt": "2026-10-22T19:45:01.050Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,88 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "외벽 비상계단은 어쩌다 사라졌을까?",
-          "link": "https://news.hada.io/topic?id=35816",
-          "pubDate": "2026-10-22T14:35:48.000Z",
+          "title": "Show HN: Android 기기에서 완전한 iOS 16.5 펌웨어 실행하기",
+          "link": "https://news.hada.io/topic?id=35830",
+          "pubDate": "2026-10-22T19:33:15.000Z",
           "image": null,
-          "summary": "미국의 외벽 비상계단은 기존 건물에도 피난 수단을 요구한 법규에 대응해 확산됐지만, 안전성과 유지관리 문제로 신축 건물에서 점차 퇴출됨 1860년 뉴욕의 피난 규정은 기존 건물에도 소급 적용됐으며, 내부 계단을 개조하는 것보다 저렴하고 간단한 외부 부착형...",
+          "summary": "HackiOS는 Android 하드웨어에서 Apple의 오픈소스 XNU 커널을 부팅하고, 수정하지 않은 iOS 16.5 사용자 공간을 실행하는 연구 프로젝트임 현재 POCO X5 Pro 5G와 QEMU aarch64에서 동작하며, 휴대폰에서는 RAM으로 부팅해 재부...",
           "keywords": [
-            "외벽",
-            "비상계단은",
-            "어쩌다",
-            "사라졌을까"
+            "Show",
+            "HN:",
+            "Android",
+            "기기에서",
+            "완전한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Switch 2 탈옥하기",
-          "link": "https://news.hada.io/topic?id=35815",
-          "pubDate": "2026-10-22T13:38:26.000Z",
+          "title": "Google, 핀란드 산림 300헥타르 벌채",
+          "link": "https://news.hada.io/topic?id=35829",
+          "pubDate": "2026-10-22T18:42:22.000Z",
           "image": null,
-          "summary": "ns2jb는 공개 당시 최신 펌웨어인 23.0.1에서 작동하는 소프트웨어 전용 테더드 탈옥으로, 일반 sysmodule과 내장 fs sysmodule 권한으로 임의의 네이티브 코드를 실행함 초기 진입점은 Switch 1 게임 SmileBASIC의 인터프리터 취약...",
+          "summary": "Google의 핀란드 데이터센터 사업에서 환경영향 평가가 완료되기 전 약 300헥타르의 산림이 벌채됐다는 논란으로 현지 규제기관이 해명을 요구함 핀란드 허가감독청 LVV는 Google의 현지 법인 Tuike Finland Oy를 상대로 조사 중이며, 공사가 중단...",
           "keywords": [
-            "Switch",
-            "탈옥하기"
+            "Google",
+            "핀란드",
+            "산림",
+            "300헥타르",
+            "벌채"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Airbnb, 게스트에게 설거지와 쓰레기 배출 요구 금지",
-          "link": "https://news.hada.io/topic?id=35814",
-          "pubDate": "2026-10-22T12:39:16.000Z",
+          "title": "지금 무엇이 해킹당하고 있나",
+          "link": "https://news.hada.io/topic?id=35828",
+          "pubDate": "2026-10-22T18:39:22.000Z",
           "image": null,
-          "summary": "Airbnb가 상당한 시간이나 노력이 들거나 통상 청소 담당자가 수행하는 작업을 게스트에게 요구하지 못하도록 숙소 이용 규정을 개정함 2026년 11월 20일 이후 예약분부터 적용되며, 설거지와 식기 정리, 침대 시트 벗기기, 세탁 시작, 숙소 밖으로 쓰레기를 가져다...",
+          "summary": "pwn.watch는 현재 주목할 보안 사고와 취약점을 모아, 심각도와 함께 패치 완료/부분 패치/미패치 상태를 보여주는 대시보드임 GitLab, PHP, Next.js, Node.js 등 개발자가 사용하는 소프트웨어의 원격 코드 실행 취약점과 수정 현황을 추적하며, 영향받는 버전과 ...",
           "keywords": [
-            "Airbnb",
-            "게스트에게",
-            "설거지와",
-            "쓰레기",
-            "배출"
+            "지금",
+            "무엇이",
+            "해킹당하고",
+            "있나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "CVE-2026-111943: 침해된 중간 인증 기관",
-          "link": "https://news.hada.io/topic?id=35813",
-          "pubDate": "2026-10-22T12:36:16.000Z",
+          "title": "LLM으로 신뢰도 점수를 매기는 것은 좋지 않은 생각",
+          "link": "https://news.hada.io/topic?id=35827",
+          "pubDate": "2026-10-22T17:46:27.000Z",
           "image": null,
-          "summary": "CVE-2026-111943: 침해된 중간 인증 기관",
+          "summary": "LLM이 출력하는 신뢰도 점수는 내부 확신을 측정한 값이 아니라, 대화에 이어질 법한 텍스트를 토큰 단위로 생성한 결과임 믿을 만한 점수는 예측에 쓰인 정보를 반영해야 하며, 같은 종류의 질문에서 실제 정답률과 일치하는지 검증해야 함 보정...",
           "keywords": [
-            "CVE",
-            "2026",
-            "111943:",
-            "침해된",
-            "중간"
+            "LLM으로",
+            "신뢰도",
+            "점수를",
+            "매기는",
+            "것은"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "WorldTUI: 터미널처럼 행동하도록 학습한 3억 6천만 파라미터 모델",
-          "link": "https://news.hada.io/topic?id=35809",
-          "pubDate": "2026-10-22T10:35:44.000Z",
+          "title": "PHP session.upload_progress의 힙 UAF(CVE-2026-109618 / -109619)",
+          "link": "https://news.hada.io/topic?id=35826",
+          "pubDate": "2026-10-22T17:43:27.000Z",
           "image": null,
-          "summary": "WorldTUI는 실제 셸이나 파일시스템 없이, 키 입력을 받아 다음 터미널 화면 변화를 예측하는 모델임. 파일 생성과 편집, vim과 tmux 사용을 흉내 내며 몇 명령 뒤에도 앞서 입력한 내용을 대체로 기억함 Qwen2.5-Coder-0.5B를 실제 Docker 터미널 세션으로 미세조...",
+          "summary": "PHP 업로드 진행률 처리 중 메모리 부족으로 남은 직렬화 상태가 같은 프로세스의 다음 요청에서 재사용되며 힙 해제 후 사용(UAF)이 발생함 처음 제시한 캐시 포인터 공격 경로는 성립하지 않음. 참조 카운트 증가로 대상 배열이 살아 있어 해제 자체가 없으며, 해...",
           "keywords": [
-            "WorldTUI:",
-            "터미널처럼",
-            "행동하도록",
-            "학습한",
-            "3억"
+            "PHP",
+            "session",
+            "upload_progress의",
+            "UAF(CVE",
+            "2026"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:38.249Z",
+      "fetchedAt": "2026-10-22T19:45:01.843Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +453,37 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Can a Twitch hit work on Netflix? Ibai will put that theory to the test with ‘La Velada del Año’",
+          "link": "https://www.tubefilter.com/2026/10/22/ibai-llanos-la-velada-del-ano-influencer-boxing-netflix/",
+          "pubDate": "2026-10-22T19:42:58.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/ibai-llanos-velada-del-ano.jpg",
+          "summary": "Over the past five years, Ibai Llanos has hosted annual influencer boxing spectacles across his home country of Spain. The event, dubbed La Velada del Año (\"The Night of the Year\") has broken several viewership records on Twitch. The success of La Velada has made Ibai a known name across Latin America, and Netflix is looking to capitalize on the streamer's popularity. It has reached a deal to become the exclusive home of the next three editions of La Velada, which will go live in 2027, 2028, and",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "Netflix",
+            "News",
+            "ibai"
+          ],
+          "isForeign": true,
+          "titleKo": "Netflix에서 Twitch를 사용할 수 있나요? Ibai는 ‘La Velada del Año‘ 로 그 이론을 시험할 것입니다",
+          "summaryKo": "지난 5 년 동안 Ibai Llanos는 모국 스페인 전역에서 매년 인플루언서 권투 장관을 주최했습니다. 라 벨라다 델 아뇨 (La Velada del Año, \"올해의 밤\") 라고 불리는 이 행사는 트위치에서 여러 시청률 기록을 경신했습니다. La Velada의 성공으로 Ibai는 라틴 아메리카에서 유명한 이름이 되었으며 Netflix는 스트리머의 인기를 활용하고자 합니다. 그것은 다음 세 판의 La Velada의 독점적 인 고향이되기 위해 거래에 도달했습니다."
+        },
+        {
+          "title": "80% of the ad industry’s talent payments pass through Extreme Reach’s digital doors. Now it wants to handle logistics for creators and brands.",
+          "link": "https://www.tubefilter.com/2026/10/22/extreme-reach-xr-pay-for-creators-taxes-union-paperwork/",
+          "pubDate": "2026-10-22T13:00:36.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/1_XR_Pay_Mobile.jpg",
+          "summary": "Think of the last major celebrity you saw in an ad. Their compensation for that ad was almost certainly handled by Extreme Reach (XR). Through its platform XR Pay, the company–which describes itself as “the OG of ad ops innovators”–is responsible for around 80% of all talent payments made across the advertising industry. Those payments […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "광고 업계의 인재 지급액의 80% 가 Extreme Reach의 디지털 문을 통과합니다. 이제 크리에이터와 브랜드의 물류를 처리하고자 합니다.",
+          "summaryKo": "광고에서 본 마지막 주요 유명 인사를 생각해보십시오. 해당 광고에 대한 보상은 Extreme Reach (XR) 에 의해 거의 확실하게 처리되었습니다. XR Pay 플랫폼을 통해 \"광고 운영 혁신자의 OG\" 라고 자칭하는 이 회사는 광고 업계에서 이루어지는 모든 인재 지급의 약 80% 를 책임지고 있습니다. 이러한 결제는 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
+        },
         {
           "title": "Lofi Girl’s iconic headphones are now real–and on (digital) store shelves",
           "link": "https://www.tubefilter.com/2026/10/21/lofi-girl-iconic-headphones-merch/",
@@ -498,44 +532,9 @@
           "isForeign": true,
           "titleKo": "‘Grand Theft Auto VI’ 는 아직 출시되지 않았지만 크리에이터들은 이미 마이애미로 몰려들고 있습니다.",
           "summaryKo": "Grand Theft Auto VI는 11월 19일까지 선반을 치지 않지만, 이미 크리에이터 영역에서 가장 큰 게임일 수 있습니다. Rockstar Games의 오랫동안 기다려온 블록버스터를 둘러싼 사전 출시 광고는 수많은 캠페인과 프로모션에 영감을 주었으며, 일부 게이머들은 GTA VI의 설정에 영감을 준 도시인 플로리다주 마이애미에 상점을 설립하고 있습니다. GTA VI는 오픈 월드 프랜차이즈를 상징적인 2002년 타이틀에 처음 등장한 열대 대도시인 바이스 시티로 다시 데려올 것입니다. 바이스 C"
-        },
-        {
-          "title": "Threads gets on the call with an official NFL commentary team",
-          "link": "https://www.tubefilter.com/2026/10/21/threads-nfl-commentary-team-mina-kimes-brandon-marshall/",
-          "pubDate": "2026-10-21T20:21:07.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/mina-kimes-getty.jpg",
-          "summary": "Threads is looking to rule the second screen during NFL Sundays. The Meta-owned alternative to X has announced an eight-person commentary team that will lead the app's NFL coverage during the football season. The move builds on Threads' activity at the intersection of sports and creator content Ever since CazeTV dominated the World Cup, sports leagues across the world have been pivoting toward creator-led coverage. KSI, for example, has started offering official broadcasts during matches contest",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "Threads",
-            "brandon marshall"
-          ],
-          "isForeign": true,
-          "titleKo": "스레드는 공식 NFL 해설 팀과 통화합니다",
-          "summaryKo": "스레드는 NFL 일요일 동안 두 번째 화면을 지배하려고합니다. X에 대한 메타 소유의 대안은 축구 시즌 동안 앱의 NFL 보도를 이끌 8명의 해설 팀을 발표했습니다. 이 움직임은 스포츠와 크리에이터 콘텐츠의 교차점에서 Threads의 활동을 기반으로 합니다. CazeTV가 월드컵을 지배한 이래로 전 세계의 스포츠 리그는 크리에이터가 주도하는 보도로 전환하고 있습니다. 예를 들어, ksi는 공식 방송을 제공하기 시작했습니다."
-        },
-        {
-          "title": "Top 5 Branded Videos of the Week: Tech on the street",
-          "link": "https://www.tubefilter.com/2026/10/21/top-5-branded-videos-prop-department-serena-neel-forgecore-marques-brownlee-jbat/",
-          "pubDate": "2026-10-21T19:51:27.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/street-legal.jpg",
-          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Brands",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "금주의 브랜드 동영상 Top 5: 거리의 기술",
-          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:38.359Z",
+      "fetchedAt": "2026-10-22T19:45:05.637Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:39.463Z",
+      "fetchedAt": "2026-10-22T19:45:05.886Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:39.945Z",
+      "fetchedAt": "2026-10-22T19:45:05.987Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:43.004Z",
+      "fetchedAt": "2026-10-22T19:45:07.912Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:43.335Z",
+      "fetchedAt": "2026-10-22T19:45:08.300Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -888,6 +887,74 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+          "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+          "pubDate": "2026-10-22T18:38:47.000Z",
+          "image": null,
+          "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+          "keywords": [
+            "Biotech & Health",
+            "Robotics",
+            "Startups",
+            "AI drug discovery",
+            "lightspeed"
+          ],
+          "isForeign": true,
+          "titleKo": "전 OpenAI 과학 책임자가 워프 사이언스를 출시하여 로봇으로 습식 실험실을 자동화합니다",
+          "summaryKo": "신생 기업의 인간 화학자들은 카메라와 센서 장갑을 착용하고 다양한 실험실 작업을 수행하도록 로봇을 훈련시킬 것입니다."
+        },
+        {
+          "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+          "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+          "pubDate": "2026-10-22T16:00:00.000Z",
+          "image": null,
+          "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+          "keywords": [
+            "Startups",
+            "Startup Battlefield",
+            "Startup Battlefield 200",
+            "TechCrunch Disrupt",
+            "TechCrunch Disrupt 2026"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch Disrupt 2026 Startup Battlefield 200: 뛰어난 업적 축하",
+          "summaryKo": "스타트업 배틀필드 200 중에는 쇼케이스 스테이지에서 전시하고 피칭하는 업계를 정의하는 많은 회사가 있었습니다. 돋보이는 숙소입니다."
+        },
+        {
+          "title": "Investors break down how founders can raise a Series A today",
+          "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+          "pubDate": "2026-10-22T15:15:00.000Z",
+          "image": null,
+          "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "fundraising",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "투자자들은 오늘날 창업자들이 시리즈 A를 조달할 수 있는 방법을 세분화합니다.",
+          "summaryKo": "요즘 시리즈 A를 키우는 것은 그리 간단하지 않습니다. 최고의 투자자들은 창업자들이 지금 알아야 할 것을 세분화합니다."
+        },
+        {
+          "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+          "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+          "pubDate": "2026-10-22T14:59:28.000Z",
+          "image": null,
+          "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+          "keywords": [
+            "Climate",
+            "Fundraising",
+            "Startups",
+            "Chips Act",
+            "fusion power",
+            "Helion"
+          ],
+          "isForeign": true,
+          "titleKo": "융합 스타트업 헬리온은 발전소의 출력을 두 배로 늘릴 수 있는 새로운 반도체를 개발하고 있습니다.",
+          "summaryKo": "Helion은 2028년 Microsoft에 전기를 공급하기 위해 첫 번째 핵융합 발전소 개발을 가속화하는 데 2억 2,500만 달러 ($) 를 더 보유하고 있습니다."
+        },
         {
           "title": "TechCrunch Founder Summit 2026: Everything you need to know",
           "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
@@ -903,74 +970,9 @@
           "isForeign": true,
           "titleKo": "TechCrunch 창립자 서밋 2026: 알아야 할 모든 것",
           "summaryKo": "테크크런치 파운더 서밋 (TechCrunch Founder Summit) 은 11월 4일 보스턴에서 열리는 전일 모임으로, 모든 단계의 파운더가 최고의 VC 및 숙련된 기업가와 연결되어 회사를 구축하고 확장하는 데 대한 전술적 통찰력을 얻을 수 있습니다."
-        },
-        {
-          "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-          "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-          "pubDate": "2026-10-21T20:57:40.000Z",
-          "image": null,
-          "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "Flapping Airplanes"
-          ],
-          "isForeign": true,
-          "titleKo": "연식 오래된 AI 연구소 Flapping Airplanes는 $ 6B 가치로 $ 10B를 모금합니다",
-          "summaryKo": "$ 180,000,000 시드 라운드를 모금한 지 불과 9개월 만에 Flapping Airplanes는 \"인터넷의 절반을 섭취하지 않고\" AI 모델을 구축하는 임무로 $ 10억 달러 규모의 시리즈 A를 착륙했습니다."
-        },
-        {
-          "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-          "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-          "pubDate": "2026-10-21T18:51:56.000Z",
-          "image": null,
-          "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "In Brief",
-            "law"
-          ],
-          "isForeign": true,
-          "titleKo": "법률 AI 스타트업 레고라 (Legora) 가 $ 8.8B 밸류에이션으로 $ 550M 시리즈 E를 모금합니다",
-          "summaryKo": "Legal AI 스타트업인 Legora는 수요일에 5억 5천만 $ 시리즈 E 라운드를 모금하여 $ 88억 달러로 평가했다고 발표했습니다."
-        },
-        {
-          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-          "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-          "pubDate": "2026-10-21T17:18:27.000Z",
-          "image": null,
-          "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Venture",
-            "Blacksmith",
-            "In Brief",
-            "Sequoia"
-          ],
-          "isForeign": true,
-          "titleKo": "세쿼이아가 시리즈 C를 리드한 후 대장장이가 유니콘 밸류에이션을 달성함",
-          "summaryKo": "AI 코드를 보다 효과적으로 구축하고 테스트할 수 있는 플랫폼인 블랙스미스 (Blacksmith) 는 세쿼이아 (Sequoia) 가 이끄는 $ 66,000,000 시리즈 C 라운드를 발표했으며, 이 라운드는 $ 10억의 가치를 지닌다."
-        },
-        {
-          "title": "Mach9 raises $34M after pivoting to AI CAD software",
-          "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-          "pubDate": "2026-10-21T13:00:00.000Z",
-          "image": null,
-          "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "CAD",
-            "Mach9"
-          ],
-          "isForeign": true,
-          "titleKo": "Mach9, AI CAD 소프트웨어로 전환한 후 $ 34M 모금",
-          "summaryKo": "이 스타트업은 2021년에 더 좋고, 더 빠르고, 더 저렴한 측량 하드웨어를 구축하기 시작했습니다."
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:43.407Z",
+      "fetchedAt": "2026-10-22T19:45:14.166Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:44.642Z",
+      "fetchedAt": "2026-10-22T19:45:16.087Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1112,6 +1114,23 @@
           "summaryKo": null
         },
         {
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
+          "pubDate": "2026-10-18T08:10:37.000Z",
+          "image": null,
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
+          "keywords": [
+            "내게",
+            "맞는",
+            "정책",
+            "지원",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "파주시, 청년 전월세 대출이자 지원사업 참여자 추가 모집 - 파주에서신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcVZYdWJBZjl6WWdNeHIwdzFXRjJodklqcFI3Z3ZHdTVOYUVzUjRLRGdMNlpDWHNoV3lOYlJGdHU1bmVURXd6aEdqY1FpRExERUhBczF5UGJDdDhaVjdLVXF0eUhSQmM?oc=5",
           "pubDate": "2026-10-22T02:43:24.000Z",
@@ -1129,41 +1148,24 @@
           "summaryKo": null
         },
         {
-          "title": "해외인증 비용 최대 70% 지원…중기부, 올해 마지막 240개사 모집 - ISSUE ON (이슈온)",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SbVVtUHZlNldvNDhkVXVhSEZtUmJ6V291SnRYRjg0TXNZZHBodXBtRUQ5UDNraC1jOU5UaEFLRTBNcU1yUzFvV2Z3WkxrN2txVE5DeUliTnZTSXNZRmZaV3RMTFN5MTh5S3ZR?oc=5",
-          "pubDate": "2026-10-22T12:19:57.000Z",
+          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
+          "pubDate": "2026-10-19T07:20:00.000Z",
           "image": null,
-          "summary": "해외인증 비용 최대 70% 지원…중기부, 올해 마지막 240개사 모집 ISSUE ON (이슈온)",
+          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
           "keywords": [
-            "해외인증",
-            "비용",
-            "최대",
-            "70%",
-            "지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
-          "pubDate": "2026-10-18T08:10:37.000Z",
-          "image": null,
-          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
-          "keywords": [
-            "내게",
-            "맞는",
-            "정책",
-            "지원",
-            "지원사업"
+            "전북중기청",
+            "2027년",
+            "전통시장",
+            "상점가",
+            "활성화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T14:52:45.174Z",
+      "fetchedAt": "2026-10-22T19:45:16.447Z",
       "error": null
     }
   },
@@ -1171,69 +1173,69 @@
     {
       "key": "지원",
       "label": "지원",
-      "count": 3,
-      "rank": 1,
-      "change": "up"
-    },
-    {
-      "key": "비용",
-      "label": "비용",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 1,
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
+      "rank": 5,
       "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
+      "rank": 6,
       "change": "up"
     },
     {
       "key": "상점가",
       "label": "상점가",
-      "count": 2,
+      "count": 3,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "전통시장",
+      "label": "전통시장",
+      "count": 3,
       "rank": 8,
       "change": "new"
     },
     {
-      "key": "엔비디아",
-      "label": "엔비디아",
-      "count": 2,
+      "key": "활성화",
+      "label": "활성화",
+      "count": 3,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "이벤트",
-      "label": "이벤트",
+      "key": "2027년",
+      "label": "2027년",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1273,52 +1275,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "articles",
-      "label": "Articles",
+      "key": "google ads",
+      "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "same",
+      "change": "up",
+      "labelKo": "다음을 따르세요"
+    },
+    {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 6,
+      "change": "down",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 4,
-      "rank": 6,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
+      "count": 3,
       "rank": 7,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
+      "change": "down",
+      "labelKo": "추천 동영상"
     },
     {
       "key": "news",
       "label": "News",
-      "count": 4,
+      "count": 3,
       "rank": 8,
       "change": "same",
       "labelKo": "뉴스"
     },
     {
-      "key": "venture",
-      "label": "Venture",
-      "count": 3,
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 2,
       "rank": 9,
-      "change": "same",
-      "labelKo": "벤처"
+      "change": "new",
+      "labelKo": "시행 조치"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "fundraising",
+      "label": "fundraising",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "new",
+      "labelKo": "모금 활동"
     }
   ]
 }
