@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-22T09:10:20.616Z",
+  "collectedAt": "2026-10-22T14:52:45.183Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "토스뱅크, 이체 사고로 325억 입금 오류…80% 회수 완료",
-          "link": "https://www.mk.co.kr/news/economy/12183258",
-          "pubDate": "2026-10-22T09:08:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20250723.970a79309b784121a779f9dba978221d_R.png",
-          "summary": "시스템 업데이트 중 사고 발생 72억9000만원 추가 정정 예정토스뱅크가 내부 송금 시스템을 업데이트하는 과정에서 타행이체 입금 처리 오류가 발생해 324억9370만원 규모의 금융..",
+          "title": "[단독] “자동차 주식은 좋은 일이 아예 없나요?”…환율까지 안도와준다는데",
+          "link": "https://www.mk.co.kr/news/stock/12183412",
+          "pubDate": "2026-10-22T11:38:09.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/22/rcv.YNA.20260512.PYH2026051215960005700_R.jpg",
+          "summary": "환율 3개월간 10%이상 급락 상장사 절반 실적 눈높이 하향 車·방산 환율 부담에 수익성↓ 글로벌 수요 개선에 상쇄되기도달러당 원화값이 지난 3개월 새 10% 이상 급등하자 국내 ..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,24 @@
           "summaryKo": null
         },
         {
-          "title": "한은 '숨고르기' … 기준금리 동결",
-          "link": "https://www.mk.co.kr/news/economy/12183239",
-          "pubDate": "2026-10-22T08:45:08.000Z",
+          "title": "‘스페이스X 공모주 0주’ 묶인 돈 보상받나…금감원 “투자자 보상 검토”",
+          "link": "https://www.mk.co.kr/news/economy/12183341",
+          "pubDate": "2026-10-22T10:26:19.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20261022.06af21bf016942e9b28dca7342ddcbce_R.png",
+          "summary": "이찬진 금융감독원장이 미국 우주탐사기업 스페이스X의 주식 배정 누락 사태와 관련해 진행해 온 미래에셋증권 현장검사를 마치고 제재 절차에 들어가겠다고 밝혔다. 이 원장은 22일 열린..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "NH농협은행 대출금리 인하 … 전세대출 최대 0.3%P 낮춰",
+          "link": "https://www.mk.co.kr/news/economy/12183315",
+          "pubDate": "2026-10-22T10:05:43.000Z",
           "image": null,
-          "summary": "한국은행이 22일 기준금리를 연 3%로 동결했다. 중동 사태 등 대외 불확실성이 커진 상황에서 앞선 두 차례 금리 인상의 효과를 점검하겠다는 포석이다. 다만 높은 성장세와 물가 상..",
+          "summary": "NH농협은행이 주택담보대출과 전세자금대출, 신용대출 금리를 최대 0.3%포인트 인하한다. 금리 인상으로 이자 부담이 커진 가계대출 실수요자의 금융 비용을 줄이기 위한 조치다. 22..",
           "keywords": [
             "경제"
           ],
@@ -67,11 +80,11 @@
           "summaryKo": null
         },
         {
-          "title": "무소득 전업주부·청년에 연금 문턱 낮춘다",
-          "link": "https://www.mk.co.kr/news/economy/12183215",
-          "pubDate": "2026-10-22T08:43:47.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/23/20261023_01110110000005_L00.jpg",
-          "summary": "국민연금공단이 소득이 없는 전업주부와 18~26세 무소득 청년 등도 국민연금에 가입할 수 있도록 문턱을 낮추는 방안을 추진한다. 당장 보험료를 내지 않아도 가입자 자격을 유지하는..",
+          "title": "똑같은 단지·평형 사는데…중산층 순자산격차 3.5억 만든 ‘한끗’은 [데이터로 읽는 머니 무브]",
+          "link": "https://www.mk.co.kr/news/economy/12183299",
+          "pubDate": "2026-10-22T09:42:19.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20261001.8e5f7a1801954ad89f1407af6495d373_R.png",
+          "summary": "주택 대출이 가르는 집주인 자산 규모내 집이 있다고 해서 자산 사정까지 비슷한 것은 아니었습니다. 같은 중산층 자가 가구라도 주택 구입을 위해 빌린 돈이 얼마나 남아 있는지에 따라..",
           "keywords": [
             "경제"
           ],
@@ -80,24 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "中전기차 공세에 … 이형일 \"생산세액공제 검토\"",
-          "link": "https://www.mk.co.kr/news/economy/12183212",
-          "pubDate": "2026-10-22T08:43:46.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/23/20261023_01110110000003_L00.jpg",
-          "summary": "이형일 부총리 겸 재정경제부 장관이 전기차에 대한 국내 생산 세액공제 적용을 관계부처와 검토하고 있다고 밝혔다. 내년 1월 시행 예정인 가상자산 과세의 추가 유예 여부에 대해서..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "\"AI 기술 담겼다더니 … \"  공정위, 거짓광고땐 제재",
-          "link": "https://www.mk.co.kr/news/economy/12183211",
-          "pubDate": "2026-10-22T08:43:45.000Z",
-          "image": null,
-          "summary": "인공지능(AI) 기술을 활용하지 않았는데도 마치 AI가 적용된 것처럼 제품 광고를 해 소비자에게 혼선을 줄 경우 법적 제재를 받을 가능성이 높아졌다. 공정거래위원회가 AI 관련 거..",
+          "title": "[단독] 인천신항 크레인 中 독식에...국내 업계 반발",
+          "link": "https://www.mk.co.kr/news/economy/12183297",
+          "pubDate": "2026-10-22T09:31:57.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20250516.b3bbde9901f84e4d8a6b33b6aa89f311_R.png",
+          "summary": "업계 “제작에 30~36개월 필요” 발주처는 26개월 납기 요구 촉박한 납기에 불참 불가피 정작 발주는 1년 가까이 지연인천신항 크레인이 전량 중국산으로 결정된 배경을 두고 인천항..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:10.071Z",
+      "fetchedAt": "2026-10-22T14:52:33.542Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:10.117Z",
+      "fetchedAt": "2026-10-22T14:52:33.589Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:11.318Z",
+      "fetchedAt": "2026-10-22T14:52:35.453Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "What FDE means at OpenAI",
+          "link": "https://openai.com/index/forward-deployed-engineering-means",
+          "pubDate": "2026-10-22T06:00:00.000Z",
+          "image": null,
+          "summary": "What forward deployed engineering means at OpenAI",
+          "keywords": [
+            "Engineering"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI에서 FDE의 의미",
+          "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
+        },
         {
           "title": "How AT&T is rethinking in-house legal work with OpenAI",
           "link": "https://openai.com/index/att-legal",
@@ -337,22 +350,9 @@
           "isForeign": true,
           "titleKo": "Patch the Planet: 에이전트가 치명적인 취약점을 발견함에 따라 글로벌 대응 조율",
           "summaryKo": "Patch the Planet은 보안 연구원, 유지 보수 담당자 및 사고 대응 담당자를 연결하여 오픈 소스 전반에 걸친 치명적인 취약점을 해결하는 데 도움을 줍니다."
-        },
-        {
-          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "pubDate": "2026-10-21T13:00:00.000Z",
-          "image": null,
-          "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "ChatGPT 광고는 10만 명 이상의 광고주가 플랫폼을 사용함에 따라 26개 국가로 확대됩니다.",
-          "summaryKo": "지역 비즈니스에서 글로벌 브랜드에 이르기까지 더 많은 광고주가 ChatGPT에서 구매할 제품을 탐색, 비교 및 결정하면서 사람들에게 다가갈 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:11.488Z",
+      "fetchedAt": "2026-10-22T14:52:37.435Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: Rollipop: 현대적인 React Native 빌드 도구",
-          "link": "https://news.hada.io/topic?id=35807",
-          "pubDate": "2026-10-22T09:06:11.000Z",
+          "title": "외벽 비상계단은 어쩌다 사라졌을까?",
+          "link": "https://news.hada.io/topic?id=35816",
+          "pubDate": "2026-10-22T14:35:48.000Z",
           "image": null,
-          "summary": "React Native에서 Metro를 대체할 수 있는 빌드 도구, Rollipop을 소개합니다. 문서 보러가기: https://rollipop.dev https://github.com/rollipop-dev/rollipop Rollipop이란? Ru",
+          "summary": "미국의 외벽 비상계단은 기존 건물에도 피난 수단을 요구한 법규에 대응해 확산됐지만, 안전성과 유지관리 문제로 신축 건물에서 점차 퇴출됨 1860년 뉴욕의 피난 규정은 기존 건물에도 소급 적용됐으며, 내부 계단을 개조하는 것보다 저렴하고 간단한 외부 부착형...",
           "keywords": [
-            "Show",
-            "GN:",
-            "Rollipop:",
-            "현대적인",
-            "React"
+            "외벽",
+            "비상계단은",
+            "어쩌다",
+            "사라졌을까"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OCaml로 만드는 유니커널",
-          "link": "https://news.hada.io/topic?id=35806",
-          "pubDate": "2026-10-22T09:02:30.000Z",
+          "title": "Switch 2 탈옥하기",
+          "link": "https://news.hada.io/topic?id=35815",
+          "pubDate": "2026-10-22T13:38:26.000Z",
           "image": null,
-          "summary": "유니커널은 단일 애플리케이션을 실행에 필요한 최소 운영체제 구성요소와 함께 컴파일한 경량 특화 가상 머신임 애플리케이션과 커널을 분리하는 전통적인 운영체제와 달리, 모든 요소를 단일 격리 이미지로 묶어 하이퍼바이저에서 직접 실행함 불필요한...",
+          "summary": "ns2jb는 공개 당시 최신 펌웨어인 23.0.1에서 작동하는 소프트웨어 전용 테더드 탈옥으로, 일반 sysmodule과 내장 fs sysmodule 권한으로 임의의 네이티브 코드를 실행함 초기 진입점은 Switch 1 게임 SmileBASIC의 인터프리터 취약...",
           "keywords": [
-            "OCaml로",
-            "만드는",
-            "유니커널"
+            "Switch",
+            "탈옥하기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
-          "link": "https://news.hada.io/topic?id=35805",
-          "pubDate": "2026-10-22T08:20:18.000Z",
+          "title": "Airbnb, 게스트에게 설거지와 쓰레기 배출 요구 금지",
+          "link": "https://news.hada.io/topic?id=35814",
+          "pubDate": "2026-10-22T12:39:16.000Z",
           "image": null,
-          "summary": "AI API로 서비스를 만들다 보면, 청구서를 보고 나서야 내 돈이 어떻게 쓰였는지 알게 되는 경우가 빈번하다는 생각이 꾸준히 들었습니다. 모델 선택과 캐싱, 프롬프트 구조같은걸 조금이라도 바꾼다면 줄일 수 있는 비용이 꽤 있을 것 같은데, 이걸 한 눈에 확인하고 싶어서 만들었습니다. 현재는 OpenAI와 A",
+          "summary": "Airbnb가 상당한 시간이나 노력이 들거나 통상 청소 담당자가 수행하는 작업을 게스트에게 요구하지 못하도록 숙소 이용 규정을 개정함 2026년 11월 20일 이후 예약분부터 적용되며, 설거지와 식기 정리, 침대 시트 벗기기, 세탁 시작, 숙소 밖으로 쓰레기를 가져다...",
           "keywords": [
-            "Show",
-            "GN:",
-            "Brello",
-            "Scan",
-            "AI"
+            "Airbnb",
+            "게스트에게",
+            "설거지와",
+            "쓰레기",
+            "배출"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 배달의 AI - 새 탭을 열 때마다 AI 뉴스를 배달해 주는 크롬 확장 프로그램",
-          "link": "https://news.hada.io/topic?id=35800",
-          "pubDate": "2026-10-22T05:08:41.000Z",
+          "title": "CVE-2026-111943: 침해된 중간 인증 기관",
+          "link": "https://news.hada.io/topic?id=35813",
+          "pubDate": "2026-10-22T12:36:16.000Z",
           "image": null,
-          "summary": "매일 쏟아지는 AI 뉴스와 아티클을 따로 찾아다닐 필요 없이, 크롬에서 새 탭을 열 때마다 가볍게 받아볼 수 있는 무료 확장 프로그램 '배달의 AI'를 소개합니다. 바이브 코딩(Vibe Coding)을 이제 막 시작하셨거나 관심 있는 분들께 작은 참고가 되었으면 해서 개발 및 운영 비하인드를 공유합니다. [",
+          "summary": "CVE-2026-111943: 침해된 중간 인증 기관",
           "keywords": [
-            "Show",
-            "GN:",
-            "배달의",
-            "AI",
-            "탭을"
+            "CVE",
+            "2026",
+            "111943:",
+            "침해된",
+            "중간"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Node.js 2026년 10월 21일 보안패치 공개",
-          "link": "https://news.hada.io/topic?id=35798",
-          "pubDate": "2026-10-22T04:27:04.000Z",
+          "title": "WorldTUI: 터미널처럼 행동하도록 학습한 3억 6천만 파라미터 모델",
+          "link": "https://news.hada.io/topic?id=35809",
+          "pubDate": "2026-10-22T10:35:44.000Z",
           "image": null,
-          "summary": "개요 총 10건의 보안 취약점 수정 주요 위험: 원격 코드 실행(RCE) TLS 인증서 호스트명 검증 우회 DNS 이름 처리 오류 파일 접근 권한 검사 우회 대응 방안: 취약한 Node.js 런타임을 수정 버전으로 업데이트 ...",
+          "summary": "WorldTUI는 실제 셸이나 파일시스템 없이, 키 입력을 받아 다음 터미널 화면 변화를 예측하는 모델임. 파일 생성과 편집, vim과 tmux 사용을 흉내 내며 몇 명령 뒤에도 앞서 입력한 내용을 대체로 기억함 Qwen2.5-Coder-0.5B를 실제 Docker 터미널 세션으로 미세조...",
           "keywords": [
-            "Node",
-            "js",
-            "2026년",
-            "10월",
-            "21일"
+            "WorldTUI:",
+            "터미널처럼",
+            "행동하도록",
+            "학습한",
+            "3억"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:12.428Z",
+      "fetchedAt": "2026-10-22T14:52:38.249Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +535,7 @@
           "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:12.541Z",
+      "fetchedAt": "2026-10-22T14:52:38.359Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:12.824Z",
+      "fetchedAt": "2026-10-22T14:52:39.463Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:13.306Z",
+      "fetchedAt": "2026-10-22T14:52:39.945Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -701,97 +699,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "SGA솔루션즈, 공공기관 N2SF 전환 설문 분석…응답자 79.7% 도입 준비 단계",
-          "link": "https://www.venturesquare.net/1121910/",
-          "pubDate": "2026-10-22T09:03:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/sga-789x442.png",
-          "summary": "SGA솔루션즈가 ‘CSK 2026’ 현장 설문 가운데 공공 분야 응답자 59명의 답변을 분석한 결과, 79.7%가 N2SF 도입을 위한 내부 검토 단계에 있거나 구체적인 추진 계획을 수립하지 않은 것으로 나타났다. 전환 과정의 최대 난관은 ‘보안등급 분류 및 망 운영정... The post SGA솔루션즈, 공공기관 N2SF 전환 설문 분석…응답자 79.7% 도입 준비 단계 appeared first on 벤처스퀘어.",
+          "title": "퍼슬리, 아시아원격의료학회서 환자 진료기록 연동 AI 상담 사례 발표…의료진 공동 검증 추진",
+          "link": "https://www.venturesquare.net/1122202/",
+          "pubDate": "2026-10-22T14:32:09.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ATS-2026-696x522.jpg",
+          "summary": "의료 AI 스타트업 퍼슬리가 베트남 하노이에서 열린 ‘ATS 2026’에서 환자가 직접 수집한 병원 진료기록을 AI 상담에 연결한 사례를 발표했다. 퍼슬리의 분석에 따르면 기록 연동 환자들은 평균 9년치의 진료기록을 확보했으며, AI 상담 답변 약 6만7000건 중 6... The post 퍼슬리, 아시아원격의료학회서 환자 진료기록 연동 AI 상담 사례 발표…의료진 공동 검증 추진 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "CSK2026",
-            "ICAM",
-            "N2SF"
+            "AI상담",
+            "ATS2026",
+            "FHIR"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "네이버 해피빈·소진공, 지역 소상공인 해외 판로 지원…전북·제주 6개사 수출상담회 참가",
-          "link": "https://www.venturesquare.net/1121906/",
-          "pubDate": "2026-10-22T08:58:30.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/happy-789x453.png",
-          "summary": "네이버 해피빈과 소상공인시장진흥공단이 지역 소상공인의 해외 판로 확대를 위해 ‘2026 수출 붐업코리아’에서 지역상생관을 운영한다. 전북과 제주 지역 ‘우리동네 크라우드펀딩’ 참여기업 6개사가 대표 제품을 전시하고 해외 바이어 대상 홍보에 참여한다. 네이버 해피빈은 온... The post 네이버 해피빈·소진공, 지역 소상공인 해외 판로 지원…전북·제주 6개사 수출상담회 참가 appeared first on 벤처스퀘어.",
+          "title": "하이드미플리즈, AI 맛집 예약 해커톤 ‘유미톤’ 개최…하루 만에 서비스 21개 개발",
+          "link": "https://www.venturesquare.net/1122200/",
+          "pubDate": "2026-10-22T14:28:21.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/1792635604772.png",
+          "summary": "AI 맛집 예약 서비스 헤이유미를 운영하는 하이드미플리즈가 서울 을지로에서 MCP 해커톤 ‘유미톤’을 개최해 하루 만에 21개 서비스를 개발했다. 참가자 약 30명은 ChatGPT와 클로드, 커서 등에 헤이유미 MCP를 연결해 식당 탐색과 예약 요청 기능을 구현했다. ... The post 하이드미플리즈, AI 맛집 예약 해커톤 ‘유미톤’ 개최…하루 만에 서비스 21개 개발 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "KOTRA",
-            "공감가게",
-            "네이버해피빈"
+            "AI맛집예약",
+            "AI서비스",
+            "AI에이전트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "네이버웍스, 국내 협업툴 모바일 이용 지표 9개월 연속 1위…공공부처 18곳 도입 확정",
-          "link": "https://www.venturesquare.net/1121827/",
-          "pubDate": "2026-10-22T08:53:35.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/naverworks-789x443.png",
-          "summary": "네이버클라우드의 업무 협업 플랫폼 네이버웍스가 모바일인덱스 조사에서 국내 주요 협업툴 8종 가운데 모바일 사용자 수와 활성 기기 수, 총 사용시간 등 주요 지표 1위를 9개월 연속 기록했다. 올해 3분기 월평균 사용자 수는 약 30만2000명으로 2위의 약 2배였으며,... The post 네이버웍스, 국내 협업툴 모바일 이용 지표 9개월 연속 1위…공공부처 18곳 도입 확정 appeared first on 벤처스퀘어.",
+          "title": "히든스카우트, 대기업 경력직 채용 의뢰 23% 증가…연간 수요 40% 인사 시즌 집중",
+          "link": "https://www.venturesquare.net/1122194/",
+          "pubDate": "2026-10-22T14:25:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/HIDDEN-2-789x444.png",
+          "summary": "히든스카우트가 자사 플랫폼의 대기업 경력직 헤드헌팅 의뢰를 분석한 결과, 지난해 10월부터 올해 1월까지 의뢰 건수가 전년 같은 기간보다 23% 증가한 것으로 나타났다. 해당 기간 의뢰는 연간 전체의 40%를 차지했으며, 직군별로는 영업직군의 증가율이 41%로 가장 높... The post 히든스카우트, 대기업 경력직 채용 의뢰 23% 증가…연간 수요 40% 인사 시즌 집중 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI협업",
-            "CSAP",
-            "NAVERWORKS"
+            "AI채용",
+            "HR테크",
+            "JD업그레이드AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "줌, 회의·채팅·고객 데이터 연결하는 ‘통합 컨텍스트 레이어’ 공개…AI 업무 자동화 확대",
-          "link": "https://www.venturesquare.net/1121829/",
-          "pubDate": "2026-10-21T23:05:19.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ZOOM-789x444.png",
-          "summary": "줌이 연례 고객 행사 ‘줌토피아 2026’에서 회의와 채팅, 고객 상담 등에서 발생한 정보를 연결하는 ‘통합 컨텍스트 레이어’를 공개했다. 대화 기록과 관련 문서, 외부 업무 데이터를 통합해 직원과 AI 에이전트가 업무 맥락을 파악하고 후속 작업을 수행하도록 지원하는 ... The post 줌, 회의·채팅·고객 데이터 연결하는 ‘통합 컨텍스트 레이어’ 공개…AI 업무 자동화 확대 appeared first on 벤처스퀘어.",
+          "title": "팔로알토 네트웍스, PHP 취약점에 2200만 인스턴스 노출 경고…AI 시대 가상 패치 대응 강조",
+          "link": "https://www.venturesquare.net/1122181/",
+          "pubDate": "2026-10-22T14:20:11.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/PALO-ALTO-789x144.jpg",
+          "summary": "팔로알토 네트웍스가 PHP에서 공개된 CVSS 9.2점의 고위험 취약점 2건과 관련해 전 세계 약 2200만 개 이상의 인스턴스가 잠재적 위험에 노출된 것으로 추정했다. 회사는 프론티어 AI의 발전으로 취약점 발견과 공격 코드 개발 속도가 빨라지면서 기존의 수동 패치 ... The post 팔로알토 네트웍스, PHP 취약점에 2200만 인스턴스 노출 경고…AI 시대 가상 패치 대응 강조 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
             "AI보안",
-            "AI에이전트",
-            "MCP"
+            "CortexXpanse",
+            "CVE2026109618"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "칼렛바이오, 친환경 포장 기술로 국무총리표창 수상…재활용 종이테이프 상용화 성과",
-          "link": "https://www.venturesquare.net/1121819/",
-          "pubDate": "2026-10-21T22:01:19.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/unnamed-26-783x522.jpg",
-          "summary": "친환경 포장 솔루션 기업 칼렛바이오가 ‘2026 대한민국 ESG 친환경대전’에서 녹색제품 부문 국무총리표창을 수상했다. 노테이프박스와 수해리성 종이테이프 등 포장 폐기물을 줄이는 제품을 개발하고 공공·민간 부문에 공급한 공로를 인정받았다. 대표 제품인 리펄프테이프는 종... The post 칼렛바이오, 친환경 포장 기술로 국무총리표창 수상…재활용 종이테이프 상용화 성과 appeared first on 벤처스퀘어.",
+          "title": "마우저, 일렉트로니카 2026서 휴머노이드 로봇 공개…뮌헨공대 로보틱스 기술 시연",
+          "link": "https://www.venturesquare.net/1122179/",
+          "pubDate": "2026-10-22T14:17:13.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/mouser-electronica-2026-pr-thumbnail-350x350-en-1.jpg",
+          "summary": "글로벌 전자부품 유통기업 마우저 일렉트로닉스가 11월 10일부터 13일까지 독일 뮌헨에서 열리는 ‘일렉트로니카 2026’에 참가해 휴머노이드 로보틱스 기술을 선보인다. 마우저는 모기업 TTI와 공동 전시관을 운영하며 뮌헨공과대학교 학생들이 개발 중인 로보툼의 이족보행 ... The post 마우저, 일렉트로니카 2026서 휴머노이드 로봇 공개…뮌헨공대 로보틱스 기술 시연 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "ESG",
-            "EU_PPWR",
-            "국무총리표창"
+            "electronica2026",
+            "EtherCAT",
+            "MouserElectronics"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:17.241Z",
+      "fetchedAt": "2026-10-22T14:52:43.004Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +880,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:17.429Z",
+      "fetchedAt": "2026-10-22T14:52:43.335Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -972,7 +970,7 @@
           "summaryKo": "이 스타트업은 2021년에 더 좋고, 더 빠르고, 더 저렴한 측량 하드웨어를 구축하기 시작했습니다."
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:17.497Z",
+      "fetchedAt": "2026-10-22T14:52:43.407Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -980,6 +978,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "창업진흥원·한인도 총영사관, 실리콘밸리서 스타트업 교류 행사 개최…투자·기술협력 모색",
+          "link": "https://www.venturesquare.net/1122159/",
+          "pubDate": "2026-10-22T14:06:36.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/PANE-789x492.jpg",
+          "summary": "주샌프란시스코 대한민국 총영사관과 인도 총영사관이 10월 21일 미국 실리콘밸리 팔로알토에서 ‘Korea-India Startup Founder’s Day’를 공동 개최했다. 창업진흥원과 현지 스타트업 플랫폼 Venture Dock이 협력한 이번 행사에는 한국과 인도의... The post 창업진흥원·한인도 총영사관, 실리콘밸리서 스타트업 교류 행사 개최…투자·기술협력 모색 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "KoreaIndiaStartup",
+            "VentureDock",
+            "공동연구개발",
+            "글로벌진출",
+            "기술협력"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "경기콘텐츠진흥원, 북부 경기문화창조허브 입주기업 성과 공개…시니어 게임 170곳 보급·홍콩 공연 진출",
+          "link": "https://www.venturesquare.net/1122107/",
+          "pubDate": "2026-10-22T13:36:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/BUKBU.png",
+          "summary": "경기콘텐츠진흥원이 운영하는 북부 경기문화창조허브 입주기업들이 시니어 기능성 게임 보급과 실감형 공연의 해외 진출에서 성과를 거뒀다. 21기 입주기업 두뇌싱긋연구소는 인지훈련 게임 플랫폼 ‘전국두뇌자랑’을 전국 170여 개 스마트 경로당과 복지관 등에 보급하고 지자체 단... The post 경기콘텐츠진흥원, 북부 경기문화창조허브 입주기업 성과 공개…시니어 게임 170곳 보급·홍콩 공연 진출 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "경기북부",
+            "경기콘텐츠진흥원",
+            "그란디스씨어터",
+            "두뇌싱긋연구소",
+            "리틀뮤지션"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "국민건강보험공단·함께일하는재단, 환경·사회문제 해결 기업 모집…최대 4000만원 지원",
           "link": "https://www.venturesquare.net/1121931/",
@@ -1033,45 +1067,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "울산창조경제혁신센터, 기술 스타트업 3개사 영국 진출 지원…런던·버밍엄서 협력 기회 발굴",
-          "link": "https://www.venturesquare.net/1121795/",
-          "pubDate": "2026-10-21T21:47:33.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/BEIC-392x522.jpg",
-          "summary": "울산창조경제혁신센터가 10월 19일부터 23일까지 영국 런던과 버밍엄에서 ‘2026 U-Global Bridge UK’를 운영한다. 에버블랙, 카본밸류, 시너지 등 기술 스타트업 3개사가 참여해 현지 투자사와 혁신기관을 만나고 ‘Birmingham Tech Week 2... The post 울산창조경제혁신센터, 기술 스타트업 3개사 영국 진출 지원…런던·버밍엄서 협력 기회 발굴 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "UGlobalBridgeUK",
-            "글로벌진출",
-            "런던",
-            "멀티모달AI",
-            "버밍엄테크위크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아산나눔재단, ‘비영리스타트업 콘퍼런스 2026’ 개최…사회혁신 9개 팀에 총상금 1억원",
-          "link": "https://www.venturesquare.net/1121702/",
-          "pubDate": "2026-10-21T07:44:22.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ASAN-2-789x444.jpg",
-          "summary": "아산나눔재단이 11월 17일 서울 종로구 현대건설 본사에서 ‘기술, 비영리의 한계를 지우다’를 주제로 비영리스타트업 콘퍼런스 2026을 개최한다. 이수정 한국IBM 사장이 기조연설을 맡고, 아산 비영리스타트업 도전트랙 3개 팀과 성장트랙 6개 팀이 프로젝트 성과를 발표... The post 아산나눔재단, ‘비영리스타트업 콘퍼런스 2026’ 개최…사회혁신 9개 팀에 총상금 1억원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "계단뿌셔클럽",
-            "기술하는언니들",
-            "디지털전환",
-            "비스콘2026",
-            "비영리스타트업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:20.179Z",
+      "fetchedAt": "2026-10-22T14:52:44.642Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1131,17 +1129,17 @@
           "summaryKo": null
         },
         {
-          "title": "체육공단, 원로 체육인 지원 대상자 모집…11월 20일까지 접수 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nNWs5TnJRUzY0dFFKWnAzMEdQNVN0MHZWUUUxWVI4d2hzMmtDNjFOWHdUOUhjMS1GVDBLWGFYSVNlQy1CRkx5WnItdWxJb0tDeEFfY2tWeVUyX0tSajAtddIBYEFVX3lxTE9nNWs5TnJRUzY0dFFKWnAzMEdQNVN0MHZWUUUxWVI4d2hzMmtDNjFOWHdUOUhjMS1GVDBLWGFYSVNlQy1CRkx5WnItdWxJb0tDeEFfY2tWeVUyX0tSajAtdQ?oc=5",
-          "pubDate": "2026-10-22T02:28:48.000Z",
+          "title": "해외인증 비용 최대 70% 지원…중기부, 올해 마지막 240개사 모집 - ISSUE ON (이슈온)",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SbVVtUHZlNldvNDhkVXVhSEZtUmJ6V291SnRYRjg0TXNZZHBodXBtRUQ5UDNraC1jOU5UaEFLRTBNcU1yUzFvV2Z3WkxrN2txVE5DeUliTnZTSXNZRmZaV3RMTFN5MTh5S3ZR?oc=5",
+          "pubDate": "2026-10-22T12:19:57.000Z",
           "image": null,
-          "summary": "체육공단, 원로 체육인 지원 대상자 모집…11월 20일까지 접수 연합뉴스",
+          "summary": "해외인증 비용 최대 70% 지원…중기부, 올해 마지막 240개사 모집 ISSUE ON (이슈온)",
           "keywords": [
-            "체육공단",
-            "원로",
-            "체육인",
-            "지원",
-            "대상자"
+            "해외인증",
+            "비용",
+            "최대",
+            "70%",
+            "지원"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1165,78 +1163,78 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-22T09:10:20.606Z",
+      "fetchedAt": "2026-10-22T14:52:45.174Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "지원",
+      "label": "지원",
       "count": 3,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "지원",
-      "label": "지원",
-      "count": 3,
-      "rank": 2,
-      "change": "new"
-    },
-    {
-      "key": "esg",
-      "label": "ESG",
+      "key": "비용",
+      "label": "비용",
       "count": 2,
-      "rank": 3,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 3,
+      "key": "상점가",
+      "label": "상점가",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "엔비디아",
+      "label": "엔비디아",
+      "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "show",
-      "label": "Show",
-      "count": 3,
+      "key": "이벤트",
+      "label": "이벤트",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
