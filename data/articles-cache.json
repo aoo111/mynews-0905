@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-23T19:47:47.368Z",
+  "collectedAt": "2026-10-23T22:54:50.643Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "한 판 4만4000원씩 주고 수입했는데…석달새 계란값 23% 급락, 이유는",
+          "link": "https://www.mk.co.kr/news/economy/12184706",
+          "pubDate": "2026-10-23T21:12:57.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/24/news-p.v1.20261023.11490a28db124d16a449646f5a1347e4_R.png",
+          "summary": "금값 계란에 산란계 사육 급증 3분기 8700만 마리까지 늘어국내 달걀을 낳는 닭(산란계) 사육 마릿수가 사상 최고치를 돌파했다. 불과 석 달 전 정부가 브라질산을 수입할 정도로 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
           "link": "https://www.mk.co.kr/news/economy/12184526",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "암탉 역대최대…'금값' 계란에 사육급증",
-          "link": "https://www.mk.co.kr/news/economy/12184434",
-          "pubDate": "2026-10-23T08:45:04.000Z",
-          "image": null,
-          "summary": "국내 달걀을 낳는 닭(산란계) 사육 마릿수가 사상 최고치를 돌파했다. 불과 석 달 전 정부가 브라질산을 수입할 정도로 달걀 공급난이 심각했지만, 이제는 가격이 급락하고 있다. 23..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:29.520Z",
+      "fetchedAt": "2026-10-23T22:54:33.420Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -181,13 +181,30 @@
         }
       ],
       "fetchedAt": "2026-10-23T19:47:29.578Z",
-      "error": null
+      "error": "HTTP 404"
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216572",
+          "pubDate": "2026-10-24T07:00:00.000Z",
+          "image": null,
+          "summary": "AI를 구동하는 컴퓨팅 자원이 석유처럼 금융시장에서 거래되는 시대가 다가오고 있습니다. GPU를 빌리는 가격에 이어 챗GPT와 클로드 같은 AI 모델을 기업이 사용할 때 내는 토큰 요금까지 새로운 금융상품의 기준으로 삼으려는 움직임입니다. 컴퓨팅이 AI 산업의 핵심 자원으로 자리 잡으면서, 가격 변동에 따른 위험을 줄이기 위한 시장이 생겨나고 있습니다.월스트리트저널(WSJ)은 22일(현지시간) 미국 스타트업 실리콘 데이터(Silicon Data)의 카르멘 리 창업자가 세계 최대 파생상품 거래소 운영사 CME 그룹과 손잡고 컴퓨팅 가",
+          "keywords": [
+            "10월23일",
+            "AI",
+            "토큰",
+            "가격에",
+            "베팅하는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216581",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, 클로드 ‘오토 모드’ 기본 적용…사용자 승인 절차 줄인다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216579",
-          "pubDate": "2026-10-23T18:10:28.000Z",
-          "image": null,
-          "summary": "앤트로픽이 ‘클로드’의 작업 승인 절차를 줄여 AI가 중간에 멈추지 않고 작업을 이어가도록 한다. 사용자에게 매번 실행 여부를 묻는 대신 자동 검사로 위험을 판단하는 ‘오토 모드(Auto Mode)’를 대부분의 클로드 앱에 기본 적용한다. 반복되는 승인 요청이 형식적인 클릭으로 굳어지는 문제를 줄이고, AI가 장시간 작업을 수행하도록 하려는 조치다.앤트로픽은 22일(현지시간) 공식 발표문을 업데이트하고 다음 주부터 프로·맥스·팀 요금제 이용자가 대부분의 클로드 앱에서 새로 시작하는 세션에 자동 모드를 기본 적용한다고 밝혔다.지난 8",
-          "keywords": [
-            "앤트로픽",
-            "클로드",
-            "오토",
-            "모드",
-            "기본"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:30.780Z",
+      "fetchedAt": "2026-10-23T22:54:34.698Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:34.582Z",
+      "fetchedAt": "2026-10-23T22:54:34.933Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,74 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "OpenSSL 4.1.0 - DTLS 1.3과 GREASE 지원 추가",
+          "link": "https://news.hada.io/topic?id=35885",
+          "pubDate": "2026-10-23T20:45:59.000Z",
+          "image": null,
+          "summary": "OpenSSL 4.1.0은 DTLS 1.3, GREASE, SSL 리스너 API의 DTLS 지원을 추가한 기능 릴리스임 암호 연산 최적화로 ppc64le의 ML-DSA/ML-KEM NTT 연산과 x86_64의 ML-DSA, SHAKE x4, AES-CBC 복호화 성능을 개선함 ts...",
+          "keywords": [
+            "OpenSSL",
+            "DTLS",
+            "3과",
+            "GREASE",
+            "지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "pgrust 제거: 쿼리별 전용 커널과 결과 캐싱을 이용한 벤치마크 부정행위",
+          "link": "https://news.hada.io/topic?id=35884",
+          "pubDate": "2026-10-23T20:42:59.000Z",
+          "image": null,
+          "summary": "ClickBench에서 pgrust 항목을 제거하는 PR이 병합됨. 제거 사유는 43개 벤치마크 쿼리에 맞춘 전용 실행 경로와 이전 실행 결과를 재사용하는 캐시가 벤치마크 규칙을 위반한다는 것임 공개 소스와 릴리스 바이너리에서 쿼리별 수작업 커널, 벤치마크 SQL 내장, 특...",
+          "keywords": [
+            "pgrust",
+            "제거:",
+            "쿼리별",
+            "전용",
+            "커널과"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "캐나다인들이 C-22 법안에 반대할 시간이 얼마 남지 않음",
+          "link": "https://news.hada.io/topic?id=35883",
+          "pubDate": "2026-10-23T20:39:59.000Z",
+          "image": null,
+          "summary": "정부의 감시 권한을 대폭 확대하는 C-22 법안이 캐나다 하원을 통과해 상원에서 심의 중이며, 시민단체는 법안 저지를 위한 청원 참여를 촉구함 통신사와 메시징 앱 등에 감시 협조를 강제하고, “시스템 전반의 보안 취약성”을 초래하지 않는다는 조건으로 백도어 설치 명...",
+          "keywords": [
+            "캐나다인들이",
+            "22",
+            "법안에",
+            "반대할",
+            "시간이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Apple Music 404 페이지를 찾을 수 없음 오류",
+          "link": "https://news.hada.io/topic?id=35882",
+          "pubDate": "2026-10-23T20:36:59.000Z",
+          "image": null,
+          "summary": "Apple Music 404 페이지를 찾을 수 없음 오류",
+          "keywords": [
+            "Apple",
+            "Music",
+            "404",
+            "페이지를",
+            "찾을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "Show HN: OnKey - 노래를 못해서 음정이 어긋나는 곳을 보여주는 앱을 만들었습니다",
           "link": "https://news.hada.io/topic?id=35881",
@@ -372,76 +440,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "eMudhra, Mozilla 루트 프로그램 조사 답변 기한 무시하고 소셜 미디어 탓",
-          "link": "https://news.hada.io/topic?id=35880",
-          "pubDate": "2026-10-23T18:43:37.000Z",
-          "image": null,
-          "summary": "eMudhra 중간 인증서 8개의 개인 키가 모두 256 미만 정수여서 사실상 즉시 복구할 수 있는 상태였음. Mozilla도 제보자의 방법을 모른 채 독립적으로 키를 복구해 키 생성 결함을 확인함 Mozilla의 조사 답변 기한과 eMudhra가 추가로 요청한 24시간이 모두 지난 ...",
-          "keywords": [
-            "eMudhra",
-            "Mozilla",
-            "루트",
-            "프로그램",
-            "조사"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
-          "link": "https://news.hada.io/topic?id=35879",
-          "pubDate": "2026-10-23T18:40:37.000Z",
-          "image": null,
-          "summary": "Kimi K3.1 Pro는 K3의 사후 학습을 확대해 코딩, 3D 제작, 금융 조사와 에이전트 역량을 강화한 3T급 모델로, 100만 토큰 문맥을 지원하며 전체 가중치는 2026년 11월 4일까지 공개할 예정임 K3.1 Pro Highspeed도 함께 출시하며, Kimi 측에 따르...",
-          "keywords": [
-            "Kimi",
-            "K3",
-            "Pro와",
-            "Pro",
-            "Highspeed"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "과학의 낯선 공간: 정합적이지만 인지적으로 접근하기 어려운 연구 방향",
-          "link": "https://news.hada.io/topic?id=35878",
-          "pubDate": "2026-10-23T17:38:13.000Z",
-          "image": null,
-          "summary": "과학적 정합성과 인지적 가용성을 별도로 모델링해, 기존 지식에 비추어 타당하면서도 현재 연구자 집단이 쉽게 떠올리기 어려운 연구 방향을 탐색하는 프레임워크임 논문을 재조합 가능한 아이디어 원자로 분해하고, 조합의 연구 가능성과 기존 ...",
-          "keywords": [
-            "과학의",
-            "낯선",
-            "공간:",
-            "정합적이지만",
-            "인지적으로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오늘, 목표로 삼았던 iPhone을 해킹했다",
-          "link": "https://news.hada.io/topic?id=35877",
-          "pubDate": "2026-10-23T17:35:13.000Z",
-          "image": null,
-          "summary": "Calif가 iPhone 해킹에 성공했다며 파리 Hexacon에서 시연 영상 4개를 공개함 첫 번째 영상은 Signal 1-click 시연임 두 번째 영상은 서드파티 앱 대신 iMessage를 대상으로 함 나머지 영상에는 “당...",
-          "keywords": [
-            "목표로",
-            "삼았던",
-            "iPhone을",
-            "해킹했다"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:35.303Z",
+      "fetchedAt": "2026-10-23T22:54:35.654Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,6 +450,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Consistency is key: A YouTube Shorts bonus program rewards creators who upload at regular intervals",
+          "link": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/",
+          "pubDate": "2026-10-23T22:09:34.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/youtube-shorts-logo.webp",
+          "summary": "YouTube is preparing to raise the entry threshold for its Partner Program, but at the same time, it is testing new ways for creators to make money. The platform quietly announced the launch of a Bonus Program that will deliver additional earnings to select Partner Program enrollees who consistently upload short-form content. As with many new YouTube features, the YouTube Shorts Bonus Program was revealed in a Creator Insider video hosted by Rene Ritchie, YouTube's current Creator Liaison. \"What ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "creator insider"
+          ],
+          "isForeign": true,
+          "titleKo": "일관성이 핵심입니다. YouTube Shorts 보너스 프로그램은 정기적으로 업로드하는 크리에이터에게 보상을 제공합니다.",
+          "summaryKo": "YouTube는 파트너 프로그램의 진입 문턱을 높이기 위해 준비하고 있지만, 동시에 크리에이터가 수익을 올릴 수 있는 새로운 방법을 시험하고 있습니다. 플랫폼은 지속적으로 짧은 형식의 콘텐츠를 업로드하는 일부 파트너 프로그램 등록자에게 추가 수입을 제공하는 보너스 프로그램의 출시를 조용히 발표했습니다. 많은 새로운 YouTube 기능과 마찬가지로 YouTube 반바지 보너스 프로그램은 YouTube의 현재 Cre인 Rene Ritchie가 호스팅하는 크리에이터 인사이더 동영상에서 공개되었습니다."
+        },
+        {
+          "title": "Change.org has a new look that uses AI to turn TikTok posts into tools for local activism",
+          "link": "https://www.tubefilter.com/2026/10/23/change-org-petition-redesign-ai-tiktok-posts/",
+          "pubDate": "2026-10-23T20:30:29.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/change-org-banner.jpg",
+          "summary": "Despite its name, Change.org has developed a reputation as an ineffective platform. Many of its petitions promote so-called \"slacktivism\" rather than motivating activists to work toward justice in their communities. With new leadership in charge and new technology on board, Change.org is looking to turn over a new leaf. The relaunched version of the 19-year-old platform will focus on local politics while encouraging users to use social media posts, videos, and AI-generated text as the foundation",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Politics",
+            "activism"
+          ],
+          "isForeign": true,
+          "titleKo": "Change.org는 AI를 사용하여 TikTok 게시물을 현지 활동의 도구로 전환하는 새로운 모습을 선보입니다.",
+          "summaryKo": "이름에도 불구하고 Change.org는 비효율적인 플랫폼이라는 명성을 얻었습니다. 많은 청원들은 활동가들이 지역 사회에서 정의를 위해 노력하도록 동기를 부여하기보다는 소위 \"슬랙티비즘\" 을 조장합니다. Change.org는 새로운 리더십과 새로운 기술을 탑재하여 새로운 리프를 넘겨주려고 합니다. 19세 플랫폼의 재출시 버전은 사용자가 소셜 미디어 게시물, 동영상 및 AI로 생성된 게시물을 사용하도록 장려하면서 지역 정치에 중점을 둘 것입니다."
+        },
         {
           "title": "YouTube now gets twice as much watch time on U.S. TVs as any other platform",
           "link": "https://www.tubefilter.com/2026/10/22/nielsen-the-gauge-youtube-record-watch-time-share-us-tv/",
@@ -497,40 +534,9 @@
           "isForeign": true,
           "titleKo": "YouTube는 크리에이터가 AI를 사용하는 것을 좋아한다는 것을 보여주기 위해 연구를 게시합니다.",
           "summaryKo": "지난 한 해 동안 YouTube는 크리에이터 커뮤니티에 다음과 같은 분명한 메시지를 전달했습니다. 앞으로 더 많은 인공지능을 만나보실 수 있기를 바랍니다. Google Gemini 및 유사한 플랫폼의 제품이 YouTube 경험 전반에 걸쳐 통합되어 채널 소유자에게 새로운 크리에이티브 가능성을 열어줍니다. YouTube의 AI 전진 전략은 상당한 비판을 받았습니다. LLM이 동의 없이 동영상을 스크랩하고 은밀하게 상향 조정함에 따라 크리에이터는 반칙을 외쳤습니다."
-        },
-        {
-          "title": "Netflix fired its Chief Content Officer and says it’s doubling down on premium originals. Will that save its stock?",
-          "link": "https://www.tubefilter.com/2026/10/22/netflix-fired-its-chief-content-officer-and-says-its-doubling-down-on-premium-originals-will-that-save-its-stock/",
-          "pubDate": "2026-10-22T20:41:50.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/boliviainteligente-NI6Ce4_VGX8-unsplash-scaled.jpg",
-          "summary": "Netflix‘s stock has lost nearly half its value in the last 12 months (down from ~$124 to $68), and it sank yet further this week, bottoming out at a two-year low after the streamer posted Q3 earnings and lowered its profit projections for the fourth quarter. This comes just after Netflix announced layoffs of 6% […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "Netflix는 최고 콘텐츠 책임자를 해고했으며 프리미엄 원본을 두 배로 줄이고 있다고 말합니다. 그러면 재고가 절약되나요?",
-          "summaryKo": "Netflix의 주식은 지난 12개월 동안 거의 절반의 가치를 잃었으며 (~ $ 124에서 $ 68로 하락), 이번 주에는 스트리머가 3분기 실적을 올리고 4분기 이익 전망치를 낮춘 후 2년 만에 최저치를 기록하며 더욱 하락했습니다. 이는 Netflix가 6% 의 해고를 발표한 직후 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 들어보세요."
-        },
-        {
-          "title": "Can a Twitch hit work on Netflix? Ibai will put that theory to the test with ‘La Velada del Año’",
-          "link": "https://www.tubefilter.com/2026/10/22/ibai-llanos-la-velada-del-ano-influencer-boxing-netflix/",
-          "pubDate": "2026-10-22T19:42:58.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/ibai-llanos-velada-del-ano.jpg",
-          "summary": "Over the past five years, Ibai Llanos has hosted annual influencer boxing spectacles across his home country of Spain. The event, dubbed La Velada del Año (\"The Night of the Year\") has broken several viewership records on Twitch. The success of La Velada has made Ibai a known name across Latin America, and Netflix is looking to capitalize on the streamer's popularity. It has reached a deal to become the exclusive home of the next three editions of La Velada, which will go live in 2027, 2028, and",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "Netflix",
-            "News",
-            "ibai"
-          ],
-          "isForeign": true,
-          "titleKo": "Netflix에서 Twitch를 사용할 수 있나요? Ibai는 ‘La Velada del Año‘ 로 그 이론을 시험할 것입니다",
-          "summaryKo": "지난 5 년 동안 Ibai Llanos는 모국 스페인 전역에서 매년 인플루언서 권투 장관을 주최했습니다. 라 벨라다 델 아뇨 (La Velada del Año, \"올해의 밤\") 라고 불리는 이 행사는 트위치에서 여러 시청률 기록을 경신했습니다. La Velada의 성공으로 Ibai는 라틴 아메리카에서 유명한 이름이 되었으며 Netflix는 스트리머의 인기를 활용하고자 합니다. 그것은 다음 세 판의 La Velada의 독점적 인 고향이되기 위해 거래에 도달했습니다."
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:35.411Z",
+      "fetchedAt": "2026-10-23T22:54:40.234Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -604,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:35.703Z",
+      "fetchedAt": "2026-10-23T22:54:40.430Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -685,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:35.790Z",
+      "fetchedAt": "2026-10-23T22:54:40.525Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -784,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:38.672Z",
+      "fetchedAt": "2026-10-23T22:54:42.844Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -871,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:38.908Z",
+      "fetchedAt": "2026-10-23T22:54:43.162Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -879,6 +885,35 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+          "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+          "pubDate": "2026-10-23T20:57:13.000Z",
+          "image": null,
+          "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+          "keywords": [
+            "Startups",
+            "Venture",
+            "TechCrunch Disrupt"
+          ],
+          "isForeign": true,
+          "titleKo": "VC, Superhuman Mail 창립자는 제품-시장 적합성에 대한 위험 신호를 공유합니다",
+          "summaryKo": "Iconiq 및 Sapphire Ventures의 최고 투자자는 Superhuman Mail의 설립자 인 Rahul Vohra와 함께 히트 상품 구축에 대한 지침을 공유합니다."
+        },
+        {
+          "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+          "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+          "pubDate": "2026-10-23T20:03:14.000Z",
+          "image": null,
+          "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+          "keywords": [
+            "Startups",
+            "TechCrunch Founder Summit"
+          ],
+          "isForeign": true,
+          "titleKo": "TechCrunch 창립자 서밋 2026 라운드테이블: 창립자가 현재 해결하고 있는 과제에 대해 자세히 알아보기",
+          "summaryKo": "TechCrunch 창립자 서밋 2026이 11월 4일 보스턴의 소와 파워 스테이션에서 개최됩니다. 창립자, 투자자 및 운영자가 함께 모여 하루 종일 솔직한 대화, 실용적인 세션, 라이브 피칭, 네트워킹 및 더 깊은 토론을 위해 구축된 소규모 원탁 회의를 진행합니다."
+        },
         {
           "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
           "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
@@ -888,7 +923,8 @@
           "keywords": [
             "Startups",
             "Venture",
-            "Carta"
+            "Carta",
+            "NewView Capital"
           ],
           "isForeign": true,
           "titleKo": "Carta와 NewView 파트너는 더 많은 스타트업이 직원들이 주식을 조기에 판매할 수 있도록 유도하기를 희망합니다.",
@@ -926,44 +962,9 @@
           "isForeign": true,
           "titleKo": "에이전트 클라우드 스타트업 데이토나 (Daytona) 가 퍼스트마크 (FirstMark) 와 누가 천사인가 (Who's who of angels) 에 의해 뒷받침되는 $ 1B 밸류에이션을 달성",
           "summaryKo": "데이토나 (Daytona) 는 모든 에이전트에게 자체 컴퓨터를 제공하는 것과 같은 에이전트를 위한 클라우드를 구축하고 있습니다. Stripe, Perplextity, Datadog, Mercor 등의 창립자를 천사로 끌어들였습니다."
-        },
-        {
-          "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-          "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-          "pubDate": "2026-10-22T23:15:00.000Z",
-          "image": null,
-          "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "Venture",
-            "Ben Lamm",
-            "defense",
-            "Palmer Luckey"
-          ],
-          "isForeign": true,
-          "titleKo": "Warhound는 전쟁견을 엔지니어링하고 Anduril 장비로 무장시키기 위해 $ 200M를 모금합니다.",
-          "summaryKo": "벤 램 (Ben Lamm) 과 파머 럭키 (Palmer Luckey) 의 발명품인 워하운드 (Warhound) 는 군사 및 법 집행을 위해 스텔스에서 유전자 공학 개로 부상합니다."
-        },
-        {
-          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-          "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "pubDate": "2026-10-22T22:08:24.000Z",
-          "image": null,
-          "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Startups",
-            "In Brief",
-            "OpenAI"
-          ],
-          "isForeign": true,
-          "titleKo": "IPO를 앞두고 $ 1.25 T 평가에서 새로운 $ 30B 인상을 진행 중인 OpenAI",
-          "summaryKo": "OpenAI가 이번 라운드에서 $ 1조 이상의 평가를 명령한다면, 가장 가치 있는 비상장 기업으로서의 기록을 깰 것입니다."
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:44.186Z",
+      "fetchedAt": "2026-10-23T22:54:46.881Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1062,7 +1063,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:46.366Z",
+      "fetchedAt": "2026-10-23T22:54:48.786Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1105,6 +1106,23 @@
           "summaryKo": null
         },
         {
+          "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
+          "pubDate": "2026-10-19T07:00:00.000Z",
+          "image": null,
+          "summary": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 인천광역시",
+          "keywords": [
+            "2026년",
+            "2차",
+            "중소기업",
+            "기술거래",
+            "기반조성사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "영광군, LPG 소형저장탱크 지원 3가구 추가 모집 - 팍스경제TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54bHMyaGJmVFZPMjNCNUlvYjhFeUgxYWUxWldELW9kVVk5TC14MjZiTC1qYjgzNzhHb3BYVV9SRnNOLW5IeXRNc2Z2Q2xfNzlGMjEyNmswM05TdjdWdVFTREFjdmNTTWc?oc=5",
           "pubDate": "2026-10-23T13:53:54.000Z",
@@ -1116,23 +1134,6 @@
             "소형저장탱크",
             "지원",
             "3가구"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
-          "pubDate": "2026-10-18T08:10:37.000Z",
-          "image": null,
-          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
-          "keywords": [
-            "내게",
-            "맞는",
-            "정책",
-            "지원",
-            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1156,7 +1157,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:46.735Z",
+      "fetchedAt": "2026-10-23T22:54:49.282Z",
       "error": null
     }
   },
@@ -1169,67 +1170,67 @@
       "change": "same"
     },
     {
+      "key": "지원",
+      "label": "지원",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 7,
+      "change": "new"
     },
     {
       "key": "상점가",
       "label": "상점가",
       "count": 2,
-      "rank": 6,
-      "change": "same"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 2,
-      "rank": 7,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "오픈ai",
       "label": "오픈AI",
       "count": 2,
-      "rank": 8,
-      "change": "same"
-    },
-    {
-      "key": "전통시장",
-      "label": "전통시장",
-      "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "중기부",
-      "label": "중기부",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1266,52 +1267,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "articles",
+      "label": "Articles",
       "count": 4,
       "rank": 5,
       "change": "up",
-      "labelKo": "모금 활동"
-    },
-    {
-      "key": "google ads",
-      "label": "Google Ads",
-      "count": 4,
-      "rank": 6,
-      "change": "down",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 3,
-      "rank": 7,
-      "change": "down",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "down",
+      "count": 4,
+      "rank": 6,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 7,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
-      "count": 3,
-      "rank": 9,
-      "change": "down",
+      "count": 4,
+      "rank": 8,
+      "change": "up",
       "labelKo": "뉴스"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 2,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "시행 조치"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
       "count": 2,
       "rank": 10,
-      "change": "new",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "모금 활동"
     }
   ]
 }
