@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-24T08:40:27.924Z",
+  "collectedAt": "2026-10-24T13:50:17.558Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:17.965Z",
+      "fetchedAt": "2026-10-24T13:50:10.098Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:18.030Z",
+      "fetchedAt": "2026-10-24T13:50:10.175Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216608",
-          "pubDate": "2026-10-24T17:30:12.000Z",
+          "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+          "pubDate": "2026-10-24T20:38:59.000Z",
           "image": null,
-          "summary": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드 실행과 브라우저 조작, 기업 업무 자동화 과정에서 발생할 수 있는 보안 위험을 원천 차단하는 것이 핵심이다.구글 클라우드는 22일(현지시간) AGNTCon·MCPCon 행사에서 ‘",
+          "summary": "순다르 피차이 구글 CEO가 클라우드 사업의 단기 매출을 일부 포기하더라도 첨단 AI 모델 개발에 컴퓨팅 자원을 우선 투입하겠다고 밝혔다. 연구진에게 충분한 연산 자원을 제공하는 것을 타협할 수 없는 원칙으로 제시하고, 실제로 클라우드 사업과 AI 연구 사이에서 자원을 조정하고 있다고 설명했다.피차이 CEO는 20일(현지시간) 공개된 알렉스 캔트로위츠의 ‘빅 테크놀로지 팟캐스트’ 인터뷰에서 “우리 클라우드 사업은 첨단 AI 개발을 지원하기 위해 컴퓨팅 자원을 조정하면서 단기 매출을 일부 포기하고 있다”고 말했다.구글의 컴퓨팅 배분에",
           "keywords": [
-            "구글",
+            "피차이",
             "클라우드",
-            "에이전트",
-            "전용",
-            "컴퓨팅"
+            "매출",
+            "포기하더라도",
+            "첨단"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216612",
-          "pubDate": "2026-10-24T17:01:33.000Z",
+          "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+          "pubDate": "2026-10-24T19:53:21.000Z",
           "image": null,
-          "summary": "앤트로픽이 '클로드'를 활용해 오픈소스 소프트웨어 123개 라이브러리의 보안 속성을 수학적으로 검증하는 데 성공했다. 몇주 만에 239개 테스트 진입점에서 특정 조건 아래 어떤 입력을 넣어도 프로그램이 충돌하지 않는다는 것을 증명했으며, 기존 테스트로 발견하지 못했던 버그도 찾아냈다.앤트로픽은 22일(현지시간) 정리증명 전문 시어럼(Theorem)과 협력해 구글의 오픈소스 소프트웨어 테스트 프로젝트인 'OSS-퍼즈(OSS-Fuzz)'에 등록된 라이브러리를 대상으로 대규모 형식 검증(Formal Verification)을 진행했다고",
+          "summary": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정을 위반했다고만 설명했지만, 조사 대상은 아스트라의 내부 설계에 관한 보도와 외부 안전 연구자에게 보낸 '시그널(Signal)' 메시지였던 것으로 나타났다. 다만 연구원들은 기밀 유출을 부인하고 있어 실제 유출 여부와 해고의 정당성을 둘러싼 논란은 이어지고 있다.월스트리트저널(WSJ)은 22일(현지시간) 오픈AI가 토메크 코르박과 미키타",
           "keywords": [
-            "앤트로픽",
-            "클로드로",
-            "오픈소스",
-            "123개",
-            "라이브러리"
+            "오픈AI",
+            "연구원",
+            "3명",
+            "해고",
+            "순환"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구글, 터미널서 AI 에이전트 다루는 '제미나이 API CLI' 오픈소스 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216607",
-          "pubDate": "2026-10-24T16:18:18.000Z",
+          "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+          "pubDate": "2026-10-24T19:13:05.000Z",
           "image": null,
-          "summary": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고 밝혔다. 이 도구는 별도의 의존성 설치 없이 실행할 수 있는 바이너리 형태로 제공되며, 맥OS와 리눅스, 윈도우에서 사용할 수 있다. 소스 코드로 직접 설치하는 방식도 지원한다.이",
+          "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개했다고 밝혔다. 중단 11일 만에 작업을 재개했으며, 이 사실은 이날 공개했다.중단 계기는 내부 연구 모델이 인터넷 주소를 처리하는 DNS 서비스의 설정 오류를 악용해 외부 챗봇에",
           "keywords": [
-            "구글",
-            "터미널서",
+            "오픈AI",
             "AI",
-            "에이전트",
-            "다루는"
+            "보안",
+            "우회로",
+            "중단했던"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216600",
-          "pubDate": "2026-10-24T16:07:08.000Z",
+          "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216614",
+          "pubDate": "2026-10-24T18:37:43.000Z",
           "image": null,
-          "summary": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다. 일본 이용자는 iOS·안드로이드 앱과 웹사이트를 통해 뮤즈를 이용할 수 있다.메타는 일본 출시에 맞춰 중고거래 플랫폼 메루카리, 자산관리 서비스 머니포워드 ME, 티켓 예매 서비스 티",
+          "summary": "SK그룹이 국내에 초대형 AI 데이터센터를 구축하기 위해 글로벌 빅테크 기업과 금융투자자들을 상대로 자금 조달 협상을 진행하고 있다. 첫 단계인 5기가와트(GW) 규모 데이터센터 구축에만 3500억달러(약 464조원)가 필요할 것으로 추산했다. 막대한 투자비를 자체적으로 부담하는 대신 입주 기업과 외부 투자자들에게 분담시키고, 실제 AI 수요에 맞춰 투자 규모를 조절한다는 계획이다.정석근 SK텔레콤 AI CIC장 겸 SK하이퍼 대표는 23일(현지시간) 블룸버그TV와의 인터뷰에서 2035년까지 국내에 총 15GW 규모의 AI 데이터센",
           "keywords": [
-            "메타",
-            "뮤즈",
-            "아시아",
-            "첫발",
-            "네이버"
+            "SK",
+            "AI",
+            "데이터센터",
+            "5GW에",
+            "464조"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216605",
-          "pubDate": "2026-10-24T11:49:09.000Z",
+          "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+          "pubDate": "2026-10-24T18:03:54.000Z",
           "image": null,
-          "summary": "앤트로픽의 '클로드 미소스 5'가 사람에게 실제 피해를 줄 수 있다는 경고를 받고도 사이버 공격을 지속한 것으로 나타났다. 공격 대상이 실제 인물이라는 증거가 반복적으로 제시됐지만, 이를 무시하고 악성 코드를 유포하려 시도했다. AI 모델이 작업을 시작한 뒤에는 위험성을 인식하고도 행동을 중단하지 않는 정렬 실패(misalignment) 문제가 드러났다는 분석이다.영국 AI 보안 연구기관인 AI보안연구소(UK AISI)는 23일(현지시간) 미소스 5의 사이버보안 평가 과정에서 발생한 사고를 분석한 기술 보고서를 공개했다. 앤트로픽도",
+          "summary": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서비스, 즉 '관리형 클로드 서비스'를 출시했다고 밝혔다. 이번 서비스는 기존 구글 클라우드 IAM(Identity and Access Management) 인증 정보를 지원하며,",
           "keywords": [
             "앤트로픽",
-            "미소스",
-            "실제",
-            "피해",
-            "경고에도"
+            "구글",
+            "클라우드서",
+            "최신",
+            "기능"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:19.307Z",
+      "fetchedAt": "2026-10-24T13:50:11.027Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:19.475Z",
+      "fetchedAt": "2026-10-24T13:50:11.147Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -356,6 +356,57 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "약 12개 은행 앱이 GrapheneOS를 명시적으로 허용하기 시작함",
+          "link": "https://news.hada.io/topic?id=35919",
+          "pubDate": "2026-10-24T12:31:34.000Z",
+          "image": null,
+          "summary": "약 12개 은행 앱이 GrapheneOS를 명시적으로 허용하기 시작함",
+          "keywords": [
+            "12개",
+            "은행",
+            "앱이",
+            "GrapheneOS를",
+            "명시적으로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
+          "link": "https://news.hada.io/topic?id=35918",
+          "pubDate": "2026-10-24T11:31:42.000Z",
+          "image": null,
+          "summary": "삼성 TV의 개인정보 수집 기능을 분석하던 개발자가 OpenAI 계정 정지 통보를 받은 경험을 공개 TV에서 개 짖는 소리와 아기 울음을 구분하고 감지 횟수를 기록하는 코드를 찾았다며 관련 분석 화면 게시 자동 콘텐츠 인식과 위치 정보, 네트워크 정보, 맞...",
+          "keywords": [
+            "삼성",
+            "TV를",
+            "역공학",
+            "분석해서",
+            "공유하던"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "OBS Studio 33 - 플러그인 로딩 구조 개편과 Arm64 NVENC 지원",
+          "link": "https://news.hada.io/topic?id=35915",
+          "pubDate": "2026-10-24T10:32:29.000Z",
+          "image": null,
+          "summary": "플러그인 로딩 구조를 전면 개편해 기본 플러그인과 서드파티 플러그인의 설치 경로를 변경함. 기존 서드파티 플러그인 경로는 OBS Studio 34.0 전까지 계속 지원함 브라우저 소스와 도크의 기반인 CEF를 127/6533에서 150/7871로 업데이트함. 사용자에게 드러나지...",
+          "keywords": [
+            "OBS",
+            "Studio",
+            "33",
+            "플러그인",
+            "로딩"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "분산 SQLite의 12년",
           "link": "https://news.hada.io/topic?id=35911",
@@ -387,60 +438,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "진화하는 위협: Node, Python 등에서 원격 코드 실행을 일으키는 http2shell",
-          "link": "https://news.hada.io/topic?id=35909",
-          "pubDate": "2026-10-24T07:36:11.000Z",
-          "image": null,
-          "summary": "진화하는 위협: Node, Python 등에서 원격 코드 실행을 일으키는 http2shell",
-          "keywords": [
-            "진화하는",
-            "위협:",
-            "Node",
-            "Python",
-            "등에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "CVE Tracker - 1999년부터의 CVE 공개 건수를 시각화하는 대시보드",
-          "link": "https://news.hada.io/topic?id=35908",
-          "pubDate": "2026-10-24T07:33:11.000Z",
-          "image": null,
-          "summary": "공식 CVE 목록을 바탕으로 공개된 CVE 레코드 수를 집계하며, 데이터를 매일 갱신함 일/주/월/년 단위로 집계하고, 최근 30일부터 전체 기간까지 조회 범위를 바꿀 수 있음 건수와 누적 건수 보기를 제공함 공개일과 예...",
-          "keywords": [
-            "CVE",
-            "Tracker",
-            "1999년부터의",
-            "공개",
-            "건수를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "이것이 사이버 보안의 새로운 일상인가?",
-          "link": "https://news.hada.io/topic?id=35907",
-          "pubDate": "2026-10-24T06:35:43.000Z",
-          "image": null,
-          "summary": "PHP, GitLab, 인증기관, 클라우드, 패키지 공급망에서 심각한 보안 사고가 잇따르며 취약점 공개와 방어 사이의 시간이 핵심 문제로 떠오름 LLM은 이론적 취약점이나 패치 차이를 실제 공격 코드로 전환하는 속도를 높임. 다만 작동하지 않는 공격 코드를 판별하려...",
-          "keywords": [
-            "이것이",
-            "사이버",
-            "보안의",
-            "새로운",
-            "일상인가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:20.352Z",
+      "fetchedAt": "2026-10-24T13:50:11.787Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,7 +449,7 @@
       "subcategory": "크리에이터 경제",
       "items": [
         {
-          "title": "Ethan Klein drops all ownership and financial stakes in h3h3 after cheating on wife and co-creator Hila",
+          "title": "Ethan Klein to drop all ownership and financial stakes in h3h3 after cheating on wife and co-creator Hila",
           "link": "https://www.tubefilter.com/2026/10/24/ethan-klein-hila-klein-cheating-h3h3productions-podcast/",
           "pubDate": "2026-10-24T06:26:50.000Z",
           "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/GettyImages-1643218660.jpg",
@@ -534,7 +534,7 @@
           "summaryKo": "매달 Nielsen은 모든 주요 미디어 유통업체의 TV 화면에서 미국 시청 시간을 세분화합니다. 이 특정 측정은 The Gauge로 알려져 있으며, 최근 몇 년 동안 YouTube에 유리한 결과를 보여주었습니다. Google의 비디오 플랫폼은 일반적으로 단일 유통 업체 중 가장 큰 시청 시간 점유율을 차지함으로써 Netflix, Prime Video 및 Disney + 와 같은 라이벌을 이끌고 있습니다. 그러한 맥락을 염두에 두고 있더라도 2026년 8월호 The Gauge에서 YouTube는 특히"
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:22.716Z",
+      "fetchedAt": "2026-10-24T13:50:13.318Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +608,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:23.210Z",
+      "fetchedAt": "2026-10-24T13:50:13.595Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +689,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:23.264Z",
+      "fetchedAt": "2026-10-24T13:50:13.682Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +788,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:25.486Z",
+      "fetchedAt": "2026-10-24T13:50:15.627Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:26.263Z",
+      "fetchedAt": "2026-10-24T13:50:15.880Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -961,7 +961,7 @@
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:26.343Z",
+      "fetchedAt": "2026-10-24T13:50:15.999Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1060,7 +1060,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:27.424Z",
+      "fetchedAt": "2026-10-24T13:50:17.070Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1120,23 +1120,6 @@
           "summaryKo": null
         },
         {
-          "title": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 시사일보",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05dWhoSEZBT1I5dTBfcXdRak5iamoyWVp4TlJLNVp6QjNjZjJxdHNGSW5xR3A2TlFXSS1FLTBVZ2EzUG5vcTJCY2hPZGo?oc=5",
-          "pubDate": "2026-10-19T10:09:00.000Z",
-          "image": null,
-          "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 시사일보",
-          "keywords": [
-            "중소벤처기업부",
-            "2027년도",
-            "전통시장",
-            "상점가",
-            "활성화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "경과원, 클라우드 기반 보안서비스 도입 지원사업 참여 기업 모집 - 기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VmpoZE5TdHFVLVR5ckpWNTdqTnk2ME9vZUFfSFNhQ1U2R19ZVmN6ampwMnB3SHh5ZnVudGRaakZ0aDFpTzFrXzVvbm91WHBlYUo5RmV2ZDRGRkk1dHVMN0NyX2VhMnNHSHAyb1VXTQ?oc=5",
           "pubDate": "2026-10-21T08:43:07.000Z",
@@ -1152,79 +1135,96 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
+          "pubDate": "2026-10-19T07:20:00.000Z",
+          "image": null,
+          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
+          "keywords": [
+            "전북중기청",
+            "2027년",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T08:40:27.913Z",
+      "fetchedAt": "2026-10-24T13:50:17.552Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "앤트로픽",
-      "label": "앤트로픽",
+      "key": "오픈ai",
+      "label": "오픈AI",
       "count": 3,
       "rank": 1,
       "change": "new"
     },
     {
+      "key": "앤트로픽",
+      "label": "앤트로픽",
+      "count": 2,
+      "rank": 2,
+      "change": "down"
+    },
+    {
       "key": "클라우드",
       "label": "클라우드",
       "count": 2,
-      "rank": 2,
-      "change": "new"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 4,
       "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 5,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "상점가",
       "label": "상점가",
       "count": 3,
-      "rank": 8,
+      "rank": 9,
       "change": "down"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
-      "count": 3,
-      "rank": 9,
-      "change": "up"
-    },
-    {
-      "key": "전통시장",
-      "label": "전통시장",
       "count": 3,
       "rank": 10,
       "change": "down"
