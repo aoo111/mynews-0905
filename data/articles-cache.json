@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-24T13:50:17.558Z",
+  "collectedAt": "2026-10-24T17:13:02.701Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:10.098Z",
+      "fetchedAt": "2026-10-24T17:12:50.393Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:10.175Z",
+      "fetchedAt": "2026-10-24T17:12:50.486Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:11.027Z",
+      "fetchedAt": "2026-10-24T17:12:51.756Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:11.147Z",
+      "fetchedAt": "2026-10-24T17:12:51.905Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "약 12개 은행 앱이 GrapheneOS를 명시적으로 허용하기 시작함",
-          "link": "https://news.hada.io/topic?id=35919",
-          "pubDate": "2026-10-24T12:31:34.000Z",
+          "title": "음악은 어떻게 가능한가",
+          "link": "https://news.hada.io/topic?id=35928",
+          "pubDate": "2026-10-24T16:45:04.000Z",
           "image": null,
-          "summary": "약 12개 은행 앱이 GrapheneOS를 명시적으로 허용하기 시작함",
+          "summary": "음악은 추상적인 음과 리듬의 조합인데도 익숙한 풍경을 낯설게 만들고, 내면에 새로운 장면과 감정을 불러일으킴 음악심리학에는 음악이 청각 지각과 감정 처리 체계를 자극한다는 접근과, 그 경험이 문화와 학습에 의해 형성된다는 접근이 있으...",
           "keywords": [
-            "12개",
-            "은행",
-            "앱이",
-            "GrapheneOS를",
-            "명시적으로"
+            "음악은",
+            "어떻게",
+            "가능한가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
-          "link": "https://news.hada.io/topic?id=35918",
-          "pubDate": "2026-10-24T11:31:42.000Z",
+          "title": "Node2Shell에서 HTTP2Shell로 확대, 다수 HTTP 라이브러리와 앱에 영향",
+          "link": "https://news.hada.io/topic?id=35927",
+          "pubDate": "2026-10-24T16:42:03.000Z",
           "image": null,
-          "summary": "삼성 TV의 개인정보 수집 기능을 분석하던 개발자가 OpenAI 계정 정지 통보를 받은 경험을 공개 TV에서 개 짖는 소리와 아기 울음을 구분하고 감지 횟수를 기록하는 코드를 찾았다며 관련 분석 화면 게시 자동 콘텐츠 인식과 위치 정보, 네트워크 정보, 맞...",
+          "summary": "CVE-2026-111497은 Google Brotli 디코더의 메모리 안전성 취약점으로, Node.js뿐 아니라 같은 디코더를 사용하는 Python 패키지와 HTTP 라이브러리, 서비스에도 영향을 미침 공격자가 조작한 Brotli 압축 데이터를 해제하면 메모리 손상, 민감정보 유출, 프로세스...",
           "keywords": [
-            "삼성",
-            "TV를",
-            "역공학",
-            "분석해서",
-            "공유하던"
+            "Node2Shell에서",
+            "HTTP2Shell로",
+            "확대",
+            "다수",
+            "HTTP"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OBS Studio 33 - 플러그인 로딩 구조 개편과 Arm64 NVENC 지원",
-          "link": "https://news.hada.io/topic?id=35915",
-          "pubDate": "2026-10-24T10:32:29.000Z",
+          "title": "Google, 핀란드 데이터센터 건설 위해 나무 25만 그루 불법 벌목",
+          "link": "https://news.hada.io/topic?id=35926",
+          "pubDate": "2026-10-24T16:39:03.000Z",
           "image": null,
-          "summary": "플러그인 로딩 구조를 전면 개편해 기본 플러그인과 서드파티 플러그인의 설치 경로를 변경함. 기존 서드파티 플러그인 경로는 OBS Studio 34.0 전까지 계속 지원함 브라우저 소스와 도크의 기반인 CEF를 127/6533에서 150/7871로 업데이트함. 사용자에게 드러나지...",
+          "summary": "Google이 핀란드 북부 데이터센터 부지에서 약 25만 그루를 벌목했으며, 법정 환경영향평가를 마치고 완전한 승인을 받기 전에 작업했다는 의혹을 받고 있음 핀란드 당국은 환경 영향을 평가하기 위해 Google의 데이터센터 부지 2곳에서 개발을 중단",
           "keywords": [
-            "OBS",
-            "Studio",
-            "33",
-            "플러그인",
-            "로딩"
+            "Google",
+            "핀란드",
+            "데이터센터",
+            "건설",
+            "나무"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "분산 SQLite의 12년",
-          "link": "https://news.hada.io/topic?id=35911",
-          "pubDate": "2026-10-24T08:32:35.000Z",
+          "title": "Show GN: ETF 실부담비용 &amp; 4대 계좌 세법 정산기 (Client-Side 100%, 서버비 $0)",
+          "link": "https://news.hada.io/topic?id=35925",
+          "pubDate": "2026-10-24T15:59:44.000Z",
           "image": null,
-          "summary": "2014년 rqlite는 SQLite 앞에 Raft 로그를 두고 모든 쓰기를 클러스터에 복제하는 방식으로 출발했으며, 이제 분산 SQLite는 약 12개 프로젝트가 속한 분야로 성장함 설계는 합의, 스트리밍, 병합이라는 세 갈래로 발전함. 각각 강한 일관성의 클러스터, 단일 노드...",
+          "summary": "증권사들이 마케팅하는 표면 총보수(0.01% 등) 뒤에 숨겨진 기타비용과 매매중개수수료(실부담비용 TER)를 투명하게 비교하고, 4대 계좌(일반계좌, ISA 9.9% 분리과세, 연금저축/IRP 과세이연)별 최종 세후 실수령액을 1원 단위로 정산해 주는 시뮬레이터입니다. 주요 특징 및 테크 스택: • Zero-Serve",
           "keywords": [
-            "분산",
-            "SQLite의",
-            "12년"
+            "Show",
+            "GN:",
+            "ETF",
+            "실부담비용",
+            "&amp;"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "C 밖에서 이식성 있게 errno에 접근하는 괴상하고 엉망인 꼼수",
-          "link": "https://news.hada.io/topic?id=35910",
-          "pubDate": "2026-10-24T08:02:04.000Z",
+          "title": "나는 이것을 믿는다(1952)",
+          "link": "https://news.hada.io/topic?id=35924",
+          "pubDate": "2026-10-24T15:43:29.000Z",
           "image": null,
-          "summary": "C 래퍼 함수나 libc 내부 구현에 기대지 않고 errno를 얻기 위해, Hare에서 perror의 오류 메시지를 가로채 숫자 오류 코드로 역변환하는 실험임 perror 는 errno를 직접 읽지만 결과를 stderr에 출력하므로, 프로그램 초기화 때 파일 디...",
+          "summary": "종교적 신앙이 아니라, 결점보다 미덕이 훨씬 큰 이웃과 인간의 선함을 믿음 신념이 다른 신부, 대가 없이 길고양이를 돌보는 수의사, 낯선 이에게 식사를 내어주는 사람들의 일상적 친절이 그 믿음의 바탕임 범죄는 뉴스에 크게 실리지만, 사회의 일상을...",
           "keywords": [
-            "밖에서",
-            "이식성",
-            "있게",
-            "errno에",
-            "접근하는"
+            "나는",
+            "이것을",
+            "믿는다(1952)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:11.787Z",
+      "fetchedAt": "2026-10-24T17:12:52.729Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +532,7 @@
           "summaryKo": "매달 Nielsen은 모든 주요 미디어 유통업체의 TV 화면에서 미국 시청 시간을 세분화합니다. 이 특정 측정은 The Gauge로 알려져 있으며, 최근 몇 년 동안 YouTube에 유리한 결과를 보여주었습니다. Google의 비디오 플랫폼은 일반적으로 단일 유통 업체 중 가장 큰 시청 시간 점유율을 차지함으로써 Netflix, Prime Video 및 Disney + 와 같은 라이벌을 이끌고 있습니다. 그러한 맥락을 염두에 두고 있더라도 2026년 8월호 The Gauge에서 YouTube는 특히"
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:13.318Z",
+      "fetchedAt": "2026-10-24T17:12:52.852Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +606,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:13.595Z",
+      "fetchedAt": "2026-10-24T17:12:53.087Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +687,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:13.682Z",
+      "fetchedAt": "2026-10-24T17:12:53.140Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +786,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:15.627Z",
+      "fetchedAt": "2026-10-24T17:12:55.573Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -875,7 +873,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:15.880Z",
+      "fetchedAt": "2026-10-24T17:12:55.851Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -961,7 +959,7 @@
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:15.999Z",
+      "fetchedAt": "2026-10-24T17:12:55.918Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1060,7 +1058,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:17.070Z",
+      "fetchedAt": "2026-10-24T17:12:57.083Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1155,7 +1153,7 @@
         }
       ],
       "fetchedAt": "2026-10-24T13:50:17.552Z",
-      "error": null
+      "error": "HTTP 503"
     }
   },
   "trendingDomestic": [
@@ -1164,67 +1162,67 @@
       "label": "오픈AI",
       "count": 3,
       "rank": 1,
+      "change": "same"
+    },
+    {
+      "key": "데이터센터",
+      "label": "데이터센터",
+      "count": 2,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "앤트로픽",
       "label": "앤트로픽",
       "count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": "down"
     },
     {
       "key": "클라우드",
       "label": "클라우드",
       "count": 2,
-      "rank": 3,
+      "rank": 4,
       "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
+      "rank": 5,
       "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
+      "rank": 7,
       "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
+      "rank": 8,
       "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
+      "rank": 9,
       "change": "down"
     },
     {
       "key": "상점가",
       "label": "상점가",
-      "count": 3,
-      "rank": 9,
-      "change": "down"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
       "count": 3,
       "rank": 10,
       "change": "down"
