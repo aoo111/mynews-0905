@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-24T17:13:02.701Z",
+  "collectedAt": "2026-10-24T20:16:34.402Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "유가는 치솟는데 … 내 원유선물 ETN, 뭐가 문제죠?",
+          "link": "https://www.mk.co.kr/news/economy/12184266",
+          "pubDate": "2026-10-24T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/23/news-p.v1.20261022.6694f82f3d03470d829f9c7a24460415_R.jpg",
+          "summary": "ETF 투자와 ETN 투자의 차이2022년 러시아의 우크라이나 침공에 이어 미국과 이란의 전쟁까지, 국제 정세가 불안해질 때마다 원유와 금을 비롯한 원자재 시장은 크게 출렁입니다...",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“원화값은 여전히 저평가입니다”…‘반도체 달러’에 1200원대 진입하나",
           "link": "https://www.mk.co.kr/news/economy/12184774",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "은행 포용금융 '줄세우기' … 실적따라 출연금 더 부과",
-          "link": "https://www.mk.co.kr/news/economy/12184441",
-          "pubDate": "2026-10-23T08:47:16.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/24/20261024_01170101000002_M00.jpg",
-          "summary": "금융당국이 은행권 포용금융 실적을 평가해 서민금융진흥원 출연금을 조정하고 우수 은행에는 과징금을 감경해주는 방안을 추진한다. 서민대출 공급과 채무조정, 금리 부담 경감은 물론이고 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:50.393Z",
+      "fetchedAt": "2026-10-24T20:16:27.156Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:50.486Z",
+      "fetchedAt": "2026-10-24T20:16:27.227Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:51.756Z",
+      "fetchedAt": "2026-10-24T20:16:28.410Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:51.905Z",
+      "fetchedAt": "2026-10-24T20:16:28.563Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,88 +357,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "음악은 어떻게 가능한가",
-          "link": "https://news.hada.io/topic?id=35928",
-          "pubDate": "2026-10-24T16:45:04.000Z",
+          "title": "Roku 개발자 저장소, GitHub에서 GitLab으로 이전",
+          "link": "https://news.hada.io/topic?id=35934",
+          "pubDate": "2026-10-24T19:31:38.000Z",
           "image": null,
-          "summary": "음악은 추상적인 음과 리듬의 조합인데도 익숙한 풍경을 낯설게 만들고, 내면에 새로운 장면과 감정을 불러일으킴 음악심리학에는 음악이 청각 지각과 감정 처리 체계를 자극한다는 접근과, 그 경험이 문화와 학습에 의해 형성된다는 접근이 있으...",
+          "summary": "Roku가 모든 개발자 리소스의 GitLab 이전을 완료함. 개발자 문서, 샘플 앱, 도구 저장소를 하나의 중앙 위치로 통합함 저장소 이름은 유지되며 호스트만 바뀜. 문서와 블로그의 링크는 갱신됐지만, 개발자가 북마크하거나 저장해 둔 URL은 직접 수정해야 함 ...",
           "keywords": [
-            "음악은",
-            "어떻게",
-            "가능한가"
+            "Roku",
+            "개발자",
+            "저장소",
+            "GitHub에서",
+            "GitLab으로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Node2Shell에서 HTTP2Shell로 확대, 다수 HTTP 라이브러리와 앱에 영향",
-          "link": "https://news.hada.io/topic?id=35927",
-          "pubDate": "2026-10-24T16:42:03.000Z",
+          "title": "Apple Security Research Device - 보안 기능 우회 없이 iOS를 연구하는 전용 iPhone",
+          "link": "https://news.hada.io/topic?id=35933",
+          "pubDate": "2026-10-24T18:35:42.000Z",
           "image": null,
-          "summary": "CVE-2026-111497은 Google Brotli 디코더의 메모리 안전성 취약점으로, Node.js뿐 아니라 같은 디코더를 사용하는 Python 패키지와 HTTP 라이브러리, 서비스에도 영향을 미침 공격자가 조작한 Brotli 압축 데이터를 해제하면 메모리 손상, 민감정보 유출, 프로세스...",
+          "summary": "Apple Security Research Device(SRD) 는 보안 기능을 우회하지 않고 iOS 보안 연구를 수행할 수 있도록 특별히 구성된 iPhone으로, 신규 및 숙련 연구자의 연구를 지원함 셸 접근과 임의 도구 실행을 지원하며, 연구자가 직접 권한(entitlements)을 선택하거나 커...",
           "keywords": [
-            "Node2Shell에서",
-            "HTTP2Shell로",
-            "확대",
-            "다수",
-            "HTTP"
+            "Apple",
+            "Security",
+            "Research",
+            "Device",
+            "보안"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Google, 핀란드 데이터센터 건설 위해 나무 25만 그루 불법 벌목",
-          "link": "https://news.hada.io/topic?id=35926",
-          "pubDate": "2026-10-24T16:39:03.000Z",
+          "title": "FreeDNS - 무료 동적/정적 DNS와 도메인/서브도메인 호스팅",
+          "link": "https://news.hada.io/topic?id=35932",
+          "pubDate": "2026-10-24T18:32:42.000Z",
           "image": null,
-          "summary": "Google이 핀란드 북부 데이터센터 부지에서 약 25만 그루를 벌목했으며, 법정 환경영향평가를 마치고 완전한 승인을 받기 전에 작업했다는 의혹을 받고 있음 핀란드 당국은 환경 영향을 평가하기 위해 Google의 데이터센터 부지 2곳에서 개발을 중단",
+          "summary": "FreeDNS는 무료 및 유료 DNS 서비스로, 동적/정적 DNS와 도메인/서브도메인 호스팅을 제공함 공유 도메인에 서브도메인을 만들거나 자신의 도메인을 사용해 DNS를 관리할 수 있음 숫자 IP 주소 대신 도메인 이름으로 집, 직장, 학교, 데...",
           "keywords": [
-            "Google",
-            "핀란드",
-            "데이터센터",
-            "건설",
-            "나무"
+            "FreeDNS",
+            "무료",
+            "동적/정적",
+            "DNS와",
+            "도메인/서브도메인"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: ETF 실부담비용 &amp; 4대 계좌 세법 정산기 (Client-Side 100%, 서버비 $0)",
-          "link": "https://news.hada.io/topic?id=35925",
-          "pubDate": "2026-10-24T15:59:44.000Z",
+          "title": "AI와 과학 공유자원의 인클로저",
+          "link": "https://news.hada.io/topic?id=35931",
+          "pubDate": "2026-10-24T17:45:21.000Z",
           "image": null,
-          "summary": "증권사들이 마케팅하는 표면 총보수(0.01% 등) 뒤에 숨겨진 기타비용과 매매중개수수료(실부담비용 TER)를 투명하게 비교하고, 4대 계좌(일반계좌, ISA 9.9% 분리과세, 연금저축/IRP 과세이연)별 최종 세후 실수령액을 1원 단위로 정산해 주는 시뮬레이터입니다. 주요 특징 및 테크 스택: • Zero-Serve",
+          "summary": "생성형 AI는 공동으로 축적한 지식의 가치를 사적 부로 전환하고, 그 지식을 유지하는 사회적 체계까지 흔드는 새로운 인클로저(enclosure) 의 도구가 될 수 있음 영국의 역사적 공유지는 단순한 과잉 이용으로 붕괴한 것이 아니라 사유화와 이용권 박탈...",
           "keywords": [
-            "Show",
-            "GN:",
-            "ETF",
-            "실부담비용",
-            "&amp;"
+            "AI와",
+            "과학",
+            "공유자원의",
+            "인클로저"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "나는 이것을 믿는다(1952)",
-          "link": "https://news.hada.io/topic?id=35924",
-          "pubDate": "2026-10-24T15:43:29.000Z",
+          "title": "동일한 AI 요청, 텍사스에서는 스웨덴보다 CO₂를 8.5배 더 배출함",
+          "link": "https://news.hada.io/topic?id=35930",
+          "pubDate": "2026-10-24T17:42:21.000Z",
           "image": null,
-          "summary": "종교적 신앙이 아니라, 결점보다 미덕이 훨씬 큰 이웃과 인간의 선함을 믿음 신념이 다른 신부, 대가 없이 길고양이를 돌보는 수의사, 낯선 이에게 식사를 내어주는 사람들의 일상적 친절이 그 믿음의 바탕임 범죄는 뉴스에 크게 실리지만, 사회의 일상을...",
+          "summary": "지역별 전력망의 평균 배출 집약도를 적용한 추정에서, 동일한 하드웨어로 처리한 Kimi K3 요청의 배출량이 스웨덴 약 0.4g, 텍사스 3.2g으로 나타남 Berget AI가 SEI, WattTime, Klimatkollen과 개발한 요청별 탄소 배출량 계산 방법을 오픈소스로 공개함",
           "keywords": [
-            "나는",
-            "이것을",
-            "믿는다(1952)"
+            "동일한",
+            "AI",
+            "요청",
+            "텍사스에서는",
+            "스웨덴보다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:52.729Z",
+      "fetchedAt": "2026-10-24T20:16:29.120Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -532,7 +535,7 @@
           "summaryKo": "매달 Nielsen은 모든 주요 미디어 유통업체의 TV 화면에서 미국 시청 시간을 세분화합니다. 이 특정 측정은 The Gauge로 알려져 있으며, 최근 몇 년 동안 YouTube에 유리한 결과를 보여주었습니다. Google의 비디오 플랫폼은 일반적으로 단일 유통 업체 중 가장 큰 시청 시간 점유율을 차지함으로써 Netflix, Prime Video 및 Disney + 와 같은 라이벌을 이끌고 있습니다. 그러한 맥락을 염두에 두고 있더라도 2026년 8월호 The Gauge에서 YouTube는 특히"
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:52.852Z",
+      "fetchedAt": "2026-10-24T20:16:29.360Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -606,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:53.087Z",
+      "fetchedAt": "2026-10-24T20:16:29.571Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -687,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:53.140Z",
+      "fetchedAt": "2026-10-24T20:16:29.632Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -786,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:55.573Z",
+      "fetchedAt": "2026-10-24T20:16:31.708Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -873,7 +876,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:55.851Z",
+      "fetchedAt": "2026-10-24T20:16:32.088Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -959,7 +962,7 @@
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:55.918Z",
+      "fetchedAt": "2026-10-24T20:16:32.175Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1058,7 +1061,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T17:12:57.083Z",
+      "fetchedAt": "2026-10-24T20:16:33.864Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1066,40 +1069,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "중기부, 2027년 전통시장·상점가 활성화 지원사업 공고…11월16일까지 접수 - 동행일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BTW5BTEFyaEp5RzZXN0VoYk5jV19ua2MxdUlGUVd3OTdUT3k5WDRTdTNlck05dGxCdk9QVm5IZzh3bmVsVFppUVdxMkVuVkhtUHdZOXY1Z3FteWwxeXdkTUFZSHVpYzEz?oc=5",
-          "pubDate": "2026-10-22T07:07:00.000Z",
-          "image": null,
-          "summary": "중기부, 2027년 전통시장·상점가 활성화 지원사업 공고…11월16일까지 접수 동행일보",
-          "keywords": [
-            "중기부",
-            "2027년",
-            "전통시장",
-            "상점가",
-            "활성화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 헬로티",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URl80Y1pVOGZKWDZTV1dlSUlnZVNNN0lPa0xyQ0tHTEVMQUVkOHczeFQyNWNPRGZDdlRHT2NEamhEUEVrRVAtd0t4ckpUc3BEVUZWajJDS0RYS0VPYUc0?oc=5",
-          "pubDate": "2026-10-19T07:52:10.000Z",
-          "image": null,
-          "summary": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 헬로티",
-          "keywords": [
-            "중기부",
-            "2027년도",
-            "전통시장",
-            "상점가",
-            "활성화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
@@ -1112,23 +1081,6 @@
             "중소기업",
             "기술거래",
             "기반조성사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경과원, 클라우드 기반 보안서비스 도입 지원사업 참여 기업 모집 - 기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VmpoZE5TdHFVLVR5ckpWNTdqTnk2ME9vZUFfSFNhQ1U2R19ZVmN6ampwMnB3SHh5ZnVudGRaakZ0aDFpTzFrXzVvbm91WHBlYUo5RmV2ZDRGRkk1dHVMN0NyX2VhMnNHSHAyb1VXTQ?oc=5",
-          "pubDate": "2026-10-21T08:43:07.000Z",
-          "image": null,
-          "summary": "경과원, 클라우드 기반 보안서비스 도입 지원사업 참여 기업 모집 기호일보",
-          "keywords": [
-            "경과원",
-            "클라우드",
-            "기반",
-            "보안서비스",
-            "도입"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1150,37 +1102,88 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 시사일보",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05dWhoSEZBT1I5dTBfcXdRak5iamoyWVp4TlJLNVp6QjNjZjJxdHNGSW5xR3A2TlFXSS1FLTBVZ2EzUG5vcTJCY2hPZGo?oc=5",
+          "pubDate": "2026-10-19T10:09:00.000Z",
+          "image": null,
+          "summary": "중소벤처기업부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 시사일보",
+          "keywords": [
+            "중소벤처기업부",
+            "2027년도",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 - 벤처스퀘어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdmxVTDZfeWVGUXlEVnNjd2FVcWRFNldWYTlzMzN0QWlZSmlLbDN3Q2xnQnU2TzNRVWg0MzhnbUh2Zm9VeG5MdHhaVm9RejJSY09VRnc1OVN2ODlNRFFR?oc=5",
+          "pubDate": "2026-10-13T07:00:00.000Z",
+          "image": null,
+          "summary": "「2026 슈퍼:콘 엑셀러레이팅」 지원사업 참여기업 모집공고 벤처스퀘어",
+          "keywords": [
+            "「2026",
+            "슈퍼:콘",
+            "엑셀러레이팅」",
+            "지원사업",
+            "참여기업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "함평군, ‘지역자원 연계 청년창업 지원사업’ 참여자 모집 - 웰페어뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yYURKSDFIUC1FQ09kcjJBbVlVUThkQzA3bEo0Yi1LalpVaEwyeTNfZGt1N1I0ZTNWQnROYVdXVTByVGtmSTI0QVZ5eXJibk9Sd3J4ZnFQSG5DSjVGeHI2Tktsa0gxVm9UdjlPNkQxVQ?oc=5",
+          "pubDate": "2026-10-20T02:40:29.000Z",
+          "image": null,
+          "summary": "함평군, ‘지역자원 연계 청년창업 지원사업’ 참여자 모집 웰페어뉴스",
+          "keywords": [
+            "함평군",
+            "지역자원",
+            "연계",
+            "청년창업",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-24T13:50:17.552Z",
-      "error": "HTTP 503"
+      "fetchedAt": "2026-10-24T20:16:34.395Z",
+      "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "오픈ai",
       "label": "오픈AI",
       "count": 3,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
-      "key": "데이터센터",
-      "label": "데이터센터",
+      "key": "보안",
+      "label": "보안",
       "count": 2,
-      "rank": 2,
+      "rank": 3,
       "change": "new"
     },
     {
       "key": "앤트로픽",
       "label": "앤트로픽",
-      "count": 2,
-      "rank": 3,
-      "change": "down"
-    },
-    {
-      "key": "클라우드",
-      "label": "클라우드",
       "count": 2,
       "rank": 4,
       "change": "down"
@@ -1190,42 +1193,42 @@
       "label": "경제",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "상점가",
-      "label": "상점가",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
