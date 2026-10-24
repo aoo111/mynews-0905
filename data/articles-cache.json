@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-23T22:54:50.643Z",
+  "collectedAt": "2026-10-24T03:24:20.353Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“일본여행 환전 더 기다려, 말아?”…日 금리 인상만 봐선 안 되는 이유",
+          "link": "https://www.mk.co.kr/news/economy/12184761",
+          "pubDate": "2026-10-24T02:09:44.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/24/news-p.v1.20261023.2e867a09c3ce4a60a704f5bbd29c19e4_R.png",
+          "summary": "원·엔 환율 100엔당 840원대 日 금리 인상 기대는 엔화 강세 요인 국내 환전 비용은 원화 움직임도 변수원엔 환율이 100엔당 840원대에서 움직이는 가운데 일본은행의 추가 금..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "한 판 4만4000원씩 주고 수입했는데…석달새 계란값 23% 급락, 이유는",
           "link": "https://www.mk.co.kr/news/economy/12184706",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "반도체 핵심인재에…국가R&D사업 가점",
-          "link": "https://www.mk.co.kr/news/economy/12184433",
-          "pubDate": "2026-10-23T08:45:04.000Z",
-          "image": null,
-          "summary": "정부가 반도체 등 첨단산업의 핵심 기술인재 유출을 막기 위해 출입국 우대와 연구개발(R&D) 혜택, 재정 지원 등 인센티브를 대폭 강화한다. 23일 관가에 따르면 산업통상부는 이 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:33.420Z",
+      "fetchedAt": "2026-10-24T03:24:08.292Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,8 +180,8 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-23T19:47:29.578Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-10-24T03:24:08.455Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -189,50 +189,33 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216572",
-          "pubDate": "2026-10-24T07:00:00.000Z",
+          "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216605",
+          "pubDate": "2026-10-24T11:49:09.000Z",
           "image": null,
-          "summary": "AI를 구동하는 컴퓨팅 자원이 석유처럼 금융시장에서 거래되는 시대가 다가오고 있습니다. GPU를 빌리는 가격에 이어 챗GPT와 클로드 같은 AI 모델을 기업이 사용할 때 내는 토큰 요금까지 새로운 금융상품의 기준으로 삼으려는 움직임입니다. 컴퓨팅이 AI 산업의 핵심 자원으로 자리 잡으면서, 가격 변동에 따른 위험을 줄이기 위한 시장이 생겨나고 있습니다.월스트리트저널(WSJ)은 22일(현지시간) 미국 스타트업 실리콘 데이터(Silicon Data)의 카르멘 리 창업자가 세계 최대 파생상품 거래소 운영사 CME 그룹과 손잡고 컴퓨팅 가",
+          "summary": "앤트로픽의 '클로드 미소스 5'가 사람에게 실제 피해를 줄 수 있다는 경고를 받고도 사이버 공격을 지속한 것으로 나타났다. 공격 대상이 실제 인물이라는 증거가 반복적으로 제시됐지만, 이를 무시하고 악성 코드를 유포하려 시도했다. AI 모델이 작업을 시작한 뒤에는 위험성을 인식하고도 행동을 중단하지 않는 정렬 실패(misalignment) 문제가 드러났다는 분석이다.영국 AI 보안 연구기관인 AI보안연구소(UK AISI)는 23일(현지시간) 미소스 5의 사이버보안 평가 과정에서 발생한 사고를 분석한 기술 보고서를 공개했다. 앤트로픽도",
           "keywords": [
-            "10월23일",
-            "AI",
-            "토큰",
-            "가격에",
-            "베팅하는"
+            "앤트로픽",
+            "미소스",
+            "실제",
+            "피해",
+            "경고에도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216581",
-          "pubDate": "2026-10-23T18:59:59.000Z",
+          "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216606",
+          "pubDate": "2026-10-24T11:43:39.000Z",
           "image": null,
-          "summary": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안에서 선택하거나 확률과 점수를 반환하는 방식으로, AI 에이전트와 애플리케이션의 대기 시간과 운영 비용을 줄이는 데 초점을 맞췄다.오픈AI는 22일(현지시간) 공식 발표를 통해 디시전스 API를 모든 고객에게 정식 제공한다고 밝혔다. 이 API는 'GPT-6 루나'를 기반으로 하며, 기존 '리스폰스 API(Responses API)'를 통",
+          "summary": "중국의 딥시크와 미니맥스가 오픈소스 AI 모델의 해외 공개와 라이선스 제공을 위한 수출 등록 절차를 마쳤다. 중국 정부가 AI 기술 수출 통제 강화를 추진하는 가운데, 자국 기업의 해외 사업과 AI 모델 상용화는 계속 허용하겠다는 방침을 드러낸 것으로 풀이된다.중국 관영 CCTV 계열 소셜미디어 계정인 위위안탄톈은 22일 딥시크와 미니맥스가 AI 모델의 해외 사용 승인을 받았다고 발표했다.미니맥스도 이날 성명을 통해 중국 상무부의 기술 수출 등록을 완료했다고 밝혔다. 등록 대상은 최근 출시했거나 앞으로 공개할 일부 모델로, 오픈소스",
           "keywords": [
-            "오픈AI",
-            "분류",
-            "선택",
-            "특화",
-            "디시전스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "스페이스X, 엔비디아 등 130여개사와 기업 AI 공략…그록 도입·연동 지원",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216585",
-          "pubDate": "2026-10-23T18:51:55.000Z",
-          "image": null,
-          "summary": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 밝혔다. 초기 프로그램에는 엔비디아와 스노우플레이크, 데이터브릭스, 베인앤컴퍼니, 부즈앨런해밀턴 등 130개 이상의 기업이 참여했다.협력사는 고객사의 그록 도입을 지원하는 ‘트랜스",
-          "keywords": [
-            "스페이스X",
-            "엔비디아",
-            "130여개사와",
-            "기업",
+            "딥시크",
+            "미니맥스",
+            "중국",
+            "정부",
             "AI"
           ],
           "isForeign": false,
@@ -240,41 +223,58 @@
           "summaryKo": null
         },
         {
-          "title": "오픈AI 전 과학 책임자, 신약 개발 ‘완전 자동화 연구소’ 구축 나서",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216573",
-          "pubDate": "2026-10-23T18:44:11.000Z",
+          "title": "[내면 지도 그리기] 39 Inner Mapping: 나를 찾는 지도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216611",
+          "pubDate": "2026-10-24T11:36:49.000Z",
           "image": null,
-          "summary": "케빈 웨일 전 오픈AI 과학 부문 책임자가 AI와 로봇을 활용해 신약 개발의 실험 과정을 자동화하는 스타트업 워프 사이언스(Warp Sciences)를 설립했다.22일(현지시간) 블룸버그에 따르면, 워프 사이언스는 2억1500만달러(약 2800억원)의 시리즈 A 투자금을 확보하며 공식 출범했다.투자 유치 이후 기업가치는 8억6500만달러(약 1조1400억원)로 평가됐다. 라이트스피드 벤처 파트너스가 투자를 주도했으며 IVP, 메이필드, 럭스 캐피털, 프렘지 인베스트, 멘로 벤처스 등이 참여했다.엔젤 투자자 명단에는 사라 프라이어 오",
+          "summary": "약을 건네기 전에, 삶을 묻는 사람내면의 지도를 그린다면, 약국 하나쯤 표시해두고 싶습니다. 마음이 어딘가 불편한데 그 자리를 정확히 짚을 수 없을 때 찾아가는 곳. 문을 열고 들어서면 잠시 앉아 하루를 이야기할 수 있는 곳입니다.그런 약국을 만난다면, 여러분은 무슨 말을 먼저 꺼내고 싶으신가요. 요즘 잠을 잘 못 잔다고, 자꾸 소화가 안 된다고, 쉬고 나서도 피곤하다고 말할까요. 그러다 조금 시간이 흐르면 다른 이야기가 나올지도 모르겠습니다. 함께 밥 먹는 사람이 달라졌다는 것. 오래 준비한 일이 끝났는데 이상하게 허전하다는 것.",
           "keywords": [
-            "오픈AI",
-            "과학",
-            "책임자",
-            "신약",
-            "개발"
+            "내면",
+            "지도",
+            "그리기",
+            "39",
+            "Inner"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "유니트리, 흉기 막고 차량 들어 올리는 ‘수호 로봇’ 공개…자율 작동 여부는 미공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216594",
-          "pubDate": "2026-10-23T18:26:15.000Z",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, 오랫동안 꿈꾸던 날라다니는 차",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216610",
+          "pubDate": "2026-10-24T10:00:00.000Z",
           "image": null,
-          "summary": "중국 유니트리 로보틱스가 칼을 든 침입자에 맞서고 차량 앞부분을 들어 올리는 휴머노이드 로봇 ‘H2-X’의 홍보 영상을 공개했다. 무술과 곡예 동작을 선보이던 로봇에 경호·구조라는 활용 시나리오를 더했다. 다만 실제 위험 상황에서 스스로 위협을 판단하고 안전하게 대응할 수 있는지는 공개하지 않았다.유니트리는 21일(현지시간) 공식 영상을 통해 ‘H2-X 쿵푸 레전드 가디언(Kung Fu Legend Guardian)’을 소개했다. 영상에는 폐차장에서 자동차 문을 주먹과 발로 가격하고, 4m 높이로 표시된 발판에서 뛰어내려 두 발로",
+          "summary": "글·그림 Dr. Alf",
           "keywords": [
-            "유니트리",
-            "흉기",
-            "막고",
-            "차량",
-            "들어"
+            "AI카툰",
+            "Bob",
+            "Senior",
+            "IT",
+            "guy"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "이탈리아, 9월 태양광 발전량 5.32TWh…전년보다 27% 증가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216558",
+          "pubDate": "2026-10-24T09:30:00.000Z",
+          "image": null,
+          "summary": "이탈리아의 지난 9월 태양광 발전량이 전년 동월보다 27.1% 증가한 5.32테라와트시(TWh)를 기록했다. 태양광은 재생에너지 전체 발전량의 약 절반을 차지했지만, 수력발전 감소와 전력수요 증가로 재생에너지의 전력수요 충당 비율은 오히려 낮아졌다.이탈리아 송전망 운영사 테르나(Terna)가 지난 21일(현지시간) 발표한 '2026년 9월 전력시스템 월간보고서'에 따르면 태양광 발전량은 지난해 9월 4181기가와트시(GWh)에서 올해 5316GWh로 1135GWh 증가했다.발전량 증가에는 설비 확충이 가장 큰 영향을 미쳤다. 테르나",
+          "keywords": [
+            "이탈리아",
+            "9월",
+            "태양광",
+            "발전량",
+            "32TWh"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:34.698Z",
+      "fetchedAt": "2026-10-24T03:24:09.482Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:34.933Z",
+      "fetchedAt": "2026-10-24T03:24:09.663Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "OpenSSL 4.1.0 - DTLS 1.3과 GREASE 지원 추가",
-          "link": "https://news.hada.io/topic?id=35885",
-          "pubDate": "2026-10-23T20:45:59.000Z",
+          "title": "jank - C++과 매끄럽게 상호운용하는 네이티브 Clojure 방언",
+          "link": "https://news.hada.io/topic?id=35897",
+          "pubDate": "2026-10-24T01:31:36.000Z",
           "image": null,
-          "summary": "OpenSSL 4.1.0은 DTLS 1.3, GREASE, SSL 리스너 API의 DTLS 지원을 추가한 기능 릴리스임 암호 연산 최적화로 ppc64le의 ML-DSA/ML-KEM NTT 연산과 x86_64의 ML-DSA, SHAKE x4, AES-CBC 복호화 성능을 개선함 ts...",
+          "summary": "jank는 Java 대신 C++과 상호운용하는 Clojure 방언으로, C++ 헤더를 포함하면 별도 상용구 코드 없이 네이티브 기능을 사용할 수 있음 템플릿, 가상 함수, 예외, 오버로드 결정, RAII를 지원하며, C++ 타입 시스템을 사용하고 C++ 코드로도 컴파일됨",
           "keywords": [
-            "OpenSSL",
-            "DTLS",
-            "3과",
-            "GREASE",
-            "지원"
+            "jank",
+            "C++과",
+            "매끄럽게",
+            "상호운용하는",
+            "네이티브"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "pgrust 제거: 쿼리별 전용 커널과 결과 캐싱을 이용한 벤치마크 부정행위",
-          "link": "https://news.hada.io/topic?id=35884",
-          "pubDate": "2026-10-23T20:42:59.000Z",
+          "title": "Dessa - 텍스트 없이 사람의 대화만 듣고 배운 실시간 음성 AI",
+          "link": "https://news.hada.io/topic?id=35895",
+          "pubDate": "2026-10-24T00:31:17.000Z",
           "image": null,
-          "summary": "ClickBench에서 pgrust 항목을 제거하는 PR이 병합됨. 제거 사유는 43개 벤치마크 쿼리에 맞춘 전용 실행 경로와 이전 실행 결과를 재사용하는 캐시가 벤치마크 규칙을 위반한다는 것임 공개 소스와 릴리스 바이너리에서 쿼리별 수작업 커널, 벤치마크 SQL 내장, 특...",
+          "summary": "Block이 텍스트와 사전학습 모델 없이 사람의 음성 대화만으로 처음부터 학습한 실시간 대화 모델 Dessa 공개 말하면서 동시에 상대의 말을 듣는 전이중 방식으로 대화 중 끼어들기와 맞장구, 웃음, 발화 타이밍을 처리 음성을 텍스트로 바꾸며 놓치기 쉬...",
           "keywords": [
-            "pgrust",
-            "제거:",
-            "쿼리별",
-            "전용",
-            "커널과"
+            "Dessa",
+            "텍스트",
+            "없이",
+            "사람의",
+            "대화만"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "캐나다인들이 C-22 법안에 반대할 시간이 얼마 남지 않음",
-          "link": "https://news.hada.io/topic?id=35883",
-          "pubDate": "2026-10-23T20:39:59.000Z",
+          "title": "Rakazo - 내 PC에서 운영하는 Grok Bot 오픈소스 대체제",
+          "link": "https://news.hada.io/topic?id=35894",
+          "pubDate": "2026-10-24T00:30:02.000Z",
           "image": null,
-          "summary": "정부의 감시 권한을 대폭 확대하는 C-22 법안이 캐나다 하원을 통과해 상원에서 심의 중이며, 시민단체는 법안 저지를 위한 청원 참여를 촉구함 통신사와 메시징 앱 등에 감시 협조를 강제하고, “시스템 전반의 보안 취약성”을 초래하지 않는다는 조건으로 백도어 설치 명...",
+          "summary": "이메일 정리와 영업 조사, 경비 처리 등을 맡는 역할별 AI 비서를 직접 만들고 운영하는 오픈소스 봇마다 대화와 메모리, 작업 이력을 유지해 매번 처음부터 설명하지 않고 업무를 이어가는 방식 브라우저와 터미널, 파일, 데스크톱 화면을 조작...",
           "keywords": [
-            "캐나다인들이",
-            "22",
-            "법안에",
-            "반대할",
-            "시간이"
+            "Rakazo",
+            "PC에서",
+            "운영하는",
+            "Grok",
+            "Bot"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Apple Music 404 페이지를 찾을 수 없음 오류",
-          "link": "https://news.hada.io/topic?id=35882",
-          "pubDate": "2026-10-23T20:36:59.000Z",
+          "title": "소프트웨어가 느린 이유는 느린 언어가 아니라 나쁜 설계 때문이다",
+          "link": "https://news.hada.io/topic?id=35893",
+          "pubDate": "2026-10-24T00:18:03.000Z",
           "image": null,
-          "summary": "Apple Music 404 페이지를 찾을 수 없음 오류",
+          "summary": "AI로 프로그램을 C나 Rust로 다시 쓰기보다 설계를 개선하는 편이 큰 성능 향상으로 이어지는 경우가 많음 데이터베이스와 네트워크를 기다리는 시간이 길다면 언어를 바꿔도 효과가 제한되며, 요청 시간의 절반이 DB 조회라면 나머지 코드를 아무리 빠르게 해도 전체 속도는 최대 2...",
           "keywords": [
-            "Apple",
-            "Music",
-            "404",
-            "페이지를",
-            "찾을"
+            "소프트웨어가",
+            "느린",
+            "이유는",
+            "언어가",
+            "아니라"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: OnKey - 노래를 못해서 음정이 어긋나는 곳을 보여주는 앱을 만들었습니다",
-          "link": "https://news.hada.io/topic?id=35881",
-          "pubDate": "2026-10-23T19:33:25.000Z",
+          "title": "“Rust보다 빠르다”는 주장 반박: Tov의 악의적 벤치마크",
+          "link": "https://news.hada.io/topic?id=35892",
+          "pubDate": "2026-10-24T00:15:03.000Z",
           "image": null,
-          "summary": "OnKey는 Spotify, Apple Music, 브라우저의 YouTube에서 재생하는 노래를 따라 부르며 연습하는 무료 오픈소스 Mac용 보컬 훈련 앱임 처음 재생할 때는 가사를 보여주고 곡이 끝나면 멜로디를 학습함. 이후에는 음표 위에 사용자의 음정을 실시간으로 겹쳐 보여주며...",
+          "summary": "Tov의 성능 비교를 3개 벤치마크로 재검증한 결과, 기존 수치를 재현하지 못하거나 Rust 구현을 수정했을 때 Tov와 비슷하거나 더 빠른 성능을 얻음 Tov는 TypeScript를 C로 변환하고 clang으로 컴파일함. 일부 작업에서 Rust보다 10배 이상 빠르다는 홍보와 비교 ...",
           "keywords": [
-            "Show",
-            "HN:",
-            "OnKey",
-            "노래를",
-            "못해서"
+            "Rust보다",
+            "빠르다",
+            "주장",
+            "반박:",
+            "Tov의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:35.654Z",
+      "fetchedAt": "2026-10-24T03:24:10.535Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -450,6 +450,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Have you heard? PlaqueBoyMax vs. Trump, a ‘Cheese Tax’ lawsuit, and a subscriber guessing game.",
+          "link": "https://www.tubefilter.com/2026/10/23/have-you-heard-plaque-boy-max-trump-cheese-tax-puppy-songs/",
+          "pubDate": "2026-10-23T23:17:18.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/plaque-boy-max.jpg",
+          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, a Twitch streamer-turned-rapper is taking on the White House, the rules are the rules and the facts are the facts (in court), and subscriber counts become a guessing game. Politics as usual PlaqueBoyMax doesn't want Trump to use his song in a White House social post. The President loves to use pop songs in his posts without getting the art",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Hank Green",
+            "ksi"
+          ],
+          "isForeign": true,
+          "titleKo": "들어보셨나요? PlaqueBoyMax vs. Trump, ‘치즈 세금’ 소송, 가입자 추측 게임.",
+          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 트위치 스트리머 전환 래퍼가 백악관을 차지하고 있으며, 규칙은 규칙이고 사실은 사실입니다 (법정에서). 구독자 수는 추측 게임이됩니다. 평소와 같은 정치 PlaqueBoyMax는 트럼프가 백악관 소셜 포스트에서 자신의 노래를 사용하는 것을 원하지 않습니다. 대통령은 자신의 게시물에 팝송을 사용하는 것을 좋아합니다."
+        },
         {
           "title": "Consistency is key: A YouTube Shorts bonus program rewards creators who upload at regular intervals",
           "link": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/",
@@ -516,27 +534,9 @@
           "isForeign": true,
           "titleKo": "BookTok 스매시 히트 Heated Rivalry는 피날레가 방영 된 지 1 년 만에 극장으로 향합니다.",
           "summaryKo": "열띤 라이벌의 흥겨운 하키 선수들이 실버 스크린으로 향합니다. Rachel Reid의 히트작을 기반으로 하고 Jacob Tierney가 캐나다 스트리밍 서비스 Crave를 위해 저술/감독한 m/m 로맨스 시리즈는 미국, 영국, 호주 및 뉴질랜드의 650개 이상의 리갈 극장에서 제한적으로 첫 시즌을 다시 시작합니다. \"시리즈가 [...] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
-        },
-        {
-          "title": "YouTube publishes study to show that creators love using AI, actually",
-          "link": "https://www.tubefilter.com/2026/10/22/youtube-culture-and-trends-nrg-survey-generative-ai/",
-          "pubDate": "2026-10-22T21:35:48.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/youtube-culture-trends-ai.jpg",
-          "summary": "Over the past year, YouTube has sent a clear message to its creator community: We hope you like generative AI, because you're about to see a lot more of it. Products from Google Gemini and similar platforms have been integrated throughout the YouTube experience, opening up new creative possibilities for channel owners. YouTube's AI-forward strategy has drawn significant criticism. Creators have cried foul as LLMs have scraped videos without consent, surreptitiously upscaled existing content, and",
-          "keywords": [
-            "Articles",
-            "Artificial Intelligence",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube는 크리에이터가 AI를 사용하는 것을 좋아한다는 것을 보여주기 위해 연구를 게시합니다.",
-          "summaryKo": "지난 한 해 동안 YouTube는 크리에이터 커뮤니티에 다음과 같은 분명한 메시지를 전달했습니다. 앞으로 더 많은 인공지능을 만나보실 수 있기를 바랍니다. Google Gemini 및 유사한 플랫폼의 제품이 YouTube 경험 전반에 걸쳐 통합되어 채널 소유자에게 새로운 크리에이티브 가능성을 열어줍니다. YouTube의 AI 전진 전략은 상당한 비판을 받았습니다. LLM이 동의 없이 동영상을 스크랩하고 은밀하게 상향 조정함에 따라 크리에이터는 반칙을 외쳤습니다."
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:40.234Z",
+      "fetchedAt": "2026-10-24T03:24:13.133Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:40.430Z",
+      "fetchedAt": "2026-10-24T03:24:13.313Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:40.525Z",
+      "fetchedAt": "2026-10-24T03:24:13.374Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:42.844Z",
+      "fetchedAt": "2026-10-24T03:24:15.808Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:43.162Z",
+      "fetchedAt": "2026-10-24T03:24:16.089Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -885,6 +885,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Startups don’t need to go viral to win customers",
+          "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "pubDate": "2026-10-23T23:07:45.000Z",
+          "image": null,
+          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+          "keywords": [
+            "Startups",
+            "engine",
+            "Gamma",
+            "Google"
+          ],
+          "isForeign": true,
+          "titleKo": "신생 기업은 고객을 유치하기 위해 바이럴을 할 필요가 없습니다.",
+          "summaryKo": "지난 주 TechCrunch Disrupt에서 두 명의 창업자와 VC가 초기 팔로워를 확보하는 것이 아니라 유지하는 방법에 대해 논의했습니다."
+        },
         {
           "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
           "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
@@ -945,26 +961,9 @@
           "isForeign": true,
           "titleKo": "토스트에서 베서머까지: TechCrunch Founder Summit 2026에서 창업자들의 이야기를 들어보세요.",
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
-        },
-        {
-          "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-          "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-          "pubDate": "2026-10-23T16:26:29.000Z",
-          "image": null,
-          "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "Daytona",
-            "Firstmark",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "에이전트 클라우드 스타트업 데이토나 (Daytona) 가 퍼스트마크 (FirstMark) 와 누가 천사인가 (Who's who of angels) 에 의해 뒷받침되는 $ 1B 밸류에이션을 달성",
-          "summaryKo": "데이토나 (Daytona) 는 모든 에이전트에게 자체 컴퓨터를 제공하는 것과 같은 에이전트를 위한 클라우드를 구축하고 있습니다. Stripe, Perplextity, Datadog, Mercor 등의 창립자를 천사로 끌어들였습니다."
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:46.881Z",
+      "fetchedAt": "2026-10-24T03:24:17.996Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1063,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:48.786Z",
+      "fetchedAt": "2026-10-24T03:24:19.111Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1106,34 +1105,17 @@
           "summaryKo": null
         },
         {
-          "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
-          "pubDate": "2026-10-19T07:00:00.000Z",
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
+          "pubDate": "2026-10-18T08:10:37.000Z",
           "image": null,
-          "summary": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 인천광역시",
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
           "keywords": [
-            "2026년",
-            "2차",
-            "중소기업",
-            "기술거래",
-            "기반조성사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "영광군, LPG 소형저장탱크 지원 3가구 추가 모집 - 팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54bHMyaGJmVFZPMjNCNUlvYjhFeUgxYWUxWldELW9kVVk5TC14MjZiTC1qYjgzNzhHb3BYVV9SRnNOLW5IeXRNc2Z2Q2xfNzlGMjEyNmswM05TdjdWdVFTREFjdmNTTWc?oc=5",
-          "pubDate": "2026-10-23T13:53:54.000Z",
-          "image": null,
-          "summary": "영광군, LPG 소형저장탱크 지원 3가구 추가 모집 팍스경제TV",
-          "keywords": [
-            "영광군",
-            "LPG",
-            "소형저장탱크",
+            "내게",
+            "맞는",
+            "정책",
             "지원",
-            "3가구"
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1155,9 +1137,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
+          "pubDate": "2026-10-19T07:20:00.000Z",
+          "image": null,
+          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
+          "keywords": [
+            "전북중기청",
+            "2027년",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-23T22:54:49.282Z",
+      "fetchedAt": "2026-10-24T03:24:19.443Z",
       "error": null
     }
   },
@@ -1170,64 +1169,64 @@
       "change": "same"
     },
     {
-      "key": "지원",
-      "label": "지원",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
-      "rank": 7,
-      "change": "new"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "상점가",
       "label": "상점가",
-      "count": 2,
+      "count": 3,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "전통시장",
+      "label": "전통시장",
+      "count": 3,
+      "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "활성화",
+      "label": "활성화",
+      "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "new"
+    },
+    {
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
-      "count": 2,
-      "rank": 9,
-      "change": "down"
-    },
-    {
-      "key": "오픈ai",
-      "label": "오픈AI",
       "count": 2,
       "rank": 10,
       "change": "down"
@@ -1271,7 +1270,7 @@
       "label": "Articles",
       "count": 4,
       "rank": 5,
-      "change": "up",
+      "change": "same",
       "labelKo": "기사"
     },
     {
@@ -1279,7 +1278,7 @@
       "label": "Featured",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "추천 동영상"
     },
     {
@@ -1287,7 +1286,7 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 7,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1295,7 +1294,7 @@
       "label": "News",
       "count": 4,
       "rank": 8,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
@@ -1303,16 +1302,16 @@
       "label": "Enforcement Actions",
       "count": 2,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "시행 조치"
     },
     {
-      "key": "fundraising",
-      "label": "Fundraising",
+      "key": "monetary policy",
+      "label": "Monetary Policy",
       "count": 2,
       "rank": 10,
-      "change": "down",
-      "labelKo": "모금 활동"
+      "change": "new",
+      "labelKo": "통화정책"
     }
   ]
 }
