@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-25T18:44:15.309Z",
+  "collectedAt": "2026-10-25T22:18:26.769Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 26일)",
+          "link": "https://www.mk.co.kr/news/economy/12185294",
+          "pubDate": "2026-10-25T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/25/news-p.v1.20261025.1441752da03d4e4485d246faaa9627fc_R.jpg",
+          "summary": "1. 정부가 내년 개발제한구역이 환경평가등급을 6년 만에 다시 매길 예정입니다. 그동안 해제가 까다로웠던 일부 땅에 대해서도 개발 가능성을 새롭게 검토할 수 있도록 절차가 손질될 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "쿠팡 현장조사 불응에…공정위 “기업조사 거부땐, 매출 1% 과징금 내야”",
+          "link": "https://www.mk.co.kr/news/economy/12185329",
+          "pubDate": "2026-10-25T21:08:35.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/26/rcv.NEWS1.NEWS1.20261021.2026-10-21T123930_1008171138_POLITICS_I_R.jpg",
+          "summary": "쿠팡·한화 조사불응 논란에 ‘2억이하 벌금’서 확대 주장 강제수사권 필요성엔 선그어주병기 공정거래위원장이 기업의 공정위 조사 거부에 대응하기 위해 매출의 1%까지 과징금을 부과하는..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "독일·일본은 ‘넘사벽’이었는데…韓 경상흑자, 두 나라 합 보다 많아졌다",
+          "link": "https://www.mk.co.kr/news/economy/12185328",
+          "pubDate": "2026-10-25T21:08:24.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/26/news-g.v1.20261025.a75ba9caba44427c904067238fd4babb_R.jpg",
+          "summary": "2분기 1166억弗 역대 최대 반도체 호황덕 1년새 4배 쑥 일각선 “수출 다변화 필요”반도체 수출 호황에 한국의 경상수지 흑자가 급증하며 올해 2분기엔 ‘제조업 강국’ 독일과 일..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "조여도 89주째 오른 집값…가계대출 완화 당분간 어려울듯",
+          "link": "https://www.mk.co.kr/news/economy/12185326",
+          "pubDate": "2026-10-25T21:07:22.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/26/rcv.YNA.20260830.PYH2026083004360001300_R.jpg",
+          "summary": "정부 대출규제 언제까지 주요국 대비 높은 가계대출 정책 목표치 조기 달성해도 당국, 규제 완화 신중 입장 반도체 호황 ‘일시적’ 시각도올가을 이사를 앞둔 A씨는 지난 7월 말부터 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "이 대통령 “밀물 들어오면 모든 배 뜬다…성장 과실, 국민 삶 바꿔야”",
           "link": "https://www.mk.co.kr/news/economy/12185279",
           "pubDate": "2026-10-25T09:28:26.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "'농협회장 직선제' 농협법 27일 국회서 재심사 돌입",
-          "link": "https://www.mk.co.kr/news/economy/12185245",
-          "pubDate": "2026-10-25T08:34:34.000Z",
-          "image": null,
-          "summary": "국회가 농협중앙회장 직선제와 외부 감사기구 설치를 골자로 하는 농업협동조합법(농협법) 개정안 심사에 다시 나선다. 25일 국회에 따르면 국회 농림축산식품해양수산위원회는 27일 농림..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "공정위원장 \"조사거부 기업에 매출1% 과징금\"",
-          "link": "https://www.mk.co.kr/news/economy/12185246",
-          "pubDate": "2026-10-25T08:34:34.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01160110000003_S00.jpg",
-          "summary": "주병기 공정거래위원장(사진)이 기업의 공정위 조사 거부에 대응하기 위해 매출의 1%까지 과징금을 부과하는 방안을 추진한다고 밝혔다. 최근 쿠팡이 대규모유통업법 관련 공정위 현장조사..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "2030 반발 의식했나 … 코인과세 유예 가닥",
-          "link": "https://www.mk.co.kr/news/economy/12185243",
-          "pubDate": "2026-10-25T08:34:33.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01170110000001_L00.jpg",
-          "summary": "청와대가 내년 1월 시행을 앞둔 가상자산 소득에 대한 과세를 유예하기로 잠정 결론을 내렸다. 이미 더불어민주당과 국민의힘에서도 유예론에 힘을 싣고 있던 상황이라 오는 11월 정기국..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한국 '獨+日'도 제쳤다 … 경상흑자 세계 2위로",
-          "link": "https://www.mk.co.kr/news/economy/12185244",
-          "pubDate": "2026-10-25T08:34:33.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01160110000004_S00.jpg",
-          "summary": "반도체 수출 호황에 한국의 경상수지 흑자가 급증하며 올해 2분기엔 '제조업 강국' 독일과 일본의 흑자를 합친 것보다 많아진 것으로 나타났다. 25일 한국은행 경제통계시스템에 수록된..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:08.287Z",
+      "fetchedAt": "2026-10-25T22:18:20.500Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:08.421Z",
+      "fetchedAt": "2026-10-25T22:18:20.604Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:09.555Z",
+      "fetchedAt": "2026-10-25T22:18:21.934Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:09.835Z",
+      "fetchedAt": "2026-10-25T22:18:22.092Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Kimi K3.1, Artificial Analysis에서 55점 기록하며 파레토 선에 위치",
-          "link": "https://news.hada.io/topic?id=35984",
-          "pubDate": "2026-10-25T18:40:39.000Z",
+          "title": "2026년에 Gopher로 블로그를 만드는 이유",
+          "link": "https://news.hada.io/topic?id=35993",
+          "pubDate": "2026-10-25T21:41:48.000Z",
           "image": null,
-          "summary": "Kimi K3.1 Pro는 Artificial Analysis Intelligence Index에서 55점을 기록해 유사 가격대 모델의 중앙값인 27점을 크게 웃돎 과제당 평가 비용은 2.11달러이며, Kimi API 기준 100만 토큰당 입력 2달러, 출력 10달러임 출력 속도는 초당 57.5토큰...",
+          "summary": "옛 인터넷 프로토콜 Gopher에 블로그를 만드는 즐거움은 도구의 작동 원리를 탐구하고, 현대 기술의 소음에서 잠시 벗어나는 데 있음 17세 자녀와 친구들이 단순한 기술을 찾는 모습을 보며, 그들에게 낡은 폴더폰도 이전 세대에게는 최신 기술이었다는 세대 차이를...",
           "keywords": [
-            "Kimi",
-            "K3",
-            "Artificial",
-            "Analysis에서",
-            "55점"
+            "2026년에",
+            "Gopher로",
+            "블로그를",
+            "만드는",
+            "이유"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: S&amp;P 500 시가총액 버블 안에 직원들을 넣어봤습니다",
-          "link": "https://news.hada.io/topic?id=35983",
-          "pubDate": "2026-10-25T18:37:39.000Z",
+          "title": "온라인 검열이 인디 웹코믹을 짓누르고 있다",
+          "link": "https://news.hada.io/topic?id=35992",
+          "pubDate": "2026-10-25T21:38:48.000Z",
           "image": null,
-          "summary": "Big Whale Hunting은 S&P 500 기업의 시가총액을 버블 면적으로, 직원 수를 내부 사람 아이콘으로 나타내는 시각화임 기업을 업종별로 묶고, 사람 아이콘 하나로 직원 1만 명을 표시해 시가총액 대비 인력 규모를 비교할 수 있음 버...",
+          "summary": "2011년부터 웹코믹을 만들어 온 Hazel & Bell이 플랫폼의 콘텐츠 차단과 결제 업체의 압력으로 창작과 생계가 어려워지는 현실을 만화로 표현 Webtoon에서는 성적 콘텐츠, Bluesky와 Tumblr에서는 남성의 유두 노출, TikTok에서는 등장인물의 욕설을 이유로 게시물이 차단된 경험...",
           "keywords": [
-            "Show",
-            "HN:",
-            "S&amp;P",
-            "500",
-            "시가총액"
+            "온라인",
+            "검열이",
+            "인디",
+            "웹코믹을",
+            "짓누르고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Samsung TV가 Bluetooth로 집 안의 마이크를 찾아 주변 상황을 감시한다는 주장",
-          "link": "https://news.hada.io/topic?id=35982",
-          "pubDate": "2026-10-25T17:35:39.000Z",
+          "title": "Nikon 현미경 영상 공모전 우승작, 과학자들이 AI 흔적 지적한 뒤 수상 취소",
+          "link": "https://news.hada.io/topic?id=35991",
+          "pubDate": "2026-10-25T21:35:48.000Z",
           "image": null,
-          "summary": "게시물은 Samsung TV가 Bluetooth를 통해 집 안의 마이크를 탐색한다고 주장함 주장에 따르면 감시 대상에는 개 짖는 소리와 아기 울음 같은 주변 상황이 포함됨 YouTube 내 사용자 활동도 감시 대상에 해당함 감시 범위는 You...",
+          "summary": "Nikon의 현미경 영상 공모전 Small World in Motion 우승작이 AI 생성 의혹으로 재심사를 받은 뒤, 규정 위반으로 수상 취소 어린이의 기도에서 움직이는 섬모를 담았다는 영상에서 세포 구조와 크기가 부자연스럽고 섬모가 갑자기 나타나거나 사라지는 현...",
           "keywords": [
-            "Samsung",
-            "TV가",
-            "Bluetooth로",
-            "안의",
-            "마이크를"
+            "Nikon",
+            "현미경",
+            "영상",
+            "공모전",
+            "우승작"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "뇌 영역 간 상호작용을 해독하는 신경 칩",
-          "link": "https://news.hada.io/topic?id=35981",
-          "pubDate": "2026-10-25T17:32:38.000Z",
+          "title": "AI 사용 확산에 UC Berkeley 수학 교수, “과제 채점에 의미 없다”",
+          "link": "https://news.hada.io/topic?id=35990",
+          "pubDate": "2026-10-25T20:37:01.000Z",
           "image": null,
-          "summary": "EPFL이 여러 뇌 영역의 활동과 신호 간 동기화를 분석해 인지 상태와 정서 상태를 실시간으로 구분하는 저전력 이식형 신경 칩 LogSync를 개발함 기존 심부뇌자극 시스템은 미리 정한 설정이나 단일 뇌 영역의 신호에 의존하는 경우가 많지만, LogSync는 뇌...",
+          "summary": "UC 버클리의 필즈상 수상자 Richard Borcherds 교수가 학생들의 AI 사용으로 높은 과제 점수가 이어지자, 정답 대신 완료 여부로 점수를 주는 방식으로 전환 AI 사용을 피할 수 없는 상황에서 정답 채점에 인건비를 쓸 의미가 없다는 판단이며, 완...",
           "keywords": [
-            "영역",
-            "상호작용을",
-            "해독하는",
-            "신경"
+            "AI",
+            "사용",
+            "확산에",
+            "UC",
+            "Berkeley"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "1505년 뉘른베르크 기사의 도구 책",
-          "link": "https://news.hada.io/topic?id=35980",
-          "pubDate": "2026-10-25T16:37:28.000Z",
+          "title": "Dolly Parton&#039;s Imagination Library - 출생부터 5세까지 어린이에게 매달 무료 책을 보내는 프로그램",
+          "link": "https://news.hada.io/topic?id=35989",
+          "pubDate": "2026-10-25T20:34:01.000Z",
           "image": null,
-          "summary": "뉘른베르크의 기사 Martin Löffelholz가 1505년부터 작성한 도구 책을 페이지별로 전사하고 해석하는 프로젝트가 진행 중임 Löffelholz Codex는 154쪽에 도구, 기계, 자물쇠, 무기 등을 그림과 짧은 설명으로 담았으며, 교체형 날을 쓰는 드릴과 바퀴 달린 회전의자...",
+          "summary": "Dolly Parton's Imagination Library는 출생부터 5세까지 어린이에게 책을 무료로 선물해 독서에 대한 애정을 키우는 프로그램임 연령에 맞춰 선정한 책을 매달 집으로 직접 우편 배송하며, 가정의 소득과 관계없이 어린이가 책을 가질 수 있도록 함",
           "keywords": [
-            "1505년",
-            "뉘른베르크",
-            "기사의",
-            "도구"
+            "Dolly",
+            "Parton&#039;s",
+            "Imagination",
+            "Library",
+            "출생부터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:10.462Z",
+      "fetchedAt": "2026-10-25T22:18:22.720Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -534,7 +536,7 @@
           "summaryKo": "매달 Nielsen은 모든 주요 미디어 유통업체의 TV 화면에서 미국 시청 시간을 세분화합니다. 이 특정 측정은 The Gauge로 알려져 있으며, 최근 몇 년 동안 YouTube에 유리한 결과를 보여주었습니다. Google의 비디오 플랫폼은 일반적으로 단일 유통 업체 중 가장 큰 시청 시간 점유율을 차지함으로써 Netflix, Prime Video 및 Disney + 와 같은 라이벌을 이끌고 있습니다. 그러한 맥락을 염두에 두고 있더라도 2026년 8월호 The Gauge에서 YouTube는 특히"
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:10.595Z",
+      "fetchedAt": "2026-10-25T22:18:22.905Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -608,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:10.911Z",
+      "fetchedAt": "2026-10-25T22:18:23.071Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -689,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:11.000Z",
+      "fetchedAt": "2026-10-25T22:18:23.156Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -788,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:13.285Z",
+      "fetchedAt": "2026-10-25T22:18:25.081Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +878,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:13.574Z",
+      "fetchedAt": "2026-10-25T22:18:25.324Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -962,7 +964,7 @@
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:13.671Z",
+      "fetchedAt": "2026-10-25T22:18:25.382Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1061,7 +1063,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:14.774Z",
+      "fetchedAt": "2026-10-25T22:18:26.358Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1081,6 +1083,23 @@
             "전통시장",
             "상점가",
             "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "도, 내년 농촌형 보육서비스 지원사업 참여기관 모집 - 전북중앙",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IS1cycjFaeHk5N3p2VmVOc0hRMHU4Tjk3WGpaZ3o4UlUyQldLR050akt3SUluVXFHZ29SQVNqcE12SWZXS3dUYVdPbDlwc3U2Z21YNlcxSFJnYkNLajdnN0lwLW9GN0HSAWtBVV95cUxOVGxXdkdfdUd4WXNoazJKdm1HWjBBeHI2RG8tX1RHMkpEMXdoM2pjN3hRSHZBclhUd0RJX1NhekxmVWd6dHJBNXhERVFZUTJvQjRkZ2VRWTdNcEhKSnhWSW9KZ0FfTndDWHRBNA?oc=5",
+          "pubDate": "2026-10-25T09:48:27.000Z",
+          "image": null,
+          "summary": "도, 내년 농촌형 보육서비스 지원사업 참여기관 모집 전북중앙",
+          "keywords": [
+            "내년",
+            "농촌형",
+            "보육서비스",
+            "지원사업",
+            "참여기관"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1136,99 +1155,82 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
-          "pubDate": "2026-10-19T07:00:00.000Z",
-          "image": null,
-          "summary": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 인천광역시",
-          "keywords": [
-            "2026년",
-            "2차",
-            "중소기업",
-            "기술거래",
-            "기반조성사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T18:44:15.303Z",
+      "fetchedAt": "2026-10-25T22:18:26.761Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "내년",
+      "label": "내년",
+      "count": 2,
+      "rank": 2,
+      "change": "new"
+    },
+    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 1,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 6,
-      "change": "same"
-    },
-    {
-      "key": "2026년",
-      "label": "2026년",
-      "count": 2,
       "rank": 7,
+      "change": "down"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 8,
       "change": "new"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
-      "rank": 8,
-      "change": "same"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "국가창업시대",
       "label": "국가창업시대",
       "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "글로벌",
-      "label": "글로벌",
-      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
