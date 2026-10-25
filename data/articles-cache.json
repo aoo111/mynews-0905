@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-25T10:47:10.548Z",
+  "collectedAt": "2026-10-25T15:35:59.153Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -80,6 +80,19 @@
           "summaryKo": null
         },
         {
+          "title": "2030 반발 의식했나 … 코인과세 유예 가닥",
+          "link": "https://www.mk.co.kr/news/economy/12185243",
+          "pubDate": "2026-10-25T08:34:33.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01170110000001_L00.jpg",
+          "summary": "청와대가 내년 1월 시행을 앞둔 가상자산 소득에 대한 과세를 유예하기로 잠정 결론을 내렸다. 이미 더불어민주당과 국민의힘에서도 유예론에 힘을 싣고 있던 상황이라 오는 11월 정기국..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "한국 '獨+日'도 제쳤다 … 경상흑자 세계 2위로",
           "link": "https://www.mk.co.kr/news/economy/12185244",
           "pubDate": "2026-10-25T08:34:33.000Z",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[포토] 우리금융, 취약계층 보일러 교체 지원",
-          "link": "https://www.mk.co.kr/news/economy/12185223",
-          "pubDate": "2026-10-25T08:31:58.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01110112000007_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:03.503Z",
+      "fetchedAt": "2026-10-25T15:35:46.539Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:03.596Z",
+      "fetchedAt": "2026-10-25T15:35:46.729Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:04.671Z",
+      "fetchedAt": "2026-10-25T15:35:48.514Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:04.889Z",
+      "fetchedAt": "2026-10-25T15:35:48.758Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,89 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "SpeedCrunch 1.1 - 최대 50자리 정밀도의 무료 오픈소스 공학용 계산기",
-          "link": "https://news.hada.io/topic?id=35966",
-          "pubDate": "2026-10-25T09:37:04.000Z",
+          "title": "세인트헬레나 5펜스 동전에는 약 190살 된 거북 Jonathan이 새겨져 있음",
+          "link": "https://news.hada.io/topic?id=35976",
+          "pubDate": "2026-10-25T15:34:13.000Z",
           "image": null,
-          "summary": "SpeedCrunch는 STEM 분야 전문가, 학생, 교사를 위한 무료 오픈소스 고정밀 공학용 계산기로, Windows, macOS, Linux에서 사용할 수 있음 최대 50자리 정밀도로 계산하며, 복소수와 벡터, 행렬을 지원함 140개 이상의 함수와 다양한 단위...",
+          "summary": "세인트헬레나 5펜스 동전에는 약 190살 된 거북 Jonathan이 새겨져 있음",
           "keywords": [
-            "SpeedCrunch",
-            "최대",
-            "50자리",
-            "정밀도의",
-            "무료"
+            "세인트헬레나",
+            "5펜스",
+            "동전에는",
+            "190살",
+            "거북"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Cerebras, 조 단위 파라미터 AI 모델 배포",
-          "link": "https://news.hada.io/topic?id=35965",
-          "pubDate": "2026-10-25T09:34:04.000Z",
+          "title": "연 15만 달러짜리 Looker를 HTML 파일 버킷으로 대체할 수 있을까?",
+          "link": "https://news.hada.io/topic?id=35975",
+          "pubDate": "2026-10-25T14:39:16.000Z",
           "image": null,
-          "summary": "Cerebras는 대규모 모델의 가중치를 여러 WSE-3T 웨이퍼의 온칩 메모리에 나눠 배치하고 파이프라인으로 실행해, 수조 개 파라미터 모델을 초당 1,000~2,000개 이상의 토큰 속도로 구동함 약 3조 파라미터의 Kimi K3는 4비트 가중치 양자화와 요청당 평균 256k 토큰...",
+          "summary": "약 500명 규모 회사의 데이터 플랫폼 팀이 만든 AI 생성 HTML 대시보드 서비스가 8개월 만에 Looker와 비슷하거나 더 많은 주간 사용자를 확보했고, 같은 기간 Looker 사용량은 약 3분의 1 줄어듦 Claude가 대시보드를 만들고 플랫폼이 호스팅하며, Snowflake가 조회자의 권...",
           "keywords": [
-            "Cerebras",
-            "단위",
-            "파라미터",
-            "AI",
-            "모델"
+            "15만",
+            "달러짜리",
+            "Looker를",
+            "HTML",
+            "파일"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Qwen3.8-27B 모델 5개, GVS5H 하네스로 Fable 5에 필적하는 성능 달성",
-          "link": "https://news.hada.io/topic?id=35963",
-          "pubDate": "2026-10-25T07:37:06.000Z",
+          "title": "Samsung, 960×540 이미지에서 TensorFlow Lite 모델을 실행해 사용자 추적",
+          "link": "https://news.hada.io/topic?id=35974",
+          "pubDate": "2026-10-25T14:36:16.000Z",
           "image": null,
-          "summary": "GVS5H는 동일 모델의 새 인스턴스들이 문제를 분해하고 공유 파일시스템으로 협업하는 학습 없는 방식으로, LiveCodeBench 고난도 문제에서 코딩 성능을 높임 로컬에서 구동한 오픈 웨이트 Qwen3.8-27B의 pass@1은 단일 호출 기준 66.8%에서 오케스트레이션 적용 후...",
+          "summary": "TensorFlow Lite 모델이 몇 초마다 960×540 이미지를 처리해 사용자가 어떤 게임을 하는지 알아내려 시도하는 것으로 확인됨 모델 파일 이름은 alex.tflite 이며, INT8 양자화를 적용한 AlexNet으로 torchvision.models.alexnet을 따르는...",
           "keywords": [
-            "Qwen3",
-            "27B",
-            "모델",
-            "5개",
-            "GVS5H"
+            "Samsung",
+            "960×540",
+            "이미지에서",
+            "TensorFlow",
+            "Lite"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Meta 직원들, 브라질 선거 중 Lula 계정 제한 인정했다는 보도",
-          "link": "https://news.hada.io/topic?id=35962",
-          "pubDate": "2026-10-25T07:34:06.000Z",
+          "title": "Bbtree: 가장 빠른 정렬 맵",
+          "link": "https://news.hada.io/topic?id=35973",
+          "pubDate": "2026-10-25T13:40:00.000Z",
           "image": null,
-          "summary": "브라질 일간지 Folha de S Paulo가 검토한 내부 메시지에 따르면, Meta 직원들은 선거 기간 Lula 대통령의 Instagram 계정이 제한 조치로 부정적 영향을 받았음을 인정함 같은 메시지에는 플랫폼이 경쟁 후보인 Flavio Bolsonaro 상원의원의 프로...",
+          "summary": "bbtree는 Rust의 정렬 맵으로, 스킵리스트를 대체한 4개 LSM 트리의 자체 벤치마크에서 1.37~6.83배 성능 향상을 기록함 핵심은 캐시 미스 한 번으로 탐색 범위를 최대한 줄이는 것임. 고정 크기 인라인 키와 공통 접두사 건너뛰기로 여러 키를 비...",
           "keywords": [
-            "Meta",
-            "직원들",
-            "브라질",
-            "선거",
-            "Lula"
+            "Bbtree:",
+            "가장",
+            "빠른",
+            "정렬"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Ask GN: 대화가 길어지면 AI가 점점 멍청해지는거 같은데 뭔 문제에요?",
-          "link": "https://news.hada.io/topic?id=35961",
-          "pubDate": "2026-10-25T07:28:49.000Z",
+          "title": "작은 프로그램과 언어",
+          "link": "https://news.hada.io/topic?id=35972",
+          "pubDate": "2026-10-25T13:37:00.000Z",
           "image": null,
-          "summary": "클로드로 한 대화를 오래 이어가다 보면 어느 순간부터 앞에서 말한 걸 놓치거나 엉뚱한 답을 해요. 대화가 길어질수록 사용량도 빨리 닳고 새 대화로 옮기면 처음부터 다시 설명해야 해서 그것도 번거롭습니다. 저는 코드를 직접 짜는 쪽이 아니라서 원인을 정확히 모르겠는데, 대화가 길어지면 원래 이런 건가요? 다...",
+          "summary": "작은 프로그램은 전체를 이해할 수 있겠다는 감각으로 접근 장벽을 낮춤. 예상보다 훨씬 짧은 코드가 흥미로운 일을 해낼 때, 그 작동 방식을 읽고 싶은 호기심도 커짐 코드 골프와 초소형 구현은 단순한 놀이를 넘어, 복잡해 보이는 개념을 얼마나 작은 구현에 담...",
           "keywords": [
-            "Ask",
-            "GN:",
-            "대화가",
-            "길어지면",
-            "AI가"
+            "작은",
+            "프로그램과",
+            "언어"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:05.514Z",
+      "fetchedAt": "2026-10-25T15:35:50.252Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +533,7 @@
           "summaryKo": "매달 Nielsen은 모든 주요 미디어 유통업체의 TV 화면에서 미국 시청 시간을 세분화합니다. 이 특정 측정은 The Gauge로 알려져 있으며, 최근 몇 년 동안 YouTube에 유리한 결과를 보여주었습니다. Google의 비디오 플랫폼은 일반적으로 단일 유통 업체 중 가장 큰 시청 시간 점유율을 차지함으로써 Netflix, Prime Video 및 Disney + 와 같은 라이벌을 이끌고 있습니다. 그러한 맥락을 염두에 두고 있더라도 2026년 8월호 The Gauge에서 YouTube는 특히"
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:05.633Z",
+      "fetchedAt": "2026-10-25T15:35:50.818Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:06.027Z",
+      "fetchedAt": "2026-10-25T15:35:51.239Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:06.070Z",
+      "fetchedAt": "2026-10-25T15:35:51.473Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:08.585Z",
+      "fetchedAt": "2026-10-25T15:35:55.072Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:08.879Z",
+      "fetchedAt": "2026-10-25T15:35:57.114Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -964,7 +961,7 @@
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:09.029Z",
+      "fetchedAt": "2026-10-25T15:35:57.140Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -972,24 +969,6 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
-        {
-          "title": "[Venture Insider의 글로벌 생존기] 미국 VC 40번 만났지만 투자유치는 0건…37번 반복된 질문",
-          "link": "https://www.venturesquare.net/1122627/",
-          "pubDate": "2026-10-25T09:00:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/insider-789x444.png",
-          "summary": "미국 VC 180곳에 콜드메일을 보내 40곳과 첫 미팅을 진행했지만 텀시트는 한 장도 받지 못했다. Venture Insider는 이 가운데 37번의 미팅이 투자금 회수(Exit)에 관한 같은 질문에서 끝났던 경험을 전한다. 투자자에게 기술과 시장을 설명하는 것만으로는... The post [Venture Insider의 글로벌 생존기] 미국 VC 40번 만났지만 투자유치는 0건…37번 반복된 질문 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "Exit전략",
-            "IR",
-            "VentureInsider",
-            "글로벌생존기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "중기부, 창업기업 규제 10개 과제 개선…R&D·벤처스튜디오·재창업 문턱 낮춘다",
           "link": "https://www.venturesquare.net/1122621/",
@@ -1061,9 +1040,27 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "블루포인트, 대덕 양자기업 4개사 미국 아이온큐·IBM 기술교류 지원…글로벌 공급망 진입 모색",
+          "link": "https://www.venturesquare.net/1122442/",
+          "pubDate": "2026-10-23T11:45:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/unnamed-29-696x522.jpg",
+          "summary": "블루포인트파트너스가 대덕 양자기업 4개사의 미국 아이온큐 및 IBM 방문과 기술교류를 지원했다. 옵티큐랩스, 센서뷰, 큐토모, 퀀텀넥서스는 이온트랩·초전도 양자컴퓨터의 시스템 구성과 기술 요구사항을 확인하고 자사의 부품 및 소프트웨어 기술을 소개했다. 이번 방문은 과학... The post 블루포인트, 대덕 양자기업 4개사 미국 아이온큐·IBM 기술교류 지원…글로벌 공급망 진입 모색 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "IBM",
+            "IonQ",
+            "대덕연구개발특구",
+            "딥테크스타트업",
+            "블루포인트"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:10.159Z",
+      "fetchedAt": "2026-10-25T15:35:58.645Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1140,16 +1137,16 @@
           "summaryKo": null
         },
         {
-          "title": "파주시, 청년 전월세 대출이자 지원사업 참여자 추가 모집 - 파주에서신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcVZYdWJBZjl6WWdNeHIwdzFXRjJodklqcFI3Z3ZHdTVOYUVzUjRLRGdMNlpDWHNoV3lOYlJGdHU1bmVURXd6aEdqY1FpRExERUhBczF5UGJDdDhaVjdLVXF0eUhSQmM?oc=5",
-          "pubDate": "2026-10-22T02:43:24.000Z",
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWhXTXpFU2N6bng2VlpZdHIyUnlBV1pYNjZNMm1BbzF0TnNuempHendEYlBLd0d2c1ZKeTJ1NHNVZDk0RnN0QVUxU0FUOENWdGR2RnR2M3N1LXVxNmdYU1RmZWhYUllpODM0Z0g2V043Wk9feTdIbm5YMDhNM1gtOGEzRm5jVUc4ZWtldXpuMA?oc=5",
+          "pubDate": "2026-10-18T08:10:37.000Z",
           "image": null,
-          "summary": "파주시, 청년 전월세 대출이자 지원사업 참여자 추가 모집 파주에서신문",
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 전남광주 제3기 지역자원 연계 청년창업 지원사업 모집 공고 인천광역시",
           "keywords": [
-            "파주시",
-            "청년",
-            "전월세",
-            "대출이자",
+            "내게",
+            "맞는",
+            "정책",
+            "지원",
             "지원사업"
           ],
           "isForeign": false,
@@ -1157,80 +1154,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T10:47:10.541Z",
+      "fetchedAt": "2026-10-25T15:35:59.145Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 1,
-      "change": "new"
-    },
-    {
-      "key": "모델",
-      "label": "모델",
-      "count": 3,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 6,
       "change": "down"
     },
     {
       "key": "2027년",
       "label": "2027년",
       "count": 3,
-      "rank": 8,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "special post",
       "label": "Special Post",
-      "count": 3,
-      "rank": 9,
-      "change": "down"
+      "count": 2,
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "국가창업시대",
       "label": "국가창업시대",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "글로벌",
+      "label": "글로벌",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
