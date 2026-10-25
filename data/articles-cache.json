@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-25T00:00:20.303Z",
+  "collectedAt": "2026-10-25T04:28:21.006Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“암 걸려 보험금 달랬더니 계약 해지”…2년 전 건강검진, ‘이게’ 빌미? [어쩌다 세상이]",
+          "link": "https://www.mk.co.kr/news/economy/12184955",
+          "pubDate": "2026-10-25T01:08:28.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/25/news-p.v1.20261023.82af79d5826f4a018eab25acdc301cbc_R.png",
+          "summary": "보험사 “추가검사 소견 숨겼다” 보험금 3000만원 지급 거절 법원 “고의·중과실 인정 어려워”간편보험에 가입할 때 받는 질문은 몇 개 되지 않습니다. 그중 하나가 ‘최근 3개월 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“돈 벌겠다며 서울 간 절친, 5년만에 봤더니”…연소득 격차 이렇게 난다고?",
+          "link": "https://www.mk.co.kr/news/economy/12184940",
+          "pubDate": "2026-10-25T00:09:29.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/25/rcv.NEWSIS.NEWSIS.20260812.NISI20260812_0021396040_R.jpg",
+          "summary": "2018년 수도권 이주한 청년 2023년 연소득 4820만원 집계 수도권 계속 살던 청년보다 더 벌어 옮긴 후 1~2년 소득 증가세 가팔라지방에서 수도권으로 옮긴 청년들의 소득이 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“강남 집 있어도 노후는 걱정되네요”…대기업 맞벌이 부부의 은퇴 고민 [퇴직금 들고 나왔습니다]",
           "link": "https://www.mk.co.kr/news/economy/12184934",
           "pubDate": "2026-10-24T23:47:37.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "유가는 치솟는데 … 내 원유선물 ETN, 뭐가 문제죠?",
-          "link": "https://www.mk.co.kr/news/economy/12184266",
-          "pubDate": "2026-10-24T20:00:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/23/news-p.v1.20261022.6694f82f3d03470d829f9c7a24460415_R.jpg",
-          "summary": "ETF 투자와 ETN 투자의 차이2022년 러시아의 우크라이나 침공에 이어 미국과 이란의 전쟁까지, 국제 정세가 불안해질 때마다 원유와 금을 비롯한 원자재 시장은 크게 출렁입니다...",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“원화값은 여전히 저평가입니다”…‘반도체 달러’에 1200원대 진입하나",
-          "link": "https://www.mk.co.kr/news/economy/12184774",
-          "pubDate": "2026-10-24T03:53:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/24/rcv.YNA.20261023.PYH2026102314360001300_R.jpg",
-          "summary": "위험회피 심리 커졌지만 1320원대 달러 매도세 지속에 추가 상승 전망도최근 인공지능(AI) 투자 우려와 국제유가 상승 등 원화 약세를 부추길 만한 대외 여건에도 원화값이 가파른 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:13.565Z",
+      "fetchedAt": "2026-10-25T04:28:13.805Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,8 +180,8 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-24T20:16:27.227Z",
-      "error": "HTTP 404"
+      "fetchedAt": "2026-10-25T04:28:13.966Z",
+      "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
       "name": "AI타임스 RSS",
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
-          "pubDate": "2026-10-24T20:38:59.000Z",
+          "title": "프랑스, 태양광 계약 조기 종료·매입가격 인하 제동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216557",
+          "pubDate": "2026-10-25T11:40:00.000Z",
           "image": null,
-          "summary": "순다르 피차이 구글 CEO가 클라우드 사업의 단기 매출을 일부 포기하더라도 첨단 AI 모델 개발에 컴퓨팅 자원을 우선 투입하겠다고 밝혔다. 연구진에게 충분한 연산 자원을 제공하는 것을 타협할 수 없는 원칙으로 제시하고, 실제로 클라우드 사업과 AI 연구 사이에서 자원을 조정하고 있다고 설명했다.피차이 CEO는 20일(현지시간) 공개된 알렉스 캔트로위츠의 ‘빅 테크놀로지 팟캐스트’ 인터뷰에서 “우리 클라우드 사업은 첨단 AI 개발을 지원하기 위해 컴퓨팅 자원을 조정하면서 단기 매출을 일부 포기하고 있다”고 말했다.구글의 컴퓨팅 배분에",
+          "summary": "프랑스 하원 경제위원회가 기존 태양광 전력구매계약을 조기 종료하거나 매입가격을 낮추려는 정부 계획에 제동을 걸었다. 2027년 예산안에서 관련 조항을 삭제하는 수정안을 가결했지만, 본회의와 상원 심의가 남아 있어 실제 계약 조건 변경 여부는 아직 확정되지 않았다.프랑스 하원에 지난 15일(현지시간) 제출된 수정안 'II-CE172'의 처리 기록에 따르면 경제위원회는 정부의 재생에너지 지원제도 개편 방안을 담은 예산안 제82조를 삭제하는 수정안을 가결했다. 해당 수정안은 쥘리 라에르노에스(Julie Laernoes) 의원이 대표 발의",
           "keywords": [
-            "피차이",
-            "매출",
-            "포기하더라도",
-            "첨단",
-            "AI"
+            "프랑스",
+            "태양광",
+            "계약",
+            "조기",
+            "종료"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
-          "pubDate": "2026-10-24T19:53:21.000Z",
+          "title": "선거 후보 선택 강요하자...그록은 공화당, 오픈AI 모델은 민주당 선택",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216623",
+          "pubDate": "2026-10-25T11:17:24.000Z",
           "image": null,
-          "summary": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정을 위반했다고만 설명했지만, 조사 대상은 아스트라의 내부 설계에 관한 보도와 외부 안전 연구자에게 보낸 '시그널(Signal)' 메시지였던 것으로 나타났다. 다만 연구원들은 기밀 유출을 부인하고 있어 실제 유출 여부와 해고의 정당성을 둘러싼 논란은 이어지고 있다.월스트리트저널(WSJ)은 22일(현지시간) 오픈AI가 토메크 코르박과 미키타",
+          "summary": "미국 중간선거를 앞두고 AI 모델의 정치적 편향을 분석한 연구에서 일론 머스크의 '그록'은 공화당 후보를, 오픈AI의 'GPT'는 민주당 후보를 압도적으로 많이 선택한 것으로 나타났다. 500여개 선거구를 대상으로 진행한 실험에서 두 모델의 선택이 일치한 비율은 10%에도 미치지 못했다.대화형 AI 연구·설계 스튜디오 코노보(Convovo)가 23일(현지시간) 공개한 연구에 따르면, 스페이스XAI의 '그록 4.7'은 특정 후보를 선택하라는 요구에 공화당 후보를 92%의 응답에서 추천했다.반면 오픈AI의 'GPT-6.1 솔'은 97%",
           "keywords": [
-            "오픈AI",
-            "연구원",
-            "3명",
-            "해고",
-            "순환"
+            "선거",
+            "후보",
+            "선택",
+            "강요하자",
+            "그록은"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
-          "pubDate": "2026-10-24T19:13:05.000Z",
+          "title": "젠슨 황 시연에 미니로봇 주문 급증…“올해 가장 많이 팔릴 수도”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216626",
+          "pubDate": "2026-10-25T10:50:49.000Z",
           "image": null,
-          "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개했다고 밝혔다. 중단 11일 만에 작업을 재개했으며, 이 사실은 이날 공개했다.중단 계기는 내부 연구 모델이 인터넷 주소를 처리하는 DNS 서비스의 설정 오류를 악용해 외부 챗봇에",
+          "summary": "젠슨 황 엔비디아 CEO가 무대에서 함께 놀아준 소형 로봇 ‘마이크로덕’이 사전 주문 2만대 돌파를 앞뒀다. 뒤뚱뒤뚱 걷고 명령에 따라 공중제비까지 도는 모습으로 관심을 끌면서, 개발사 측은 올해 가장 많이 팔리는 로봇이 될 수 있다는 기대를 내놨다.클렘 델랑그 허깅페이스 CEO는 22일(현지시간) 황 CEO가 독일 베를린에서 열린 GTC 기조연설에서 마이크로덕을 시연한 뒤 사전 주문이 늘었다고 전했다.무대에 등장한 로봇들은 작은 발을 구르며 전자음을 내고, 앉거나 잠든 듯 쓰러지는 동작을 선보였다. 황 CEO의 말에 맞춰 공중제비",
           "keywords": [
-            "오픈AI",
-            "보안",
-            "우회로",
-            "중단했던",
-            "첨단"
+            "젠슨",
+            "시연에",
+            "미니로봇",
+            "주문",
+            "급증"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216614",
-          "pubDate": "2026-10-24T18:37:43.000Z",
+          "title": "머스크 “AI 에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216624",
+          "pubDate": "2026-10-25T10:08:35.000Z",
           "image": null,
-          "summary": "SK그룹이 국내에 초대형 AI 데이터센터를 구축하기 위해 글로벌 빅테크 기업과 금융투자자들을 상대로 자금 조달 협상을 진행하고 있다. 첫 단계인 5기가와트(GW) 규모 데이터센터 구축에만 3500억달러(약 464조원)가 필요할 것으로 추산했다. 막대한 투자비를 자체적으로 부담하는 대신 입주 기업과 외부 투자자들에게 분담시키고, 실제 AI 수요에 맞춰 투자 규모를 조절한다는 계획이다.정석근 SK텔레콤 AI CIC장 겸 SK하이퍼 대표는 23일(현지시간) 블룸버그TV와의 인터뷰에서 2035년까지 국내에 총 15GW 규모의 AI 데이터센",
+          "summary": "일론 머스크 CEO가 AI 에이전트의 증가로 3~5년 안에 통신 대역폭 수요가 현재의 1000배에 이를 것이라고 전망했다. 사람보다 많은 AI 에이전트가 각각 사람보다 많은 데이터를 주고받게 된다는 설명이다. 스페이스X는 최근 미국 전역의 저주파 대역 주파수 인수 계약에 이어 기지국 부지 최소 8만곳의 이용권 확보를 추진하며 위성과 지상을 연결하는 통신망 구축에 나섰다.머스크 CEO는 지난 20일(현지시간) 열린 스페이스X 3분기 실적 발표에서 “앞으로 3~5년 안에 지금의 1000배에 달하는 대역폭 수요가 생길 것으로 생각한다”고",
           "keywords": [
-            "SK",
+            "머스크",
             "AI",
-            "데이터센터",
-            "5GW에",
-            "464조"
+            "에이전트로",
+            "통신",
+            "수요"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
-          "pubDate": "2026-10-24T18:03:54.000Z",
+          "title": "미·우크라 신경전 끝에 스타링크 정상화…머스크는 “약관 위반” 주장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216622",
+          "pubDate": "2026-10-25T09:55:00.000Z",
           "image": null,
-          "summary": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서비스, 즉 '관리형 클로드 서비스'를 출시했다고 밝혔다. 이번 서비스는 기존 구글 클라우드 IAM(Identity and Access Management) 인증 정보를 지원하며,",
+          "summary": "미국과 열흘가량 신경전을 벌인 끝에 우크라이나군의 스타링크·스타쉴드 위성통신 서비스가 정상화됐다. 드론 작전과 방공에 차질을 빚었던 우크라이나는 미국의 지원에 감사를 표했지만, 일론 머스크 CEO는 우크라이나군이 이용약관을 위반했다고 주장했다.볼로디미르 젤렌스키 우크라이나 대통령은 24일(현지시간) 스페이스X의 스타링크와 군사용 서비스인 스타쉴드가 제한 이전 수준으로 복구됐다고 밝혔다. 우크라이나 국방부도 시속 400㎞ 이상으로 이동하는 장비에서 연결이 안정적으로 유지된다고 설명했다.젤렌스키 대통령은 이날 X를 통해 밤사이 복구가",
           "keywords": [
-            "앤트로픽",
-            "구글",
-            "클라우드서",
-            "최신",
-            "기능"
+            "우크라",
+            "신경전",
+            "끝에",
+            "스타링크",
+            "정상화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:14.831Z",
+      "fetchedAt": "2026-10-25T04:28:15.072Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI에서 포워드 배포 엔지니어링의 의미"
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:14.990Z",
+      "fetchedAt": "2026-10-25T04:28:15.259Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,91 +357,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Goose - 힙 없이 메모리 안전성을 제공하는 시스템 프로그래밍 언어",
-          "link": "https://news.hada.io/topic?id=35942",
-          "pubDate": "2026-10-24T22:38:03.000Z",
+          "title": "11175 kHz에서 수신한 미국 핵전력의 긴급행동메시지를 듣고 읽기",
+          "link": "https://news.hada.io/topic?id=35955",
+          "pubDate": "2026-10-25T03:32:57.000Z",
           "image": null,
-          "summary": "Goose는 동적 값을 컴파일러가 관리하는 데이터 스택에 인라인으로 저장하는 시스템 언어로, 힙 할당기, GC, 참조 카운팅, 수명 표기 없이 메모리 안전성을 제공함 배열이 커져도 기존 참조가 유지되며, 컴파일러가 참조의 소유 변수와 수명을 추론해 소유자보다 오...",
+          "summary": "Missileer Watch는 미국 핵전력의 긴급행동메시지(EAM)를 단파로 수신해 녹음과 문자 전사본을 제공하며, 실시간 청취와 직접 받아쓰기도 지원함 EAM은 암호화된 메시지로, 외부인은 방송을 듣고 문자를 기록할 수 있지만 내용을 해독할 수는 없음 주 수신...",
           "keywords": [
-            "Goose",
-            "없이",
-            "메모리",
-            "안전성을",
-            "제공하는"
+            "11175",
+            "kHz에서",
+            "수신한",
+            "미국",
+            "핵전력의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: 내 비트코인을 훔쳐보세요",
-          "link": "https://news.hada.io/topic?id=35941",
-          "pubDate": "2026-10-24T22:35:03.000Z",
+          "title": "미국 미디어, 영화, 예술 일자리 20만 개 감소, 얼마나 AI 때문일까?",
+          "link": "https://news.hada.io/topic?id=35952",
+          "pubDate": "2026-10-25T02:33:45.000Z",
           "image": null,
-          "summary": "서버에 숨겨진 약 500달러 상당의 비트코인 키를 찾아 지갑을 먼저 확보하는 사람이 이기는 도전임 키는 PHP 사용자 계정에서 print-flag 바이너리를 통해 접근할 수 있음 서버의 PHP 버전은 PHP2SHELL CVE들이 공개되기 이...",
+          "summary": "미국 창작 산업 일자리가 지난 4년간 20만 개 이상, 최근 1년간 약 5만 개 줄어듦. 전반적인 경기침체 없이 디지털 예술 전반에서 고용이 감소하는 반면, 대면 엔터테인먼트는 성장하고 있음 AI로 인한 감소분을 정확히 분리하기는 어려움. 미디어 기업이 AI 사용을...",
           "keywords": [
-            "Show",
-            "HN:",
-            "비트코인을",
-            "훔쳐보세요"
+            "미국",
+            "미디어",
+            "영화",
+            "예술",
+            "일자리"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "덴마크 정부, MS Office 퇴출 계획을 조용히 철회",
-          "link": "https://news.hada.io/topic?id=35939",
-          "pubDate": "2026-10-24T21:41:28.000Z",
+          "title": "알츠하이머 연구의 돌파구: 뇌 플라크 제거 없이 수면 2시간 회복",
+          "link": "https://news.hada.io/topic?id=35951",
+          "pubDate": "2026-10-25T01:39:41.000Z",
           "image": null,
-          "summary": "덴마크 디지털화부가 Microsoft Office를 오픈소스 Collabora로 대체할 수 있는지 시험하던 시범사업을 중단 2025년 여름 직원 38명이 참여해, 덴마크 기업 cBrain의 업무 시스템 F2에 연결된 Collabora로 문서를 처리 후속 보도에 따르면 2026년...",
+          "summary": "알츠하이머 유사 병리를 가진 생쥐에서 뇌 면역세포를 일시적으로 제거하자, 아밀로이드 플라크가 줄지 않았는데도 하루 수면이 2시간 이상 늘어남 플라크에 반응하는 미세아교세포(microglia) 의 과도한 염증 반응이 수면 장애에 직접 기여함을 ...",
           "keywords": [
-            "덴마크",
-            "정부",
-            "MS",
-            "Office",
-            "퇴출"
+            "알츠하이머",
+            "연구의",
+            "돌파구:",
+            "플라크",
+            "제거"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GPU-unlock - RTX 30 시리즈의 AI 연산 성능 제한을 해제하는 Linux 모듈",
-          "link": "https://news.hada.io/topic?id=35938",
-          "pubDate": "2026-10-24T21:38:28.000Z",
+          "title": "우리가 만드는 소프트웨어에 더 큰 야심을 가져야 한다",
+          "link": "https://news.hada.io/topic?id=35950",
+          "pubDate": "2026-10-25T01:36:41.000Z",
           "image": null,
-          "summary": "RTX 30 시리즈에 걸린 FP16/BF16 연산의 명령 발행 속도 제한을 해제해, 전문가용 제품 수준의 처리 속도를 활용하는 Linux 커널 모듈 NVIDIA 드라이버가 GPU를 초기화하기 전에 적용하므로 드라이버 자체를 수정하거나 업데이트 때마다 수동 패치할 필요가 없음...",
+          "summary": "AI로 개발 비용이 낮아지면서, 혼자 감당하기 어려웠던 대형 프로젝트뿐 아니라 시간 대비 가치가 없어 포기했던 개인용 도구도 만들 수 있게 됨 Dan Luu는 정규식 엔진과 ripgrep 포크, Rust 개발 도구를 개인 환경에서 작동하는 수준까지 몇 시간의 직접 투입으로 구현",
           "keywords": [
-            "GPU",
-            "unlock",
-            "RTX",
-            "30",
-            "시리즈의"
+            "우리가",
+            "만드는",
+            "소프트웨어에",
+            "야심을",
+            "가져야"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "기술업계 밖에서는 아직 AI 투자 성과가 보이지 않는다",
-          "link": "https://news.hada.io/topic?id=35937",
-          "pubDate": "2026-10-24T21:35:28.000Z",
+          "title": "AI가 쓴 글은 왜 이해하기 어려울까?",
+          "link": "https://news.hada.io/topic?id=35947",
+          "pubDate": "2026-10-25T00:37:55.000Z",
           "image": null,
-          "summary": "미국 대형 투자회사 Apollo의 분석으로,대규모 AI 투자와 높은 기대에도 미국 기술업계 밖에서는 매출과 이익률 개선의 증거가 아직 보이지 않음 미국 대형 기술주 Mag 7의 직원당 매출과 이익률은 상승하지만, 이들을 제외한 S&P 500 기업 493곳에서는 정체돼...",
+          "summary": "AI가 작성한 영어 대화와 코딩 관련 설명, 에세이를 분석한 결과, 사람이 읽고 이해하는 데 부담을 주는 표현이 더 자주 나타남 조사한 주요 모델 9개 모두 사람처럼 행동하는 사물을 묘사하거나 낯선 단어 조합을 사용하는 경향이 강했고, 대화에서는 명사를 길게...",
           "keywords": [
-            "기술업계",
-            "밖에서는",
-            "아직",
-            "AI",
-            "투자"
+            "AI가",
+            "글은",
+            "이해하기",
+            "어려울까"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:15.596Z",
+      "fetchedAt": "2026-10-25T04:28:16.221Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +535,7 @@
           "summaryKo": "매달 Nielsen은 모든 주요 미디어 유통업체의 TV 화면에서 미국 시청 시간을 세분화합니다. 이 특정 측정은 The Gauge로 알려져 있으며, 최근 몇 년 동안 YouTube에 유리한 결과를 보여주었습니다. Google의 비디오 플랫폼은 일반적으로 단일 유통 업체 중 가장 큰 시청 시간 점유율을 차지함으로써 Netflix, Prime Video 및 Disney + 와 같은 라이벌을 이끌고 있습니다. 그러한 맥락을 염두에 두고 있더라도 2026년 8월호 The Gauge에서 YouTube는 특히"
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:15.766Z",
+      "fetchedAt": "2026-10-25T04:28:16.457Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:15.944Z",
+      "fetchedAt": "2026-10-25T04:28:16.629Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:16.006Z",
+      "fetchedAt": "2026-10-25T04:28:16.687Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +789,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:18.268Z",
+      "fetchedAt": "2026-10-25T04:28:18.790Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -797,6 +797,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "젠슨 황 무대에 오른 오리 로봇, 선주문 2만 대 돌파",
+          "link": "https://platum.kr/archives/296953?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%25a0%25ec%258a%25a8-%25ed%2599%25a9-%25eb%25ac%25b4%25eb%258c%2580%25ec%2597%2590-%25ec%2598%25a4%25eb%25a5%25b8-%25ec%2598%25a4%25eb%25a6%25ac-%25eb%25a1%259c%25eb%25b4%2587-%25ec%2584%25a0%25ec%25a3%25bc%25eb%25ac%25b8-2%25eb%25a7%258c-%25eb%258c%2580-%25eb%258f%258c%25ed%258c%258c",
+          "pubDate": "2026-10-24T08:29:51.000Z",
+          "image": null,
+          "summary": "무대 위에 오리 모양 로봇 네 마리가 종종걸음으로 걸어 나왔다. 젠슨 황 엔비디아 최고경영자(CEO)가 “앉아”, “일어나”, “낮잠 자”라고 말하자 로봇들은 앉고, 일어서고, 바닥에 벌렁 드러누웠다. 한 마리는 무리에서 떨어져 있다가 넘어졌고, 황 CEO가 “집중해, 이리 와”라고 부르자 일어나 다가와 앉았다. 21일(현지시간) 독일 베를린 템포드롬에서 열린 ‘엔비디아 GTC 베를린 2026’ 기조연설 막바지에 펼쳐진 장면이다. 이 로봇은 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "마이크로덕",
+            "엔비디아",
+            "엔비디아 GTC 베를린",
+            "젠슨 황",
+            "폴른 로보틱스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AI 기업들 상장 줄연기, 앤트로픽은 11월 IPO 추진",
           "link": "https://platum.kr/archives/296950?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ea%25b8%25b0%25ec%2597%2585%25eb%2593%25a4-%25ec%2583%2581%25ec%259e%25a5-%25ec%25a4%2584%25ec%2597%25b0%25ea%25b8%25b0-%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd%25ec%259d%2580-11%25ec%259b%2594-ipo-%25ec%25b6%2594%25ec%25a7%2584",
@@ -857,26 +875,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "AI가 찾은 보안 취약점, 실제 서비스에서 검증까지… 에임인텔리전스, 오픈AI 보안 모델 연계 서비스 공개",
-          "link": "https://platum.kr/archives/296923?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25ec%25b0%25be%25ec%259d%2580-%25eb%25b3%25b4%25ec%2595%2588-%25ec%25b7%25a8%25ec%2595%25bd%25ec%25a0%2590-%25ec%258b%25a4%25ec%25a0%259c-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4%25ec%2597%2590%25ec%2584%259c-%25ea%25b2%2580%25ec%25a6%259d%25ea%25b9%258c%25ec%25a7%2580-%25ec%2597%2590",
-          "pubDate": "2026-10-23T06:31:18.000Z",
-          "image": null,
-          "summary": "AI가 코드에서 찾아낸 보안 취약점이 실제 서비스에서도 위험한지 검증하고, 고칠 방법까지 정리해 주는 보안 평가 서비스가 나왔다. AI 보안 기업 에임인텔리전스는 자사의 AI 공격 시험 솔루션 ‘스팅어’와 오픈AI의 사이버보안 프로그램 ‘데이브레이크’를 연계한 애플리케이션 보안 평가 서비스를 공개하고, 오픈AI와의 사이버보안 협력을 넓힌다고 23일 밝혔다. 이 서비스는 AI 애플리케이션과 웹 서비스, API를 대상으로 한다. 먼저 데이브레이크의 방어용 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "데이브레이크",
-            "스팅어",
-            "에임인텔리전스",
-            "오픈AI"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:18.554Z",
+      "fetchedAt": "2026-10-25T04:28:19.039Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -962,7 +963,7 @@
           "summaryKo": "TechCrunch가 피델리티 프라이빗 셰어즈 (Fidelity Private Shares) 와 협력하여 주최하는 이 종일 행사는 자금 조달 및 AI를 넘어 고객 찾기, 팀 구성, 피치 선명화, 창업자 리더십 개발, 전통적인 스타트업 허브 안팎의 기업 확장의 현실을 탐구합니다."
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:18.651Z",
+      "fetchedAt": "2026-10-25T04:28:19.139Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1061,7 +1062,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:19.775Z",
+      "fetchedAt": "2026-10-25T04:28:20.367Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1104,23 +1105,6 @@
           "summaryKo": null
         },
         {
-          "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
-          "pubDate": "2026-10-19T07:00:00.000Z",
-          "image": null,
-          "summary": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 인천광역시",
-          "keywords": [
-            "2026년",
-            "2차",
-            "중소기업",
-            "기술거래",
-            "기반조성사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "경과원, 클라우드 기반 보안서비스 도입 지원사업 참여 기업 모집 - 기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VmpoZE5TdHFVLVR5ckpWNTdqTnk2ME9vZUFfSFNhQ1U2R19ZVmN6ampwMnB3SHh5ZnVudGRaakZ0aDFpTzFrXzVvbm91WHBlYUo5RmV2ZDRGRkk1dHVMN0NyX2VhMnNHSHAyb1VXTQ?oc=5",
           "pubDate": "2026-10-21T08:43:07.000Z",
@@ -1138,97 +1122,114 @@
           "summaryKo": null
         },
         {
-          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
-          "pubDate": "2026-10-19T07:20:00.000Z",
+          "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
+          "pubDate": "2026-10-19T07:00:00.000Z",
           "image": null,
-          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
+          "summary": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 인천광역시",
           "keywords": [
-            "전북중기청",
+            "2026년",
+            "2차",
+            "중소기업",
+            "기술거래",
+            "기반조성사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 - 헬로tv뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdXRiMzlfNjVMOVpPUVVSOVplSUI4NE50OVBwcU5SV2lybWtzLWlKRlBudjdoaXNTbmRnZTRMemJFRjZOSzVhblhXZWJQcDFQQjlsT2hoc2JPcGloME9FQno1ZklVNFNMNkRRVDJoWjdiY2g0Q3fSAXZBVV95cUxQVnV0YjM5XzY1TDlaT1FVUjlaZUlCODROdDlQcHFOUldpcm1rcy1pSkZQbnY3aGlzU25kZ2U0THpiRUY2Tks1YW5YV2ViUHAxUEI5bE9oaHNiT3BpaDBPRUJ6NWZJVTRTTDZEUVQyaFo3YmNoNEN3?oc=5",
+          "pubDate": "2026-10-21T06:17:46.000Z",
+          "image": null,
+          "summary": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 헬로tv뉴스",
+          "keywords": [
+            "창원시",
             "2027년",
-            "전통시장",
-            "상점가",
-            "활성화"
+            "농촌형",
+            "보육서비스",
+            "지원"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-25T00:00:20.296Z",
+      "fetchedAt": "2026-10-25T04:28:21.001Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "오픈ai",
-      "label": "오픈AI",
-      "count": 3,
-      "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "앤트로픽",
-      "label": "앤트로픽",
-      "count": 2,
-      "rank": 3,
-      "change": "up"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 4,
+      "rank": 1,
       "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
+      "rank": 5,
       "change": "up"
     },
     {
-      "key": "상점가",
-      "label": "상점가",
-      "count": 3,
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
+      "rank": 6,
+      "change": "new"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
+      "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "국가창업시대",
+      "label": "국가창업시대",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "글로벌",
+      "label": "글로벌",
+      "count": 2,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 3,
+      "key": "미국",
+      "label": "미국",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
