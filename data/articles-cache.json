@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-27T03:49:27.978Z",
+  "collectedAt": "2026-10-27T09:37:18.748Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "“5년 동안 손가락 빨면서 살라고?”…공무원들 분노케한 연금법 ‘합헌’",
-          "link": "https://www.mk.co.kr/news/economy/12186727",
-          "pubDate": "2026-10-27T01:22:57.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20261027.80fd601070db41f499a35878a4ee8db3_R.jpg",
-          "summary": "전국공무원노조 제기 사건 합헌4·위헌4 의견에 ‘합헌’ “퇴직연금 감액하며 조기에 받을수 있어 소득공백 없다”퇴직연금 수령 나이를 65세까지 단계적으로 늦춰 60세 정년퇴직 이후 ..",
+          "title": "내년 민간보조금·R&D 실집행 관리체계 신설…분기별 점검",
+          "link": "https://www.mk.co.kr/news/economy/12187435",
+          "pubDate": "2026-10-27T08:46:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20260630.1783fd0cfb6442e2914f5d51723500de_R.jpg",
+          "summary": "상반기 교부, 실제 집행은 절반 수준 2030년까지 실집행 관리대상 확대정부가 내년부터 민간보조금과 연구개발(R&D) 출연금을 시작으로 ‘실집행’ 중심의 재정집행 체계를 도입한다...",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "하나카드, 해외 결제대금 달러로 직접 낸다…환전 수수료 절감",
-          "link": "https://www.mk.co.kr/news/economy/12186722",
-          "pubDate": "2026-10-27T01:16:36.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20261027.b7e805bc53ee4285aed1f5df42c444ec_R.png",
-          "summary": "‘달러페이 법인카드’로 원화 환산 생략 해외 거래 잦은 기업 수수료 부담 낮춰하나카드가 해외 카드 이용대금을 달러로 직접 결제할 수 있는 ‘달러페이 법인카드’를 통해 기업 고객의 ..",
+          "title": "3분기 GDP 1% '깜짝성장' … 한국은행 \"올 4%도 가능\"",
+          "link": "https://www.mk.co.kr/news/economy/12187424",
+          "pubDate": "2026-10-27T08:43:45.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110101000005_S00.jpg",
+          "summary": "반도체 수출과 설비투자 호조에 힘입어 3분기 한국 경제가 1.0% 성장했다. 4분기 성장률이 0%에 그치더라도 연간 성장률은 기존 전망치(3.3%)를 웃도는 3.6%에 이를 것으로..",
           "keywords": [
             "경제"
           ],
@@ -67,11 +67,11 @@
           "summaryKo": null
         },
         {
-          "title": "“환전하면 경품까지”…외화예금 최대에 은행권 고객 쟁탈전",
-          "link": "https://www.mk.co.kr/news/economy/12186716",
-          "pubDate": "2026-10-27T01:13:11.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20261027.f97dc49ab7f54cb6b6fe0eb8dcd31ccf_R.png",
-          "summary": "달러예금 1199억달러로 사상 최대 SC제일·신한銀, 환전 고객에 경품 외환거래 확대해 비이자이익 확보은행들이 외환거래 고객 확보에 적극 나서고 있다. 수출기업의 달러 유입과 해외..",
+          "title": "반도체·설비투자가 이끈 '1% 성장'… 소비자는 지갑 더 닫았다",
+          "link": "https://www.mk.co.kr/news/economy/12187413",
+          "pubDate": "2026-10-27T08:43:25.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110105000003_L00.jpg",
+          "summary": "수출, 설비투자, 정부소비 '3두마차'가 올해 3분기 한국 경제를 이끌며 시장 예상을 뛰어넘는 성장률 성적표를 받아들었다. 27일 한국은행이 발표한 3분기 실질 국내총생산(GDP)..",
           "keywords": [
             "경제"
           ],
@@ -80,11 +80,11 @@
           "summaryKo": null
         },
         {
-          "title": "해킹피해 발표는 119명, 실제 2210명…KB국민은행, 예금잔액·대출내역도 샜다",
-          "link": "https://www.mk.co.kr/news/economy/12186713",
-          "pubDate": "2026-10-27T01:09:18.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/27/rcv.NEWS1.NEWS1.20261002.2026-10-02T152624_1008140124_SOCIETY_I_R.jpg",
-          "summary": "기존 사고 재검증 중 추가 확인 초기 파악 규모서 2091명 늘어 보험업권서도 침해사고 발생 확인KB국민은행의 해킹 정보유출 피해 규모가 당초 발표한 119명에서 2210명으로 1..",
+          "title": "정부 \"올해 국민소득 4만달러 진입\"",
+          "link": "https://www.mk.co.kr/news/economy/12187412",
+          "pubDate": "2026-10-27T08:43:24.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110105000002_L00.jpg",
+          "summary": "이형일 부총리 겸 재정경제부 장관이 한국의 올해 1인당 국민총소득(GNI)이 4만달러대에 진입할 것으로 보인다고 27일 밝혔다. 달러당 원화값이 오르고 경상성장률 전망치가 오른 데..",
           "keywords": [
             "경제"
           ],
@@ -93,11 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "삼성생명, 해외 신종자본증권 2조원 발행…보험업계 역대 최대 규모",
-          "link": "https://www.mk.co.kr/news/economy/12186711",
-          "pubDate": "2026-10-27T01:07:26.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20261027.30f1bb0d5d5e44ab8601d93865729a32_R.png",
-          "summary": "美·유럽 장기투자자 49% 참여삼성생명이 국내 보험업계 최대 규모인 15억달러(약 2조원)의 해외 신종자본증권 발행을 마쳤다. 글로벌 금융시장 변동성이 확대된 가운데 대규모 자금 ..",
+          "title": "\"AI 전력·용수 수요 폭증 … 자원관리 능력이 경쟁력\"",
+          "link": "https://www.mk.co.kr/news/economy/12187410",
+          "pubDate": "2026-10-27T08:42:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110110000006_M00.jpg",
+          "summary": "김상협 글로벌녹색성장기구(GGGI) 사무총장이 인공지능(AI) 시대 국가 경쟁력의 핵심 요소로 녹색성장이 부각되고 있다고 강조했다. 김 총장은 27일 개막한 글로벌녹색성장주간 행사..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:13.199Z",
+      "fetchedAt": "2026-10-27T09:37:08.926Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:13.316Z",
+      "fetchedAt": "2026-10-27T09:37:08.993Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "래블업, 공모가 1만9000원 확정...11월3일 코스닥 데뷔",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216696",
-          "pubDate": "2026-10-27T12:38:19.000Z",
+          "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216712",
+          "pubDate": "2026-10-27T18:20:31.000Z",
           "image": null,
-          "summary": "AI 인프라 전문 래블업(대표 신정규)이 오는 11월3일 코스닥 시장에 상장한다. 공모가는 1만9000원(공모금액 414억 원)으로 확정됐다.지난 19일까지 진행된 기관투자자 대상 수요예측에는 총 1129개 기관이 참여해 284.53대 1의 경쟁률을 기록했고, 수요예측 기간 중 글로벌 AI 인프라 투자에 대한 시장 우려와 국내 증시 변동성 확대 등이 종합적으로 반영돼 희망 밴드 하단으로 공모가가 결정됐다.회사 측은 수요예측 과정에서 국내 주요 자산운용사와 해외 우량 기관투자자들이 래블업의 AI 인프라 소프트웨어 경쟁력과 중장기 성장",
+          "summary": "AI 코딩 에이전트의 작업 환경을 복잡하게 구성해도 코드 작성 정확도는 거의 높아지지 않지만, 추론 비용은 최대 3배까지 늘어날 수 있다는 연구 결과가 나왔다. 모델을 둘러싼 도구와 실행 절차 등 '하네스'를 정교하게 설계하는 것보다 불필요한 지시문과 도구 정의를 줄이는 편이 비용 효율에 더 큰 영향을 줄 수 있다는 분석이다.중국 산둥대와 미국 UC버클리 연구진은 최근 온라인 아카이브에 공개한 연구에서 앤트로픽의 '클로드 코드'와 오픈소스 도구 '오픈코드', 최소한의 기능으로 구성된 '미니-SWE-에이전트(mini-SWE-agent",
           "keywords": [
-            "래블업",
-            "공모가",
-            "1만9000원",
-            "확정",
-            "11월3일"
+            "성능은",
+            "그대로",
+            "비용은",
+            "최대",
+            "3배"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "MS, 비용 효율화·AI 투자 위해 전 세계 임직원 4분의 1 명예퇴직 시작",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216700",
-          "pubDate": "2026-10-27T12:16:19.000Z",
+          "title": "난베이지, 33B 오픈소스 AI 모델 공개...코딩 벤치마크서 '큐원3.8-27B' 앞서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216711",
+          "pubDate": "2026-10-27T18:03:17.000Z",
           "image": null,
-          "summary": "마이크로소프트(MS)가 전 세계 임직원의 4분의 1이 넘는 약 6만명을 대상으로 자발적 퇴직 프로그램을 시작했다. 급증하는 AI 인프라 투자에 따라 인력 구조를 조정해 비용 효율성을 높이려는 의도다.MS는 26일(현지시간) 미국, 캐나다, 영국, 인도에서 일부 직원을 대상으로 ‘자발적 퇴직 제안(Voluntary Exit Offer)’을 시행한다고 밝혔다.대상은 사내 직급 체계상 레벨 70 이하로, 부사장급까지 포함된다. MS는 지난 6월 말 기준 전 세계 정규직 직원 22만3000명을 고용하고 있어, 이번 프로그램의 대상 규모는",
+          "summary": "중국 난베이지 LLM 연구소가 코딩과 업무 자동화를 수행하는 에이전트형 AI 모델 ‘난베이지4.3-33B(Nanbeige4.3-33B)’를 공개했다. 330억개 매개변수를 갖춘 오픈소스 모델로, 연구소 자체 평가에서 코딩과 사무 작업 관련 벤치마크 다수에서 알리바바의 '큐원3.8-27B' 등 비슷한 규모의 경쟁 모델을 앞섰다.중국 대형 채용 플랫폼 보스 직핀(BOSS Zhipin)이 운영하는 난베이지는 24일 난베이지4.3-33B를 AI 모델 공유 플랫폼 허깅페이스에 공개했다.모델은 영어와 중국어를 모두 지원하며, 상업적 이용과 연",
           "keywords": [
-            "MS",
-            "비용",
-            "효율화",
+            "난베이지",
+            "33B",
+            "오픈소스",
             "AI",
-            "투자"
+            "모델"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216582",
-          "pubDate": "2026-10-27T09:00:00.000Z",
+          "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216729",
+          "pubDate": "2026-10-27T17:50:00.000Z",
           "image": null,
-          "summary": "테디노트의 LangGraph 에이전트 비법노트이경록·김태한·임한택·최재훈·강민석·김성연 | 리코멘드2026년 7월 6일추천이유저자들은 LangGraph를 활용해 단순 챗봇을 넘어 도구를 사용하고 협업하는 실무급 에이전트를 설계·구축하는 방법을 단계적으로 제시합니다. 상태 관리, 워크플로 그래프화, 멀티에이전트 패턴까지 현장에서 검증된 실전 기법을 담았습니다.상세보기 국내에서 랭체인을 공부해 본 개발자라면 '테디노트'라는 이름을 한 번쯤 지나쳤을 가능성이 크다. 리코멘드가 지난 7월 6일 펴낸 『테디노트의 LangGraph 에이전트",
+          "summary": "네이버·엔비디아·브룩필드 3사가 추진하는 1기가와트(GW)급 글로벌 AI 인프라 사업이 본격화될 전망이다.네이버(대표 최수연)는 브룩필드와 90억달러(약 12조원) 규모의 컴퓨팅 인프라 확보 계약을 체결해 엔비디아의 전략적 지분 투자를 위한 선결 조건을 충족했다고 27일 밝혔다.이에 따라 네이버는 엔비디아를 대상으로 한 제3자 배정 유상증자 절차를 조속히 마무리할 예정이다. 유상증자가 완료되면 엔비디아는 네이버 3대 주주에 오르며 3사가 공동 추진하는 1GW급 AI 팩토리 사업도 본격적인 실행 단계에 들어간다.브룩필드는 특수목적법인",
           "keywords": [
-            "AI리더의",
-            "서가",
-            "테디노트의",
-            "LangGraph",
-            "에이전트"
+            "네이버",
+            "브룩필드와",
+            "12조원",
+            "인프라",
+            "계약"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격  낮춰",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216690",
-          "pubDate": "2026-10-27T08:01:41.000Z",
+          "title": "전남, 총인구 대비 ‘이민자 2세’ 비중 전국 최고…주민 90명 중 1명",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216723",
+          "pubDate": "2026-10-27T17:44:37.000Z",
           "image": null,
-          "summary": "오픈AI가 컴퓨터 작업 성능을 높이고 이용 비용을 낮춘 ‘GPT-6.1 테라’를 출시했다. 문서 처리와 코딩 등 반복 업무를 대규모로 자동화하려는 기업·개발자 수요를 겨냥했다. API 가격을 ‘GPT-6.1 솔’의 절반으로 책정하고, 외부 평가에서도 작업당 비용과 환각을 줄여 비용 대비 성능 경쟁력을 강화했다.오픈AI는 26일(현지시간) 공식 블로그를 통해 GPT-5.6 테라의 후속 모델을 공개했다. 송장 정보를 읽어 회계 프로그램에 입력하거나 도면을 해석하는 등 반복적인 컴퓨터 업무를 주요 활용 대상으로 제시했다.핵심은 화면 속",
+          "summary": "전남에 거주하는 ‘이민자 2세’가 2만명에 육박한 것으로 집계됐다. 전체 인구에서 차지하는 비중은 1.12%로, 전국 17개 시도 가운데 가장 높았다.국가데이터처가 26일 발표한 ‘2025년 이주배경인구 통계 결과’의 시도별 자료를 분석한 결과, 전남의 이민자 2세는 1만9838명이었다.전남 총인구 177만8545명으로 나누면 주민 약 90명 중 1명꼴이다. 통계 기준일은 지난해 11월1일이며, 지역 비교는 광주와 전남을 구분한 원자료의 17개 시도를 기준으로 했다.이민자 2세는 부모 중 적어도 한 명이 외국인이거나 귀화·인지로 한",
           "keywords": [
-            "오픈AI",
-            "GPT",
-            "테라",
-            "출시",
-            "자동화"
+            "전남",
+            "총인구",
+            "대비",
+            "이민자",
+            "2세"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[10월26일] “빅테크 빼면 AI 효과=0”…아폴로 보고서가 보여준 것과 보여주지 못한 것",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216649",
-          "pubDate": "2026-10-27T07:00:00.000Z",
+          "title": "“GPU 시장 감가상각 안 통한다”...출시 6년 차 A100도 임대료 역주행",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216717",
+          "pubDate": "2026-10-27T17:36:59.000Z",
           "image": null,
-          "summary": "미국의 대형 투자회사 아폴로 리서치가 빅테크를 제외한 미국 기업들의 AI 재무 성과가 '0'이라는 분석을 내놓자, 미국 언론들이 잇달아 이를 비중 있게 다뤘습니다. 25일(현지시간) 블룸버그는 '아폴로 이코노미스트, 기술업계 밖 AI 성과는 0이라고 주장'이라는 제목을 달았습니다. 테크크런치도 'AI가 대부분 기업에 가져다준 재무적 성과는 0'이라고 보도했고, 비즈니스 인사이더도 비슷한 내용을 전했습니다. AI에 막대한 돈을 쏟아붓고도 아직 뚜렷한 성과가 보이지 않는다는 메시지는 그만큼 강렬합니다.아폴로는 세계적인 대체투자 운용사이",
+          "summary": "자산 가치는 시간이 지날수록 하락한다는 감가상각 개념이 GPU 시장에서는 통하지 않는 것으로 확인됐다.미국 벤처캐피털 앤드리슨 호로위츠(a16z)는 H200·B200·A100 등 주요 GPU 5종의 렌탈 가격 추이를 공개했다. GPU 가격 데이터 업체 오른(Ornn)의 지수를 분석한 결과, 올해 1월1일 가격을 100으로 놓았을 때 10월 기준 5종 모두 연초 대비 렌탈 가격이 오른 것으로 집계됐다.상승 폭은 H200이 약 2.6배로 가장 높았으며, B200·RTX PRO 6000·H100 순이었다. 특히 출시 6년 차인 A100도",
           "keywords": [
-            "10월26일",
-            "빅테크",
-            "빼면",
-            "AI",
-            "효과=0"
+            "GPU",
+            "시장",
+            "감가상각",
+            "통한다",
+            "출시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:14.298Z",
+      "fetchedAt": "2026-10-27T09:37:10.034Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "Fanatics는 OpenAI를 사용하여 팬들이 Shop the Look으로 게임 데이 의상을 완성하는 데 도움을 줍니다. 약 30,000개의 MLB 제품을 테스트한 결과 참여도가 10% 더 높았습니다."
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:16.358Z",
+      "fetchedAt": "2026-10-27T09:37:10.272Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "태양광 발전, 원자력보다 커지고 있음",
-          "link": "https://news.hada.io/topic?id=36089",
-          "pubDate": "2026-10-27T03:34:50.000Z",
+          "title": "미래에서 온 남자: Johnny는 왜 추상화를 멈추지 못했나",
+          "link": "https://news.hada.io/topic?id=36099",
+          "pubDate": "2026-10-27T08:36:56.000Z",
           "image": null,
-          "summary": "태양광 발전량이 2025년 전 세계 원자력 발전량을 근소하게 넘어섰으며, 2026년 9월까지 최근 12개월 기준으로는 원자력보다 13% 많은 전력을 생산함 중국의 대규모 생산과 공급 과잉, 패널 효율 향상과 원재료 사용 감소가 가격을 낮추면서 태양광은 기존 전망을 ...",
+          "summary": "John von Neumann은 복잡한 문제에서 최소한의 대상과 공리를 추려내는 추상화로 집합론, 양자역학, 게임이론, 컴퓨터와 자기복제 기계의 기초를 세움 프로그램 내장형 구조에서는 명령어와 데이터를 같은 메모리에 저장하고, 자기복제 기계에서는...",
           "keywords": [
-            "태양광",
-            "발전",
-            "원자력보다",
-            "커지고",
-            "있음"
+            "미래에서",
+            "남자:",
+            "Johnny는",
+            "추상화를",
+            "멈추지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Ask GN: 이런 LLM 서비스 써보신분 계신가요?",
-          "link": "https://news.hada.io/topic?id=36088",
-          "pubDate": "2026-10-27T02:32:17.000Z",
+          "title": "Nietzschian Debugger - 답 대신 질문으로 스스로 버그 원인을 찾게 하는 디버거",
+          "link": "https://news.hada.io/topic?id=36098",
+          "pubDate": "2026-10-27T07:32:17.000Z",
           "image": null,
-          "summary": "최근에 클루드 프로 구독요금제로 헤르메스 에이전트에 연동해서 써봤습니다. 총 5개의 프로젝트 기획을 시켰는데 2시간만 써도 사용량 제한 걸리고 간단한 작업을 하는데도 한세월이고 제가 구독하는 요금만큼 평소에 자주쓰는게 아니고 가끔 많이 사용하는 패턴이라 구독이 아깝고 불편했습니다. 그래",
+          "summary": "Nietzschian Debugger는 버그를 고쳐주는 대신 가정과 증거, 추론을 되묻고 개발자가 직접 원인을 찾도록 이끄는 CLI 도구임 모든 응답을 질문으로 구성하며 수정 방법은 알려주지 않음. AI 답변을 복사하는 지름길보다 직접 고민하는 과정을 통해 디버깅 역량을 기...",
           "keywords": [
-            "Ask",
-            "GN:",
-            "이런",
-            "LLM",
-            "서비스"
+            "Nietzschian",
+            "Debugger",
+            "대신",
+            "질문으로",
+            "스스로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역본으로 변환해 주는 Claude Code 스킬",
-          "link": "https://news.hada.io/topic?id=36087",
-          "pubDate": "2026-10-27T01:47:08.000Z",
+          "title": "Pratt 파싱을 기억하려고 정리해 보기",
+          "link": "https://news.hada.io/topic?id=36096",
+          "pubDate": "2026-10-27T06:01:58.000Z",
           "image": null,
-          "summary": "영어 논문을 단순히 번역기에 넣어 본 분들은 아시겠지만, 문장은 그럭저럭 나오는데 수식이 다 깨집니다. 그래서 PDF를 번역하지 않고, arXiv에",
+          "summary": "Pratt 파싱은 shunting yard의 명시적 연산자 스택을 호출 스택으로 바꿔 이해할 수 있음. 연산자가 요구하는 부분 표현식을 재귀 호출로 파싱하고, 결합력에 따라 복귀함 결합력(binding power) 으로 연산자 우선순위를 처리하며, 일반적인 재귀...",
+          "keywords": [
+            "Pratt",
+            "파싱을",
+            "기억하려고",
+            "정리해",
+            "보기"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: Claude Code Desk Look (mod) - 클로드 코드 CLI 를 데스크탑 앱처럼 바꾸기",
+          "link": "https://news.hada.io/topic?id=36095",
+          "pubDate": "2026-10-27T05:54:13.000Z",
+          "image": null,
+          "summary": "저는 클로드 코드 데스크탑 앱보다 터미널에서의 클로드 코드 CLI 를 이용하는 것을 더 선호하는데요. 그래서 그런지 이미 로그인 된 상태의 claude -p 등을",
           "keywords": [
             "Show",
             "GN:",
-            "Translate",
-            "Book:",
-            "arXiv"
+            "Claude",
+            "Code",
+            "Desk"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 호보코드 - 다시 간 장소에서 메모를 알려주는 아이폰 앱",
-          "link": "https://news.hada.io/topic?id=36086",
-          "pubDate": "2026-10-27T01:43:17.000Z",
+          "title": "새로운 iPad mini 공개 - 8.5인치 OLED와 A20 Pro 탑재",
+          "link": "https://news.hada.io/topic?id=36094",
+          "pubDate": "2026-10-27T05:33:24.000Z",
           "image": null,
-          "summary": "안녕하세요. 장소 메모 앱 호보코드를 만든 bigcat입니다. 식당 주문 조합이나 카페 자리처럼, 다시 갔을 때 필요한 메모가 있습니다. 적어 둔 메모가 있어도 다음 방문 때 그 메모를 떠올리고 찾아보는 일은 남습니다. 그 과정을 줄여 보려고 호보코드를 만들었습니다. 장소를 고르고 메모를 적은 뒤",
+          "summary": "Apple이 8.5인치 OLED와 A20 Pro를 탑재한 새 iPad mini를 공개함. 두께는 5.4mm로 줄고 이전 세대보다 가벼워졌으며, IP67 방수/방진을 지원함 Super Retina XDR 디스플레이는 이전과 같은 본체 면적에서 화면을 키웠으며, 최대 밝기 1,200니트와 반사를 줄이는 나...",
           "keywords": [
-            "Show",
-            "GN:",
-            "호보코드",
-            "다시",
-            "장소에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: Spring AI Privacy Guardrails - Spring AI용 개인정보 보호, 도구 권한 제어, 콘텐츠 검사",
-          "link": "https://news.hada.io/topic?id=36083",
-          "pubDate": "2026-10-27T00:45:53.000Z",
-          "image": null,
-          "summary": "Spring AI를 위한 오픈소스 보안 가드레일 라이브러리를 개발했습니다. Spring AI Privacy Guardrails GitHub: https://github.com/ultramancode/spring-ai-privacy-guardrails 프로젝트는 Spring 공식 블로그 'This Week in Spring'에서 소개됐고, Spring AI Community의 Awe",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Spring",
-            "AI",
-            "Privacy"
+            "새로운",
+            "iPad",
+            "mini",
+            "공개",
+            "5인치"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:16.939Z",
+      "fetchedAt": "2026-10-27T09:37:10.985Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +535,7 @@
           "summaryKo": "성장하는 유튜브 채널. 시리즈 예고편을 출시하는 인디 애니메이션 스튜디오. Kickstarter가 성과를 낼지 여부를 확인하려는 새로운 TTRPG 회사. 이러한 노력에 참여하는 모든 사람들은 Chronicle Media의 예측 잠재고객 모델 Ubiquity를 사용할 수 있다는 한 가지 공통점이 있습니다. Aaron Sisto, Scott Greenberg, Ollie Lewis가 공동 설립한 Chronicle은 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 들어보세요."
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:20.616Z",
+      "fetchedAt": "2026-10-27T09:37:11.258Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:20.866Z",
+      "fetchedAt": "2026-10-27T09:37:11.433Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:20.963Z",
+      "fetchedAt": "2026-10-27T09:37:11.504Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -698,6 +698,78 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "“K-뷰티 성장 여력 여전히 크다”…아마존 신화숙 대표 “내년엔 더 큰 성장 기대”",
+          "link": "https://www.venturesquare.net/1123451/",
+          "pubDate": "2026-10-27T08:56:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/shin-2-781x522.jpg",
+          "summary": "신화숙 아마존 글로벌셀링 코리아 대표는 ‘Amazon Beauty in Seoul 2026’ 기자간담회에서 지난해 제시한 K-뷰티 성장 목표를 달성했다고 설명했다. 신규 판매자와 전략 지원 브랜드의 매출이 각각 두 배 수준으로 증가했으며, 내년에는 선도 브랜드 육성과 ... The post “K-뷰티 성장 여력 여전히 크다”…아마존 신화숙 대표 “내년엔 더 큰 성장 기대” appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "현장스케치",
+            "KBeauty",
+            "K뷰티",
+            "글로벌이커머스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“K-뷰티 열풍, 언제까지 갈 것인가”…아마존, 서울서 글로벌 성장의 다음 조건을 제시하다",
+          "link": "https://www.venturesquare.net/1123401/",
+          "pubDate": "2026-10-27T04:26:54.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ABAZOE-780x522.jpg",
+          "summary": "아마존이 ‘Amazon Beauty in Seoul 2026’을 개최하고 K-뷰티의 글로벌 성장 전략을 논의했다. 미국과 유럽 뷰티 사업 책임자들은 한국 화장품의 성장 성과와 소비자 행동 변화를 공유하고, AI 기반 상품 발굴과 개인화된 쇼핑 경험, 글로벌 물류망을 활... The post “K-뷰티 열풍, 언제까지 갈 것인가”…아마존, 서울서 글로벌 성장의 다음 조건을 제시하다 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "현장스케치",
+            "AI커머스",
+            "AmazonBeautyInSeoul2026"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "씨케이리제온, 탈모 신약 ‘CKR-051’ 임상 2상 준비…딥테크 팁스 선정",
+          "link": "https://www.venturesquare.net/1123390/",
+          "pubDate": "2026-10-27T03:56:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/cccc-789x461.png",
+          "summary": "씨케이리제온이 중소벤처기업부의 2026년 딥테크 팁스 과제에 선정돼 윈트 신호전달계 활성 회복을 표적으로 하는 탈모 치료제 후보물질 CKR-051의 후속 개발을 추진한다. 이번 과제는 국비 15억원을 포함한 총 20억원 규모로 3년간 진행되며, 연고제에서 액제로의 제형... The post 씨케이리제온, 탈모 신약 ‘CKR-051’ 임상 2상 준비…딥테크 팁스 선정 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "CKR051",
+            "CKRegeon",
+            "CXXC5"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AWS, 파이토치 코드 수정 없이 트레이니움 실행…오픈소스 ‘토치뉴런’ 공개",
+          "link": "https://www.venturesquare.net/1123370/",
+          "pubDate": "2026-10-27T03:49:55.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/aws-4.jpg",
+          "summary": "아마존웹서비스(AWS)가 기존 파이토치 코드를 재작성하지 않고 자체 AI 가속기 트레이니움에서 실행할 수 있도록 지원하는 오픈소스 기술 '토치뉴런'을 공개했다. 토치뉴런은 트레이니움2와 트레이니움3를 지원하며 하드웨어 설정 변경을 통해 AI 모델을 실행할 수 있도록 설... The post AWS, 파이토치 코드 수정 없이 트레이니움 실행…오픈소스 ‘토치뉴런’ 공개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI가속기",
+            "AI반도체",
+            "Ai인프라"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "청연, 옷장 넘어 집 전체 정리·수납 서비스 출시…주거관리 사업 확대",
           "link": "https://www.venturesquare.net/1123358/",
@@ -715,81 +787,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "잡코리아, 채용공고 6년 분석…AI 활용 역량 요구 1년 새 3배 증가",
-          "link": "https://www.venturesquare.net/1123353/",
-          "pubDate": "2026-10-27T03:42:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/2026-1027-522x522.jpg",
-          "summary": "잡코리아가 최근 6년간 채용공고를 분석한 결과, 우대사항을 명시한 공고의 비중이 2021년 14.5%에서 올해 28.3%로 두 배 가까이 증가했다. 채용공고 길이 중앙값도 같은 기간 483자에서 864자로 79% 늘어나면서 기업들이 직무별 요구 역량과 채용 조건을 상세... The post 잡코리아, 채용공고 6년 분석…AI 활용 역량 요구 1년 새 3배 증가 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI채용",
-            "AI활용역량",
-            "HR테크"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "케어링, 신한은행과 돌봄·금융 결합 모델 구축…피노베이션 챌린지 신한혁신상 수상",
-          "link": "https://www.venturesquare.net/1123346/",
-          "pubDate": "2026-10-27T03:40:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/caring-718x522.jpg",
-          "summary": "케어링이 서울시와 신한금융그룹이 공동 운영하는 '제5회 피노베이션 챌린지 어워즈'에서 신한혁신상을 수상했다. 케어링은 204개 지원기업 가운데 협업 대상으로 선발돼 약 4개월 동안 신한은행과 요양보호사 금융 교육, 권익 보호, 시니어 금융 접근성 개선 등 돌봄 현장에 ... The post 케어링, 신한은행과 돌봄·금융 결합 모델 구축…피노베이션 챌린지 신한혁신상 수상 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "금융교육",
-            "돌봄금융",
-            "돌봄서비스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엘리스그룹, 중고생 161명 참여한 AI 메이커톤 마무리…38개 팀 전원 에이전트 개발",
-          "link": "https://www.venturesquare.net/1123340/",
-          "pubDate": "2026-10-27T03:38:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/elice-789x381.jpg",
-          "summary": "엘리스그룹이 전국 21개 중·고등학교 학생 161명을 대상으로 진행한 '2026 AI 동행 프로젝트' 에이전트 AI 분과 메이커톤을 마무리했다. 서울과 대전에서 동시에 열린 행사에서는 38개 팀이 자체 AI 코딩 에이전트 '헬피코드'를 활용해 환경, 교육, 디지털 격차... The post 엘리스그룹, 중고생 161명 참여한 AI 메이커톤 마무리…38개 팀 전원 에이전트 개발 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI교육",
-            "AI동행프로젝트",
-            "AI에이전트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "파스토로보틱스, 물류로봇 구독 서비스 출시…PoC 없이 한 달 내 자동화 도입 지원",
-          "link": "https://www.venturesquare.net/1123327/",
-          "pubDate": "2026-10-27T03:33:46.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/pas-789x444.png",
-          "summary": "파스토로보틱스가 물류 자율주행로봇(AMR)과 운영 소프트웨어, 유지보수를 월 구독료로 제공하는 로봇 서비스(RaaS)를 출시했다. 기존 물류센터의 랙과 통로를 변경하지 않고 도입할 수 있으며, 별도 시범 운영을 필수 절차로 거치지 않아 도입 결정 후 약 한 달 안에 운... The post 파스토로보틱스, 물류로봇 구독 서비스 출시…PoC 없이 한 달 내 자동화 도입 지원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AMR",
-            "FASSTOBX100",
-            "FASSTOFX100"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:23.041Z",
+      "fetchedAt": "2026-10-27T09:37:15.383Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -798,91 +798,86 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "[중국 비즈니스 트렌드&동향] AI 비서가 장 보는 솽스이, 화웨이·CATL 배터리 교환 동맹, 메이투안의 AI 스킬 장터",
-          "link": "https://platum.kr/archives/296966?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-ai-%25eb%25b9%2584%25ec%2584%259c%25ea%25b0%2580-%25ec%259e%25a5-%25eb%25b3%25b4%25eb%258a%2594-%25ec%2586%25bd%25ec%258a%25a4%25ec%259d%25b4",
-          "pubDate": "2026-10-26T22:55:00.000Z",
+          "title": "파이토치 코드 고치지 않고 AWS 칩에서 돌린다, AWS ‘토치뉴런’ 오픈소스 공개",
+          "link": "https://platum.kr/archives/297094?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%258c%25ec%259d%25b4%25ed%2586%25a0%25ec%25b9%2598-%25ec%25bd%2594%25eb%2593%259c-%25ea%25b3%25a0%25ec%25b9%2598%25ec%25a7%2580-%25ec%2595%258a%25ea%25b3%25a0-aws-%25ec%25b9%25a9%25ec%2597%2590%25ec%2584%259c-%25eb%258f%258c%25eb%25a6%25b0%25eb%258b%25a4-aws-%25ed%2586%25a0%25ec%25b9%2598%25eb%2589%25b4",
+          "pubDate": "2026-10-27T04:19:38.000Z",
           "image": null,
-          "summary": "솽스이 18년, 올해는 AI 에이전트가 대신 장을 본다 2009년 27개 브랜드의 재고 떨이 행사로 출발한 솽스이(双十一)가 18년 차를 맞았다. 과거 모바일 결제 경쟁이 솽스이를 거치며 인프라로 자리 잡았듯, 올해 솽스이는 AI 에이전트가 실제 상거래 생태계에 얼마나 깊이 들어올 수 있는지를 가리는 시험 무대가 되고 있다. 알리바바(Alibaba·阿里巴巴)는 소비자와 입점 상인을 아우르는 자체 생태계 풀스택 전략을 앞세웠다. ... 더 읽기",
+          "summary": "AI 개발에 널리 쓰이는 파이토치(PyTorch) 코드를 다시 쓰지 않고 아마존웹서비스(AWS)의 자체 AI 칩에서 바로 실행할 수 있게 됐다. AWS는 파이토치 코드를 자사 AI 칩 ‘트레이니움(Trainium)’에서 그대로 돌리는 도구 ‘토치뉴런(TorchNeuron)’을 오픈소스로 공개했다. 개발자는 코드가 쓸 칩을 지정하는 설정 하나만 바꾸면 기존 코드를 별도 변환 없이 트레이니움에서 실행할 수 있다. 트레이니움2와 트레이니움3를 지원하며, 상업적 이용이 가능한 아파치 ... 더 읽기",
           "keywords": [
             "글로벌",
-            "AI",
-            "CATL",
-            "China",
-            "DeepSkill",
-            "광군제"
+            "아마존웹서비스",
+            "토치뉴런",
+            "파이토치"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "유도만능줄기세포 치료제 개발사 입셀, 빅무브벤처스 등서 투자 유치",
-          "link": "https://platum.kr/archives/297061?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25eb%258f%2584%25eb%25a7%258c%25eb%258a%25a5%25ec%25a4%2584%25ea%25b8%25b0%25ec%2584%25b8%25ed%258f%25ac-%25ec%25b9%2598%25eb%25a3%258c%25ec%25a0%259c-%25ea%25b0%259c%25eb%25b0%259c%25ec%2582%25ac-%25ec%259e%2585%25ec%2585%2580-%25eb%25b9%2585%25eb%25ac%25b4%25eb%25b8%258c%25eb%25b2%25a4%25ec%25b2%2598",
-          "pubDate": "2026-10-26T07:16:53.000Z",
+          "title": "[스타트업 모닝커피 1424회] 피코세컨즈, 연구행정 자동화 AI 에이전트 PICO로 반복 서류 업무 줄인다",
+          "link": "https://platum.kr/archives/297097?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1424%25ed%259a%258c-%25ed%2594%25bc%25ec%25bd%2594%25ec%2584%25b8%25ec%25bb%25a8%25ec%25a6%2588-%25ec%2597%25b0%25ea%25b5%25ac%25ed%2596%2589%25ec%25a0%2595-%25ec%259e%2590%25eb%258f%2599",
+          "pubDate": "2026-10-27T04:08:38.000Z",
           "image": null,
-          "summary": "유도만능줄기세포(iPSC)로 재생 치료제를 개발하는 입셀이 빅무브벤처스를 비롯한 벤처캐피털들로부터 투자를 받았다. 빅무브벤처스는 입셀에 투자했다고 26일 밝혔다. 이번 투자에는 인터베스트와 프리미어파트너스, HB인베스트먼트, 아주IB, 한국벤처투자도 참여했다. 투자 규모와 라운드는 공개되지 않았다. 유도만능줄기세포는 이미 분화가 끝난 성체 세포에 특정 유전자를 넣어 배아줄기세포처럼 여러 종류의 세포로 자랄 수 있게 되돌린 세포다. 입셀은 이 세포를 활용한 첨단재생 치료제를 개발하고 있으며, 대표 ... 더 읽기",
-          "keywords": [
-            "투자",
-            "빅무브벤처스",
-            "입셀",
-            "펀딩"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "데이원컴퍼니, ‘그린컴퓨터아카데미’ 운영사 인수로 국비 직업훈련 시장 진출",
-          "link": "https://platum.kr/archives/297049?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258d%25b0%25ec%259d%25b4%25ec%259b%2590%25ec%25bb%25b4%25ed%258d%25bc%25eb%258b%2588-%25ea%25b7%25b8%25eb%25a6%25b0%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0%25ec%2595%2584%25ec%25b9%25b4%25eb%258d%25b0%25eb%25af%25b8-%25ec%259a%25b4%25ec%2598%2581%25ec%2582%25ac-%25ec%259d%25b8%25ec%2588%2598%25eb%25a1%259c",
-          "pubDate": "2026-10-26T06:36:47.000Z",
-          "image": null,
-          "summary": "성인 교육 기업 데이원컴퍼니가 IT·디자인 국비지원 교육기관 ‘그린컴퓨터아카데미’와 ‘그린컴퓨터아트학원’을 운영하는 지아이티아카데미를 인수했다. 지아이티아카데미가 운영해 온 국비 교육과정과 전국 교육 지점을 바탕으로 정부·공공기관 대상(B2G) 사업을 키우려는 인수다. 인수 금액은 공개하지 않았다. 지아이티아카데미는 1995년 설립된 IT 직업훈련 기관이다. 전국 20곳 넘는 교육 지점과 국가·국제자격증 공식 시험센터를 운영하며, 고용노동부의 국민내일배움카드와 K-디지털 트레이닝(KDT) 같은 국비지원 과정을 맡아 왔다. 지난해 ... 더 읽기",
-          "keywords": [
-            "투자",
-            "M&A",
-            "데이원컴퍼니",
-            "인수합병",
-            "지아이티아카데미"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "말 겹치는 예능도 AI가 더빙하고 검수까지, 허드슨에이아이 ‘현지화 AI 에이전트’ 공개",
-          "link": "https://platum.kr/archives/297041?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2590-%25ea%25b2%25b9%25ec%25b9%2598%25eb%258a%2594-%25ec%2598%2588%25eb%258a%25a5%25eb%258f%2584-ai%25ea%25b0%2580-%25eb%258d%2594%25eb%25b9%2599%25ed%2595%2598%25ea%25b3%25a0-%25ea%25b2%2580%25ec%2588%2598%25ea%25b9%258c%25ec%25a7%2580-%25ed%2597%2588%25eb%2593%259c%25ec%258a%25a8%25ec%2597%2590%25ec%259d%25b4",
-          "pubDate": "2026-10-26T06:27:39.000Z",
-          "image": null,
-          "summary": "출연자들의 말이 수시로 겹치는 예능 프로그램이나 등장인물이 많은 드라마를 AI가 인물별로 나눠 더빙하고, 결과물의 품질 검수까지 맡는 서비스가 나왔다. 미디어 콘텐츠 전문 음성 AI 기업 허드슨에이아이는 더빙 제작부터 검수까지 자동으로 처리하는 ‘현지화 AI 에이전트’를 공개했다. 이 서비스는 회사의 AI 더빙 플랫폼 ‘허드슨 스튜디오’를 기반으로, 화자 분리와 맥락 분석, 감정 연기, 품질 검수를 차례로 수행한다. 기존 ... 더 읽기",
+          "summary": "피코세컨즈, 연구행정 자동화 AI 에이전트 PICO로 반복 서류 업무 줄인다 피코세컨즈 기업은 2026년 10월 27일 공개된 스타트업 모닝커피 1424회는 연구행정 자동화 AI 에이전트 PICO를 만드는 피코세컨즈(Picoseconds)를 소개했다. 피코세컨즈는 연구비 관련 서류의 반복 입력과 오류를 줄여 연구자가 연구에 집중하도록 돕는 서비스를 개발하고 있다. 연구행정에서는 같은 출장이나 연구과제에 관한 정보를 여러 서류에 옮겨 적고, 기관 시스템에 다시 ... 더 읽기",
           "keywords": [
             "스타트업",
-            "AI 더빙",
-            "허드슨에이아이"
+            "스타트업 모닝커피",
+            "피코세컨즈"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[BLT칼럼]  ‘마데카’는 지켰고 ‘그립톡’은 잃었다",
-          "link": "https://platum.kr/archives/297040?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-%25eb%25a7%2588%25eb%258d%25b0%25ec%25b9%25b4%25eb%258a%2594-%25ec%25a7%2580%25ec%25bc%25b0%25ea%25b3%25a0-%25ea%25b7%25b8%25eb%25a6%25bd%25ed%2586%25a1%25ec%259d%2580-%25ec%259e%2583%25ec%2597%2588%25eb%258b%25a4",
-          "pubDate": "2026-10-26T06:18:48.000Z",
+          "title": "피치에이아이, 일본 패밀리마트 매장서 진열·결품 관리 AI 실증",
+          "link": "https://platum.kr/archives/297093?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%25bc%25ec%25b9%2598%25ec%2597%2590%25ec%259d%25b4%25ec%2595%2584%25ec%259d%25b4-%25ec%259d%25bc%25eb%25b3%25b8-%25ed%258c%25a8%25eb%25b0%2580%25eb%25a6%25ac%25eb%25a7%2588%25ed%258a%25b8-%25eb%25a7%25a4%25ec%259e%25a5%25ec%2584%259c-%25ec%25a7%2584%25ec%2597%25b4%25c2%25b7%25ea%25b2%25b0%25ed%2592%2588",
+          "pubDate": "2026-10-27T04:03:52.000Z",
           "image": null,
-          "summary": "– 브랜드 이름이 상품 이름이 되기 전에 권리자가 할 일 올해 특허법원은 사전에 없는 말로 만든 두 상표를 두고 다른 결론을 냈다. 7월 23일에는 스마트폰 거치대 상표 ‘그립톡’이 상품을 부르는 일반 명칭이 되었다며 등록을 무효로 본 특허심판원 심결을 유지했다(특허법원 2026. 7. 23. 선고 2025허10266 판결). 10월 8일에는 동국제약의 ‘마데카’가 성분 이름을 줄인 말이라는 애경산업의 주장을 ... 더 읽기",
+          "summary": "매장 카메라로 진열 상태와 결품을 파악하는 리테일 비전 AI가 일본 편의점 현장에서 실증을 진행하고 있다. 리테일 테크 기업 피치에이아이는 일본 편의점 체인 패밀리마트와 함께 진행해 온 리테일 AI 솔루션 ‘RAX’의 현장 실증(PoC)이 마무리 단계에 들어갔다고 27일 밝혔다. 두 회사는 실증 결과를 바탕으로 도입 점포를 최대 500곳까지 늘리는 방안을 논의하고 있으며, 2027년 1분기 본격 구축을 목표로 ... 더 읽기",
           "keywords": [
-            "트렌드",
-            "BLT",
-            "그립톡",
-            "마데카",
-            "정태균 변리사",
-            "특허"
+            "스타트업",
+            "RAX",
+            "패밀리마트",
+            "피치에이아이"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "게임 엔진 명령어 대부분을 AI가 친다, 유니티 CLI 실행의 98%는 에이전트·자동화",
+          "link": "https://platum.kr/archives/297087?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%258c%25ec%259e%2584-%25ec%2597%2594%25ec%25a7%2584-%25eb%25aa%2585%25eb%25a0%25b9%25ec%2596%25b4-%25eb%258c%2580%25eb%25b6%2580%25eb%25b6%2584%25ec%259d%2584-ai%25ea%25b0%2580-%25ec%25b9%259c%25eb%258b%25a4-%25ec%259c%25a0%25eb%258b%2588%25ed%258b%25b0-cli-%25ec%258b%25a4%25ed%2596%2589%25ec%259d%2598-98",
+          "pubDate": "2026-10-27T03:57:18.000Z",
+          "image": null,
+          "summary": "게임 엔진 유니티를 터미널에서 다루는 명령줄 도구의 실행 대부분이 사람이 아니라 AI 코딩 에이전트와 자동화 스크립트에서 나온 것으로 나타났다. 유니티가 공개한 ‘유니티 CLI’ 사용 데이터에 따르면, 7월 20일부터 10월 13일까지 전체 실행의 약 98%가 코딩 에이전트와 기타 자동화에서 발생했다. 사람이 직접 명령어를 입력한 경우는 0.2%, 빌드·배포 자동화 파이프라인(CI)을 통한 실행은 0.3%였다. 유니티 CLI는 마우스로 조작하는 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "AI 코딩 에이전트",
+            "유니티",
+            "유니티 CLI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "남극 효모로 빚는 전통주, 극지 단백질로 지키는 생선살, 극지 데이터 사업화에 스타트업 10곳",
+          "link": "https://platum.kr/archives/297084?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%25a8%25ea%25b7%25b9-%25ed%259a%25a8%25eb%25aa%25a8%25eb%25a1%259c-%25eb%25b9%259a%25eb%258a%2594-%25ec%25a0%2584%25ed%2586%25b5%25ec%25a3%25bc-%25ea%25b7%25b9%25ec%25a7%2580-%25eb%258b%25a8%25eb%25b0%25b1%25ec%25a7%2588%25eb%25a1%259c-%25ec%25a7%2580%25ed%2582%25a4%25eb%258a%2594-%25ec%2583%259d%25ec%2584%25a0",
+          "pubDate": "2026-10-27T03:51:44.000Z",
+          "image": null,
+          "summary": "남극 기지의 기상 관측 자료와 극지 미생물, 바다 얼음(해빙) 데이터를 사업에 쓰려는 스타트업 10곳이 극지연구소 연구원들과 짝을 이뤄 실증에 들어간다. 극지연구소와 액셀러레이터 콜즈다이나믹스는 ‘2026 극지 데이터 융합 스케일업’ 프로그램의 최종 참여 기업 10곳을 확정했다. 이 프로그램은 극지연구소가 쌓아 온 관측·연구 데이터를 민간 사업과 엮어 상용화 가능성을 검증하는 사업이다. 참여 기업들은 연구원과 1대1로 연결돼 두 달간 ... 더 읽기",
+          "keywords": [
+            "이벤트",
+            "극지 데이터 융합 스케일업",
+            "극지연구소",
+            "콜즈다이나믹스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:23.920Z",
+      "fetchedAt": "2026-10-27T09:37:15.616Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +964,7 @@
           "summaryKo": "새로운 프로그램은 더 많은 신생 기업이 입찰 제안을 쉽게 거래할 수 있도록 하여 근로자가 조기에 출금을 할 수 있도록 장려하고자 합니다."
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:25.430Z",
+      "fetchedAt": "2026-10-27T09:37:15.717Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -977,6 +972,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "대전창조경제혁신센터, 드림벤처스타 12기 성과 공유…대·중견기업과 스타트업 협력 성과 점검",
+          "link": "https://www.venturesquare.net/1123374/",
+          "pubDate": "2026-10-27T03:52:13.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/dj-6-739x522.jpg",
+          "summary": "대전창조경제혁신센터가 한국중견기업연합회와 공동으로 드림벤처스타(DVS) 12기 오픈이노베이션 성과공유회를 개최했다. 올해 프로그램에는 SK텔레콤과 호반그룹 등 5개 파트너사가 참여해 스타트업 5개사와 기술검증 및 사업화 실증을 추진하고 있다. 행사에서는 지난해 11기 ... The post 대전창조경제혁신센터, 드림벤처스타 12기 성과 공유…대·중견기업과 스타트업 협력 성과 점검 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "DVS",
+            "POC",
+            "SK텔레콤",
+            "기술검증",
+            "대전창조경제혁신센터"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "스파크랩 육성 씨아이티·피시오, FLY ASIA 2026 글로벌 스케일업 경진대회 대상·동상 수상",
           "link": "https://www.venturesquare.net/1123357/",
@@ -1048,27 +1061,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경기창조경제혁신센터, 딥테크 스타트업 6개사 TIPS 진입 지원…투자사 5곳과 IR 진행",
-          "link": "https://www.venturesquare.net/1123090/",
-          "pubDate": "2026-10-26T12:18:06.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/1792743669993-779x522.png",
-          "summary": "경기창조경제혁신센터가 2027년 TIPS 진입을 준비하는 딥테크·AI 스타트업을 대상으로 ‘제44회 스타트업 815 IR-SEED’를 개최했다. 행사에는 디딤돌 R&D 연계 기업 3개사와 초기창업패키지 딥테크 협약기업 3개사 등 총 6개 기업이 참여했다. 더인벤션랩과 ... The post 경기창조경제혁신센터, 딥테크 스타트업 6개사 TIPS 진입 지원…투자사 5곳과 IR 진행 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI스타트업",
-            "IRSEED",
-            "TIPS",
-            "경기창조경제혁신센터",
-            "경기혁신센터"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:26.391Z",
+      "fetchedAt": "2026-10-27T09:37:18.377Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,6 +1089,40 @@
           "summaryKo": null
         },
         {
+          "title": "전북테크노파크, 중소기업 보안인증 최대 1천만원 지원 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13akszLU1XT29uYXNPNlNWMmZLcE83dENEV2Q0RDVnbGlQODQyenowak5tNkRzQzdKcjhYQUc0dGFhdWJMZHFuNzJqUGRqWHRGZlE?oc=5",
+          "pubDate": "2026-10-27T07:36:00.000Z",
+          "image": null,
+          "summary": "전북테크노파크, 중소기업 보안인증 최대 1천만원 지원 전라매일",
+          "keywords": [
+            "전북테크노파크",
+            "중소기업",
+            "보안인증",
+            "최대",
+            "1천만원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "제주대, 단과대 주도 학사 통폐합ㆍ계약학과 운영안 등 혁신과제 모집 - 교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HVno0Vk1MYVFEZkZKTzk4TTdsWG9PLUYtLUVVTFIzN1VBUjN0VWVfNDNpbEprX2xqZjlJRXJqWU5OSVhwZVg1d1VDMlRyNkRtVF9KUGp3eVJDZ3lJRHUzY1RYTXcwOUU?oc=5",
+          "pubDate": "2026-10-27T08:22:06.000Z",
+          "image": null,
+          "summary": "제주대, 단과대 주도 학사 통폐합ㆍ계약학과 운영안 등 혁신과제 모집 교수신문",
+          "keywords": [
+            "제주대",
+            "단과대",
+            "주도",
+            "학사",
+            "통폐합ㆍ계약학과"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "충남창조경제혁신센터 ‘충남창업마루나비 인플루언서 마케팅 지원사업’ 참여기업 모집 - 아산포커스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zNFljZHF6VE9EVHZUQWM4dlhld0ltZHJkdTZiaFRYeHBhMi14amJ2em02NDZsLTlIeHpvZVM1SWZoWmtwMmRFcmtWdm5EaW85N3dhLWgtOTBGLWgwbHRaT2dRNHNKRjBGUFBTOFVB?oc=5",
           "pubDate": "2026-10-27T02:44:25.000Z",
@@ -1111,129 +1140,95 @@
           "summaryKo": null
         },
         {
-          "title": "서귀포시, 노인일자리사업 수행기관 모집 - 삼다일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yaFJqbzBsb3NpNVYyMHBuZmM3Z1J3ck9sZmhlUjJ2emZJOVJfZW12LXZmRWlZR1B1TWxiSi1xbDZ0MDRVNjFRSW9HX0Noemdia2d1ci1fTng5WGxvZm9pZ2g0Szd4UExSbklSQg?oc=5",
-          "pubDate": "2026-10-27T02:35:00.000Z",
+          "title": "충남창조경제혁신센터, 인플루언서 마케팅 지원사업 참여기업 모집 - 웹이코노미",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ta0ZwVlRnR01YMmJjRUxOZlZjMjZKdXpycE1Tell2VzNOd0JhS2lQWFN0b05qM3BneFNmNU1VdWg3QVFyOGVjbUdPMjlMYWZrU3JudTB1M05CUHJTVUt4VG5YWUpwSVNVZnp5WkphTlJwQQ?oc=5",
+          "pubDate": "2026-10-27T04:47:22.000Z",
           "image": null,
-          "summary": "서귀포시, 노인일자리사업 수행기관 모집 삼다일보",
+          "summary": "충남창조경제혁신센터, 인플루언서 마케팅 지원사업 참여기업 모집 웹이코노미",
           "keywords": [
-            "서귀포시",
-            "노인일자리사업",
-            "수행기관",
-            "모집",
-            "삼다일보"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 2027년 전통시장·상점가 활성화 지원사업 공고…11월16일까지 접수 - 동행일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BTW5BTEFyaEp5RzZXN0VoYk5jV19ua2MxdUlGUVd3OTdUT3k5WDRTdTNlck05dGxCdk9QVm5IZzh3bmVsVFppUVdxMkVuVkhtUHdZOXY1Z3FteWwxeXdkTUFZSHVpYzEz?oc=5",
-          "pubDate": "2026-10-22T07:07:00.000Z",
-          "image": null,
-          "summary": "중기부, 2027년 전통시장·상점가 활성화 지원사업 공고…11월16일까지 접수 동행일보",
-          "keywords": [
-            "중기부",
-            "2027년",
-            "전통시장",
-            "상점가",
-            "활성화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "‘경기도 청년 잔혹사’…면접수당·결혼축하 포인트 등 청년 지원 줄줄이 중단 - 경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4NjBKMmN5aU5ZMTl5VVl6ekxXenc0eVR4VXk4WTVuUi1vNVZ6TFJ2SW5WZ0Q1XzdvQ3gtc2Z1cU1mbXd3NGJ1dnc5OXhCNEtvZVdtanhiZUZpbFE?oc=5",
-          "pubDate": "2026-10-26T08:42:51.000Z",
-          "image": null,
-          "summary": "‘경기도 청년 잔혹사’…면접수당·결혼축하 포인트 등 청년 지원 줄줄이 중단 경기일보",
-          "keywords": [
-            "경기도",
-            "청년",
-            "잔혹사",
-            "면접수당",
-            "결혼축하"
+            "충남창조경제혁신센터",
+            "인플루언서",
+            "마케팅",
+            "지원사업",
+            "참여기업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T03:49:26.886Z",
+      "fetchedAt": "2026-10-27T09:37:18.741Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
+      "key": "special post",
+      "label": "Special Post",
+      "count": 3,
       "rank": 1,
-      "change": "up"
+      "change": "new"
     },
     {
-      "key": "투자",
-      "label": "투자",
-      "count": 3,
+      "key": "ai반도체",
+      "label": "AI반도체",
+      "count": 2,
       "rank": 2,
+      "change": "new"
+    },
+    {
+      "key": "k뷰티",
+      "label": "K뷰티",
+      "count": 2,
+      "rank": 3,
+      "change": "new"
+    },
+    {
+      "key": "최대",
+      "label": "최대",
+      "count": 2,
+      "rank": 4,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
+      "rank": 5,
       "change": "down"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 4,
-      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 4,
       "rank": 8,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "show",
-      "label": "Show",
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
       "count": 3,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "2027년",
-      "label": "2027년",
-      "count": 2,
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
       "rank": 10,
       "change": "new"
     }
@@ -1308,7 +1303,7 @@
       "label": "TechCrunch Disrupt",
       "count": 3,
       "rank": 9,
-      "change": "new",
+      "change": "same",
       "labelKo": "TechCrunch Disrupt"
     },
     {
@@ -1316,7 +1311,7 @@
       "label": "Enforcement Actions",
       "count": 2,
       "rank": 10,
-      "change": "down",
+      "change": "same",
       "labelKo": "시행 조치"
     }
   ]
