@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-27T15:44:26.698Z",
+  "collectedAt": "2026-10-27T20:27:23.477Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“2억1700만원까지는 그냥 받아도 된다?” … 헷갈리는 부모 무상증여",
+          "link": "https://www.mk.co.kr/news/economy/12187375",
+          "pubDate": "2026-10-27T19:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/27/news-p.v1.20260906.f6e2293f953647e0aa30cec9e49d0a52_R.jpg",
+          "summary": "잘못 알려진 부동산 세금상식 Q&A (2)부동산 세금에서 경계해야 할 것은 복잡한 규정만이 아닙니다. 일부 요건을 생략한 채 널리 알려진 설명도 잘못된 의사결정의 원인이 될 수 있..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "내년 민간보조금·R&D 실집행 관리체계 신설…분기별 점검",
           "link": "https://www.mk.co.kr/news/economy/12187435",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "\"AI 전력·용수 수요 폭증 … 자원관리 능력이 경쟁력\"",
-          "link": "https://www.mk.co.kr/news/economy/12187410",
-          "pubDate": "2026-10-27T08:42:53.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110110000006_M00.jpg",
-          "summary": "김상협 글로벌녹색성장기구(GGGI) 사무총장이 인공지능(AI) 시대 국가 경쟁력의 핵심 요소로 녹색성장이 부각되고 있다고 강조했다. 김 총장은 27일 개막한 글로벌녹색성장주간 행사..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:06.347Z",
+      "fetchedAt": "2026-10-27T20:27:09.691Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:06.422Z",
+      "fetchedAt": "2026-10-27T20:27:09.768Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:07.922Z",
+      "fetchedAt": "2026-10-27T20:27:11.065Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,36 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "pubDate": "2026-10-27T07:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI는 오라클과의 파트너십을 확장하여 앱을 ChatGPT로 가져옵니다",
+          "summaryKo": "OpenAI와 오라클은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 오라클 오퍼링에 전력을 공급하기 위해 파트너십을 확장하고 있습니다."
+        },
+        {
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "link": "https://openai.com/index/check-point-daybreak",
+          "pubDate": "2026-10-27T00:00:00.000Z",
+          "image": null,
+          "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+          "keywords": [
+            "How",
+            "Check",
+            "Point",
+            "accelerates",
+            "vulnerability"
+          ],
+          "isForeign": true,
+          "titleKo": "Check Point가 Daybreak로 취약점 연구를 가속화하는 방법",
+          "summaryKo": "OpenAI Daybreak를 통해 Check Point는 새로운 보안 보호에 대한 연구를 가속화하여 분석가가 취약점 인텔리전스를 고객 방어로 더 빠르게 전환할 수 있도록 합니다."
+        },
         {
           "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
           "link": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -320,39 +350,9 @@
           "isForeign": true,
           "titleKo": "GPT-6.1 SOL은 CodeRabbit이 복잡한 코드베이스에서 보안을 강화하는 데 도움이 됩니다.",
           "summaryKo": "CodeRabbit은 GPT-6.1 SOL을 사용하여 복잡한 코드 기반 전반의 보안 위험을 조사합니다. 보안 에이전트는 개발자가 조사 결과 및 제안된 보완 사항을 검토하는 데 도움을 줍니다."
-        },
-        {
-          "title": "ChatGPT’s expanding world of work",
-          "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "pubDate": "2026-10-26T10:00:00.000Z",
-          "image": null,
-          "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-          "keywords": [
-            "Research"
-          ],
-          "isForeign": true,
-          "titleKo": "ChatGPT의 업무 영역 확장",
-          "summaryKo": "거의 100개 국가에서 165개의 업무 활동에 대한 OpenAI Signals 데이터를 탐색하여 사람들이 ChatGPT를 업무에 사용하는 방법과 시간이 지남에 따라 사용량이 어떻게 변하는지를 보여줍니다."
-        },
-        {
-          "title": "How Fanatics and OpenAI streamline the fan experience",
-          "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-          "pubDate": "2026-10-26T07:00:00.000Z",
-          "image": null,
-          "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-          "keywords": [
-            "How",
-            "Fanatics",
-            "and",
-            "OpenAI",
-            "streamline"
-          ],
-          "isForeign": true,
-          "titleKo": "Fanatics와 OpenAI가 팬 경험을 간소화하는 방법",
-          "summaryKo": "Fanatics는 OpenAI를 사용하여 팬들이 Shop the Look으로 게임 데이 의상을 완성하는 데 도움을 줍니다. 약 30,000개의 MLB 제품을 테스트한 결과 참여도가 10% 더 높았습니다."
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:08.103Z",
+      "fetchedAt": "2026-10-27T20:27:14.631Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Python의 실험적 JIT, 제거 예정",
-          "link": "https://news.hada.io/topic?id=36114",
-          "pubDate": "2026-10-27T15:43:29.000Z",
+          "title": "내 데이터가 모델 학습에 사용되나요?",
+          "link": "https://news.hada.io/topic?id=36124",
+          "pubDate": "2026-10-27T19:42:48.000Z",
           "image": null,
-          "summary": "CPython의 실험적 JIT 컴파일러 유지관리자들이 정식 지원 전환 계획을 담은 PEP 836을 철회하면서, 메인 브랜치에서 JIT 개발이 중단되고 코드도 제거될 예정임 Python 운영위원회는 유지관리, 호환성, 성공 지표와 일정에 관한 승인된 PEP를 요구했으며,",
+          "summary": "Anthropic은 Claude for Work, Anthropic API 등 상용 제품의 입력과 출력을 기본적으로 모델 학습에 사용하지 않음 다만 사용자가 피드백을 제출하거나 버그를 명시적으로 신고하거나 데이터 사용을 허용하면, 채팅과 코딩 세션을 모델 학습에 사용할 수 있음",
           "keywords": [
-            "Python의",
-            "실험적",
-            "JIT",
-            "제거",
-            "예정"
+            "데이터가",
+            "모델",
+            "학습에",
+            "사용되나요"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI는 일을 줄여준다고 약속했다. 나는 그 어느 때보다 많이 일하고 있다",
-          "link": "https://news.hada.io/topic?id=36113",
-          "pubDate": "2026-10-27T14:34:11.000Z",
+          "title": "Anthropic, 불법 입수한 Stanford 교수들의 책으로 Claude 학습",
+          "link": "https://news.hada.io/topic?id=36123",
+          "pubDate": "2026-10-27T19:39:48.000Z",
           "image": null,
-          "summary": "모든 엔지니어링 업무에 AI 에이전트를 쓰면서, 구현 비용의 감소가 기존 업무의 빠른 완료보다 스스로 맡는 업무량의 확대로 이어짐 여러 에이전트가 간헐적으로 질문, 계획 승인, 코드 검토를 요청하면서 맥락 전환이 늘어났고, 개별 작업의 난...",
+          "summary": "Anthropic이 Stanford 교수 10명 이상의 저작물을 불법 입수해 Claude 학습에 사용했으며, 연방 판사는 해적판 도서로 영구적인 중앙 라이브러리를 구축하는 행위를 금지함 판결은 불법 복제와 AI 학습의 공정 이용을 구분함. William Alsup 판사는 합법적으로 취득...",
           "keywords": [
-            "AI는",
-            "일을",
-            "줄여준다고",
-            "약속했다",
-            "나는"
+            "Anthropic",
+            "불법",
+            "입수한",
+            "Stanford",
+            "교수들의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: notepipe - &#039;직접&#039; 조립할 수 있는 강의노트·회의록 생성 파이프라인",
-          "link": "https://news.hada.io/topic?id=36111",
-          "pubDate": "2026-10-27T14:00:17.000Z",
+          "title": "경찰, AI로 ‘수상한’ 이동 패턴을 보이는 운전자에게 정차 요구",
+          "link": "https://news.hada.io/topic?id=36122",
+          "pubDate": "2026-10-27T19:36:48.000Z",
           "image": null,
-          "summary": "녹음으로 강의 노트나 회의록을 만들어주는 서비스, 요즘 정말 많죠. 당장 저만해도 Show GN에서 꽤 여러번 본 것 같습니다. 이미 서비스가 많은데도 왜 계속 이런게 나오냐, 하면 저는 개인의 취향에 완벽히 들어맞는 제품이 없어서일거라고 생각합니다. 요약 형식이 마음에 안 들거나, 꼭 로컬",
+          "summary": "미국 법 집행기관이 자동 번호판 인식기(ALPR) 와 AI 도구로 이동 패턴을 분석해, 특정 범죄 혐의가 없는 운전자에게도 정차를 요구하는 사례가 늘고 있다고 ACLU가 경고함 ALPR은 지나가는 차량의 번호판과 포착 시각 및 위치를 수집하며, 범죄 수사에 활용하던 데...",
           "keywords": [
-            "Show",
-            "GN:",
-            "notepipe",
-            "&#039;직접&#039;",
-            "조립할"
+            "경찰",
+            "AI로",
+            "수상한",
+            "이동",
+            "패턴을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "더 이상 Debian NEW 큐에 업로드하지 않겠다",
-          "link": "https://news.hada.io/topic?id=36110",
-          "pubDate": "2026-10-27T13:41:07.000Z",
+          "title": "Ghostty 1.4.0 - 성능과 메모리 개선, Kitty 그래픽 명세 완전 지원",
+          "link": "https://news.hada.io/topic?id=36121",
+          "pubDate": "2026-10-27T18:41:07.000Z",
           "image": null,
-          "summary": "Debian 개발자 한 명이 자신의 업로드에 LLM 검토가 사전 공지 없이 적용되는 것으로 보인다며, 이를 거부할 방법이 생길 때까지 NEW 업로드를 중단하기로 함 해당 검토 결과는 Debian Inference 기반 워크플로로 생성됐으며, DFSG 팀원이 작성하...",
+          "summary": "Ghostty 1.4.0은 터미널 처리 성능과 메모리 사용량을 개선하고, Kitty 외 터미널 최초로 공개된 Kitty 그래픽 명세 전체를 지원함 화면에 보이지 않는 스크롤백을 압축해 일반적인 텍스트 기록의 물리 메모리 사용량을 70~90% 줄이고, 기본 기록...",
           "keywords": [
-            "이상",
-            "Debian",
-            "NEW",
-            "큐에",
-            "업로드하지"
+            "Ghostty",
+            "성능과",
+            "메모리",
+            "개선",
+            "Kitty"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함",
-          "link": "https://news.hada.io/topic?id=36109",
-          "pubDate": "2026-10-27T13:38:07.000Z",
+          "title": "M6를 탑재한 새로운 iMac",
+          "link": "https://news.hada.io/topic?id=36120",
+          "pubDate": "2026-10-27T18:38:07.000Z",
           "image": null,
-          "summary": "Open3DLab 운영진에 따르면, Roblox 소속이라고 밝힌 크롤러가 712개 프로젝트의 파일 1,027개, 총 145.5GB를 다운로드함. 다만 소속은 사용자 에이전트의 자기표시에 근거하며 Roblox의 확인은 받지 못함 크롤러는 robots.txt와 스크래핑 금지 약관을 무시했으며,...",
+          "summary": "M6 기반 iMac은 GPU 코어마다 Neural Accelerator를 탑재하고 듀얼 16코어 Neural Engine을 도입한 일체형 데스크톱으로, 최대 32GB 통합 메모리를 지원함 Apple 측정에서 온디바이스 AI의 첫 토큰 생성 시간은 M4 iMac 대비 최대 5배 빨라졌으며, 이는 특정 모델과...",
           "keywords": [
-            "Roblox가",
-            "허락",
-            "없이",
-            "Open3DLab",
-            "등에서"
+            "M6를",
+            "탑재한",
+            "새로운",
+            "iMac"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:08.983Z",
+      "fetchedAt": "2026-10-27T20:27:15.393Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +533,7 @@
           "summaryKo": "성장하는 유튜브 채널. 시리즈 예고편을 출시하는 인디 애니메이션 스튜디오. Kickstarter가 성과를 낼지 여부를 확인하려는 새로운 TTRPG 회사. 이러한 노력에 참여하는 모든 사람들은 Chronicle Media의 예측 잠재고객 모델 Ubiquity를 사용할 수 있다는 한 가지 공통점이 있습니다. Aaron Sisto, Scott Greenberg, Ollie Lewis가 공동 설립한 Chronicle은 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 들어보세요."
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:09.188Z",
+      "fetchedAt": "2026-10-27T20:27:15.539Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:09.425Z",
+      "fetchedAt": "2026-10-27T20:27:15.852Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:09.478Z",
+      "fetchedAt": "2026-10-27T20:27:15.944Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:11.955Z",
+      "fetchedAt": "2026-10-27T20:27:18.301Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:12.270Z",
+      "fetchedAt": "2026-10-27T20:27:18.590Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -885,6 +883,23 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+          "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+          "pubDate": "2026-10-27T18:55:35.000Z",
+          "image": null,
+          "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Venture",
+            "disruptive",
+            "In Brief"
+          ],
+          "isForeign": true,
+          "titleKo": "Disruptive는 최소 10개의 회사에 큰 베팅을 하기 위해 $ 10B 펀드를 모금합니다.",
+          "summaryKo": "Disruptive는 최근 몇 년 동안 칩 스타트업 Groq 및 AI 음성 생성 스타트업 ElevenLabs와 같은 회사에 돈을 쏟아 부어 화제가 되었습니다."
+        },
         {
           "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
           "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
@@ -912,7 +927,9 @@
           "keywords": [
             "Startups",
             "TC",
-            "anduril"
+            "anduril",
+            "billionaire tax",
+            "Palmer Luckey"
           ],
           "isForeign": true,
           "titleKo": "억만장자 파머 럭키는 재산세 때문에 캘리포니아를 떠나지 않습니다",
@@ -923,17 +940,18 @@
           "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
           "pubDate": "2026-10-27T13:00:00.000Z",
           "image": null,
-          "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+          "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
           "keywords": [
-            "TC",
-            "Startups",
-            "Hardware",
             "Government & Policy",
-            "anduril"
+            "Hardware",
+            "Startups",
+            "TC",
+            "anduril",
+            "laptops"
           ],
           "isForeign": true,
           "titleKo": "Anduril, Qualcomm, 미국산 노트북의 새로운 종류인 BlueChip 출시",
-          "summaryKo": "Anduril 창립자 Palmer Luckey는 컴퓨터 제조를 미국으로 다시 가져올 것을 맹세하며 조립뿐만 아니라 모든 개별 구성 요소를 의미하며 그 중 일부는 오늘날 중국에서만 생산됩니다."
+          "summaryKo": "Anduril 창립자 Palmer Luckey는 컴퓨터 제조를 미국으로 다시 가져올 것을 맹세하며, 조립뿐만 아니라 모든 개별 구성 요소를 의미하며, 그 중 일부는 오늘날 중국에서만 생산됩니다."
         },
         {
           "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
@@ -942,34 +960,18 @@
           "image": null,
           "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
           "keywords": [
-            "Startups",
             "AI",
+            "Startups",
             "Accel",
-            "nvidia",
-            "Exclusive"
+            "Exclusive",
+            "nvidia"
           ],
           "isForeign": true,
           "titleKo": "엔비디아, 더 적은 GPU로 기업들이 AI 모델을 실행할 수 있도록 인도 스타트업 지원",
           "summaryKo": "Simplismart는 연간 매출이 6개월 만에 14배 증가했으며, 미국은 매출의 절반 이상을 차지한다고 말합니다."
-        },
-        {
-          "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-          "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-          "pubDate": "2026-10-26T22:00:00.000Z",
-          "image": null,
-          "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-          "keywords": [
-            "Enterprise",
-            "Startups",
-            "Databricks",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "Databricks 공동 창업자가 대기업 고객을 확보하기 위한 비결을 공유합니다.",
-          "summaryKo": "대기업에 판매하는 것은 가장 빛나는 기술을 갖추는 것이 아닙니다. 대기업의 영업 팀에 차량 서비스를 제공하는 것입니다."
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:19.125Z",
+      "fetchedAt": "2026-10-27T20:27:21.306Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1068,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:24.957Z",
+      "fetchedAt": "2026-10-27T20:27:22.960Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1162,80 +1164,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T15:44:25.391Z",
+      "fetchedAt": "2026-10-27T20:27:23.469Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "모델",
+      "label": "모델",
+      "count": 2,
+      "rank": 1,
+      "change": "new"
+    },
+    {
       "key": "최대",
       "label": "최대",
       "count": 2,
-      "rank": 1,
-      "change": "up"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "up"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "up"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "up"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "up"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "up"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "ai마케팅",
       "label": "AI마케팅",
       "count": 2,
-      "rank": 7,
-      "change": "new"
+      "rank": 8,
+      "change": "down"
     },
     {
       "key": "k뷰티",
       "label": "K뷰티",
       "count": 2,
-      "rank": 8,
+      "rank": 9,
       "change": "down"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 2,
-      "rank": 9,
-      "change": "new"
-    },
-    {
-      "key": "기술사업화",
-      "label": "기술사업화",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
@@ -1280,43 +1282,43 @@
       "labelKo": "다음을 따르세요"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 6,
-      "change": "same",
+      "rank": 7,
+      "change": "down",
       "labelKo": "기사"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 7,
-      "change": "same",
+      "rank": 8,
+      "change": "down",
       "labelKo": "뉴스"
     },
     {
       "key": "statistics",
       "label": "Statistics",
       "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "스탯"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
       "rank": 9,
-      "change": "new",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "스탯"
     },
     {
       "key": "anduril",
       "label": "anduril",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "안두릴"
     }
   ]
