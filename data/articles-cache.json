@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-27T09:37:18.748Z",
+  "collectedAt": "2026-10-27T15:44:26.698Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -70,7 +70,7 @@
           "title": "반도체·설비투자가 이끈 '1% 성장'… 소비자는 지갑 더 닫았다",
           "link": "https://www.mk.co.kr/news/economy/12187413",
           "pubDate": "2026-10-27T08:43:25.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110105000003_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01170105000002_L00.jpg",
           "summary": "수출, 설비투자, 정부소비 '3두마차'가 올해 3분기 한국 경제를 이끌며 시장 예상을 뛰어넘는 성장률 성적표를 받아들었다. 27일 한국은행이 발표한 3분기 실질 국내총생산(GDP)..",
           "keywords": [
             "경제"
@@ -80,10 +80,10 @@
           "summaryKo": null
         },
         {
-          "title": "정부 \"올해 국민소득 4만달러 진입\"",
+          "title": "이형일 \"올해 국민소득 4만달러 진입\"",
           "link": "https://www.mk.co.kr/news/economy/12187412",
           "pubDate": "2026-10-27T08:43:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01110105000002_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/28/20261028_01170105000001_S00.jpg",
           "summary": "이형일 부총리 겸 재정경제부 장관이 한국의 올해 1인당 국민총소득(GNI)이 4만달러대에 진입할 것으로 보인다고 27일 밝혔다. 달러당 원화값이 오르고 경상성장률 전망치가 오른 데..",
           "keywords": [
             "경제"
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:08.926Z",
+      "fetchedAt": "2026-10-27T15:44:06.347Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:08.993Z",
+      "fetchedAt": "2026-10-27T15:44:06.422Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:10.034Z",
+      "fetchedAt": "2026-10-27T15:44:07.922Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "Fanatics는 OpenAI를 사용하여 팬들이 Shop the Look으로 게임 데이 의상을 완성하는 데 도움을 줍니다. 약 30,000개의 MLB 제품을 테스트한 결과 참여도가 10% 더 높았습니다."
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:10.272Z",
+      "fetchedAt": "2026-10-27T15:44:08.103Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "미래에서 온 남자: Johnny는 왜 추상화를 멈추지 못했나",
-          "link": "https://news.hada.io/topic?id=36099",
-          "pubDate": "2026-10-27T08:36:56.000Z",
+          "title": "Python의 실험적 JIT, 제거 예정",
+          "link": "https://news.hada.io/topic?id=36114",
+          "pubDate": "2026-10-27T15:43:29.000Z",
           "image": null,
-          "summary": "John von Neumann은 복잡한 문제에서 최소한의 대상과 공리를 추려내는 추상화로 집합론, 양자역학, 게임이론, 컴퓨터와 자기복제 기계의 기초를 세움 프로그램 내장형 구조에서는 명령어와 데이터를 같은 메모리에 저장하고, 자기복제 기계에서는...",
+          "summary": "CPython의 실험적 JIT 컴파일러 유지관리자들이 정식 지원 전환 계획을 담은 PEP 836을 철회하면서, 메인 브랜치에서 JIT 개발이 중단되고 코드도 제거될 예정임 Python 운영위원회는 유지관리, 호환성, 성공 지표와 일정에 관한 승인된 PEP를 요구했으며,",
           "keywords": [
-            "미래에서",
-            "남자:",
-            "Johnny는",
-            "추상화를",
-            "멈추지"
+            "Python의",
+            "실험적",
+            "JIT",
+            "제거",
+            "예정"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Nietzschian Debugger - 답 대신 질문으로 스스로 버그 원인을 찾게 하는 디버거",
-          "link": "https://news.hada.io/topic?id=36098",
-          "pubDate": "2026-10-27T07:32:17.000Z",
+          "title": "AI는 일을 줄여준다고 약속했다. 나는 그 어느 때보다 많이 일하고 있다",
+          "link": "https://news.hada.io/topic?id=36113",
+          "pubDate": "2026-10-27T14:34:11.000Z",
           "image": null,
-          "summary": "Nietzschian Debugger는 버그를 고쳐주는 대신 가정과 증거, 추론을 되묻고 개발자가 직접 원인을 찾도록 이끄는 CLI 도구임 모든 응답을 질문으로 구성하며 수정 방법은 알려주지 않음. AI 답변을 복사하는 지름길보다 직접 고민하는 과정을 통해 디버깅 역량을 기...",
+          "summary": "모든 엔지니어링 업무에 AI 에이전트를 쓰면서, 구현 비용의 감소가 기존 업무의 빠른 완료보다 스스로 맡는 업무량의 확대로 이어짐 여러 에이전트가 간헐적으로 질문, 계획 승인, 코드 검토를 요청하면서 맥락 전환이 늘어났고, 개별 작업의 난...",
           "keywords": [
-            "Nietzschian",
-            "Debugger",
-            "대신",
-            "질문으로",
-            "스스로"
+            "AI는",
+            "일을",
+            "줄여준다고",
+            "약속했다",
+            "나는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Pratt 파싱을 기억하려고 정리해 보기",
-          "link": "https://news.hada.io/topic?id=36096",
-          "pubDate": "2026-10-27T06:01:58.000Z",
+          "title": "Show GN: notepipe - &#039;직접&#039; 조립할 수 있는 강의노트·회의록 생성 파이프라인",
+          "link": "https://news.hada.io/topic?id=36111",
+          "pubDate": "2026-10-27T14:00:17.000Z",
           "image": null,
-          "summary": "Pratt 파싱은 shunting yard의 명시적 연산자 스택을 호출 스택으로 바꿔 이해할 수 있음. 연산자가 요구하는 부분 표현식을 재귀 호출로 파싱하고, 결합력에 따라 복귀함 결합력(binding power) 으로 연산자 우선순위를 처리하며, 일반적인 재귀...",
-          "keywords": [
-            "Pratt",
-            "파싱을",
-            "기억하려고",
-            "정리해",
-            "보기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: Claude Code Desk Look (mod) - 클로드 코드 CLI 를 데스크탑 앱처럼 바꾸기",
-          "link": "https://news.hada.io/topic?id=36095",
-          "pubDate": "2026-10-27T05:54:13.000Z",
-          "image": null,
-          "summary": "저는 클로드 코드 데스크탑 앱보다 터미널에서의 클로드 코드 CLI 를 이용하는 것을 더 선호하는데요. 그래서 그런지 이미 로그인 된 상태의 claude -p 등을",
+          "summary": "녹음으로 강의 노트나 회의록을 만들어주는 서비스, 요즘 정말 많죠. 당장 저만해도 Show GN에서 꽤 여러번 본 것 같습니다. 이미 서비스가 많은데도 왜 계속 이런게 나오냐, 하면 저는 개인의 취향에 완벽히 들어맞는 제품이 없어서일거라고 생각합니다. 요약 형식이 마음에 안 들거나, 꼭 로컬",
           "keywords": [
             "Show",
             "GN:",
-            "Claude",
-            "Code",
-            "Desk"
+            "notepipe",
+            "&#039;직접&#039;",
+            "조립할"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "새로운 iPad mini 공개 - 8.5인치 OLED와 A20 Pro 탑재",
-          "link": "https://news.hada.io/topic?id=36094",
-          "pubDate": "2026-10-27T05:33:24.000Z",
+          "title": "더 이상 Debian NEW 큐에 업로드하지 않겠다",
+          "link": "https://news.hada.io/topic?id=36110",
+          "pubDate": "2026-10-27T13:41:07.000Z",
           "image": null,
-          "summary": "Apple이 8.5인치 OLED와 A20 Pro를 탑재한 새 iPad mini를 공개함. 두께는 5.4mm로 줄고 이전 세대보다 가벼워졌으며, IP67 방수/방진을 지원함 Super Retina XDR 디스플레이는 이전과 같은 본체 면적에서 화면을 키웠으며, 최대 밝기 1,200니트와 반사를 줄이는 나...",
+          "summary": "Debian 개발자 한 명이 자신의 업로드에 LLM 검토가 사전 공지 없이 적용되는 것으로 보인다며, 이를 거부할 방법이 생길 때까지 NEW 업로드를 중단하기로 함 해당 검토 결과는 Debian Inference 기반 워크플로로 생성됐으며, DFSG 팀원이 작성하...",
           "keywords": [
-            "새로운",
-            "iPad",
-            "mini",
-            "공개",
-            "5인치"
+            "이상",
+            "Debian",
+            "NEW",
+            "큐에",
+            "업로드하지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함",
+          "link": "https://news.hada.io/topic?id=36109",
+          "pubDate": "2026-10-27T13:38:07.000Z",
+          "image": null,
+          "summary": "Open3DLab 운영진에 따르면, Roblox 소속이라고 밝힌 크롤러가 712개 프로젝트의 파일 1,027개, 총 145.5GB를 다운로드함. 다만 소속은 사용자 에이전트의 자기표시에 근거하며 Roblox의 확인은 받지 못함 크롤러는 robots.txt와 스크래핑 금지 약관을 무시했으며,...",
+          "keywords": [
+            "Roblox가",
+            "허락",
+            "없이",
+            "Open3DLab",
+            "등에서"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:10.985Z",
+      "fetchedAt": "2026-10-27T15:44:08.983Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -535,7 +535,7 @@
           "summaryKo": "성장하는 유튜브 채널. 시리즈 예고편을 출시하는 인디 애니메이션 스튜디오. Kickstarter가 성과를 낼지 여부를 확인하려는 새로운 TTRPG 회사. 이러한 노력에 참여하는 모든 사람들은 Chronicle Media의 예측 잠재고객 모델 Ubiquity를 사용할 수 있다는 한 가지 공통점이 있습니다. Aaron Sisto, Scott Greenberg, Ollie Lewis가 공동 설립한 Chronicle은 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 들어보세요."
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:11.258Z",
+      "fetchedAt": "2026-10-27T15:44:09.188Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:11.433Z",
+      "fetchedAt": "2026-10-27T15:44:09.425Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:11.504Z",
+      "fetchedAt": "2026-10-27T15:44:09.478Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,16 +699,52 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "“K-뷰티 성장 여력 여전히 크다”…아마존 신화숙 대표 “내년엔 더 큰 성장 기대”",
-          "link": "https://www.venturesquare.net/1123451/",
-          "pubDate": "2026-10-27T08:56:14.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/shin-2-781x522.jpg",
-          "summary": "신화숙 아마존 글로벌셀링 코리아 대표는 ‘Amazon Beauty in Seoul 2026’ 기자간담회에서 지난해 제시한 K-뷰티 성장 목표를 달성했다고 설명했다. 신규 판매자와 전략 지원 브랜드의 매출이 각각 두 배 수준으로 증가했으며, 내년에는 선도 브랜드 육성과 ... The post “K-뷰티 성장 여력 여전히 크다”…아마존 신화숙 대표 “내년엔 더 큰 성장 기대” appeared first on 벤처스퀘어.",
+          "title": "오렌지스퀘어 와우패스, 전국 17개 시·도 결제망 구축…외국인 관광객 재사용 비중 45%",
+          "link": "https://www.venturesquare.net/1123620/",
+          "pubDate": "2026-10-27T14:07:21.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/1027.png",
+          "summary": "오렌지스퀘어가 운영하는 외국인 전용 결제·커머스 플랫폼 와우패스의 지난 9월 결제 이용 지역이 전국 17개 시·도, 300여 개 업종에 걸친 것으로 나타났다. 결제가 발생한 날 가운데 약 21%는 하루 동안 두 개 이상의 시·도에서 결제가 이뤄졌으며, 최근 1년간 앱에... The post 오렌지스퀘어 와우패스, 전국 17개 시·도 결제망 구축…외국인 관광객 재사용 비중 45% appeared first on 벤처스퀘어.",
           "keywords": [
+            "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "현장스케치",
-            "KBeauty",
+            "K투어패스",
+            "WOWPASS",
+            "결제서비스"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "라인플러스, K-뷰티 아마존 진출 돕는 ‘워너블 AI’ 공개…상품 콘텐츠 제작 자동화",
+          "link": "https://www.venturesquare.net/1123623/",
+          "pubDate": "2026-10-27T14:04:38.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/LINE-783x522.jpg",
+          "summary": "라인플러스가 '아마존 뷰티 인 서울 2026'에 참가해 K-뷰티 브랜드의 글로벌 이커머스 진출을 지원하는 AI 마케팅 솔루션 '워너블 AI'를 선보였다. 지난 7일 출시된 워너블 AI는 상품과 경쟁시장 분석부터 콘텐츠 기획·제작, 아마존의 주요 이미지 가이드라인 점검과... The post 라인플러스, K-뷰티 아마존 진출 돕는 ‘워너블 AI’ 공개…상품 콘텐츠 제작 자동화 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI마케팅",
+            "A플러스콘텐츠",
+            "K뷰티"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "동의모감, 미국 아마존 진출 18일 만에 헤어토닉 신상품 1위…창포 두피케어로 해외 시장 공략",
+          "link": "https://www.venturesquare.net/1123605/",
+          "pubDate": "2026-10-27T13:48:40.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/HairTonic-789x353.png",
+          "summary": "두피케어 브랜드 동의모감의 '창포 모근비책 두피토닉'이 미국 아마존 판매 시작 18일 만에 헤어토닉 카테고리 신상품 순위 1위를 기록했다. 동의모감은 10월 7일 미국 판매를 시작했으며, 25일 미국 동부시간 기준 'New Releases in Hair Tonic' 목... The post 동의모감, 미국 아마존 진출 18일 만에 헤어토닉 신상품 1위…창포 두피케어로 해외 시장 공략 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI마케팅",
             "K뷰티",
             "글로벌이커머스"
           ],
@@ -717,79 +753,43 @@
           "summaryKo": null
         },
         {
-          "title": "“K-뷰티 열풍, 언제까지 갈 것인가”…아마존, 서울서 글로벌 성장의 다음 조건을 제시하다",
-          "link": "https://www.venturesquare.net/1123401/",
-          "pubDate": "2026-10-27T04:26:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ABAZOE-780x522.jpg",
-          "summary": "아마존이 ‘Amazon Beauty in Seoul 2026’을 개최하고 K-뷰티의 글로벌 성장 전략을 논의했다. 미국과 유럽 뷰티 사업 책임자들은 한국 화장품의 성장 성과와 소비자 행동 변화를 공유하고, AI 기반 상품 발굴과 개인화된 쇼핑 경험, 글로벌 물류망을 활... The post “K-뷰티 열풍, 언제까지 갈 것인가”…아마존, 서울서 글로벌 성장의 다음 조건을 제시하다 appeared first on 벤처스퀘어.",
+          "title": "홈즈글로벌 스튜던트홈즈, QS 해외 대학원 박람회 참가…유학생 숙소 예약 상담 지원",
+          "link": "https://www.venturesquare.net/1123590/",
+          "pubDate": "2026-10-27T13:27:06.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/QS-550x522.jpg",
+          "summary": "홈즈글로벌이 운영하는 해외 기숙사 예약 플랫폼 스튜던트홈즈가 10월 29일 롯데호텔 서울에서 열리는 'QS Discover & Connect Master's' 석사 박람회에 참가한다. 이번 행사에는 해외 주요 대학과 대학원의 입학 담당자가 참여하며, 스튜던트홈즈는 유학... The post 홈즈글로벌 스튜던트홈즈, QS 해외 대학원 박람회 참가…유학생 숙소 예약 상담 지원 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
+            "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "현장스케치",
-            "AI커머스",
-            "AmazonBeautyInSeoul2026"
+            "QSDiscover",
+            "QS박람회",
+            "StudentHomes"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "씨케이리제온, 탈모 신약 ‘CKR-051’ 임상 2상 준비…딥테크 팁스 선정",
-          "link": "https://www.venturesquare.net/1123390/",
-          "pubDate": "2026-10-27T03:56:16.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/cccc-789x461.png",
-          "summary": "씨케이리제온이 중소벤처기업부의 2026년 딥테크 팁스 과제에 선정돼 윈트 신호전달계 활성 회복을 표적으로 하는 탈모 치료제 후보물질 CKR-051의 후속 개발을 추진한다. 이번 과제는 국비 15억원을 포함한 총 20억원 규모로 3년간 진행되며, 연고제에서 액제로의 제형... The post 씨케이리제온, 탈모 신약 ‘CKR-051’ 임상 2상 준비…딥테크 팁스 선정 appeared first on 벤처스퀘어.",
+          "title": "바이스벌사, 옷 사진으로 패션 도식화 자동 생성…’빔스튜디오’에 벡터 편집 기능 추가",
+          "link": "https://www.venturesquare.net/1123572/",
+          "pubDate": "2026-10-27T13:20:32.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/VB-789x444.png",
+          "summary": "바이스벌사가 패션 AI 플랫폼 '빔스튜디오(VIIMstudio)'에 의류 사진을 도식화로 자동 생성하고 편집 가능한 파일로 변환하는 기능을 추가했다. 회사에 따르면 기존 약 3시간이 걸리던 도식화 작성 작업을 5분 이내로 단축할 수 있다. 생성된 결과물은 어도비 일러스... The post 바이스벌사, 옷 사진으로 패션 도식화 자동 생성…’빔스튜디오’에 벡터 편집 기능 추가 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "CKR051",
-            "CKRegeon",
-            "CXXC5"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "AWS, 파이토치 코드 수정 없이 트레이니움 실행…오픈소스 ‘토치뉴런’ 공개",
-          "link": "https://www.venturesquare.net/1123370/",
-          "pubDate": "2026-10-27T03:49:55.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/aws-4.jpg",
-          "summary": "아마존웹서비스(AWS)가 기존 파이토치 코드를 재작성하지 않고 자체 AI 가속기 트레이니움에서 실행할 수 있도록 지원하는 오픈소스 기술 '토치뉴런'을 공개했다. 토치뉴런은 트레이니움2와 트레이니움3를 지원하며 하드웨어 설정 변경을 통해 AI 모델을 실행할 수 있도록 설... The post AWS, 파이토치 코드 수정 없이 트레이니움 실행…오픈소스 ‘토치뉴런’ 공개 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI가속기",
-            "AI반도체",
-            "Ai인프라"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "청연, 옷장 넘어 집 전체 정리·수납 서비스 출시…주거관리 사업 확대",
-          "link": "https://www.venturesquare.net/1123358/",
-          "pubDate": "2026-10-27T03:47:25.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/cy-789x444.jpg",
-          "summary": "라이프케어 플랫폼 청연이 거실과 주방, 아이방 등 주거 공간 전반을 대상으로 하는 '집 전체 정리' 서비스를 출시했다. 정리·수납 전문가인 청연 프로가 고객의 생활 동선과 물건 사용 빈도를 고려해 공간 진단부터 맞춤 수납, 마무리 컨설팅까지 5단계로 진행한다. 비용은 ... The post 청연, 옷장 넘어 집 전체 정리·수납 서비스 출시…주거관리 사업 확대 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "O2O플랫폼",
-            "가사서비스",
-            "공간정리"
+            "AI디자인",
+            "VIIMstudio",
+            "디자인생산성"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:15.383Z",
+      "fetchedAt": "2026-10-27T15:44:11.955Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +877,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:15.616Z",
+      "fetchedAt": "2026-10-27T15:44:12.270Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -885,6 +885,73 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+          "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+          "pubDate": "2026-10-27T14:59:09.000Z",
+          "image": null,
+          "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Enterprise AI",
+            "Exclusive",
+            "Meta",
+            "meta superintelligence labs"
+          ],
+          "isForeign": true,
+          "titleKo": "Meta AI 디렉터 Rohit Patel이 Microsoft Office 및 Google Workspace를 맡기 위해 떠납니다.",
+          "summaryKo": "로히트 파텔 (Rohit Patel) 은 AI 평가 및 강화 학습을 위해 8년 동안 노력한 끝에 메타를 떠났습니다. 테크크런치 (TechCrunch) 는 독점적으로 학습했습니다. 그의 스타트업인 Ndoc은 Microsoft Office Suite를 인수하는 것을 목표로 합니다."
+        },
+        {
+          "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+          "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+          "pubDate": "2026-10-27T13:01:00.000Z",
+          "image": null,
+          "summary": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+          "keywords": [
+            "Startups",
+            "TC",
+            "anduril"
+          ],
+          "isForeign": true,
+          "titleKo": "억만장자 파머 럭키는 재산세 때문에 캘리포니아를 떠나지 않습니다",
+          "summaryKo": "캘리포니아 토박이 파머 럭키 (Palmer Luckey) 는 \"내가 달리고 싶지 않은 많은 사람들이 달리고 있습니다.\" 라고 말했습니다. “하지만 저는 캘리포니아에 머물 계획이에요. 계속 싸울 거야.”"
+        },
+        {
+          "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+          "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+          "pubDate": "2026-10-27T13:00:00.000Z",
+          "image": null,
+          "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+          "keywords": [
+            "TC",
+            "Startups",
+            "Hardware",
+            "Government & Policy",
+            "anduril"
+          ],
+          "isForeign": true,
+          "titleKo": "Anduril, Qualcomm, 미국산 노트북의 새로운 종류인 BlueChip 출시",
+          "summaryKo": "Anduril 창립자 Palmer Luckey는 컴퓨터 제조를 미국으로 다시 가져올 것을 맹세하며 조립뿐만 아니라 모든 개별 구성 요소를 의미하며 그 중 일부는 오늘날 중국에서만 생산됩니다."
+        },
+        {
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+          "pubDate": "2026-10-27T11:00:00.000Z",
+          "image": null,
+          "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+          "keywords": [
+            "Startups",
+            "AI",
+            "Accel",
+            "nvidia",
+            "Exclusive"
+          ],
+          "isForeign": true,
+          "titleKo": "엔비디아, 더 적은 GPU로 기업들이 AI 모델을 실행할 수 있도록 인도 스타트업 지원",
+          "summaryKo": "Simplismart는 연간 매출이 6개월 만에 14배 증가했으며, 미국은 매출의 절반 이상을 차지한다고 말합니다."
+        },
         {
           "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
           "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
@@ -900,71 +967,9 @@
           "isForeign": true,
           "titleKo": "Databricks 공동 창업자가 대기업 고객을 확보하기 위한 비결을 공유합니다.",
           "summaryKo": "대기업에 판매하는 것은 가장 빛나는 기술을 갖추는 것이 아닙니다. 대기업의 영업 팀에 차량 서비스를 제공하는 것입니다."
-        },
-        {
-          "title": "Startups don’t need to go viral to win customers",
-          "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-          "pubDate": "2026-10-23T23:07:45.000Z",
-          "image": null,
-          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-          "keywords": [
-            "Startups",
-            "engine",
-            "Gamma",
-            "google ventures",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "신생 기업은 고객을 유치하기 위해 바이럴을 할 필요가 없습니다.",
-          "summaryKo": "지난 주 TechCrunch Disrupt에서 두 명의 창업자와 VC가 초기 팔로워를 확보하는 것이 아니라 유지하는 방법에 대해 논의했습니다."
-        },
-        {
-          "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-          "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-          "pubDate": "2026-10-23T20:57:13.000Z",
-          "image": null,
-          "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "VC, Superhuman Mail 창립자는 제품-시장 적합성에 대한 위험 신호를 공유합니다",
-          "summaryKo": "Iconiq 및 Sapphire Ventures의 최고 투자자는 Superhuman Mail의 설립자 인 Rahul Vohra와 함께 히트 상품 구축에 대한 지침을 공유합니다."
-        },
-        {
-          "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-          "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-          "pubDate": "2026-10-23T20:03:14.000Z",
-          "image": null,
-          "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-          "keywords": [
-            "Startups",
-            "TechCrunch Founder Summit"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch 창립자 서밋 2026 라운드테이블: 창립자가 현재 해결하고 있는 과제에 대해 자세히 알아보기",
-          "summaryKo": "TechCrunch 창립자 서밋 2026이 11월 4일 보스턴의 소와 파워 스테이션에서 개최됩니다. 창립자, 투자자 및 운영자가 함께 모여 하루 종일 솔직한 대화, 실용적인 세션, 라이브 피칭, 네트워킹 및 더 깊은 토론을 위해 구축된 소규모 원탁 회의를 진행합니다."
-        },
-        {
-          "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-          "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-          "pubDate": "2026-10-23T19:25:13.000Z",
-          "image": null,
-          "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-          "keywords": [
-            "Startups",
-            "Venture",
-            "Carta",
-            "NewView Capital"
-          ],
-          "isForeign": true,
-          "titleKo": "Carta와 NewView 파트너는 더 많은 스타트업이 직원들이 주식을 조기에 판매할 수 있도록 유도하기를 희망합니다.",
-          "summaryKo": "새로운 프로그램은 더 많은 신생 기업이 입찰 제안을 쉽게 거래할 수 있도록 하여 근로자가 조기에 출금을 할 수 있도록 장려하고자 합니다."
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:15.717Z",
+      "fetchedAt": "2026-10-27T15:44:19.125Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -973,97 +978,97 @@
       "subcategory": "창업 노하우",
       "items": [
         {
-          "title": "대전창조경제혁신센터, 드림벤처스타 12기 성과 공유…대·중견기업과 스타트업 협력 성과 점검",
-          "link": "https://www.venturesquare.net/1123374/",
-          "pubDate": "2026-10-27T03:52:13.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/dj-6-739x522.jpg",
-          "summary": "대전창조경제혁신센터가 한국중견기업연합회와 공동으로 드림벤처스타(DVS) 12기 오픈이노베이션 성과공유회를 개최했다. 올해 프로그램에는 SK텔레콤과 호반그룹 등 5개 파트너사가 참여해 스타트업 5개사와 기술검증 및 사업화 실증을 추진하고 있다. 행사에서는 지난해 11기 ... The post 대전창조경제혁신센터, 드림벤처스타 12기 성과 공유…대·중견기업과 스타트업 협력 성과 점검 appeared first on 벤처스퀘어.",
+          "title": "경남창조경제혁신센터, 싱가포르 BeyondX·비티비벤처스와 협력…지역 스타트업 해외 진출 지원",
+          "link": "https://www.venturesquare.net/1123602/",
+          "pubDate": "2026-10-27T13:54:28.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/BEYOND-696x522.jpg",
+          "summary": "경남창조경제혁신센터가 10월 26일 싱가포르에서 BeyondX, 비티비벤처스와 경남 지역 스타트업의 해외 진출 및 투자유치 지원을 위한 3자 업무협약을 체결했다. 이번 협약은 경상남도가 주최한 글로벌 진출 프로그램의 일환으로, 신산업 분야 유망 스타트업의 아시아 시장 ... The post 경남창조경제혁신센터, 싱가포르 BeyondX·비티비벤처스와 협력…지역 스타트업 해외 진출 지원 appeared first on 벤처스퀘어.",
           "keywords": [
             "스타트업 가이드",
-            "DVS",
-            "POC",
-            "SK텔레콤",
-            "기술검증",
-            "대전창조경제혁신센터"
+            "BeyondX",
+            "BTBVentures",
+            "경남창조경제혁신센터",
+            "경상남도",
+            "글로벌네트워크"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "스파크랩 육성 씨아이티·피시오, FLY ASIA 2026 글로벌 스케일업 경진대회 대상·동상 수상",
-          "link": "https://www.venturesquare.net/1123357/",
-          "pubDate": "2026-10-27T03:45:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/fly-789x444.jpg",
-          "summary": "스파크랩이 육성하는 씨아이티와 피시오가 'FLY ASIA 2026' 글로벌 스케일업 챔피언스 어워즈에서 각각 대상과 동상을 수상했다. 씨아이티는 반도체 패키지용 유리기판과 AI 가속기 보드 소재를 개발하고 있으며, 피시오는 데이터 경량화 및 암호화 보안 전송 장비를 개... The post 스파크랩 육성 씨아이티·피시오, FLY ASIA 2026 글로벌 스케일업 경진대회 대상·동상 수상 appeared first on 벤처스퀘어.",
+          "title": "경북창조경제혁신센터, 로컬기업 성장 전략 공유…’2026 LOCAL TABLE TALK’ 개최",
+          "link": "https://www.venturesquare.net/1123588/",
+          "pubDate": "2026-10-27T13:30:36.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/unnamed-35-696x522.jpg",
+          "summary": "경북창조경제혁신센터가 10월 27일 G-Idea Park에서 대구·경북 로컬기업과 예비창업자를 위한 '2026 LOCAL TABLE TALK'를 개최했다. 행사에는 소상공인 도약지원사업 선정 기업과 로컬크리에이터, 강한소상공인 사업 참여 기업 등 30여 명이 참석했다.... The post 경북창조경제혁신센터, 로컬기업 성장 전략 공유…’2026 LOCAL TABLE TALK’ 개최 appeared first on 벤처스퀘어.",
           "keywords": [
             "스타트업 가이드",
-            "AI반도체",
-            "FLYASIA2026",
-            "글로벌스케일업챔피언스",
-            "글로벌아카데미",
-            "글로벌진출"
+            "LOCALTABLETALK",
+            "강한소상공인",
+            "경북창조경제혁신센터",
+            "대구경북",
+            "로컬브랜드"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[VS 기획] 대기업 온투업 진출에 ‘저수지 속 고래’ 우려…투자재원·이해상충 쟁점",
-          "link": "https://www.venturesquare.net/1122839/",
-          "pubDate": "2026-10-26T23:00:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/KakaoTalk_20261026_161001146_01-789x442.png",
-          "summary": "대형 금융 플랫폼의 온라인투자연계금융업 진출을 둘러싸고 기존 핀테크 업계의 반발이 커지고 있다. 업계는 한정된 투자재원을 둘러싼 경쟁 심화와 대출 중개·상품 공급 겸영에 따른 이해상충 가능성을 우려하고 있다. 국정감사에서도 대형 사업자의 시장 진입이 기존 생태계에 미치... The post [VS 기획] 대기업 온투업 진출에 ‘저수지 속 고래’ 우려…투자재원·이해상충 쟁점 appeared first on 벤처스퀘어.",
+          "title": "중기부, 제주 바이오기업 AI 전환 현장 점검…셀릭스 연구개발 활용 사례 살펴",
+          "link": "https://www.venturesquare.net/1123585/",
+          "pubDate": "2026-10-27T13:23:08.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/2-7-783x522.jpg",
+          "summary": "중소벤처기업부 노용석 제1차관이 10월 27일 제주테크노파크와 바이오·제약 분야 AI 솔루션 도입기업 셀릭스를 방문했다. 이번 현장 방문은 제주 지역 주도형 AI 대전환 사업의 추진현황을 점검하고 기업들의 AI 도입·활용 과정에서 발생하는 어려움을 파악하기 위해 진행됐... The post 중기부, 제주 바이오기업 AI 전환 현장 점검…셀릭스 연구개발 활용 사례 살펴 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
             "스타트업 가이드",
-            "P2P금융",
-            "공정경쟁",
-            "금융규제",
-            "금융플랫폼"
+            "AI솔루션",
+            "AI전환",
+            "AX",
+            "노용석",
+            "바이오스타트업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "중기부, 중소기업 수출 334억 달러 역대 최고…K-뷰티 성장에 브랜드 육성 정책 더한다",
-          "link": "https://www.venturesquare.net/1123185/",
-          "pubDate": "2026-10-26T22:53:50.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/2026년-3분기-중소기업-수출-현황-783x522.png",
-          "summary": "중소벤처기업부가 발표한 2026년 3분기 중소기업 수출액은 334억 달러로 전년 동기 대비 8.8% 증가하며 역대 같은 분기 최고치를 기록했다. K-뷰티는 북미와 유럽, 중남미에서 수출을 확대했고 반도체와 제조장비도 AI 산업의 성장에 힘입어 호조를 보였다. 정부는 지... The post 중기부, 중소기업 수출 334억 달러 역대 최고…K-뷰티 성장에 브랜드 육성 정책 더한다 appeared first on 벤처스퀘어.",
+          "title": "대전창조경제혁신센터, ETRI 기술사업화 현장 공유…24개 기관 창업 협력 강화",
+          "link": "https://www.venturesquare.net/1123573/",
+          "pubDate": "2026-10-27T13:16:30.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/DJDJDJDJ-3-789x444.jpg",
+          "summary": "대전창조경제혁신센터가 10월 27일 한국전자통신연구원(ETRI) 융합기술연구생산센터에서 두 번째 '창업도시 대전 투어 프로그램'을 개최했다. 이번 행사에는 지역 창업생태계 관계자와 예비창업자 등 약 30명이 참석해 ETRI의 기술사업화 추진 현황과 연구·지원시설을 살펴... The post 대전창조경제혁신센터, ETRI 기술사업화 현장 공유…24개 기관 창업 협력 강화 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
             "스타트업 가이드",
-            "K뷰티",
-            "K수출전략품목",
-            "글로벌시장",
-            "글로벌진출"
+            "ETRI",
+            "LabtoCity",
+            "공공연구성과",
+            "기술사업화",
+            "기술창업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "강원창조경제혁신센터, 바이오·헬스케어 스타트업 13개사 투자유치 지원…11월 3일 데모데이 개최",
-          "link": "https://www.venturesquare.net/1123119/",
-          "pubDate": "2026-10-26T12:31:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/ONBORDING-369x522.png",
-          "summary": "강원창조경제혁신센터가 오는 11월 3일 원주시 창업지원허브에서 ‘제5회 온보딩플라이트 데모데이’를 개최한다. 이번 행사에는 신약·바이오, AI·디지털 헬스케어, 의료기기·진단, 애니멀 헬스케어 분야에서 선정된 스타트업 13개사가 참여한다. 참가 기업들은 IR 발표에 이... The post 강원창조경제혁신센터, 바이오·헬스케어 스타트업 13개사 투자유치 지원…11월 3일 데모데이 개최 appeared first on 벤처스퀘어.",
+          "title": "블루포인트, 양자컴퓨팅 공급망·사업화 기회 조명…’QX 네트워킹 포럼’ 개최",
+          "link": "https://www.venturesquare.net/1123564/",
+          "pubDate": "2026-10-27T13:12:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/unnamed-42-369x522.png",
+          "summary": "블루포인트파트너스가 대전 오노마호텔에서 '2026 양자산업 QX 네트워킹 포럼: 퀀텀 호라이즌'을 개최한다. 이번 행사에서는 글로벌 양자산업의 변화와 국내 기업의 기술사업화 기회를 제조·핵심 부품·극저온 인프라 등 밸류체인 전반에서 살펴본다. 트래피온스 김태현 공동창업... The post 블루포인트, 양자컴퓨팅 공급망·사업화 기회 조명…’QX 네트워킹 포럼’ 개최 appeared first on 벤처스퀘어.",
           "keywords": [
             "스타트업 가이드",
-            "강원창조경제혁신센터",
-            "강원특별자치도",
-            "강원혁신센터",
-            "데모데이",
-            "디지털헬스케어"
+            "QuantumHorizon",
+            "QX네트워킹포럼",
+            "SNSPD",
+            "극저온기술",
+            "기술사업화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:18.377Z",
+      "fetchedAt": "2026-10-27T15:44:24.957Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1073,7 +1078,7 @@
       "items": [
         {
           "title": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04OFBkVHNZNkFrOWs1VDJzMVEwN2JPc3NVRF83R0h1SmhqeF9ybjg1dnZSVm9RekxKbldYNjMzeWRQZUxaeVlPSV9BWG54bTB5NkV4am8yMHBFaHY2SHlzOTlFVFdBdFFYeWN0NEVPVUlfMVU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kTXZvTG5kR2VTTi1hbk9MMWR5OEtpM04yeExzLXRpMzlLOW9FQmw5bDNMRGNfMFdHRnlNeWpoZVg2TGJGTzlmMGdhNk1RTE5ZRFM3YXh3Vi1sSEwza3BEdWJqaFdCdGlOaC0tdDJ2VHUzdw?oc=5",
           "pubDate": "2026-10-27T01:11:13.000Z",
           "image": null,
           "summary": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 헤드라인제주",
@@ -1089,17 +1094,17 @@
           "summaryKo": null
         },
         {
-          "title": "전북테크노파크, 중소기업 보안인증 최대 1천만원 지원 - 전라매일",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13akszLU1XT29uYXNPNlNWMmZLcE83dENEV2Q0RDVnbGlQODQyenowak5tNkRzQzdKcjhYQUc0dGFhdWJMZHFuNzJqUGRqWHRGZlE?oc=5",
-          "pubDate": "2026-10-27T07:36:00.000Z",
+          "title": "서귀포시, 노인 일자리 사업 수행 기관 모집 - 제주일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZ0ptY1BLMnczRUNhRWx0cW1FOTJ6dzIzanlPQkw0THBYVFBLLU1WY3VTdVFlUzFaWmlOYWFIc0tJTUxBcWhhMl9iUV9KNVVJSGY1VFB3Q3BNRFptdlRkZE5qV054NWhaTVFjag?oc=5",
+          "pubDate": "2026-10-27T10:11:54.000Z",
           "image": null,
-          "summary": "전북테크노파크, 중소기업 보안인증 최대 1천만원 지원 전라매일",
+          "summary": "서귀포시, 노인 일자리 사업 수행 기관 모집 제주일보",
           "keywords": [
-            "전북테크노파크",
-            "중소기업",
-            "보안인증",
-            "최대",
-            "1천만원"
+            "서귀포시",
+            "노인",
+            "일자리",
+            "사업",
+            "수행"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1123,6 +1128,23 @@
           "summaryKo": null
         },
         {
+          "title": "전북테크노파크, 중소기업 보안인증 최대 1천만원 지원 - 전라매일",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13akszLU1XT29uYXNPNlNWMmZLcE83dENEV2Q0RDVnbGlQODQyenowak5tNkRzQzdKcjhYQUc0dGFhdWJMZHFuNzJqUGRqWHRGZlE?oc=5",
+          "pubDate": "2026-10-27T07:36:00.000Z",
+          "image": null,
+          "summary": "전북테크노파크, 중소기업 보안인증 최대 1천만원 지원 전라매일",
+          "keywords": [
+            "전북테크노파크",
+            "중소기업",
+            "보안인증",
+            "최대",
+            "1천만원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "충남창조경제혁신센터 ‘충남창업마루나비 인플루언서 마케팅 지원사업’ 참여기업 모집 - 아산포커스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zNFljZHF6VE9EVHZUQWM4dlhld0ltZHJkdTZiaFRYeHBhMi14amJ2em02NDZsLTlIeHpvZVM1SWZoWmtwMmRFcmtWdm5EaW85N3dhLWgtOTBGLWgwbHRaT2dRNHNKRjBGUFBTOFVB?oc=5",
           "pubDate": "2026-10-27T02:44:25.000Z",
@@ -1138,97 +1160,80 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "충남창조경제혁신센터, 인플루언서 마케팅 지원사업 참여기업 모집 - 웹이코노미",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ta0ZwVlRnR01YMmJjRUxOZlZjMjZKdXpycE1Tell2VzNOd0JhS2lQWFN0b05qM3BneFNmNU1VdWg3QVFyOGVjbUdPMjlMYWZrU3JudTB1M05CUHJTVUt4VG5YWUpwSVNVZnp5WkphTlJwQQ?oc=5",
-          "pubDate": "2026-10-27T04:47:22.000Z",
-          "image": null,
-          "summary": "충남창조경제혁신센터, 인플루언서 마케팅 지원사업 참여기업 모집 웹이코노미",
-          "keywords": [
-            "충남창조경제혁신센터",
-            "인플루언서",
-            "마케팅",
-            "지원사업",
-            "참여기업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-27T09:37:18.741Z",
+      "fetchedAt": "2026-10-27T15:44:25.391Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "special post",
-      "label": "Special Post",
-      "count": 3,
+      "key": "최대",
+      "label": "최대",
+      "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "up"
     },
     {
-      "key": "ai반도체",
-      "label": "AI반도체",
-      "count": 2,
+      "key": "경제",
+      "label": "경제",
+      "count": 5,
       "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 5,
+      "rank": 3,
+      "change": "up"
+    },
+    {
+      "key": "뉴스&트렌드",
+      "label": "뉴스&트렌드",
+      "count": 5,
+      "rank": 4,
+      "change": "up"
+    },
+    {
+      "key": "뉴스콘텐츠",
+      "label": "뉴스콘텐츠",
+      "count": 5,
+      "rank": 5,
+      "change": "up"
+    },
+    {
+      "key": "스타트업 가이드",
+      "label": "스타트업 가이드",
+      "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "ai마케팅",
+      "label": "AI마케팅",
+      "count": 2,
+      "rank": 7,
       "change": "new"
     },
     {
       "key": "k뷰티",
       "label": "K뷰티",
       "count": 2,
-      "rank": 3,
-      "change": "new"
-    },
-    {
-      "key": "최대",
-      "label": "최대",
-      "count": 2,
-      "rank": 4,
-      "change": "new"
-    },
-    {
-      "key": "경제",
-      "label": "경제",
-      "count": 5,
-      "rank": 5,
-      "change": "down"
-    },
-    {
-      "key": "뉴스&트렌드",
-      "label": "뉴스&트렌드",
-      "count": 5,
-      "rank": 6,
-      "change": "down"
-    },
-    {
-      "key": "뉴스콘텐츠",
-      "label": "뉴스콘텐츠",
-      "count": 5,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "스타트업 가이드",
-      "label": "스타트업 가이드",
-      "count": 5,
       "rank": 8,
       "change": "down"
     },
     {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 3,
+      "key": "글로벌",
+      "label": "글로벌",
+      "count": 2,
       "rank": 9,
-      "change": "down"
+      "change": "new"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
+      "key": "기술사업화",
+      "label": "기술사업화",
+      "count": 2,
       "rank": 10,
       "change": "new"
     }
@@ -1299,20 +1304,20 @@
       "labelKo": "스탯"
     },
     {
-      "key": "techcrunch disrupt",
-      "label": "TechCrunch Disrupt",
-      "count": 3,
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 9,
-      "change": "same",
-      "labelKo": "TechCrunch Disrupt"
+      "change": "new",
+      "labelKo": "AI"
     },
     {
-      "key": "enforcement actions",
-      "label": "Enforcement Actions",
+      "key": "anduril",
+      "label": "anduril",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "시행 조치"
+      "change": "new",
+      "labelKo": "안두릴"
     }
   ]
 }
