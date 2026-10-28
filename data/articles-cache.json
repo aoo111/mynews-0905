@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-28T14:54:43.181Z",
+  "collectedAt": "2026-10-28T20:47:09.933Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“가진 자산이 얼마나 되시나요?”…진짜 부자는 ‘은행 비밀공간’으로 간다",
+          "link": "https://www.mk.co.kr/news/economy/12189197",
+          "pubDate": "2026-10-28T19:18:28.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/29/news-p.v1.20261028.9a01ba102e6e46a58e533d05ac70f4ef_R.png",
+          "summary": "100억대 자산가가 찾는 은행PB센터 투자·상속·세금 한곳서 해결 고객 가족 자산까지도 관리 타인과 접촉 철저하게 막고 공연·골프·항공 등 챙겨줘 고액 자산가 상담 요청 쇄도평일 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "北 IP서 해킹 시도…코인탈취 노렸나 靑, 전방위 해킹 사고에 긴급점검회의",
           "link": "https://www.mk.co.kr/news/economy/12188755",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "고용·투자 늘린 中企, 세무조사 빼준다",
-          "link": "https://www.mk.co.kr/news/economy/12188709",
-          "pubDate": "2026-10-28T08:39:17.000Z",
-          "image": null,
-          "summary": "국세청이 고용이나 투자를 늘리는 중소기업을 정기 세무조사 대상에서 제외하기로 했다. 특히 청년·고령자·장애인을 고용하면 가중치를 둬 취약계층 일자리 창출을 적극 지원한다. 국세청은..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:30.503Z",
+      "fetchedAt": "2026-10-28T20:46:50.359Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve issues FOMC statement",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "pubDate": "2026-10-28T18:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve issues FOMC statement",
+          "keywords": [
+            "Monetary Policy"
+          ],
+          "isForeign": true,
+          "titleKo": "연방 준비 제도 이사회 문제 FOMC 성명서",
+          "summaryKo": "연방 준비 제도 이사회 문제 FOMC 성명서"
+        },
         {
           "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 아메리칸 익스프레스 컴퍼니 (American Express Company) 에 대한 집행 조치를 발표하여 자금 세탁과 관련된 의심스러운 활동을 충분히 탐지하고 보고하지 못했습니다.",
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 아메리칸 익스프레스 컴퍼니 (American Express Company) 에 대한 집행 조치를 발표하여 자금 세탁과 관련된 의심스러운 활동을 충분히 탐지하고 보고하지 못했습니다."
-        },
-        {
-          "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-          "pubDate": "2026-10-07T18:00:00.000Z",
-          "image": null,
-          "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-          "keywords": [
-            "Monetary Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록",
-          "summaryKo": "2026년 9월 15-16일, 연방공개시장위원회 회의록"
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:30.572Z",
+      "fetchedAt": "2026-10-28T20:46:52.280Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+          "pubDate": "2026-10-29T05:22:15.000Z",
+          "image": null,
+          "summary": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼스 5.5'와 오픈AI의 'GPT-6 아스트라'를 제치고 정상에 올랐다. 특히 사이버 보안과 장시간 자율 작업 능력을 대폭 개선했으며, 복잡한 소프트웨어의 취약점을 찾아내고 공격 가능성을 검증한 뒤 수정하는 작업에서 최고 수준의 성능을 기록했다.구글 딥마인드는 28일(현지시간) 공식 블로그를 통해 플래그십 모델인 제미나이 4 카본을 발표했",
+          "keywords": [
+            "구글",
+            "1년",
+            "만에",
+            "AI",
+            "성능"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“앤트로픽, 내년 여름부터 AI가 AI 개발”…전문 평가업체 전망",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216767",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "액시엄, 수학 사상 가장 긴 증명 '유한 단순군 분류' 기계 검증 완수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216754",
-          "pubDate": "2026-10-28T17:35:00.000Z",
-          "image": null,
-          "summary": "수학 AI 전문 스타트업 액시엄(Axiom)이 수학 역사상 가장 방대하고 복잡한 증명으로 꼽히는 '유한 단순군 분류(CFSG·Classification of Finite Simple Groups)'의 전체 증명을 컴퓨터로 검증하는 데 성공했다. '대칭의 주기율표'로 불리는 이 거대한 체계는 약 100명의 수학자가 500편이 넘는 논문과 1만5000페이지에 걸쳐 완성한 것으로, 액시엄은 이를 AI 에이전트와 증명 보조 도구로 재구성하고 기존 문헌에서 발견한 오류와 누락된 가정까지 바로잡았다.액시엄은 26일(현지시간) 수십개의 AI 에",
-          "keywords": [
-            "액시엄",
-            "수학",
-            "사상",
-            "가장",
-            "증명"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:31.556Z",
+      "fetchedAt": "2026-10-28T20:46:53.313Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -283,8 +283,34 @@
       "subcategory": "빅테크",
       "items": [
         {
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "pubDate": "2026-10-28T13:15:00.000Z",
+          "image": null,
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI 및 ServiceNow는 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십을 확장합니다.",
+          "summaryKo": "OpenAI와 ServiceNow는 파트너십을 확장하여 OpenAI 모델 및 에이전트를 ServiceNow 및 ServiceNow 워크플로에 ChatGPT 및 Codex로 가져옵니다."
+        },
+        {
+          "title": "The future of the firm",
+          "link": "https://openai.com/index/the-future-of-the-firm",
+          "pubDate": "2026-10-28T10:00:00.000Z",
+          "image": null,
+          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+          "keywords": [
+            "Intelligence Age"
+          ],
+          "isForeign": true,
+          "titleKo": "회사의 미래",
+          "summaryKo": "인공지능이 우리 아래, 옆, 그리고 우리 사이의 조직도에 어떻게 진입할 수 있을까."
+        },
+        {
           "title": "Legora is building the agentic operating system for legal work",
-          "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "link": "https://openai.com/index/legora",
           "pubDate": "2026-10-28T09:30:00.000Z",
           "image": null,
           "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -328,39 +354,9 @@
           "isForeign": true,
           "titleKo": "OpenAI는 오라클과의 파트너십을 확장하여 앱을 ChatGPT로 가져옵니다",
           "summaryKo": "OpenAI와 오라클은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 오라클 오퍼링에 전력을 공급하기 위해 파트너십을 확장하고 있습니다."
-        },
-        {
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "link": "https://openai.com/index/check-point-daybreak",
-          "pubDate": "2026-10-27T00:00:00.000Z",
-          "image": null,
-          "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-          "keywords": [
-            "How",
-            "Check",
-            "Point",
-            "accelerates",
-            "vulnerability"
-          ],
-          "isForeign": true,
-          "titleKo": "Check Point가 Daybreak로 취약점 연구를 가속화하는 방법",
-          "summaryKo": "OpenAI Daybreak를 통해 Check Point는 새로운 보안 보호에 대한 연구를 가속화하여 분석가가 취약점 인텔리전스를 고객 방어로 더 빠르게 전환할 수 있도록 합니다."
-        },
-        {
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "link": "https://openai.com/index/greptile-code-review-codex-astra",
-          "pubDate": "2026-10-26T22:00:00.000Z",
-          "image": null,
-          "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "Greptile은 GPT-6 Astra로 코드 검토 이상의 버그 탐지를 수행합니다.",
-          "summaryKo": "Greptile이 GPT-6 Astra를 사용하여 사용자 워크플로우를 테스트하고, Daybreak를 사용하여 보안을 강화하고, Codex를 사용하여 재작업을 줄이는 방법."
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:34.028Z",
+      "fetchedAt": "2026-10-28T20:46:58.543Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,92 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "ICE, 미국 역사상 최대 규모급 좌파 감시 작전 수행 중",
-          "link": "https://news.hada.io/topic?id=36170",
-          "pubDate": "2026-10-28T14:36:33.000Z",
+          "title": "64비트 Windows에서 16비트 Windows(Windows 1.x, 2.x, 3.0, 3.1 등) 실행하기",
+          "link": "https://news.hada.io/topic?id=36187",
+          "pubDate": "2026-10-28T20:44:56.000Z",
           "image": null,
-          "summary": "미네소타 주민 15명의 연방 공모 혐의 사건에서 ICE의 광범위한 좌파 운동 감시 자료가 공개됨. 변호인들은 이 수사가 이민정책 반대자를 겨냥한 전국적 감시의 일부이며 위헌 소지가 있다고 주장함 ICE 산하 국토안보수사국(HSI) 은 중대 범죄 수사용 자금과 권한...",
+          "summary": "winevdm은 16비트 Windows 에뮬레이터를 수정해 64비트 Windows로 이식한 프로젝트로, Win16 실행 파일을 구동함 CPU 에뮬레이터와 Wine 기반 Win16→Win32 변환 코드를 결합하고, 16비트와 네이티브 HANDLE 사이의 변환을 처리함 설치 ...",
           "keywords": [
-            "ICE",
-            "미국",
-            "역사상",
-            "최대",
-            "규모급"
+            "64비트",
+            "Windows에서",
+            "16비트",
+            "Windows(Windows",
+            "등)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "UEFI 펌웨어의 코드 실행 취약점, 전 세계 서버 대부분을 위협",
-          "link": "https://news.hada.io/topic?id=36168",
-          "pubDate": "2026-10-28T13:40:50.000Z",
+          "title": "나는 여전히 OpenGL ES 3.0을 가르친다",
+          "link": "https://news.hada.io/topic?id=36186",
+          "pubDate": "2026-10-28T20:41:56.000Z",
           "image": null,
-          "summary": "주요 UEFI 공급업체가 사용하는 TianoCore EDK II에서 심각도 9.5/10의 코드 실행 취약점 CVE-2026-97631이 발견됨 PXE 네트워크 부팅 중 ICMP 오류 메시지를 처리하는 버퍼 오버플로로, 공격자는 운영체제와 Secure Boot 등의 방어 기능이 작동하...",
+          "summary": "컴퓨터 그래픽스 입문 수업의 목표는 범용 렌더러가 아니라 3D 장면 구현이며, OpenGL ES 3.0은 이 목표에 필요한 그래픽스 API와 추상화를 배우는 데 여전히 유용함 WebGL2 호환성 덕분에 학생들이 C++ 예제를 웹으로 옮겨 자신의 사이트에 공개할 수 있고, 여러 ...",
           "keywords": [
-            "UEFI",
-            "펌웨어의",
-            "코드",
-            "실행",
-            "취약점"
+            "나는",
+            "여전히",
+            "OpenGL",
+            "ES",
+            "0을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "열흘이 지나도 macOS의 Git은 여전히 침해된 eMudhra 인증서를 신뢰함",
-          "link": "https://news.hada.io/topic?id=36167",
-          "pubDate": "2026-10-28T13:37:50.000Z",
+          "title": "이 브라우저 지문 수집 스크립트는 왜 생물무기를 만들고 있을까?",
+          "link": "https://news.hada.io/topic?id=36185",
+          "pubDate": "2026-10-28T20:38:56.000Z",
           "image": null,
-          "summary": "Apple은 10월 17일 eMudhra 사고를 통보받았지만, 10월 28일 기준 macOS에 함께 제공하는 git, curl, python3는 여전히 침해된 인증서를 신뢰함 10월 26일 출시된 macOS 27.2는 문제를 해결하지 않았으며, 사용자가 수동으로 적용한 우회 조치까지 되돌려 다시 취약...",
+          "summary": "웹사이트 1만 개에서 브라우저 지문 수집용 캔버스를 조사하던 중, 생물무기와 자해 등을 연상시키는 함수명과 문자열을 포함한 안티봇 스크립트가 발견됨 위험한 내용을 실제로 구현하기보다 LLM의 안전장치를 자극해 난독화 해제를 막으려는 기법으로 보이며, 오...",
           "keywords": [
-            "열흘이",
-            "지나도",
-            "macOS의",
-            "Git은",
-            "여전히"
+            "브라우저",
+            "지문",
+            "수집",
+            "스크립트는",
+            "생물무기를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "디바이스 트리에서 Raspberry Pi Zero 3 W와 Pi 4 Model A 발견",
-          "link": "https://news.hada.io/topic?id=36165",
-          "pubDate": "2026-10-28T12:33:32.000Z",
+          "title": "누가 제발 스팸 문자 좀 막아 주세요",
+          "link": "https://news.hada.io/topic?id=36184",
+          "pubDate": "2026-10-28T19:55:03.000Z",
           "image": null,
-          "summary": "Raspberry Pi의 Linux 커널 트리에 미발표 보드 두 종의 디바이스 트리 파일이 추가됨. 하드웨어 구성의 단서는 있지만 공식 발표나 확정 사양은 아직 없음 Zero 3 W에는 Pi 4와 같은 쿼드코어 Cortex-A72 기반 BCM2711이 사용됨. Zero 2 W보다 코...",
+          "summary": "가족, 친구와의 대화와 가끔 오는 2FA 코드가 중심이던 문자 채널에 정치 캠페인과 스팸 문자가 늘어나 중요한 알림의 가치를 훼손하고 있음 STOP 답장을 꺼리는 이유는 단순한 번거로움이 아니라, 발신자는 마음대로 문자를 보내고 수신자가 캠페인마다 개별적으로...",
           "keywords": [
-            "디바이스",
-            "트리에서",
-            "Raspberry",
-            "Pi",
-            "Zero"
+            "누가",
+            "제발",
+            "스팸",
+            "문자",
+            "막아"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국의 부의 불평등을 실제 비율로 그리다",
-          "link": "https://news.hada.io/topic?id=36164",
-          "pubDate": "2026-10-28T11:35:53.000Z",
+          "title": "스페인 톨레도 인근에서 고속열차 두 대 충돌",
+          "link": "https://news.hada.io/topic?id=36183",
+          "pubDate": "2026-10-28T19:52:02.000Z",
           "image": null,
-          "summary": "미국 가구를 순자산 순으로 나열하고 1픽셀당 5,000달러로 그려, 중위 가구와 최상위 부유층 사이의 격차를 스크롤 길이로 체감하게 하는 시각화임 중위 가구 순자산은 21만 1,292달러, 상위 1% 가구의 평균은 4,043만 4,990달러로 약 191배 차이가 남 상...",
+          "summary": "마드리드에서 세비야로 향하던 고속열차가 같은 선로에 정차한 다른 열차를 추돌해 최소 10명이 사망했으며, 당국은 사망자가 더 늘어날 수 있다고 경고함 충돌로 객차 2량이 탈선하고 그중 1량이 크게 파손됐으며, 구조대가 피해가 가장 심한 객차에서 구조 작업을...",
           "keywords": [
-            "미국의",
-            "부의",
-            "불평등을",
-            "실제",
-            "비율로"
+            "스페인",
+            "톨레도",
+            "인근에서",
+            "고속열차",
+            "충돌"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:34.774Z",
+      "fetchedAt": "2026-10-28T20:46:59.339Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -462,6 +458,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "YouTube tests reduced payout thresholds to aid creators in developing economies",
+          "link": "https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/",
+          "pubDate": "2026-10-28T18:31:03.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/made-on-youtube-mohan.jpg",
+          "summary": "YouTube is trying out a policy that makes it easier for creators to claim the AdSense revenue their videos generate. In the United States, India, and Indonesia, some members of the YouTube Partner Program now have the ability to cash out their AdSense accounts after earning just $20. Previously, $100 was the minimum threshold for those payouts. According to the YouTube Help page that tracks ongoing experiments on the platform, the lowered threshold is going into effect \"starting from October 202",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "adsense"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube 테스트는 개발도상국의 크리에이터를 지원하기 위해 지급 한도를 줄였습니다.",
+          "summaryKo": "YouTube는 크리에이터가 동영상에서 발생하는 애드센스 수익을 쉽게 청구할 수 있는 정책을 개발하고 있습니다. 미국, 인도, 인도네시아에서는 이제 YouTube 파트너 프로그램의 일부 회원이 단돈 $ 20의 수익을 올린 후 애드센스 계정을 현금화할 수 있습니다. 이전에는 대금 수령액의 최소 한도가 $ 100였습니다. 플랫폼에서 진행 중인 실험을 추적하는 YouTube 도움말 페이지에 따르면, 낮아진 임계값이 \"START\""
+        },
         {
           "title": "Want to find the Must Eat dishes in your city? TikTok will set the table.",
           "link": "https://www.tubefilter.com/2026/10/28/tiktok-local-feed-must-eats-foodtok-restaurant-guide/",
@@ -528,22 +542,9 @@
           "isForeign": true,
           "titleKo": "Tubi, 인큐베이터 프로그램의 일환으로 TikTok 스타가 진행하는 10개의 쇼 공개",
           "summaryKo": "올해 초, Tubi는 TikTok의 가장 큰 스타들과 함께 독창적 인 프로그램을 시작할 의사를 발표했습니다. 7개월 후, 그 이니셔티브가 초점을 맞추고 있습니다. 광고 지원 주문형 비디오 (AVOD) 모델에 의해 정의된 Fox 소유 플랫폼은 Creatorverse 배양기에서 나올 첫 번째 쇼 슬레이트를 공개했습니다. 그것이 Tubi가 TikTok과 긴 형식의 콘텐츠를 기반으로 구축한 파트너십에 부여한 이름입니다. 이제 Tubi가 INCU와 함께 앞으로 나아갈 때"
-        },
-        {
-          "title": "Instagram chases YouTube’s TV watch time with 90-minute uploads. Will creators get paid, though?",
-          "link": "https://www.tubefilter.com/2026/10/26/instagram-features-longer-uploads-clips-as-reels/",
-          "pubDate": "2026-10-27T02:54:11.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/GettyImages-455476303.jpg",
-          "summary": "Heads up, Netflix and Disney: Instagram wants a piece of YouTube‘s TV watch time, too. “We’ve been hearing for a long time that people love to watch Reels together in their living rooms with their friends, so we’ve been working on a TV version of Reels,” Tessa Lyons, Instagram’s VP of Product, said in an […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "Instagram은 90분 분량의 업로드로 YouTube의 TV 시청 시간을 추적합니다. 하지만 크리에이터에게 수익이 지급되나요?",
-          "summaryKo": "주의, 넷플릭스와 디즈니: 인스타그램도 유튜브의 TV 시청 시간을 원합니다. 인스타그램의 제품 담당 부사장인 테사 라이온스 (Tessa Lyons) 는 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 듣습니다. \"우리는 오랫동안 사람들이 거실에서 친구들과 함께 릴을 시청하는 것을 좋아한다는 이야기를 들었습니다. 그래서 우리는 릴의 TV 버전을 개발하고 있습니다.\" 라고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:37.060Z",
+      "fetchedAt": "2026-10-28T20:47:01.361Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -617,7 +618,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:37.246Z",
+      "fetchedAt": "2026-10-28T20:47:01.541Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +699,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:37.295Z",
+      "fetchedAt": "2026-10-28T20:47:01.634Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -797,7 +798,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:39.430Z",
+      "fetchedAt": "2026-10-28T20:47:03.677Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:39.741Z",
+      "fetchedAt": "2026-10-28T20:47:03.951Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -887,18 +888,54 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
+          "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+          "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+          "pubDate": "2026-10-28T19:05:46.000Z",
+          "image": null,
+          "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+          "keywords": [
+            "AI",
+            "Security",
+            "Startups",
+            "CTO",
+            "cybersecurity",
+            "Equity Video"
+          ],
+          "isForeign": true,
+          "titleKo": "PHP2Shell에 대한 Wiz의 CTO와 다가오는 ‘vulnpocalypse’",
+          "summaryKo": "PHP 공포가 피드에서 사라졌을 수 있지만 정리는 아직 끝나지 않았습니다. 지난 주, 약 70% 의 웹 사이트 뒤에 있는 오픈 소스 언어의 두 가지 치명적인 버그로 인해 조직은 시스템을 수정하기 위해 스크램블링을 했고, 일부 사이트는 취약점을 패치할 수 있을 때까지 사이트를 오프라인으로 전환했습니다. 을 발견 한 연구원에 따르면 […]"
+        },
+        {
+          "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+          "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+          "pubDate": "2026-10-28T18:50:39.000Z",
+          "image": null,
+          "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+          "keywords": [
+            "AI",
+            "Security",
+            "Startups",
+            "cybersecurity",
+            "Equity podcast",
+            "php"
+          ],
+          "isForeign": true,
+          "titleKo": "Wiz의 CTO는 ’Vulnpocalypse’ 가 인터넷의 노화 코드로 다가오고 있다고 말합니다.",
+          "summaryKo": "PHP 공포가 피드에서 사라졌을 수 있지만 정리는 아직 끝나지 않았습니다. 지난 주, 약 70% 의 웹 사이트 뒤에 있는 오픈 소스 언어의 두 가지 치명적인 버그로 인해 조직은 시스템을 수정하기 위해 스크램블링을 했고, 일부 사이트는 취약점을 패치할 수 있을 때까지 사이트를 오프라인으로 전환했습니다. 을 발견 한 연구원에 따르면 […]"
+        },
+        {
           "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
           "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
           "pubDate": "2026-10-28T13:00:00.000Z",
           "image": null,
           "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
           "keywords": [
-            "TC",
-            "Startups",
+            "AI",
+            "Biotech & Health",
             "Climate",
             "Fintech",
-            "Biotech & Health",
-            "Venture"
+            "Fundraising",
+            "Startups"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Founder Summit까지 7일 남음: 입장권 최대 $ 100 할인",
@@ -915,8 +952,8 @@
             "Startups",
             "Venture",
             "Amazon",
-            "Google",
-            "IPO"
+            "Anthropic",
+            "Google"
           ],
           "isForeign": true,
           "titleKo": "VC는 Anthropic의 IPO에서 수십억 달러를 벌 것이지만, Amazon은 훨씬 더 많은 수익을 올릴 것입니다.",
@@ -938,44 +975,9 @@
           "isForeign": true,
           "titleKo": "Guidewire가 Hyperexponential을 현금으로 $ 1.7B에 매입",
           "summaryKo": "내년 중 마감될 것으로 예상되는 이 거래는 인공지능 에이전트가 인간과 함께 협력하여 인수, 분석 및 가격 결정을 내리는 데 도움이 될 것입니다."
-        },
-        {
-          "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-          "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-          "pubDate": "2026-10-27T20:31:17.000Z",
-          "image": null,
-          "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-          "keywords": [
-            "Fundraising",
-            "Startups",
-            "Transportation",
-            "EVs",
-            "General Catalyst",
-            "manufacturing"
-          ],
-          "isForeign": true,
-          "titleKo": "Re: Slate Auto를 분사한 Build가 $ 21B를 올립니다",
-          "summaryKo": "제조 가속기는 \"심천에 대한 미국의 대답\" 으로 자신을 청구합니다."
-        },
-        {
-          "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-          "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-          "pubDate": "2026-10-27T18:55:35.000Z",
-          "image": null,
-          "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Venture",
-            "disruptive",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "Disruptive는 최소 10개의 회사에 큰 베팅을 하기 위해 $ 10B 펀드를 모금합니다.",
-          "summaryKo": "Disruptive는 최근 몇 년 동안 칩 스타트업 Groq 및 AI 음성 생성 스타트업 ElevenLabs와 같은 회사에 돈을 쏟아 부어 화제가 되었습니다."
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:41.679Z",
+      "fetchedAt": "2026-10-28T20:47:07.254Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1074,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:42.726Z",
+      "fetchedAt": "2026-10-28T20:47:09.086Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1134,23 +1136,6 @@
           "summaryKo": null
         },
         {
-          "title": "대구시·대구TP, ‘스마트시티 혁신기술 실증 지원’ 참여기업 모집 나선다 - 이로운넷",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5abm5YcXlGSkltLUtmLW5ydy1SYTFEakxIZnBMSHphUkhSWEtPYmJRUTRpbXJuMGhmc21DcXFRWnFmU0ZsQy1GMWwtMERfWmMwVjVmcF9xUVk5am0xZTJKdDB0NEtVUQ?oc=5",
-          "pubDate": "2026-10-28T05:30:54.000Z",
-          "image": null,
-          "summary": "대구시·대구TP, ‘스마트시티 혁신기술 실증 지원’ 참여기업 모집 나선다 이로운넷",
-          "keywords": [
-            "대구시",
-            "대구TP",
-            "스마트시티",
-            "혁신기술",
-            "실증"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "경과원, 中企 사이버보안 무료 점검 참여기업 모집 - 뉴스체인지",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWdWRKWF9PaWdPNUdfNF9sdWlxOXZfaHdadWZRbFJoS1hjbTlrUEVCVWE5S0VUU05GeGZCMlllQTJsZGZUcXV6LUFtRQ?oc=5",
           "pubDate": "2026-10-28T08:24:00.000Z",
@@ -1166,9 +1151,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "대구시·대구TP, ‘스마트시티 혁신기술 실증 지원’ 참여기업 모집 나선다 - 이로운넷",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5abm5YcXlGSkltLUtmLW5ydy1SYTFEakxIZnBMSHphUkhSWEtPYmJRUTRpbXJuMGhmc21DcXFRWnFmU0ZsQy1GMWwtMERfWmMwVjVmcF9xUVk5am0xZTJKdDB0NEtVUQ?oc=5",
+          "pubDate": "2026-10-28T05:30:54.000Z",
+          "image": null,
+          "summary": "대구시·대구TP, ‘스마트시티 혁신기술 실증 지원’ 참여기업 모집 나선다 이로운넷",
+          "keywords": [
+            "대구시",
+            "대구TP",
+            "스마트시티",
+            "혁신기술",
+            "실증"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-28T14:54:43.174Z",
+      "fetchedAt": "2026-10-28T20:47:09.411Z",
       "error": null
     }
   },
@@ -1178,88 +1180,88 @@
       "label": "K뷰티",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "스타트업",
-      "label": "스타트업",
+      "key": "ai",
+      "label": "AI",
       "count": 3,
       "rank": 7,
       "change": "up"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 3,
       "rank": 8,
-      "change": "new"
+      "change": "down"
     },
     {
       "key": "mysc",
       "label": "MYSC",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경과원",
       "label": "경과원",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
     {
+      "key": "adsense",
+      "label": "adsense",
+      "count": 6,
+      "rank": 1,
+      "change": "up",
+      "labelKo": "애드 센스"
+    },
+    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 1,
-      "change": "same",
-      "labelKo": "광고 (더 이상 사용되지 않음)"
-    },
-    {
-      "key": "adsense",
-      "label": "AdSense",
-      "count": 5,
       "rank": 2,
-      "change": "same",
-      "labelKo": "애드 센스"
+      "change": "down",
+      "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "homepage feature",
@@ -1278,52 +1280,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "google ads",
-      "label": "Google Ads",
+      "key": "ai",
+      "label": "AI",
       "count": 4,
       "rank": 5,
-      "change": "same",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "venture",
-      "label": "Venture",
-      "count": 4,
-      "rank": 6,
       "change": "up",
-      "labelKo": "벤처"
+      "labelKo": "AI"
     },
     {
       "key": "articles",
       "label": "Articles",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
+      "count": 4,
+      "rank": 6,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
+      "count": 4,
+      "rank": 7,
+      "change": "up",
       "labelKo": "추천 동영상"
+    },
+    {
+      "key": "google ads",
+      "label": "Google Ads",
+      "count": 4,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "news",
       "label": "News",
-      "count": 3,
+      "count": 4,
       "rank": 9,
       "change": "same",
       "labelKo": "뉴스"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "company",
+      "label": "Company",
       "count": 2,
       "rank": 10,
-      "change": "down",
-      "labelKo": "AI"
+      "change": "new",
+      "labelKo": "社"
     }
   ]
 }
