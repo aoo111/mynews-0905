@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-29T16:36:47.859Z",
+  "collectedAt": "2026-10-29T22:27:50.586Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“차이나머니 못이긴다? 미국은 4배 더 투자”…美주식 60% 담으라는데",
+          "link": "https://www.mk.co.kr/news/economy/12191119",
+          "pubDate": "2026-10-29T22:04:37.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261029.a95764e34799485293f806c5d72b3898_R.jpeg",
+          "summary": "AI 시대에 유망한 ‘자산 배분’ 솔루션 미국 주식 중심으로 운용하며 韓주식 20%·美국채 15% 배분 최악 리스크까지 대비하려면 美장기채·金투자도 고려할만 장기적으론 美지수 ET..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘흙수저’ 바꿔 들기 점점 어려워진다…소득 계층 오른 사람, 열에 둘도 안돼",
+          "link": "https://www.mk.co.kr/news/economy/12191075",
+          "pubDate": "2026-10-29T21:03:47.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261029.8d5ecb5534cd4dfbb690996a10c21041_R.png",
+          "summary": "데이터처, 계층이동 통계 발표한 해 동안 소득이 늘어 계층(소득분위)이 올라간 국민이 10명 중 2명에도 미치지 못했다. 소득 계층 사다리를 밟고 위로 올라간 국민 비율은 2017..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“30% 예상했는데 50%나 깎인다고?” … 국민연금 신청자의 ‘착각’",
+          "link": "https://www.mk.co.kr/news/economy/12190022",
+          "pubDate": "2026-10-29T19:40:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/29/news-p.v1.20261028.d7788448cf6645d5b5a57c8773f6fa80_R.jpeg",
+          "summary": "국민연금 조기연금 신청자 100만명 넘어“사람 일이 어떻게 될지 모르는데, 받을 수 있을 때 조금이라도 일찍 받는 게 낫지요.” “자칫하면 건강보험 피부양자 자격에서 떨어질까 봐 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "1차 국민참여펀드 수익률 0.5%…금융위 “성과까지 상당 기간 소요”",
           "link": "https://www.mk.co.kr/news/economy/12190837",
           "pubDate": "2026-10-29T15:45:12.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "27조 체코원전 따낸 '팀코리아'가 갈라섰다",
-          "link": "https://www.mk.co.kr/news/economy/12190224",
-          "pubDate": "2026-10-29T08:51:26.000Z",
-          "image": null,
-          "summary": "한국수력원자력이 27조원 규모의 체코 두코바니 원전사업에서 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 종료했다. 한국 원전 수출을 위해 협력해온 '팀코리아'에 균열이 생기..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "주식 60%·채권 40% 황금 비율 … 평생 버틸 수 있는 '경제적 방주'",
-          "link": "https://www.mk.co.kr/news/economy/12190204",
-          "pubDate": "2026-10-29T08:47:17.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/30/20261030_01160112000001_L00.jpg",
-          "summary": "\"비가 올 것이라고 예측하는 일은 중요하지 않다. 중요한 것은 방주를 만드는 것이다.\" 김경록 옵투스자산운용 고문(전 미래에셋자산운용 대표·사진)은 29일 서울 코엑스마곡에서 개막..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "연차낸 20대 커플,매년 오는 70대 … 개막 1시간 전부터 빼곡히 줄섰다",
-          "link": "https://www.mk.co.kr/news/economy/12190187",
-          "pubDate": "2026-10-29T08:46:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/30/20261030_01110113000003_L00.jpg",
-          "summary": "29일 오전 9시 30분 서울 강서구 코엑스 마곡. 이른 시간인데도 30여 명에 이르는 사람이 빼곡히 줄을 서 있다. 이날 개막한 '2026 서울머니쇼플러스(+)' 행사가 시작되기..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:33.557Z",
+      "fetchedAt": "2026-10-29T22:27:32.577Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+          "pubDate": "2026-10-29T20:30:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+          "keywords": [
+            "Orders on Banking Applications"
+          ],
+          "isForeign": true,
+          "titleKo": "연방준비제도이사회 (Federal Reserve Board), 노바스코샤 은행 (Bank of Nova Scotia) 의 신청 승인 발표",
+          "summaryKo": "연방준비제도이사회 (Federal Reserve Board), 노바스코샤 은행 (Bank of Nova Scotia) 의 신청 승인 발표"
+        },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다.",
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
-        },
-        {
-          "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-          "pubDate": "2026-10-08T20:30:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-          "keywords": [
-            "Enforcement Actions"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 아메리칸 익스프레스 컴퍼니 (American Express Company) 에 대한 집행 조치를 발표하여 자금 세탁과 관련된 의심스러운 활동을 충분히 탐지하고 보고하지 못했습니다.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 아메리칸 익스프레스 컴퍼니 (American Express Company) 에 대한 집행 조치를 발표하여 자금 세탁과 관련된 의심스러운 활동을 충분히 탐지하고 보고하지 못했습니다."
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:33.641Z",
+      "fetchedAt": "2026-10-29T22:27:34.528Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216778",
-          "pubDate": "2026-10-29T18:00:15.000Z",
+          "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+          "pubDate": "2026-10-30T07:21:59.000Z",
           "image": null,
-          "summary": "앤트로픽이 직원 한 명으로 운영되던 바이오테크 스타트업을 인수하고 '클로드'를 활용한 자체 신약 개발에 나섰다. 창업자 한 명이 클로드로 외부 연구소 11곳을 관리하며 18개월도 안 돼 희귀 근육질환 치료제의 동물실험에서 성과를 거둔 사례를 바탕으로, AI 중심의 새로운 신약 개발 방식을 시험한다.앤트로픽은 27일(현지시간) 지난 7월 희귀 유전성 근육질환 치료제를 개발하는 미스릴 메디신(Mithril Medicine)을 인수했다고 공식 블로그를 통해 밝혔다.구체적인 인수 금액은 공개하지 않았다. 창업자인 코디 트랜바거는 앤트로픽에",
+          "summary": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 '자기 평가(Self-Assessment)'라는 새로운 안전 감시 기술의 개발 및 운영 결과를 공개했다. 이 기술은 지난 6월 출시된 '클로드 페이블 5",
           "keywords": [
             "앤트로픽",
-            "1인",
-            "신약",
-            "개발사",
-            "인수"
+            "클로드",
+            "자기",
+            "대화",
+            "감시"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216802",
-          "pubDate": "2026-10-29T18:00:00.000Z",
+          "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+          "pubDate": "2026-10-30T06:52:24.000Z",
           "image": null,
-          "summary": "글로벌 AI 모델 평가업체 아티피셜 애널리시스(AA)가 종합 성능 평가 기준을 대폭 개편하면서 주요 AI 모델의 순위가 달라졌다. 오픈AI의 'GPT-6 아스트라'와 'GPT-6.1 솔'이 상위권으로 올라왔으며, 구글의 최신 모델 '제미나이 4 카본'이 앤트로픽의 '클로드 오퍼스 5.5'를 제치고 1위를 차지했다. 새 평가에서는 기존 지식·추론 문제의 비중을 조정하고 실제 코딩과 과학 연구를 수행하는 능력을 강화했다. 전체 평가에서 비공개 데이터 등을 활용하는 비중을 60%로 높여, 모델이 공개 문제를 미리 학습해 높은 점수를 얻는",
-          "keywords": [
-            "AAII",
-            "평가",
-            "대폭",
-            "개편에",
-            "순위"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216779",
-          "pubDate": "2026-10-29T17:50:02.000Z",
-          "image": null,
-          "summary": "엔비디아가 40개 언어의 음성을 텍스트로 변환하고 여러 사람이 겹쳐 말하는 상황에서도 화자를 구분하는 오픈웨이트 AI 모델을 공개했다. 자연어 명령으로 받아쓰기 방식을 지정할 수 있고, 전문용어와 고유명사 인식도 지원한다. 공개 음성 인식 모델 성능 평가에서 최고 수준의 정확도를 기록했다.엔비디아는 28일(현지시간) 음성 인식 AI 모델 '네모트론 3.5 트랜스크라이브(Nemotron 3.5 Transcribe)'를 공개했다. 신모델은 전문가 혼합(MoE) 구조로, 음성 처리 장치를 포함한 전체 매개변수는 약 340억개이며 실제 추",
-          "keywords": [
-            "엔비디아",
-            "40개",
-            "언어",
-            "지원하는",
-            "음성"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "광주 20대, 수도권으로 순유출…전남에선 오히려 순유입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216814",
-          "pubDate": "2026-10-29T17:20:00.000Z",
-          "image": null,
-          "summary": "올해 상반기 광주의 20대는 수도권으로 빠져나간 인원이 들어온 인원보다 많았지만, 전남과의 이동에서는 반대였다. 50·60대는 전남으로의 순유출이 두드러져 연령에 따라 인구 이동의 방향이 달랐다.국가데이터처 국가통계포털(KOSIS)의 전출지·전입지·연령별 이동자수를 분석한 결과, 올해 1~6월 광주의 20대는 수도권과의 이동에서 2218명이 순유출됐다. 전남과의 이동에서는 527명이 광주로 순유입됐다.분석 대상은 전남광주통합특별시 출범 이전인 올해 1~6월의 주민등록 전입신고 기반 자료다. 당시 광주와 전남의 지역 구분을 적용했으며",
-          "keywords": [
-            "광주",
-            "20대",
-            "수도권으로",
-            "순유출",
-            "전남에선"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216804",
-          "pubDate": "2026-10-29T17:20:00.000Z",
-          "image": null,
-          "summary": "오픈AI가 올해 안에 '챗GPT'의 일반 대화 기능과 업무 자동화 기능(챗GPT 워크)을 통합한다. 이용자가 별도의 작업 모드로 전환하지 않아도 AI에 질문하고 문서를 작성하거나 외부 프로그램을 조작하는 등 복잡한 업무를 하나의 대화에서 처리할 수 있도록 개편할 계획이다. AI가 질문에 답하는 챗봇을 넘어 실제 업무를 수행하는 에이전트로 진화하면서, 일반 대화와 작업 실행의 경계를 없애려는 움직임이다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 28일(현지시간) X를 통해 \"올해 중 채팅과 워크의 장점을 결합할 계획\"이라고 밝혔다",
+          "summary": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데 이어 이용자가 실제로 처리할 수 있는 업무량을 늘리는 데 초점을 맞췄다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 29일(현지시간) X를 통해 \"오늘부터 프로 100·200·500과 비즈니스 프리미엄 요금제의 사용량",
           "keywords": [
             "오픈AI",
-            "연내",
-            "챗GPT",
-            "대화",
-            "업무"
+            "프로",
+            "기업용",
+            "AI",
+            "사용량"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+          "pubDate": "2026-10-30T06:29:38.000Z",
+          "image": null,
+          "summary": "앤트로픽이 미국 정부를 제치고 스페이스X의 최대 고객으로 올라섰다. 올해 3분기 스페이스X 전체 매출의 34.5%가 앤트로픽에 AI 컴퓨팅 자원을 제공한 데서 발생한 것으로 알려졌다. 블룸버그는 29일(현지시간) 사정에 정통한 관계자를 인용, 스페이스X가 최근 분기 공시에서 익명으로 처리한 최대 고객 '고객 B(Customer B)'가 앤트로픽이라고 전했다.스페이스X는 지난 22일 공개한 3분기 실적 공시에서 고객 B가 전체 매출의 34.5%를 차지했다고 밝혔다. 3분기 매출 146억달러를 기준으로 약 50억달러(약 6조7000억원",
+          "keywords": [
+            "앤트로픽",
+            "스페이스X",
+            "매출",
+            "34",
+            "5%"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+          "pubDate": "2026-10-30T06:16:49.000Z",
+          "image": null,
+          "summary": "미스트랄 AI가 이달 초 선보인 '미스트랄 라지 4(Mistral Large 4)'의 성능을 개선하고 모델 가중치를 공개하며 정식 출시했다. 기존에는 API를 통해서만 이용할 수 있었지만, 이제 기업과 개발자가 직접 모델을 내려받아 자체 시스템에서 운영하고 추가 학습할 수 있게 됐다. 특히 사이버 보안에 초점을 맞춰 외부 AI 서비스에 의존하지 않고 기업 내부에서 취약점 분석과 사고 대응을 수행하도록 지원한다.미스트랄은 29일(현지시간) 공식 블로그를 통해 라지 4의 오픈웨이트 버전을 공개했다고 밝혔다. 앞서 지난 6일 공개한 프리",
+          "keywords": [
+            "미스트랄",
+            "라지",
+            "가중치",
+            "공개로",
+            "정식"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216776",
+          "pubDate": "2026-10-30T06:00:00.000Z",
+          "image": null,
+          "summary": "인간과 AI가 하나로 합쳐지는 미래를 예언한 세계적인 미래학자 레이 커즈와일(78)이 자신의 디지털 복제본을 실제로 만들었습니다. 이 AI는 얼굴과 목소리는 물론, 지식과 사고방식까지 재현하며 사람들과 대화합니다. 특히 만들어진 이후에도 새로운 정보를 배우고 대화 경험을 기억하도록 설계됐습니다. 그가 사망하더라도 복제 AI는 계속 존재하며 독자적인 경험을 쌓을 수 있다는 점에서, 인간의 정체성과 의식의 연속성에 관한 새로운 질문을 던지고 있습니다.커즈와일은 2005년 베스트셀러 '특이점이 온다(The Singularity Is Ne",
+          "keywords": [
+            "10월29일",
+            "자신을",
+            "AI로",
+            "복제한",
+            "특이점"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:35.053Z",
+      "fetchedAt": "2026-10-29T22:27:35.817Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,49 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "link": "https://openai.com/index/updated-model-spec",
+          "pubDate": "2026-10-29T17:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "keywords": [
+            "Safety"
+          ],
+          "isForeign": true,
+          "titleKo": "더 유능하고 유익한 AI를 위한 업데이트된 모델 사양",
+          "summaryKo": "OpenAI의 업데이트된 모델 사양은 보다 유능한 AI를 건전한 판단, 인간적 선택의지, 인간적 의도에 대한 충실함으로 안내하기 위한 5가지 핵심 가치를 요약합니다."
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "pubDate": "2026-10-29T09:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "keywords": [
+            "Security"
+          ],
+          "isForeign": true,
+          "titleKo": "프론티어 모델 오정렬 감지 방법",
+          "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬 및 승인되지 않은 상담원 행동을 감지하여 사고가 에스컬레이션되기 전에 대응자가 개입할 수 있도록 합니다."
+        },
+        {
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "link": "https://openai.com/index/ropes-gray-ai-diligence",
+          "pubDate": "2026-10-29T07:00:00.000Z",
+          "image": null,
+          "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "keywords": [
+            "How",
+            "Ropes",
+            "Gray",
+            "is",
+            "developing"
+          ],
+          "isForeign": true,
+          "titleKo": "Ropes & Gray가 거래 실사를 위한 AI를 개발하는 방법",
+          "summaryKo": "Ropes & Gray는 OpenAI와 거래 실사를 위한 AI를 개발하고 있습니다. 변호사는 고객에게 조언하기 전에 그룹화된 문서, 요약 및 보고서를 검토합니다."
+        },
         {
           "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
           "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -307,56 +350,9 @@
           "isForeign": true,
           "titleKo": "회사의 미래",
           "summaryKo": "인공지능이 우리 아래, 옆, 그리고 우리 사이의 조직도에 어떻게 진입할 수 있을까."
-        },
-        {
-          "title": "Legora is building the agentic operating system for legal work",
-          "link": "https://openai.com/index/legora",
-          "pubDate": "2026-10-28T09:30:00.000Z",
-          "image": null,
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-          "keywords": [
-            "Legora",
-            "is",
-            "building",
-            "the",
-            "agentic"
-          ],
-          "isForeign": true,
-          "titleKo": "Legora는 법적 작업을 위한 에이전트 운영 체제를 구축하고 있습니다",
-          "summaryKo": "Legora가 OpenAI 모델, ChatGPT 및 Codex를 사용하여 법적 워크플로우를 가속화하고 계약 분석을 확장하며 무료 변호사를 통해 더 높은 가치의 업무에 집중하는 방법을 알아보세요."
-        },
-        {
-          "title": "Retell uses OpenAI models to help power 100M monthly calls",
-          "link": "https://openai.com/index/retell-ai",
-          "pubDate": "2026-10-27T15:00:00.000Z",
-          "image": null,
-          "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-          "keywords": [
-            "Retell",
-            "uses",
-            "OpenAI",
-            "models",
-            "to"
-          ],
-          "isForeign": true,
-          "titleKo": "Retell은 OpenAI 모델을 사용하여 1억 건의 월간 통화에 전력을 공급합니다.",
-          "summaryKo": "GPT-6 Astra는 Retell의 음성 상담원 벤치마크에서 1위를 차지했으며, Codex는 직원당 연간 160만 $ 의 수익률을 달성하는 데 도움을 줍니다."
-        },
-        {
-          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "pubDate": "2026-10-27T07:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "OpenAI는 오라클과의 파트너십을 확장하여 앱을 ChatGPT로 가져옵니다",
-          "summaryKo": "OpenAI와 오라클은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 오라클 오퍼링에 전력을 공급하기 위해 파트너십을 확장하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:35.224Z",
+      "fetchedAt": "2026-10-29T22:27:39.874Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "DoorDash, 약 25.5조원에 Instacart 인수 추진",
-          "link": "https://news.hada.io/topic?id=36235",
-          "pubDate": "2026-10-29T15:47:45.000Z",
+          "title": "정보 유출 사이트의 미국 국토안보부(DHS) 직원 정보 공개",
+          "link": "https://news.hada.io/topic?id=36250",
+          "pubDate": "2026-10-29T21:42:42.000Z",
           "image": null,
-          "summary": "DoorDash가 Instacart를 주당 65달러, 총 지분가치 약 170억 달러($17b) 에 인수하는 확정 계약을 체결함. 인수 대가의 최소 75%는 현금이며, 주식은 최대 25%로 제한됨 DoorDash의 배송망과 Instacart의 식료품 주문 처리 기술을 결합해, 지역 매...",
+          "summary": "정보 유출 사이트의 미국 국토안보부(DHS) 직원 정보 공개",
           "keywords": [
-            "DoorDash",
-            "25",
-            "5조원에",
-            "Instacart",
-            "인수"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "FBI가 마틴 루서 킹 주니어의 자살을 유도하려 보낸 편지(2014)",
-          "link": "https://news.hada.io/topic?id=36234",
-          "pubDate": "2026-10-29T15:44:45.000Z",
-          "image": null,
-          "summary": "FBI는 마틴 루서 킹 주니어를 대규모로 감시한 뒤, 자살을 유도하려는 서명 없는 편지를 그의 집으로 보냄 1963년 “I Have a Dream” 연설 이후 FBI 국내정보 책임자 윌리엄 설리번은 킹을 공산주의와 국가안보 측면에서 위험한 인물로 지목함 FBI 국장 ...",
-          "keywords": [
-            "FBI가",
-            "마틴",
-            "루서",
-            "주니어의",
-            "자살을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Mistral Large 4(Le Chonk), 가중치 공개",
-          "link": "https://news.hada.io/topic?id=36233",
-          "pubDate": "2026-10-29T15:41:45.000Z",
-          "image": null,
-          "summary": "Mistral이 1조 파라미터 네이티브 멀티모달 모델 Mistral Large 4의 개선된 가중치를 공개함. 공개 프리뷰 이후 강화학습을 확대해 코딩, 방어적 사이버보안, 추론 효율을 높임 Artificial Analysis Coding Agent Index에서 GLM-5.3와 사실상 동률인 48%로 오픈웨이...",
-          "keywords": [
-            "Mistral",
-            "Large",
-            "4(Le",
-            "Chonk)",
-            "가중치"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 만든 사람도 결과를 미리 모르는 사다리타기 (drand 예약 추첨)",
-          "link": "https://news.hada.io/topic?id=36232",
-          "pubDate": "2026-10-29T14:49:24.000Z",
-          "image": null,
-          "summary": "카톡방에서 사다리타기 링크를 돌리면 늘 「조작 아니냐」는 말이 나옵니다. 실제로 흔히 쓰는 사다리 공유 사이트를 열어 보니, 링크에 사다리 모양이 통째로 들어 있어서 만든 사람이 원하는 결과가 나올 때까지 다시 섞은 뒤 그 링크만 보낼 수 있었습니다. 받는 사람은 알 방법이 없고요. 그래서 결과를 「",
-          "keywords": [
-            "Show",
-            "GN:",
-            "만든",
-            "사람도",
-            "결과를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "미국, 단 3개월 만에 역대 최대인 20.2GWh 배터리 저장 용량 추가",
-          "link": "https://news.hada.io/topic?id=36231",
-          "pubDate": "2026-10-29T14:46:01.000Z",
-          "image": null,
-          "summary": "미국의 2026년 2분기 배터리 저장 설비 신규 설치량이 20.2GWh로 분기 최고치를 기록했으며, 상반기 설치량은 전년 대비 23% 증가한 30.8GWh에 달함 성장은 전력망용 대규모 배터리가 주도했으며, 2분기 약 18GWh가 설치됨 배터리는 전력이 풍부하고 저렴...",
-          "keywords": [
+            "정보",
+            "유출",
+            "사이트의",
             "미국",
-            "3개월",
-            "만에",
-            "역대",
-            "최대인"
+            "국토안보부(DHS)"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Tomáš Mikolov, 체코 대통령에게 공로 메달 수훈",
+          "link": "https://news.hada.io/topic?id=36249",
+          "pubDate": "2026-10-29T21:39:42.000Z",
+          "image": null,
+          "summary": "AI 연구자 Tomáš Mikolov가 과학 분야의 국가 기여를 인정받아 체코 대통령에게 공로 메달을 받음 Mikolov는 Word2Vec 공동 개발자 중 한 명으로, 단어를 수학적 벡터로 나타내 의미 관계를 포착하는 이 방법은 현대 언어 모델 발전의 중요한 토대 중 하나가 됨",
+          "keywords": [
+            "Tomáš",
+            "Mikolov",
+            "체코",
+            "대통령에게",
+            "공로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중국 스파이 의혹 인물, Nvidia CEO Jensen Huang과 ‘긴밀한 관계’",
+          "link": "https://news.hada.io/topic?id=36248",
+          "pubDate": "2026-10-29T21:36:42.000Z",
+          "image": null,
+          "summary": "New York Times에 따르면 미국 정보기관은 Megaspeed 임원 Alice Huang의 통신을 감시하다 Jensen Huang과의 접촉을 확인했으며, 그녀가 중국 정부에 정보를 전달했다고 판단함 Jensen Huang이 정보 수집 활동을 알고 있었다는 증거는 보도에 없으며, 전달된 정보의...",
+          "keywords": [
+            "중국",
+            "스파이",
+            "의혹",
+            "인물",
+            "Nvidia"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "우리는 “그냥 어울려 지내지” 않을 것이다",
+          "link": "https://news.hada.io/topic?id=36247",
+          "pubDate": "2026-10-29T20:41:50.000Z",
+          "image": null,
+          "summary": "특이점 이후 “그냥 어울려 지내며” 무한한 여가를 누리리라는 기대와 달리, 탈희소성 AI 유토피아는 인간관계의 전제 자체를 약화할 수 있음 저렴한 초인적 지능이 일과 교육을 무의미하게 만들면, 사람들이 만나 관계를 쌓아 온 직장과 학습 공동체",
+          "keywords": [
+            "우리는",
+            "그냥",
+            "어울려",
+            "지내지",
+            "않을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "패트릭 스튜어트 별세",
+          "link": "https://news.hada.io/topic?id=36246",
+          "pubDate": "2026-10-29T20:38:50.000Z",
+          "image": null,
+          "summary": "Patrick Stewart가 Los Angeles 자택에서 86세로 별세함. 사인은 알츠하이머병과 루이소체 치매로, 사망 소식은 소셜미디어를 통해 발표됨 영국의 셰익스피어 연극 배우로 명성을 쌓은 뒤, 1987년 《Star Trek: The Next Generation》의 Jean-Luc Picard 함장으로 ...",
+          "keywords": [
+            "패트릭",
+            "스튜어트",
+            "별세"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:35.878Z",
+      "fetchedAt": "2026-10-29T22:27:40.320Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -458,6 +452,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Pornhub is calling on its community to upload safe-for-work content (and get paid for it)",
+          "link": "https://www.tubefilter.com/2026/10/29/pornhub-campaign-safe-for-work-content/",
+          "pubDate": "2026-10-29T21:47:28.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/pornhub-safe-for-work.jpg",
+          "summary": "It's time to dust off one of the age-old debates of the internet era: Can a platform known for pornographic videos become a viable home for safe-for-work creator content? Pornhub is trying to do exactly that. The popular site owned by Aylo (formerly known as MindGeek) has launched a campaign that invites creators to share videos of any type with Pornhub viewers. In the campaign video, a broken-down car looks like the end of the road for a mother and her son. Visit Tubefilter for more great stori",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Pornhub",
+            "alex kekesi"
+          ],
+          "isForeign": true,
+          "titleKo": "Pornhub는 안전한 업무용 콘텐츠를 업로드하고 비용을 지불할 것을 커뮤니티에 요청하고 있습니다.",
+          "summaryKo": "인터넷 시대의 오래된 논쟁 중 하나를 피할 시간입니다. 포르노 동영상으로 유명한 플랫폼이 안전한 작업용 크리에이터 콘텐츠를 위한 실행 가능한 홈이 될 수 있을까요? Pornhub는 바로 그렇게 하려고 노력하고 있습니다. Aylo (이전의 MindGeek) 가 소유한 인기 사이트는 크리에이터가 모든 유형의 동영상을 Pornhub 시청자와 공유하도록 초대하는 캠페인을 시작했습니다. 캠페인 동영상에서 고장난 자동차는 엄마와 아들의 길 끝처럼 보입니다. Tubefilter 방문하기"
+        },
+        {
+          "title": "The magic (and brands) of Disney are coming to TikTok Shop this holiday season",
+          "link": "https://www.tubefilter.com/2026/10/29/disney-tiktok-shop-super-brand-days-holiday-season/",
+          "pubDate": "2026-10-29T20:46:17.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/disney-tiktok-shop.jpg",
+          "summary": "To attract more shoppers during the upcoming holiday season, TikTok is turning to the second-most valuable entertainment company in the world. I'm talking about Disney, which will promote items on TikTok Shop as part of a week-long activation on the ecommerce platform. To up its presence on TikTok Shop, Disney will take advantage of Super Brand Days, a campaign format that combines advertising, creator content, and TikTok Shop listings to drive sales. Other brands expected to participate in Supe",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "TikTok Shop",
+            "disney"
+          ],
+          "isForeign": true,
+          "titleKo": "이번 홀리데이 시즌에 디즈니의 마법 (및 브랜드) 이 틱톡 샵에 찾아옵니다",
+          "summaryKo": "다가오는 휴가철에 더 많은 쇼핑객을 유치하기 위해 TikTok은 세계에서 두 번째로 가치 있는 엔터테인먼트 회사로 눈을 돌리고 있습니다. 저는 전자 상거래 플랫폼에서 일주일 동안 활성화의 일환으로 TikTok Shop에서 아이템을 홍보할 디즈니에 대해 이야기하고 있습니다. 디즈니는 TikTok Shop에서의 존재감을 높이기 위해 광고, 크리에이터 콘텐츠 및 TikTok Shop 리스팅을 결합하여 판매를 촉진하는 캠페인 형식인 Super Brand Days를 활용할 것입니다. 예상되는 다른 브랜드"
+        },
         {
           "title": "Creator horror is everywhere this October, but Curry Barker is reminding us that YouTube still matters",
           "link": "https://www.tubefilter.com/2026/10/28/horror-creator-spooky-season-curry-barker-mama-bear/",
@@ -501,45 +531,9 @@
           "isForeign": true,
           "titleKo": "걱정하지 마세요. Discord는 Google 검색에 매운 전자 키튼 채팅을 게재하지 않습니다.",
           "summaryKo": "검색 엔진을 통해 사람의 정보를 찾는 것은 그 어느 때보다 어렵습니다. 따라서 LLMification을 완화하기 위해 수백만 명의 사람들이 검색어 끝에 \"Reddit\" 을 첨부하고 있습니다. 이렇게 하면 자신의 경험을 공유하는 실제 사람의 게시물과 댓글로 채워진 하위 레딧과 특정 스레드를 가져옵니다. 이제 Discord는 사람들이 […] Tubefilter를 방문하여 더 많은 멋진 이야기를 듣기를 원합니다."
-        },
-        {
-          "title": "Reddit splits its home feed in two with a TikTok-inspired update",
-          "link": "https://www.tubefilter.com/2026/10/28/reddit-for-you-following-split-homepage-feeds/",
-          "pubDate": "2026-10-28T21:47:18.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/reddit-for-you.jpg",
-          "summary": "Would you rather see posts that are suggested for you or posts from communities you've chosen to follow? Reddit is letting its users choose between those two experiences. The social media hub has announced an update for the feed that appears on its homepage. The default option will be a For You feed that will show content from a wide selection of the platform's 138,000 active subreddits. Redditors who prefer a more customized experience can switch to the Following feed, which will only show post",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "reddit",
-            "For You"
-          ],
-          "isForeign": true,
-          "titleKo": "Reddit은 TikTok에서 영감을 얻은 업데이트를 통해 홈 피드를 두 개로 나눕니다",
-          "summaryKo": "나에게 추천하는 포스트나 내가 팔로우하기로 선택한 커뮤니티의 포스트를 보시겠어요? Reddit은 사용자가 이 두 가지 경험 중 하나를 선택할 수 있도록 합니다. 소셜 미디어 허브가 홈페이지에 표시되는 피드에 대한 업데이트를 발표했습니다. 기본 옵션은 플랫폼의 138,000개의 활성 서브레딧 중 다양한 콘텐츠가 표시되는 For You 피드입니다. 더 맞춤화된 경험을 선호하는 Redditors는 다음 피드로 전환할 수 있습니다."
-        },
-        {
-          "title": "YouTube tests reduced payout thresholds to aid creators in developing economies",
-          "link": "https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/",
-          "pubDate": "2026-10-28T18:31:03.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/made-on-youtube-mohan.jpg",
-          "summary": "YouTube is trying out a policy that makes it easier for creators to claim the AdSense revenue their videos generate. In the United States, India, and Indonesia, some members of the YouTube Partner Program now have the ability to cash out their AdSense accounts after earning just $20. Previously, $100 was the minimum threshold for those payouts. According to the YouTube Help page that tracks ongoing experiments on the platform, the lowered threshold is going into effect \"starting from October 202",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "YouTube",
-            "adsense"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube 테스트는 개발도상국의 크리에이터를 지원하기 위해 지급 한도를 줄였습니다.",
-          "summaryKo": "YouTube는 크리에이터가 동영상에서 발생하는 애드센스 수익을 쉽게 청구할 수 있는 정책을 개발하고 있습니다. 미국, 인도, 인도네시아에서는 이제 YouTube 파트너 프로그램의 일부 회원이 단돈 $ 20의 수익을 올린 후 애드센스 계정을 현금화할 수 있습니다. 이전에는 대금 수령액의 최소 한도가 $ 100였습니다. 플랫폼에서 진행 중인 실험을 추적하는 YouTube 도움말 페이지에 따르면, 낮아진 임계값이 \"START\""
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:36.001Z",
+      "fetchedAt": "2026-10-29T22:27:43.846Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:36.140Z",
+      "fetchedAt": "2026-10-29T22:27:44.026Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:36.210Z",
+      "fetchedAt": "2026-10-29T22:27:44.075Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -793,7 +787,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:38.759Z",
+      "fetchedAt": "2026-10-29T22:27:46.591Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:39.003Z",
+      "fetchedAt": "2026-10-29T22:27:46.838Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -894,18 +888,18 @@
           "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
           "pubDate": "2026-10-29T16:21:00.000Z",
           "image": null,
-          "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+          "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
           "keywords": [
             "AI",
             "Startups",
             "Venture",
-            "a16z",
             "Andreessen Horowitz",
-            "architecture"
+            "architecture",
+            "dream"
           ],
           "isForeign": true,
           "titleKo": "전 Palantir 임원, 건설을 위한 AI 세계 모델 구축을 위해 a16z에서 $ 17M로 Dream 출시",
-          "summaryKo": "1억 평방피트의 건축 허가에 비가 내린 꿈은 인공지능으로 오토데스크를 혼란에 빠뜨리고 싶어합니다."
+          "summaryKo": "꿈은 실제 물리학 및 건설 표준에 근거합니다. LLM이 텍스트에서 배우는 것처럼 Dream의 세계 모델은 미국 전역의 허가 기록 보관소에서 수집한 1억 평방피트 이상의 건물 데이터를 기반으로 교육됩니다."
         },
         {
           "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
@@ -928,17 +922,16 @@
           "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
           "pubDate": "2026-10-29T13:00:00.000Z",
           "image": null,
-          "summary": "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
+          "summary": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
           "keywords": [
             "Fundraising",
             "Startups",
-            "TC",
             "Venture",
             "TechCrunch Founder Summit 2026"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch Founder Summit에서 6일 동안 누구에게서 배울 수 있나요? 무대에 오르는 창업자와 투자자를 만나보세요",
-          "summaryKo": "지금으로부터 6일 후, 테크크런치 창립자 서밋 (TechCrunch Founder Summit) 은 11월 4일 숙련된 창업자, 투자자 및 운영자를 보스턴으로 데려와 그들의 회사를 형성한 결정, 실수, 피벗 및 교훈을 공유합니다. 티켓 할인 및 할인 행사가 시작되기 전에 등록하세요."
+          "summaryKo": "지금으로부터 6일 후인 11월 4일, 테크크런치 창립자 서밋 (TechCrunch Founder Summit) 은 숙련된 창업자, 투자자 및 운영자를 보스턴으로 데려와 그들의 회사를 형성한 결정, 실수, 피벗 및 교훈을 공유합니다. 티켓 할인 및 할인 행사가 시작되기 전에 등록하세요."
         },
         {
           "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -977,7 +970,7 @@
           "summaryKo": "PHP 공포가 피드에서 사라졌을 수 있지만 정리는 아직 끝나지 않았습니다. 지난 주, 약 70% 의 웹 사이트 뒤에 있는 오픈 소스 언어의 두 가지 치명적인 버그로 인해 조직은 시스템을 수정하기 위해 스크램블링을 했고, 일부 사이트는 취약점을 패치할 수 있을 때까지 사이트를 오프라인으로 전환했습니다. 을 발견 한 연구원에 따르면 […]"
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:43.988Z",
+      "fetchedAt": "2026-10-29T22:27:48.419Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1069,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:46.357Z",
+      "fetchedAt": "2026-10-29T22:27:49.649Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1084,23 +1077,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "[대전창조경제혁신센터] 2026년 웰컴 스테이 지원사업 참여기업 모집 재공고 - 벤처스퀘어",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ka1k1dHhYUGQ1QUZqZWtTcDdHMm1UVDZLSUZ5OUZGU0FoTUhIN21TUXhicWtybUx1Q3BoYm5UM1N6dWY1cWxNUlktYUdLeGp4c1VSdDlLMlNlejM1cExn?oc=5",
-          "pubDate": "2026-10-29T08:57:11.000Z",
-          "image": null,
-          "summary": "[대전창조경제혁신센터] 2026년 웰컴 스테이 지원사업 참여기업 모집 재공고 벤처스퀘어",
-          "keywords": [
-            "대전창조경제혁신센터",
-            "2026년",
-            "웰컴",
-            "스테이",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "대전창조경제혁신센터, ‘웰컴 스테이 지원사업’ 모집 - 충남일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BbHFmR3VYVG5LdDZmeG1oYlBrMDVVQk56R2JhTkpkTy1xczdYdjQ1b3c2a1I4UU1mR1Yzc1RyUWVFMjQyMXRCLXVHUWpxQmFtcHF4MzRoOVQxSEZyVi1qUE1OTHpIeVFhWkdYOTBTZ3Y1TE0?oc=5",
@@ -1136,8 +1112,25 @@
           "summaryKo": null
         },
         {
+          "title": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 - 헤드라인제주",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04OFBkVHNZNkFrOWs1VDJzMVEwN2JPc3NVRF83R0h1SmhqeF9ybjg1dnZSVm9RekxKbldYNjMzeWRQZUxaeVlPSV9BWG54bTB5NkV4am8yMHBFaHY2SHlzOTlFVFdBdFFYeWN0NEVPVUlfMVU?oc=5",
+          "pubDate": "2026-10-27T01:11:13.000Z",
+          "image": null,
+          "summary": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 헤드라인제주",
+          "keywords": [
+            "서귀포시",
+            "2027년",
+            "노인일자리",
+            "사회활동",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbFh0cmgxMnBwYkVTTWpMUW5CNkI0QTB6ZVNEeUdPTW1Fc0l6QjhHN2RweDJ4eWZ1cDhLSkhwLWZxV0tyTF9WSG1OeFZiZVZ1NzlEd0FnQUhtOTDSAWBBVV95cUxOT2xyLTZHT2MtNWZyV2d1bHVVOGVhY2tRa1hfNmZVekV2cUNxOV90WGV4UmM2Zjd0RGRWRDF0U2NZMlliOTQ1c2FDU3k4cG5NcjQ2ZVl2YUMzM1BEd09lQnM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbHItNkdPYy01ZnJXZ3VsdVU4ZWFja1FrWF82ZlV6RXZxQ3E5X3RYZXhSYzZmN3REZFZEMXRTY1kyWWI5NDVzYUNTeThwbk1yNDZlWXZhQzMzUER3T2VCc9IBYEFVX3lxTE5PbHItNkdPYy01ZnJXZ3VsdVU4ZWFja1FrWF82ZlV6RXZxQ3E5X3RYZXhSYzZmN3REZFZEMXRTY1kyWWI5NDVzYUNTeThwbk1yNDZlWXZhQzMzUER3T2VCcw?oc=5",
           "pubDate": "2026-10-28T06:33:32.000Z",
           "image": null,
           "summary": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 연합뉴스",
@@ -1153,24 +1146,24 @@
           "summaryKo": null
         },
         {
-          "title": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 - 헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kTXZvTG5kR2VTTi1hbk9MMWR5OEtpM04yeExzLXRpMzlLOW9FQmw5bDNMRGNfMFdHRnlNeWpoZVg2TGJGTzlmMGdhNk1RTE5ZRFM3YXh3Vi1sSEwza3BEdWJqaFdCdGlOaC0tdDJ2VHUzdw?oc=5",
-          "pubDate": "2026-10-27T01:11:13.000Z",
+          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
+          "pubDate": "2026-10-19T07:20:00.000Z",
           "image": null,
-          "summary": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 헤드라인제주",
+          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
           "keywords": [
-            "서귀포시",
+            "전북중기청",
             "2027년",
-            "노인일자리",
-            "사회활동",
-            "지원사업"
+            "전통시장",
+            "상점가",
+            "활성화"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-29T16:36:47.382Z",
+      "fetchedAt": "2026-10-29T22:27:49.990Z",
       "error": null
     }
   },
@@ -1180,67 +1173,67 @@
       "label": "AI교육",
       "count": 2,
       "rank": 1,
-      "change": "new"
-    },
-    {
-      "key": "인수",
-      "label": "인수",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
-      "rank": 8,
+      "rank": 6,
       "change": "up"
     },
     {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
-      "rank": 9,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
     },
     {
-      "key": "대전창조경제혁신센터",
-      "label": "대전창조경제혁신센터",
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 8,
+      "change": "same"
+    },
+    {
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "로컬창업",
+      "label": "로컬창업",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1248,12 +1241,12 @@
   ],
   "trendingGlobal": [
     {
-      "key": "adsense",
-      "label": "adsense",
-      "count": 6,
+      "key": "security",
+      "label": "Security",
+      "count": 3,
       "rank": 1,
-      "change": "same",
-      "labelKo": "애드 센스"
+      "change": "new",
+      "labelKo": "보안"
     },
     {
       "key": "ads (deprecated)",
@@ -1264,68 +1257,68 @@
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
+      "key": "adsense",
+      "label": "AdSense",
+      "count": 5,
+      "rank": 3,
+      "change": "down",
+      "labelKo": "애드 센스"
+    },
+    {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 4,
+      "change": "down",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 5,
+      "change": "down",
       "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 5,
-      "change": "up",
+      "rank": 6,
+      "change": "down",
       "labelKo": "다음을 따르세요"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 3,
-      "rank": 6,
-      "change": "up",
+      "rank": 7,
+      "change": "down",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 3,
-      "rank": 7,
-      "change": "up",
+      "rank": 8,
+      "change": "down",
       "labelKo": "추천 동영상"
     },
     {
       "key": "news",
       "label": "News",
       "count": 3,
-      "rank": 8,
-      "change": "up",
+      "rank": 9,
+      "change": "down",
       "labelKo": "뉴스"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 9,
+      "rank": 10,
       "change": "down",
       "labelKo": "AI"
-    },
-    {
-      "key": "company",
-      "label": "Company",
-      "count": 2,
-      "rank": 10,
-      "change": "new",
-      "labelKo": "社"
     }
   ]
 }
