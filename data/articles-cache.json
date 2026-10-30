@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-30T12:11:20.827Z",
+  "collectedAt": "2026-10-30T18:59:43.183Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,24 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "비만주사는 레버리지 …'근육 원금' 키워라",
-          "link": "https://www.mk.co.kr/news/economy/12191888",
-          "pubDate": "2026-10-30T10:11:53.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/31/20261031_01160109000001_L00.jpg",
-          "summary": "\"마운자로는 건강을 끌어올리는 레버리지다. 하지만 부작용이 생기면 올려놓은 걸 다 깎아 먹는다.\" 구독자 200만명의 유튜브 채널 을 운영하는 '고약사' 고상온 파마브로스 대표(사..",
+          "title": "“1.5조나 팔았는데 왜 우리 몫 없나”…마사회 “레저세 일부 돌려달라”",
+          "link": "https://www.mk.co.kr/news/economy/12192091",
+          "pubDate": "2026-10-30T12:45:34.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261030.765d88eac22942408f126076e38aedc7_R.jpg",
+          "summary": "농식품부에 先재원 확약 요구 10만원 마권 구매상한 폐지도한국마사회가 과천 경마공원 이전 대책으로 정부에 재정 지원을 요구하면서 온라인 마권 발매로 인한 레저세 일부를 마사회나 말..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "재단 하나 세우는데도 공무원 허락 있어야…공익법인 옥죄는 1912년 규제",
+          "link": "https://www.mk.co.kr/news/economy/12192089",
+          "pubDate": "2026-10-30T12:45:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261030.7b9640ce934c4a5b9a12d8987d6102a3_R.jpg",
+          "summary": "좋은규제시민포럼 분석114년 묵은 비영리·공익법인에 대한 정부 설립 허가제로 한국에서는 미국 게이츠재단과 같은 공익재단이 나오기 어렵다는 지적이 제기됐다. 좋은규제시민포럼과 한국비..",
           "keywords": [
             "경제"
           ],
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "비싼 과천과 낡은 평촌 사이 의왕(인덕원) [n억집]",
-          "link": "https://www.mk.co.kr/news/economy/12191818",
-          "pubDate": "2026-10-30T08:47:08.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-m.v1.20261030.8e593c214d574ef0b9804c3f05e6dff8_R.png",
-          "summary": "이번 주 매부리TV n억집에서는 경기도의 숨은 보석 의왕시를 임장했습니다. 비싼 과천과 낡은 평촌 사이 대안으로 떠오른 의왕은 최근 분당 광명 등과 더불어 수도권 집값 상승률 상위..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:13.700Z",
+      "fetchedAt": "2026-10-30T18:59:22.310Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:13.761Z",
+      "fetchedAt": "2026-10-30T18:59:22.401Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:15.064Z",
+      "fetchedAt": "2026-10-30T18:59:23.555Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,32 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Making it easier for websites to express AI training preferences",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "pubDate": "2026-10-30T09:30:00.000Z",
+          "image": null,
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "웹사이트가 AI 교육 선호도를 쉽게 표현할 수 있도록 지원",
+          "summaryKo": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹 사이트 운영자가 AI 교육 선호 사항을 참여 제공자에게 전달할 수 있도록 지원합니다."
+        },
+        {
+          "title": "Community safety report and new protections for teens",
+          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "pubDate": "2026-10-30T09:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+          "keywords": [
+            "Safety"
+          ],
+          "isForeign": true,
+          "titleKo": "커뮤니티 안전 보고서 및 청소년을 위한 새로운 보호 장치",
+          "summaryKo": "OpenAI는 확대된 안전 조치, 조기 개입 및 공공 안전 보고에 대한 새로운 약속을 통해 ChatGPT의 폭력 예방을 강화하고 있습니다."
+        },
         {
           "title": "An updated Model Spec for more capable and beneficial AI",
           "link": "https://openai.com/index/updated-model-spec",
@@ -324,35 +350,9 @@
           "isForeign": true,
           "titleKo": "Ropes & Gray가 거래 실사를 위한 AI를 개발하는 방법",
           "summaryKo": "Ropes & Gray는 OpenAI와 거래 실사를 위한 AI를 개발하고 있습니다. 변호사는 고객에게 조언하기 전에 그룹화된 문서, 요약 및 보고서를 검토합니다."
-        },
-        {
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "pubDate": "2026-10-28T13:15:00.000Z",
-          "image": null,
-          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "OpenAI 및 ServiceNow는 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십을 확장합니다.",
-          "summaryKo": "OpenAI와 ServiceNow는 파트너십을 확장하여 OpenAI 모델 및 에이전트를 ServiceNow 및 ServiceNow 워크플로에 ChatGPT 및 Codex로 가져옵니다."
-        },
-        {
-          "title": "The future of the firm",
-          "link": "https://openai.com/index/the-future-of-the-firm",
-          "pubDate": "2026-10-28T10:00:00.000Z",
-          "image": null,
-          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-          "keywords": [
-            "Intelligence Age"
-          ],
-          "isForeign": true,
-          "titleKo": "회사의 미래",
-          "summaryKo": "인공지능이 우리 아래, 옆, 그리고 우리 사이의 조직도에 어떻게 진입할 수 있을까."
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:15.224Z",
+      "fetchedAt": "2026-10-30T18:59:27.400Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,90 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Show GN: Shellside - Claude Code가 상주하는 생성형 캔버스, 요청하면 나만의 도구·앱·워크플로우를 즉석에서 생성",
-          "link": "https://news.hada.io/topic?id=36285",
-          "pubDate": "2026-10-30T09:48:52.000Z",
+          "title": "ICE, 가면을 되찾으려 삭제 요청 대행업체를 고용하다",
+          "link": "https://news.hada.io/topic?id=36301",
+          "pubDate": "2026-10-30T17:44:03.000Z",
           "image": null,
-          "summary": "보드마다 Claude Code가 함께 들어 있는 생성형 캔버스 웹서비스 보드에 붙은 터미널에서 Claude Code가 돌고, 보드를 직접 읽고 쓰며 작업 필요한 도구·화면을 요청하면 그 자리에서 보드 위에 만들어 띄움 강점: 코딩 없이 대화만으로 나만의 워크플로우를 직접 만들고 계속 고쳐 쓸",
+          "summary": "FlokiNET이 ICE를 대리하는 ZeroFox의 Icepick 사이트 삭제 요청을 거부함. 유출된 정부 직원의 업무상 신원 정보를 언론인과 시민의 공적 책임 추적에 쓰이는 자료로 판단함 데이터는 침해 사고로 유출됐으며 당사자들은 공개에 동의하지 않았음. 다만 FlokiNET은...",
+          "keywords": [
+            "ICE",
+            "가면을",
+            "되찾으려",
+            "삭제",
+            "요청"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Medicare는 심장마비 치료에 5만 달러를 지불한다. 예방에도 100달러를 지불해야 한다",
+          "link": "https://news.hada.io/topic?id=36300",
+          "pubDate": "2026-10-30T17:41:03.000Z",
+          "image": null,
+          "summary": "약 100달러의 관상동맥 석회화 점수(CAC) 검사로 심장마비 발생 수년 전 동맥경화를 발견할 수 있지만, 보험 보장과 진료 체계의 제약으로 활용이 제한돼 있음 2026년 3월 ACC/AHA 지침은 관상동맥질환 위험이 경계 수준이거나 중간 수준이고 예방 치료 시작 여부가...",
+          "keywords": [
+            "Medicare는",
+            "심장마비",
+            "치료에",
+            "5만",
+            "달러를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "AI는 SRE를 대체하는 게 아니라 숙련도를 떨어뜨리고 있음",
+          "link": "https://news.hada.io/topic?id=36299",
+          "pubDate": "2026-10-30T17:38:03.000Z",
+          "image": null,
+          "summary": "AI가 일상적인 장애 대응을 맡을수록 SRE는 드물고 복잡한 장애에 집중하게 되지만, 이를 해결할 직관과 전문성을 연습할 기회는 줄어듦 자동화의 역설은 자동화가 실패할 때 인간의 역할이 더 중요해지는 동시에, 개입에 필요한 숙련도는 실전 경험 부족으로 약해...",
+          "keywords": [
+            "AI는",
+            "SRE를",
+            "대체하는",
+            "아니라",
+            "숙련도를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: WORLD MODEL - 지금 쓸 수 있는 세계 AI 모델 1,100여 개를 한눈에 보는 도감",
+          "link": "https://news.hada.io/topic?id=36298",
+          "pubDate": "2026-10-30T17:13:53.000Z",
+          "image": null,
+          "summary": "전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다. 국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다 오픈 가중치 모",
           "keywords": [
             "Show",
             "GN:",
-            "Shellside",
-            "Claude",
-            "Code가"
+            "WORLD",
+            "MODEL",
+            "지금"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "런던 모임 제안",
-          "link": "https://news.hada.io/topic?id=36284",
-          "pubDate": "2026-10-30T09:00:57.000Z",
+          "title": "63억 달러 규모 Binance 해킹, 단 20분 만에 실행됨",
+          "link": "https://news.hada.io/topic?id=36297",
+          "pubDate": "2026-10-30T16:37:51.000Z",
           "image": null,
-          "summary": "런던 모임에 참석할 수 있는 사람이 얼마나 되는지 확인하고 있음 NYC Lobsters 모임 게시물을 보고 런던에서도 모임을 제안함 런던에 기반을 두고 참석 가능한 사람이 두 명 넘게 모이면 모임을 직접 주최할 계획임 조건이 충...",
+          "summary": "공격자가 최소 10개 블록체인의 Binance 지갑에서 약 63억 달러의 암호화폐를 탈취했으며, 대부분의 자금이 약 20분 사이 빠져나감 공격 준비는 탈취 최소 36시간 전 시작됐으며, 소액 인출과 코드 시험을 거쳐 인터넷에 연결된 핫월렛에 공격 코드를 설치함 ...",
           "keywords": [
-            "런던",
-            "모임",
-            "제안"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Herdr, 터미널과 코딩 에이전트용 네이티브 앱 출시",
-          "link": "https://news.hada.io/topic?id=36283",
-          "pubDate": "2026-10-30T08:32:34.000Z",
-          "image": null,
-          "summary": "Herdr는 터미널과 코딩 에이전트를 작업 공간별로 정리하고, 사용자 개입이 필요한 에이전트를 한곳에서 확인하는 데스크톱 앱임 창과 실행 코어를 분리해 창을 닫아도 터미널은 계속 실행됨. 단, 패널이나 탭을 닫으면 해당 터미널이 종료되며, 재부팅이나 코어 충...",
-          "keywords": [
-            "Herdr",
-            "터미널과",
-            "코딩",
-            "에이전트용",
-            "네이티브"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "가족이 함께 쓸 비밀번호 관리자는 뭐가 좋을까요?",
-          "link": "https://news.hada.io/topic?id=36279",
-          "pubDate": "2026-10-30T07:01:21.000Z",
-          "image": null,
-          "summary": "나이가 들어 금융과 보험 등의 계정 정리에 도움이 필요한 가족을 위해 공유 비밀번호 관리자를 찾고 있음 멀리 떨어져 있어도 공유할 수 있고, 비전문가도 명령줄 없이 사용할 수 있어야 하며, Linux와 macOS/iOS를 지원해야 함. 필요하면 웹 서...",
-          "keywords": [
-            "가족이",
-            "함께",
-            "비밀번호",
-            "관리자는",
-            "뭐가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: korea-data-mcp – AI 에이전트가 한국 공공 API를 틀리게 읽지 않도록 해주는 MCP 서버",
-          "link": "https://news.hada.io/topic?id=36277",
-          "pubDate": "2026-10-30T04:47:44.000Z",
-          "image": null,
-          "summary": "DART, 공공데이터포털, 국가법령정보 API를 MCP 서버로 묶었습니다. Claude, Cursor 같은 AI 에이전트가 한국 기업·부동산·법령 데이터를 정확히 조회하도록 만드는 게 목표입니다. 만들게 된 계기 공공 API 응답을 에이전트에 그대로 넘기면 그럴듯하지만 틀린 답이 나옵니다. 예: DAR",
-          "keywords": [
-            "Show",
-            "GN:",
-            "korea",
-            "data",
-            "mcp"
+            "63억",
+            "달러",
+            "규모",
+            "Binance",
+            "해킹"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:16.103Z",
+      "fetchedAt": "2026-10-30T18:59:28.205Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -533,7 +535,7 @@
           "summaryKo": "YouTube의 공포 크리에이터에게는 지난 10월부터 현재까지 많은 변화가 있었습니다. 크리에이터는 할리우드에서 인기 있는 상품이 되었으며, 이러한 트렌드는 거의 공포 장르에만 초점을 맞추고 있습니다. 케인 파슨스 (Kane Parsons) 의 백룸 (Backrooms) 과 커리 바커 (Curry Barker) 의 옵세션 (Obsession) 은 할리우드 여름 시즌의 가장 큰 히트작 중 하나였으며, 마키플리는 자신의 프로젝트 아이언 렁 (Iron Lung) 을 극장에 가져 왔습니다. 크리에이터가 창출한 모멘텀이 2027년까지 지속된다면,"
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:16.148Z",
+      "fetchedAt": "2026-10-30T18:59:28.341Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:16.227Z",
+      "fetchedAt": "2026-10-30T18:59:28.663Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:16.284Z",
+      "fetchedAt": "2026-10-30T18:59:28.750Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -696,6 +698,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "트릴리온랩스, AI 에이전트 개발·OCR 최적화 해커톤 개최…오픈소스 모델 활용",
+          "link": "https://www.venturesquare.net/1124511/",
+          "pubDate": "2026-10-30T13:10:33.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image-48-789x444.png",
+          "summary": "트릴리온랩스가 오는 11월 19일부터 20일까지 서울 드림플러스 강남에서 '2026 트릴리온 에이전트 AI 해커톤'을 개최한다. 대회는 자체 오픈소스 의사결정 모델 'Zoro-1'을 활용한 AI 에이전트 개발과 문자인식 모델 'GravityOCR'의 처리 속도 및 컴퓨... The post 트릴리온랩스, AI 에이전트 개발·OCR 최적화 해커톤 개최…오픈소스 모델 활용 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI에이전트",
+            "AI추론",
+            "AI해커톤"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "텐센트 클라우드, 해외 고객 2배 증가…AI 에이전트·클라우드 인프라로 글로벌 사업 확대",
           "link": "https://www.venturesquare.net/1124493/",
@@ -767,27 +787,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "십일리터, 농식품부 ‘이달의 A-벤처스’ 선정…AI로 반려동물 질환 분석",
-          "link": "https://www.venturesquare.net/1124447/",
-          "pubDate": "2026-10-30T09:38:15.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/11-522x522.png",
-          "summary": "AI 펫헬스케어 기업 십일리터가 농림축산식품부의 '이달의 A-벤처스' 제90호 기업으로 선정됐다. 십일리터는 스마트폰 사진을 분석해 반려동물의 슬개골 탈구와 치주 질환 등 5개 질병군의 건강 상태를 확인할 수 있는 '라이펫' 서비스를 운영하고 있다. 삼성전자와 DB손해... The post 십일리터, 농식품부 ‘이달의 A-벤처스’ 선정…AI로 반려동물 질환 분석 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI질환분석",
-            "A벤처스",
-            "CES2026"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:18.878Z",
+      "fetchedAt": "2026-10-30T18:59:31.603Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -869,7 +871,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:19.219Z",
+      "fetchedAt": "2026-10-30T18:59:31.872Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -878,93 +880,92 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-          "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-          "pubDate": "2026-10-29T16:21:00.000Z",
+          "title": "Satlyt takes another step toward turning satellites into space data centers",
+          "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+          "pubDate": "2026-10-30T18:01:24.000Z",
           "image": null,
-          "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+          "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+          "keywords": [
+            "Space",
+            "Startups",
+            "AI",
+            "data centers"
+          ],
+          "isForeign": true,
+          "titleKo": "Satlyt는 위성을 우주 데이터 센터로 전환하기 위한 또 다른 단계를 밟습니다.",
+          "summaryKo": "Satlyt은 이번 달에 인공위성을 시작으로 우주선을 가상 데이터 센터로 전환하는 데 더 가까이 다가가는 테스트를 성공적으로 진행했습니다."
+        },
+        {
+          "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+          "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "pubDate": "2026-10-30T17:47:12.000Z",
+          "image": null,
+          "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
           "keywords": [
             "AI",
             "Startups",
-            "Venture",
-            "Andreessen Horowitz",
-            "architecture",
-            "dream"
+            "AI agents",
+            "dining",
+            "zest"
           ],
           "isForeign": true,
-          "titleKo": "전 Palantir 임원, 건설을 위한 AI 세계 모델 구축을 위해 a16z에서 $ 17M로 Dream 출시",
-          "summaryKo": "꿈은 실제 물리학 및 건설 표준에 근거합니다. LLM이 텍스트에서 배우는 것처럼 Dream의 세계 모델은 미국 전역의 허가 기록 보관소에서 수집한 1억 평방피트 이상의 건물 데이터를 기반으로 교육됩니다."
+          "titleKo": "Zest의 새로운 AI 상담원은 텍스트를 통해 레스토랑을 찾아 예약합니다.",
+          "summaryKo": "식사 장소에 동의할 수 없으신가요? Zest의 AI 컨시어지는 모든 사람의 취향을 결합하고, 레스토랑 옵션을 투표하고, 예약을 할 수 있습니다."
         },
         {
-          "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-          "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-          "pubDate": "2026-10-29T15:00:00.000Z",
+          "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+          "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+          "pubDate": "2026-10-30T14:00:00.000Z",
           "image": null,
-          "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
+          "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
           "keywords": [
-            "Fundraising",
-            "Startups",
             "TC",
-            "cowboy ventures"
+            "Startups",
+            "Crypto",
+            "Climate",
+            "Fintech",
+            "Biotech & Health"
           ],
           "isForeign": true,
-          "titleKo": "에이전트 신원 확인 스타트업 Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-          "summaryKo": "Mintive는 Google Brain과 Coursera를 통해 수십 년 동안 AI 작업을 해온 두 명의 엔지니어에 의해 설립되었습니다. IT 부서가 엔터프라이즈 에이전트를 쉽게 제어할 수 있도록 돕는 플랫폼의 약속입니다."
+          "titleKo": "소소한 이야기 건너뛰기: 브레인데이트와 함께하는 테크크런치 파운더 서밋 (TechCrunch Founder Summit)",
+          "summaryKo": "11월 4일 보스턴 소와 발전소에서 개최되는 TechCrunch 창립자 서밋 2026에서 Braindate가 제공하는 네트워킹은 1: 1 또는 소그룹 현장 회의에서 이러한 대화를 쉽게 찾을 수 있도록 설계되었습니다. 이벤트 시작 전에 등록하고 최대 $ 100의 할인 혜택을 누리세요. 1초 무료 혜택도 받으실 수 있습니다."
         },
         {
-          "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
-          "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
-          "pubDate": "2026-10-29T13:00:00.000Z",
+          "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+          "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+          "pubDate": "2026-10-30T13:00:00.000Z",
           "image": null,
-          "summary": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
+          "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
           "keywords": [
-            "Fundraising",
+            "TC",
             "Startups",
+            "Fintech",
+            "Biotech & Health",
             "Venture",
-            "TechCrunch Founder Summit 2026"
+            "AI"
           ],
           "isForeign": true,
-          "titleKo": "TechCrunch Founder Summit에서 6일 동안 누구에게서 배울 수 있나요? 무대에 오르는 창업자와 투자자를 만나보세요",
-          "summaryKo": "지금으로부터 6일 후인 11월 4일, 테크크런치 창립자 서밋 (TechCrunch Founder Summit) 은 숙련된 창업자, 투자자 및 운영자를 보스턴으로 데려와 그들의 회사를 형성한 결정, 실수, 피벗 및 교훈을 공유합니다. 티켓 할인 및 할인 행사가 시작되기 전에 등록하세요."
+          "titleKo": "5일 남음: TechCrunch Founder Summit 2026에서 소통하고, 확장하고, 비용을 절약할 수 있는 마지막 기회",
+          "summaryKo": "5일 동안 최대 $ 100의 할인 혜택과 11월 4일 보스턴에서 개최되는 TechCrunch Founder Summit 2026 무료 이용권을 드립니다. 지금 등록하세요."
         },
         {
-          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-          "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-          "pubDate": "2026-10-28T23:15:00.000Z",
+          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+          "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+          "pubDate": "2026-10-30T13:00:00.000Z",
           "image": null,
-          "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-          "keywords": [
-            "Security",
-            "Startups",
-            "Bessemer Venture Partners",
-            "cloud security",
-            "Datadog",
-            "upwind"
-          ],
-          "isForeign": true,
-          "titleKo": "Upwind, Datadog 인수 제안에서 벗어난 후 $ 400M 모금",
-          "summaryKo": "클라우드 보안 스타트업은 시리즈 C를 동일한 가격에 판매하는 대신 $ 38억 가치로 올렸습니다."
-        },
-        {
-          "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-          "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-          "pubDate": "2026-10-28T19:05:46.000Z",
-          "image": null,
-          "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+          "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
           "keywords": [
             "AI",
-            "Security",
             "Startups",
-            "CTO",
-            "cybersecurity",
-            "Equity Video"
+            "data centers",
+            "Runware"
           ],
           "isForeign": true,
-          "titleKo": "PHP2Shell에 대한 Wiz의 CTO와 다가오는 ‘vulnpocalypse’",
-          "summaryKo": "PHP 공포가 피드에서 사라졌을 수 있지만 정리는 아직 끝나지 않았습니다. 지난 주, 약 70% 의 웹 사이트 뒤에 있는 오픈 소스 언어의 두 가지 치명적인 버그로 인해 조직은 시스템을 수정하기 위해 스크램블링을 했고, 일부 사이트는 취약점을 패치할 수 있을 때까지 사이트를 오프라인으로 전환했습니다. 을 발견 한 연구원에 따르면 […]"
+          "titleKo": "인공지능 데이터센터를 자동차처럼 대량생산할 수 있을까? 이 스타트업은",
+          "summaryKo": "런웨어는 조립 라인에 조립식 AI 데이터 센터를 구축하기 위해 공장을 건설하고 있습니다. 실제 테스트는 해당 규모로 제공할 수 있는지 여부가 될 것입니다."
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:19.315Z",
+      "fetchedAt": "2026-10-30T18:59:39.800Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1063,7 +1064,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:20.523Z",
+      "fetchedAt": "2026-10-30T18:59:41.973Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1140,24 +1141,24 @@
           "summaryKo": null
         },
         {
-          "title": "서귀포시, 2027년 노인일자리사업 수행기관 공개모집 - DWBNEWS",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmN09IMW5uNXY0RVF1dXNaVFRiY0xEb0Rsczc2NlFLVWdoXzVEclRJeDA5MFFUdHRIZkl1Zk9Rb2oxUk51UDZLSHhzOFl1ekNFTHVGRm5SaEdVVWNXNXhkamtxY2xtRkox?oc=5",
-          "pubDate": "2026-10-30T03:52:36.000Z",
+          "title": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbHItNkdPYy01ZnJXZ3VsdVU4ZWFja1FrWF82ZlV6RXZxQ3E5X3RYZXhSYzZmN3REZFZEMXRTY1kyWWI5NDVzYUNTeThwbk1yNDZlWXZhQzMzUER3T2VCc9IBYEFVX3lxTE5PbHItNkdPYy01ZnJXZ3VsdVU4ZWFja1FrWF82ZlV6RXZxQ3E5X3RYZXhSYzZmN3REZFZEMXRTY1kyWWI5NDVzYUNTeThwbk1yNDZlWXZhQzMzUER3T2VCcw?oc=5",
+          "pubDate": "2026-10-28T06:33:32.000Z",
           "image": null,
-          "summary": "서귀포시, 2027년 노인일자리사업 수행기관 공개모집 DWBNEWS",
+          "summary": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 연합뉴스",
           "keywords": [
-            "서귀포시",
-            "2027년",
-            "노인일자리사업",
-            "수행기관",
-            "공개모집"
+            "서울",
+            "난임부부",
+            "지원사업",
+            "참여자",
+            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-30T12:11:20.819Z",
+      "fetchedAt": "2026-10-30T18:59:42.362Z",
       "error": null
     }
   },
@@ -1167,67 +1168,67 @@
       "label": "IBK기업은행",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "대전창조경제혁신센터",
       "label": "대전창조경제혁신센터",
       "count": 2,
       "rank": 2,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "한국딥러닝",
       "label": "한국딥러닝",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 3,
+      "count": 4,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "2027년",
-      "label": "2027년",
+      "key": "ai",
+      "label": "AI",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1235,44 +1236,44 @@
   ],
   "trendingGlobal": [
     {
-      "key": "security",
-      "label": "Security",
-      "count": 3,
-      "rank": 1,
-      "change": "same",
-      "labelKo": "보안"
-    },
-    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 2,
-      "change": "same",
+      "rank": 1,
+      "change": "up",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 2,
+      "change": "up",
       "labelKo": "애드 센스"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "홈페이지 기능"
     },
     {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
-      "change": "same",
+      "rank": 4,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 5,
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "google ads",
@@ -1307,12 +1308,12 @@
       "labelKo": "뉴스"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "biotech & health",
+      "label": "Biotech & Health",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI"
+      "change": "new",
+      "labelKo": "생명 공학 및 건강"
     }
   ]
 }
