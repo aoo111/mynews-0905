@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-31T16:51:41.782Z",
+  "collectedAt": "2026-10-31T21:00:40.625Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:35.087Z",
+      "fetchedAt": "2026-10-31T21:00:34.124Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:35.180Z",
+      "fetchedAt": "2026-10-31T21:00:34.208Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+          "pubDate": "2026-11-01T05:10:51.000Z",
+          "image": null,
+          "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
+          "keywords": [
+            "삼성",
+            "사장단",
+            "50명",
+            "만난",
+            "알트먼"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
-          "pubDate": "2026-10-31T17:55:40.000Z",
-          "image": null,
-          "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석한 결과, 제미나이 라이브의 오프라인 모드와 관련된 문구를 발견했다고 보도했다.발견된 코드에는 인터넷 연결 없이 제미나이 라이브를 사용할 수 있다",
-          "keywords": [
-            "구글",
-            "인터넷",
-            "없이",
-            "작동하는",
-            "제미나이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:36.561Z",
+      "fetchedAt": "2026-10-31T21:00:35.344Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬 및 승인되지 않은 상담원 행동을 감지하여 사고가 에스컬레이션되기 전에 대응자가 개입할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:36.728Z",
+      "fetchedAt": "2026-10-31T21:00:35.553Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,88 +357,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Sanstun: Rust로 구현한 sans-IO, 병렬 처리 친화적 WireGuard",
-          "link": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T15:50:44.000Z",
+          "title": "쥘 베른의 잃어버린 소설",
+          "link": "https://news.hada.io/topic?id=36348&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T18:39:02.000Z",
           "image": null,
-          "summary": "Firezone이 sanstun을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함 sans-IO 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함...",
+          "summary": "쥘 베른이 1863년에 쓴 『20세기 파리』 는 과학, 기계, 상업, 효율을 향한 믿음이 지배하는 1960년의 문명을 상상한 소설로, 출판사의 거절로 미출간 상태였다가 집필 131년 뒤인 1994년에 출간됨 소설 속 교통망, 계산기, 원격 문서 전송은 순수한 예언보다 당대 기술의 연...",
           "keywords": [
-            "Sanstun:",
-            "Rust로",
-            "구현한",
-            "sans",
-            "IO"
+            "베른의",
+            "잃어버린",
+            "소설"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Signal 포크 Molly, 3개월간 업데이트되지 않아 취약한 상태",
-          "link": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T15:47:44.000Z",
+          "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
+          "link": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T18:36:02.000Z",
           "image": null,
-          "summary": "Molly에 공식 Signal에서는 이미 수정된 취약점이 남아 있음 게시물 시점의 최신 릴리스는 7월 31일 배포된 v8.19.2-4로, 약 3개월간 업데이트가 없었음 미해결 사례로 10월 공개된 취약점이 있으며, 공식 Signal은 이를 8.27 버...",
+          "summary": "Windows 정보 탈취 악성코드 VOLTA-AUTODOXER는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김 단순한 정보 수집을 넘어 탈취한 세션으로 Gmail 영수증, 음식 배달 주문 내역, Discord 계정 등을 조회해...",
           "keywords": [
-            "Signal",
-            "포크",
-            "Molly",
-            "3개월간",
-            "업데이트되지"
+            "악성코드",
+            "LLM으로",
+            "피해자의",
+            "금전적",
+            "가치에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "디지털 미니멀리즘",
-          "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T15:44:44.000Z",
+          "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
+          "link": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:49:44.000Z",
           "image": null,
-          "summary": "디지털 미니멀리즘은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임 X를 탈퇴하지 않고 Firefly로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
+          "summary": "Prospero는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함 서브에이전트와 원격 실행을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
           "keywords": [
-            "디지털",
-            "미니멀리즘"
+            "Prospero",
+            "경량",
+            "설계와",
+            "원격",
+            "실행을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "ChatGPT 계정을 탈취한 방법",
-          "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T15:41:44.000Z",
+          "title": "돼지, 국가, 전쟁: 붉은 돼지(Porco Rosso) (2014)",
+          "link": "https://news.hada.io/topic?id=36345&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:46:44.000Z",
           "image": null,
-          "summary": "Parameter 연구팀은 공개 ChatGPT 공유 링크를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨 격리된 HTML Preview가 보낸 메시지를 MathLive가 발신자 검증 ...",
+          "summary": "《붉은 돼지》를 평화학과 국제관계 이론으로 분석하면, Porco의 변신은 전쟁의 트라우마뿐 아니라 인간의 이기주의, 국가의 민족주의/파시즘, 전쟁의 군국주의에 대한 거부로 읽을 수 있음 Porco는 무기를 사용하고 현상금을 위해 싸우지만, 상대를 죽이지 않는 불살 원칙...",
           "keywords": [
-            "ChatGPT",
-            "계정을",
-            "탈취한",
-            "방법"
+            "돼지",
+            "국가",
+            "전쟁:",
+            "붉은",
+            "돼지(Porco"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
-          "link": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T15:01:26.000Z",
+          "title": "엘니뇨로 침수되는 캘리포니아 해안, 최고 만조는 아직 오지 않았다",
+          "link": "https://news.hada.io/topic?id=36344&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T17:43:44.000Z",
           "image": null,
-          "summary": "curl 8.12~8.16에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
+          "summary": "캘리포니아 북부에서 만조에 따른 침수가 San Pablo Bay부터 Monterey까지 이어지고 있으며, Bay Area의 만조 수위는 10월 관측 최고 기록을 경신함 현재 침수는 달의 주기에 따라 한 달에 약 두 번 발생하는 대조(spring tide) 때 일어났으며, 연...",
           "keywords": [
-            "curl이",
-            "우연히",
-            "9개월",
-            "동안",
-            "튜링"
+            "엘니뇨로",
+            "침수되는",
+            "캘리포니아",
+            "해안",
+            "최고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:37.307Z",
+      "fetchedAt": "2026-10-31T21:00:36.078Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -527,7 +529,7 @@
           "summaryKo": "Instagram은 YouTube의 TV 시청 시간과 광고 수익만 추구하는 것이 아니라 재능도 추구합니다. 메타 소유 플랫폼은 새로 발표된 긴 형식의 가로 형식 \"기능\" 으로 동영상을 게시하기 위해 일부 유튜버에게 최대 $ 500,000를 지불할 것을 제안했습니다. \"비즈니스 인사이더에 따르면, 인스타그램은 바닥 가격이 $ 50,000인 '셀렉트' 유튜버에게 접근했습니다. 다른 사람들은 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:37.520Z",
+      "fetchedAt": "2026-10-31T21:00:36.309Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -601,7 +603,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:37.668Z",
+      "fetchedAt": "2026-10-31T21:00:36.481Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -682,7 +684,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:37.726Z",
+      "fetchedAt": "2026-10-31T21:00:36.565Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -781,7 +783,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:39.958Z",
+      "fetchedAt": "2026-10-31T21:00:38.739Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -870,7 +872,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:40.233Z",
+      "fetchedAt": "2026-10-31T21:00:38.972Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -962,7 +964,7 @@
           "summaryKo": "식사 장소에 동의할 수 없으신가요? Zest의 AI 컨시어지는 모든 사람의 취향을 결합하고, 레스토랑 옵션을 투표하고, 예약을 할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:40.330Z",
+      "fetchedAt": "2026-10-31T21:00:39.072Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1061,7 +1063,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:41.400Z",
+      "fetchedAt": "2026-10-31T21:00:40.108Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1069,6 +1071,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) - 벤처스퀘어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fRUo4SGcwYnR6UHFnX2VhV3VES0FfUUVSRVpjMkVBOWJoSHJoekFKclhZb2loZ0lEUFJLclJEMW1wNHBNLXBPU1NwOTN3RjhWbmU1XzNhLWk3Mk9ZbW9Z?oc=5",
+          "pubDate": "2026-10-27T12:57:46.000Z",
+          "image": null,
+          "summary": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) 벤처스퀘어",
+          "keywords": [
+            "2026년",
+            "남동발전",
+            "상생형",
+            "창업벤처기업",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "대전창조경제혁신센터, ‘웰컴 스테이 지원사업’ 모집 - 충남일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BbHFmR3VYVG5LdDZmeG1oYlBrMDVVQk56R2JhTkpkTy1xczdYdjQ1b3c2a1I4UU1mR1Yzc1RyUWVFMjQyMXRCLXVHUWpxQmFtcHF4MzRoOVQxSEZyVi1qUE1OTHpIeVFhWkdYOTBTZ3Y1TE0?oc=5",
@@ -1121,23 +1140,6 @@
           "summaryKo": null
         },
         {
-          "title": "포항시, 국제크루즈 운항지원 사업...승객 모집 절차에 논란 거세 - 이로운넷",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZWNfZk8yaFBqRHdPUGhZbG1JT0RxRUdCTnF3NVdjRF8xekQ1Z1pnSnhHU3YwbWd4aG9sS0FCNm9mM2loLUJsZEpES2xhMGR1QktzbE5jWWZjNENoWmd5WVl0SWRXdw?oc=5",
-          "pubDate": "2026-10-30T09:15:56.000Z",
-          "image": null,
-          "summary": "포항시, 국제크루즈 운항지원 사업...승객 모집 절차에 논란 거세 이로운넷",
-          "keywords": [
-            "포항시",
-            "국제크루즈",
-            "운항지원",
-            "사업",
-            "승객"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "홍천군, 청년 어촌 정착 지원사업 대상자 모집 - 신아일보",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVFdHRmVxeEtUWjhnVHgzdDdHUjc3WlBoaXFYSkpmb2RnMk1PeFpXUldqSlA0MjJELVVwRG5TZlg2QThhV3ZJWXpEWmFvR2RRb1JlWTl6LVBfU0VTX1gwQ0d4YWF6a2hpVTJlSW0xZks?oc=5",
           "pubDate": "2026-10-30T01:38:27.000Z",
@@ -1155,7 +1157,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T16:51:41.776Z",
+      "fetchedAt": "2026-10-31T21:00:40.619Z",
       "error": null
     }
   },
@@ -1165,21 +1167,21 @@
       "label": "경제",
       "count": 6,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 3,
       "rank": 2,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "대전창조경제혁신센터",
       "label": "대전창조경제혁신센터",
       "count": 2,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
@@ -1212,7 +1214,7 @@
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 5,
       "rank": 8,
       "change": "same"
     },
@@ -1221,7 +1223,7 @@
       "label": "글로벌",
       "count": 3,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ai스타트업",
