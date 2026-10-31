@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-31T11:43:23.775Z",
+  "collectedAt": "2026-10-31T16:51:41.782Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "‘월 3000만원 따박따박’ 공정위 전관 변호사…기업 승소율은 되레 낮아",
+          "link": "https://www.mk.co.kr/news/economy/12192512",
+          "pubDate": "2026-10-31T13:41:44.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202610/31/news-p.v1.20250923.77a264e441584256942594fc25530e2c_R.jpg",
+          "summary": "6대 로펌 기업 승소율 20.3% 전관 참여 사건은 14.8% 그쳐공정거래위원회 관료 출신 변호사의 승소율이 그렇지 않은 변호사보다 더 낮은 것으로 나타났다. 이들은 대형 로펌 재..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“급하게 목돈 필요했는데”…소득 없어도 가능, ‘저리대출’ 더 나온다는데",
           "link": "https://www.mk.co.kr/news/economy/12192462",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“1.5조나 팔았는데 왜 우리 몫 없나”…마사회 “레저세 일부 돌려달라”",
-          "link": "https://www.mk.co.kr/news/economy/12192091",
-          "pubDate": "2026-10-30T12:45:34.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261030.765d88eac22942408f126076e38aedc7_R.jpg",
-          "summary": "농식품부에 先재원 확약 요구 10만원 마권 구매상한 폐지도한국마사회가 과천 경마공원 이전 대책으로 정부에 재정 지원을 요구하면서 온라인 마권 발매로 인한 레저세 일부를 마사회나 말..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:16.238Z",
+      "fetchedAt": "2026-10-31T16:51:35.087Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:16.330Z",
+      "fetchedAt": "2026-10-31T16:51:35.180Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:17.559Z",
+      "fetchedAt": "2026-10-31T16:51:36.561Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬 및 승인되지 않은 상담원 행동을 감지하여 사고가 에스컬레이션되기 전에 대응자가 개입할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:17.722Z",
+      "fetchedAt": "2026-10-31T16:51:36.728Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Cisco, 레거시 코드 재작성을 위해 엔지니어에게 AI 토큰 무제한 제공",
-          "link": "https://news.hada.io/topic?id=36324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T08:37:11.000Z",
+          "title": "Sanstun: Rust로 구현한 sans-IO, 병렬 처리 친화적 WireGuard",
+          "link": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:50:44.000Z",
           "image": null,
-          "summary": "Cisco가 27세 엔지니어 Padmanabhan Krishnamurthy에게 레거시 코드 리팩터링을 맡기고 AI 토큰을 무제한 제공함 Krishnamurthy는 2인 팀으로 코드 재작성이 가능하다고 판단했으며, 24개월 내 레거시 코드 98% 리팩터링을 목표...",
+          "summary": "Firezone이 sanstun을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함 sans-IO 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함...",
           "keywords": [
-            "Cisco",
-            "레거시",
-            "코드",
-            "재작성을",
-            "엔지니어에게"
+            "Sanstun:",
+            "Rust로",
+            "구현한",
+            "sans",
+            "IO"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Tell HN: Scribd 침해 사고 발생",
-          "link": "https://news.hada.io/topic?id=36323&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T08:34:11.000Z",
+          "title": "Signal 포크 Molly, 3개월간 업데이트되지 않아 취약한 상태",
+          "link": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:47:44.000Z",
           "image": null,
-          "summary": "2026년 10월 26일 월요일 수신한 보안 사고 안내에 따르면, Scribd, Slideshare, Everand, Fable의 모회사인 Scribd, Inc.의 시스템에서 비인가 제3자가 일부 사용자 데이터에 접근했을 가능성이 있음 접근 가능성이 있는 정보는 이메일 주소, 신용카드 마지막 4자리와 국가...",
+          "summary": "Molly에 공식 Signal에서는 이미 수정된 취약점이 남아 있음 게시물 시점의 최신 릴리스는 7월 31일 배포된 v8.19.2-4로, 약 3개월간 업데이트가 없었음 미해결 사례로 10월 공개된 취약점이 있으며, 공식 Signal은 이를 8.27 버...",
           "keywords": [
-            "Tell",
-            "HN:",
-            "Scribd",
-            "침해",
-            "사고"
+            "Signal",
+            "포크",
+            "Molly",
+            "3개월간",
+            "업데이트되지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: Patrick Stewart 경을 기리며 즐기는 TNG 에피소드 맞히기 게임",
-          "link": "https://news.hada.io/topic?id=36322&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T07:31:19.000Z",
+          "title": "디지털 미니멀리즘",
+          "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:44:44.000Z",
           "image": null,
-          "summary": "TNG: Episodle은 Star Trek: The Next Generation(TNG)의 에피소드 이미지를 단서로 해당 에피소드를 맞히는 게임임 한 게임에서 최대 6번 추측할 수 있으며, 가능한 적은 횟수로 정답을 맞히는 것이 목표임 에피소드를 틀려도 시즌을 정확히 선택...",
+          "summary": "디지털 미니멀리즘은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임 X를 탈퇴하지 않고 Firefly로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
           "keywords": [
-            "Show",
-            "HN:",
-            "Patrick",
-            "Stewart",
-            "경을"
+            "디지털",
+            "미니멀리즘"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Linode 보안 사고",
-          "link": "https://news.hada.io/topic?id=36320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T05:31:23.000Z",
+          "title": "ChatGPT 계정을 탈취한 방법",
+          "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:41:44.000Z",
           "image": null,
-          "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는 Akamai Compute 플랫...",
+          "summary": "Parameter 연구팀은 공개 ChatGPT 공유 링크를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨 격리된 HTML Preview가 보낸 메시지를 MathLive가 발신자 검증 ...",
           "keywords": [
-            "Linode",
-            "보안",
-            "사고"
+            "ChatGPT",
+            "계정을",
+            "탈취한",
+            "방법"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
-          "link": "https://news.hada.io/topic?id=36318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T01:36:38.000Z",
+          "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
+          "link": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T15:01:26.000Z",
           "image": null,
-          "summary": "nesformer는 NES의 6502 CPU, 2KB RAM, 카트리지 프로그램 ROM을 표준 Qwen3.5 체크포인트 안에서 실행함. 가중치는 학습하지 않고 컴파일러로 계산했으며, 모델이 CPU 실행 기록을 토큰 단위로 생성함 Gated DeltaNet 상태를 메모리로 사용해 CPU 레지스터와 RAM,...",
+          "summary": "curl 8.12~8.16에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
           "keywords": [
-            "Show",
-            "HN:",
-            "1GB의",
-            "Qwen",
-            "가중치"
+            "curl이",
+            "우연히",
+            "9개월",
+            "동안",
+            "튜링"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:18.419Z",
+      "fetchedAt": "2026-10-31T16:51:37.307Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +527,7 @@
           "summaryKo": "Instagram은 YouTube의 TV 시청 시간과 광고 수익만 추구하는 것이 아니라 재능도 추구합니다. 메타 소유 플랫폼은 새로 발표된 긴 형식의 가로 형식 \"기능\" 으로 동영상을 게시하기 위해 일부 유튜버에게 최대 $ 500,000를 지불할 것을 제안했습니다. \"비즈니스 인사이더에 따르면, 인스타그램은 바닥 가격이 $ 50,000인 '셀렉트' 유튜버에게 접근했습니다. 다른 사람들은 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:18.628Z",
+      "fetchedAt": "2026-10-31T16:51:37.520Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +601,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:18.809Z",
+      "fetchedAt": "2026-10-31T16:51:37.668Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +682,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:18.861Z",
+      "fetchedAt": "2026-10-31T16:51:37.726Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -692,6 +690,60 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "쇼피, 10.10 메가데이서 한국 셀러 판매 7배 증가…현지 풀필먼트 판매는 10배",
+          "link": "https://www.venturesquare.net/1124576/",
+          "pubDate": "2026-10-31T14:15:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/6bf7b69b92e2-789x444.png",
+          "summary": "쇼피코리아가 '10.10 메가데이'에서 한국 셀러의 전체 판매 상품 수가 올해 2분기 일평균 대비 7배 이상 증가했다고 발표했다. 현지 풀필먼트를 통한 판매 상품 수는 10배 이상을 기록해 전체 판매 증가 폭을 웃돌았으며, 싱가포르에서는 현지 풀필먼트 주문의 약 80%... The post 쇼피, 10.10 메가데이서 한국 셀러 판매 7배 증가…현지 풀필먼트 판매는 10배 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "10.10메가데이",
+            "shopee",
+            "글로벌물류"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "티유브이슈드, 아이넥스 대장내시경 AI 소프트웨어 CE MDR 인증…유럽 시장 진출 기반 확보",
+          "link": "https://www.venturesquare.net/1124570/",
+          "pubDate": "2026-10-31T14:13:14.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/TUV-784x522.jpg",
+          "summary": "글로벌 시험·인증기관 티유브이슈드가 아이넥스코퍼레이션의 AI 기반 대장내시경 진단 보조 소프트웨어 'ENAD CADx'에 대한 유럽 의료기기 규정(CE MDR) 적합성 평가를 완료하고 인증서를 수여했다. ENAD CADx는 대장내시경 검사 중 발견된 병변을 세 가지 유... The post 티유브이슈드, 아이넥스 대장내시경 AI 소프트웨어 CE MDR 인증…유럽 시장 진출 기반 확보 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "CEMDR",
+            "ENADCADx",
+            "SaMD"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "네이버웹툰, 이토 준지 공포 만화 ‘걸작집’ 첫 세로 스크롤 웹툰으로 공개",
+          "link": "https://www.venturesquare.net/1124518/",
+          "pubDate": "2026-10-31T14:09:11.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/diptych-789x395.png",
+          "summary": "네이버웹툰이 일본 공포 만화가 이토 준지의 대표작을 엮은 '이토 준지 걸작집'을 30일 밤 10시부터 네이버웹툰 매일+와 네이버시리즈에서 독점 공개한다. 이토 준지 작품이 세로 스크롤 웹툰으로 제작된 것은 이번이 처음으로, 데뷔작 '토미에'를 시작으로 '소이치의 저주 ... The post 네이버웹툰, 이토 준지 공포 만화 ‘걸작집’ 첫 세로 스크롤 웹툰으로 공개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "공포만화",
+            "네이버시리즈",
+            "네이버웹툰"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "트릴리온랩스, AI 에이전트 개발·OCR 최적화 해커톤 개최…오픈소스 모델 활용",
           "link": "https://www.venturesquare.net/1124511/",
@@ -727,63 +779,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "인크로스, 생성형 AI 이용자 85% 시대…유료 구독자 월평균 3만 6천 원 지출",
-          "link": "https://www.venturesquare.net/1124471/",
-          "pubDate": "2026-10-30T11:41:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/incross-261x522.jpg",
-          "summary": "인크로스가 발표한 '2026 아이엠 리포트'에 따르면 생성형 AI 서비스 유료 결제자의 월평균 지출금액은 3만 5,932원으로 조사됐다. 전체 응답자의 AI 서비스 이용 경험률은 85.0%로 전년보다 11.6%포인트 상승했으며, 유료 결제율도 25.9%로 높아졌다. A... The post 인크로스, 생성형 AI 이용자 85% 시대…유료 구독자 월평균 3만 6천 원 지출 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI광고",
-            "AI소비자조사",
-            "AI유료구독"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아티스트베이커리, 서울 브루어리와 협업…소금빵에 수제 맥주 더한 ‘빵맥’ 선보여",
-          "link": "https://www.venturesquare.net/1124463/",
-          "pubDate": "2026-10-30T11:39:16.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/artist-696x522.jpg",
-          "summary": "아티스트베이커리가 로컬 수제 맥주 브랜드 서울 브루어리와 협업한 '아티스트베이커리 맥주'를 안국과 여의도 매장에서 선보인다. 이번 제품은 오렌지와 패션프루트의 과일 향에 호밀의 고소한 풍미를 더한 IPA로, 소금빵과 바게트 등 다양한 빵과의 조화를 고려해 선정됐다. 아... The post 아티스트베이커리, 서울 브루어리와 협업…소금빵에 수제 맥주 더한 ‘빵맥’ 선보여 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "IPA",
-            "로컬브랜드",
-            "미식트렌드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "리멤버, AI 도입 기업 29% 고객센터 인력 충원…감원보다 업무 재배치 많았다",
-          "link": "https://www.venturesquare.net/1124426/",
-          "pubDate": "2026-10-30T11:32:29.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/remember-4-725x522.jpg",
-          "summary": "리멤버앤컴퍼니의 'AI 고객경험 리포트'에 따르면 AI를 도입한 기업 중 고객 응대 인력을 감축한 비율은 18%였으며, 충원한 기업은 29%, 기존 인력을 재배치한 기업은 45%로 조사됐다. AI 도입 후 상담원 연결을 요구하는 고객 반응이 50%로 가장 많았고, 같은... The post 리멤버, AI 도입 기업 29% 고객센터 인력 충원…감원보다 업무 재배치 많았다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI고객경험",
-            "AI도입",
-            "AI상담"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:21.607Z",
+      "fetchedAt": "2026-10-31T16:51:39.958Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -792,13 +790,67 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
+          "title": "홍콩·일본은 스테이블코인 발행, 한국은 발행 주체 논쟁",
+          "link": "https://platum.kr/archives/297496?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%258d%25ec%25bd%25a9%25c2%25b7%25ec%259d%25bc%25eb%25b3%25b8%25ec%259d%2580-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25b8%2594%25ec%25bd%2594%25ec%259d%25b8-%25eb%25b0%259c%25ed%2596%2589-%25ed%2595%259c%25ea%25b5%25ad%25ec%259d%2580-%25eb%25b0%259c%25ed%2596%2589-%25ec%25a3%25bc%25ec%25b2%25b4",
+          "pubDate": "2026-10-30T19:57:22.000Z",
+          "image": null,
+          "summary": "홍콩달러 스테이블코인이 10월 23일 HSBC 간편결제 앱에서 소매 결제에 쓰이기 시작했고, 엔화 스테이블코인은 발행 1년을 넘겼다. 미국은 내년 1월 스테이블코인법 시행을 앞두고 세칙을 확정하고 있다. 원화 스테이블코인의 발행 주체와 요건을 정할 디지털자산기본법 정부안은 3월과 9월로 거론됐던 제출 시점을 차례로 넘기고 아직 국회에 제출되지 않았으며, 은행 과반 컨소시엄 발행과 거래소 대주주 지분 제한이라는 두 쟁점은 1년 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "경제",
+            "가상자산",
+            "디지털자산",
+            "디지털자산기본법",
+            "스테이블코인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "역대 최대 63억 달러 암호화폐 해킹, 바이낸스 “손실 전액 보상”",
+          "link": "https://platum.kr/archives/297493?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%25ad%25eb%258c%2580-%25ec%25b5%259c%25eb%258c%2580-63%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-%25ec%2595%2594%25ed%2598%25b8%25ed%2599%2594%25ed%258f%2590-%25ed%2595%25b4%25ed%2582%25b9-%25eb%25b0%2594%25ec%259d%25b4%25eb%2582%25b8%25ec%258a%25a4-%25ec%2586%2590%25ec%258b%25a4-%25ec%25a0%2584",
+          "pubDate": "2026-10-30T13:13:43.000Z",
+          "image": null,
+          "summary": "세계 최대 암호화폐 거래소 바이낸스(Binance)가 29일(현지시간) 저녁 발생한 해킹 사고로 약 63억 달러(약 9조 원)의 피해를 입은 것으로 추정된다고 30일 밝혔다. 블록체인 분석업체 TRM랩스는 온체인(블록체인 위) 거래를 분석해 공격자가 10개 블록체인에 걸쳐 약 63억 6천만 달러를 빼돌린 것으로 추산했다. 현재까지 파악된 암호화폐 해킹 가운데 최대 규모다. 바이낸스는 블록체인 분석업체·스테이블코인 발행사와 협력해 현재까지 약 30억 달러를 ... 더 읽기",
+          "keywords": [
+            "글로벌",
+            "바이낸스",
+            "보안",
+            "해킹"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "두 게임을 한 화면에 섞는 ‘패스스루 모드’, AI 코딩이 불을 붙였다",
+          "link": "https://platum.kr/archives/297489?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2591%2590-%25ea%25b2%258c%25ec%259e%2584%25ec%259d%2584-%25ed%2595%259c-%25ed%2599%2594%25eb%25a9%25b4%25ec%2597%2590-%25ec%2584%259e%25eb%258a%2594-%25ed%258c%25a8%25ec%258a%25a4%25ec%258a%25a4%25eb%25a3%25a8-%25eb%25aa%25a8%25eb%2593%259c-ai-%25ec%25bd%2594%25eb%2594%25a9%25ec%259d%25b4-%25eb%25b6%2588",
+          "pubDate": "2026-10-30T09:05:21.000Z",
+          "image": null,
+          "summary": "콜 오브 듀티 모던 워페어 2 지도 위에서 병사가 스케이트보드를 타고 난간을 미끄러진다. 엘든링 보스 앞에 마인크래프트의 네모난 캐릭터가 서 있고, 화면 아래에는 마인크래프트의 아이템 칸이 떠 있다. 9월 말부터 X(옛 트위터)에 올라온 이런 영상들은 처음엔 AI로 만든 가짜 영상으로 오해받았다. 실제로는 서로 다른 두 게임의 기능을 하나로 결합한 프로젝트이거나, 제작자가 그렇게 합쳤다고 밝힌 시연 ... 더 읽기",
+          "keywords": [
+            "테크 & 과학",
+            "글로벌",
+            "AI 코딩",
+            "게임",
+            "마인크래프트",
+            "엘든링"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "4년 아닌 3년, 미국 대학의 학사 학위 실험",
           "link": "https://platum.kr/archives/297486?utm_source=rss&utm_medium=rss&utm_campaign=4%25eb%2585%2584-%25ec%2595%2584%25eb%258b%258c-3%25eb%2585%2584-%25eb%25af%25b8%25ea%25b5%25ad-%25eb%258c%2580%25ed%2595%2599%25ec%259d%2598-%25ed%2595%2599%25ec%2582%25ac-%25ed%2595%2599%25ec%259c%2584-%25ec%258b%25a4%25ed%2597%2598",
           "pubDate": "2026-10-30T08:26:03.000Z",
           "image": null,
           "summary": "미국 대학의 학사 학위는 100년 넘게 120학점, 4년이 기준이었다. 이 기준에 균열이 생기고 있다. 미국대학등록·입학관리협회(AACRAO)가 2026년 3월 낸 보고서에 따르면 3년제 학사 과정을 운영하거나 도입을 적극 검토하는 고등교육기관은 70곳 이상이다. 일부 대학은 수업을 몰아 듣는 조기졸업과 달리 학위에 필요한 학점 자체를 90학점 안팎으로 줄인 과정을 개설했다. 전공 필수와 교양 핵심은 유지하고, 졸업 요건을 채우기 위해 ... 더 읽기",
           "keywords": [
-            "트렌드"
+            "트렌드",
+            "교육",
+            "대학"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -816,56 +868,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "메르츠 독일 총리 “핵심은 다변화”, 아태 정·재계 800명 모인 APK 2026 서울 개막",
-          "link": "https://platum.kr/archives/297442?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25eb%25a5%25b4%25ec%25b8%25a0-%25eb%258f%2585%25ec%259d%25bc-%25ec%25b4%259d%25eb%25a6%25ac-%25ed%2595%25b5%25ec%258b%25ac%25ec%259d%2580-%25eb%258b%25a4%25eb%25b3%2580%25ed%2599%2594-%25ec%2595%2584%25ed%2583%259c-%25ec%25a0%2595%25c2%25b7%25ec%259e%25ac%25ea%25b3%2584-800%25eb%25aa%2585",
-          "pubDate": "2026-10-30T05:33:48.000Z",
-          "image": null,
-          "summary": "“핵심은 다변화다. 우리의 목표는 경제적 역량과 안정성, 행동의 자유를 지키는 것이다.” 프리드리히 메르츠 독일 총리가 30일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘제19회 아시아·태평양 독일 비즈니스 콘퍼런스(APK 2026)’ 기조연설에서 한 말이다. 메르츠 총리는 “공정한 규칙에 기반한 무역과 협력을 넓힐 때 우리의 자율성과 주권도 더 단단해질 것”이라고 말했다. 독일과 아시아·태평양 지역 정·재계 인사 약 800명이 모인 ... 더 읽기",
-          "keywords": [
-            "이벤트",
-            "독일",
-            "아시아·태평양 독일 비즈니스 콘퍼런스",
-            "프리드리히 메르츠 총리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "수산 스타트업 투자 펀드 나왔다, 젠엑시스·씨엔티테크 미래청년 수산 투자조합 결성",
-          "link": "https://platum.kr/archives/297465?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2588%2598%25ec%2582%25b0-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ed%2588%25ac%25ec%259e%2590-%25ed%258e%2580%25eb%2593%259c-%25eb%2582%2598%25ec%2599%2594%25eb%258b%25a4-%25ec%25a0%25a0%25ec%2597%2591%25ec%258b%259c%25ec%258a%25a4%25c2%25b7%25ec%2594%25a8%25ec%2597%2594%25ed%258b%25b0",
-          "pubDate": "2026-10-30T05:20:59.000Z",
-          "image": null,
-          "summary": "액셀러레이터 젠엑시스와 씨엔티테크가 수산 분야 초기 기업에 투자하는 펀드를 만들었다. 젠엑시스는 ‘씨엔티테크-젠엑시스 미래청년 수산 투자조합’ 결성을 29일 마쳤다고 30일 밝혔다. 이 펀드는 농업정책보험금융원이 운영하는 농림수산식품모태펀드 출자사업 가운데 수산계정 ‘미래청년(AC)’ 부문으로 조성됐다. 미래청년 부문은 액셀러레이터가 운용하는 초기 투자 분야다. 두 회사는 공동 운용사(Co-GP)를 맡아 수산 분야에서 성장 가능성이 있는 기업을 찾아 투자하고 액셀러레이팅을 함께 제공한다. 투자 ... 더 읽기",
-          "keywords": [
-            "투자",
-            "씨엔티테크",
-            "젠엑시스",
-            "펀드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "팩스 서류 수작업 대신 AI로, 한국딥러닝 보이스피싱 피해구제 업무 자동화",
-          "link": "https://platum.kr/archives/297459?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%25a9%25ec%258a%25a4-%25ec%2584%259c%25eb%25a5%2598-%25ec%2588%2598%25ec%259e%2591%25ec%2597%2585-%25eb%258c%2580%25ec%258b%25a0-ai%25eb%25a1%259c-%25ed%2595%259c%25ea%25b5%25ad%25eb%2594%25a5%25eb%259f%25ac%25eb%258b%259d-%25eb%25b3%25b4%25ec%259d%25b4%25ec%258a%25a4%25ed%2594%25bc%25ec%258b%25b1-%25ed%2594%25bc",
-          "pubDate": "2026-10-30T04:54:43.000Z",
-          "image": null,
-          "summary": "문서 AI 기업 한국딥러닝이 IBK기업은행과 함께 보이스피싱 피해구제 업무를 AI 에이전트로 자동화하는 실증을 마쳤다. 서류 처리에 걸리는 시간이 88% 줄었다. 보이스피싱 피해를 입으면 피해자는 은행에 피해구제 신청서와 신분증 사본 같은 서류를 낸다. 지금까지는 팩스로 들어온 이 서류를 은행 직원이 하나씩 확인하고 시스템에 입력했다. 송금된 돈이 빠져나가기 전에 지급정지 같은 조치를 해야 하는 업무인데, 서류 처리에 ... 더 읽기",
-          "keywords": [
-            "스타트업",
-            "ibk기업은행",
-            "한국딥러닝"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:21.860Z",
+      "fetchedAt": "2026-10-31T16:51:40.233Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -957,7 +962,7 @@
           "summaryKo": "식사 장소에 동의할 수 없으신가요? Zest의 AI 컨시어지는 모든 사람의 취향을 결합하고, 레스토랑 옵션을 투표하고, 예약을 할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:21.957Z",
+      "fetchedAt": "2026-10-31T16:51:40.330Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1056,7 +1061,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:23.301Z",
+      "fetchedAt": "2026-10-31T16:51:41.400Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1064,23 +1069,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) - 벤처스퀘어",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fRUo4SGcwYnR6UHFnX2VhV3VES0FfUUVSRVpjMkVBOWJoSHJoekFKclhZb2loZ0lEUFJLclJEMW1wNHBNLXBPU1NwOTN3RjhWbmU1XzNhLWk3Mk9ZbW9Z?oc=5",
-          "pubDate": "2026-10-27T12:57:46.000Z",
-          "image": null,
-          "summary": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) 벤처스퀘어",
-          "keywords": [
-            "2026년",
-            "남동발전",
-            "상생형",
-            "창업벤처기업",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "대전창조경제혁신센터, ‘웰컴 스테이 지원사업’ 모집 - 충남일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BbHFmR3VYVG5LdDZmeG1oYlBrMDVVQk56R2JhTkpkTy1xczdYdjQ1b3c2a1I4UU1mR1Yzc1RyUWVFMjQyMXRCLXVHUWpxQmFtcHF4MzRoOVQxSEZyVi1qUE1OTHpIeVFhWkdYOTBTZ3Y1TE0?oc=5",
@@ -1148,33 +1136,50 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "홍천군, 청년 어촌 정착 지원사업 대상자 모집 - 신아일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVFdHRmVxeEtUWjhnVHgzdDdHUjc3WlBoaXFYSkpmb2RnMk1PeFpXUldqSlA0MjJELVVwRG5TZlg2QThhV3ZJWXpEWmFvR2RRb1JlWTl6LVBfU0VTX1gwQ0d4YWF6a2hpVTJlSW0xZks?oc=5",
+          "pubDate": "2026-10-30T01:38:27.000Z",
+          "image": null,
+          "summary": "홍천군, 청년 어촌 정착 지원사업 대상자 모집 신아일보",
+          "keywords": [
+            "홍천군",
+            "청년",
+            "어촌",
+            "정착",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T11:43:23.770Z",
+      "fetchedAt": "2026-10-31T16:51:41.776Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
+      "key": "경제",
+      "label": "경제",
+      "count": 6,
+      "rank": 1,
+      "change": "up"
+    },
+    {
       "key": "ai",
       "label": "AI",
       "count": 3,
-      "rank": 1,
-      "change": "same"
+      "rank": 2,
+      "change": "down"
     },
     {
       "key": "대전창조경제혁신센터",
       "label": "대전창조경제혁신센터",
       "count": 2,
-      "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "경제",
-      "label": "경제",
-      "count": 5,
       "rank": 3,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
@@ -1212,8 +1217,8 @@
       "change": "same"
     },
     {
-      "key": "hn:",
-      "label": "HN:",
+      "key": "글로벌",
+      "label": "글로벌",
       "count": 3,
       "rank": 9,
       "change": "new"
@@ -1223,7 +1228,7 @@
       "label": "AI스타트업",
       "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
