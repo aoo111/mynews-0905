@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-31T21:00:40.625Z",
+  "collectedAt": "2026-11-01T00:42:37.180Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“보험은 소비자의 미래 지키는 역할”…가입 전 확인 사항은 [인터뷰]",
+          "link": "https://www.mk.co.kr/news/economy/12192557",
+          "pubDate": "2026-11-01T00:15:14.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/01/news-p.v1.20261030.34fa5ba5c6124413928feeb2bff448f3_R.jpg",
+          "summary": "김태진 인카금융서비스 GA 대표 인터뷰 보험금 영향주는 면책 조건·갱신형 따져야 “윤리교육 강화하고 위법행위 책임 물어야”“실력과 소양을 갖춘 설계사와 보험 상품을 충분히 이해한 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[속보] 한국 수출 첫 9000억달러 돌파…10월 1153억달러",
+          "link": "https://www.mk.co.kr/news/economy/12192552",
+          "pubDate": "2026-11-01T00:05:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/01/news-p.v1.20261101.b32a191d156042fdac9f0595d726e44a_R.png",
+          "summary": "우리나라의 1∼10월 누적 수출액이 사상 처음으로 9천억달러를 돌파한 것으로 나타났다. 10월 수출액이 9월에 이어 또다시 1100억달러를 상회하는 호조를 이어간 가운데 11월 중..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“넷플릭스, 그 돈 다 내고 보면 어떡해”…아는 사람만 안다는 ‘반값 할인’",
+          "link": "https://www.mk.co.kr/news/economy/12192550",
+          "pubDate": "2026-10-31T23:55:01.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/01/news-p.v1.20261030.de33e959365040f98c04d395f1fe05f0_R.jpg",
+          "summary": "고물가·고금리에 뜨는 ‘짠테크’ 생활비 절감형 카드 속속 등장 전월 실적 50만원 이상일 경우 넷플·티빙 등 요금 반값도 가능고물가·고금리 국면이 이어지면서 절약형 재테크인 ‘짠테..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "‘월 3000만원 따박따박’ 공정위 전관 변호사…기업 승소율은 되레 낮아",
           "link": "https://www.mk.co.kr/news/economy/12192512",
           "pubDate": "2026-10-31T13:41:44.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] 글로벌 도시 순위 1위는 뉴욕...고령화 영향권 서울은 순위 하락",
-          "link": "https://www.mk.co.kr/news/economy/12192411",
-          "pubDate": "2026-10-31T03:55:01.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/31/news-p.v1.20260804.fedb761a20db4f30a61484960bc5ab51_R.jpg",
-          "summary": "英 옥스퍼드이코노믹스 도시 평가 고령화 탓 순위 23계단 ‘뚝’ 38위 경제 부문에선 62위까지 떨어져 집값 급등·비싼 임대료 문제 지적서울의 글로벌 도시경쟁력 순위가 1년 새 2..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“3년 전에도 뇌경색 있었다” 2000만원 거절한 보험사…법원 판단은 [어쩌다 세상이]",
-          "link": "https://www.mk.co.kr/news/economy/12192405",
-          "pubDate": "2026-10-31T02:18:52.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/31/news-p.v1.20261030.ed39c322b0894752b13e4ad858d03336_R.png",
-          "summary": "보험사, 보험금 청구권 시효 지났다며 소송 3년내 청구해야 소멸시효 분쟁 피할 수 있어보험금 청구권은 원칙적으로 보험금을 청구할 수 있는 때부터 3년이 지나면 소멸합니다. 이 때문..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“빚내 뛰어든 증시, 이젠 돈 갚고 싶어”…빚투 열기 식자 개인 신용대출 ‘뚝’",
-          "link": "https://www.mk.co.kr/news/economy/12192326",
-          "pubDate": "2026-10-30T21:14:25.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202610/31/rcv.YNA.20260908.PYH2026090814510001300_R.jpg",
-          "summary": "5대 은행 신용대출 증가세 꺾여 기업은 운전자금 확보에 대출↑이달 중순까지 가파르게 늘어나던 5대 시중은행(KB국민·신한·하나·우리·NH농협)의 신용대출이 9일 만에 1조6000억..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:34.124Z",
+      "fetchedAt": "2026-11-01T00:42:28.358Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:34.208Z",
+      "fetchedAt": "2026-11-01T00:42:28.457Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
-          "pubDate": "2026-11-01T05:10:51.000Z",
+          "title": "블랙스톤 \"앤트로픽, 상장 후에도 투자적격 등급 확보 어려워\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216854",
+          "pubDate": "2026-11-01T09:37:16.000Z",
           "image": null,
-          "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
+          "summary": "세계 최대 사모펀드 운용사 블랙스톤이 앤트로픽이 기업공개(IPO) 이후에도 투자적격 신용등급을 받지 못할 것으로 전망했다. 앤트로픽이 향후 20년간 AI 인프라에 8000억달러(약 1068조원) 이상을 투자할 계획인 가운데, 신용등급이 낮으면 차입 비용이 높아지고 자금 조달에 제약이 생길 수 있다는 분석이다.파이낸셜타임스(FT)는 30일(현지시간) 소식통들을 인용, 블랙스톤이 앤트로픽의 630억달러(약 84조원) 규모 AI 반도체 투자 자금 조달에 참여한 투자자들에게 이같이 설명했다고 보도했다.블랙스톤은 최근까지 앤트로픽이 연말 이",
           "keywords": [
-            "삼성",
-            "사장단",
-            "50명",
-            "만난",
-            "알트먼"
+            "블랙스톤",
+            "앤트로픽",
+            "상장",
+            "후에도",
+            "투자적격"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
-          "pubDate": "2026-10-31T19:58:00.000Z",
+          "title": "중국 태양광 신규 설치 54% 급감…9월에는 41% 반등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216739",
+          "pubDate": "2026-11-01T09:25:00.000Z",
           "image": null,
-          "summary": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은 AI 영화 제작에 사용한 프롬프트와 작업 과정까지 공개하며 기술 개선에 활용하겠다고 밝혔다.머스크의 스페이스XSI는 23일(현지시간) X를 통해 '오디세이' 시리즈의 첫 번째 영상 '",
+          "summary": "중국의 올해 1~9월 태양광 신규 설치용량이 지난해 같은 기간보다 54% 가까이 감소했다. 그러나 3분기에는 신규 설치가 전년 동기보다 38% 증가하며 상반기와 다른 흐름을 보였다. 지난해 전력가격 제도 변경을 앞두고 설치가 집중됐던 기저효과와 올해 발전사업 투자 여건의 변화가 영향을 미쳤다.중국 국가에너지국(NEA)이 지난 26일(현지시간) 발표한 '2026년 1~9월 전국 전력통계'에 따르면, 올해 1~9월 신규 태양광 설비용량은 110.83기가와트(GW)로 집계됐다. 지난해 같은 기간의 240.27GW보다 129.44GW 줄어",
           "keywords": [
-            "머스크",
-            "놀란에",
-            "맞서",
-            "AI판",
-            "오디세이"
+            "중국",
+            "태양광",
+            "신규",
+            "설치",
+            "54%"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
-          "pubDate": "2026-10-31T18:53:02.000Z",
+          "title": "광양서 ‘원님행차’ 재현…시민 200여명 거리행진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216660",
+          "pubDate": "2026-11-01T09:25:00.000Z",
           "image": null,
-          "summary": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 있다고 밝혔으며, 세계적인 메모리 공급 부족과 초지능의 발전 방향에 대해서도 견해를 제시했다.알트먼 CEO는 29일(현지시간) 공개된 스트라이프 공동 창업자 존 콜리슨의 팟캐스트 '치키 파인트(Cheeky Pint)'에",
+          "summary": "AI 생성 영상광양에서 조선시대 원님행차를 현대적으로 재구성한 거리행진이 열렸다.광양은 지난 17일 광양읍 일원에서 시민 200여명이 참여한 가운데 ‘2026 광양원님행차 재현행사’를 개최했다고 23일 밝혔다.올해로 3회째인 행사는 광양문화도시센터가 광양읍주민자치회와 함께 진행했다. 과거 원님의 행차를 재현한 퍼포먼스와 시민 참여 거리행진으로 구성됐다.말 2필이 이끄는 원님행차단은 광양역사문화관을 출발해 광양여고와 광양읍사무소, 광양새마을금고를 거쳐 서천변 숯불구이축제장까지 이동했다.행렬에는 사물놀이와 시민들이 공모를 통해 직접 기",
           "keywords": [
-            "알트먼",
+            "광양서",
+            "원님행차",
+            "재현",
+            "시민",
+            "200여명"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "나주, 배달노동자 27명 안전용품 지원…1인 최대 20만원 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216659",
+          "pubDate": "2026-11-01T09:25:00.000Z",
+          "image": null,
+          "summary": "AI 생성 영상나주시가 배달노동자를 대상으로 이륜차 교통안전교육을 실시하고 교육 이수자에게 안전용품 구입비를 지원한다.나주는 고용노동부 ‘취약 노동자 일터 개선 지원사업’을 통해 배달노동자 27명을 모집해 1인당 최대 20만원의 안전용품 구입비를 지원한다고 26일 밝혔다.지원 대상은 공고일인 지난 23일 기준 나주에 주민등록상 주소를 두고 활동 중인 배달노동자다. 배달대행업체 소속 기사뿐 아니라 사업장이 자체 고용한 배달노동자도 포함된다.안전교육은 오는 11월10일 오후 2시부터 4시까지 빛가람동 나주시 공익활동지원센터에서 진행한다",
+          "keywords": [
+            "나주",
+            "배달노동자",
+            "27명",
+            "안전용품",
+            "지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216853",
+          "pubDate": "2026-11-01T09:23:52.000Z",
+          "image": null,
+          "summary": "메타가 막대한 AI 투자에 따른 재무 부담으로 신용등급 강등 가능성을 경고받았다. 핵심 광고 사업의 성장에도 AI 인프라 투자로 현금흐름이 적자로 돌아서고 향후 차입 부담까지 커질 것으로 예상된 데 따른 것이다.로이터와 블룸버그 등에 따르면, 글로벌 신용평가사 S&P 글로벌 레이팅스는 30일(현지시간) 메타의 신용등급 전망을 기존 '안정적'에서 '부정적'으로 하향 조정했다. 현재 신용등급인 'AA-'는 유지했지만, 앞으로 2년 안에 등급을 낮출 가능성이 있다는 경고다.이번 결정에는 지난 21일 발표된 3분기 실적에서 드러난 현금흐름",
+          "keywords": [
+            "메타",
             "AI",
-            "수학",
-            "연구에",
-            "수억달러"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216834",
-          "pubDate": "2026-10-31T18:16:47.000Z",
-          "image": null,
-          "summary": "국내 이용자들이 업무에서 챗GPT를 가장 많이 활용하는 분야는 여전히 문서·글 편집인 것으로 나타났다. 그러나 이미지와 디자인 등 시각 자료 제작 비중이 1년 사이 두 배 이상 늘어나며 주요 활용 분야로 떠올랐다. 정보 검색이나 문서 작성뿐 아니라 실제 업무 결과물을 만드는 데 AI를 활용하는 사례가 늘어나는 것으로 분석된다.오픈AI가 26일(현지시간) 공개한 챗GPT 이용 통계 '시그널스(OpenAI Signals)'의 한국 데이터를 분석한 결과, 올해 3분기 개인용 챗GPT 계정의 업무 관련 메시지 가운데 문서·글 편집 비중은",
-          "keywords": [
-            "한국인",
-            "챗GPT",
-            "활용",
-            "문서",
-            "편집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
-          "pubDate": "2026-10-31T18:05:26.000Z",
-          "image": null,
-          "summary": "구글이 지구 궤도에 발사한 위성에서 데이터센터급 AI 반도체인 TPU를 가동하고, AI 모델의 추론 결과를 지상으로 전송하는 데 성공했다. 우주에서 데이터센터급 TPU로 실제 AI 작업을 수행한 첫 사례로, 지상 데이터센터의 연산 기능을 우주로 옮기려는 장기 프로젝트가 첫 기술적 성과를 거뒀다. 첫 실험에서는 AI 모델 '젬마 4(Gemma 4)'를 이용해 우주를 주제로 한 시를 생성했다.구글은 30일(현지시간) 공식 블로그를 통해 지난 10월1일 발사한 '프로젝트 선캐처(Project Suncatcher)' 시제품 위성이 초기 점",
-          "keywords": [
-            "구글",
-            "우주",
-            "데이터센터",
-            "위성에서",
-            "AI"
+            "투자",
+            "부담에",
+            "신용등급"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:35.344Z",
+      "fetchedAt": "2026-11-01T00:42:29.368Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬 및 승인되지 않은 상담원 행동을 감지하여 사고가 에스컬레이션되기 전에 대응자가 개입할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:35.553Z",
+      "fetchedAt": "2026-11-01T00:42:29.528Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "쥘 베른의 잃어버린 소설",
-          "link": "https://news.hada.io/topic?id=36348&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T18:39:02.000Z",
+          "title": "Anthropic, 더 큰 모델 학습에 조금이라도 관련된 작업을 하는 사용자를 차단",
+          "link": "https://news.hada.io/topic?id=36358&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:42:59.000Z",
           "image": null,
-          "summary": "쥘 베른이 1863년에 쓴 『20세기 파리』 는 과학, 기계, 상업, 효율을 향한 믿음이 지배하는 1960년의 문명을 상상한 소설로, 출판사의 거절로 미출간 상태였다가 집필 131년 뒤인 1994년에 출간됨 소설 속 교통망, 계산기, 원격 문서 전송은 순수한 예언보다 당대 기술의 연...",
+          "summary": "Jiahao Shao는 Claude로 연구 작업을 자동화하다가 “경쟁 모델 학습”으로 분류돼 차단 등의 조치를 받았다고 밝힘 Shao에 따르면 Claude를 증류한 적은 없으며, 롤아웃은 성능이 좋은 오픈소스 모델에서 생성함 해당 작업에서 Claude의 역할",
           "keywords": [
-            "베른의",
-            "잃어버린",
-            "소설"
+            "Anthropic",
+            "모델",
+            "학습에",
+            "조금이라도",
+            "관련된"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "악성코드, LLM으로 피해자의 금전적 가치에 따라 순위를 매김",
-          "link": "https://news.hada.io/topic?id=36347&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T18:36:02.000Z",
+          "title": "프랑스 하원, GB당 0.055유로 인터넷세 도입안 가결",
+          "link": "https://news.hada.io/topic?id=36357&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:39:59.000Z",
           "image": null,
-          "summary": "Windows 정보 탈취 악성코드 VOLTA-AUTODOXER는 훔친 인증정보와 개인 데이터를 LLM에 보내, 피해자의 자산을 현금화 가치에 따라 평가하고 우선순위를 매김 단순한 정보 수집을 넘어 탈취한 세션으로 Gmail 영수증, 음식 배달 주문 내역, Discord 계정 등을 조회해...",
+          "summary": "프랑스 하원이 프랑스 이용자에게 전송하는 데이터에 GB당 0.055유로를 부과하는 수정안을 가결함. 납세 대상은 이용자가 아닌 온라인 콘텐츠 공급자임 인터넷 서비스 제공업체가 사업자별 전송량을 분기마다 측정하며, 이용자 가까이 있는 중계 ...",
           "keywords": [
-            "악성코드",
-            "LLM으로",
-            "피해자의",
-            "금전적",
-            "가치에"
+            "프랑스",
+            "하원",
+            "GB당",
+            "055유로",
+            "인터넷세"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
-          "link": "https://news.hada.io/topic?id=36346&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T17:49:44.000Z",
+          "title": "GPT-5.6 Sol, 평화 모드에서 Factorio 클리어 가능",
+          "link": "https://news.hada.io/topic?id=36356&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:36:58.000Z",
           "image": null,
-          "summary": "Prospero는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함 서브에이전트와 원격 실행을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
+          "summary": "GPT-5.6 Sol이 Codex에서 낮은 사고 수준으로 실행돼, 바이터가 없는 Factorio 평화 모드를 게임 내 시간 13.5시간 만에 클리어함 게임 관리자와 Python 라이브러리로 게임을 조작했으며, 플레이어의 도달 거리와 전장의 안개 등 GUI로 플레이하는...",
           "keywords": [
-            "Prospero",
-            "경량",
-            "설계와",
-            "원격",
-            "실행을"
+            "GPT",
+            "Sol",
+            "평화",
+            "모드에서",
+            "Factorio"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "돼지, 국가, 전쟁: 붉은 돼지(Porco Rosso) (2014)",
-          "link": "https://news.hada.io/topic?id=36345&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T17:46:44.000Z",
+          "title": "공백 문자인지 확인하는 일이 얼마나 어려울까?",
+          "link": "https://news.hada.io/topic?id=36354&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T23:01:10.000Z",
           "image": null,
-          "summary": "《붉은 돼지》를 평화학과 국제관계 이론으로 분석하면, Porco의 변신은 전쟁의 트라우마뿐 아니라 인간의 이기주의, 국가의 민족주의/파시즘, 전쟁의 군국주의에 대한 거부로 읽을 수 있음 Porco는 무기를 사용하고 현상금을 위해 싸우지만, 상대를 죽이지 않는 불살 원칙...",
+          "summary": "공백 판별은 단순한 c == ' ' 비교로 끝나지 않으며, Unicode의 25개 공백 문자와 런타임별 판정 기준을 구분해야 함 Java, Python, JavaScript는 같은 문자도 다르게 판정함. 줄바꿈 없는 공백, 제어 문자, 너비 없는 문자 등의 포함 여부가 서로 다...",
           "keywords": [
-            "돼지",
-            "국가",
-            "전쟁:",
-            "붉은",
-            "돼지(Porco"
+            "공백",
+            "문자인지",
+            "확인하는",
+            "일이",
+            "얼마나"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "엘니뇨로 침수되는 캘리포니아 해안, 최고 만조는 아직 오지 않았다",
-          "link": "https://news.hada.io/topic?id=36344&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-10-31T17:43:44.000Z",
+          "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
+          "link": "https://news.hada.io/topic?id=36353&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-10-31T22:33:15.000Z",
           "image": null,
-          "summary": "캘리포니아 북부에서 만조에 따른 침수가 San Pablo Bay부터 Monterey까지 이어지고 있으며, Bay Area의 만조 수위는 10월 관측 최고 기록을 경신함 현재 침수는 달의 주기에 따라 한 달에 약 두 번 발생하는 대조(spring tide) 때 일어났으며, 연...",
+          "summary": "Jepsen이 AI 워크로드용 ParticleDB 1.1.4부터 1.1.18.11.rc-22까지 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남 문제는 충돌과 교착 상태뿐 아니라 잘못된 SQL 결과와 데...",
           "keywords": [
-            "엘니뇨로",
-            "침수되는",
-            "캘리포니아",
-            "해안",
-            "최고"
+            "Jepsen:",
+            "ParticleDB",
+            "AI용",
+            "데이터베이스의",
+            "정합성"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:36.078Z",
+      "fetchedAt": "2026-11-01T00:42:30.123Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +531,7 @@
           "summaryKo": "Instagram은 YouTube의 TV 시청 시간과 광고 수익만 추구하는 것이 아니라 재능도 추구합니다. 메타 소유 플랫폼은 새로 발표된 긴 형식의 가로 형식 \"기능\" 으로 동영상을 게시하기 위해 일부 유튜버에게 최대 $ 500,000를 지불할 것을 제안했습니다. \"비즈니스 인사이더에 따르면, 인스타그램은 바닥 가격이 $ 50,000인 '셀렉트' 유튜버에게 접근했습니다. 다른 사람들은 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:36.309Z",
+      "fetchedAt": "2026-11-01T00:42:30.358Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:36.481Z",
+      "fetchedAt": "2026-11-01T00:42:30.522Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:36.565Z",
+      "fetchedAt": "2026-11-01T00:42:30.610Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -783,7 +785,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:38.739Z",
+      "fetchedAt": "2026-11-01T00:42:32.708Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -872,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:38.972Z",
+      "fetchedAt": "2026-11-01T00:42:32.957Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -880,6 +882,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+          "pubDate": "2026-10-31T21:36:07.000Z",
+          "image": null,
+          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+          "keywords": [
+            "AI",
+            "Biotech & Health",
+            "Climate",
+            "Fintech",
+            "Fundraising",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "4일 남음: TechCrunch 창립자 서밋이 규모에 맞게 더 유용한 연결을 만드는 데 도움이 되는 방법",
+          "summaryKo": "11월 4일 보스턴의 소와 발전소에서 의미 있는 네트워킹 기회, 실행 가능한 통찰력, 아이디어와 스타트업의 궤도를 바꿀 수 있는 연결로 가득한 하루를 준비하세요. 문 앞에서 모든 요금이 인상되기 전에 숙소를 등록하세요."
+        },
         {
           "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
           "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
@@ -945,26 +965,9 @@
           "isForeign": true,
           "titleKo": "Satlyt는 위성을 우주 데이터 센터로 전환하기 위한 또 다른 단계를 밟습니다.",
           "summaryKo": "Satlyt은 이번 달에 인공위성을 시작으로 우주선을 가상 데이터 센터로 전환하는 데 더 가까이 다가가는 테스트를 성공적으로 진행했습니다."
-        },
-        {
-          "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-          "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-          "pubDate": "2026-10-30T17:47:12.000Z",
-          "image": null,
-          "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "AI agents",
-            "dining",
-            "zest"
-          ],
-          "isForeign": true,
-          "titleKo": "Zest의 새로운 AI 상담원은 텍스트를 통해 레스토랑을 찾아 예약합니다.",
-          "summaryKo": "식사 장소에 동의할 수 없으신가요? Zest의 AI 컨시어지는 모든 사람의 취향을 결합하고, 레스토랑 옵션을 투표하고, 예약을 할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:39.072Z",
+      "fetchedAt": "2026-11-01T00:42:35.333Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -972,6 +975,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[최앤리의 스타트업 법률 가이드] 벤처투자 계약의 기준이 바뀐다…RCPS·상장 의무·창업자 책임까지",
+          "link": "https://www.venturesquare.net/1121115/",
+          "pubDate": "2026-10-31T23:00:28.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/cl-746x522.png",
+          "summary": "2026년 벤처투자 표준계약서 개정으로 스타트업 투자계약의 주요 기준이 달라졌다. 개정안은 상환전환우선주(RCPS) 대신 전환우선주(CPS)를 기본 투자 구조로 권장하고, 투자계약서와 주주간계약서를 분리하는 등 글로벌 투자 관행을 반영했다. IPO 관련 의무를 최선 노... The post [최앤리의 스타트업 법률 가이드] 벤처투자 계약의 기준이 바뀐다…RCPS·상장 의무·창업자 책임까지 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "투자 가이드",
+            "CPS",
+            "IPO",
+            "RCPS"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[AI 시대 리더의 대화법] AI로 12쪽의 성과 근거를 가져온 팀원…팀장은 무엇으로 평가할 것인가",
           "link": "https://www.venturesquare.net/1124534/",
@@ -1043,27 +1064,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "대전창조경제혁신센터, 스타트업파크 입주기업 성장 지원…선배 창업가 투자·사업화 경험 공유",
-          "link": "https://www.venturesquare.net/1124462/",
-          "pubDate": "2026-10-30T11:36:51.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/dj-7-696x522.jpg",
-          "summary": "대전창조경제혁신센터가 지난 29일 대전 스타트업파크에서 '2026 대전 스타트업파크 커뮤니티' 2회차 프로그램을 개최했다. 티알 김병수 대표는 네이버와 대웅제약, 아스트라제네카 등 주요 기업과의 협업 경험을 바탕으로 초기 스타트업의 사업화 및 성장 전략을 소개했다. 입... The post 대전창조경제혁신센터, 스타트업파크 입주기업 성장 지원…선배 창업가 투자·사업화 경험 공유 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "김병수",
-            "대전스타트업파크",
-            "대전창업생태계",
-            "대전창조경제혁신센터",
-            "대전혁신센터"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:40.108Z",
+      "fetchedAt": "2026-11-01T00:42:36.374Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1071,23 +1074,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) - 벤처스퀘어",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fRUo4SGcwYnR6UHFnX2VhV3VES0FfUUVSRVpjMkVBOWJoSHJoekFKclhZb2loZ0lEUFJLclJEMW1wNHBNLXBPU1NwOTN3RjhWbmU1XzNhLWk3Mk9ZbW9Z?oc=5",
-          "pubDate": "2026-10-27T12:57:46.000Z",
-          "image": null,
-          "summary": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) 벤처스퀘어",
-          "keywords": [
-            "2026년",
-            "남동발전",
-            "상생형",
-            "창업벤처기업",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "대전창조경제혁신센터, ‘웰컴 스테이 지원사업’ 모집 - 충남일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BbHFmR3VYVG5LdDZmeG1oYlBrMDVVQk56R2JhTkpkTy1xczdYdjQ1b3c2a1I4UU1mR1Yzc1RyUWVFMjQyMXRCLXVHUWpxQmFtcHF4MzRoOVQxSEZyVi1qUE1OTHpIeVFhWkdYOTBTZ3Y1TE0?oc=5",
@@ -1099,23 +1085,6 @@
             "웰컴",
             "스테이",
             "지원사업",
-            "모집"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbFh0cmgxMnBwYkVTTWpMUW5CNkI0QTB6ZVNEeUdPTW1Fc0l6QjhHN2RweDJ4eWZ1cDhLSkhwLWZxV0tyTF9WSG1OeFZiZVZ1NzlEd0FnQUhtOTDSAWBBVV95cUxOT2xyLTZHT2MtNWZyV2d1bHVVOGVhY2tRa1hfNmZVekV2cUNxOV90WGV4UmM2Zjd0RGRWRDF0U2NZMlliOTQ1c2FDU3k4cG5NcjQ2ZVl2YUMzM1BEd09lQnM?oc=5",
-          "pubDate": "2026-10-28T06:33:32.000Z",
-          "image": null,
-          "summary": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 연합뉴스",
-          "keywords": [
-            "서울",
-            "난임부부",
-            "지원사업",
-            "참여자",
             "모집"
           ],
           "isForeign": false,
@@ -1140,6 +1109,23 @@
           "summaryKo": null
         },
         {
+          "title": "포항시, 국제크루즈 운항지원 사업...승객 모집 절차에 논란 거세 - 이로운넷",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZWNfZk8yaFBqRHdPUGhZbG1JT0RxRUdCTnF3NVdjRF8xekQ1Z1pnSnhHU3YwbWd4aG9sS0FCNm9mM2loLUJsZEpES2xhMGR1QktzbE5jWWZjNENoWmd5WVl0SWRXdw?oc=5",
+          "pubDate": "2026-10-30T09:15:56.000Z",
+          "image": null,
+          "summary": "포항시, 국제크루즈 운항지원 사업...승객 모집 절차에 논란 거세 이로운넷",
+          "keywords": [
+            "포항시",
+            "국제크루즈",
+            "운항지원",
+            "사업",
+            "승객"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "홍천군, 청년 어촌 정착 지원사업 대상자 모집 - 신아일보",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVFdHRmVxeEtUWjhnVHgzdDdHUjc3WlBoaXFYSkpmb2RnMk1PeFpXUldqSlA0MjJELVVwRG5TZlg2QThhV3ZJWXpEWmFvR2RRb1JlWTl6LVBfU0VTX1gwQ0d4YWF6a2hpVTJlSW0xZks?oc=5",
           "pubDate": "2026-10-30T01:38:27.000Z",
@@ -1155,9 +1141,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
+          "pubDate": "2026-10-19T07:20:00.000Z",
+          "image": null,
+          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
+          "keywords": [
+            "전북중기청",
+            "2027년",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-10-31T21:00:40.619Z",
+      "fetchedAt": "2026-11-01T00:42:37.172Z",
       "error": null
     }
   },
@@ -1172,58 +1175,58 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
-      "rank": 2,
-      "change": "same"
-    },
-    {
-      "key": "대전창조경제혁신센터",
-      "label": "대전창조경제혁신센터",
       "count": 2,
-      "rank": 3,
+      "rank": 2,
       "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "same"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 5,
-      "rank": 8,
-      "change": "same"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 3,
-      "rank": 9,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 8,
       "change": "same"
+    },
+    {
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
     },
     {
       "key": "ai스타트업",
