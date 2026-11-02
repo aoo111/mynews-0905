@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-01T21:43:40.109Z",
+  "collectedAt": "2026-11-02T01:17:28.941Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "잘못 보낸 돈 찾아주는 예보 서비스, ‘세계 최초’ 혁신사례 선정",
+          "link": "https://www.mk.co.kr/news/economy/12193167",
+          "pubDate": "2026-11-02T00:52:17.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.9fcf03517bae4b459558fa1ae4ddb6dd_R.jpg",
+          "summary": "2021년 7월 세계최초 도입한 서비스 5년간 1만8216건, 226억원 착오송금 반환잘못 송금한 돈을 되찾아주는 예금보험공사의 착오송금 반환지원 서비스가 지난달 30일 행정안전부..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "현대해상, 美재보험 영토 넓힌다…글로벌 중개사와 인수업무 계약",
+          "link": "https://www.mk.co.kr/news/economy/12193151",
+          "pubDate": "2026-11-02T00:41:51.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-a.v1.20261101.75be865fbd284fa08feb5171e14a3fb9_R.png",
+          "summary": "세계 5위 중개그룹 계열사와 협력 재물·배상·산재보험 인수 확대 현지 영업망 활용 수익 다변화현대해상이 미국 현지의 재보험 전문업체와 손잡고, 해외 보험시장 영토를 넓힌다. 저출생..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“먹고살려고 신용대출 받았다”…담보 없는 서민 ‘생계형 빚’ 역대 최대",
+          "link": "https://www.mk.co.kr/news/economy/12193099",
+          "pubDate": "2026-11-01T23:58:25.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.39abdec717c9445f95067d785d9365a7_R.png",
+          "summary": "소득 하위 20% 생계형 신용대출 38%자산·소득 하위 20% 계층에서 생활비 마련을 위해 신용대출을 받은 비중이 각각 역대 최고치를 기록했다. 신용대출은 담보대출보다 금리가 높은..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“연금 받으려면 3년 남았는데 이거라도”…‘소득 절벽’에 시간제·임시직 취업↑",
+          "link": "https://www.mk.co.kr/news/economy/12193094",
+          "pubDate": "2026-11-01T23:51:02.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20260827.74ab208532bf4d1784e68765fb0acefb_R.png",
+          "summary": "국민연금을 받는 나이가 단계적으로 늦춰지면서 법정 정년 이후 연금을 타기 전까지 소득이 뚝 끊기는 제도적 소득공백이 3년까지 늘어나는 것으로 나타났다. 정년과 연금 수급 시점 사이..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "수출 1조시대, 알고보니 49%가 반도체…삐끗하면 나라 흔들린다",
           "link": "https://www.mk.co.kr/news/economy/12193048",
           "pubDate": "2026-11-01T21:10:56.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“주식만 믿었다간 벼락거지 못면한다”…한달새 50조 몰린 이 상품",
-          "link": "https://www.mk.co.kr/news/economy/12193047",
-          "pubDate": "2026-11-01T21:10:25.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261101.7bfd1fbe077743ee8406fb80257d70e3_R.png",
-          "summary": "5대은행 예적금 외 수신액 4년여만에 월 최대폭 증가퇴직연금·신탁·주가연계예금(ELD) 등 일반 예·적금보다 알파 수익을 얻을 수 있는 은행 상품에 한 달 새 50조원이 몰렸다. ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "유리지갑 직장인만 강제로 모범납세자…사업자 소득 10조 뒷북확인",
-          "link": "https://www.mk.co.kr/news/economy/12193032",
-          "pubDate": "2026-11-01T13:20:39.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/01/news-p.v1.20261101.f9dd3e0d5da8419890dd2fa63b5c059e_R.jpg",
-          "summary": "국세청이 지난해 법인과 개인사업자를 대상으로 실시한 세무조사에서 10조원 넘는 소득을 추가로 확인한 것으로 나타났다. 최근 5년간 가장 큰 규모다. 특히 세무조사를 받은 개인사업자..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] 석화 구조조정 한파에...근로자 55%만 재취업",
-          "link": "https://www.mk.co.kr/news/economy/12192973",
-          "pubDate": "2026-11-01T09:45:27.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/01/news-p.v1.20260326.5590d5cd9fd5494dbe37da678b018518_R.jpg",
-          "summary": "여수·서산·울산 고용 ‘직격탄’장기 불황에 사업재편을 추진 중인 석유화학업계의 노동자 재취업률이 절반 수준에 머무는 것으로 나타났다. 정부가 하반기 종합지원 대책 발표를 예고한 가..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한국 수출 '꿈의 1조달러' 달성 초읽기",
-          "link": "https://www.mk.co.kr/news/economy/12192946",
-          "pubDate": "2026-11-01T08:37:10.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/02/20261102_01110101000006_L00.jpg",
-          "summary": "한국의 연간 누적 수출이 사상 처음으로 9000억달러를 돌파했다. 반도체 호황과 바이오·화장품 선전에 힘입어 이달 중 미국과 중국, 독일에 이어 세계에서 네 번째로 '꿈의 1조달러..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:29.287Z",
+      "fetchedAt": "2026-11-02T01:17:22.058Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:29.461Z",
+      "fetchedAt": "2026-11-02T01:17:22.141Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+          "pubDate": "2026-11-02T09:00:00.000Z",
+          "image": null,
+          "summary": "문제 해결을 위한 AI 에이전트 설계이선협 | 한빛미디어2026년 10월 30일추천이유이 책은 AI 에이전트가 정말 필요한지부터 시작해 문제를 분석하고 LLM과 코드의 역할을 나누는 설계 능력을 갖추도록 합니다. 저자는 프레임워크 없이 직접 구현한 다섯 가지 실제 예제를 통해 어떤 상황에서도 적용할 수 있는 오래가는 설계 감각을 전달합니다.상세보기 \"회사에서 AI 에이전트를 도입하자는데, 개발팀은 어디서부터 공부해야 하나요?\" 영풍문고 IT 매대 앞에서 이런 질문을 받는다면, 영풍문고 북마스터는 이번 주 한빛미디어가 오는 30일 펴",
+          "keywords": [
+            "AI리더의",
+            "서가",
+            "문제",
+            "해결을",
+            "위한"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216860",
-          "pubDate": "2026-11-01T15:58:06.000Z",
-          "image": null,
-          "summary": "MIT 연구진이 AI 모델끼리 텍스트를 주고받지 않고 내부 계산 정보를 직접 전달하는 기술을 개발했다. 서로 다른 기업이 만든 AI 모델 사이에서도 작동하며, 기존 텍스트 기반 소통보다 평균 정확도를 40% 높이고 처리 속도를 4배 단축했다. 연구진은 이 기술에 ‘스웜 텔레파시(SwaT·Swarm Telepathy)’라는 이름을 붙였다.MIT 컴퓨터과학·AI연구소(CSAIL)와 MIT-IBM 컴퓨팅 연구소 연구진은 최근 온라인 아카이브에 ‘스웜 텔레파시: 모델 계열 간 프리필 없는 KV 캐시 전송(Swarm Telepathy: Pr",
-          "keywords": [
-            "MIT",
-            "AI",
-            "모델끼리",
-            "없이",
-            "소통하는"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:30.696Z",
+      "fetchedAt": "2026-11-02T01:17:23.516Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -348,7 +348,7 @@
           "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬 및 승인되지 않은 상담원 행동을 감지하여 사고가 에스컬레이션되기 전에 대응자가 개입할 수 있도록 합니다."
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:30.857Z",
+      "fetchedAt": "2026-11-02T01:17:23.729Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "‘간호계의 Uber’ 앱들이 의료 규제 완화를 추진하자 간호사들이 경고에 나섬",
-          "link": "https://news.hada.io/topic?id=36413&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-01T20:36:12.000Z",
+          "title": "입자가속기에 머리를 관통당한 남자, 얼굴 절반의 시간이 멈췄다",
+          "link": "https://news.hada.io/topic?id=36430&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-02T00:57:43.000Z",
           "image": null,
-          "summary": "AI Now Institute 보고서에 따르면 간호 단기근무 플랫폼들이 기존 의료 인력업체 규정에서 면제받기 위해 로비를 벌이고 있으며, 2022년 이후 최소 17개 주에서 관련 법안이 발의됨 플랫폼은 AI 기반 요율 책정과 최저가 입찰로 근무를 배정하며, 개인 데이터를 이...",
+          "summary": "1. 얼굴의 절반만 늙지 않는 남자 세월이 흐르면서 얼굴 오른쪽에는 주름이 생겼지만, 왼쪽은 상대적으로 젊은 모습이 유지된 남자가 있다. 그는 소련의 물리학자 아나톨리 부고르스키(Anatoli Bugorski)다. 놀랍게도 그의 얼굴에 나타난 차이는 성형수술이나 특별...",
           "keywords": [
-            "간호계의",
-            "Uber",
-            "앱들이",
-            "의료",
-            "규제"
+            "입자가속기에",
+            "머리를",
+            "관통당한",
+            "남자",
+            "얼굴"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "프런티어 항공의 해킹 피해 가능성",
-          "link": "https://news.hada.io/topic?id=36412&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-01T20:33:12.000Z",
+          "title": "Ask HN: 개인정보 보호를 위해 어떤 TV를 추천하시나요?",
+          "link": "https://news.hada.io/topic?id=36429&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-02T00:43:21.000Z",
           "image": null,
-          "summary": "프런티어 항공의 해킹 피해 가능성",
+          "summary": "수년간 TV 없이 지냈으며, 개인정보를 존중하는 TV를 찾고 있음. 원하는 사양은 60~80인치, 4K, 최소 60Hz이며 더 높은 가격을 지불할 의향도 있음 대부분의 스마트 TV 내장 앱보다 Apple TV가 더 나은 대안이라는 이야기를 들었으며, 개인정보 보호 측면에서 더 잘...",
           "keywords": [
-            "프런티어",
-            "항공의",
-            "해킹",
-            "피해",
-            "가능성"
+            "Ask",
+            "HN:",
+            "개인정보",
+            "보호를",
+            "어떤"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이메일 암호화 이해하기",
-          "link": "https://news.hada.io/topic?id=36411&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-01T19:39:55.000Z",
+          "title": "Apollo 이코노미스트 “AI, 대부분 기업에 재무적 성과 전혀 안겨주지 못해”",
+          "link": "https://news.hada.io/topic?id=36428&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-02T00:40:21.000Z",
           "image": null,
-          "summary": "이메일 암호화는 연결, 서버 간 전송, 저장, 종단 간 통신 중 어디에 적용하느냐에 따라 보호 범위가 다르며, 자신에게 중요한 위협을 먼저 구분해야 함 TLS는 네트워크 도청을 막지만, 서버 간 전송의 기회적 TLS는 암호화되지 않은 연결로 강등될 수 있음. MTA-S...",
+          "summary": "Apollo Global Management 수석 이코노미스트 Torsten Slok에 따르면, 막대한 투자와 열풍에도 기술 업종 밖 미국 기업에서 AI의 재무적 성과가 나타나지 않음 주요 기술 기업 7곳을 제외한 S&P 493의 이익률과 직원당 매출은 정체된 것으로 보이며, Slok은 AI...",
           "keywords": [
-            "이메일",
-            "암호화",
-            "이해하기"
+            "Apollo",
+            "이코노미스트",
+            "AI",
+            "대부분",
+            "기업에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Patrick Stewart는 선한 사람들이 권력을 어떻게 사용하는지 가르쳐 주었다",
-          "link": "https://news.hada.io/topic?id=36410&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-01T19:36:55.000Z",
+          "title": "미국 노동자가 가져가는 자본의 몫, 최소 1947년 이후 최저 수준",
+          "link": "https://news.hada.io/topic?id=36427&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-02T00:37:21.000Z",
           "image": null,
-          "summary": "Patrick Stewart가 연기한 Jean-Luc Picard는 행성을 파괴할 군사력을 갖고도 구조, 외교, 백신 보급과 보편적 권리 보호에 힘을 쓰는 지도자의 모범이었음 Star Trek: The Next Generation은 냉전 이후 미국의 패권을 이상화하면서, 합리적 논증에 응답하고 개인의...",
+          "summary": "미국 경제 생산에서 노동자가 임금으로 받는 노동소득분배율이 2026년 2분기 52.8% 로 하락해, 노동통계국(BLS)이 집계를 시작한 1947년 이후 최저치를 기록함 기업 이익과 GDP가 증가하는 동안 고용 증가는 둔화해, 고용 없는 성장과 부유층과 저...",
           "keywords": [
-            "Patrick",
-            "Stewart는",
-            "선한",
-            "사람들이",
-            "권력을"
+            "미국",
+            "노동자가",
+            "가져가는",
+            "자본의",
+            "최소"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "전 Meta 연구원, 해적판 도서를 토렌트로 받은 뒤 ‘소송 때문에’ 삭제",
-          "link": "https://news.hada.io/topic?id=36409&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-01T18:57:17.000Z",
+          "title": "OpenQodex - 코딩 에이전트의 변경을 별도 에이전트가 검증하는 코드 리뷰 도구",
+          "link": "https://news.hada.io/topic?id=36426&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-02T00:30:02.000Z",
           "image": null,
-          "summary": "저작권자들은 전 Meta 연구원 Stephen Roller가 Books3를 토렌트로 내려받고 의도적으로 배포했다고 증언했다며, Meta의 데이터 확보 경위에 대한 추가 확인을 요구함 법원은 지난해 도서를 이용한 Llama 학습을 공정 이용으로 판단했으며, 저자들이 제기한 소송에...",
+          "summary": "기존 로그인 계정을 활용해 코딩 에이전트의 변경을 별도의 Claude Code 또는 Codex 프로세스로 리뷰하는 도구 미푸시 커밋과 미커밋 변경 전체를 기본 검사하며, 특정 브랜치나 PR, 저장소 전체 리뷰도 지원 22개 내장 스캐너로 비밀키...",
           "keywords": [
-            "Meta",
-            "연구원",
-            "해적판",
-            "도서를",
-            "토렌트로"
+            "OpenQodex",
+            "코딩",
+            "에이전트의",
+            "변경을",
+            "별도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:31.606Z",
+      "fetchedAt": "2026-11-02T01:17:24.431Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -529,7 +531,7 @@
           "summaryKo": "생성 AI는 자동화 에이전트, 창의적 전략가 및 연구 보조원이 될 수 있습니다. 이제 Meta는 LLM의 무기고인 퍼스널 스타일리스트의 또 다른 직업을 알아냈습니다. 이것이 바로 Meta가 조용히 출시한 새로운 앱인 Style Sketch의 기본 아이디어입니다. 이 기술 대기업은 새로운 플랫폼과 관련된 공식 발표를 하지 않았지만, 스타일 스케치는 이미 사용자가 자신의 의상을 선택하고 옷장의 아이템과 일치하도록 돕고 있습니다. MOR을 위해 튜브필터 방문하기"
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:35.718Z",
+      "fetchedAt": "2026-11-02T01:17:24.552Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -603,7 +605,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:35.903Z",
+      "fetchedAt": "2026-11-02T01:17:24.718Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -684,7 +686,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:35.955Z",
+      "fetchedAt": "2026-11-02T01:17:24.776Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -692,6 +694,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "[VS 기획] 짧아진 영상, 커지는 시장…숏폼이 바꾸는 콘텐츠 산업의 수익 공식",
+          "link": "https://www.venturesquare.net/1124526/",
+          "pubDate": "2026-11-01T22:55:20.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/02-2-783x522.png",
+          "summary": "국내 숏폼 이용률이 58.6%에 달하면서 짧은 영상이 광고와 드라마, 커머스를 연결하는 콘텐츠 산업의 주요 형식으로 자리 잡았다. 윗유는 2025년 매출 597억 원과 영업이익 103억 원을 기록하며 크리에이터 마케팅과 글로벌 커머스를 결합한 사업 모델을 보여줬다. 숏... The post [VS 기획] 짧아진 영상, 커지는 시장…숏폼이 바꾸는 콘텐츠 산업의 수익 공식 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "스타트업 트렌드",
+            "Ai",
+            "IP산업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[VS 기획] 세계 평균 두 배 넘는 한국 AI 이용률…인크로스 보고서로 본 ‘AI 유료 소비 시대’",
           "link": "https://www.venturesquare.net/1124584/",
@@ -763,27 +783,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "트릴리온랩스, AI 에이전트 개발·OCR 최적화 해커톤 개최…오픈소스 모델 활용",
-          "link": "https://www.venturesquare.net/1124511/",
-          "pubDate": "2026-10-30T13:10:33.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/10/image-48-789x444.png",
-          "summary": "트릴리온랩스가 오는 11월 19일부터 20일까지 서울 드림플러스 강남에서 '2026 트릴리온 에이전트 AI 해커톤'을 개최한다. 대회는 자체 오픈소스 의사결정 모델 'Zoro-1'을 활용한 AI 에이전트 개발과 문자인식 모델 'GravityOCR'의 처리 속도 및 컴퓨... The post 트릴리온랩스, AI 에이전트 개발·OCR 최적화 해커톤 개최…오픈소스 모델 활용 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI에이전트",
-            "AI추론",
-            "AI해커톤"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:38.195Z",
+      "fetchedAt": "2026-11-02T01:17:27.095Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:38.518Z",
+      "fetchedAt": "2026-11-02T01:17:27.243Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -970,7 +972,7 @@
           "summaryKo": "Satlyt은 이번 달에 인공위성을 시작으로 우주선을 가상 데이터 센터로 전환하는 데 더 가까이 다가가는 테스트를 성공적으로 진행했습니다."
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:38.654Z",
+      "fetchedAt": "2026-11-02T01:17:27.333Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:39.783Z",
+      "fetchedAt": "2026-11-02T01:17:28.405Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1077,6 +1079,57 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) - 벤처스퀘어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fRUo4SGcwYnR6UHFnX2VhV3VES0FfUUVSRVpjMkVBOWJoSHJoekFKclhZb2loZ0lEUFJLclJEMW1wNHBNLXBPU1NwOTN3RjhWbmU1XzNhLWk3Mk9ZbW9Z?oc=5",
+          "pubDate": "2026-10-27T12:57:46.000Z",
+          "image": null,
+          "summary": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) 벤처스퀘어",
+          "keywords": [
+            "2026년",
+            "남동발전",
+            "상생형",
+            "창업벤처기업",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "진주시, ‘2026년 청년 중개보수비 지원사업’ 신청자 모집 - 브릿지경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sVTNURHVaaDVIN2VCUU5UU2t3M2VpcjJOR2tKZ19mWkVxS3NONDVqeUJ1ZEh3b2RNQ0x3d1lUZjNDTW8tT1VsV1JRZ3duMGMzeGRiMnM2LTI0UQ?oc=5",
+          "pubDate": "2026-11-01T02:16:00.000Z",
+          "image": null,
+          "summary": "진주시, ‘2026년 청년 중개보수비 지원사업’ 신청자 모집 브릿지경제",
+          "keywords": [
+            "진주시",
+            "2026년",
+            "청년",
+            "중개보수비",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 - 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbFh0cmgxMnBwYkVTTWpMUW5CNkI0QTB6ZVNEeUdPTW1Fc0l6QjhHN2RweDJ4eWZ1cDhLSkhwLWZxV0tyTF9WSG1OeFZiZVZ1NzlEd0FnQUhtOTDSAWBBVV95cUxOT2xyLTZHT2MtNWZyV2d1bHVVOGVhY2tRa1hfNmZVekV2cUNxOV90WGV4UmM2Zjd0RGRWRDF0U2NZMlliOTQ1c2FDU3k4cG5NcjQ2ZVl2YUMzM1BEd09lQnM?oc=5",
+          "pubDate": "2026-10-28T06:33:32.000Z",
+          "image": null,
+          "summary": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 연합뉴스",
+          "keywords": [
+            "서울",
+            "난임부부",
+            "지원사업",
+            "참여자",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "대전창조경제혁신센터, ‘웰컴 스테이 지원사업’ 모집 - 충남일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BbHFmR3VYVG5LdDZmeG1oYlBrMDVVQk56R2JhTkpkTy1xczdYdjQ1b3c2a1I4UU1mR1Yzc1RyUWVFMjQyMXRCLXVHUWpxQmFtcHF4MzRoOVQxSEZyVi1qUE1OTHpIeVFhWkdYOTBTZ3Y1TE0?oc=5",
@@ -1110,88 +1163,37 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
-          "pubDate": "2026-10-19T07:00:00.000Z",
-          "image": null,
-          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
-          "keywords": [
-            "전북중기청",
-            "2027년",
-            "전통시장",
-            "상점가",
-            "활성화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 - 헬로티",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URl80Y1pVOGZKWDZTV1dlSUlnZVNNN0lPa0xyQ0tHTEVMQUVkOHczeFQyNWNPRGZDdlRHT2NEamhEUEVrRVAtd0t4ckpUc3BEVUZWajJDS0RYS0VPYUc0?oc=5",
-          "pubDate": "2026-10-19T07:00:00.000Z",
-          "image": null,
-          "summary": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고 헬로티",
-          "keywords": [
-            "중기부",
-            "2027년도",
-            "전통시장",
-            "상점가",
-            "활성화"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "포항시, 국제크루즈 운항지원 사업...승객 모집 절차에 논란 거세 - 이로운넷",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kZWNfZk8yaFBqRHdPUGhZbG1JT0RxRUdCTnF3NVdjRF8xekQ1Z1pnSnhHU3YwbWd4aG9sS0FCNm9mM2loLUJsZEpES2xhMGR1QktzbE5jWWZjNENoWmd5WVl0SWRXdw?oc=5",
-          "pubDate": "2026-10-30T09:15:56.000Z",
-          "image": null,
-          "summary": "포항시, 국제크루즈 운항지원 사업...승객 모집 절차에 논란 거세 이로운넷",
-          "keywords": [
-            "포항시",
-            "국제크루즈",
-            "운항지원",
-            "사업",
-            "승객"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-01T21:43:40.102Z",
+      "fetchedAt": "2026-11-02T01:17:28.933Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 6,
+      "key": "ai",
+      "label": "AI",
+      "count": 3,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "special post",
-      "label": "Special Post",
-      "count": 3,
+      "key": "경제",
+      "label": "경제",
+      "count": 6,
       "rank": 2,
-      "change": "up"
+      "change": "down"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 2,
+      "key": "special post",
+      "label": "Special Post",
+      "count": 4,
       "rank": 3,
       "change": "down"
     },
     {
-      "key": "해킹",
-      "label": "해킹",
+      "key": "코딩",
+      "label": "코딩",
       "count": 2,
       "rank": 4,
       "change": "new"
@@ -1201,42 +1203,42 @@
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 5,
       "rank": 8,
-      "change": "up"
+      "change": "new"
     },
     {
       "key": "글로벌",
       "label": "글로벌",
       "count": 3,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
-      "key": "2027년",
-      "label": "2027년",
-      "count": 2,
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
