@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-03T19:05:44.221Z",
+  "collectedAt": "2026-11-04T00:23:42.205Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,58 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "카뱅, 3분기 누적 순익 4698억원…올해 늘어난 대출 58%는 개인사업자 몫",
+          "link": "https://www.mk.co.kr/news/economy/12195970",
+          "pubDate": "2026-11-04T00:03:55.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20261104.a650e1e0474840c2b3f23d58b35d248c_R.png",
+          "summary": "카카오뱅크가 올해 3분기 누적 당기순이익 4698억원을 거뒀다. 지난해 같은 기간보다 25.2% 늘었다. 가계대출 관리가 이어지는 가운데 올해 들어 늘어난 대출 잔액의 58%를 개..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“사적연금·ISA·배당 소득자 등 건보료 부과 추진”…건보료 체계 ‘확’ 바뀔듯",
+          "link": "https://www.mk.co.kr/news/economy/12195963",
+          "pubDate": "2026-11-03T23:54:02.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20261104.7d889628a28e4190847fbfcbcc219559_R.png",
+          "summary": "정부, 분리과세소득에 건보료 부과 검토세금은 부과되지만 건강보험료 산정에서 제외된 금융·연금소득 등 분리과세 소득과 일용근로소득에 보험료를 매기는 방안이 검토된다. ‘소득 있는 곳..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "韓 외환보유액 다시 증가…4년5개월만에 최대",
+          "link": "https://www.mk.co.kr/news/economy/12195941",
+          "pubDate": "2026-11-03T23:20:01.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/04/rcv.YNA.20261006.PYH2026100614280001300_R.jpg",
+          "summary": "한은 10월 보유액 발표 한달새 26억달러 증가 9월 기준 세계 9위우리나라 외환보유액이 두 달 만에 다시 늘어나며 4년 5개월 만에 최대 규모를 기록했다. 한국은행이 4일 발표한..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“국내서만 41만명이 직장 잃을 수도”…車부품망 무너뜨리는 중국 전기차",
+          "link": "https://www.mk.co.kr/news/economy/12195667",
+          "pubDate": "2026-11-03T21:04:15.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20260406.b0852314e3fc4b04bf1ed4e9c02bda61_R.jpeg",
+          "summary": "고려대 공급망 정책 세미나 수입전기차 중국산 비중 83% 韓 중소 부품사 타격 불가피 “국내 생산세액공제 신설을”중국산 전기차 공습이 지금처럼 심해진다면 국내 자동차 부품 공급망에..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“비거주자 징벌 과세” vs “과세 정상화”…부동산 세제개편 전문가도 충돌",
           "link": "https://www.mk.co.kr/news/economy/12195307",
           "pubDate": "2026-11-03T12:16:33.000Z",
@@ -52,61 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "GTX '삼성역 무정차 통과' 내년으로 연기",
-          "link": "https://www.mk.co.kr/news/economy/12195233",
-          "pubDate": "2026-11-03T10:35:55.000Z",
-          "image": null,
-          "summary": "수도권 광역급행철도(GTX)-A노선 삼성역의 연내 무정차 통과가 사실상 무산됐다. 기둥 철근 누락에 따른 안전성 검증이 길어지면서 보강안이 확정되더라도 열차 운행은 1년 늦춰져 내..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "고금리 보장 상품에 보험사 '발목'",
-          "link": "https://www.mk.co.kr/news/economy/12195151",
-          "pubDate": "2026-11-03T08:46:51.000Z",
-          "image": null,
-          "summary": "과거 고금리와 폭넓은 보장을 앞세워 판매한 보험상품이 수조 원대 손실로 돌아오며 보험업계의 발목을 잡고 있다. 3일 보험업계에 따르면 국내 대형 생보사 3곳(삼성·한화·교보생명)의..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "농협은행, ‘당국 검사 방해·고객확인 의무 위반’ 기관경고",
-          "link": "https://www.mk.co.kr/news/economy/12195147",
-          "pubDate": "2026-11-03T08:46:05.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.b1097eadcb2f4120bd40a71dba04ed3e_R.png",
-          "summary": "NH농협은행이 금융당국 조사 과정에서 검사자료를 조작하고, 고객확인 의무를 위반한 혐의로 중징계를 받았다. 3일 금융권에 따르면 금융감독원 자금세탁방지실은 지난달 26일 농협은행에..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12195116",
-          "pubDate": "2026-11-03T08:42:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/04/20261104_01110110000009_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:23.961Z",
+      "fetchedAt": "2026-11-04T00:23:20.788Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:24.015Z",
+      "fetchedAt": "2026-11-04T00:23:20.944Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,40 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216788",
+          "pubDate": "2026-11-04T09:00:00.000Z",
+          "image": null,
+          "summary": "원하는 대로 튜닝하는 나만의 sLLM오지영 | 길벗2026년 7월 7일추천이유저자는 sLLM의 구축부터 배포까지 전 과정을 실습으로 안내하며, 개발자가 직접 맞춤형 AI를 만들고 운영하는 엔지니어로 성장하도록 돕습니다.상세보기 기업이 생성 AI를 들일 때 가장 먼저 걸리는 문턱은 여전히 데이터다. 메가존클라우드와 파운드리가 국내 기업 AI·IT 담당자 749명에게 물은 조사에서 생성형 AI의 주요 우려로 보안·개인정보 유출을 꼽은 응답은 53.3%였다. 자체 모델을 택한 기업이 꼽은 이유도 보안과 데이터 통제가 45.9%로 가장 많",
+          "keywords": [
+            "AI리더의",
+            "서가",
+            "원하는",
+            "대로",
+            "튜닝하는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216936",
+          "pubDate": "2026-11-04T07:00:00.000Z",
+          "image": null,
+          "summary": "최첨단 AI 모델들이 실제 기업의 전문 업무를 재현한 평가에서 최고 12%에 그쳤습니다. 기존 벤치마크가 실제 업무의 복잡성과 전문가의 판단 과정을 충분히 반영하지 못한다는 지적과 함께, AI가 기업의 고부가가치 전문 업무를 얼마나 완수할 수 있는지 측정하는 새로운 평가 방식이 등장했습니다.반도체·AI 산업 분석 전문 세미애널리시스(SemiAnalysis)는 2일(현지시간) 새로운 AI 에이전트 벤치마크인 'GDPx'를 공개했습니다. 반도체 설계, 사이버보안, 생물학, 금융, 법률, 소프트웨어 개발, AI 자기 개선(RSI) 등 1",
+          "keywords": [
+            "11월3일",
+            "AI",
+            "성능",
+            "높아도",
+            "실무는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216942",
@@ -238,43 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216958",
-          "pubDate": "2026-11-03T17:39:09.000Z",
-          "image": null,
-          "summary": "딥시크가 자연어 지시만으로 AI 에이전트에 필요한 플러그인을 제작하는 '크리에이터 모드(Creator Mode)'를 공개했다. 사용자가 원하는 기능을 설명하면 AI가 코드를 작성하고 설치와 작동 검증까지 수행하는 방식으로, 복잡한 프로그래밍 지식 없이도 맞춤형 작업 도구를 만들 수 있다.딥시크 하네스 팀은 2일 X를 통해 크리에이터 모드의 활용 사례를 소개하며 \"아이디어를 직접 사용할 수 있는 플러그인으로 바꿀 수 있다\"고 밝혔다. 이 기능은 앞서 개발된 것으로, 이번에 다양한 제작 사례와 활용 방법을 본격적으로 소개했다.공개된 시",
-          "keywords": [
-            "딥시크",
-            "자연어로",
-            "AI",
-            "에이전트",
-            "기능"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "딥 프린시플, 일부 과학 평가서 GPT-6 아스트라 앞선 '하이드로젠' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216967",
-          "pubDate": "2026-11-03T17:30:16.000Z",
-          "image": null,
-          "summary": "중국 AI 소재 연구 전문 딥 프린시플(Deep Principle)이 실제 실험 기록과 연구 과정의 시행착오까지 학습한 과학 특화 AI 모델 '하이드로젠-1.0(Hydrogen-1.0)'을 공개했다. 총 7530억개 매개변수를 갖춘 오픈웨이트 모델로, 과학적 지식과 추론 능력을 넘어 실험 설계와 시뮬레이션, 신소재 탐색 등 여러 단계의 연구 작업을 수행하도록 설계했다.딥 프린시플은 2일(현지시간) 하이드로젠-1.0을 공개하고 모델 가중치를 MIT 라이선스로 허깅페이스와 모델스코프에 배포했다.Z.ai의 범용 모델 'GLM-5.3'을",
-          "keywords": [
-            "프린시플",
-            "일부",
-            "과학",
-            "평가서",
-            "GPT"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:25.641Z",
+      "fetchedAt": "2026-11-04T00:23:22.409Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -296,6 +296,23 @@
           "summaryKo": "ChatGPT와 코덱스가 엔지니어가 물리적 세계에서 CAD, PCB 설계, 시뮬레이션 및 기타 워크플로우를 가속화하는 데 어떻게 도움이 되는지 알아보세요."
         },
         {
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "link": "https://openai.com/index/cisco-cyber",
+          "pubDate": "2026-11-03T08:00:00.000Z",
+          "image": null,
+          "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+          "keywords": [
+            "How",
+            "Cisco",
+            "defends",
+            "at",
+            "machine"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI로 시스코가 기계 속도로 방어하는 방법",
+          "summaryKo": "Cisco는 네트워크 인텔리전스와 OpenAI 모델을 결합하여 엔터프라이즈 보안을 강화합니다. 더 많은 적응형 방어를 구축하는 방법에 대해 알아보십시오."
+        },
+        {
           "title": "Heimstaden is changing residential real estate management with AI",
           "link": "https://openai.com/index/heimstaden",
           "pubDate": "2026-11-03T08:00:00.000Z",
@@ -313,6 +330,19 @@
           "summaryKo": "Heimstaden이 OpenAI의 ChatGPT Enterprise 및 Codex를 사용하여 재산 관리를 혁신하고 비용을 절감하며 유럽 전역의 직원들에게 권한을 부여하는 방법을 알아보세요."
         },
         {
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "pubDate": "2026-11-03T00:00:00.000Z",
+          "image": null,
+          "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+          "keywords": [
+            "Company"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI, 최고 기업 업무 책임자로 Jill Hazelbaker 임명",
+          "summaryKo": "Jill Hazelbaker는 OpenAI의 최고 기업 업무 책임자로 합류하여 회사의 글로벌 커뮤니케이션 및 기업 포지셔닝을 이끌 것입니다."
+        },
+        {
           "title": "Scaling Git at OpenAI",
           "link": "https://openai.com/index/scaling-git-at-openai",
           "pubDate": "2026-11-02T15:30:00.000Z",
@@ -324,35 +354,9 @@
           "isForeign": true,
           "titleKo": "OpenAI에서 Git 확장",
           "summaryKo": "OpenAI가 Git 호환 백엔드인 Pando를 구축한 방법은 Codex가 가능하게 하는 개발 규모에 맞게 설계되었습니다."
-        },
-        {
-          "title": "Introducing the Grid Protectors Program",
-          "link": "https://openai.com/index/grid-protectors-program",
-          "pubDate": "2026-11-02T15:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-          "keywords": [
-            "Global Affairs"
-          ],
-          "isForeign": true,
-          "titleKo": "계통 보호기 프로그램 소개",
-          "summaryKo": "OpenAI의 계통 보호 프로그램 (Grid Protectors Program) 은 미래의 컴퓨팅 캠퍼스가 계통 신뢰성을 지원하고 소비자 전기 비용을 보호할 수 있도록 유틸리티와 협력할 것입니다."
-        },
-        {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "pubDate": "2026-11-02T18:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "keywords": [
-            "Security"
-          ],
-          "isForeign": true,
-          "titleKo": "더 큰 버그 현상금으로 방어자에게 보상하기",
-          "summaryKo": "OpenAI는 보안 버그 보상금을 인상하고 독립 보안 연구원을 위한 보고서 품질, 충성도 및 우선 캠페인 보너스를 도입하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:28.123Z",
+      "fetchedAt": "2026-11-04T00:23:25.844Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +365,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Kalshi와 공동창업자들, 유타주 도박법 위반 혐의로 중범죄 기소",
-          "link": "https://news.hada.io/topic?id=36541&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-03T18:47:05.000Z",
+          "title": "Safari 27.3에 Adaptive Dark Mode 도입",
+          "link": "https://news.hada.io/topic?id=36549&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-03T23:32:30.000Z",
           "image": null,
-          "summary": "유타주가 예측시장 Kalshi와 공동창업자 2명을 각각 중범죄 13건과 경범죄 1건으로 기소함. 혐의는 플랫폼에서 제공한 스포츠 베팅에 근거함 트럼프 행정부의 상품선물거래위원회(CFTC) 는 유타주의 도박금지법 집행을 막기 위해 소송을 제기함. 유타주는 CFTC가 예측시장 규제를 놓고 소송을 건 10번째 주임 핵심 쟁점은 예측시장의 이벤트 계약이 스왑에 해당하는지, 연방 CFTC의 스왑 관할권이 주정부의 도박법 적용을 배제하는지임 유타주는 이미 Kalshi와의 연방법원 소송에서 승소했으며, Kalshi는 항소 중 법 집행을 막는 가처분도 …",
+          "summary": "Safari 27.3 베타의 Adaptive Dark Mode는 사용자가 활성화하면 다크 모드를 지원하지 않는 밝은 웹사이트를 어둡게 변환함 다크 모드 지원을 선언한 사이트나 이미 어두운 페이지는 그대로 두고, 페이지 색상을 분석해 밝은 페이지에만 변환을 적용함 색조를 유지하면서 밝기를 반전하고, 텍스트는 WCAG 대비율 4.5:1을 목표로 조정함 개발자는 color-scheme 으로 자체 다크 스타일 적용 범위나 변환 제외 의도를 지정할 수 있지만, 제외에 필요한 only 키워드는 Safari 27.3 베타 1에서 아직 지원하지 않음 사용자 프라이버시를 위해 웹 …",
           "keywords": [
-            "Kalshi와",
-            "공동창업자들",
-            "유타주",
-            "도박법",
-            "위반"
+            "Safari",
+            "27",
+            "3에",
+            "Adaptive",
+            "Dark"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "OpenAI가 Codex 대화의 모델 학습 사용을 알림 없이 다시 활성화하는 것으로 보임",
-          "link": "https://news.hada.io/topic?id=36540&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-03T18:44:05.000Z",
+          "title": "에이전트가 일을 할 때의 비판적 사고",
+          "link": "https://news.hada.io/topic?id=36547&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-03T22:04:49.000Z",
           "image": null,
-          "summary": "한 이용자와 동료들이 꺼 두었던 Codex 데이터 공유 설정이 알림 없이 다시 활성화됐다고 보고함 이들은 회사 지식재산 유출을 우려해 데이터 공유를 비활성화해 왔으며, 의식적으로 다시 동의한 적이 없다고 밝힘 ChatGPT 데이터 제어 설정의 “Improve the model for everyone” 항목에서 설정 상태를 확인할 수 있음 일부 이용자만 겪는 문제인지, 더 광범위한 현상인지는 확인되지 않음 후속 수정에는 이전 HN 논의와 데이터 공유를 끌 수 있는 별도의 OpenAI 개인정보 관리 페이지가 추가됨 데이터 공유 설정 재활성화 보고 한 이용 …",
+          "summary": "에이전트가 빠르고 매끄러우며 대체로 정확한 답을 내놓을수록, 사람이 다시 살펴볼 계기는 줄어듦. 에이전트 사용을 줄이기보다 비판적 사고를 작업 흐름에 의도적으로 넣어야 함 작업을 맡기면서 결과에 대한 주도권을 유지하는 인지적 위임과, AI의 답을 확인 없이 자기 생각으로 받아들이는 인지적 항복은 다름. 에이전트의 도움으로도 결과를 설명할 수 없다면 주도권을 넘긴 상태임 검증의 병목은 테스트를 만드는 비용보다 좋은 검증이 무엇인지 판단하는 능력에 있음. 통과 표시만 볼 것이 아니라 무엇을 입증했고 무엇을 확인하지 않았는지 따져야 함 …",
           "keywords": [
-            "OpenAI가",
-            "Codex",
-            "대화의",
-            "모델",
-            "학습"
+            "에이전트가",
+            "일을",
+            "때의",
+            "비판적",
+            "사고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Google, AI를 거부하는 학교의 검색 기능도 차단 예정",
-          "link": "https://news.hada.io/topic?id=36539&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-03T18:41:04.000Z",
+          "title": "Stringman, 800달러짜리 오픈소스 방 규모 그리퍼 로봇",
+          "link": "https://news.hada.io/topic?id=36546&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-03T21:32:50.000Z",
           "image": null,
-          "summary": "Google은 2027년 초부터 학교 관리자가 명시적으로 허용하지 않으면 K-12 학생용 소프트웨어의 AI 도구를 끌 예정이며, AI를 전면 제한하는 학교는 Google 검색 접근도 잃게 됨 검색과 AI가 깊이 통합돼 있다는 이유로, Google 생태계에서 학생의 검색 접근을 유지하려는 학교는 Google AI도 받아들여야 함 AI를 허용하는 학교에는 AI 요약과 채팅을 켠 검색, 학생용 Gemini 기능인 Guided Learning을 이용한 검색이라는 두 가지 선택지가 제공될 예정임 학부모의 학교 내 AI 사용 반대가 이어지는 가운데, 뉴욕시와 로스앤젤레스 교육구 …",
+          "summary": "Stringman은 천장 근처 네 모서리에 고정한 케이블과 모터 4개로 그리퍼를 움직여, 방 안에서 물건을 집고 운반하는 로봇임 모터들이 들어 올리는 힘을 나눠 부담하며, 평균 적재량 1.9kg, 바닥 근처 최대 2.2kg을 지원함 795달러 제품으로, 제조사 비교에서 7×7×3m 방의 작업 공간을 제공하며 비슷한 2kg 적재량의 연구용 로봇 팔보다 가격 대비 작업 공간 부피가 약 500배 큼 기구 CAD, PCB, 제어 소프트웨어를 공개한 오픈소스 하드웨어이며, UI와 AI 모델을 자체 하드웨어에서 실행해 외부 인터넷 없이 로컬 네트워크만으로 운용할 수 …",
           "keywords": [
-            "Google",
-            "AI를",
-            "거부하는",
-            "학교의",
-            "검색"
+            "Stringman",
+            "800달러짜리",
+            "오픈소스",
+            "규모",
+            "그리퍼"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Postman, AI 플러그인을 몰래 자동 설치하고 모든 API 데이터 공유 시도",
-          "link": "https://news.hada.io/topic?id=36538&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-03T18:38:04.000Z",
+          "title": "15년간 사망한 NFL 선수의 75%가 CTE를 앓았을 것으로 추정한 연구",
+          "link": "https://news.hada.io/topic?id=36545&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-03T20:33:00.000Z",
           "image": null,
-          "summary": "macOS의 Postman 12.33.4 실행 뒤 Codex와 Claude Code에 사용자 범위 플러그인이 자동 설치됐다는 신고가 접수됨. 첨부 로그에는 auto-existing-upgrade 경로의 설치 성공이 기록돼 있음 Codex의 시작 훅은 명시적인 Postman 요청뿐 아니라 일반적인 API 설계, 구현, 테스트 등의 작업에서도 postman:api-engineer 스킬을 먼저 불러오도록 지시함 설치 프로그램에는 자신이 설치한 훅의 해시를 가져와 신뢰 설정에 등록하는 코드가 있음. 다만 로컬 신뢰 기록만으로 해당 기록을 누가 생성했는지는 입증되지 않음 원격 MCP 연결도 활성화 …",
+          "summary": "2008~2023년 사망한 전직 NFL 선수를 분석한 연구에서 약 75%가 만성 외상성 뇌병증(CTE)의 징후를 지녔을 것으로 추정됨 연구팀은 기증된 뇌 396개와 다른 사망 선수 1,966명의 정보를 결합하고, 인지 저하 증상이 있는 선수의 가족이 뇌를 기증할 가능성이 더 높은 편향을 통계적으로 보정함 CTE 징후가 있다고 반드시 증상이 나타나는 것은 아니며, 분석 대상 중 치매가 있었을 것으로 추정한 비율은 약 27%임 CTE는 현재 부검으로만 진단할 수 있어 유병률은 추정치에 머무르며, 소수의 병변만 있다면 행동 변화나 치매로 이어질 가능 …",
           "keywords": [
-            "Postman",
-            "AI",
-            "플러그인을",
-            "몰래",
-            "자동"
+            "15년간",
+            "사망한",
+            "NFL",
+            "선수의",
+            "75%가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Fujifilm, AI로 아카이빙 수요 늘자 테이프 생산능력 5배 확대 추진",
-          "link": "https://news.hada.io/topic?id=36536&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-03T17:38:00.000Z",
+          "title": "어떤 규모에서도 Mac 운영하기",
+          "link": "https://news.hada.io/topic?id=36543&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-03T19:39:39.000Z",
           "image": null,
-          "summary": "Fujifilm이 약 100억 엔(약 6,300만 달러)을 투자해 자기 테이프 생산능력을 2025회계연도 대비 5배로 확대할 계획임 회사는 생성형 AI 확산에 따른 전 세계 데이터 수요의 기하급수적 증가를 아카이빙 수요 급증의 원인으로 꼽음 증설은 2026~2028회계연도에 가나가와 공장 오다와라 사업장에서 진행하며, 최신 세대인 FUJIFILM LTO Ultrium10 생산에 주력함 주요 클라우드 서비스 및 데이터센터 운영사들은 대용량 데이터를 비교적 저렴하게 저장할 수 있어 자기 테이프 사용을 확대하고 있음 테이프는 연결을 끊고 별도 장소에 보관하 …",
+          "summary": "Namespace는 iOS 앱 빌드와 테스트에 필요한 Mac 인프라를 확장하기 위해 MacBook 전용 랙, macOS 가상화, 대용량 VM 이미지 배포 체계를 구축함 MacBook 도입은 공급 제약에 대한 대응이었음. Mac Mini 대량 주문의 납기가 길고 최신 CPU 도입 시점도 제품별로 달라, 최신 하드웨어 제공을 위해 노트북을 데이터센터에 배치함 macOS VM은 Apple Virtualization framework로 실행하며, 물리 Mac당 macOS VM 2개 제한과 프로세스 간 통신 비용이 자원 분할 및 네트워크 설계에 영향을 줌 여러 macOS, Xcode, iOS 런타임 조합으로 커지는 이 …",
           "keywords": [
-            "Fujifilm",
-            "AI로",
-            "아카이빙",
-            "수요",
-            "늘자"
+            "어떤",
+            "규모에서도",
+            "Mac",
+            "운영하기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:28.836Z",
+      "fetchedAt": "2026-11-04T00:23:26.523Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -454,6 +457,73 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "YouTube enlists educational creators to show the value of its interactive gaming hub",
+          "link": "https://www.tubefilter.com/2026/11/03/youtube-educational-games-playables-veritasium/",
+          "pubDate": "2026-11-04T00:14:22.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/veritasium-youtube-playables.jpg",
+          "summary": "As educators, researchers, and policymakers debate YouTube's utility in classrooms, a handful of creators are getting the chance to show how the platform's interactive elements can enhance learning. YouTube quietly introduced a slate of educational games through its Playables hub, with notable STEM channels like Veritasium and Khan Academy involved in the initiative. Playables has been available on YouTube for nearly three years, but for much of its existence, the hub has been little more than a",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "YouTube",
+            "elements of truth"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube는 교육용 크리에이터가 인터랙티브 게임 허브의 가치를 보여줄 수 있도록 지원합니다.",
+          "summaryKo": "교육자, 연구자 및 정책 입안자가 교실에서 YouTube의 유용성에 대해 토론함에 따라 소수의 크리에이터가 플랫폼의 대화형 요소가 어떻게 학습을 향상시킬 수 있는지 보여줄 수 있는 기회를 얻고 있습니다. YouTube는 Playables 허브를 통해 조용히 교육용 게임을 소개했으며, 이 이니셔티브에는 Veritasium 및 Khan Academy와 같은 주목할만한 STEM 채널이 참여했습니다. 플레이어블은 거의 3 년 동안 YouTube에서 사용할 수 있었지만 그 존재의 대부분 동안 허브에는 BEE가 있습니다."
+        },
+        {
+          "title": "X, like YouTube, is offering bonuses to creators who consistently upload new videos",
+          "link": "https://www.tubefilter.com/2026/11/03/x-video-kickstart-program-creator-bonus-monetization/",
+          "pubDate": "2026-11-03T22:57:13.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/x-icon.jpg",
+          "summary": "X has been trying to increase its potential as a video platform since it was still known as Twitter. Now, four years into Elon Musk's reign, the social media hub is debuting a new form of monetization. The Video Kickstart Bonus program will deliver payouts to creators who publish regular uploads over a set period of time. For now, the Video Kickstart Bonus is a pilot program that is being tested among a select group of creators. Those lab rats will be notified of their eligibility via their Crea",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "Twitter",
+            "creator monetization"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube와 마찬가지로 X는 새로운 동영상을 지속적으로 업로드하는 크리에이터에게 보너스를 제공합니다.",
+          "summaryKo": "X는 여전히 Twitter로 알려져 있기 때문에 비디오 플랫폼으로서의 잠재력을 높이려고 노력해 왔습니다. 이제 일론 머스크의 통치 4년이 지난 지금, 소셜 미디어 허브는 새로운 형태의 수익 창출을 시작하고 있습니다. 동영상 킥스타트 보너스 프로그램은 일정 기간 동안 정기 업로드를 게시한 크리에이터에게 수익을 지급합니다. 현재 동영상 킥스타트 보너스는 일부 크리에이터 그룹에서 테스트 중인 파일럿 프로그램입니다. 실험실 쥐에게는 자격 요건이 통보됩니다."
+        },
+        {
+          "title": "YouTube is giving some creators a 30-day fix-it period before terminating their channels",
+          "link": "https://www.tubefilter.com/2026/11/03/youtube-spam-policy-content-violation-grace-period-appeals/",
+          "pubDate": "2026-11-03T22:39:12.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/GettyImages-81285817.jpg",
+          "summary": "YouTube is giving some creators a little grace after flagging their channels for violations of its spam policy. Historically, creators who are flagged for spam–a broad category that includes everything from viewbotting, to posting “low-effort, repetitive” comments or polls, to promoting get-rich-quick schemes, to mass-reposting content from other people–get their channels immediately terminated. That means […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Homepage Feature"
+          ],
+          "isForeign": true,
+          "titleKo": "YouTube는 일부 크리에이터에게 채널을 종료하기 전에 30일의 수정 기간을 제공하고 있습니다.",
+          "summaryKo": "YouTube는 일부 크리에이터에게 스팸 정책 위반으로 채널을 신고한 후 약간의 은혜를 주고 있습니다. 역사적으로, 스팸으로 신고된 크리에이터는 뷰보팅, '저노력, 반복적인' 댓글이나 여론조사 게시, 부유한 콘텐츠 홍보, 다른 사람의 콘텐츠 대량 재게시 등 모든 것을 포함하는 광범위한 카테고리를 통해 채널을 즉시 종료할 수 있습니다. 즉, […] 더 많은 멋진 스토리를 보려면 튜브필터를 방문하세요."
+        },
+        {
+          "title": "Druski is one of Netflix’s biggest creator signings. What can he do with a multi-year deal?",
+          "link": "https://www.tubefilter.com/2026/11/03/druski-netflix-multi-year-deal-praise-and-collect/",
+          "pubDate": "2026-11-03T21:37:17.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/druski-netflix.jpg",
+          "summary": "Druski is coming to Netflix. On December 1, the ascendant creator (whose real name is Drew Desbordes) will premiere Collect & Praise, a comedy series that spoofs the culture of megachurches. Netflix is uniting with Druski at the peak of his powers (so far) Since making a name for himself with Instagram Live broadcasts and short-form sketches, Druski has become a bankable star. He has appeared in campaigns alongside traditional celebs, spun podcast gold, and even launched his own agency. Visit Tu",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "Netflix",
+            "News",
+            "4LIFERS Entertainment"
+          ],
+          "isForeign": true,
+          "titleKo": "Druski는 Netflix의 가장 큰 크리에이터 서명 중 하나입니다. 그는 다년간의 거래로 무엇을 할 수 있습니까?",
+          "summaryKo": "드루스키가 넷플릭스에 옵니다. 12월 1일, 승천한 크리에이터 (본명은 드류 데스보르드) 는 초대형 교회 문화를 대변하는 코미디 시리즈인 Collect & Praise를 초연할 예정입니다. 넷플릭스는 권력의 정점에 있는 드루스키와 연합하고 있습니다 (지금까지). 인스타그램 라이브 방송과 단편 스케치로 이름을 알린 이래 드루스키는 돈을 벌 수 있는 스타가 되었습니다. 그는 전통적인 유명인들과 함께 캠페인에 출연하고, 팟캐스트 골드를 돌리고, 심지어 자신의"
+        },
         {
           "title": "Do videos with excessive motion help kids pay attention, or are they just distractions?",
           "link": "https://www.tubefilter.com/2026/11/02/do-videos-with-excessive-motion-help-kids-pay-attention-or-are-they-just-distractions/",
@@ -471,77 +541,9 @@
           "isForeign": true,
           "titleKo": "과도한 동작을 하는 동영상은 아이들이 주의를 기울이는 데 도움이 됩니까, 아니면 주의를 산만하게 하는 것입니까?",
           "summaryKo": "최근 한 연구는 어린이 콘텐츠의 증가 추세를 조사했으며, 그 결과는 교육자가 신중하게 진행해야 함을 시사합니다. 인도 비즈니스 스쿨 (Indian School of Business) 과 산타클라라 대학교 (Santa Clara University) 의 연구원들은 배경이 움직이는 교육용 동영상의 시선 움직임을 추적한 결과, 이 동영상이 주의를 끌고 시끄러운 배경으로 변하는 것을 발견했습니다. 이 연구는 \"아이들을 위해 만들어졌다\" 고 태그된 32,000개 이상의 비디오를 대상으로 진행되었습니다. \"연구진이 추적한"
-        },
-        {
-          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/01/2026",
-          "link": "https://www.tubefilter.com/2026/11/02/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-01-2026/",
-          "pubDate": "2026-11-02T22:40:15.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/diary-of-a-ceo-charts.jpg",
-          "summary": "In the Global Sub Top 50, you can make it three number-one finishes in a row for SASHA SHOW. Though most of the channels in the top ten have more total subscribers than him, Sasha was on a tear during the month of October. As the tenth month concluded, he added two million new subscribers to maintain his advantage. Overall, it was another competitive week in the Global Sub Top 50, with the 50th-place channel adding 340,000 weekly subscribers. There were no Ukrainian channels in the chart, but th",
-          "keywords": [
-            "Articles",
-            "Homepage Feature",
-            "News",
-            "Statistics",
-            "YouTube",
-            "Youtube Chart"
-          ],
-          "isForeign": true,
-          "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 11월 1일 주간",
-          "summaryKo": "글로벌 서브 톱 50에서는 사샤 쇼에서 연속으로 3번의 1위 피니시를 기록할 수 있습니다. 상위 10개 채널의 대부분이 그보다 더 많은 총 구독자를 보유하고 있지만, 사샤는 10월 한 달 동안 눈물을 흘렸습니다. 열 번째 달이 끝나갈 무렵, 그는 자신의 우위를 유지하기 위해 200만 명의 신규 가입자를 추가했습니다. 전반적으로 글로벌 서브 톱 50에서 또 다른 경쟁이 치열한 한 주였습니다. 50위 채널에는 주간 구독자 34만 명이 추가되었습니다. 우크라이나 채널이 없었습니다"
-        },
-        {
-          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/01/2026",
-          "link": "https://www.tubefilter.com/2026/11/02/top-50-most-viewed-youtube-channels-worldwide-week-of-11-01-2026/",
-          "pubDate": "2026-11-02T21:33:41.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/india-flag.jpg",
-          "summary": "This week, the #1 spot in the Global Top 50 belongs to Cadel and Mia. The couple channel picked up 1.16 billion weekly views during a week when no other YouTube channel crossed the billion-view threshold. The Aussie duo was able to increase its traffic by 32% week-over-week. Overall, it was another dominant week for Indian channels, which accounts for more than 40% of the Global Top 50. A run of holiday celebrations has boosted South Asian creators, and that trend continued at the end of October",
-          "keywords": [
-            "Articles",
-            "Homepage Feature",
-            "News",
-            "Statistics",
-            "statistics",
-            "YouTube"
-          ],
-          "isForeign": true,
-          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 상위 50개 • 2026년 11월 1일 주간",
-          "summaryKo": "이번 주 글로벌 톱 50 1위는 Cadel과 Mia가 차지했습니다. 이 커플 채널은 일주일 동안 다른 유튜브 채널이 10억 뷰를 넘지 못했을 때 주간 조회수가 11억 6천만 회를 기록했습니다. 호주 듀오는 매주 트래픽을 32% 증가시킬 수 있었습니다. 전반적으로 글로벌 톱 50의 40% 이상을 차지하는 인도 채널의 또 다른 지배적인 주였습니다. 많은 연말연시 축하 행사가 남아시아 크리에이터를 끌어올렸고, 그 추세는 계속되었습니다."
-        },
-        {
-          "title": "So you’re a creator, and you want to know: When is the magic moment to sign with a manager? We have your answer, straight from Viral Nation’s Head of Creator Relations.",
-          "link": "https://www.tubefilter.com/2026/11/02/chloe-morris-viral-nation-when-should-a-creator-sign-with-a-talent-manager/",
-          "pubDate": "2026-11-02T20:29:15.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/Professional-portrait-in-a-bright-office.png",
-          "summary": "Imagine this: You’re a small-town mom with two kids, working long shifts while your husband goes back to school. Time is short and money is tight, so your household is constantly on the hunt for new meal-prep kitchen gadgets. Then you find one that makes your life infinitely easier–but when you look online, no one […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "Chloe Morris",
-            "viral nation"
-          ],
-          "isForeign": true,
-          "titleKo": "크리에이터는 매니저와 계약할 수 있는 마법의 순간이 언제인지 알고 싶습니다. Viral Nation의 크리에이터 관계 책임자로부터 직접 답변을 받으실 수 있습니다.",
-          "summaryKo": "상상해 보세요. 당신은 두 아이를 둔 작은 마을의 엄마입니다. 남편이 학교로 돌아가는 동안 오랫동안 교대 근무를 합니다. 시간이 짧고 돈이 빠듯하기 때문에 가정에서는 새로운 식사 준비용 주방 가젯을 끊임없이 찾고 있습니다. 그런 다음 인생을 한없이 편하게 해주는 것을 찾을 수 있습니다. 하지만 인터넷을 보면 아무도 […] Tubefilter를 방문하여 더 멋진 이야기를 찾을 수 없습니다."
-        },
-        {
-          "title": "Top 5 Branded Videos of the Week: Keeping cash",
-          "link": "https://www.tubefilter.com/2026/11/02/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer-2/",
-          "pubDate": "2026-11-02T19:23:06.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/10/mrbeast-weight.jpg",
-          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Brands",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "금주의 상위 5개 브랜드 동영상: 현금 유지",
-          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:29.115Z",
+      "fetchedAt": "2026-11-04T00:23:33.711Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +617,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:29.291Z",
+      "fetchedAt": "2026-11-04T00:23:34.018Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +698,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:29.360Z",
+      "fetchedAt": "2026-11-04T00:23:34.073Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -704,6 +706,42 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "클레온, 디지털휴먼 국제표준 개발로 부총리상…서울역·삼성생명서 AI 휴먼 상용화 확대",
+          "link": "https://www.venturesquare.net/1125448/",
+          "pubDate": "2026-11-03T23:34:17.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CLEON-2-783x522.jpg",
+          "summary": "휴먼 AI 인터페이스 기업 클레온이 디지털휴먼 국제표준 개발과 산업 현장 적용 성과를 인정받아 '글로벌 ICT 표준 컨퍼런스(GISC) 2026'에서 부총리 겸 과학기술정보통신부 장관상을 수상했다. 클레온은 ITU-T의 디지털휴먼 대화 서비스 요구사항 표준 F.748.... The post 클레온, 디지털휴먼 국제표준 개발로 부총리상…서울역·삼성생명서 AI 휴먼 상용화 확대 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI에이전트",
+            "AI휴먼",
+            "GISC2026"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "와이즈넛, 공공솔루션마켓서 AI 에이전트 시연…공공 업무 자동화·운영 전략 제시",
+          "link": "https://www.venturesquare.net/1125422/",
+          "pubDate": "2026-11-03T23:32:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/WISENUT-783x522.png",
+          "summary": "와이즈넛이 11월 19일 서울 코엑스 그랜드볼룸에서 개최되는 '제28회 공공솔루션마켓'에 참가해 공공 특화 AI 에이전트 기술을 선보인다. 전시부스에서는 자연어 대화로 AI 에이전트를 생성하는 과정과 개인화된 업무 수행 기능을 시연하고, 인사혁신처와 국민건강보험공단 등... The post 와이즈넛, 공공솔루션마켓서 AI 에이전트 시연…공공 업무 자동화·운영 전략 제시 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI솔루션",
+            "AI에이전트",
+            "AI에이전트구축"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "온세미, 3분기 매출 17억2200만 달러…AI 데이터센터 매출 전년 대비 175% 성장",
           "link": "https://www.venturesquare.net/1125415/",
@@ -757,45 +795,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "앵커노드, 대원미디어와 일본 게임 IP 리메이크 개발 계약…AI 게임 제작 사업 확대",
-          "link": "https://www.venturesquare.net/1125381/",
-          "pubDate": "2026-11-03T12:18:22.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CEO_Anchornode-701x522.jpg",
-          "summary": "게임 특화 AI 기업 앵커노드가 대원미디어와 일본 게임 IP 리메이크 프로젝트 계약을 체결하고 개발에 착수했다. 이번 계약은 양사가 지난 2월 체결한 업무협약 이후 추진하는 첫 공동 사업으로, 대원미디어가 IP 관련 기획과 관리를 맡고 앵커노드가 게임 개발을 수행하는 ... The post 앵커노드, 대원미디어와 일본 게임 IP 리메이크 개발 계약…AI 게임 제작 사업 확대 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "DIPS",
-            "GameAIfy",
-            "TIPS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "뷰웍스, 3분기 영업이익 154.8% 증가…HBM 검사 수요에 머신비전 매출 급증",
-          "link": "https://www.venturesquare.net/1125382/",
-          "pubDate": "2026-11-03T12:16:05.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/view-696x522.jpg",
-          "summary": "의료·산업용 영상 솔루션 기업 뷰웍스가 2026년 3분기 연결 기준 매출 616억원, 영업이익 110억원을 기록하며 전년 동기 대비 각각 14.7%, 154.8% 성장했다. AI 인프라 투자와 HBM 양산 확대에 따른 반도체 패키징 검사장비 수요 증가로 머신비전 카메라... The post 뷰웍스, 3분기 영업이익 154.8% 증가…HBM 검사 수요에 머신비전 매출 급증 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "3분기실적",
-            "Ai인프라",
-            "HBM"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:33.141Z",
+      "fetchedAt": "2026-11-04T00:23:36.386Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +885,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:33.363Z",
+      "fetchedAt": "2026-11-04T00:23:36.655Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -891,6 +893,24 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "pubDate": "2026-11-03T19:34:43.000Z",
+          "image": null,
+          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "Bessemer Venture Partners",
+            "In Brief",
+            "inference",
+            "infrastructure"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 추론 스타트업 Fal, 수요 급증에 따라 평가액 $ 16B로 두 배 증가",
+          "summaryKo": "다섯 살짜리 스타트업은 베세머가 이끄는 $ 13억 라운드를 모금했습니다."
+        },
         {
           "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
           "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
@@ -909,18 +929,18 @@
           "summaryKo": "또한 공동 설립자이자 사장인 크리스 유 (Chris Yu) 는 테크크런치 (TechCrunch) 와의 인터뷰에서 자율주행 차량의 우선 순위를 정하고 싶다고 말했습니다."
         },
         {
-          "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+          "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
           "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
           "pubDate": "2026-11-03T14:30:00.000Z",
           "image": null,
           "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
           "keywords": [
-            "TC",
-            "Startups",
-            "Crypto",
+            "AI",
+            "Biotech & Health",
             "Climate",
+            "Crypto",
             "Fintech",
-            "Biotech & Health"
+            "Fundraising"
           ],
           "isForeign": true,
           "titleKo": "TechCrunch 창립자 서밋 일정은 11월 4일 보스턴에서 열리는 이유의 절반에 불과합니다.",
@@ -960,25 +980,9 @@
           "isForeign": true,
           "titleKo": "우크라이나의 새로운 포켓 사이즈 가제트는 러시아 드론의 카메라를 그들과 맞서게 합니다.",
           "summaryKo": "키예프 스타트업의 포켓 사이즈 10온스 수신기를 통해 우크라이나 군대는 러시아 드론의 비디오 피드를 볼 수 있지만, 러시아는 디지털 비디오와 신호를 방출하지 않는 AI 유도 드론으로 이동하여 승리를 거둘 수 있습니다."
-        },
-        {
-          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-          "pubDate": "2026-11-03T00:35:52.000Z",
-          "image": null,
-          "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "garry tan",
-            "Y Combinator"
-          ],
-          "isForeign": true,
-          "titleKo": "Y Combinator의 Garry Tan은 AI 에이전트를 너무 많이 사용하여 토큰에 연간 최대 $ 200,000를 지출합니다.",
-          "summaryKo": "Y Combinator Garry Tan은 자신이 \"사이버 정신병\" 을 앓고 있다는 사실을 농담삼아 인정하고 AI 요원과 함께 일하게 되어 너무 기쁘기 때문에 가끔 간신히 잠을 잡니다. Walter Isaacson의 팟캐스트인 The Builders의 새로운 에피소드에서 Tan은 그의 열정에 가격표를 붙였습니다."
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:40.307Z",
+      "fetchedAt": "2026-11-04T00:23:39.048Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -986,6 +990,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "소풍벤처스·한림대기술지주, 135억원 강원 전략산업 펀드 결성…기후테크·헬스케어 초기기업 투자",
+          "link": "https://www.venturesquare.net/1125450/",
+          "pubDate": "2026-11-03T23:37:16.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SOPOONG-789x414.png",
+          "summary": "소풍벤처스와 한림대학교기술지주가 공동 업무집행조합원(Co-GP)으로 참여하는 135억원 규모의 '한림대-소풍 강원 전략산업 투자조합'을 결성했다. 강원 전략산업 벤처펀드가 94억원을 출자한 이번 펀드는 8년간 강원 지역기업과 유입기업, 7대 미래산업 관련 초기기업에 투... The post 소풍벤처스·한림대기술지주, 135억원 강원 전략산업 펀드 결성…기후테크·헬스케어 초기기업 투자 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AI데이터센터",
+            "ESS",
+            "가상발전소",
+            "강원전략산업",
+            "기후테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "한국프롭테크포럼, 10일 AI 비전 컨퍼런스 개최…부동산·건설 산업의 AX 전략 논의",
           "link": "https://www.venturesquare.net/1125349/",
@@ -1057,27 +1079,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "제주창조경제혁신센터, ‘JOIN 2026’ 개최…AI·투자·오픈이노베이션으로 제주 창업 생태계 연결",
-          "link": "https://www.venturesquare.net/1125263/",
-          "pubDate": "2026-11-03T11:08:34.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/JOIN2026-418x522.jpg",
-          "summary": "제주특별자치도와 제주창조경제혁신센터가 11월 5일부터 6일까지 쉐라톤 제주 호텔에서 창업 행사 'JOIN 2026'을 개최한다. 올해 4회째를 맞은 행사에는 창업가와 투자자, 기업 및 지원기관 관계자 등 700여 명이 참여하며, 첫날에는 '제주창업페스티벌'이 진행된다.... The post 제주창조경제혁신센터, ‘JOIN 2026’ 개최…AI·투자·오픈이노베이션으로 제주 창업 생태계 연결 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI전환",
-            "JOIN2026",
-            "글로벌투자",
-            "기술창업",
-            "로컬창업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:42.603Z",
+      "fetchedAt": "2026-11-04T00:23:40.650Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1103,17 +1107,34 @@
           "summaryKo": null
         },
         {
-          "title": "한국경영개발원, ‘제64차 제조혁신 설비도입 지원사업’ 참여기업 모집 - 서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ja21vOTJHcDRzSTU3SlNBTldOcFhhVXJtTmZOUEQxNF8zNHVpQjVvT2FIYXh5blBLaE5IdVpyMzFsREtkcXhHZ2JRMmYtLUthZjlvQzdDQnpxNVdHQndSbEhNTzE?oc=5",
-          "pubDate": "2026-11-03T01:23:55.000Z",
+          "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 희망나눔 자립지원 프로그램 취약계층 고용 우수기업 선정 모집 공고 - 인천광역시",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeG56aEFRbjZUM2Q4d2xVZF9TOHBYZjVFdGFUWHU1azNwRWg0MlhaUGpIQTlMTlZHcFFQSEdCTDRoZ1NCU2p5VmZYTlhLdjhmSEVyVWlpNDBNdUxacm5CUEgycHFyM09QLWV2RnlQVVVOVWlaMnhocU1HVFBONUtZdWZwbnZBS1R4NFVJVk5Saw?oc=5",
+          "pubDate": "2026-11-02T21:48:30.000Z",
           "image": null,
-          "summary": "한국경영개발원, ‘제64차 제조혁신 설비도입 지원사업’ 참여기업 모집 서울경제TV",
+          "summary": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 희망나눔 자립지원 프로그램 취약계층 고용 우수기업 선정 모집 공고 인천광역시",
           "keywords": [
-            "한국경영개발원",
-            "제64차",
-            "제조혁신",
-            "설비도입",
+            "내게",
+            "맞는",
+            "정책",
+            "지원",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "동두천시 2027년도 1단계 공공근로사업 참여자 모집 - 경기평화신문",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyMEk2ZmFLdlRfZkl0ck8yekhLd0lQLXRoSVAwQjRfckh0U1IxTkJDWC04T1JvRXBXcEY3UThjbWxONFBXdWtqaFFn?oc=5",
+          "pubDate": "2026-11-03T22:29:00.000Z",
+          "image": null,
+          "summary": "동두천시 2027년도 1단계 공공근로사업 참여자 모집 경기평화신문",
+          "keywords": [
+            "동두천시",
+            "2027년도",
+            "1단계",
+            "공공근로사업",
+            "참여자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1137,23 +1158,6 @@
           "summaryKo": null
         },
         {
-          "title": "울산 청년 생성형 AI 구독료 10만원 지원…9일부터 2차 모집 - 울산매일 - 울산최초, 최고의 조간신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HTWZvYjRRQkNqOW5nM1hhWU1YVVFpeGVIU2VlOUpYSjRPUTFjU1NJQ21VOWhjVG1KcHFPaTZhd0xXWVotS25NVWxCa3JyZGJLYjBhU1BHRVZPR3RkZEJ5blBxUjV6UWNtSUHSAW5BVV95cUxOMHR4a2xQOThsSVZoVzRycmtGNXZXcmppLXowa3ZZTkpkemJxNzZKNHRUNnlpaWJvR1ZiVnFldURhWHN6bmRiZllZdUxnNThKaGRxOFRzekw4TnF3eTdPUER1dDBTLWhRSXFlREhKdw?oc=5",
-          "pubDate": "2026-11-03T10:33:52.000Z",
-          "image": null,
-          "summary": "울산 청년 생성형 AI 구독료 10만원 지원…9일부터 2차 모집 울산매일 - 울산최초, 최고의 조간신문",
-          "keywords": [
-            "울산",
-            "청년",
-            "생성형",
-            "AI",
-            "구독료"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "중소 제조기업 설비투자 돕는다… 한국경영개발원, 정부지원사업 연계 기업 모집 - 동아일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VT3dqWWVsS0Z3aHBTaEpQVFZnSG1RNVFWWnpsVWpvUl9TSC1VX0Jyd0lKTjJpS0dqOTJIWm12Zmt1b1NUWU9YUXN0MzJhTHJSN1d4QWYzNjZzNFB2ZHE3MENubV9Rdi05aW9lOG9QQndrellTelHSAWZBVV95cUxOakkwZk0tNjh4QjEtYzJET2xaMFg3ZDNIU0NxcGJXSHhoanNWNGtEN2FEQWxyaENmaG84SzZkMU5PTW5Ha3RjbmpwTHJwNXZHNDVFYlJuaVpDRGN1djVVeEdmUVBfUWc?oc=5",
           "pubDate": "2026-11-02T05:10:00.000Z",
@@ -1171,80 +1175,80 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-03T19:05:42.948Z",
+      "fetchedAt": "2026-11-04T00:23:41.154Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
+      "key": "경제",
+      "label": "경제",
+      "count": 7,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 7,
-      "rank": 2,
-      "change": "down"
-    },
-    {
-      "key": "ai로",
-      "label": "AI로",
+      "key": "ai데이터센터",
+      "label": "AI데이터센터",
       "count": 2,
-      "rank": 3,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 7,
       "change": "down"
     },
     {
-      "key": "ai전환",
-      "label": "AI전환",
-      "count": 3,
+      "key": "ai에이전트",
+      "label": "AI에이전트",
+      "count": 2,
       "rank": 8,
-      "change": "down"
+      "change": "new"
     },
     {
-      "key": "ai인프라",
-      "label": "Ai인프라",
+      "key": "ai전환",
+      "label": "AI전환",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
       "key": "poc",
       "label": "POC",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1273,27 +1277,27 @@
       "labelKo": "홈페이지 기능"
     },
     {
-      "key": "startups",
-      "label": "Startups",
-      "count": 5,
-      "rank": 4,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
       "key": "articles",
       "label": "Articles",
       "count": 4,
-      "rank": 5,
+      "rank": 4,
       "change": "up",
       "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 4,
+      "rank": 5,
+      "change": "new",
+      "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
       "rank": 6,
-      "change": "up",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1301,31 +1305,31 @@
       "label": "News",
       "count": 4,
       "rank": 7,
-      "change": "up",
+      "change": "same",
       "labelKo": "뉴스"
     },
     {
-      "key": "statistics",
-      "label": "Statistics",
-      "count": 3,
+      "key": "startups",
+      "label": "Startups",
+      "count": 4,
       "rank": 8,
-      "change": "up",
-      "labelKo": "스탯"
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
-      "key": "tc",
-      "label": "TC",
-      "count": 3,
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 9,
       "change": "new",
-      "labelKo": "TC"
+      "labelKo": "AI"
     },
     {
       "key": "biotech & health",
       "label": "Biotech & Health",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "생명 공학 및 건강"
     }
   ]
