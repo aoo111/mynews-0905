@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-05T14:02:02.735Z",
+  "collectedAt": "2026-11-05T21:46:42.389Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "“우리 손주는 구김없이 커야지”…미성년에 물려준 부동산, 1.4조 육박",
+          "link": "https://www.mk.co.kr/news/economy/12199678",
+          "pubDate": "2026-11-05T20:58:15.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261105.f159a863e8994bdd8c4ed670d644bc5c_R.png",
+          "summary": "6세 이하엔 5년간 3800억원 자식 건너뛰고 증여해 절세조부모가 미성년 손주에게 직접 증여한 부동산이 최근 5년간 1조4000억원에 육박했다. 특히 6세 이하 아동에게 증여된 부..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "월급도, 아파트도 비슷한데…순자산 1억 차이 ‘이것’에 갈렸다 [데이터로 읽는 머니 무브]",
           "link": "https://www.mk.co.kr/news/economy/12198995",
@@ -83,21 +96,8 @@
           "title": "가상자산 과세 4번째 유예…2029년 시행",
           "link": "https://www.mk.co.kr/news/economy/12198741",
           "pubDate": "2026-11-05T08:40:00.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/06/20261106_01110101000004_M00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/06/20261106_01170101000001_M00.jpg",
           "summary": "정부가 내년 1월 시행할 예정이었던 가상자산 소득에 대한 과세를 2년 더 유예하기로 했다. 2020년 제도를 신설한 이후 과세가 세 차례 미뤄졌지만 청년층을 중심으로 반대 여론이 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "2029년부터 코인 손해·이익 합산해 과세",
-          "link": "https://www.mk.co.kr/news/economy/12198737",
-          "pubDate": "2026-11-05T08:39:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/06/20261106_01110110000009_L00.jpg",
-          "summary": "정부가 내년에 시작할 예정이던 가상자산 과세를 2029년으로 미루면서 제도 개편에 나선다. 핵심은 손실을 봐도 세금을 내야 하는 상황이 발생하지 않도록 세제 혜택을 주겠다는 것이다..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:51.726Z",
+      "fetchedAt": "2026-11-05T21:46:20.436Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+          "pubDate": "2026-11-05T16:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+          "keywords": [
+            "Enforcement Actions"
+          ],
+          "isForeign": true,
+          "titleKo": "연방 준비 이사회, Allegiant United Holdings, LLC, Nano Financial Holdings, Inc. 및 Nano Banc에 대한 집행 조치 종료 발표",
+          "summaryKo": "연방 준비 이사회, Allegiant United Holdings, LLC, Nano Financial Holdings, Inc. 및 Nano Banc에 대한 집행 조치 종료 발표"
+        },
         {
           "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록",
           "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
-        },
-        {
-          "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-          "pubDate": "2026-10-09T14:00:00.000Z",
-          "image": null,
-          "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-          "keywords": [
-            "Other Announcements"
-          ],
-          "isForeign": true,
-          "titleKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다.",
-          "summaryKo": "연방준비제도이사회 (Federal Reserve Board) 는 2025년 소비자 재정 설문조사 (Survey of Consumer Finances) 결과를 발표합니다. 이 설문조사는 대중과 정책 입안자들에게 미국 가정의 경제적 상태에 대한 상세한 통찰력을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:51.821Z",
+      "fetchedAt": "2026-11-05T21:46:22.480Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+          "pubDate": "2026-11-06T06:05:26.000Z",
+          "image": null,
+          "summary": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 코드 948건을 개발하고 파이어폭스에서 새로운 고위험 취약점 81건을 발견하는 등 보안 점검 능력을 강화했으며, 주요 보안 기업과 협력해 기업 시장 공략에도 나섰다.오픈AI는 5일(현지시간) 공식 블로그를 통해 GPT-6 사이버를 공개하고, 승인된 일부 보안 전문가와 기업을 대상으로 API와 '코덱스'를 통한 서비스를 시작했다고 발표했다.",
+          "keywords": [
+            "오픈AI",
+            "GPT",
+            "사이버",
+            "출시",
+            "취약점"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217043",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "전남광주 공무원, AI 활용해 시설물 안전관리 플랫폼 직접 개발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217068",
-          "pubDate": "2026-11-05T17:15:09.000Z",
-          "image": null,
-          "summary": "전남광주통합특별시가 공무원이 AI를 개발 도구로 활용해 직접 만든 시설물 안전관리 플랫폼을 운영하고 있다. 안전점검·진단 용역 설계내역서 작성 기간은 기존 30일 이상에서 1일 이내로 단축했다.전남광주는 종합건설본부 신해섭 주무관이 지난 1월부터 ‘시설물 안전관리 실무 플랫폼’을 직접 기획·개발했다고 5일 밝혔다. 외부 용역이나 별도 예산은 투입하지 않았다.플랫폼은 교량과 터널, 지하차도, 옹벽 등 관리 시설물을 법적 기준에 따라 자동 분류하고 상위 점검의 시행 여부를 분석해 하위 점검을 생략할 수 있는지 판정한다.점검 보고서별로",
-          "keywords": [
-            "전남광주",
-            "공무원",
-            "AI",
-            "활용해",
-            "시설물"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:53.198Z",
+      "fetchedAt": "2026-11-05T21:46:23.808Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "link": "https://openai.com/index/introducing-gpt-6-cyber",
+          "pubDate": "2026-11-05T09:00:00.000Z",
+          "image": null,
+          "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "GPT ‑ 6 사이버: 정렬된 사이버 보안 에이전트의 경계 발전",
+          "summaryKo": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다."
+        },
         {
           "title": "Setting a new standard for responsible AI infrastructure",
           "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
@@ -333,22 +346,9 @@
           "isForeign": true,
           "titleKo": "루트로 가는 경로가 수천 개 줄어들었습니다.",
           "summaryKo": "OpenAI는 Linux 커널에서 948개의 로컬 권한 상승 취약점에 대한 패치를 발견, 검증 및 생성하는 자율 파이프라인을 구축했습니다."
-        },
-        {
-          "title": "Introducing Images 2.6",
-          "link": "https://openai.com/index/introducing-images-2-6",
-          "pubDate": "2026-11-04T00:00:00.000Z",
-          "image": null,
-          "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "이미지 소개 2.6",
-          "summaryKo": "이미지 2.6은 ChatGPT, 코덱스 및 API 전반에 걸쳐 더 빠른 이미지 생성, GIF 생성, 더 정밀한 편집 및 새로운 API 컨트롤을 제공합니다."
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:55.619Z",
+      "fetchedAt": "2026-11-05T21:46:25.489Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,90 +357,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Sshole - musl 기반 OpenSSH에서 비밀번호 인증을 우회하는 취약점",
-          "link": "https://news.hada.io/topic?id=36654&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-05T13:34:40.000Z",
+          "title": "테크 기업들이 나에 대해 좀 더 잘 알았으면 좋겠다",
+          "link": "https://news.hada.io/topic?id=36667&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-05T19:40:24.000Z",
           "image": null,
-          "summary": "musl 기반 Linux에서 PAM 없이 실행되는 OpenSSH에 특정 계정의 비밀번호 인증을 우회하는 문제가 있음. 비밀번호 필드가 *인 계정이 조건에 따라 임의의 긴 비밀번호로 로그인을 허용함 musl의 crypt() 실패 반환값 * 가 계정의 비밀번호 필드와 일치하는 것이 핵심임. OpenSSH가 다른 계정의 솔트를 빌려 해시를 계산하는 처리와 비밀번호 길이 제한이 맞물려 발생함 공격이 성립하려면 비밀번호 로그인 활성화, 비밀번호 필드가 *인 대상 계정, 실제 비밀번호가 설정된 다른 계정이 필요함. 이 조건에서 257~1024자 비밀번호로 인증을 우회할 수 있음 …",
+          "summary": "수많은 개인정보가 추적, 저장, 판매된다는 점은 의심하지 않지만, 실제 서비스에서는 이미 아는 정보조차 활용하지 못하는 개인화를 경험함 구매한 제품을 다시 광고하고, 특정 가전의 설치 영상을 본 뒤 다른 오븐까지 추천하는 등 일회성 행동을 지속적인 관심사로 취급하는 사례가 이어짐 수년간 보컬이 들어간 전자음악을 건너뛰어도 Spotify와 YouTube Music은 반복되는 선호 패턴을 반영하지 못함 계정과 기기를 영어로 설정해도 현재 위치에 따라 핀란드어나 독일어로 바뀌는 등 명시적인 언어 설정보다 위치가 앞서는 경험이 있 …",
           "keywords": [
-            "Sshole",
-            "musl",
-            "기반",
-            "OpenSSH에서",
-            "비밀번호"
+            "테크",
+            "기업들이",
+            "나에",
+            "대해",
+            "알았으면"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "돌아온 페인트공 Shlemiel: Zig의 libc 재작성이 SQLite를 느리게 만든 과정",
-          "link": "https://news.hada.io/topic?id=36653&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-05T13:02:35.000Z",
+          "title": "좋아하는 YouTube 영상을 다운로드하자",
+          "link": "https://news.hada.io/topic?id=36666&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-05T19:37:24.000Z",
           "image": null,
-          "summary": "Rust 기반 체스 분석 서비스에서 약 4만 건의 JSON 레코드를 SQLite에 저장하는 데 수 분이 걸리고 CPU 코어 하나가 포화되는 문제가 발생함 원인은 Linux용 SQLite를 컴파일할 때 사용한 Zig의 libc 재구현에 있었으며, strspn이 호출될 때마다 문자열 전체 길이를 측정해 토큰화 과정에서 문자열을 반복 순회함 토큰화가 진행될 때마다 남은 문자열 길이를 다시 측정해 이차 시간 복잡도가 발생했으며, 해당 사례에서 1.2MB 파일의 토큰화는 약 12,000배 느려짐 SQLite 컴파일에 Zig를 사용하지 않은 Mac에서는 문제가 나타나지 않았으 …",
+          "summary": "YouTube의 오래된 ‘좋아요 표시한 동영상’ 중에는 더 이상 볼 수 없는 영상이 있으므로, 소중한 콘텐츠를 직접 다운로드해 보관할 것을 권함 대부분은 yt-dlp나 이를 감싼 앱으로 영상을 내려받고 대용량 드라이브 또는 NAS의 폴더에 저장하는 것만으로 충분함 TV 재생과 기존 NAS 연동, 수백 개 영상의 자동 관리를 위해 Jellyfin과 ytdl-sub를 결합한 개인 구축 사례가 있음 Jellyfin은 재생목록을 주된 정리 단위로 쓰기 어려워 TV 프로그램 구조를 활용했으며, ytdl-sub의 시즌 메타데이터를 조정해 재생목록별 분류 문제를 해결함 …",
           "keywords": [
-            "돌아온",
-            "페인트공",
-            "Shlemiel:",
-            "Zig의",
-            "libc"
+            "좋아하는",
+            "YouTube",
+            "영상을",
+            "다운로드하자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Qualcomm Cloud AI 100 Ultra - 128GB 메모리와 548GB/s 대역폭을 갖춘 150W AI 가속기 카드",
-          "link": "https://news.hada.io/topic?id=36652&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-05T11:32:05.000Z",
+          "title": "MCP Explained - AI 앱과 도구를 연결하는 Model Context Protocol의 작동 방식",
+          "link": "https://news.hada.io/topic?id=36665&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-05T18:40:48.000Z",
           "image": null,
-          "summary": "Cloud AI 100 Ultra는 생성형 AI와 대규모 언어 모델(LLM)을 위해 설계된 추론 카드로, 대규모 배포에 필요한 성능과 전력 효율, 비용 최적화를 목표로 함 TDP 150W에서 ECC 지원 128GB 메모리와 548GB/s 메모리 대역폭을 제공함 카드당 AI 코어 64개와 최대 576MB 온다이 SRAM을 갖추며, 최대 연산 성능은 INT8 870 TOPS, FP16 288 TFLOPS임 다양한 워크로드와 가속 기법을 프로그래밍할 수 있으며, 컴퓨터 비전과 자연어 처리부터 Transformer 기반 LLM까지 대상으로 함 PCIe Gen4 16레인으로 호스트에 연결되며, 카드 규격은 111.2 × …",
+          "summary": "MCP(Model Context Protocol) 는 AI 앱을 도구와 데이터에 연결하는 개방형 표준으로, 서버가 제공하는 기능을 앱이 모델에 전달하고 실행 결과를 돌려주는 방식으로 작동함 호스트는 Claude, Cursor, ChatGPT 같은 AI 앱이며, 서버는 도구와 데이터 또는 프롬프트를 제공하는 작은 프로그램임 모델은 서버와 직접 통신하지 않으며, 사용할 도구를 결정하면 앱이 서버를 호출하고 결과를 모델에 전달함 통신에는 JSON-RPC를 사용하며, 표준 입력/출력 또는 하나의 HTTP 엔드포인트로 메시지를 주고받음. REST와 달리 서버도 앱에 메시지를 …",
           "keywords": [
-            "Qualcomm",
-            "Cloud",
+            "MCP",
+            "Explained",
             "AI",
-            "100",
-            "Ultra"
+            "앱과",
+            "도구를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Lemmings CSS 애니메이션",
-          "link": "https://news.hada.io/topic?id=36648&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-05T09:31:43.000Z",
+          "title": "Motorola Signature 27, GrapheneOS 지원",
+          "link": "https://news.hada.io/topic?id=36664&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-05T18:37:48.000Z",
           "image": null,
-          "summary": "Walker Playground는 걷는 캐릭터를 추가하고, 드래그로 옮기거나 빠르게 튕겨 던질 수 있는 놀이터임 버튼이나 __walker.add() 로 캐릭터를 추가할 수 있으며, 계단, 공중 플랫폼, 구덩이, 벽 등 여러 지형이 마련돼 있음 창 크기를 바꾸면 캐릭터가 서 있는 표면을 따라 이동하며, 빠르게 크기를 조절하면 공중으로 튀어 오름 테두리, 상자, 버튼, 이미지, 입력 필드는 캐릭터를 막지만, 텍스트는 착지와 통과가 모두 가능한 바닥으로 작동함 텍스트의 각 줄이 개별 바닥이어서 캐릭터가 줄 사이로 떨어지거나 짧은 줄 끝에서 아래로 낙 …",
+          "summary": "motorola signature 27은 Motorola 최초로 GrapheneOS를 지원할 예정인 플래그십 스마트폰으로, GrapheneOS Foundation과 협력해 개발됨 ARM Memory Tagging Extension의 고성능 구현을 탑재하고, GrapheneOS가 요구하는 하드웨어 및 업데이트 요건을 충족하도록 설계됨 Snapdragon 8 Elite Extreme Gen 6와 탠덤 AMOLED 화면을 탑재하며, 최대 12,000니트 밝기는 특정 실험 조건에서의 피크 수치임 Gemini Intelligence로 앱을 넘나드는 다단계 작업, 음성 문장 정리, 맞춤 위젯 생성 등을 지원할 예정이며, 국가와 언어별로 기능 제공 …",
           "keywords": [
-            "Lemmings",
-            "CSS",
-            "애니메이션"
+            "Motorola",
+            "Signature",
+            "27",
+            "GrapheneOS",
+            "지원"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI와 개발한 1년 — 사라진 건 없고, 달라진 건 많다",
-          "link": "https://news.hada.io/topic?id=36647&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-05T09:26:27.000Z",
+          "title": "내 ISP가 DNS를 가로채고 있었다",
+          "link": "https://news.hada.io/topic?id=36663&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-05T18:07:32.000Z",
           "image": null,
-          "summary": "AI 에이전트와 1년여간 혼자 개발하며, 코드 작성보다 에이전트의 진행과 결과를 통제하고 개선하는 개발 과정을 만드는 데 집중한 경험을 공유해봅니다. 시리즈로 여러편 써보려는데 그 첫번째 편입니다. 하네스 엔지니어링을 에이전트 설정과 도구 조합을 넘어, 코드 생산성이 급증한 조건에서 품질을 유지하도록 개발 과정 전체를 다시 디자인한 경험, 그리고 설계 → 구현 → 검증의 결과가 다시 설계와 규칙의 개선으로 돌아오는 닫힌 피드백 루프를 설명합니다. 설계와 규칙을 구현 컨텍스트 밖에서 검토 구현 과정의 맥락을 공유한 리뷰어는 전제와 사각지대도 공유하기 쉬우므로, 고정된 코드 스냅샷을 독립된 세션에서 검토 …",
+          "summary": "홈랩의 Podman 컨테이너에서 외부 사이트 접속이 실패해 조사한 결과, ISP가 DNS 질의를 가로채 자신의 IP 주소를 반환하고 있었음 Unbound 자체 호스팅만으로는 DNS 변조를 막을 수 없으며, 재귀 조회 과정에서 여러 네임서버에 보내는 평문 DNS 질의는 ISP가 열람하거나 변조할 수 있음 DNSSEC는 암호화가 아닌 진위 검증 수단으로, 올바르게 서명된 도메인의 변조 응답을 거부할 수 있지만 전송 중인 DNS 질의 자체를 숨기지는 못함 DoH와 DoT는 리졸버까지의 연결을 암호화하지만 리졸버 운영자에 대한 신뢰는 여전히 필요하며, ISP는 …",
           "keywords": [
-            "AI와",
-            "개발한",
-            "1년",
-            "사라진",
-            "없고"
+            "ISP가",
+            "DNS를",
+            "가로채고",
+            "있었다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:56.283Z",
+      "fetchedAt": "2026-11-05T21:46:26.374Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -448,6 +448,24 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Some students watch thousands of irrelevant videos during class. Can YouTube solve that problem?",
+          "link": "https://www.tubefilter.com/2026/11/05/youtube-classroom-report-student-education-video/",
+          "pubDate": "2026-11-05T21:38:23.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/youtube-for-education.jpg",
+          "summary": "Platforms like YouTube have become ubiquitous in classrooms. A recent report from Gallup found that 96% of students are equipped with devices that are meant to enhance their learning. Reality, however, is not so straightforward. Some students are using their devices to watch videos that don't qualify as educational. In the most extreme cases, kids and teens watch thousands of those videos each semester; with those behaviors, classroom devices become distractions, not academic aids. Visit Tubefil",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "education",
+            "nbc news"
+          ],
+          "isForeign": true,
+          "titleKo": "일부 학생들은 수업 중에 수천 개의 관련 없는 동영상을 시청한다. YouTube가 이 문제를 해결할 수 있을까요?",
+          "summaryKo": "YouTube와 같은 플랫폼은 교실에서 보편화되었습니다. 갤럽의 최근 보고서에 따르면 학생의 96% 가 학습을 향상시키기 위한 장치를 갖추고 있습니다. 그러나 현실은 그렇게 간단하지 않습니다. 일부 학생들은 교육에 적합하지 않은 동영상을 보기 위해 기기를 사용하고 있습니다. 가장 극단적인 경우, 어린이와 청소년은 매 학기마다 수천 개의 비디오를 시청합니다. 이러한 행동으로 교실 장치는 학업이 아닌 산만 함이됩니다."
+        },
         {
           "title": "Netflix might want its new AI search to drum up more “quality” viewership",
           "link": "https://www.tubefilter.com/2026/11/05/netflix-ai-discovery-search-algorithm/",
@@ -464,7 +482,7 @@
           "summaryKo": "Netflix의 새로운 전략은 YouTube의 거실 TV의 지배적 인 점유율에 대처하는 것입니다. 그것은 시청률의 양이 아니라 품질이라고 주장하는 것입니다. 그리고 새로운 추천 도구를 사용하여 이러한 품질 보기를 강화하려고 할 수 있습니다. 물론 시대가 어떠하든 도구는 AI입니다. AI Discover […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         },
         {
-          "title": "Are Reddit’s new search ads just an answer engine optimization play?",
+          "title": "Reddit tests new search ads",
           "link": "https://www.tubefilter.com/2026/11/04/reddit-search-ads-test-ai-answer-engine-optimization/",
           "pubDate": "2026-11-04T23:39:59.000Z",
           "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/reddit-search-ads.jpg",
@@ -475,10 +493,10 @@
             "Homepage Feature",
             "News",
             "reddit",
-            "answer engine optimization"
+            "search ads"
           ],
           "isForeign": true,
-          "titleKo": "Reddit의 새로운 검색 광고는 답변 엔진 최적화 플레이에 불과합니까?",
+          "titleKo": "Reddit은 새로운 검색 광고를 테스트합니다",
           "summaryKo": "11월 3일 게시된 블로그 게시물에서 Reddit은 새로운 광고 제품을 테스트하고 있다고 밝혔습니다. \"적합한 광고주 그룹 선택\" 과 함께 소셜 플랫폼은 검색 결과에 표시되는 유료 미디어 게시물을 실험하고 있습니다. 새로운 광고는 Reddit의 \"기존 광고 타겟팅\" 을 활용하여 검색 페이지에 관련 제품 추천을 표시합니다. 블로그 게시물은 해당 프로세스가 작동하는 두 가지 예를 제공했습니다. '에스프레소 스테이션' 을 검색하면 다음에 대한 결과가 표시될 수 있습니다."
         },
         {
@@ -516,26 +534,9 @@
           "isForeign": true,
           "titleKo": "YouTube의 Android 앱 코드를 통해 Instagram 스타일의 소셜 기능을 테스트할 수 있습니다.",
           "summaryKo": "YouTube 안드로이드 앱의 최신 버전에는 몇 가지 흥미로운 코드 라인이 포함되어 있습니다. Android Authority의 보고서에 따르면 Instagram과 비슷한 점이 있는 신비한 존재인 Tamba에 대한 수많은 언급이 있습니다. YouTube 앱에서 Android Authority가 발견한 것에는 위에 그려진 로고와 손으로 그린 이미지를 연상시키는 조잡한 미학을 공유하는 수십 개의 아이콘이 포함됩니다. 이러한 자산은 \"com.google.android.youtube.sandbox\" 라는 패키지와 연결되어 있습니다."
-        },
-        {
-          "title": "Top 5 Branded Videos of the Week: The adrenaline spectrum",
-          "link": "https://www.tubefilter.com/2026/11/04/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer/",
-          "pubDate": "2026-11-04T20:05:08.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/autumn.jpg",
-          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Articles",
-            "Brands",
-            "Featured",
-            "Homepage Feature",
-            "News"
-          ],
-          "isForeign": true,
-          "titleKo": "금주의 상위 5개 브랜드 동영상: 아드레날린 스펙트럼",
-          "summaryKo": "이번 주 가장 많이 시청한 브랜드 유튜브 동영상의 개요에 오신 것을 환영합니다. 크리에이터 경제의 후원 동향을 분석하기 위해 더 큰 복음 통계 주간 브랜드 보고서의 이 스니펫을 게시하고 있습니다. 공식 브랜드 파트너와 함께 출시된 모든 동영상은 순위를 매길 수 있습니다. 그리고 더 많은 멋진 이야기를 보려면 […] Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:58.439Z",
+      "fetchedAt": "2026-11-05T21:46:29.020Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -609,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:58.634Z",
+      "fetchedAt": "2026-11-05T21:46:29.310Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -690,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-05T14:01:58.683Z",
+      "fetchedAt": "2026-11-05T21:46:29.388Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -789,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:02:00.670Z",
+      "fetchedAt": "2026-11-05T21:46:31.803Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:02:01.018Z",
+      "fetchedAt": "2026-11-05T21:46:32.044Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -890,97 +891,95 @@
       "subcategory": "글로벌 스타트업",
       "items": [
         {
-          "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-          "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-          "pubDate": "2026-11-04T22:13:16.000Z",
+          "title": "Harbinger raises $240M after expanding into defense",
+          "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+          "pubDate": "2026-11-05T17:52:44.000Z",
           "image": null,
-          "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+          "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+          "keywords": [
+            "Fundraising",
+            "Startups",
+            "Transportation",
+            "autonomous vehicles",
+            "electric trucks",
+            "Harbinger"
+          ],
+          "isForeign": true,
+          "titleKo": "Harbinger, 방어로 확장한 후 $ 240M 모금",
+          "summaryKo": "로스앤젤레스에 본사를 둔 이 스타트업은 현재 6억 5천만 달러 ($) 이상을 모금했으며, 군용 전기 트럭, 긴급 차량 및 무인 플랫폼을 개발하고 있습니다."
+        },
+        {
+          "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+          "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+          "pubDate": "2026-11-05T17:11:48.000Z",
+          "image": null,
+          "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+          "keywords": [
+            "Startups",
+            "food delivery",
+            "initial public offering",
+            "IPO",
+            "Marc Lore",
+            "wonder"
+          ],
+          "isForeign": true,
+          "titleKo": "음식 배달 스타트업인 원더 (Wonder) 는 IPO를 위해 다음 큰 물림을 탐구하는 파일",
+          "summaryKo": "수년간의 자금 조달, 인수 및 확장에 따라 음식 배달 스타트업 Wonder는 상장 기업으로 가까워지고 있습니다."
+        },
+        {
+          "title": "Axiom Math wants to keep AI slop out of mathematics",
+          "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "pubDate": "2026-11-05T16:16:45.000Z",
+          "image": null,
+          "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
           "keywords": [
             "AI",
             "Startups",
-            "AI hardware",
-            "hardware",
-            "In Brief",
-            "nothing phone"
+            "agents",
+            "math"
           ],
           "isForeign": true,
-          "titleKo": "CEO가 회사의 신비로운 AI 우선 장치가 다음 달에 떨어지고 있다고 말하는 것은 없습니다.",
-          "summaryKo": "스마트폰 스타트업이 어떤 종류의 제품을 조리하고 있는지는 아직 명확하지 않지만, Nothing의 CEO는 이 제품이 생산성 향상을 위해 AI를 활용하도록 설계되었다고 말했습니다."
+          "titleKo": "Axiom Math는 AI가 수학에서 벗어나기를 원합니다.",
+          "summaryKo": "AI가 확인되지 않은 증명으로 수학을 넘쳐나게 함에 따라 Axiom Math는 검증에 베팅하고 있습니다. 스타트업의 AI 에이전트가 필드에서 가장 큰 라이브러리 중 하나인 Stacks Project를 공식적으로 확인했습니다."
         },
         {
-          "title": "Open source AI is booming. Hugging Face explains who profits.",
-          "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-          "pubDate": "2026-11-04T19:30:04.000Z",
+          "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+          "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+          "pubDate": "2026-11-05T15:40:34.000Z",
           "image": null,
-          "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+          "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+          "keywords": [
+            "Startups",
+            "Transportation",
+            "drone",
+            "drone delivery",
+            "e-commerce",
+            "Walmart"
+          ],
+          "isForeign": true,
+          "titleKo": "월마트가 드론 배달에 대한 베팅을 확대함에 따라 집라인이 $ 21.5B 평가를 기록했습니다.",
+          "summaryKo": "Zipline은 $ 1.5 billion을 모금하고 Walmart와의 파트너십을 강화했습니다."
+        },
+        {
+          "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+          "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+          "pubDate": "2026-11-05T14:42:00.000Z",
+          "image": null,
+          "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
           "keywords": [
             "AI",
+            "Gadgets",
+            "Hardware",
             "Startups",
-            "Hugging Face",
-            "Irene Solaiman",
-            "nvidia",
-            "open source"
+            "AI agents",
+            "smart ring"
           ],
           "isForeign": true,
-          "titleKo": "오픈 소스 AI가 급성장하고 있습니다. 포옹하는 얼굴은 누가 이익을 얻는지 설명합니다.",
-          "summaryKo": "기업, 정부 및 신생 기업 모두가 비용 절감, 통제력 강화 및 유연성 향상에 대한 약속에 의존함에 따라 오픈 소스 모델이 점점 더 주류가 되고 있습니다. 그러나 점점 더 유능한 모델을 자유롭게 사용할 수 있게 됨에 따라 기업은 어떻게 가치를 포착할 수 있을까요? 그리고 중국 오픈 모델이 자리를 잡으면서 미국 선수들이 따라잡을 수 있을까요? 이번 에피소드에서는 […]"
-        },
-        {
-          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-          "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-          "pubDate": "2026-11-04T18:44:57.000Z",
-          "image": null,
-          "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-          "keywords": [
-            "AI",
-            "Security",
-            "Startups",
-            "Equity podcast",
-            "Hugging Face",
-            "open source"
-          ],
-          "isForeign": true,
-          "titleKo": "오픈 소스 AI를 기반으로 하시나요? 비용, 위험 및 트레이드 오프에 대한 Hugging Face의 정책 책임자",
-          "summaryKo": "기업, 정부 및 신생 기업 모두가 비용 절감, 통제력 강화 및 유연성 향상에 대한 약속에 의존함에 따라 오픈 소스 모델이 점점 더 주류가 되고 있습니다. 그러나 점점 더 유능한 모델을 자유롭게 사용할 수 있게 됨에 따라 기업은 어떻게 가치를 포착할 수 있을까요? 그리고 중국 오픈 모델이 자리를 잡으면서 미국 선수들이 따라잡을 수 있을까요? 이번 에피소드에서는 […]"
-        },
-        {
-          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-          "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-          "pubDate": "2026-11-04T13:00:00.000Z",
-          "image": null,
-          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-          "keywords": [
-            "TC",
-            "Startups",
-            "Climate",
-            "Fintech",
-            "Biotech & Health",
-            "Venture"
-          ],
-          "isForeign": true,
-          "titleKo": "TechCrunch 창립자 서밋 2026: 동부 표준시 기준 오전 9시에 보스턴에서 문 열림",
-          "summaryKo": "오늘은 보스턴의 소와 발전소에서 열리는 테크크런치 파운더 서밋 2026 (TechCrunch Founder Summit 2026) 에 참가하는 날입니다. 오늘 창립자 중심의 컨퍼런스에 참여하려면 지금 등록하세요."
-        },
-        {
-          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-          "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-          "pubDate": "2026-11-03T19:34:43.000Z",
-          "image": null,
-          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "Bessemer Venture Partners",
-            "In Brief",
-            "inference",
-            "infrastructure"
-          ],
-          "isForeign": true,
-          "titleKo": "AI 추론 스타트업 Fal, 수요 급증에 따라 평가액 $ 16B로 두 배 증가",
-          "summaryKo": "다섯 살짜리 스타트업은 베세머가 이끄는 $ 13억 라운드를 모금했습니다."
+          "titleKo": "Aina의 스마트 링에는 스크린, 조이스틱, 마이크가 있어 AI 상담원과 대화할 수 있습니다.",
+          "summaryKo": "Aina의 반지는 전화를 받고 Mac에서 메모를 작성하는 데 도움이 될 수도 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-05T14:02:01.132Z",
+      "fetchedAt": "2026-11-05T21:46:39.020Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1078,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:02:02.325Z",
+      "fetchedAt": "2026-11-05T21:46:40.991Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1156,24 +1155,24 @@
           "summaryKo": null
         },
         {
-          "title": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 - 뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rZnYxTHo3MUpPQU85LTV4ZHY0X2dmR2dwTkg3SFB5c3o2LUJ0eU1EVVJVX3AydnRWYkp5YVdvZW05RVNfN2tPRHRB?oc=5",
-          "pubDate": "2026-11-05T12:41:31.000Z",
+          "title": "우리 공장 AI 전환, 정부 지원은?… 2027년 제조혁신 지원사업 한눈에 - FA저널",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03VkpST0ctVWJPWmVmdU9lSV9mZE0xcnhwQ2U5c2NHbGphLWhfdndwaVNqVWdFTGhFbl9ocklZcGd4UFhwVkNhZlBwTlJXbFFlQjMzSE5Td2Nxa3c2SnVXNzA2MVJoVk53eDNn?oc=5",
+          "pubDate": "2026-11-04T00:00:00.000Z",
           "image": null,
-          "summary": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 뉴스N연합",
+          "summary": "우리 공장 AI 전환, 정부 지원은?… 2027년 제조혁신 지원사업 한눈에 FA저널",
           "keywords": [
-            "여수시",
-            "2027년",
-            "청년어촌정착",
-            "지원사업",
-            "참여자"
+            "우리",
+            "공장",
+            "AI",
+            "전환",
+            "정부"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-05T14:02:02.730Z",
+      "fetchedAt": "2026-11-05T21:46:41.301Z",
       "error": null
     }
   },
@@ -1225,60 +1224,52 @@
       "label": "이벤트",
       "count": 4,
       "rank": 7,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 3,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "ai로보틱스",
       "label": "AI로보틱스",
       "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "ai전환",
       "label": "AI전환",
       "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
     {
-      "key": "security",
-      "label": "Security",
-      "count": 2,
-      "rank": 1,
-      "change": "same",
-      "labelKo": "보안"
-    },
-    {
       "key": "ads (deprecated)",
       "label": "Ads (DEPRECATED)",
       "count": 5,
-      "rank": 2,
-      "change": "same",
+      "rank": 1,
+      "change": "up",
       "labelKo": "광고 (더 이상 사용되지 않음)"
     },
     {
       "key": "adsense",
       "label": "AdSense",
       "count": 5,
-      "rank": 3,
-      "change": "same",
+      "rank": 2,
+      "change": "up",
       "labelKo": "애드 센스"
     },
     {
       "key": "homepage feature",
       "label": "Homepage Feature",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up",
       "labelKo": "홈페이지 기능"
     },
@@ -1286,39 +1277,31 @@
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up",
       "labelKo": "스타트업"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 6,
-      "change": "up",
-      "labelKo": "AI"
     },
     {
       "key": "articles",
       "label": "Articles",
       "count": 4,
-      "rank": 7,
-      "change": "down",
+      "rank": 5,
+      "change": "up",
       "labelKo": "기사"
     },
     {
       "key": "featured",
       "label": "Featured",
       "count": 4,
-      "rank": 8,
-      "change": "down",
+      "rank": 6,
+      "change": "up",
       "labelKo": "추천 동영상"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 9,
+      "rank": 7,
       "change": "up",
       "labelKo": "다음을 따르세요"
     },
@@ -1326,9 +1309,25 @@
       "key": "news",
       "label": "News",
       "count": 4,
-      "rank": 10,
-      "change": "down",
+      "rank": 8,
+      "change": "up",
       "labelKo": "뉴스"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "AI"
+    },
+    {
+      "key": "enforcement actions",
+      "label": "Enforcement Actions",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "시행 조치"
     }
   ]
 }
