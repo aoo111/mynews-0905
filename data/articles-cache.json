@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-06T09:15:02.742Z",
+  "collectedAt": "2026-11-06T17:11:53.980Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,10 +41,49 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”",
+          "link": "https://www.mk.co.kr/news/world/12200962",
+          "pubDate": "2026-11-06T12:44:44.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261106.97f453773f634cea99bd2be1d90eb2da_R.png",
+          "summary": "성장전략회의서 투자계획 밝혀 ETF 매각 속도 2.6배로 높여 추가 이익으로 첨단산업 육성 가교국채 발행해 자금 선조달 2040년까지 민관 370조엔 투자일본 정부가 중앙은행인 일..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 농협개혁 속도…경제지주 해체 추진",
+          "link": "https://www.mk.co.kr/news/economy/12200828",
+          "pubDate": "2026-11-06T10:58:51.000Z",
+          "image": null,
+          "summary": "농협하나로유통 등을 계열사로 두고 있는 농협경제지주가 지역농협 중심의 농협경제연합회로 전환될 전망이다. 농협중앙회가 100% 보유한 경제지주 지분을 일선 조합에 넘겨 '중앙회·..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "국내 3대 재정학회 “반도체 호황에 기댄 확장재정 위험…미래대응기금 재검토해야”",
+          "link": "https://www.mk.co.kr/news/economy/12200768",
+          "pubDate": "2026-11-06T09:31:10.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261106.6121a50c7cff4398bc098e29219950a2_R.jpg",
+          "summary": "“미래기금 없으면 국가채무 최대 83조↓” “94조 사용처도 불투명…위험 통제해야” 국회서 통제·심의 강화 필요성도 제기국내 재정학계 전문가들이 정부의 내년도 예산안과 미래대응기금..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "주가조작 조사 지휘 … 탈세 칼 빼든다",
           "link": "https://www.mk.co.kr/news/economy/12200728",
           "pubDate": "2026-11-06T08:48:34.000Z",
-          "image": null,
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/20261107_01160105000003_S00.jpg",
           "summary": "제28대 국세청장 후보자로 안덕수 서울지방국세청장(55)이 지명됐다. 서울청 조사4국장과 국세청 조사국장 등을 거친 '조사통'으로, 서울청장 취임 4개월 만에 국세청장 후보자로 발..",
           "keywords": [
             "경제"
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
-          "link": "https://www.mk.co.kr/news/economy/12200715",
-          "pubDate": "2026-11-06T08:40:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/07/20261107_01110109000010_S00.jpg",
-          "summary": "60세 이상 고령 1인 가구의 보험료 지출이 4년 새 60% 넘게 증가한 것으로 나타났다. 같은 기간 소득 증가율의 2.7배에 달하는 수준이다. 보험료를 납부하는 가구가 늘어난 데..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "금융사 부실 막을 '자금 수혈' 안전망 만든다",
-          "link": "https://www.mk.co.kr/news/economy/12200712",
-          "pubDate": "2026-11-06T08:40:28.000Z",
-          "image": null,
-          "summary": "금융당국이 금융회사 부실을 사전에 방지하기 위한 선제적 자금지원 제도인 '금융안정계정' 도입에 속도를 내고 있다. 과거 입법 과정에서 쟁점으로 부각됐던 금융업권 간 손실 전가와 국..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "'대한민국 나눔국민대상'…신한금융, 대통령 표창",
-          "link": "https://www.mk.co.kr/news/economy/12200713",
-          "pubDate": "2026-11-06T08:40:28.000Z",
-          "image": null,
-          "summary": "신한금융그룹이 지난 5일 열린 '2026 대한민국 나눔국민대상' 시상식에서 대통령표창을 수상했다고 6일 밝혔다. 대한민국 나눔국민대상은 나눔문화 확산에 이바지한 개인과 단체를 발굴..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:52.487Z",
+      "fetchedAt": "2026-11-06T17:11:46.749Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:52.576Z",
+      "fetchedAt": "2026-11-06T17:11:46.796Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:53.621Z",
+      "fetchedAt": "2026-11-06T17:11:48.086Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -356,7 +356,7 @@
           "summaryKo": "OpenAI는 지역 자원을 보호하고 일자리를 창출하며 책임감 있는 AI 인프라 개발을 안내하기 위해 National Community Compact 및 Compute Campus Policy Blueprint를 도입합니다."
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:56.331Z",
+      "fetchedAt": "2026-11-06T17:11:48.256Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -365,92 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Server Challenge 시리즈 - 1코어 서버에서 31만 명, 4코어에서 143만 동시 사용자 처리",
-          "link": "https://news.hada.io/topic?id=36697&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T08:11:51.000Z",
+          "title": "선거 후 투자자들이 AI 투자에서 발을 빼며 Nasdaq 5% 급락",
+          "link": "https://news.hada.io/topic?id=36713&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T16:39:54.000Z",
           "image": null,
-          "summary": "개발 유튜버 arjaythedev이 진행하는 오픈소스 웹서버 성능 챌린지 시리즈 다양한 프로그래밍 언어와 프레임워크로 동일한 API를 구현하고 동시 사용자 처리 성능을 비교 실제 DB 조회·쓰기와 JWT 인증 등을 포함한 웹 애플리케이션을 대상으로 측정 누구나 GitHub PR로 구현체를 제출할 수 있으며, 동일한 하드웨어에서 검증 후 리더보드에 결과 공개 1. $12 Server Challenge 1 vCPU, RAM 2GB 서버에서 최대 몇 명의 동시 사용자를 처리할 수 있는지 측정 SQLite 기반 소셜 피드 API 5개 구현 5만 사용자, 50만 게시물, 200만 좋아요로 …",
+          "summary": "중간선거 이후 투자자들이 데이터센터 구축 둔화에 대비하면서 반도체와 데이터센터 공급업체 주식을 중심으로 광범위한 매도세가 나타남 본문 기준 Nasdaq 종합지수는 5.4% 하락해 조정 국면에 진입했으며, 시가총액은 하루 기준 역대 최대인 2조 5,000억 달러 감소함 한때 시가총액 세계 1위였던 Nvidia는 9.3% 하락하며 연초 대비 수익률도 마이너스로 전환됨 Dow는 1,833포인트, S&P 500은 4.4% 하락했으며, S&P의 11개 업종 모두 약세를 보임 주식 매도세와 함께 안전자산 수요가 미 국채로 몰리며, 10년물 국채 수익률은 9월 9일 이 …",
           "keywords": [
-            "Server",
-            "Challenge",
-            "시리즈",
-            "1코어",
-            "서버에서"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: Cloudflare Tunnel 해외 우회로 300ms 이상 지연을 겪고 만든 Go 터널, Meerkat",
-          "link": "https://news.hada.io/topic?id=36696&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T06:55:46.000Z",
-          "image": null,
-          "summary": "** 서비스 호스팅 시 최소지연으로 국내 서버에 직접 띄워 쓸 수 있는 오픈소스 Cloudflare Tunnel 대안입니다. SSL 인증서 자동발급, 각종 보안 기능, SSO·접근 제어·감사 기능도 지원합니다. GitHub: https://github.com/lawnect/meerkat Cloudflare Tunnel을 쓰면서 국내 서버 호스팅 -> 국내 서버 접속인데도 LA나 홍콩을 경유해 지연이 300ms 이상 추가되는 경우를 겪었습니다. 이 문제를 해결하기 위해 공개 진입점을 국내 서버에 직접 두고 사용할 수 있도록 만들었습니다. 사설 서버의 Connector가 rathole을 통해 공개 서버의 O …",
-          "keywords": [
-            "Show",
-            "GN:",
-            "Cloudflare",
-            "Tunnel",
-            "해외"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "약 2만 달러로 학습한 준수한 텍스트 기반 이미지 생성 모델, Apache 2.0 가중치 공개",
-          "link": "https://news.hada.io/topic?id=36694&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T05:33:17.000Z",
-          "image": null,
-          "summary": "Linum이 차기 영상 모델을 위한 개념 검증으로 Pyramid-JiT(P-JiT) 이미지 생성 모델을 실험적으로 공개함. 사전학습과 후속학습에 든 GPU 비용은 총 21,038달러임 별도 VAE 없이 픽셀 공간에서 압축과 생성을 함께 학습하며, 32×32 토큰 축소로 기존 Linum v2 대비 어텐션 문맥 길이를 4분의 1로 줄임 DiT 중간 블록에서 저해상도 이미지를 예측해 초기 블록의 기울기 신호를 강화함. 초기 실험에서는 Linum v2보다 11배 적은 샘플로 수렴했으며, 이번에는 총 약 6억 6,000만 샘플까지 학습을 확대함 2B 규모 DiT와 4B 텍스트 인코더를 …",
-          "keywords": [
-            "2만",
-            "달러로",
-            "학습한",
-            "준수한",
-            "텍스트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: ESLint Markdown - ESLint로 마크다운 파일들을 린팅하세요",
-          "link": "https://news.hada.io/topic?id=36693&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T05:21:50.000Z",
-          "image": null,
-          "summary": "eslint-markdown 패키지를 통해 ESLint로 Markdown 파일을 린팅할 수 있습니다. 2024년 10월 3일 ESLint가 Markdown 지원을 공식 발표한 이후, ESLint의 공식 API와 개발 방향에 맞춰 설계한 플러그인입니다. 기존 markdownlint, remark-lint, textlint 등 JavaScript 생태계의 마크다운 린팅 도구에서 제공하는 규칙들을 대체하거나 보완할 수 있도록 50여 개의 규칙을 제공합니다. CommonMark, GitHub Flavored Markdown(GFM), Front Matter, Math 문법 등을 지원하며, recommended, stylistic, base 등의 공유 설정도 제공합니다. 이미 …",
-          "keywords": [
-            "Show",
-            "GN:",
-            "ESLint",
-            "Markdown",
-            "ESLint로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Mark Cuban “Facebook, AI 딥페이크 사기 광고인 줄 알고도 게재”, 내부 문서상 사기 관련 매출 추정 16...",
-          "link": "https://news.hada.io/topic?id=36691&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T04:33:29.000Z",
-          "image": null,
-          "summary": "Mark Cuban은 자신을 사칭한 AI 광고의 가짜 당뇨병 치료제에 대해 매주 문의를 받는다며, Facebook이 피해를 알면서도 광고를 게재한다고 비판함 Reuters가 확보한 Meta 내부 문서에는 사기 및 금지 제품 광고에서 발생할 매출이 2024년 전체 매출의 약 10%인 160억 달러에 이를 것이라는 추정이 담김 내부 문서상 광고주 차단에는 자동화 시스템이 판단한 사기 가능성 95% 이상이 필요하며, 그보다 낮은 의심 광고주는 더 높은 광고비를 내고 광고를 계속 게재할 수 있음 Meta는 문서가 자사의 대응을 왜곡한다며 반박했고, 10% 추정치 …",
-          "keywords": [
-            "Mark",
-            "Cuban",
-            "Facebook",
+            "선거",
+            "투자자들이",
             "AI",
-            "딥페이크"
+            "투자에서",
+            "발을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash - 최대 15초 영상 생성과 대화형 편집, 가격 30% 인하",
+          "link": "https://news.hada.io/topic?id=36712&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T16:36:54.000Z",
+          "image": null,
+          "summary": "Gemini Omni 1.2 Flash가 Gemini API와 Gemini for business에서 정식 제공되며, 영상 생성과 편집 길이를 기존 최대 10초에서 15초로 늘림 720p 영상 가격을 Omni 1.1 대비 30% 인하한 초당 0.07달러로 책정했으며, 선택한 결과를 1080p나 4K로 업스케일할 수 있음 이미지, 짧은 동작 영상, 오디오를 조합한 참조 입력을 더 충실히 반영하고, 카메라 이동과 장면 전환 중 인물, 제품, 배경의 일관성을 강화함 다중 턴 대화형 편집으로 15초 영상의 제품, 배경, 조명 등을 차례로 수정해 처음부터 다시 생성하지 않고 광고 변형본 등을 제 …",
+          "keywords": [
+            "Gemini",
+            "Omni",
+            "Flash",
+            "최대",
+            "15초"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Kugelblitz - Mac 네이티브 Google Earth 대안",
+          "link": "https://news.hada.io/topic?id=36711&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T15:37:01.000Z",
+          "image": null,
+          "summary": "Kugelblitz는 지구와 주변 천체를 3D 지구본과 평면 지도책으로 탐색하는 Mac 앱으로, 실제 지형 위에 영상, 도로 지도, 지형도를 표시함 공개 지리 데이터를 제공처에서 직접 불러오며 계정이 필요 없음. Library에서 전 세계 지도 서비스를 검색하고 지구본에 표시하거나 저장할 수 있음 OpenStreetMap은 자체 타일 서버에서 현재 보이는 영역과 관찰 거리에 필요한 수준만 불러오므로, 지역별 대용량 다운로드가 필요 없음 M1 Mac mini, 메모리 16GB 환경에서 개발하고 성능을 측정했으며, 항공 영상, 지형, 건물, 도로, 지명을 함께 …",
+          "keywords": [
+            "Kugelblitz",
+            "Mac",
+            "네이티브",
+            "Google",
+            "Earth"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+          "link": "https://news.hada.io/topic?id=36710&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T15:34:00.000Z",
+          "image": null,
+          "summary": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+          "keywords": [
+            "Tesla",
+            "소수",
+            "시장에서",
+            "수년간",
+            "판매"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Linux에서 Wikipedia까지, 자원봉사자들은 어떻게 인터넷을 만드는가",
+          "link": "https://news.hada.io/topic?id=36708&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-06T14:34:20.000Z",
+          "image": null,
+          "summary": "동료 생산(peer production) 은 기업의 지휘나 금전적 보상을 주된 동력으로 삼지 않고도 Linux와 Wikipedia 같은 핵심 온라인 자원을 만들어 온 개방형 협업 방식임 참여자의 다양한 동기, 집단적 자치, 분산된 작업 수행, 공공 공유자원으로 보호되는 결과물이 동료 생산의 네 가지 핵심 조건임 Reddit처럼 자발적 참여와 분산형 협업에 의존해도 결과물을 기업이 통제한다면 완전한 동료 생산은 아니며, 데이터 접근 제한과 유료화는 이러한 차이를 드러냄 성공적인 협업 공동체는 드물며, 인구통계적 편향과 내부 위계, 성차별과 괴롭 …",
+          "keywords": [
+            "Linux에서",
+            "Wikipedia까지",
+            "자원봉사자들은",
+            "어떻게",
+            "인터넷을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:56.983Z",
+      "fetchedAt": "2026-11-06T17:11:48.870Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -539,7 +539,7 @@
           "summaryKo": "YouTube와 같은 플랫폼은 교실에서 보편화되었습니다. 갤럽의 최근 보고서에 따르면 학생의 96% 가 학습을 향상시키기 위한 장치를 갖추고 있습니다. 그러나 현실은 그렇게 간단하지 않습니다. 일부 학생들은 교육에 적합하지 않은 동영상을 보기 위해 기기를 사용하고 있습니다. 가장 극단적인 경우, 어린이와 청소년은 매 학기마다 수천 개의 비디오를 시청합니다. 이러한 행동으로 교실 장치는 학업이 아닌 산만 함이됩니다."
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:57.200Z",
+      "fetchedAt": "2026-11-06T17:11:48.992Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:57.381Z",
+      "fetchedAt": "2026-11-06T17:11:49.091Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:57.456Z",
+      "fetchedAt": "2026-11-06T17:11:49.151Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -702,6 +702,78 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "켐트로닉스·위츠 경영진, 에르도안 튀르키예 대통령 만나 미래 모빌리티·전력전송 협력 논의",
+          "link": "https://www.venturesquare.net/1126458/",
+          "pubDate": "2026-11-06T09:41:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/kim-759x522.jpg",
+          "summary": "켐트로닉스와 자회사 위츠의 최고경영진이 지난 4일 서울 롯데호텔에서 방한 중인 에르도안 튀르키예 대통령을 예방했다. 김보균 켐트로닉스 회장과 김응수 켐트로닉스 대표, 김응태 위츠 대표가 참석해 첨단 전자, 미래 모빌리티 전장 부품, 무선전력전송 분야의 협력 가능성을 논... The post 켐트로닉스·위츠 경영진, 에르도안 튀르키예 대통령 만나 미래 모빌리티·전력전송 협력 논의 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "WPT",
+            "글로벌파트너십",
+            "기술협력"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "EDB, 클릭하우스 전문기업 알티니티 인수…PostgreSQL·실시간 분석 결합해 AI 데이터 시장 공략",
+          "link": "https://www.venturesquare.net/1126449/",
+          "pubDate": "2026-11-06T09:39:42.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/EDB-789x182.jpg",
+          "summary": "EDB가 실시간 데이터 분석 전문기업 알티니티(Altinity)를 인수하고 PostgreSQL과 ClickHouse를 결합한 AI 데이터 플랫폼 확장에 나섰다. 이번 인수로 트랜잭션 처리와 대규모 실시간 분석, AI 에이전트 워크로드를 하나의 데이터 환경에서 지원하는 ... The post EDB, 클릭하우스 전문기업 알티니티 인수…PostgreSQL·실시간 분석 결합해 AI 데이터 시장 공략 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI에이전트",
+            "Altinity",
+            "ClickHouse"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "스포티파이·코치, 성수동서 음악과 패션 결합한 ‘태비 투어’ 개최…아이들 소연·키키 참여",
+          "link": "https://www.venturesquare.net/1126455/",
+          "pubDate": "2026-11-06T09:37:39.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Tabby-Tour-783x522.jpg",
+          "summary": "스포티파이와 코치가 지난 10월 30일 서울 성수동에서 음악과 패션을 결합한 글로벌 협업 행사 '태비 투어'를 개최했다. 뉴욕에서 시작된 이번 투어는 미국과 영국, 일본을 거쳐 서울에서 아시아 일정을 마무리했다. 방문객들은 음악 취향을 바탕으로 코치 행택을 꾸미고 플레... The post 스포티파이·코치, 성수동서 음악과 패션 결합한 ‘태비 투어’ 개최…아이들 소연·키키 참여 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "Coach",
+            "Spotify",
+            "TabbyTour"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "웨이크버니, 김희은·윤대현 셰프의 미쉐린 레스토랑을 간편식으로…컬리 단독 출시",
+          "link": "https://www.venturesquare.net/1126447/",
+          "pubDate": "2026-11-06T09:33:41.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/261106-2-789x474.jpg",
+          "summary": "IP 기반 브랜드 빌딩 기업 웨이크버니가 김희은·윤대현 셰프 부부와 협업해 레스토랑 '에그앤플라워'와 '소울'의 간편식을 컬리에서 단독 출시한다. 에그앤플라워의 들깨크림&감자뇨끼, 클래식 라자냐, 허브페스토 조개찜 등 3종은 현재 판매 중이다. 미쉐린 1스타 소울의 들... The post 웨이크버니, 김희은·윤대현 셰프의 미쉐린 레스토랑을 간편식으로…컬리 단독 출시 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "RMR",
+            "김희은",
+            "레스토랑간편식"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "코스모로보틱스 보행보조로봇, 23년 만에 딸의 첫걸음을 보여주다",
           "link": "https://www.venturesquare.net/1126404/",
@@ -719,81 +791,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "노이즈앤피치, 첫 크리에이터 커머스서 억대 판매…‘비비다은’ 팬덤 분석 통했다",
-          "link": "https://www.venturesquare.net/1126393/",
-          "pubDate": "2026-11-06T05:03:08.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/NOISE-348x522.jpg",
-          "summary": "큐레이션 마케팅 그룹 노이즈앤피치가 소속 크리에이터 '비비다은'과 진행한 첫 공동구매에서 11일간 누적 판매액 1억원 이상을 기록했다. 팔로워 약 6만 명을 보유한 비비다은은 그동안 커머스 활동 없이 연애와 관계 중심의 콘텐츠를 제작해 왔다. 노이즈앤피치는 최근 뷰티 ... The post 노이즈앤피치, 첫 크리에이터 커머스서 억대 판매…‘비비다은’ 팬덤 분석 통했다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "MCN",
-            "공동구매",
-            "노이즈앤피치"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "에이아이트릭스, 홍콩 정부 전략기업 선정…의료 AI ‘바이탈케어’ 아시아 진출 확대",
-          "link": "https://www.venturesquare.net/1126382/",
-          "pubDate": "2026-11-06T05:00:00.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/OASE-789x512.jpg",
-          "summary": "의료 AI 기업 에이아이트릭스가 홍콩 정부 산하 전략적 기업 유치실(OASES)의 제7기 전략기업 파트너로 선정됐다. 이번 선정 기업은 총 18개사이며, 에이아이트릭스는 한국 헬스케어 기업 가운데 최초로 이름을 올렸다고 밝혔다. 회사는 지난해 환자 상태 악화 예측 솔루... The post 에이아이트릭스, 홍콩 정부 전략기업 선정…의료 AI ‘바이탈케어’ 아시아 진출 확대 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AITRICS",
-            "AITRICSVC",
-            "OASES"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "에이아이웍스, AI 에이전트 실행 과정 검증하는 ‘AgentRigor’ 기업 적용 사례 공개",
-          "link": "https://www.venturesquare.net/1126374/",
-          "pubDate": "2026-11-06T04:55:30.000Z",
-          "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png",
-          "summary": "에이아이웍스가 'BeSTCon 2026'에서 AI 에이전트 신뢰성 평가 솔루션 'AgentRigor'의 출시 6개월간 기업 적용 사례를 공개했다. 통신사와 IT 대기업의 내부 AI 에이전트 검증에 적용된 이 솔루션은 생성된 응답뿐 아니라 도구 호출과 실행 경로, 업무 ... The post 에이아이웍스, AI 에이전트 실행 과정 검증하는 ‘AgentRigor’ 기업 적용 사례 공개 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AgentRigor",
-            "AIWORKX",
-            "AI거버넌스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "의식주컴퍼니, 스파크플러스 성장 이끈 목진건 전 대표 영입…런드리고 사업 확장 맡긴다",
-          "link": "https://www.venturesquare.net/1126358/",
-          "pubDate": "2026-11-06T04:52:52.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/MOK-690x522.jpg",
-          "summary": "비대면 모바일 세탁 서비스 '런드리고'를 운영하는 의식주컴퍼니가 목진건 전 스파크플러스 대표를 사업성장부문 대표로 영입했다. 목 부문대표는 스파크플러스에서 사업 확장과 투자유치, 매각을 이끈 경험을 바탕으로 의식주컴퍼니의 성장 전략과 실행을 총괄한다. 회사는 런드리고의... The post 의식주컴퍼니, 스파크플러스 성장 이끈 목진건 전 대표 영입…런드리고 사업 확장 맡긴다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "B2B세탁",
-            "런드리24",
-            "런드리고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:59.488Z",
+      "fetchedAt": "2026-11-06T17:11:52.080Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -884,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:59.793Z",
+      "fetchedAt": "2026-11-06T17:11:52.353Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -981,7 +981,7 @@
           "summaryKo": "Aina의 반지는 전화를 받고 Mac에서 메모를 작성하는 데 도움이 될 수도 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-06T09:14:59.924Z",
+      "fetchedAt": "2026-11-06T17:11:52.429Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -989,6 +989,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "경남창조경제혁신센터, 창업도약기업 IR 경진대회 개최…아라메소재 등 5개사 수상",
+          "link": "https://www.venturesquare.net/1126470/",
+          "pubDate": "2026-11-06T09:44:45.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/1105-789x415.jpg",
+          "summary": "경남창조경제혁신센터가 '2026년 창업도약패키지 GO-SPACE 투자유치(IR) 경진대회'를 개최하고 우수기업 5개사를 선정했다. 창업도약패키지 참여기업 9개사가 IR 발표에 나섰으며 5개 투자기관 전문가들이 사업모델과 시장성, 성장 가능성 등을 평가했다. 아라메소재가... The post 경남창조경제혁신센터, 창업도약기업 IR 경진대회 개최…아라메소재 등 5개사 수상 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "GOSPACE",
+            "IR경진대회",
+            "경남스타트업",
+            "경남창조경제혁신센터",
+            "미르이엔지"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "젠엑시스, 울산 딥테크 스타트업 8개사 해외 진출 지원…12월 중국 현지 프로그램 연계",
           "link": "https://www.venturesquare.net/1126292/",
@@ -1060,27 +1078,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "경북창조경제혁신센터, 소셜벤처 11개사 판별 완료…9개사 사업화 지원",
-          "link": "https://www.venturesquare.net/1126176/",
-          "pubDate": "2026-11-05T13:44:21.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/kn-3-694x522.jpg",
-          "summary": "경북창조경제혁신센터가 '2026 경북 소셜벤처 활성화사업'을 통해 지역 소셜벤처의 판별과 사업화를 지원하고 있다. 올해 참여기업 모집 경쟁률은 5.7대 1로, 2024년 2.7대 1보다 두 배 이상 높아졌다. 1단계 선정기업 12개사 가운데 11개사가 소셜벤처 판별을 ... The post 경북창조경제혁신센터, 소셜벤처 11개사 판별 완료…9개사 사업화 지원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "IR덱",
-            "경북소셜벤처",
-            "경북창조경제혁신센터",
-            "사업모델고도화",
-            "사업화지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:15:00.923Z",
+      "fetchedAt": "2026-11-06T17:11:53.618Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1100,6 +1100,23 @@
             "소규모",
             "공동주택",
             "보수지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "화순군, 지역자원 연계형 청년창업 지원사업 참여자 추가 모집 - 웰페어뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nNHBUVWlqWUs3OGRGSldlb010NHR5MkxCU2R4WHItY2JPVzZJZDNFV005WmItZ2Z4UUlZV0VXSWJ4YTVRTU1ZcXBzRDNOZ3VkbXZiYjloSGdOd2VhR2Z1R2JOYmVVN0g2ZEhmOEV6bw?oc=5",
+          "pubDate": "2026-11-05T02:41:08.000Z",
+          "image": null,
+          "summary": "화순군, 지역자원 연계형 청년창업 지원사업 참여자 추가 모집 웰페어뉴스",
+          "keywords": [
+            "화순군",
+            "지역자원",
+            "연계형",
+            "청년창업",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1140,41 +1157,24 @@
           "summaryKo": null
         },
         {
-          "title": "화순군, 지역자원 연계형 청년창업 지원사업 참여자 추가 모집 - 웰페어뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nNHBUVWlqWUs3OGRGSldlb010NHR5MkxCU2R4WHItY2JPVzZJZDNFV005WmItZ2Z4UUlZV0VXSWJ4YTVRTU1ZcXBzRDNOZ3VkbXZiYjloSGdOd2VhR2Z1R2JOYmVVN0g2ZEhmOEV6bw?oc=5",
-          "pubDate": "2026-11-05T02:41:08.000Z",
+          "title": "여수시, '청년 어촌 정착 돕는다'…청년어촌정착 지원사업 참여자 모집 - 데일리한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lWkFvajlXQzdDd0xTZDcyeXRXYkMzS1JYdnk4ZlFhRnFSZEUwVWtKZVh1Y2NkZVZGWWkwVkU4Mk5NMVNCSGJvbVJqaXpXbnVuNTBEN0x4dlBSbkthcGpIUXlpbk9DN2VhOGNqQzRZd9IBc0FVX3lxTE03TFNNS3d2c1lCSk5mMmlXRmgza3IyYnJlMHdPTjNjM3ZvTF9PMlpyY29pcW9kbUxqcVdUb1ZIeDZRa0ZJYUtoRG10dzRIZXByOF9hTjFVWlhVQlhnU1JSZ2J3Z1dvNGJxZGJuUm9semhOZU0?oc=5",
+          "pubDate": "2026-11-06T08:04:01.000Z",
           "image": null,
-          "summary": "화순군, 지역자원 연계형 청년창업 지원사업 참여자 추가 모집 웰페어뉴스",
+          "summary": "여수시, '청년 어촌 정착 돕는다'…청년어촌정착 지원사업 참여자 모집 데일리한국",
           "keywords": [
-            "화순군",
-            "지역자원",
-            "연계형",
-            "청년창업",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경남테크노파크, 2027년 현장실습 지원사업 동계 참여기업 모집 - 이뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYW9vcjQ4SU9hWGtzVVU3TGlidHFsLW5yTk1qQlpaLVgyc2MtR2owVkItVkRubWdQdHBxak12UHlUQ2xWUENoQUVucmFRUFBrR1FwRVpzU2hiNTlOSHlFZV9xVHNwOUY4S2RrOHhMUWrSAXRBVV95cUxOT2Jyd0VHc1NraVJXNENjUHpEQTNaeW1QOU9pRktwV0h2SmxhUWl0RFZRSXZPbWdSN2ppT29VaDNaQmdId2FIZkdwMS1PQVpEa21mWTE3TElZRjVXbGhXV251ank2ODRRMGttUUdncDlKanJ3dA?oc=5",
-          "pubDate": "2026-11-06T03:40:00.000Z",
-          "image": null,
-          "summary": "경남테크노파크, 2027년 현장실습 지원사업 동계 참여기업 모집 이뉴스투데이",
-          "keywords": [
-            "경남테크노파크",
-            "2027년",
-            "현장실습",
-            "지원사업",
-            "동계"
+            "여수시",
+            "청년",
+            "어촌",
+            "정착",
+            "돕는다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T09:15:01.276Z",
+      "fetchedAt": "2026-11-06T17:11:53.971Z",
       "error": null
     }
   },
@@ -1184,7 +1184,7 @@
       "label": "AI",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
@@ -1222,29 +1222,29 @@
       "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 4,
+      "key": "글로벌진출",
+      "label": "글로벌진출",
+      "count": 3,
       "rank": 7,
       "change": "up"
     },
     {
-      "key": "2027년",
-      "label": "2027년",
+      "key": "지원사업",
+      "label": "지원사업",
       "count": 3,
       "rank": 8,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "글로벌진출",
-      "label": "글로벌진출",
-      "count": 3,
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "gn:",
-      "label": "GN:",
+      "key": "poc",
+      "label": "POC",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1320,7 +1320,7 @@
       "label": "AI",
       "count": 2,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1328,7 +1328,7 @@
       "label": "builds",
       "count": 2,
       "rank": 10,
-      "change": "new",
+      "change": "same",
       "labelKo": "빌드"
     }
   ]
