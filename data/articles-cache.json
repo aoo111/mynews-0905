@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-07T12:30:04.528Z",
+  "collectedAt": "2026-11-07T18:28:34.982Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "보험금 분쟁 막는 데 집중…지급 공정성·소비자 보호 강화하는 보험사",
+          "link": "https://www.mk.co.kr/news/economy/12201540",
+          "pubDate": "2026-11-07T13:05:40.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261106.7471f1e114e74c14a46dd41bf61599ba_R.jpeg",
+          "summary": "보험금 분쟁 해마다 끊이질 않아 보험사, 외부 위원 위촉·TF 구성보험업계가 소비자 보호를 위해 보험금 분쟁을 해결하는 데 집중하고 있다. 보험사마다 외부 위원을 위촉하거나 소비자..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "“강남 집값 하락률 4.8배 차이”…세입자도 집주인도 “어느 통계 믿나” 대혼란",
           "link": "https://www.mk.co.kr/news/realestate/12201505",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“속만 타는 주식, 이제 손 떼고 싶어요”…수천억 뭉칫돈 몰린 고금리 예금",
-          "link": "https://www.mk.co.kr/news/economy/12201465",
-          "pubDate": "2026-11-07T06:33:29.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261102.dfc313003d044cf38366b15cc937b0d1_R.png",
-          "summary": "농협 특판예금 7000억 조기 완판 신한 고금리 예금 8400억원 판매 확정금리·단기예금·파킹통장까지 은행권 고금리상품 고객유치 경쟁증시 변동성이 커지면서 안정적인 이자수익을 확보..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:29:57.844Z",
+      "fetchedAt": "2026-11-07T18:28:28.413Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-11-07T12:29:57.922Z",
+      "fetchedAt": "2026-11-07T18:28:28.488Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:29:58.935Z",
+      "fetchedAt": "2026-11-07T18:28:29.605Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다."
         }
       ],
-      "fetchedAt": "2026-11-07T12:29:59.103Z",
+      "fetchedAt": "2026-11-07T18:28:29.772Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Devvm.dev: 프로젝트마다 하나의 VM",
-          "link": "https://news.hada.io/topic?id=36746&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T11:32:47.000Z",
+          "title": "Unitree 공장을 둘러본 뒤, 서구의 전망을 더 낙관하게 됐다",
+          "link": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T17:49:45.000Z",
           "image": null,
-          "summary": "devvm은 프로젝트별로 도구 체인을 갖춘 격리 VM을 만들어, 개발자나 코딩 에이전트가 바로 작업할 수 있게 하는 무료 오픈소스 도구임 프로젝트 파일을 바탕으로 도구 체인을 자동 선택하며, Claude Code, Codex, opencode를 호스트에 설치하지 않고 VM 안에서 실행할 수 있음 기본적으로 허용 목록 기반 네트워크를 사용하고 홈 디렉터리 접근을 제한하며, --clone을 쓰면 호스트 작업 트리 대신 VM 전용 저장소 복제본에서 작업함 에이전트의 인증 정보는 호스트에 유지하고 VM에는 대체 값을 전달하며, 외부 요청이 나갈 때 호스트의 …",
+          "summary": "Unitree의 로봇 생산은 여전히 수작업 중심이며, 2025년 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음 잦은 제품 변경과 재프로그래밍 비용이 자동화를 어렵게 함. Unitree도 로봇 전체보다 여러 제품이 공유하고 설계가 상대적으로 안정적인 관절 모듈부터 자동화하고 있음 미국의 공장 노동비는 중국의 약 7.5배여서 같은 자동화 설비의 절감 가치가 훨씬 큼. 중국산 로봇과 부품에 대한 규제까지 더해지면서 저렴한 해외 노동력에 의존하는 선택지가 줄어듦 …",
           "keywords": [
-            "Devvm",
-            "dev:",
-            "프로젝트마다",
-            "하나의",
-            "VM"
+            "Unitree",
+            "공장을",
+            "둘러본",
+            "서구의",
+            "전망을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Asahi Linux 개발 현황: Linux 7.3",
-          "link": "https://news.hada.io/topic?id=36744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T10:34:24.000Z",
+          "title": "Chomsky와 통계적 학습의 두 문화(2011)",
+          "link": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T17:46:45.000Z",
           "image": null,
-          "summary": "M3 지원이 정식 공개되어 설치 시 EXPERT 플래그가 필요 없어짐. DCP 활성화로 성능과 배터리 사용 시간이 개선되고, 절전과 MacBook 노치 주변 화면 활용도 가능해짐 업스트림 기여가 확대되어 macaudio와 AVD 드라이버가 검토 단계에 진입함. M4 Pro/Max와 M5의 초기 Devicetree도 제출됐지만, 현재는 TTY로 부팅할 수 있는 최소 수준임 Thunderbolt 초기 지원이 사용자에게 배포되기 시작함. USB3, XDomain, Thunderbolt Networking만 지원하며, 대부분의 Thunderbolt 독에 필요한 PCIe와 DisplayPort 터널링은 아직 지원하지 않음 An …",
+          "summary": "통계적 언어 모델의 예측 성능과 과학적 이해는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음 통계적 모델, 확률 모델, 학습된 모델은 서로 다른 개념임. 단순한 단어 Markov 모델의 한계를 모든 확률 모델의 한계로 확대하면, 구문 트리와 의미, 담화를 다루는 모델까지 잘못 배제하게 됨 2011년 당시 통계적 방법은 언어 처리의 지배적인 접근법이었음. 검색, 음성 인식, 기계 번역뿐 아니라 품사 태깅과 구문 분석에서도 널리 쓰였으며, 규칙 기반 또는 혼합형 시스템의 성공 사례도 존재함 …",
           "keywords": [
-            "Asahi",
-            "Linux",
-            "개발",
-            "현황:"
+            "Chomsky와",
+            "통계적",
+            "학습의",
+            "문화(2011)"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Bong: 주소창 단축키로 원하는 사이트를 바로 검색하는 셀프호스팅 가능한 리다이렉터",
-          "link": "https://news.hada.io/topic?id=36743&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T10:21:17.000Z",
+          "title": "민주당, SpaceXAI와 META, Apple에 대한 의회 조사 착수",
+          "link": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T16:37:56.000Z",
           "image": null,
-          "summary": "주소창에 .yt 검색어, .gh 검색어처럼 짧은 접두사를 붙여 유튜브·깃허브 등 원하는 사이트의 검색 결과로 바로 이동시켜 주는 도구 DuckDuckGo의 !bang 기능을 셀프호스팅으로 구현 OpenSearch를 지원해 브라우저 기본 검색엔진 등록 및 자동완성(Suggest)이 가능하고, 한글 초성 매칭·부분 입력·오타 보정을 지원 Go로 작성되어 가볍고, 별도 DB 없이 YAML 파일 하나로 나만의 검색 단축키를 손쉽게 정의 가능",
+          "summary": "미국 민주당이 미국 최대 기업 일부를 대상으로 일련의 조사를 준비하고 있음 조사 범위는 지난 2년간의 기업 활동임 조사 초점은 기업들의 민감하고 논란이 큰 행위에 맞춰질 예정임 실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 다져온 경영진이 조사 압박에 직면하고 있음 해당 경영진은 다가올 집중 조사에 대비하고 있음 대기업 조사 준비와 경영진의 대응 민주당은 미국 최대 기업 일부를 대상으로 지난 2년간 가장 민감하고 논란이 큰 행위를 조사할 준비를 하고 있음 실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 …",
           "keywords": [
-            "Bong:",
-            "주소창",
-            "단축키로",
-            "원하는",
-            "사이트를"
+            "민주당",
+            "SpaceXAI와",
+            "META",
+            "Apple에",
+            "의회"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Software Line Specialist - AI가 못 고친 코드를 고치는 사람을 구합니다",
-          "link": "https://news.hada.io/topic?id=36742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T09:01:20.000Z",
+          "title": "RealPage 임대료 책정 소송, 세입자에게 약 3억 6,000만 달러 지급하는 합의로 마무리",
+          "link": "https://news.hada.io/topic?id=36765&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T16:34:56.000Z",
           "image": null,
-          "summary": "2028년의 개발자 채용 공고를 흉내 낸 풍자 기술 스택이 ‘영어’인 스타트업에서 AI가 해결하지 못한 마지막 0.5% 를 맡을 TypeScript 개발자를 구함 코드, 로그, DB를 직접 살펴보고 수정부터 테스트, 리뷰, 배포까지 맡음 2022년 이전 TypeScript 경력 5년 이상을 요구하며, 종이 시험과 AI 없는 실시간 디버깅을 치름 병렬 개발이 기본인 회사에서 이 직무만큼은 한 번에 한 문제에 집중할 수 있음 AI가 막히면 IDE를 열어 주세요 가상의 스타트업 ACME Inc.는 소상공인의 재무 현황을 모니터링하는 서비스를 만들며, 최근 1,500만 달 …",
+          "summary": "미국 연방법원이 RealPage 소프트웨어를 통한 임대료 담합 의혹 집단소송의 합의를 승인함. 합의에 참여한 임대인들이 세입자에게 지급할 금액은 약 3억 6,000만 달러임 합의 기업들은 잘못이나 법적 책임을 인정하지 않았지만, 가격 추천을 위한 비공개 데이터 제공과 경쟁사 비공개 데이터 활용을 중단하기로 함 합의 대상은 2018년 10월 18일부터 2025년 11월 21일까지 지정된 RealPage 제품을 사용한 미국 공동주택에서 소유주나 운영사에 임대료를 낸 세입자임 워싱턴 D.C.와 4개 주 법무장관은 합의가 별도 소송을 부당하게 제한할 …",
           "keywords": [
-            "Software",
-            "Line",
-            "Specialist",
-            "AI가",
-            "고친"
+            "RealPage",
+            "임대료",
+            "책정",
+            "소송",
+            "세입자에게"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
-          "link": "https://news.hada.io/topic?id=36741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T08:10:27.000Z",
+          "title": "음식점 배달 주문 사이트를 사칭한 결제정보 탈취 캠페인",
+          "link": "https://news.hada.io/topic?id=36763&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T15:38:14.000Z",
           "image": null,
-          "summary": "블로그 글 한 편을 쓰는 흐름(키워드 조사 → 초안 → 검수 → 발행)을 한 화면에 모은 웹 서비스입니다. 1인 개발이고 지금 베타입니다. 만든 이유 블로그 AI 도구는 대부분 \"대량 자동 발행\"을 팝니다. 그런데 구글의 대량 콘텐츠 남용 정책이나 네이버 제재 사례를 보면 그 방향은 결국 사용자 계정이 위험을 떠안는 구조라고 봤습니다. 그래서 반대로, 사람이 확인하지 않으면 발행 단계가 열리지 않는 도구를 만들었습니다. 하는 것 키워드 분석: 네이버 검색광고 키워드도구 API로 월간 검색량·광고 경쟁도를 보여주고, 검색량 대 …",
+          "summary": "InfoHawk 조사에서 35개 음식점 브랜드를 사칭한 도메인 820개가 발견됨. 실제 주문 사이트를 복제해 결제정보를 빼내는 하나 이상의 연계된 공격 활동으로 보임 공격 사이트는 리버스 프록시로 실제 메뉴, 가격, 장바구니를 실시간 제공하고 결제 단계만 악성 양식으로 교체함. 이를 위해 정상 음식점 사이트를 해킹할 필요는 없음 가짜 결제 양식은 카드정보뿐 아니라 은행 SMS 인증 코드나 은행 앱 승인까지 요구함. 연구진은 운영자가 실시간으로 화면을 제어하면서 다른 거래의 3-D Secure 인증을 통과시키는 것으로 추정함 최초 조 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "그레이아이",
-            "검수를",
-            "거쳐야"
+            "음식점",
+            "배달",
+            "주문",
+            "사이트를",
+            "사칭한"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:29:59.834Z",
+      "fetchedAt": "2026-11-07T18:28:30.411Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +537,7 @@
           "summaryKo": "Google, TikTok 및 Meta는 소셜 미디어 플랫폼에서 16세 미만의 어린이를 \"심리적으로 착취적인 기능\" 으로부터 보호하는 법률의 집행을 차단하기 위해 캘리포니아를 상대로 소송을 제기했습니다. 개빈 뉴섬 주지사는 지난 9월 의회 법안 1709에 서명했습니다. \"우리는 우리 아이들과 모든 캘리포니아 아이들이 자라기를 원합니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:00.060Z",
+      "fetchedAt": "2026-11-07T18:28:30.515Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:00.292Z",
+      "fetchedAt": "2026-11-07T18:28:30.760Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:00.375Z",
+      "fetchedAt": "2026-11-07T18:28:30.813Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:02.729Z",
+      "fetchedAt": "2026-11-07T18:28:33.159Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +882,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:03.008Z",
+      "fetchedAt": "2026-11-07T18:28:33.348Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -979,7 +979,7 @@
           "summaryKo": "Zipline은 $ 1.5 billion을 모금하고 Walmart와의 파트너십을 강화했습니다."
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:03.146Z",
+      "fetchedAt": "2026-11-07T18:28:33.434Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1078,7 +1078,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:04.172Z",
+      "fetchedAt": "2026-11-07T18:28:34.541Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1138,23 +1138,6 @@
           "summaryKo": null
         },
         {
-          "title": "HUG, 중소기업 전문가 상담·자문 참여기업 모집 - 글로벌뉴스통신GNA",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55NlVXNHVOOE5jeG1VZFdLNEdPZjUzM1RwSEpISUszUVpFQWs5LWlMSm5HWVNZZ1c1OUxUVE1vUXMwQlZ3UF9nRm5melZoQlYwUkNFaDVqSkIxaDJXcEN1TlBhRkRCc09jdXo4SldscWUzZnY1?oc=5",
-          "pubDate": "2026-11-06T21:40:31.000Z",
-          "image": null,
-          "summary": "HUG, 중소기업 전문가 상담·자문 참여기업 모집 글로벌뉴스통신GNA",
-          "keywords": [
-            "HUG",
-            "중소기업",
-            "전문가",
-            "상담",
-            "자문"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 - 농수축산신문",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LcmJUaENmUEJ4S1ZsTTVmelNjTXpIaVQ5amRFdFlpa2dzSTktOHNSd3NqUE5PVFEtZU8ta0F4d0xoclBmMVdPSi1xM0p3ZTVJY2x5a3RDUms5UXFMcGd5WHlPZnU5VjlHLTdEcw?oc=5",
           "pubDate": "2026-11-06T01:07:40.000Z",
@@ -1170,9 +1153,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "철원군 2027 스포츠강좌이용권 지원사업 대상자 모집 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbi1mbE1IY3RYWHpQTXhQTDdUbnNiOS0tb2FoQjhBTFQ2Rm5ZUlVfWW5sTWJwRU03Vi12bkZzT3A4QXcwZ1h3S2Q5cVVGSzF0eVdiTzVpNVlvc1k?oc=5",
+          "pubDate": "2026-11-05T04:31:26.000Z",
+          "image": null,
+          "summary": "철원군 2027 스포츠강좌이용권 지원사업 대상자 모집 강원일보",
+          "keywords": [
+            "철원군",
+            "2027",
+            "스포츠강좌이용권",
+            "지원사업",
+            "대상자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T12:30:04.520Z",
+      "fetchedAt": "2026-11-07T18:28:34.973Z",
       "error": null
     }
   },
@@ -1182,70 +1182,70 @@
       "label": "AI",
       "count": 2,
       "rank": 1,
+      "change": "same"
+    },
+    {
+      "key": "민주당",
+      "label": "민주당",
+      "count": 2,
+      "rank": 2,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 2,
-      "change": "same"
+      "rank": 3,
+      "change": "down"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 4,
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
+    },
+    {
+      "key": "지원사업",
+      "label": "지원사업",
+      "count": 3,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "2027년",
       "label": "2027년",
       "count": 2,
-      "rank": 7,
-      "change": "new"
+      "rank": 9,
+      "change": "down"
     },
     {
       "key": "글로벌진출",
       "label": "글로벌진출",
       "count": 2,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "스타트업",
-      "label": "스타트업",
-      "count": 2,
-      "rank": 9,
-      "change": "up"
-    },
-    {
-      "key": "이벤트",
-      "label": "이벤트",
-      "count": 2,
       "rank": 10,
-      "change": "new"
+      "change": "down"
     }
   ],
   "trendingGlobal": [
