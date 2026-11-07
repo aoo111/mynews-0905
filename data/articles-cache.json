@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-07T18:28:34.982Z",
+  "collectedAt": "2026-11-07T23:25:59.686Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -40,6 +40,19 @@
       "category": "경제·산업",
       "subcategory": "경제뉴스",
       "items": [
+        {
+          "title": "매월 56만원 대출이자 vs 56만원 ‘따박따박’ 저축 … 5년 후 자산 차이는?",
+          "link": "https://www.mk.co.kr/news/economy/12200763",
+          "pubDate": "2026-11-07T20:30:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261105.e6bf826128364af28d65d3ed25a70916_R.png",
+          "summary": "대출이자 착시와 상환 방식대출은 자본주의 사회에서 레버리지를 활용해 자산을 형성하거나 일시적인 유동성 위기를 넘길 수 있는 유용한 금융 도구입니다. 그러나 대출은 설탕이나 담배처럼..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "보험금 분쟁 막는 데 집중…지급 공정성·소비자 보호 강화하는 보험사",
           "link": "https://www.mk.co.kr/news/economy/12201540",
@@ -91,22 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "은행 ‘앱의 시대’ 이제 끝나나…저축·이체까지 AI가 대신 ‘척척’",
-          "link": "https://www.mk.co.kr/news/economy/12201490",
-          "pubDate": "2026-11-07T08:49:18.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261106.e46f4686d4944bbfa61ca45a8eedf592_R.png",
-          "summary": "AI에 익숙 알파세대 전체 인구 11% 슈퍼앱 넘어 AI 금융비서 경쟁 ‘탄력’은행 애플리케이션(앱)을 열어 금융상품을 검색하고 메뉴를 찾아 거래하던 시대가 달라지고 있다. 인공지..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:28.413Z",
+      "fetchedAt": "2026-11-07T23:25:53.446Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:28.488Z",
+      "fetchedAt": "2026-11-07T23:25:53.500Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:29.605Z",
+      "fetchedAt": "2026-11-07T23:25:54.689Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다."
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:29.772Z",
+      "fetchedAt": "2026-11-07T23:25:54.856Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,91 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Unitree 공장을 둘러본 뒤, 서구의 전망을 더 낙관하게 됐다",
-          "link": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T17:49:45.000Z",
+          "title": "Show HN: Coldframe, 슈퍼마켓 냉장 제어기로 위장하는 허니팟",
+          "link": "https://news.hada.io/topic?id=36779&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T22:38:27.000Z",
           "image": null,
-          "summary": "Unitree의 로봇 생산은 여전히 수작업 중심이며, 2025년 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음 잦은 제품 변경과 재프로그래밍 비용이 자동화를 어렵게 함. Unitree도 로봇 전체보다 여러 제품이 공유하고 설계가 상대적으로 안정적인 관절 모듈부터 자동화하고 있음 미국의 공장 노동비는 중국의 약 7.5배여서 같은 자동화 설비의 절감 가치가 훨씬 큼. 중국산 로봇과 부품에 대한 규제까지 더해지면서 저렴한 해외 노동력에 의존하는 선택지가 줄어듦 …",
+          "summary": "Coldframe은 냉장 제어기를 흉내 내 접속 출처, 시도한 비밀번호, 사용한 공개 익스플로잇을 기록하며, 실제 장비나 제어 기능은 제공하지 않는 허니팟임 Danfoss AK-SM 800A와 Copeland/Dixell XWEB EVO 두 가지 장비를 모방하며, 로그인 화면뿐 아니라 HTTP 헤더, 인증 흐름 등 실제 장비의 웹 지문을 재현함 취약한 계정이나 특정 인증 우회로 로그인하면 가짜 냉장 진열대 대시보드를 제공하고, 제상 버튼을 누르는 등 후속 행동까지 기록함 Python 표준 라이브러리만 사용하는 단일 파일로 구현됐으며, 공개 취약점에 해당하는 요청 …",
           "keywords": [
-            "Unitree",
-            "공장을",
-            "둘러본",
-            "서구의",
-            "전망을"
+            "Show",
+            "HN:",
+            "Coldframe",
+            "슈퍼마켓",
+            "냉장"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Chomsky와 통계적 학습의 두 문화(2011)",
-          "link": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T17:46:45.000Z",
+          "title": "모든 Windows 11 앱은 Electron을 버려야 한다, Discord가 그 이유를 보여줬다",
+          "link": "https://news.hada.io/topic?id=36778&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T22:35:27.000Z",
           "image": null,
-          "summary": "통계적 언어 모델의 예측 성능과 과학적 이해는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음 통계적 모델, 확률 모델, 학습된 모델은 서로 다른 개념임. 단순한 단어 Markov 모델의 한계를 모든 확률 모델의 한계로 확대하면, 구문 트리와 의미, 담화를 다루는 모델까지 잘못 배제하게 됨 2011년 당시 통계적 방법은 언어 처리의 지배적인 접근법이었음. 검색, 음성 인식, 기계 번역뿐 아니라 품사 태깅과 구문 분석에서도 널리 쓰였으며, 규칙 기반 또는 혼합형 시스템의 성공 사례도 존재함 …",
+          "summary": "Discord가 Rust와 GPUI 기반 클라이언트로 Electron을 대체하고 있으며, 공개한 콜드 스타트 영상에서는 기존 앱이 로딩을 마치기 전에 새 앱의 친구 목록이 표시됨 새 클라이언트는 계정 2개를 동시 실행하면서 RAM 290.2MB를 사용함. 1GB보다 약 70% 적지만, 초기 빌드의 한 시점 측정이며 동일 조건 비교 벤치마크는 없음 빠른 초기화와 새 아키텍처 덕분에 “Starting” 화면을 없애고, 업데이트는 백그라운드에서 자동으로 처리함 데스크톱 UI는 브라우저 엔진 대신 GPU로 직접 렌더링하고, 모바일과 웹도 Rust 코드를 공유함. 웹은 …",
           "keywords": [
-            "Chomsky와",
-            "통계적",
-            "학습의",
-            "문화(2011)"
+            "모든",
+            "Windows",
+            "11",
+            "앱은",
+            "Electron을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "민주당, SpaceXAI와 META, Apple에 대한 의회 조사 착수",
-          "link": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T16:37:56.000Z",
+          "title": "산마리노 여행 노트",
+          "link": "https://news.hada.io/topic?id=36777&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T21:51:56.000Z",
           "image": null,
-          "summary": "미국 민주당이 미국 최대 기업 일부를 대상으로 일련의 조사를 준비하고 있음 조사 범위는 지난 2년간의 기업 활동임 조사 초점은 기업들의 민감하고 논란이 큰 행위에 맞춰질 예정임 실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 다져온 경영진이 조사 압박에 직면하고 있음 해당 경영진은 다가올 집중 조사에 대비하고 있음 대기업 조사 준비와 경영진의 대응 민주당은 미국 최대 기업 일부를 대상으로 지난 2년간 가장 민감하고 논란이 큰 행위를 조사할 준비를 하고 있음 실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 …",
+          "summary": "이탈리아에 둘러싸인 인구 약 3만 3,500명의 산마리노는 작고 위협적이지 않은 국가라는 지위와 외교를 활용해 수백 년간 독립을 유지해 왔음 세계에서 가장 오래 지속된 공화국을 자처하지만 301년 건국설은 근거가 희박하며, 실제 정치체제도 과두정, 파시즘, 공산당 참여 연립정부를 거쳐 변화해 왔음 이탈리아와의 관계는 생존뿐 아니라 경제도 좌우함. 전후 좌파 정부의 카지노 실험은 이탈리아의 국경 검문에 막혀 실패했고, 오늘날 경제는 이탈리아/EU 시장에 깊이 통합돼 있음 관광 중심지인 수도에는 관광 인프라가 잘 갖춰져 있 …",
           "keywords": [
-            "민주당",
-            "SpaceXAI와",
-            "META",
-            "Apple에",
-            "의회"
+            "산마리노",
+            "여행",
+            "노트"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "RealPage 임대료 책정 소송, 세입자에게 약 3억 6,000만 달러 지급하는 합의로 마무리",
-          "link": "https://news.hada.io/topic?id=36765&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T16:34:56.000Z",
+          "title": "10달러짜리 OpenStick 홈랩에서 돌리는 것들",
+          "link": "https://news.hada.io/topic?id=36776&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T21:48:55.000Z",
           "image": null,
-          "summary": "미국 연방법원이 RealPage 소프트웨어를 통한 임대료 담합 의혹 집단소송의 합의를 승인함. 합의에 참여한 임대인들이 세입자에게 지급할 금액은 약 3억 6,000만 달러임 합의 기업들은 잘못이나 법적 책임을 인정하지 않았지만, 가격 추천을 위한 비공개 데이터 제공과 경쟁사 비공개 데이터 활용을 중단하기로 함 합의 대상은 2018년 10월 18일부터 2025년 11월 21일까지 지정된 RealPage 제품을 사용한 미국 공동주택에서 소유주나 운영사에 임대료를 낸 세입자임 워싱턴 D.C.와 4개 주 법무장관은 합의가 별도 소송을 부당하게 제한할 …",
+          "summary": "배송비 포함 10달러에 구매한 OpenStick에서 Debian과 Podman을 이용해 DNS 차단, AI 에이전트, 모니터링, RSS 등 여러 서비스를 직접 운영함 하드웨어는 RAM 512MB, 1GHz ARM Cortex-A53 4코어와 4GB eMMC를 갖췄으며, 설치 과정은 다소 복잡하지만 적은 전력으로 소음 없이 홈 서버를 운영할 수 있음 AdGuard Home으로 DNS 수준에서 유해 도메인을 차단하고, CastSponsorSkip으로 Google Cast 재생 중 협찬 구간을 건너뛰는 등 일상에 유용한 서비스를 구동함 Zeroclaw에 OpenStick 내부로 한정된 접근 권한을 부여해 Telegram으로 로그 …",
           "keywords": [
-            "RealPage",
-            "임대료",
-            "책정",
-            "소송",
-            "세입자에게"
+            "10달러짜리",
+            "OpenStick",
+            "홈랩에서",
+            "돌리는",
+            "것들"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "음식점 배달 주문 사이트를 사칭한 결제정보 탈취 캠페인",
-          "link": "https://news.hada.io/topic?id=36763&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-07T15:38:14.000Z",
+          "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
+          "link": "https://news.hada.io/topic?id=36775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T20:51:20.000Z",
           "image": null,
-          "summary": "InfoHawk 조사에서 35개 음식점 브랜드를 사칭한 도메인 820개가 발견됨. 실제 주문 사이트를 복제해 결제정보를 빼내는 하나 이상의 연계된 공격 활동으로 보임 공격 사이트는 리버스 프록시로 실제 메뉴, 가격, 장바구니를 실시간 제공하고 결제 단계만 악성 양식으로 교체함. 이를 위해 정상 음식점 사이트를 해킹할 필요는 없음 가짜 결제 양식은 카드정보뿐 아니라 은행 SMS 인증 코드나 은행 앱 승인까지 요구함. 연구진은 운영자가 실시간으로 화면을 제어하면서 다른 거래의 3-D Secure 인증을 통과시키는 것으로 추정함 최초 조 …",
+          "summary": "Anthropic은 AI 에이전트가 다음 세션을 위해 무엇을 기억하고, 쌓인 기억을 어떻게 정리할지 Claude로 실험함 에이전트는 검증된 해결법이나 이어서 할 일을 노트로 남겨 다음 세션에서 다시 활용할 수 있음 드리밍(dreaming) 은 세션 사이에 메모를 원본 대화 로그와 대조해 오류를 고치고, 여러 세션에 흩어진 노트를 주제별로 연결하는 과정임. 관련 내용을 위키로 묶어 나중에 찾아보기 쉽게 만들 수 있음 내부 문서 평가에서 원문 검색에 위키를 더하자 채점 기준 충족률이 53%에서 최대 61% 로 올랐고, 질문당 약 2만 토큰을 절약 …",
           "keywords": [
-            "음식점",
-            "배달",
-            "주문",
-            "사이트를",
-            "사칭한"
+            "에이전트",
+            "메모리",
+            "설계",
+            "무엇을",
+            "기억하고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:30.411Z",
+      "fetchedAt": "2026-11-07T23:25:55.398Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +536,7 @@
           "summaryKo": "Google, TikTok 및 Meta는 소셜 미디어 플랫폼에서 16세 미만의 어린이를 \"심리적으로 착취적인 기능\" 으로부터 보호하는 법률의 집행을 차단하기 위해 캘리포니아를 상대로 소송을 제기했습니다. 개빈 뉴섬 주지사는 지난 9월 의회 법안 1709에 서명했습니다. \"우리는 우리 아이들과 모든 캘리포니아 아이들이 자라기를 원합니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:30.515Z",
+      "fetchedAt": "2026-11-07T23:25:55.541Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:30.760Z",
+      "fetchedAt": "2026-11-07T23:25:55.793Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:30.813Z",
+      "fetchedAt": "2026-11-07T23:25:55.886Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -791,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:33.159Z",
+      "fetchedAt": "2026-11-07T23:25:58.132Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:33.348Z",
+      "fetchedAt": "2026-11-07T23:25:58.316Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -979,7 +978,7 @@
           "summaryKo": "Zipline은 $ 1.5 billion을 모금하고 Walmart와의 파트너십을 강화했습니다."
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:33.434Z",
+      "fetchedAt": "2026-11-07T23:25:58.412Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -987,6 +986,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[AI 시대 리더의 대화법] AI로 FAQ 40개 만들었는데 성과평가는 C…팀장은 무엇을 설명해야 할까",
+          "link": "https://www.venturesquare.net/1126531/",
+          "pubDate": "2026-11-07T22:43:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/5-resize-1536x821-1-789x422.png",
+          "summary": "AI를 활용하면 업무 경험이 부족한 직원도 완성도 높은 보고서와 기획서를 빠르게 만들 수 있지만, 결과물의 양과 품질이 반드시 높은 성과로 이어지는 것은 아니다. 김경민 리버스마운틴 대표는 FAQ 문서 40개를 작성하고도 C등급을 받은 직원의 사례를 통해 완료한 과업과... The post [AI 시대 리더의 대화법] AI로 FAQ 40개 만들었는데 성과평가는 C…팀장은 무엇을 설명해야 할까 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "칼럼",
+            "AI성과관리",
+            "AI시대리더의대화법",
+            "HR테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[김지현의 Scale-Up Note] 스케일업을 위한 회사의 목어(木魚)는 깨어 있는가",
           "link": "https://www.venturesquare.net/1126473/",
@@ -1058,27 +1075,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "기술보증기금·부산시·BNK금융그룹, 기후테크 기업에 150억원 금융지원",
-          "link": "https://www.venturesquare.net/1126260/",
-          "pubDate": "2026-11-06T04:11:53.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/261106-789x468.jpg",
-          "summary": "기술보증기금이 부산시, BNK금융그룹과 부산지역 기후테크 기업을 위한 150억원 규모의 금융지원 업무협약을 체결했다. 지원 대상은 부산에 본사 또는 주사업장을 두고 기보의 탄소가치평가보증 요건을 충족하는 중소기업이다. 기보는 최초 보증 취급 후 2년간 보증비율을 95%... The post 기술보증기금·부산시·BNK금융그룹, 기후테크 기업에 150억원 금융지원 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "BNK금융그룹",
-            "경남은행",
-            "기보",
-            "기술금융",
-            "기술보증기금"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:34.541Z",
+      "fetchedAt": "2026-11-07T23:25:59.377Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1138,23 +1137,6 @@
           "summaryKo": null
         },
         {
-          "title": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 - 농수축산신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LcmJUaENmUEJ4S1ZsTTVmelNjTXpIaVQ5amRFdFlpa2dzSTktOHNSd3NqUE5PVFEtZU8ta0F4d0xoclBmMVdPSi1xM0p3ZTVJY2x5a3RDUms5UXFMcGd5WHlPZnU5VjlHLTdEcw?oc=5",
-          "pubDate": "2026-11-06T01:07:40.000Z",
-          "image": null,
-          "summary": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 농수축산신문",
-          "keywords": [
-            "여수시",
-            "2027년",
-            "청년어촌정착",
-            "지원사업",
-            "참여자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "철원군 2027 스포츠강좌이용권 지원사업 대상자 모집 - 강원일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbi1mbE1IY3RYWHpQTXhQTDdUbnNiOS0tb2FoQjhBTFQ2Rm5ZUlVfWW5sTWJwRU03Vi12bkZzT3A4QXcwZ1h3S2Q5cVVGSzF0eVdiTzVpNVlvc1k?oc=5",
           "pubDate": "2026-11-05T04:31:26.000Z",
@@ -1170,9 +1152,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 - 전북도민일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzhqNEJZUnNwTW5HTFRsbGMtTXJZTVZKNWJkWjFuVFU0MUh5clhpM3BRT1laQ0ZvZkwzUGNHcEtRckl6VU9pMk4yTmZCMFRYcjhhQm5zN083NV9EZkJjUl9mZU5WNEFVbnV6RUVoLW9KVXB5SXVXS1VBNkhuVFRiYVluN1NlWGM?oc=5",
+          "pubDate": "2026-10-19T07:00:00.000Z",
+          "image": null,
+          "summary": "전북중기청, 2027년 전통시장 및 상점가 활성화 지원사업 공고 전북도민일보",
+          "keywords": [
+            "전북중기청",
+            "2027년",
+            "전통시장",
+            "상점가",
+            "활성화"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-07T18:28:34.973Z",
+      "fetchedAt": "2026-11-07T23:25:59.677Z",
       "error": null
     }
   },
@@ -1185,67 +1184,67 @@
       "change": "same"
     },
     {
-      "key": "민주당",
-      "label": "민주당",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 8,
-      "change": "new"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "2027년",
       "label": "2027년",
       "count": 2,
-      "rank": 9,
-      "change": "down"
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "글로벌진출",
       "label": "글로벌진출",
       "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "스타트업",
+      "label": "스타트업",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
