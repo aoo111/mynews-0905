@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-06T22:44:24.724Z",
+  "collectedAt": "2026-11-07T04:45:56.466Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,63 +41,63 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "조작기소특검법, 진보 정권의 ‘마진콜’이 되지 않기를 [논설실 Pick]",
+          "link": "https://www.mk.co.kr/news/economy/12201441",
+          "pubDate": "2026-11-07T04:05:24.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261107.16e7b84c8ac34c07bbd2fec158eca705_R.jpg",
+          "summary": "본전 찾으려다 모든 것 잃는 오류 특검법, 손실회피성 위험한 물타기 판돈 잃은 겜블러 같은 권력의 초조함대니얼 카너먼. 어제(6일) 범여권의 조작기소특별검사법 강행 처리를 보며 기..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니",
+          "link": "https://www.mk.co.kr/news/realestate/12201431",
+          "pubDate": "2026-11-07T02:04:10.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261107.9a79bd1b9a5f4c1b8c4e809fd5c3e02a_R.png",
+          "summary": "서울 월계·정릉·길음 등 상승세 지속서울 아파트 매매시장에서 강남권은 내리막을 걷는 반면 외곽 지역은 가파르게 치솟는 이른바 ‘디커플링(탈동조화)’ 현상이 뚜렷하다. 수십억 원대 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“美 중간선거 후폭풍, 데이터센터 제동에”…13.6조 원전 ‘선급금’ 논란",
+          "link": "https://www.mk.co.kr/news/economy/12201386",
+          "pubDate": "2026-11-07T00:13:19.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261107.a4c598a86cbe4a5aadb1d5a359585aad_R.jpg",
+          "summary": "미국 중간선거에서 민주당이 승리하며 인공지능(AI) 데이터센터 규제 강화를 예고한 가운데 최대 100억 달러(약 13조6000억원) 규모의 한미 원전 투자 선급금 지급 문제를 두고..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 은행, 반도체·배터리 기업 재무평가 우대한다",
+          "link": "https://www.mk.co.kr/news/economy/12201384",
+          "pubDate": "2026-11-07T00:01:37.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261106.c4e63daf9bae4761801e7c3a8f7bfec3_R.png",
+          "summary": "당국, 대기업집단 재무평가 개선 전략산업 성장·특수성 반영키로 기업 재무개선 요구 부담 덜 듯앞으로 인공지능(AI), 반도체, 배터리 등 대규모 설비투자로 빚 부담이 큰 전략산업 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
           "link": "https://www.mk.co.kr/news/economy/12201367",
           "pubDate": "2026-11-06T22:42:58.000Z",
           "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261107.112015a6b1f04a4a99ee457e426f4172_R.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
-          "link": "https://www.mk.co.kr/news/economy/12201283",
-          "pubDate": "2026-11-06T20:59:47.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261106.421300e538ea444cbab9f60bd8f1ebb3_R.png",
-          "summary": "보험료부담 4년새 60% 증가 질병·간병 대비해 보험 가입 수입 적어 생활비 부담 가중60세 이상 고령 1인 가구의 보험료 지출이 4년 새 60% 넘게 증가한 것으로 나타났다. 같..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "“고객님, 원가 너무 올라서” 하며 가격 올리더니…재료값 떨어져도 그대로?",
-          "link": "https://www.mk.co.kr/news/economy/12201282",
-          "pubDate": "2026-11-06T20:59:27.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/07/news-p.v1.20261106.4654d52872774e46bb89f11f8ec0d077_R.png",
-          "summary": "공정위, 독과점규제 손질 해외시장서 판매하는 상품 국내서만 비싸게 팔때도 철퇴앞으로 독과점 사업자가 해외에 비해 국내에서 부당하게 가격을 높게 책정하는 등 폭리를 취하는 행위가 금..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”",
-          "link": "https://www.mk.co.kr/news/world/12200962",
-          "pubDate": "2026-11-06T12:44:44.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20261106.97f453773f634cea99bd2be1d90eb2da_R.png",
-          "summary": "성장전략회의서 투자계획 밝혀 ETF 매각 속도 2.6배로 높여 추가 이익으로 첨단산업 육성 가교국채 발행해 자금 선조달 2040년까지 민관 370조엔 투자일본 정부가 중앙은행인 일..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] 농협개혁 속도…경제지주 해체 추진",
-          "link": "https://www.mk.co.kr/news/economy/12200828",
-          "pubDate": "2026-11-06T10:58:51.000Z",
-          "image": null,
-          "summary": "농협하나로유통 등을 계열사로 두고 있는 농협경제지주가 지역농협 중심의 농협경제연합회로 전환될 전망이다. 농협중앙회가 100% 보유한 경제지주 지분을 일선 조합에 넘겨 '중앙회·..",
+          "summary": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:08.070Z",
+      "fetchedAt": "2026-11-07T04:45:44.975Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:08.142Z",
+      "fetchedAt": "2026-11-07T04:45:45.029Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217091",
-          "pubDate": "2026-11-07T07:00:00.000Z",
+          "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217126",
+          "pubDate": "2026-11-07T10:57:42.000Z",
           "image": null,
-          "summary": "AI에 다른 AI의 안전성을 높이기 위한 연구를 맡겼더니 일부 작업을 제대로 수행하지 않고도 그 사실을 알리지 않는 현상이 발견됐습니다. 여기에 안전하게 행동하라는 지시까지 추가하자 성능이 더 떨어졌습니다. 특히 이전 모델에서는 거의 나타나지 않았던 현상이 최신 모델에서 두드러지면서, AI가 발전할수록 예상하지 못한 행동이 나타날 수 있다는 문제가 제기됐습니다.오픈AI는 4일(현지시간) 공식 연구 보고서를 통해 'GPT-6 아스트라'가 AI 안전 연구에서 일부 작업을 제대로 수행하지 않는 현상을 확인했다고 밝혔습니다. 이 문제는 오",
+          "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 후보들이 잇따라 승리한 데 이어 유럽에서도 데이터센터 반대 운동이 본격화하고 있다. 유럽 16개국의 시민단체 100여곳이 데이터센터 건설 중단을 요구하는 공동 행동에 나섰으며, 네덜란드에서는 시위대가 마이크로소프트(MS)의 AI 데이터센터 건설 현장에 진입하는 사태까지 벌어졌다.로이터와 가디언 등은 6일(현지시간) 네덜란드 암스테르담에서 시위대가 MS의 AI 데이터센터 건설 현장에 진입했다고 보도했다. 일부 참가자는 울타리를 넘어 크레인에 올라가 현수막을 걸고 조명탄을 터뜨렸다. AP에",
           "keywords": [
-            "11월6일",
-            "AI에",
-            "AI",
-            "안전",
-            "맡겼더니"
+            "유럽",
+            "16개국서",
+            "데이터센터",
+            "반대",
+            "공동"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-          "pubDate": "2026-11-06T17:44:08.000Z",
+          "title": "[내면 지도 그리기] 41 Inner Mapping: 나를 찾는 지도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217125",
+          "pubDate": "2026-11-07T10:44:58.000Z",
           "image": null,
-          "summary": "구글 출신 연구진이 설립한 리커시브 인텔리전스(Ricursive Intelligence)가 매개변수 규모가 8배 가까이 큰 AI 모델을 코딩 성능 평가에서 앞서는 오픈웨이트 모델을 공개했다. 기존 선두 모델보다 개발 비용은 약 10분의 1에 불과하다고 밝혀, 대형 모델에 맞먹는 성능을 적은 비용으로 구현한 사례로 주목받고 있다.리커시브 인텔리전스는 최근 650억개 매개변수를 갖춘 오픈웨이트 AI 모델 '리플-65B 프리뷰(Ripple-65B Preview)'를 공개했다. 터미널 기반 코딩과 복잡한 소프트웨어 개발 작업을 평가하는 두",
+          "summary": "먼저 물어본 동네아일랜드의 노년 창작 실험으로 다시 그리는 내면과 동네의 문화 지도우리 동네의 지도를 그린다면, 무엇이 먼저 표시될까요?아마 도서관, 문화센터, 공연장, 박물관일 것입니다. 건물이 있고, 간판이 있고, 프로그램 안내문이 붙은 곳들이지요. 지도에는 대개 지금 있는 것만 표시됩니다. 헐린 담장, 문 닫은 가게, 더는 아무도 다니지 않는 골목은 지워지지요. 하지만 모든 지도는 겹쳐져 있습니다. 터, 이름, 간판, 사람... 겹치고 쌓여서 지금에 이른것이지요.다만 묻혀있는 것. 덮여있는 것.2022년 여름, 아일랜드에서 이",
           "keywords": [
-            "구글",
-            "출신",
-            "연구진",
-            "65B",
-            "모델로"
+            "내면",
+            "지도",
+            "그리기",
+            "41",
+            "Inner"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217096",
-          "pubDate": "2026-11-06T17:25:00.000Z",
+          "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217117",
+          "pubDate": "2026-11-07T10:44:21.000Z",
           "image": null,
-          "summary": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한 시간과 비용, 인허가 부담을 줄이고 기존 통신시설에 남아 있는 전력과 통신 인프라를 활용하려는 전략이다.디 인포메이션은 5일(현지시간) 엔비디아가 사모펀드 아폴로 글로벌 매니지먼트와 손잡고 아폴로가 소유한 광대역 통신업체 브라이트스피드(Brightspeed)의 기존 시설을 AI 데이터센터로 전환하는 방안을 논의하고 있다고 보도했다.브라이트스피드는 미국 전역에 음성·데이터 통",
+          "summary": "오픈AI가 기업가치 1조2500억달러(약 1704조원)를 인정받으며 110억달러(약 15조원)의 신규 투자를 유치했다. 그러나 AI 투자심리 악화로 당초 300억달러 이상이었던 자금 조달 목표를 최대 200억달러로 낮췄다.블룸버그는 6일(현지시간) 복수의 소식통을 인용해 오픈AI가 110억달러의 투자금을 입금받으며 이번 투자 라운드의 첫 단계를 마무리했다고 보도했다.전체 투자 규모는 최대 200억달러까지 늘어날 수 있으며, 나머지 자금은 향후 몇 주 안에 확보할 것으로 예상된다.오픈AI는 당초 기업가치 1조4000억달러(약 1909",
           "keywords": [
+            "오픈AI",
+            "15조",
+            "투자",
+            "유치",
+            "목표는"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217123",
+          "pubDate": "2026-11-07T10:19:37.000Z",
+          "image": null,
+          "summary": "세계 최대 파운드리 업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 생산을 검토하고 있다. 실제 사업에 진출하면 삼성전자와 SK하이닉스, 마이크론이 주도하는 메모리 시장에 새로운 경쟁자가 등장하게 된다.디 인포메이션은 6일(현지시간) 사안에 정통한 소식통 2명을 인용해 TSMC가 최근 최대 고객사인 엔비디아의 요청에 따라 3D D램 생산 계획을 수립하기 시작했다고 보도했다.이번 움직임은 AI 반도체 수요 급증으로 메모리 공급 부족이 심화하면서 나왔다. D램 가격이 크게 오르자, 엔비디아와 애플 등 주요 반도체 설계",
+          "keywords": [
+            "TSMC",
             "엔비디아",
-            "미국",
-            "노후",
-            "전화국",
-            "130곳"
+            "요청에",
+            "3D",
+            "D램"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217080",
-          "pubDate": "2026-11-06T17:21:04.000Z",
+          "title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217119",
+          "pubDate": "2026-11-07T10:03:29.000Z",
           "image": null,
-          "summary": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속에 대한 독립 평가 보고서를 공개하고, 지난해 10월 이후 앤트로픽의 모델 성능 개선 속도가 이전보다 약 1.9배 빨라졌다고 밝혔다. 이는 과거 약 2년 동안 이뤄졌던 수준의 성능 향상을 최근에는 1년 만에 달성했다는 의",
+          "summary": "오픈AI가 미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 압승했음에도 AI 인프라 확장 계획을 유지하겠다고 밝혔다. 지역사회의 반발과 규제 강화 가능성이 커졌지만, 급증하는 AI 수요에 대응하려면 데이터센터 투자가 불가피하다는 입장이다.사라 프라이어 오픈AI CFO는 6일(현지시간) CNBC와의 인터뷰에서 \"중간선거 결과를 생각할 때도 고객 수요를 충족하기 위해 어떻게 투자를 지속할지 고민해야 한다\"고 말했다. 이어 \"필요한 컴퓨팅 자원을 확보할 수 있도록 지역사회와 관계를 구축하는 작업을 계속할 것\"이라고 강조했다.이번 중",
           "keywords": [
-            "앤트로픽",
-            "AI",
-            "자기개선",
-            "가속",
-            "징후"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "앤트로픽, '클로드' 게임 복제 제한 완화…\"비슷한 게임 만들 수 있어\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217115",
-          "pubDate": "2026-11-06T17:10:00.000Z",
-          "image": null,
-          "summary": "앤트로픽이 '클로드 코드'의 게임 복제 금지 조치를 완화했다. 기존 게임을 그대로 복제하는 것은 계속 금지하지만, 특정 게임을 참고해 비슷한 장르의 독창적인 게임을 만드는 작업은 허용하기로 했다.앤트로픽은 4일(현지시간) 최근 게임 개발 관련 요청을 지나치게 제한한다는 이용자들의 지적에 따라 '클로드 오퍼스 5.5'의 지침을 수정했다. 기존 게임의 복제를 요청받더라도 단순히 거부하는 대신, 같은 장르의 새로운 게임을 제작하도록 제안하는 방식이다.애디 오스마니 앤트로픽 기술 담당자는 X를 통해 \"지난주 클로드 코드가 정상적으로 제작해",
-          "keywords": [
-            "앤트로픽",
-            "클로드",
-            "게임",
-            "복제",
-            "제한"
+            "오픈AI",
+            "CFO",
+            "중간선거",
+            "결과와",
+            "관계없이"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:09.271Z",
+      "fetchedAt": "2026-11-07T04:45:46.140Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다."
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:12.986Z",
+      "fetchedAt": "2026-11-07T04:45:46.288Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "2000년대 초, 게임을 만드는 아이로 산다는 것",
-          "link": "https://news.hada.io/topic?id=36724&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T21:40:50.000Z",
+          "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
+          "link": "https://news.hada.io/topic?id=36738&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T02:52:06.000Z",
           "image": null,
-          "summary": "The Games Factory는 대규모 전문가 팀만 게임을 만들 수 있다고 생각하던 어린 Jay Tholen에게 직접 가상 세계를 만드는 길을 열어줌 학교생활의 어려움과 잦은 이사 속에서 Klik 커뮤니티가 사회생활의 중심이 됐고, 게임과 그림을 공유하며 인정받고 싶다는 마음이 창작을 이끌었음 2001~2003년 여러 게임을 공개했지만, 기본 이동 기능의 버그와 부족한 구현 지식 때문에 프로젝트를 중단하거나 미완성 버전을 배포하는 일이 반복됨 온라인 동료와 더 큰 게임을 시도했으나 개인 사정과 컴퓨터 사용 제한으로 작업이 줄었고, Full Sa …",
+          "summary": "HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다. 무엇을 하나 잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다. 휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소 1분). 적립된 시간 동안만 잠근 앱을 쓸 수 있고, 시간이 다 되 …",
           "keywords": [
-            "2000년대",
-            "게임을",
-            "만드는",
-            "아이로",
-            "산다는"
+            "Show",
+            "GN:",
+            "RepUnlock",
+            "카메라로",
+            "스쿼트를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
-          "link": "https://news.hada.io/topic?id=36723&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T21:37:50.000Z",
+          "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
+          "link": "https://news.hada.io/topic?id=36737&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T02:40:03.000Z",
           "image": null,
-          "summary": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
+          "summary": "코딩 에이전트를 쓰다 보면 어제 정한 걸 오늘 세션에서 다시 설명하게 됩니다. \"테스트는 pytest로\", \"이 레포는 마이그레이션 손으로 작성\", \"그 방식은 지난주에 해 봤는데 안 됐음\" 같은 것들이요. 에이전트를 바꾸면(Claude Code → Codex) 처음부터 다시입니다. Heirmos는 이걸 자동으로 이어 주는 기억 레이어입니다. ■ 하는 일 세션이 끝나거나 컨텍스트가 압축될 때 대화에서 결정·선호·규칙만 뽑아 저장 다음 세션 시작 시 \"이 레포에서 전에 정한 것\"을 에이전트 컨텍스트에 자동 주입 작업 중엔 에이전트가 MCP로 지난 결 …",
           "keywords": [
-            "생존의",
-            "한계를",
-            "넘어",
-            "살아가기:",
-            "거대한"
+            "Show",
+            "GN:",
+            "Heirmos",
+            "Claude",
+            "Code와"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Ask HN: Ubuntu는 도대체 왜 이렇게 오래 걸리는 건가요?",
-          "link": "https://news.hada.io/topic?id=36722&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T20:37:23.000Z",
+          "title": "Libghostty 1.0 - 터미널 에뮬레이션 C 라이브러리와 ABI 안정화",
+          "link": "https://news.hada.io/topic?id=36736&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T02:33:31.000Z",
           "image": null,
-          "summary": "Ubuntu가 CVE-2026-98432 의 심각도를 9.8로 표시했지만, 거의 일주일째 수정 업데이트 없이 “work in progress” 상태이며 이제는 완화 조치가 안내되어 있음 완화 조치를 적용한 지 일주일이 됐지만, 대응 지연으로 Ubuntu에 대한 신뢰가 흔들리고 있음. 지원하는 커널이 너무 많은지, 빌드/테스트 파이프라인의 자동화가 부족한지, 엔지니어들이 과부하 상태인지 등 지연 이유를 알고 싶어 함 오랫동안 OS 업데이트 유지가 공격자를 막는 중요한 수단이었지만 상황이 달라지고 있다고 느낌. 보안 문제가 훨씬 더 많아질 것으로 예상하며, 지금도 대응을 따라가지 못한다면 앞으로 6개월 뒤에는 어떻게 될지 우려함 …",
+          "summary": "Ghostty의 코어에서 분리한 터미널 에뮬레이션 C 라이브러리 libghostty-vt가 1.0에 도달했으며, 라이브러리와 C ABI 모두 안정화됨 JetBrains IDE 터미널에 이미 적용됐고, Neovim의 libvterm 대체 PR도 승인된 상태임. 무료 및 상용 제품 수백 개에서 사용되며 TUI 렌더링과 퍼징에도 활용됨 시맨틱 버저닝과 엄격한 ABI 호환성을 보장하며, API 설계와 CI 검증, 심볼 버전 관리로 배포판 패키징과 동적 링크를 지원함 MIT 라이선스이며 기본 런타임 의존성은 libc뿐임. Linux, macOS, Windows, 모바일, WebAssembly 등을 지원함 앞으로 …",
           "keywords": [
-            "Ask",
-            "HN:",
-            "Ubuntu는",
-            "도대체",
-            "이렇게"
+            "Libghostty",
+            "터미널",
+            "에뮬레이션",
+            "라이브러리와",
+            "ABI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 FAA, 2028년까지 항공교통관제에서 플로피 디스크 단계적 퇴출 계획",
-          "link": "https://news.hada.io/topic?id=36721&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T20:34:22.000Z",
+          "title": "Rune: macOS, Windows, Linux, 웹을 위한 네이티브 GPU 렌더링 Rust UI 프레임워크",
+          "link": "https://news.hada.io/topic?id=36735&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T01:38:06.000Z",
           "image": null,
-          "summary": "미국 연방항공청(FAA)이 전국 400곳 이상의 항공교통관제 시설에서 기상 등 핵심 정보 처리에 사용하는 플로피 디스크를 2028년 말까지 교체할 계획임 Enterprise Information Display System이 1980년대부터 사용한 시스템 4개를 대체하고, 관제사가 운항 정보를 한곳에서 확인하며 중요 경보를 즉시 공유할 수 있도록 할 예정임 노후 관제 시스템 개선을 위해 의회가 125억 달러를 승인했으며, Sean Duffy 교통부 장관은 추가 개선에 300억 달러를 더 원하고 있음 최근 광케이블 절단과 통신 장애로 항공편 지연과 결항이 발생했으며, …",
+          "summary": "Rune은 자체 렌더러, 텍스트 처리, 레이아웃, 스프링을 갖춘 Rust UI 프레임워크로, macOS, Windows, Linux와 웹을 지원함 모든 앱을 헤드리스 모드로 실행할 수 있어 에이전트가 PNG 렌더링, 요소 트리 출력, 스크립트 입력을 통한 조작을 수행할 수 있음 코딩 에이전트가 예제와 문서를 출발점으로 앱을 만들고, 헤드리스 실행으로 자신의 작업 결과를 확인하는 개발 흐름을 안내함 현재 정식 출시 전 단계로, 사용 시 dev 브랜치의 특정 리비전을 고정해야 하며 dev의 이력은 재작성하지 않음 풀 리퀘스트는 받지 않으며, 에이전트가 …",
           "keywords": [
-            "미국",
-            "FAA",
-            "2028년까지",
-            "항공교통관제에서",
-            "플로피"
+            "Rune:",
+            "macOS",
+            "Windows",
+            "Linux",
+            "웹을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "이제 모든 것이 AI 사기다",
-          "link": "https://news.hada.io/topic?id=36720&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-06T19:36:38.000Z",
+          "title": "Firecracker VM 탈출: PwnEscape 2부",
+          "link": "https://news.hada.io/topic?id=36734&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-07T01:35:06.000Z",
           "image": null,
-          "summary": "20일 만에 근육질 몸을 만든다는 태극권, 무제한 무료 인터넷 USB, 방을 90초 만에 식힌다는 책 크기의 에어컨까지, YouTube에 비현실적인 효능을 내세운 광고가 이어짐 스팸 메일도 작품 소개 문구를 재활용해 실제로 읽고 감상한 듯한 제안을 보내옴. 무료 PDF로 배포하는 시집에 평점과 마케팅을 들먹이며 접근한 메일도 있었음 대부분의 사람이 가짜임을 알아채더라도 아주 적은 비율만 속이면 사기꾼은 비용을 회수할 수 있음. 창작자 자신의 말을 되비추는 개인화된 접근은 더 많은 사람을 끌어들일 우려가 있음 플랫폼은 설득력 없 …",
+          "summary": "기존에 확보한 호스트 메모리 접근 수단으로 게스트 내부에서 호스트의 Firecracker 스레드를 장악하고 호스트 root 권한으로 코드를 실행함 KVM_RUN 복귀 시점을 겨냥해 커널에 저장된 사용자 공간 레지스터를 변경하고, 지정한 함수와 인자로 Firecracker가 실행을 이어가도록 함 게스트 페이지의 식별 패턴을 출발점으로 EPT와 호스트 페이지 테이블을 추적해 Firecracker 주소 공간, ASLR 적용 위치, 활성 vCPU의 저장 레지스터를 찾아냄 Firecracker의 표준 오류에 8바이트 식별 문자열을 출력한 뒤 임시 스택 변경을 복원했으며, 프 …",
           "keywords": [
-            "이제",
-            "모든",
-            "것이",
-            "AI",
-            "사기다"
+            "Firecracker",
+            "VM",
+            "탈출:",
+            "PwnEscape",
+            "2부"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:13.559Z",
+      "fetchedAt": "2026-11-07T04:45:46.897Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -454,6 +454,42 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Have you heard? Ethan and Hila’s divorce, Harvard’s creator summit, and Brandon Herrera’s defeat.",
+          "link": "https://www.tubefilter.com/2026/11/06/have-you-heard-ethan-hila-klein-harvard-creator-brandon-herrera/",
+          "pubDate": "2026-11-06T23:55:11.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/brandon-herrera.jpg",
+          "summary": "Each week, we handpick a selection of stories to give you a snapshot of trends, updates, business moves, and more from around the creator industry. This week, infidelity is bringing an end to a high-profile creator marriage, the Ivy League is hosting a new kind of summit, and we're still waiting for the first creator in Congress. Creator commotion Hila Klein files for divorce as Ethan's affair becomes public. The Kleins were well known as co-hosts of a podcast and YouTube channel, but Ethan is b",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "alex cooper",
+            "brandon herrera"
+          ],
+          "isForeign": true,
+          "titleKo": "들어보셨나요? 이단과 힐라의 이혼, 하버드의 크리에이터 정상회담, 브랜든 에레라의 패배.",
+          "summaryKo": "매주 Patreon은 다양한 스토리를 엄선하여 크리에이터 업계의 트렌드, 업데이트, 비즈니스 활동 등을 간략하게 소개합니다. 이번 주, 불륜은 유명 크리에이터와의 결혼을 끝내고, 아이비 리그는 새로운 종류의 서밋을 개최하며, 우리는 여전히 의회에서 첫 번째 크리에이터를 기다리고 있습니다. 크리에이터 소동 힐라 클라인 (Hila Klein) 은 이단 사건이 공개됨에 따라 이혼 소송을 제기합니다. 클라인스는 팟캐스트와 유튜브 차의 공동 호스트로 잘 알려져 있습니다."
+        },
+        {
+          "title": "UTA, FaZe vets launch ISO as a “new partner for talent”",
+          "link": "https://www.tubefilter.com/2026/11/06/iso-new-talent-management-agency-faze-uta-execs/",
+          "pubDate": "2026-11-06T22:50:16.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/iso-talent.jpg",
+          "summary": "A new talent firm is launching with a stacked roster of luminaries from the worlds of streaming, social media, and content creation. Mike Lee and Darren Yan are the leaders of ISO, which is kicking off with a roster of 90 top creators. ISO (the name stands for \"in search of\") is a wide-reaching management firm that touch categories like beauty, food, and art, but its roots are deepest in the gaming and streamer communities. Lee, who will serve as ISO's CEO, was previously the Head of Gaming and ",
+          "keywords": [
+            "Articles",
+            "Featured",
+            "Homepage Feature",
+            "News",
+            "darren yan",
+            "iso"
+          ],
+          "isForeign": true,
+          "titleKo": "UTA, FaZe VETS, \"인재를 위한 새로운 파트너\" 로 ISO 출범",
+          "summaryKo": "새로운 인재 회사가 스트리밍, 소셜 미디어 및 콘텐츠 제작 분야의 유명 인사 명단을 쌓아 출시합니다. 마이크 리 (Mike Lee) 와 대런 얀 (Darren Yan) 은 최고 크리에이터 90명으로 구성된 ISO의 리더입니다. ISO (\"in search of\" 의 약자) 는 뷰티, 음식 및 예술과 같은 카테고리를 다루는 광범위한 관리 회사이지만 게임 및 스트리머 커뮤니티에 뿌리를 두고 있습니다. ISO의 CEO를 역임할 Lee는 이전에"
+        },
         {
           "title": "The E.U. wants a new For You Page so that its citizens don’t get stuck in TikTok rabbit holes",
           "link": "https://www.tubefilter.com/2026/11/06/european-union-eu-digital-services-act-tiktok-for-you-page-fyp/",
@@ -500,40 +536,9 @@
           "isForeign": true,
           "titleKo": "Google, TikTok 및 Meta는 캘리포니아에 16세 미만의 어린이를 위한 \"심리적 착취 기능\" 을 금지하는 법을 중단하도록 소송을 제기하고 있습니다.",
           "summaryKo": "Google, TikTok 및 Meta는 소셜 미디어 플랫폼에서 16세 미만의 어린이를 \"심리적으로 착취적인 기능\" 으로부터 보호하는 법률의 집행을 차단하기 위해 캘리포니아를 상대로 소송을 제기했습니다. 개빈 뉴섬 주지사는 지난 9월 의회 법안 1709에 서명했습니다. \"우리는 우리 아이들과 모든 캘리포니아 아이들이 자라기를 원합니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
-        },
-        {
-          "title": "YouTube’s biggest creators join forces to support the Susan Wojcicki Foundation’s critical mission: changing the conversation about lung cancer",
-          "link": "https://www.tubefilter.com/2026/11/05/youtube-creators-susan-wojcicki-foundation-youtube-channel-launch-lung-cancer-research/",
-          "pubDate": "2026-11-06T00:16:33.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/susan.png",
-          "summary": "In August 2024, YouTube‘s former longtime CEO, Susan Wojcicki, passed away at age 56. She battled non-small-cell lung cancer for two years and left behind one heck of a legacy. Now Susan’s husband Dennis Troper and her sisters, Dr. Janet Wojcicki and Anne Wojcicki, have teamed up with professionals in clinical research, AI, diagnostics, and […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature"
-          ],
-          "isForeign": true,
-          "titleKo": "YouTube의 가장 큰 크리에이터들이 힘을 합쳐 폐암에 대한 대화를 바꾸는 Susan Wojcicki 재단의 중요한 임무를 지원합니다.",
-          "summaryKo": "2024년 8월, YouTube의 전 CEO인 Susan Wojcicki는 56세의 나이로 세상을 떠났습니다. 그녀는 2년 동안 비소세포 폐암과 싸웠고 한 가지 유산을 남겼습니다. 이제 Susan의 남편 Dennis Troper와 자매인 Janet Wojcicki 박사와 Anne Wojcicki는 임상 연구, AI, 진단 분야의 전문가들과 협력하여 […] Tubefilter를 방문하여 더 많은 훌륭한 이야기를 들을 수 있습니다."
-        },
-        {
-          "title": "TikTok Shop now has a standalone app in four Southeast Asian markets",
-          "link": "https://www.tubefilter.com/2026/11/05/tiktok-shop-standalone-app-southeast-asia-ecommerce/",
-          "pubDate": "2026-11-05T23:26:25.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/tiktok-shop-app.jpg",
-          "summary": "According to one estimate, the ecommerce market in Southeast Asia will generate $226 billion of gross merchandise value in 2026. TikTok Shop already accounts for a sizable chunk of that GMV, but ByteDance's ecommerce hub is looking to increase the size of its market share. With the launch of a standalone Shop app, TikTok will position itself to compete more directly with retailers like Shein and Temu. Android and iOS versions of the standalone TikTok Shop app have arrived in Singapore, Malaysia,",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "TikTok Shop",
-            "ecommerce"
-          ],
-          "isForeign": true,
-          "titleKo": "이제 TikTok Shop은 동남아시아 4개 시장에 독립 실행형 앱을 제공합니다.",
-          "summaryKo": "한 추정에 따르면, 동남아시아의 전자상거래 시장은 2026년 $ 226억의 총 상품 가치를 창출할 것입니다. TikTok Shop은 이미 GMV의 상당 부분을 차지하고 있지만 ByteDance의 전자 상거래 허브는 시장 점유율의 크기를 늘리고자 합니다. TikTok은 독립형 Shop 앱을 출시함으로써 Shein 및 Temu와 같은 소매업체와 더 직접 경쟁할 수 있는 입지를 확보할 것입니다. Android 및 iOS 버전의 독립 실행형 TikTok Shop 앱이 출시되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:17.095Z",
+      "fetchedAt": "2026-11-07T04:45:51.312Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -607,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:17.227Z",
+      "fetchedAt": "2026-11-07T04:45:51.513Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -688,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:17.280Z",
+      "fetchedAt": "2026-11-07T04:45:51.547Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -787,7 +792,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:19.696Z",
+      "fetchedAt": "2026-11-07T04:45:53.875Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -878,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:19.866Z",
+      "fetchedAt": "2026-11-07T04:45:54.127Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -975,7 +980,7 @@
           "summaryKo": "Zipline은 $ 1.5 billion을 모금하고 Walmart와의 파트너십을 강화했습니다."
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:21.439Z",
+      "fetchedAt": "2026-11-07T04:45:54.190Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -983,6 +988,24 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "[김지현의 Scale-Up Note] 스케일업을 위한 회사의 목어(木魚)는 깨어 있는가",
+          "link": "https://www.venturesquare.net/1126473/",
+          "pubDate": "2026-11-06T23:00:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SCALEUP-NOTE-1536x806-1-789x414.jpg",
+          "summary": "빠르게 성장하는 기업일수록 주문과 배송, 고객 응대 과정에서 미처 발견하지 못한 운영의 사각지대가 생길 수 있다. 김지현 JiHyun & Company 대표는 평소 애용하던 밀키트 업체에서 겪은 경험을 바탕으로 스타트업이 성장 과정에서 점검해야 할 운영 체계를 짚는다.... The post [김지현의 Scale-Up Note] 스케일업을 위한 회사의 목어(木魚)는 깨어 있는가 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "ScaleUpNote",
+            "고객경험",
+            "고객충성도",
+            "고객피드백"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "경남창조경제혁신센터, 창업도약기업 IR 경진대회 개최…아라메소재 등 5개사 수상",
           "link": "https://www.venturesquare.net/1126470/",
@@ -1054,27 +1077,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "대전창조경제혁신센터, 일본 VC 대전 초청…딥테크 스타트업 5개사 투자·기술협력 논의",
-          "link": "https://www.venturesquare.net/1126257/",
-          "pubDate": "2026-11-06T04:09:27.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/2-696x522.jpeg",
-          "summary": "대전창조경제혁신센터가 일본 벤처캐피털과 금융기관 관계자를 초청해 '14th GLOBAL CONNECT DAY 2026 – JAPAN'을 개최했다. 이번 행사는 지난 7월 후쿠오카에서 진행된 'K-Bio Connect 2026'의 후속 교류로, 한·일 양국 관계자 27명... The post 대전창조경제혁신센터, 일본 VC 대전 초청…딥테크 스타트업 5개사 투자·기술협력 논의 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "KOTRA",
-            "POC",
-            "글로벌액셀러레이팅",
-            "글로벌진출",
-            "글로벌커넥트데이"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:22.637Z",
+      "fetchedAt": "2026-11-07T04:45:55.303Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1082,23 +1087,6 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
-        {
-          "title": "남양주시, '2027년 소규모 공동주택 보수지원 사업' 대상 모집 - 매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EbmdQNk4yVzQxTmxUZDNvZTRfSnBVSXBHUEFCM1NMbDJIbngyaXhkbXV5Zm9OQ3dOUE1ZejlEcC1zSXBlRjlGdnJneV9hYmxnNTV3REg3a0pnWUxFbHNOWEZFdlE?oc=5",
-          "pubDate": "2026-11-06T04:33:59.000Z",
-          "image": null,
-          "summary": "남양주시, '2027년 소규모 공동주택 보수지원 사업' 대상 모집 매일일보",
-          "keywords": [
-            "남양주시",
-            "2027년",
-            "소규모",
-            "공동주택",
-            "보수지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
         {
           "title": "화순군, 지역자원 연계형 청년창업 지원사업 참여자 추가 모집 - 웰페어뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nNHBUVWlqWUs3OGRGSldlb010NHR5MkxCU2R4WHItY2JPVzZJZDNFV005WmItZ2Z4UUlZV0VXSWJ4YTVRTU1ZcXBzRDNOZ3VkbXZiYjloSGdOd2VhR2Z1R2JOYmVVN0g2ZEhmOEV6bw?oc=5",
@@ -1117,17 +1105,34 @@
           "summaryKo": null
         },
         {
-          "title": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 - 농수축산신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LcmJUaENmUEJ4S1ZsTTVmelNjTXpIaVQ5amRFdFlpa2dzSTktOHNSd3NqUE5PVFEtZU8ta0F4d0xoclBmMVdPSi1xM0p3ZTVJY2x5a3RDUms5UXFMcGd5WHlPZnU5VjlHLTdEcw?oc=5",
-          "pubDate": "2026-11-06T01:07:40.000Z",
+          "title": "HUG, 중소기업 전문가 상담·자문 참여기업 모집 - 글로벌뉴스통신GNA",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55NlVXNHVOOE5jeG1VZFdLNEdPZjUzM1RwSEpISUszUVpFQWs5LWlMSm5HWVNZZ1c1OUxUVE1vUXMwQlZ3UF9nRm5melZoQlYwUkNFaDVqSkIxaDJXcEN1TlBhRkRCc09jdXo4SldscWUzZnY1?oc=5",
+          "pubDate": "2026-11-06T21:40:31.000Z",
           "image": null,
-          "summary": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 농수축산신문",
+          "summary": "HUG, 중소기업 전문가 상담·자문 참여기업 모집 글로벌뉴스통신GNA",
           "keywords": [
-            "여수시",
+            "HUG",
+            "중소기업",
+            "전문가",
+            "상담",
+            "자문"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "남양주시, '2027년 소규모 공동주택 보수지원 사업' 대상 모집 - 매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EbmdQNk4yVzQxTmxUZDNvZTRfSnBVSXBHUEFCM1NMbDJIbngyaXhkbXV5Zm9OQ3dOUE1ZejlEcC1zSXBlRjlGdnJneV9hYmxnNTV3REg3a0pnWUxFbHNOWEZFdlE?oc=5",
+          "pubDate": "2026-11-06T04:33:59.000Z",
+          "image": null,
+          "summary": "남양주시, '2027년 소규모 공동주택 보수지원 사업' 대상 모집 매일일보",
+          "keywords": [
+            "남양주시",
             "2027년",
-            "청년어촌정착",
-            "지원사업",
-            "참여자"
+            "소규모",
+            "공동주택",
+            "보수지원"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1151,97 +1156,97 @@
           "summaryKo": null
         },
         {
-          "title": "여수시, '청년 어촌 정착 돕는다'…청년어촌정착 지원사업 참여자 모집 - 데일리한국",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lWkFvajlXQzdDd0xTZDcyeXRXYkMzS1JYdnk4ZlFhRnFSZEUwVWtKZVh1Y2NkZVZGWWkwVkU4Mk5NMVNCSGJvbVJqaXpXbnVuNTBEN0x4dlBSbkthcGpIUXlpbk9DN2VhOGNqQzRZd9IBc0FVX3lxTE03TFNNS3d2c1lCSk5mMmlXRmgza3IyYnJlMHdPTjNjM3ZvTF9PMlpyY29pcW9kbUxqcVdUb1ZIeDZRa0ZJYUtoRG10dzRIZXByOF9hTjFVWlhVQlhnU1JSZ2J3Z1dvNGJxZGJuUm9semhOZU0?oc=5",
-          "pubDate": "2026-11-06T08:04:01.000Z",
+          "title": "철원군 2027 스포츠강좌이용권 지원사업 대상자 모집 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbi1mbE1IY3RYWHpQTXhQTDdUbnNiOS0tb2FoQjhBTFQ2Rm5ZUlVfWW5sTWJwRU03Vi12bkZzT3A4QXcwZ1h3S2Q5cVVGSzF0eVdiTzVpNVlvc1k?oc=5",
+          "pubDate": "2026-11-05T04:31:26.000Z",
           "image": null,
-          "summary": "여수시, '청년 어촌 정착 돕는다'…청년어촌정착 지원사업 참여자 모집 데일리한국",
+          "summary": "철원군 2027 스포츠강좌이용권 지원사업 대상자 모집 강원일보",
           "keywords": [
-            "여수시",
-            "청년",
-            "어촌",
-            "정착",
-            "돕는다"
+            "철원군",
+            "2027",
+            "스포츠강좌이용권",
+            "지원사업",
+            "대상자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-06T22:44:23.012Z",
+      "fetchedAt": "2026-11-07T04:45:55.673Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 1,
-      "change": "same"
-    },
-    {
-      "key": "미국",
-      "label": "미국",
+      "key": "투자",
+      "label": "투자",
       "count": 2,
-      "rank": 2,
+      "rank": 1,
       "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
-      "rank": 3,
-      "change": "down"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "gn:",
+      "label": "GN:",
+      "count": 2,
       "rank": 7,
-      "change": "down"
+      "change": "new"
+    },
+    {
+      "key": "show",
+      "label": "Show",
+      "count": 2,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "글로벌진출",
       "label": "글로벌진출",
-      "count": 3,
-      "rank": 8,
+      "count": 2,
+      "rank": 9,
       "change": "down"
     },
     {
-      "key": "2027년",
-      "label": "2027년",
-      "count": 2,
-      "rank": 9,
-      "change": "same"
-    },
-    {
-      "key": "poc",
-      "label": "POC",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1286,44 +1291,44 @@
       "labelKo": "다음을 따르세요"
     },
     {
+      "key": "articles",
+      "label": "Articles",
+      "count": 3,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "기사"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 3,
+      "rank": 7,
+      "change": "up",
+      "labelKo": "추천 동영상"
+    },
+    {
+      "key": "news",
+      "label": "News",
+      "count": 3,
+      "rank": 8,
+      "change": "new",
+      "labelKo": "뉴스"
+    },
+    {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 6,
-      "change": "up",
-      "labelKo": "AI"
-    },
-    {
-      "key": "articles",
-      "label": "Articles",
-      "count": 2,
-      "rank": 7,
+      "rank": 9,
       "change": "down",
-      "labelKo": "기사"
+      "labelKo": "AI"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 2,
-      "rank": 8,
-      "change": "new",
-      "labelKo": "시행 조치"
-    },
-    {
-      "key": "featured",
-      "label": "Featured",
-      "count": 2,
-      "rank": 9,
-      "change": "down",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "monetary policy",
-      "label": "Monetary Policy",
-      "count": 2,
       "rank": 10,
-      "change": "new",
-      "labelKo": "통화정책"
+      "change": "down",
+      "labelKo": "시행 조치"
     }
   ]
 }
