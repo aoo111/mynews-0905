@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-08T12:48:00.570Z",
+  "collectedAt": "2026-11-08T18:39:52.113Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“번 돈의 절반은 주주에 돌려줍니다”…4대 금융지주, 배당·자사주 소각 역대급",
+          "link": "https://www.mk.co.kr/news/economy/12201960",
+          "pubDate": "2026-11-08T13:25:25.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/08/news-p.v1.20261108.423d9ef303be4b46830b4beadf33f7f1_R.jpg",
+          "summary": "KB금융 55%·신한 52% 등 글로벌 메가뱅크 수준 육박 ESG·밸류업 전략 적극 강조 5년새 주주환원율 두배로↑ 자본건전성 약화 우려는 과제KB·신한·하나·우리 등 국내 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "카뱅·토뱅도 애플페이 … 현대카드 독점 깨진다",
           "link": "https://www.mk.co.kr/news/economy/12201942",
           "pubDate": "2026-11-08T10:49:14.000Z",
@@ -54,11 +67,24 @@
           "summaryKo": null
         },
         {
-          "title": "[단독] 국세청 \"직원 검진비에 과세\"… 삼성 \"불복\"",
+          "title": "[단독] 국세청 \"직원 검진비에 과세\"… 기업들 혼란",
           "link": "https://www.mk.co.kr/news/economy/12201896",
           "pubDate": "2026-11-08T08:41:56.000Z",
           "image": null,
           "summary": "회사가 직원에게 지원한 건강검진비를 근로자의 소득으로 볼지에 대해 국세청과 삼성그룹 계열사 간 의견이 엇갈리며 법정 다툼으로 번졌다. 국세청이 회사가 직원에게 지원한 건강검진비 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[단독] 근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'",
+          "link": "https://www.mk.co.kr/news/economy/12201878",
+          "pubDate": "2026-11-08T08:39:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/09/20261109_01170103000001_L00.jpg",
+          "summary": "국세청이 삼성그룹 금융 계열사의 건강검진비 지원금을 '근로소득'으로 판단하면서 사내 복지 혜택에 대한 과세 기준 논란이 수면 위로 부상하게 됐다는 해석이 나온다. 현행 소득세법상 ..",
           "keywords": [
             "경제"
           ],
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[단독] 근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'",
-          "link": "https://www.mk.co.kr/news/economy/12201878",
-          "pubDate": "2026-11-08T08:39:48.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/09/20261109_01160103000001_L00.jpg",
-          "summary": "국세청이 삼성그룹 금융 계열사의 건강검진비 지원금을 '근로소득'으로 판단하면서 사내 복지 혜택에 대한 과세 기준 논란이 수면 위로 부상하게 됐다는 해석이 나온다. 현행 소득세법상 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] 배추값 진정되나",
-          "link": "https://www.mk.co.kr/news/economy/12201865",
-          "pubDate": "2026-11-08T08:37:12.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/09/20261109_01160110000004_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:43.466Z",
+      "fetchedAt": "2026-11-08T18:39:45.228Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:43.506Z",
+      "fetchedAt": "2026-11-08T18:39:45.477Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:44.887Z",
+      "fetchedAt": "2026-11-08T18:39:46.581Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -352,7 +352,7 @@
           "summaryKo": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다."
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:45.072Z",
+      "fetchedAt": "2026-11-08T18:39:46.718Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +361,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Meridian - Servo와 GPUI로 만든 실험적 웹 브라우저",
-          "link": "https://news.hada.io/topic?id=36807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T12:00:59.000Z",
+          "title": "Deno의 보안 모델이 마음에 들지 않는 이유 (2024)",
+          "link": "https://news.hada.io/topic?id=36824&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T18:02:22.000Z",
           "image": null,
-          "summary": "Meridian은 macOS용 웹 브라우저로, 현재 JavaScript와 레이아웃 기능 사용이 적은 웹사이트를 탐색하는 데 유용한 수준임 글꼴, 단축키, 색상, 탭 등을 폭넓게 설정할 수 있으며, 세로 탭과 가로 탭을 모두 지원함 자동 완성 주소창, 북마크와 방문 기록 등 탐색 기능에 더해 읽기 모드, 탭 미리보기를 지원함 Rust로 작성됐으며, Servo가 웹페이지와 브라우저 상태를 관리하고 GPUI가 브라우저 인터페이스를 그림 Servo와 GPUI를 연결하는 gpui-servo를 별도 라이브러리로 제공하지만, Meridian 자체는 아직 실험적이며 개발 중임 지원 …",
+          "summary": "Deno의 권한 시스템은 표준 라이브러리 접근을 제한하지만 프로세스 자체를 샌드박스화하지 않아, 신뢰할 수 없는 코드를 안전하게 실행한다는 잘못된 안도감을 줄 수 있음 런타임 권한 프롬프트가 공격자 코드도 제어할 수 있는 터미널을 사용하므로, 화면을 조작하거나 승인 입력을 유도하는 공격에 노출됨 --allow-run=명령어 는 실행 파일의 정체성과 실행 환경까지 제한하지 못하며, PATH나 프로그램 설정용 환경 변수를 통해 의도하지 않은 코드를 실행할 수 있음 특정 환경 변수를 차단하는 개별 패치만으로는 충분하지 않으며, 외 …",
           "keywords": [
-            "Meridian",
-            "Servo와",
-            "GPUI로",
-            "만든",
-            "실험적"
+            "Deno의",
+            "보안",
+            "모델이",
+            "마음에",
+            "들지"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Google, 와이오밍주 남동부의 Crusoe 데이터센터 부지 인수",
-          "link": "https://news.hada.io/topic?id=36806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T11:32:31.000Z",
+          "title": "사고 도구로서의 글쓰기",
+          "link": "https://news.hada.io/topic?id=36823&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:44:55.000Z",
           "image": null,
-          "summary": "Google이 Crusoe의 와이오밍주 남동부 데이터센터 부지를 인수하면서, Crusoe가 맡았던 해당 프로젝트의 사전 개발 업무가 완료됨 사전 개발 범위는 부지 선정, 정부 인허가, 전력 전략으로, 향후 건설과 운영을 위한 기반을 마련함 Crusoe와 Tallgrass Energy는 전력 인프라와 데이터센터 인프라를 공동 개발하며 캠퍼스 조성을 시작함 캠퍼스의 하이브리드 전력 전략은 연료전지, 전력망 전력, 천연가스 터빈을 결합함 장기적으로는 Tallgrass의 지역 CO2 지중 저장 허브를 활용하는 탄소 포집 로드맵도 포함하지만, 현재 구현을 완료한 …",
+          "summary": "글쓰기는 정보를 저장하는 데 그치지 않고, 생각을 외부화해 처리하는 도구임. 머릿속 내용을 종이에 펼치면서 더 큰 생각을 다루고 이해의 빈틈을 발견할 수 있음 논문 리뷰와 자유 글쓰기는 이미 안다고 생각한 내용을 다시 이해하고 새로운 연결을 찾는 과정임. Paxos와 Nakamoto 합의의 유사성을 탐색한 블로그 글이 연구 논문의 씨앗이 된 경험도 있음 LLM이 만든 문서는 사람이 직접 생각했다는 증거가 되지 못함. 모델과 대화를 곧바로 시작하면 자신의 미완성 직관을 글로 탐색할 기회를 잃을 수 있음 초안에서는 판단을 유보하고 …",
           "keywords": [
-            "Google",
-            "와이오밍주",
-            "남동부의",
-            "Crusoe",
-            "데이터센터"
+            "사고",
+            "도구로서의",
+            "글쓰기"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 라플라스의 가위 - LLM을 재학습하지 않고, 출력 가중치만 안전하게 수정.",
-          "link": "https://news.hada.io/topic?id=36805&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T10:58:38.000Z",
+          "title": "OpenAI, 기업가치 약 1,625조원으로 약 14조 3,000억원 조달",
+          "link": "https://news.hada.io/topic?id=36822&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:41:55.000Z",
           "image": null,
-          "summary": "모델을 재학습하지 않고, 출력 가중치의 방향을 조절해서 답변을 바꿀 수 있게 도와줍니다. 기존 정답도 안전하게 유지합니다.",
+          "summary": "OpenAI가 투자 전 기업가치 1조 2,500억 달러($1.25t) 로 투자 라운드의 첫 약 110억 달러($11b) 를 확보함. 조달 규모와 평가액 모두 당초 보도된 목표보다 낮음 추가 투자까지 성사되면 총 조달액은 최대 200억 달러에 이를 수 있으나, 후속 최대 90억 달러는 아직 확정되지 않음 CFO Sarah Friar에 따르면 3분기 사업은 전 분기 대비 70% 성장하고 기업 대상 사업은 두 배가 됐지만, 매출액 자체는 공개하지 않음 Microsoft는 OpenAI 지분 평가이익을 통해 영향을 받는 반면, NVIDIA는 AI 연구기업들이 컴퓨팅 투자를 위한 자금을 얼마 …",
           "keywords": [
-            "Show",
+            "OpenAI",
+            "기업가치",
+            "625조원으로",
+            "14조",
+            "000억원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Tesla, JB Straubel 퇴임 이후 성공적인 신제품 출시 없어",
+          "link": "https://news.hada.io/topic?id=36821&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:38:55.000Z",
+          "image": null,
+          "summary": "Tesla는 JB Straubel이 CTO에서 물러난 2019년 7월 이후, Model 3와 Model Y의 뒤를 이을 중대한 신제품 성공을 내놓지 못함 Cybertruck은 대규모 예약과 판매 목표에 못 미쳤고, 실제 가격은 당초 예고의 약 2배, 주행거리는 약 절반에 그쳐 기대했던 제품과 크게 달라짐 Model Y와 Megapack은 Straubel 퇴임 직전 또는 같은 달에 공개되거나 출시됐으며, 이후 점진적 개선은 이어졌지만 신제품 개발 리더십은 예전 같지 않아 보임 Straubel이 Musk의 과도한 구상을 현실적으로 조율했을 가능성은 있지만, 실제 영향력과 퇴임 이유는 충 …",
+          "keywords": [
+            "Tesla",
+            "JB",
+            "Straubel",
+            "퇴임",
+            "성공적인"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Ask GN: 앱 프로모션 코드나 라이선스 키, 어떻게 관리하고 배포하시나요?",
+          "link": "https://news.hada.io/topic?id=36820&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-08T17:12:52.000Z",
+          "image": null,
+          "summary": "앱을 운영하면서 App Store 프로모션 코드, 파트너에게 줄 라이선스 키, 할인 코드 같은 것들을 나눠 줄 일이 꽤 많은데, 다른 분들은 어떻게 하고 계신지 궁금합니다. 특히 궁금한 부분은 다음과 같습니다. 1 코드를 어디에 보관하시나요? (스프레드시트, 노션, 직접 만든 DB, 외부 서비스 등) 2 누가 받았는지, 몇 개 남았는지 어떻게 추적하시나요? 3 이벤트나 커뮤니티에 배포할 때 한 사람이 여러 개 가져가는 걸 어떻게 막으시나요? 4 유료 판매(라이선스 키 등)라면 결제와 코드 발급을 어떻게 연결하셨나요? 환불 시 코드 회 …",
+          "keywords": [
+            "Ask",
             "GN:",
-            "라플라스의",
-            "가위",
-            "LLM을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "`free-router 실사용 후기 — 무료 AI 모델을 코딩 에이전트에 붙여 며칠 써보며 겪은 것`",
-          "link": "https://news.hada.io/topic?id=36803&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T10:37:45.000Z",
-          "image": null,
-          "summary": "직접 쓴 글입니다. NVIDIA NIM·OpenRouter의 무료 모델을 실시간 핑으로 순위 매겨 코딩 에이전트 설정에 넣어주는 오픈소스 CLI free-router를 며칠 써본 기록입니다. Claude Code는 지원하지 않음: README 기준 연동 대상은 OpenCode, OpenClaw, Hermes Agent. 그래서 메인 작업 대체가 아니라 가벼운 사이드 작업에 곁들여 본 후기 등급(Tier)은 고정값, 실제 사용 가능 여부는 그때그때 다름: 같은 모델을 시간 간격을 두고 보니 S+ 모델이 가동률 83%→74%로 떨어지며 Normal→Overloaded, Perfect(100%)였던 모델이 Overloaded(90%)로 바뀌기도 함 …",
-          "keywords": [
-            "`free",
-            "router",
-            "실사용",
-            "후기",
-            "무료"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Microsoft, Oracle의 AI 클라우드 용량 임대 계약 단계적 종료 중",
-          "link": "https://news.hada.io/topic?id=36802&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-08T10:31:49.000Z",
-          "image": null,
-          "summary": "Bloomberg News에 따르면 Microsoft는 수십억 달러 규모의 클라우드 제휴 재검토의 일환으로 Oracle 계약을 갱신하지 않고 최근 수개월간 임대한 AI 컴퓨팅 용량의 사용을 중단해 왔음 임대한 인프라는 이전 세대 Nvidia 칩을 사용하며, Microsoft의 변화하는 요구를 충족하지 못해 시간이 흐를수록 활용 가치가 낮아진 것으로 전해짐 Oracle은 이전 세대 GPU를 포함한 OCI AI 인프라 수요가 여전히 강하다고 밝혔으며, Microsoft는 Reuters의 논평 요청에 즉각 응답하지 않음 IREN은 Microsoft의 네트워크 설계 변경 요청으로 일부 인프 …",
-          "keywords": [
-            "Microsoft",
-            "Oracle의",
-            "AI",
-            "클라우드",
-            "용량"
+            "프로모션",
+            "코드나",
+            "라이선스"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:45.769Z",
+      "fetchedAt": "2026-11-08T18:39:47.590Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,8 +536,8 @@
           "summaryKo": "Google, TikTok 및 Meta는 소셜 미디어 플랫폼에서 16세 미만의 어린이를 \"심리적으로 착취적인 기능\" 으로부터 보호하는 법률의 집행을 차단하기 위해 캘리포니아를 상대로 소송을 제기했습니다. 개빈 뉴섬 주지사는 지난 9월 의회 법안 1709에 서명했습니다. \"우리는 우리 아이들과 모든 캘리포니아 아이들이 자라기를 원합니다 [...] 더 많은 멋진 이야기를 보려면 Tubefilter를 방문하십시오."
         }
       ],
-      "fetchedAt": "2026-11-08T04:35:45.322Z",
-      "error": "fetch failed"
+      "fetchedAt": "2026-11-08T18:39:47.688Z",
+      "error": null
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -612,7 +610,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:56.162Z",
+      "fetchedAt": "2026-11-08T18:39:47.786Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +691,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:56.214Z",
+      "fetchedAt": "2026-11-08T18:39:47.842Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +790,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:58.725Z",
+      "fetchedAt": "2026-11-08T18:39:50.220Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +881,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:58.990Z",
+      "fetchedAt": "2026-11-08T18:39:50.540Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -980,7 +978,7 @@
           "summaryKo": "Zipline은 $ 1.5 billion을 모금하고 Walmart와의 파트너십을 강화했습니다."
         }
       ],
-      "fetchedAt": "2026-11-08T12:47:59.047Z",
+      "fetchedAt": "2026-11-08T18:39:50.627Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1079,7 +1077,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:48:00.172Z",
+      "fetchedAt": "2026-11-08T18:39:51.794Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1173,7 +1171,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-08T12:48:00.561Z",
+      "fetchedAt": "2026-11-08T18:39:52.106Z",
       "error": null
     }
   },
@@ -1181,7 +1179,7 @@
     {
       "key": "ai",
       "label": "AI",
-      "count": 3,
+      "count": 2,
       "rank": 1,
       "change": "same"
     },
@@ -1190,63 +1188,63 @@
       "label": "AI에이전트",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "공개",
       "label": "공개",
       "count": 2,
       "rank": 3,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 8,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
