@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-09T15:16:36.702Z",
+  "collectedAt": "2026-11-09T23:58:13.483Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "AI 역량 높아야 취업한다는 취준생…기업은 “기초 활용이면 충분”",
+          "link": "https://www.mk.co.kr/news/economy/12203370",
+          "pubDate": "2026-11-09T21:47:39.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.e39ec420735b4169a6d9f94be10dfb28_R.png",
+          "summary": "인공지능(AI)이 산업 전반으로 확산하면서 취업준비생들의 역량 확보 경쟁도 치열해지고 있지만, 기업의 신입사원 채용 기준은 아직 이에 미치지 못하는 것으로 나타났다. 취업준비생 1..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“너무 떨어졌나” 美증시 반등…‘젠슨황 쇼크’ 엔비디아 4.3% 뚝 [월가월부]",
+          "link": "https://www.mk.co.kr/news/economy/12203304",
+          "pubDate": "2026-11-09T21:28:23.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.a084682cd37745c3b14e60c40eff91d2_R.jpg",
+          "summary": "저가매수세·유가하락에 기술주 반등 中스파이 연루의혹 ‘젠슨황 쇼크’에 엔비디아 급락, 장중 -8%까지 하락인공지능(AI) 회의론 확산으로 급락세를 이어가던 미국 증시가 저가 매수..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "국내 상장사 소액주주 24% 늘었지만…보유 주식은 10% 감소",
+          "link": "https://www.mk.co.kr/news/economy/12203267",
+          "pubDate": "2026-11-09T21:18:41.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.1eaf7af53f4c4136969302a63152ffdc_R.jpg",
+          "summary": "국내 상장사의 소액주주 수가 최근 1년 6개월 사이 24% 넘게 증가한 것으로 나타났다. 삼성전자와 SK하이닉스, LS일렉트릭 등 일부 대형주를 중심으로 개인투자자들의 유입이 두드..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "가업상속공제 놓고 여야 ‘충돌’…종부세 강화엔 나란히 제동",
           "link": "https://www.mk.co.kr/news/economy/12203086",
           "pubDate": "2026-11-09T14:48:57.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "못 받은 돈만 3조, 더 빌려줄 수가…4대 은행 中企 ‘깡통대출’ 경고등",
-          "link": "https://www.mk.co.kr/news/economy/12202882",
-          "pubDate": "2026-11-09T11:55:45.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/09/news-p.v1.20261011.150e9ed0834c48afa71985497688bf51_R.png",
-          "summary": "당국 압박에 무수익여신 급증 중기대출 연체율 대기업 2배 은행권 건전성 관리 악화 우려금융당국이 생산적 금융 확대를 주문하는 가운데 4대 은행의 중소기업 무수익여신인 소위 ‘깡통대..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "삼성화재, 영국 특수보험사 경영권 확보",
-          "link": "https://www.mk.co.kr/news/economy/12202790",
-          "pubDate": "2026-11-09T08:46:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/10/20261110_01160112000002_S00.jpg",
-          "summary": "삼성화재가 기관투자자와 손잡고 영국 특수보험사 캐노피우스 지분 100%를 인수한다. 2019년 첫 지분 투자에 나선 지 7년 만에 경영권을 확보하는 것이다. 저출생·고령화로 국내 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[단독] “넷플릭스 해지해도 챗GPT는 못 끊어”…AI 구독료, 고정비 됐다",
-          "link": "https://www.mk.co.kr/news/economy/12202788",
-          "pubDate": "2026-11-09T08:45:13.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/09/news-p.v1.20261109.3745da1e23204cf4b1c253df8ae5a42b_R.png",
-          "summary": "카드결제 1억2000만건 분석 AI 결제 1년만에 18% 급증 관리비·공과금에 구독료까지 월 고정비 지출 40만원 넘어# 직장인 이 모씨(38)는 최근 인공지능(AI) 유료 서비스..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:26.517Z",
+      "fetchedAt": "2026-11-09T23:57:51.774Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -114,6 +114,19 @@
       "category": "증권·기업정보",
       "subcategory": "중앙은행",
       "items": [
+        {
+          "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+          "pubDate": "2026-11-09T21:00:00.000Z",
+          "image": null,
+          "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+          "keywords": [
+            "Orders on Banking Applications"
+          ],
+          "isForeign": true,
+          "titleKo": "연방 준비 이사회는 Mutual Federal Bancorp, MHC 및 MFB Bancorp, Inc. 의 두 가지 신청서에 대한 승인을 발표했습니다.",
+          "summaryKo": "연방 준비 이사회는 Mutual Federal Bancorp, MHC 및 MFB Bancorp, Inc. 의 두 가지 신청서에 대한 승인을 발표했습니다."
+        },
         {
           "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
@@ -165,22 +178,9 @@
           "isForeign": true,
           "titleKo": "연방 준비 이사회, Gardner Bancshares, Inc. 및 Small Business Bank와의 집행 조치 종료 발표",
           "summaryKo": "연방 준비 이사회, Gardner Bancshares, Inc. 및 Small Business Bank와의 집행 조치 종료 발표"
-        },
-        {
-          "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-          "pubDate": "2026-10-13T18:00:00.000Z",
-          "image": null,
-          "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-          "keywords": [
-            "Monetary Policy"
-          ],
-          "isForeign": true,
-          "titleKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록",
-          "summaryKo": "2026년 8월 17일, 9월 9일, 9월 16일 이사회 할인율 회의록"
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:26.608Z",
+      "fetchedAt": "2026-11-09T23:57:53.639Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "젠슨 황 논란에 엔비디아 침묵…정부 \"GPU 공급 차질 없어\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217190",
-          "pubDate": "2026-11-09T18:54:03.000Z",
+          "title": "[11월9일] 중국 AI, 미국 모델 따라잡았다지만…오픈AI·앤트로픽엔 미공개 모델 있다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217162",
+          "pubDate": "2026-11-10T07:00:00.000Z",
           "image": null,
-          "summary": "젠슨 황 엔비디아 CEO를 둘러싼 논란 이후 처음 열린 주요 공식 행사에서 엔비디아 관계자들이 관련 질문에 답변을 피했다. 황 CEO의 딸인 매디슨 황 수석이사의 방한이 취소되고 엔비디아 주가도 급락한 가운데, 한국 정부는 이미 계약한 GPU 공급에는 차질이 없을 것으로 전망했다.9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'은 엔비디아 이사회가 황 CEO에 대한 외국 정보기관 접근 의혹을 조사하겠다고 발표한 뒤 처음 열린 주요 공식 행사다.로이터 등에 따르면 국내 반도체 공급과 AI 협력 사업에 미칠 영향에 관심이",
+          "summary": "중국 AI 기업들이 최근 신제품을 출시할 때 오픈AI와 앤트로픽의 최첨단 모델을 따라잡거나 일부 성능에서 앞섰다고 강조하는 일이 늘고 있습니다. 앤트그룹은 지난 5일 멀티모달 AI 모델 '링 3.2 플래시'를 발표하며 문서 이해와 시각 추론 등 일부 평가에서 '클로드 오퍼스 5'를 앞섰다고 밝혔습니다. 문샷 AI도 지난달 공개한 '키미 K3.1 프로'가 코딩 평가에서 오픈AI의 'GPT-6 아스트라'를 앞서고 '클로드 오퍼스 5.5'에 근접했다고 강조했습니다. 메이투안과 Z.ai도 미국 주요 모델과 비교한 성능을 적극적으로 내세우고",
+          "keywords": [
+            "11월9일",
+            "중국",
+            "AI",
+            "미국",
+            "모델"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217196",
+          "pubDate": "2026-11-10T06:34:13.000Z",
+          "image": null,
+          "summary": "앤트로픽이 새로운 최상위 모델 '클로드 페이블 5.2(Claude Fable 5.2)'와 '클로드 미소스 5.2(Claude Mythos 5.2)'를 출시했다. 페이블 5.2는 아티피셜 애널리시스의 성능 평가(AAII)에서 구글을 제치고 1위를 되찾았으며, API 가격도 20% 인하해 기업용 AI 시장에서 성능과 비용 경쟁력을 동시에 강화했다.앤트로픽은 9일(현지시간) 공식 블로그를 통해 두 모델을 공개했다.기존 5.1 버전보다 코딩과 추론, 과학 연구, 시각 정보 처리 능력을 개선하고 출력 속도를 최대 30% 높였다. 두 모델은",
+          "keywords": [
+            "앤트로픽",
+            "페이블",
+            "AI",
+            "성능",
+            "평가"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217195",
+          "pubDate": "2026-11-10T05:55:06.000Z",
+          "image": null,
+          "summary": "젠슨 황 엔비디아 CEO를 둘러싼 중국 스파이 의혹이 미국 의회의 중국 AI 반도체 수출 정책과 트럼프 행정부에 대한 감독 문제로 이어지고 있다. 공화당이 비공개 브리핑을 요구한 데 이어 민주당도 상무장관의 증언과 의회 조사를 촉구하면서, 엔비디아의 중국 관련 사업과 미국 정부의 수출 허가 결정 과정까지 쟁점으로 떠오르고 있다.CNBC와 로이터 등은 9일(현지시간) 민주당 의원들이 엔비디아에 대한 조사와 트럼프 행정부의 책임 규명을 요구하고 있다고 보도했다. 최근 중간선거에서 상·하원 다수당을 확보한 민주당이 내년 1월 새 의회 출",
+          "keywords": [
+            "의회",
+            "젠슨",
+            "조사",
+            "압박",
+            "중국"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "엔비디아 주가 장중 8.8% 급락…주요 투자자들은 젠슨 황 잔류 지지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217194",
+          "pubDate": "2026-11-10T05:38:46.000Z",
+          "image": null,
+          "summary": "젠슨 황 엔비디아 CEO의 불륜 인정과 중국 스파이 의혹으로 엔비디아 주가가 장중 최대 8.8% 급락했다. 그러나 주요 투자자들은 개인적인 처신에 실망하면서도 경영 지속을 공개적으로 지지하고 있다. 시장에서는 경영 불확실성을 우려해 주식을 매도하는 움직임이 나타난 가운데, 일부 주요 투자자는 CEO 교체가 오히려 기업가치에 더 큰 충격을 줄 수 있다고 판단한 것이다.악시오스는 9일(현지시간) 주요 투자자들이 사적으로는 젠슨 황의 행동에 실망하면서도 공개적으로는 그의 잔류를 지지하고 있다고 보도했다. 엔비디아 이사회가 독립 조사에 착",
+          "keywords": [
+            "엔비디아",
+            "주가",
+            "장중",
+            "8%",
+            "급락"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "\"젠슨 황 후계자 없다\"…자녀들 영향력 확대에 승계 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217193",
+          "pubDate": "2026-11-10T05:33:32.000Z",
+          "image": null,
+          "summary": "젠슨 황 엔비디아 CEO가 중국 스파이 의혹과 관련해 이사회 조사를 받게 되면서 후계자 부재와 가족들의 회사 내 영향력이 새롭게 주목받고 있다. 경영 권한이 창업자 한 사람에게 집중된 가운데 자녀들의 역할까지 커진 것으로 알려져, 향후 경영 승계와 이사회의 독립성에 대한 의문이 제기되고 있다.월스트리트저널(WSJ)과 뉴욕타임스(NYT) 등은 9일(현지시간) 엔비디아가 황 CEO에 대한 독립 조사에 착수한 것을 계기로 회사의 경영 구조와 후계자 문제를 집중 분석했다.WSJ은 황 CEO가 특정 후계자를 미리 정하는 방식에 회의적인 태도",
           "keywords": [
             "젠슨",
-            "논란에",
-            "엔비디아",
-            "침묵",
-            "정부"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217188",
-          "pubDate": "2026-11-09T18:52:34.000Z",
-          "image": null,
-          "summary": "엔비디아가 리얼월드·업스테이지·모티프테크놀로지스 등 국내 AI 스타트업 3곳에 투자한다.엔비디아는 9일 서울 코엑스에서 국내 AI 스타트업 20여개 사가 참석한 가운데 열린 ‘AI 스타트업 파트너십 포럼'에서 이 같은 투자계획을 공개했다.리얼월드는 피지컬 AI 구현을 위한 로봇파운데이션모델(RFM)에서, 업스테이지와 모티프는 거대언어모델(LLM) 모델 분야에서 주목받고 있는 기업들이다. 앞서 지난 4월 엔비디아는 포인트투테크놀로지의 7600만 달러 규모 시리즈B 투자 라운드에도 참여한 바 있다.엔비디아는 현재 진행중인 업스테이지의",
-          "keywords": [
-            "엔비디아",
-            "국내",
-            "AI",
-            "스타트업",
-            "3곳"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "카카오모빌리티-엔비디아, 레벨4 자율주행 협력…기아 PBV 우선 적용",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217187",
-          "pubDate": "2026-11-09T18:52:08.000Z",
-          "image": null,
-          "summary": "카카오모빌리티와 엔비디아가 자율주행 기술과 컴퓨팅·센싱·안전 기술을 기아 목적기반차량(PBV)에 통합, 레벨4 자율주행 고도화에 나선다.카카오모빌리티(대표 류긍선)는 엔비디아와 레벨4 자율주행 기술 협력을 위한 업무협약(MOU)을 체결한다고 9일 밝혔다.카카오모빌리티는 강남 도심 운행으로 검증한 자체 자율주행 AI 모델의 엔드투엔드(E2E) 고도화를 위해 대규모 AI 연산을 실시간으로 처리하는 엔비디아 ‘드라이브 AGX 토르’ 2개를 탑재한 자율주행 컴퓨팅 유닛(ADCU)을 도입한다.센서와 하드웨어 연결을 최적화하는 엔비디아 ‘하이",
-          "keywords": [
-            "카카오모빌리티",
-            "엔비디아",
-            "레벨4",
-            "자율주행",
-            "협력"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "PSI \"비공개 앤트로픽 AI로 18년 된 양자 난제 증명\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217177",
-          "pubDate": "2026-11-09T18:26:11.000Z",
-          "image": null,
-          "summary": "비공개 앤트로픽 AI 모델을 활용해 18년간 풀리지 않았던 양자 컴퓨팅 분야의 난제 '아론슨-암바이니스(Aaronson-Ambainis) 추측'을 증명했다는 연구 결과가 나왔다. AI가 수학적 증명을 작성하고 컴퓨터를 통한 검증까지 통과한 것으로, 모델 개발사가 아닌 외부 기업이 자체 연구 시스템을 활용해 성과를 냈다는 점에서도 주목된다.피지컬 슈퍼 인텔리전스(PSI)는 6일(현지시간) 공식 홈페이지를 통해 비공개 앤트로픽 모델을 활용한 자체 연구 시스템으로 아론슨-암바이니스 추측의 완전한 증명을 도출했다고 발표했다. 연구를 시작한",
-          "keywords": [
-            "PSI",
-            "비공개",
-            "앤트로픽",
-            "AI로",
-            "18년"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "엔비디아, 로봇 AI 추론 5배 빠르게 하는 'V플래시' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217176",
-          "pubDate": "2026-11-09T18:10:53.000Z",
-          "image": null,
-          "summary": "엔비디아가 로봇의 움직임을 계획하는 AI 추론 속도를 5배 높이면서 경로 예측 오류도 줄이는 기술을 공개했다. 이동 경로의 좌표를 하나씩 생성하는 대신 전체 경로를 한꺼번에 예측하는 방식으로, 로봇과 자율주행 차량의 실시간 제어 성능을 개선하는 데 활용할 수 있다는 설명이다.엔비디아는 6일(현지시간) 로봇과 자율주행 차량 등 피지컬 AI의 시각적 계획(Visual Planning)을 가속하는 새로운 디코딩 프레임워크 'V플래시(VFlash)'를 공개했다. 기존 비전언어모델(VLM)의 순차적인 토큰 생성 과정에서 발생하는 속도와 정확",
-          "keywords": [
-            "엔비디아",
-            "로봇",
-            "AI",
-            "추론",
-            "5배"
+            "후계자",
+            "없다",
+            "자녀들",
+            "영향력"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:27.668Z",
+      "fetchedAt": "2026-11-09T23:57:54.894Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,62 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "pubDate": "2026-11-09T19:00:00.000Z",
+          "image": null,
+          "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+          "keywords": [
+            "Product"
+          ],
+          "isForeign": true,
+          "titleKo": "이제 AWS Marketplace에서 ChatGPT Enterprise를 사용할 수 있습니다",
+          "summaryKo": "이제 AWS Marketplace를 통해 ChatGPT Enterprise를 사용할 수 있으므로 조직은 기존 AWS 구매 및 청구 관계를 통해 조달을 간소화할 수 있습니다."
+        },
+        {
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "link": "https://openai.com/index/control-room",
+          "pubDate": "2026-11-09T13:00:00.000Z",
+          "image": null,
+          "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+          "keywords": [
+            "Safety"
+          ],
+          "isForeign": true,
+          "titleKo": "제어실: 연구 인프라 전반에 걸친 모델 작업 부하를 추적하고 중지하는 중앙 시스템",
+          "summaryKo": "OpenAI의 Control Room이 연구 인프라 전반에 걸친 모델 작업 부하를 추적하고 안전 또는 보안 문제가 발생할 때 이를 신속하게 차단하는 방법을 알아보세요."
+        },
+        {
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "link": "https://openai.com/index/coderabbit-codex-daybreak",
+          "pubDate": "2026-11-09T08:00:00.000Z",
+          "image": null,
+          "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+          "keywords": [
+            "Startup"
+          ],
+          "isForeign": true,
+          "titleKo": "CodeRabbit은 에이전트 소프트웨어 개발을 확장하고 20배 더 출하합니다.",
+          "summaryKo": "CodeRabbit은 OpenAI 모델을 사용하여 AI로 생성된 코드를 관리하고 신뢰하며, Codex는 동일한 엔지니어링 팀과 함께 20배 더 많은 소프트웨어를 제공합니다."
+        },
+        {
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "link": "https://openai.com/index/kuken",
+          "pubDate": "2026-11-09T08:00:00.000Z",
+          "image": null,
+          "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+          "keywords": [
+            "Kuken",
+            "Industries",
+            "searches",
+            "70",
+            "years"
+          ],
+          "isForeign": true,
+          "titleKo": "Kuken Industries는 70년의 도면을 몇 분 만에 검색합니다.",
+          "summaryKo": "Kuken Industries는 OpenAI API를 사용하여 70년의 냉각탑 도면을 검색합니다. 엔지니어는 수리를 위한 도면을 거의 한 시간에서 4.5분 만에 찾을 수 있습니다."
+        },
         {
           "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
           "link": "https://openai.com/index/partnering-with-hacktron",
@@ -294,65 +350,9 @@
           "isForeign": true,
           "titleKo": "Hacktron과 협력하여 OpenAI 시스템의 취약점 찾기",
           "summaryKo": "OpenAI는 Hacktron과 협력하여 취약점을 찾고, 타사 서비스와의 연결을 테스트하고, 프론티어 AI로 방어를 강화하고 있습니다."
-        },
-        {
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "pubDate": "2026-11-06T00:00:00.000Z",
-          "image": null,
-          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-          "keywords": [
-            "Publication"
-          ],
-          "isForeign": true,
-          "titleKo": "인공지능 에이전트가 매일 습식 실험실 과학을 다루는 방법 측정",
-          "summaryKo": "OpenAI는 인공지능 에이전트가 원시 실험 데이터를 얼마나 잘 해석하고 일상적인 습식 실험 과학을 다루는지 측정하는 100가지 작업 벤치마크인 BioBasicsBench를 소개합니다."
-        },
-        {
-          "title": "Australian universities are creating AI-native graduates",
-          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "pubDate": "2026-11-05T17:00:00.000Z",
-          "image": null,
-          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "호주 대학은 AI 네이티브 졸업생을 배출하고 있습니다.",
-          "summaryKo": "호주 대학들은 ChatGPT에 대한 접근성을 확대하고 학생들에게 AI 지원 인력을 준비시키기 위해 AI를 교육 및 학습에 도입하고 있습니다."
-        },
-        {
-          "title": "Cult.fit builds operational muscle with Codex",
-          "link": "https://openai.com/index/cultfit-builds-with-codex",
-          "pubDate": "2026-11-05T20:00:00.000Z",
-          "image": null,
-          "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-          "keywords": [
-            "Cult",
-            "fit",
-            "builds",
-            "operational",
-            "muscle"
-          ],
-          "isForeign": true,
-          "titleKo": "Cult.fit은 코덱스로 운영 근육을 구축합니다",
-          "summaryKo": "Cult.fit은 코덱스를 사용하여 여러 부서의 팀이 도구를 구축하고, 더 빠르게 움직이며, 업무 수행 방식을 변경할 수 있도록 돕고 있습니다."
-        },
-        {
-          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-          "link": "https://openai.com/index/introducing-gpt-6-cyber",
-          "pubDate": "2026-11-05T09:00:00.000Z",
-          "image": null,
-          "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "GPT ‑ 6 사이버: 정렬된 사이버 보안 에이전트의 경계 발전",
-          "summaryKo": "악용 가능한 취약점을 찾고 수정 사항을 개발하기 위한 OpenAI의 사이버 보안 모델인 GPT ‑ 6 Cyber를 도입하여 승인된 범위 내에서 유지하도록 훈련받았습니다."
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:27.813Z",
+      "fetchedAt": "2026-11-09T23:58:00.621Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,87 +361,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "인류는 다시는 Wikipedia 같은 프로젝트를 만들지 못할 것이다",
-          "link": "https://news.hada.io/topic?id=36885&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T14:32:23.000Z",
+          "title": "Show GN: Visitown - 방문자가 픽셀 마을을 걸어 다니는 실시간 방문자 분석",
+          "link": "https://news.hada.io/topic?id=36911&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T23:16:56.000Z",
           "image": null,
-          "summary": "협업형 온라인 백과사전 Wikipedia는 출범 6년 만에 약 600년간 유지됐던 영락대전의 세계 최대 참고문헌 기록을 넘어섬 플로리다의 어수선한 사무실에서 운영하던 스타트업으로 출발함 현재 300개 이상 언어로 작성된 콘텐츠가 총 300억 단어에 달함 라틴어판만으로도 Encyclopaedia Britannica보다 많은 항목을 보유함 25주년을 맞아 중대한 새로운 위협에 직면했지만, 제공된 본문에서는 위협의 구체적인 내용이나 제목의 전망을 뒷받침하는 근거를 확인할 수 없음 영락대전의 기록을 넘어선 Wikipedia 영락대전은 15세기 명나라 황제 …",
-          "keywords": [
-            "인류는",
-            "다시는",
-            "Wikipedia",
-            "같은",
-            "프로젝트를"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "멋진 종이비행기 접기",
-          "link": "https://news.hada.io/topic?id=36884&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T13:31:57.000Z",
-          "image": null,
-          "summary": "Foldable Flight는 다양한 종이비행기 디자인을 둘러보고, 각 기체를 선택해 접는 방법을 확인할 수 있는 사이트임 기체마다 접기 난이도와 속도, 활공, 정확도 점수를 제공하며, 매우 쉬운 모델부터 전문가 수준의 모델까지 갖춤 Unite는 체공 시간 31.2초의 세계 기록 보유 기체이며, Firefly 5는 300피트 이상 날 수 있는 세계 기록용 시제품임 장거리 비행과 활공뿐 아니라 부메랑 비행, 날갯짓, 나선형 비행 등 서로 다른 비행 특성을 가진 디자인을 제공함 비대칭 기체, 입체 형태를 고정하는 구조, 실제 전투기를 본뜬 디자인과 P …",
-          "keywords": [
-            "멋진",
-            "종이비행기",
-            "접기"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 걸으면 손그림 동물이 열리는 iOS 걷기 게임, CanGoGo",
-          "link": "https://news.hada.io/topic?id=36882&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T12:47:56.000Z",
-          "image": null,
-          "summary": "안녕하세요, 귀여운 동물 수집 만보기 게임 CanGoGo(캔고고) 를 만든 1인 개발자입니다. [IMG] CanGoGo Banner 하루 목표 걸음 수를 채우면 알에서 귀여운 동물이 부화하고, 걸으면서 획득한 사료로 동물들을 키우며 60여 종 이상의 동물 도감을 채워나가는 힐링 걷기 앱입니다. 💡 왜 만들게 되었나요? 기존 만보기 앱들은 대부분 숫자로만 채워진 헬스케어 대시보드이거나, 배너 광고와 금융 상품 포인트 마케팅으로 가득 차 있었습니다. 저는 \"오늘도 만 보를 채워야 한다\"는 압박감 대신, \"오늘 퇴근길에 15분만 더 걸어서 새 동물을 …",
+          "summary": "웹사이트 방문자를 픽셀 캐릭터로, 페이지를 마을 건물로 보여 주는 실시간 방문자 분석 도구를 만들었어요. 방문자가 페이지를 옮기면 캐릭터가 건물 사이를 실제로 걸어가요. 봇은 회색 로봇, 재방문자는 모자, 검색 유입은 돋보기를 들고 나타나요. 설치는 스크립트 한 줄이고 SDK는 gzip 약 7KB예요. 쿠키를 쓰지 않고 IP도 저장하지 않아요(나라 코드만 남겨요). 원본 기록은 7일 뒤 지워져요. 테마가 10종 있어요(한옥 장터·사이버펑크·우주 정거장·캔디 마을 등). \"두 나라에서 방문\", \"새벽 0~5시 방문자\"처럼 목표를 채우면 하나 …",
           "keywords": [
             "Show",
             "GN:",
-            "걸으면",
-            "손그림",
-            "동물이"
+            "Visitown",
+            "방문자가",
+            "픽셀"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Next-Concept Modeling: 거친 표현부터 세밀하게 다듬는 빠른 병렬 텍스트 생성",
-          "link": "https://news.hada.io/topic?id=36880&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T11:42:08.000Z",
+          "title": "Claude Fable 5.2, Artificial Analysis에서 역대 최고인 65점 기록",
+          "link": "https://news.hada.io/topic?id=36910&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T22:41:15.000Z",
           "image": null,
-          "summary": "Next-Concept Modeling(NCM) 은 텍스트를 여러 해상도의 이산 코드로 압축한 뒤, 단계별 코드를 병렬 생성하는 2단계 프레임워크임 확산 언어 모델(DLM) 이 매 단계 전체 시퀀스를 처리하는 것과 달리, 초기 단계에서는 짧은 코드 시퀀스만 처리해 생성 단계 수와 단계당 연산량을 함께 줄임 비슷한 파라미터 규모에서 가장 강력한 DLM 기준 모델과 비교해, LM1B에서는 더 나은 생성 퍼플렉시티로 21배, XSum에서는 동등한 ROUGE-L로 31배 빠르게 생성함 무조건부 생성에서 데이터에 가까운 표본 엔트로피를 유지하면서 함수 평가 횟수를 …",
+          "summary": "Claude Fable 5.2 (Max, Default Fallback) 가 Artificial Analysis Intelligence Index에서 65점을 기록해, 비슷한 가격대 모델의 중앙값인 40점을 크게 웃돎 높은 지능 점수와 달리 작업당 처리 시간은 44.1분으로, 비교 모델 중앙값 12.9분보다 상당히 느림 Anthropic API 기준 100만 토큰당 입력 8달러, 출력 40달러이며, Intelligence Index 평가의 작업당 평균 비용은 26.54달러임 Intelligence Index 평가에서 출력 토큰 2억 7,500만 개를 생성해, 비교 모델 중앙값 7,280만 개보다 토큰 사용량이 많음 추론 모델로 텍스트와 이미 …",
           "keywords": [
-            "Next",
-            "Concept",
-            "Modeling:",
-            "거친",
-            "표현부터"
+            "Claude",
+            "Fable",
+            "Artificial",
+            "Analysis에서",
+            "역대"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GPUI 비판",
-          "link": "https://news.hada.io/topic?id=36879&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-09T11:39:08.000Z",
+          "title": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
+          "link": "https://news.hada.io/topic?id=36909&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T22:38:14.000Z",
           "image": null,
-          "summary": "GPUI, egui, Elm 계열의 상태 모델은 작은 UI에서는 단순하지만, 복잡한 데스크톱 앱에서 정밀한 갱신을 구현하려면 그 단순성을 잃을 수 있음 GPUI의 notify는 엔티티만 식별하고 변경된 필드를 알리지 못함. 자체 벤치마크에서는 행마다 캐시된 뷰를 둔 3,000행 UI의 라벨 하나를 바꾸는 데 8.4ms가 걸렸으며, 비용이 변경량보다 트리 크기를 따라 증가함 뷰를 보존하는 gpui-fast도 최소 재사용 단위가 뷰라는 제약이 있음. 라벨 단위 갱신에 필요한 엔티티와 구독 등을 직접 관리하면 사실상 무거운 부품으로 시그널 그래프를 수작업 구성하게 됨 …",
+          "summary": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
           "keywords": [
-            "GPUI",
-            "비판"
+            "Show",
+            "HN:",
+            "어느",
+            "장소든",
+            "상공을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Google Gemini, 개인 Drive 파일과 이메일을 사람 검토자에게 전달",
+          "link": "https://news.hada.io/topic?id=36908&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T22:35:14.000Z",
+          "image": null,
+          "summary": "Google은 2023년 Gmail, Docs, Drive의 개인 콘텐츠를 사람이 검토하지 않는다고 약속했으나, 변경된 안내에서는 연결된 이메일과 파일이 사람의 검토 대상이 될 수 있음을 명시함 저장소에 공개된 테스트에서는 Connected Apps가 활성화된 소비자용 Gemini가 명시적인 @Drive나 @Gmail 태그 없이도 일상적인 대화 중 Workspace 데이터를 조회함 조회 결과는 비결정적으로 달라졌으며, 검색하지 않는 경우부터 메타데이터 요약, 개인정보가 포함된 발췌, 가림 처리하지 않은 파일 전체를 세션 문맥에 넣는 경우까지 관찰됨 Google의 새 안 …",
+          "keywords": [
+            "Google",
+            "Gemini",
+            "개인",
+            "Drive",
+            "파일과"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "e-means - 같은 테스트 오차에 약 10배 빠른 k-means",
+          "link": "https://news.hada.io/topic?id=36907&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-09T21:37:33.000Z",
+          "image": null,
+          "summary": "e-means는 미니배치와 지수이동평균을 결합한 k-means 알고리듬. 여러 데이터셋과 규모에서 Lloyd 알고리즘이 25에포크에 기록한 테스트 오차를 1.2~3에포크 만에 밑돌았음 같은 테스트 오차에 도달하기까지 걸린 전체 실행 시간은 GPU에서 Flash-KMeans 대비 10~45배, CPU에서 Faiss 대비 8~15배 짧았음 클러스터별 합계와 개수를 지수이동평균(EMA) 으로 갱신해 오래된 할당의 영향을 줄이고, 최근 할당을 중심점에 반영함 데이터 수, 클러스터 수, 학습 에포크 수에 따른 스케일링 법칙으로 배치 크기와 스텝 크기를 자동 설정하므로 …",
+          "keywords": [
+            "means",
+            "같은",
+            "테스트",
+            "오차에",
+            "10배"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:28.399Z",
+      "fetchedAt": "2026-11-09T23:58:01.048Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -449,6 +454,40 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/08/2026",
+          "link": "https://www.tubefilter.com/2026/11/09/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-08-2026/",
+          "pubDate": "2026-11-09T23:20:36.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/danka-fun-eno.jpeg",
+          "summary": "SASHA SHOW was the top dog in our subscriber charts during the month of October, and his hot streak continued into November. The Turkey-based creator picked up 1.4 million weekly subscribers during the first measurement period of the month. That brought his total YouTube following up to 17.2 million. Though a creator based in Turkey is dominating the Global Sub Top 50, India is still the most ubiquitous country in the ranking. 14 of the top 50 channels hail from that nation, and a few of them ha",
+          "keywords": [
+            "Charts",
+            "danka fun",
+            "oi raja",
+            "Tubefilter Charts",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계적으로 가장 많이 구독한 YouTube 채널 상위 50개 • 2026년 8월 11일 주간",
+          "summaryKo": "사샤 쇼는 10월 한 달 동안 구독자 차트에서 최고의 개였으며, 그의 뜨거운 행보는 11월까지 계속되었습니다. 터키에 기반을 둔 크리에이터는 해당 월의 첫 번째 측정 기간 동안 140만 명의 주간 구독자를 확보했습니다. 이로 인해 그의 총 유튜브 팔로워는 1,720만 명에 달했습니다. 터키에 기반을 둔 크리에이터가 글로벌 서브 톱 50을 장악하고 있지만, 인도는 여전히 순위에서 가장 보편적인 국가입니다. 상위 50개 채널 중 14개 채널이 해당 국가 출신입니다."
+        },
+        {
+          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/08/2026",
+          "link": "https://www.tubefilter.com/2026/11/09/top-50-most-viewed-youtube-channels-worldwide-week-of-11-08-2026/",
+          "pubDate": "2026-11-09T22:24:12.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/paintellectual-priya.png",
+          "summary": "The all-time most-watched channel in YouTube history returned to the #1 spot in the Global Top 50. T-Series was the only channel that hauled in more than one billion views during the first week of November -- it topped out at 1.09 billion weekly views, bringing its lifetime view count above 362 billion. T-Series was not the only channel from India to crack the Global Top 50. In fact, more than half of the channels in this week's chart hail from the world's most populous nation. In India, a spate",
+          "keywords": [
+            "Charts",
+            "baccha mat bolna",
+            "paintellectual priya",
+            "Tubefilter Charts",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계에서 가장 많이 본 유튜브 채널 Top 50 • 위크 오브 11/08/2026",
+          "summaryKo": "유튜브 역사상 가장 많은 시청을 기록한 채널이 글로벌 톱 50 1위로 돌아왔습니다. T-시리즈는 11월 첫째 주 동안 10억 회 이상의 조회수를 기록한 유일한 채널이었습니다. 주간 조회수가 10억 9천만 회를 돌파하여 평생 조회수가 362억 회를 돌파했습니다. T-시리즈는 인도에서 글로벌 톱 50을 갈라놓은 유일한 채널이 아니었습니다. 사실, 이번 주 차트에 있는 채널의 절반 이상이 세계에서 가장 인구가 많은 나티오"
+        },
         {
           "title": "Just a quarter of U.S. adults trust creators to always disclose brand deals",
           "link": "https://www.tubefilter.com/2026/11/08/creator-marketing-data-survey-brand-disclosure-trust/",
@@ -500,43 +539,9 @@
           "isForeign": true,
           "titleKo": "UTA, FaZe VETS, \"인재를 위한 새로운 파트너\" 로 ISO 출범",
           "summaryKo": "새로운 인재 회사가 스트리밍, 소셜 미디어 및 콘텐츠 제작 분야의 유명 인사 명단을 쌓아 출시합니다. 마이크 리 (Mike Lee) 와 대런 얀 (Darren Yan) 은 최고 크리에이터 90명으로 구성된 ISO의 리더입니다. ISO (\"in search of\" 의 약자) 는 뷰티, 음식 및 예술과 같은 카테고리를 다루는 광범위한 관리 회사이지만 게임 및 스트리머 커뮤니티에 뿌리를 두고 있습니다. ISO의 CEO를 역임할 Lee는 이전에"
-        },
-        {
-          "title": "The E.U. wants a new For You Page so that its citizens don’t get stuck in TikTok rabbit holes",
-          "link": "https://www.tubefilter.com/2026/11/06/european-union-eu-digital-services-act-tiktok-for-you-page-fyp/",
-          "pubDate": "2026-11-06T21:22:20.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/for-you-page-tiktok.jpg",
-          "summary": "Does the European Union have the authority to mandate changes to TikTok's For You Page? The continental body is making that claim. The E.U. announced on Wednesday that the addictive design of the FYP violates the Digital Services Act. A press release discusses the \"rabbit hole effect\" of TikTok's infinitely scrolling vertical feed, which is filled with personalized recommendations. \"Every time a user scrolls or likes a video on TikTok, the algorithm serves more of the same leading users down rab",
-          "keywords": [
-            "Articles",
-            "Featured",
-            "Homepage Feature",
-            "News",
-            "TikTok",
-            "digital services act"
-          ],
-          "isForeign": true,
-          "titleKo": "E.U. 는 시민들이 TikTok 토끼 구멍에 갇히지 않도록 새로운 For You 페이지를 원합니다.",
-          "summaryKo": "유럽 연합은 TikTok의 For You 페이지에 대한 변경을 위임할 권한이 있습니까? 대륙체가 그런 주장을 하고 있습니다. EU는 수요일에 FYP의 중독성 있는 디자인이 디지털 서비스법을 위반한다고 발표했습니다. 개인화 된 권장 사항으로 가득 찬 TikTok의 무한 스크롤 수직 피드의 \"토끼 구멍 효과\" 에 대한 보도 자료. \"사용자가 TikTok에서 동영상을 스크롤하거나 좋아할 때마다 알고리즘은 동일한 동영상을 더 많이 제공합니다."
-        },
-        {
-          "title": "Will AI slop overwhelm creators? Mark Rober isn’t worried–but his team is using AI as a “thought partner” in production",
-          "link": "https://www.tubefilter.com/2026/11/06/mark-rober-youtuber-content-creator-crunchlabs-gen-ai/",
-          "pubDate": "2026-11-06T21:05:23.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/GettyImages-2280229807.jpg",
-          "summary": "Mark Rober told Business Insider he thinks his content has a “moat” that will keep it safe from being affected by the AI slop deluge. But, at the same time, he’s said his team is using generative AI as a “thought partner” for writing, and that it can make “the perfect meal” for students using […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Homepage Feature",
-            "artificial intelligence",
-            "crunchlabs",
-            "Mark Rober"
-          ],
-          "isForeign": true,
-          "titleKo": "인공지능이 크리에이터를 압도할까요? Mark Rober는 걱정하지 않지만 그의 팀은 AI를 프로덕션에서 \"사고 파트너\" 로 사용하고 있습니다.",
-          "summaryKo": "마크 로버 (Mark Rober) 는 비즈니스 인사이더 (Business Insider) 와의 인터뷰에서 자신의 콘텐츠에 AI 슬로프 홍수의 영향을 받지 않도록 하는 \"해자\" 가 있다고 생각한다고 말했습니다. 그러나 동시에 그는 자신의 팀이 생성형 AI를 \"사고 파트너\" 로 사용하여 글을 쓰고 있으며, [...] Tubefilter를 방문하여 더 멋진 이야기를 듣는 학생들에게 \"완벽한 식사\" 를 제공 할 수 있다고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:28.609Z",
+      "fetchedAt": "2026-11-09T23:58:04.326Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +615,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:28.808Z",
+      "fetchedAt": "2026-11-09T23:58:04.526Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +696,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:28.888Z",
+      "fetchedAt": "2026-11-09T23:58:04.585Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -790,7 +795,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:33.074Z",
+      "fetchedAt": "2026-11-09T23:58:08.095Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -881,7 +886,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:33.357Z",
+      "fetchedAt": "2026-11-09T23:58:08.355Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -889,6 +894,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+          "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+          "pubDate": "2026-11-09T19:21:46.000Z",
+          "image": null,
+          "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+          "keywords": [
+            "Startups",
+            "Fundraising",
+            "In Brief",
+            "Nominal"
+          ],
+          "isForeign": true,
+          "titleKo": "AI 하드웨어 스타트업 명목, 8개월 만에 밸류에이션을 $ 3B로 3배 증가",
+          "summaryKo": "하드웨어 엔지니어링을 위한 AI 플랫폼을 제공하고 Anduril을 주요 고객으로 주장하는 스타트업인 Nominal은 밸류에이션을 세 배로 늘리는 또 다른 대규모 자금 조달을 제기했습니다."
+        },
         {
           "title": "How a Blue Wave midterm might reshape the AI industry",
           "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
@@ -958,27 +979,9 @@
           "isForeign": true,
           "titleKo": "Axiom Math는 AI가 수학에서 벗어나기를 원합니다.",
           "summaryKo": "AI가 확인되지 않은 증명으로 수학을 넘쳐나게 함에 따라 Axiom Math는 검증에 베팅하고 있습니다. 스타트업의 AI 에이전트가 필드에서 가장 큰 라이브러리 중 하나인 Stacks Project를 공식적으로 확인했습니다."
-        },
-        {
-          "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-          "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-          "pubDate": "2026-11-05T15:40:34.000Z",
-          "image": null,
-          "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-          "keywords": [
-            "Startups",
-            "Transportation",
-            "drone",
-            "drone delivery",
-            "e-commerce",
-            "Walmart"
-          ],
-          "isForeign": true,
-          "titleKo": "월마트가 드론 배달에 대한 베팅을 확대함에 따라 집라인이 $ 21.5B 평가를 기록했습니다.",
-          "summaryKo": "Zipline은 $ 1.5 billion을 모금하고 Walmart와의 파트너십을 강화했습니다."
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:33.471Z",
+      "fetchedAt": "2026-11-09T23:58:10.128Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1077,7 +1080,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:36.278Z",
+      "fetchedAt": "2026-11-09T23:58:12.044Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1120,23 +1123,6 @@
           "summaryKo": null
         },
         {
-          "title": "영주시, 공동주택 관리보조금 지원사업 대상 단지 모집 - 경북매일",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQzJhN0xEYVRmWTRRVkpVVWFlRkJseFNvY3RGemhhNzBlR3YwWFBzTkRqdzg2RjFrMzl6UHJOUjE3YXdsVGh5OTRuSkhxQ3dTUms4SlkyT1V0UQ?oc=5",
-          "pubDate": "2026-11-09T01:59:00.000Z",
-          "image": null,
-          "summary": "영주시, 공동주택 관리보조금 지원사업 대상 단지 모집 경북매일",
-          "keywords": [
-            "영주시",
-            "공동주택",
-            "관리보조금",
-            "지원사업",
-            "대상"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "여수시, 2027년 어선 장비 지원사업 신청자 모집 - https://www.theleader.co.kr/",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CMmFHQmZlSVJBWmtJME1pVkFPaEZHNVhoWkFfUEFzYTFWUG9FN3JmcHpCVmZ1SVpYRlNvdVZ6bng4b0tGMmV5d1g1VElPc25FeG1QSG1icjdMZkZ5X2tPb2RuYmo3dDNmT1BHaVp3?oc=5",
           "pubDate": "2026-11-09T08:52:23.000Z",
@@ -1148,6 +1134,23 @@
             "어선",
             "장비",
             "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "평택시, 2027년 1단계 공공근로사업 참여자 136명 모집…오는 20일까지 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13OEh2enBYaHFuR1pENElzSUYxLXo5U0lwdEgxU0tmM0dxcmd1MzNRNFdGc0hlOS1HUlhTdEFPa0EwTzZOTDB1NHdDMHc1SkdBRGVlN2pMU2ZNVHdY?oc=5",
+          "pubDate": "2026-11-09T05:51:00.000Z",
+          "image": null,
+          "summary": "평택시, 2027년 1단계 공공근로사업 참여자 136명 모집…오는 20일까지 뉴스핌",
+          "keywords": [
+            "평택시",
+            "2027년",
+            "1단계",
+            "공공근로사업",
+            "참여자"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1171,77 +1174,77 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-09T15:16:36.694Z",
+      "fetchedAt": "2026-11-09T23:58:12.434Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "스타트업",
-      "label": "스타트업",
+      "key": "경제",
+      "label": "경제",
       "count": 5,
       "rank": 1,
       "change": "up"
     },
     {
-      "key": "경제",
-      "label": "경제",
-      "count": 5,
-      "rank": 2,
-      "change": "same"
-    },
-    {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 3,
-      "change": "same"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 5,
+      "change": "up"
     },
     {
-      "key": "엔비디아",
-      "label": "엔비디아",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 4,
-      "rank": 7,
-      "change": "new"
+      "rank": 6,
+      "change": "down"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
-      "count": 3,
-      "rank": 8,
+      "key": "2027년",
+      "label": "2027년",
+      "count": 2,
+      "rank": 7,
       "change": "new"
     },
     {
       "key": "ai",
       "label": "AI",
       "count": 2,
-      "rank": 9,
-      "change": "new"
+      "rank": 8,
+      "change": "up"
     },
     {
       "key": "dexbench",
       "label": "DexBench",
+      "count": 2,
+      "rank": 9,
+      "change": "up"
+    },
+    {
+      "key": "show",
+      "label": "Show",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1281,52 +1284,52 @@
       "labelKo": "다음을 따르세요"
     },
     {
-      "key": "homepage feature",
-      "label": "Homepage Feature",
-      "count": 4,
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 5,
-      "change": "same",
-      "labelKo": "홈페이지 기능"
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "articles",
       "label": "Articles",
-      "count": 3,
+      "count": 2,
       "rank": 6,
       "change": "same",
       "labelKo": "기사"
     },
     {
-      "key": "featured",
-      "label": "Featured",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "추천 동영상"
-    },
-    {
-      "key": "news",
-      "label": "News",
-      "count": 3,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "뉴스"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
+      "key": "charts",
+      "label": "Charts",
       "count": 2,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "AI"
+      "rank": 7,
+      "change": "new",
+      "labelKo": "차트"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 2,
-      "rank": 10,
-      "change": "same",
+      "rank": 8,
+      "change": "up",
       "labelKo": "시행 조치"
+    },
+    {
+      "key": "featured",
+      "label": "Featured",
+      "count": 2,
+      "rank": 9,
+      "change": "down",
+      "labelKo": "추천 동영상"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "모금 활동"
     }
   ]
 }
