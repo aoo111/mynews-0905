@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-11T13:37:09.917Z",
+  "collectedAt": "2026-11-11T21:03:55.325Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:00.695Z",
+      "fetchedAt": "2026-11-11T21:03:40.989Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회, Gardner Bancshares, Inc. 및 Small Business Bank와의 집행 조치 종료 발표"
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:00.775Z",
+      "fetchedAt": "2026-11-11T21:03:41.130Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:02.018Z",
+      "fetchedAt": "2026-11-11T21:03:42.286Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -313,6 +313,23 @@
           "summaryKo": "2만 명 이상의 베테랑 및 전환 서비스 회원이 1년간 ChatGPT Plus를 무료로 제공받았습니다. 그들이 민간인 경력을 준비하는 데 어떻게 사용하는지 알아보십시오."
         },
         {
+          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "link": "https://openai.com/index/jiostar-vijay-seshadri",
+          "pubDate": "2026-11-11T00:00:00.000Z",
+          "image": null,
+          "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+          "keywords": [
+            "JioStar",
+            "chief",
+            "architect",
+            "on",
+            "AI"
+          ],
+          "isForeign": true,
+          "titleKo": "JioStar의 수석 아키텍트가 전하는 5억 명 규모의 사용자 대상 AI 발견 사례",
+          "summaryKo": "JioStar의 비제이 세샤드리(Vijay Seshadri)가 5억 명 규모의 사용자에게 AI를 도입한 경험을 설명합니다. 평가, 가드레일 및 AI를 프로덕션 환경에 도입하는 방법에 대한 그의 교훈을 읽어보세요."
+        },
+        {
           "title": "Helping caregivers use AI in everyday life",
           "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
           "pubDate": "2026-11-10T12:00:00.000Z",
@@ -337,22 +354,9 @@
           "isForeign": true,
           "titleKo": "ChatGPT에서 기업 소개",
           "summaryKo": "비즈니스 정보를 관리하고, 비즈니스가 어떻게 표시되는지에 대한 인사이트를 얻고, ChatGPT에서 관심을 실천으로 옮기세요."
-        },
-        {
-          "title": "Closing the AI guidance gap in education",
-          "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "pubDate": "2026-11-10T09:00:00.000Z",
-          "image": null,
-          "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "교육에서의 AI 지침 격차 해소",
-          "summaryKo": "OpenAI의 EMEA 교육 파트너십을 통해 교사, AI 문맹 퇴치 및 독립적 인 학습을 지원하는 새로운 ThinkYoung 연구 및 교훈."
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:04.298Z",
+      "fetchedAt": "2026-11-11T21:03:45.169Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -361,92 +365,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Astro와 Typst로 Open Graph 이미지 만들기",
-          "link": "https://news.hada.io/topic?id=36990&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T13:01:52.000Z",
+          "title": "M John Harrison, SF 작가 최초로 부커상 수상",
+          "link": "https://news.hada.io/topic?id=37004&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-11T19:47:36.000Z",
           "image": null,
-          "summary": "게시물마다 이미지를 수동으로 고르는 대신, Typst와 Astro를 연결해 게시물 제목이 담긴 공유용 이미지 카드를 빌드 시점에 생성함 Typst는 기본 PDF 출력 외에 PNG 생성도 지원하며, 명령줄 입력을 템플릿에 전달해 게시물별 제목과 레이아웃을 반영할 수 있음 Astro Content Collection에서 게시물 ID와 제목을 가져오고, 게시물별 정적 경로에서 PNG를 반환하는 엔드포인트를 구성함 이미지 엔드포인트는 Typst CLI를 실행해 PNG 바이너리를 받아 image/png 응답으로 반환하며, 사이트 빌드 결과에 이미지 파일이 생성됨 공유 플랫폼 …",
+          "summary": "81세 M John Harrison이 근미래 재난 이후를 그린 소설 The End of Everything으로 2026년 부커상을 수상하며 역대 최고령 수상자가 됨 부커상 재단은 이전에도 SF를 집필한 수상자는 있었지만, 본격적인 SF 문단 출신 작가의 수상은 처음이라고 구분함 소설은 원인을 이해할 수 없는 재난 이후 영국 Kent 해안에서 살아가는 두 인물과, 정체와 의도를 알 수 없는 거대 변신 존재 iGhetti를 다룸 심사위원단은 하루 동안 논의한 끝에 만장일치로 수상작을 선정함 동료 작가들의 존경에도 문학소설의 주변부에 머물렀던 Harrison이 주류 문 …",
           "keywords": [
-            "Astro와",
-            "Typst로",
-            "Open",
-            "Graph",
-            "이미지"
+            "John",
+            "Harrison",
+            "SF",
+            "작가",
+            "최초로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "옛날 게임 프로그래밍의 기막힌 최적화 묘수 (2013)",
-          "link": "https://news.hada.io/topic?id=36989&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T12:34:09.000Z",
+          "title": "선형계획법으로 가중치 공간 프로그래밍을 할 수 있을까?",
+          "link": "https://news.hada.io/topic?id=37003&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-11T19:44:36.000Z",
           "image": null,
-          "summary": "8비트 PC용 횡스크롤 게임에서 이미 수작업으로 최적화한 배경 타일 복사 루틴을 약 70% 더 빠르게 만들어, 끊기던 움직임을 부드럽게 바꾼 사례임 6809의 스택 포인터 2개와 다중 레지스터 push/pull 명령을 메모리 복사에 전용하고, DP 레지스터까지 동원해 한 번에 7바이트를 옮김 스택의 읽기와 쓰기 방향이 반대라 이미지 순서가 뒤틀렸지만, 타일을 7바이트 블록 단위로 미리 역순 배치해 복사 과정에서 원래 모습으로 돌아오게 함 사운드 인터럽트가 스택으로 쓰던 타일 메모리를 훼손하자, 손상 대상을 화면 버퍼로 옮기고 그리기 …",
+          "summary": "Qwen3.5-0.8B의 반복 사고를 줄이는 가중치 수정을 선형계획법(LP)으로 구해, GPT-6 Astra의 약 8시간 탐색을 약 1분씩 걸리는 몇 차례 최적화로 대체함 반복을 유발하는 잔차 스트림 방향을 고정하면, 반복 토큰은 반대 방향으로 밀고 정상적인 추론 토큰은 거의 건드리지 않는 조건을 선형 부등식으로 만들 수 있음 Astra와 같은 방향을 사용한 LP 수정은 8분의 1 수준의 가중치만 변경하면서 GSM8K, MATH-500, IFEval에서 잡음 범위 내의 유사한 성능을 얻음 가중치를 바꾸지 않고 모든 토큰에 일정한 조향 벡터(steering vector) 를 …",
           "keywords": [
-            "옛날",
-            "게임",
-            "프로그래밍의",
-            "기막힌",
-            "최적화"
+            "선형계획법으로",
+            "가중치",
+            "공간",
+            "프로그래밍을",
+            "있을까"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 에이전트가 글을 제대로 쓰도록 만들기, Human-readable writing",
-          "link": "https://news.hada.io/topic?id=36988&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T11:40:20.000Z",
+          "title": "WebGL2로 구현한 극사실적인 모래 시뮬레이터",
+          "link": "https://news.hada.io/topic?id=37002&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-11T19:41:36.000Z",
           "image": null,
-          "summary": "안녕하세요. human-readable-writing은 에이전트에 설치해 사용하는 글쓰기 스킬입니다. 지침은 압축된 명사구를 주체와 동작이 드러나는 문장으로 풀고, 조건·예외·불확실성을 해당 주장 가까이에 배치하도록 합니다. 원문의 사실·수치·전문 용어는 유지하고, 불분명한 관계는 추측해서 채우지 않도록 지시합니다. 에이전트가 작성한 문서의 가독성을 고민하다가 관련 연구 (https://arxiv.org/abs/2610.29162v1)를 참고해 작성 지침을 만들고 제 작업에 적용해 봤습니다. 개인적으로 유용하다고 느껴 재사용할 수 있는 스킬로 정리했 …",
+          "summary": "Sand는 브라우저에서 모래 알갱이를 움직이며 놀 수 있는 시뮬레이터임 WebGL2와 JavaScript로 구현됨 손가락으로 모래 알갱이를 밀거나, 드래그로 그림을 그릴 수 있음 휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐 휴대전화, 태블릿, 데스크톱의 브라우저에서 실행할 수 있음 모래 조작 방식 손가락으로 모래 알갱이를 밀거나 드래그해 그림을 그릴 수 있음 휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐 구현과 실행 환경 WebGL2와 JavaScript로 구현한 브라우저 기반 모래 시뮬레이터임 휴대전 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "에이전트가",
-            "글을",
-            "제대로"
+            "WebGL2로",
+            "구현한",
+            "극사실적인",
+            "모래",
+            "시뮬레이터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Fame - 교과서 사진으로 빈칸 시험지를 만드는 고등학생용 내신 암기 앱",
-          "link": "https://news.hada.io/topic?id=36987&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T11:36:20.000Z",
+          "title": "AWS가 마침내 자체 AWS 에뮬레이터를 만들었다",
+          "link": "https://news.hada.io/topic?id=37001&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-11T19:38:36.000Z",
           "image": null,
-          "summary": "고등학생이고 혼자 만들고 있습니다. 제가 쓰려고 만든 내신 암기 앱을 구글 플레이에 올렸습니다. 교과서나 단어장 사진을 기기 안(ML Kit)에서 글자로 읽어 지문이나 단어장으로 저장하고, 빈칸, 핵심어 빈칸, 문장 순서, 단어 단계 학습, 용어 카드, OX, 연표, 사진 가리기 등 18가지 방식으로 외웁니다. 선택 기능인 AI 읽기를 켜지 않으면 사진은 서버로 가지 않습니다. 수행평가 안내문 사진에서 마감일과 준비물을 뽑아 알림을 걸어 주고, 공부한 것은 1, 3, 7, 14일 간격으로 복습 알림을 보냅니다. 공부 기능은 계정 없이 기기에 저장되고(인터넷 연결은 필요), 공유는 압축한 글 한 덩어리를 메신저로 주고받는 방식이라 서버를 거치지 않습니다. …",
+          "summary": "AWS Emulator는 실제 AWS를 호출하지 않고 로컬 머신, 개발 서버, CI에서 AWS API를 사용하는 소프트웨어를 테스트하는 도구로, AWS 계정 없이 사용 가능함 서버 모드에서는 AWS CLI나 SDK가 에뮬레이터 엔드포인트를 향하도록 설정하며, Rust 임베디드 모드에서는 테스트마다 격리된 인스턴스를 프로세스 내부에서 실행함 개발과 테스트 전용으로, 프로덕션 워크로드나 보안 테스트에는 사용하면 안 되며 실제 AWS와의 동작 일치도는 릴리스별로 확인해야 함 Rust 기반 구조로 AWS 서비스마다 별도 크레이트를 두며, 소스 빌드와 임베디 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "Fame",
-            "교과서",
-            "사진으로"
+            "AWS가",
+            "마침내",
+            "자체",
+            "AWS",
+            "에뮬레이터를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Ask GN: 비개발자인데, AI 회의록 요약에서 제가 제안한 게 합의한 걸로 정리됩니다",
-          "link": "https://news.hada.io/topic?id=36986&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-11T11:27:58.000Z",
+          "title": "연기 감지기 오작동으로 Jane Street의 유일한 뉴욕 데이터센터가 물바다가 될 뻔한 사건",
+          "link": "https://news.hada.io/topic?id=37000&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-11T18:40:22.000Z",
           "image": null,
-          "summary": "영업 일을 하는 비개발자입니다. 고객 미팅을 녹음해서 AI로 요약을 받아 쓰고 있는데요. 요약만 보면 제가 \"이렇게 하시면 어떨까요\" 하고 꺼낸 말이 합의한 것처럼 적혀 있을 때가 있었습니다. 그대로 후속 메일에 옮기면 곤란해지니까 결국 녹음 전문을 다시 열게 됩니다. 지금은 요약을 받을 때 \"상대가 실제로 한 말과 내 제안을 나눠서, 내 제안은 미합의로 따로 떼 달라\"고 시키고 있습니다. 조금 나아졌는데, 말이 길게 섞인 회의는 여전히 헷갈리더라고요. 회의록을 AI로 정리하시는 분들은 누가 한 말인지, 정해진 건지 그냥 나 …",
+          "summary": "공사 중 발생한 먼지가 연기 경보를 울리면서 Jane Street 데이터센터의 냉방이 꺼지고 스프링클러 배관에 물이 채워져, 서버 발열만으로 살수가 시작될 수 있는 상황이 벌어짐 스프링클러는 열에 반응해 물을 분사하지만, 연기 감지 시 공기 순환을 막으려고 냉방도 중단하는 구조여서 실제 화재 없이도 위험한 온도 상승이 발생함 인근에 살던 시스템팀 직원이 현장으로 달려가 장비 전원 케이블을 직접 분리했고, 온도는 살수 기준인 화씨 150도에 못 미치는 143.6도에서 멈춤 뉴욕 주요 시장이 문을 닫은 뒤 발생해 운영 중단의 영향 …",
           "keywords": [
-            "Ask",
-            "GN:",
-            "비개발자인데",
-            "AI",
-            "회의록"
+            "연기",
+            "감지기",
+            "오작동으로",
+            "Jane",
+            "Street의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:05.198Z",
+      "fetchedAt": "2026-11-11T21:03:46.022Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -539,7 +543,7 @@
           "summaryKo": "인공지능 챗봇이 마케터에게 여전히 적절한 접점이 될 경우, 에이전시와 브랜드는 다른 캠페인에서 사용하는 것과 동일한 분석에 액세스해야 합니다. OpenAI가 해당 분야에서 새로운 도구를 개발하고 있으며 ChatGPT에서 광고주에게 새로운 기회를 창출할 가능성이 있다는 소문이 있습니다. 문제의 소문은 리서치 회사인 Marketplace Pulse의 설립자인 Juozas Kaziukėnas에서 나왔습니다. LinkedIn에서 Kaziukėnas는 \"당신의 busin을 주장하라는 메시지가 표시된 스크린샷을 게시했습니다."
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:05.358Z",
+      "fetchedAt": "2026-11-11T21:03:46.219Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -613,7 +617,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:05.526Z",
+      "fetchedAt": "2026-11-11T21:03:46.575Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -694,7 +698,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:05.575Z",
+      "fetchedAt": "2026-11-11T21:03:46.660Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -703,97 +707,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "채널톡, AI 전화로 음료 주문하는 커피차 운영…성수·선릉서 ‘보이스 알프’ 체험",
-          "link": "https://www.venturesquare.net/1127696/",
-          "pubDate": "2026-11-11T09:51:33.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/alf-789x444.png",
-          "summary": "채널코퍼레이션이 오는 11월 17일부터 18일까지 서울 성수동과 선릉 일대에서 음성 AI 에이전트 '보이스 알프'를 체험할 수 있는 커피차 캠페인을 진행한다. 방문객은 현장 안내 번호로 전화해 AI와 대화하며 음료를 주문하고, 문자로 전달된 주문서를 제출하면 무료 음료... The post 채널톡, AI 전화로 음료 주문하는 커피차 운영…성수·선릉서 ‘보이스 알프’ 체험 appeared first on 벤처스퀘어.",
+          "title": "휴넷, AI 기업교육 플랫폼 ‘랩스’ 실습 워크숍 개최…3시간 만에 맞춤형 연수원 구축",
+          "link": "https://www.venturesquare.net/1127767/",
+          "pubDate": "2026-11-11T14:45:54.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/HUE-789x428.png",
+          "summary": "휴넷이 11월 10일 서울 구로구 휴넷캠퍼스에서 기업교육 담당자 30여 명을 대상으로 AI 기업교육 플랫폼 '랩스' 실습 워크숍을 개최했다. 참석자들은 3시간 동안 자사에 맞는 온라인 연수원을 설계하고 교육과정 구성, 학습자 관리, 성과 분석 기능을 체험했다. 랩스는 ... The post 휴넷, AI 기업교육 플랫폼 ‘랩스’ 실습 워크숍 개최…3시간 만에 맞춤형 연수원 구축 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI기업교육",
+            "HRD",
+            "교육DX"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "에머슨, AI 데이터센터 전력·냉각 통합 관리 기술 공개…설비 고장 예측과 운영 효율 개선",
+          "link": "https://www.venturesquare.net/1127759/",
+          "pubDate": "2026-11-11T14:43:31.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/2026-7-778x522.jpg",
+          "summary": "에머슨이 11월 4일부터 6일까지 서울 aT센터에서 열린 '데이터센터코리아 2026'에 참가해 AI 데이터센터의 전력·냉각 인프라 운영을 위한 자동화 솔루션을 공개했다. 스마트 계측기와 디지털 밸브 컨트롤러를 활용한 자기진단 기술, AMS 기반 설비 상태 분석과 예지보... The post 에머슨, AI 데이터센터 전력·냉각 통합 관리 기술 공개…설비 고장 예측과 운영 효율 개선 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI데이터센터",
+            "Ovation",
+            "냉각시스템"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "위킵, 인천반도체고와 산학협력…AI 물류 현장에 IT·소프트웨어 인재 연결",
+          "link": "https://www.venturesquare.net/1127751/",
+          "pubDate": "2026-11-11T14:39:35.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/759264db-cc70-4c58-8c8b-d25fa21b3a4c-696x522.jpeg",
+          "summary": "AI 기반 풀필먼트 기업 위킵이 인천반도체고등학교와 IT·소프트웨어 전공 학생들의 현장실습 및 취업 지원을 위한 산학협력 협약을 체결했다. 위킵은 학과 개편 이전 IT 계열 3학년 학생들을 중심으로 현장실습을 운영하고, 산업안전 및 근로기준을 준수하며 학생 평가와 피드... The post 위킵, 인천반도체고와 산학협력…AI 물류 현장에 IT·소프트웨어 인재 연결 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "#취업지원",
+            "AI풀필먼트",
+            "FBW"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "갤럭시코퍼레이션, 로봇과 마술 결합한 ‘폴리매스’ 공개…피지컬 AI 엔터테인먼트 확장",
+          "link": "https://www.venturesquare.net/1127743/",
+          "pubDate": "2026-11-11T14:05:00.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-53-778x522.jpg",
+          "summary": "갤럭시코퍼레이션이 11월 10일 세계 평화를 위한 과학의 날을 맞아 갤럭시로봇파크에서 'POLYMATH' 행사를 개최하고 초융합 폴리매스 기업 비전을 제시했다. 행사에서는 마술사 이준형과 로봇이 협업한 공연을 선보였으며, 신태균 내일모레연구소장은 신간 를 통해 인문학·... The post 갤럭시코퍼레이션, 로봇과 마술 결합한 ‘폴리매스’ 공개…피지컬 AI 엔터테인먼트 확장 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "AI엔터테인먼트",
+            "MACH33",
+            "POLYMATH"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "라플라스테크놀로지스, 커머스 데이터 AI 분석용 MCP 출시…품절 예측부터 수익성 진단까지",
+          "link": "https://www.venturesquare.net/1127735/",
+          "pubDate": "2026-11-11T13:46:46.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/laplace_main-789x444.jpg",
+          "summary": "라플라스테크놀로지스가 Claude와 ChatGPT 등 생성형 AI에서 커머스 데이터를 분석하고 관리할 수 있는 MCP 서버를 정식 출시했다. 라플라스는 50개 이상의 판매 채널에서 수집한 주문 데이터와 광고비, 재고, 원가, 물류비 등을 SKU 기준으로 통합해 제공한다... The post 라플라스테크놀로지스, 커머스 데이터 AI 분석용 MCP 출시…품절 예측부터 수익성 진단까지 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
             "AI에이전트",
-            "AI전화상담",
-            "SaaS"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "위버스마인드 정성은 대표, EY 최우수 기업가상 수상…뇌새김 넘어 라이프 솔루션 확장",
-          "link": "https://www.venturesquare.net/1127694/",
-          "pubDate": "2026-11-11T09:48:35.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/we-3-783x522.jpg",
-          "summary": "위버스마인드 정성은 대표가 EY한영이 주최한 '제20회 EY 최우수 기업가상'에서 라이징 스타 부문을 수상했다. 정 대표는 누적 학습자 205만 명을 확보한 교육 브랜드 '뇌새김'을 성장시키고, AI 기술과 습관 설계 역량을 바탕으로 이동·건강·뷰티 분야로 사업을 확장... The post 위버스마인드 정성은 대표, EY 최우수 기업가상 수상…뇌새김 넘어 라이프 솔루션 확장 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI에듀테크",
-            "EY최우수기업가상",
-            "EY한영"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "알고케어, 표정·음성 분석 AI로 CES 2027 혁신상 2개 수상…누적 8관왕",
-          "link": "https://www.venturesquare.net/1127684/",
-          "pubDate": "2026-11-11T09:45:18.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/261111_fin-696x522.jpg",
-          "summary": "알고케어가 AI 기반 정서·인지 건강관리 솔루션 '알고마인드'로 CES 2027 혁신상 2개 부문을 수상하며 누적 8관왕을 기록했다. 알고마인드는 영양제 디스펜서 사용 과정에서 얼굴 표정과 음성, 터치 패턴을 분석해 정서·인지 기능의 변화 신호를 파악하도록 설계된 기술... The post 알고케어, 표정·음성 분석 AI로 CES 2027 혁신상 2개 수상…누적 8관왕 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI웰니스",
-            "AI헬스케어",
-            "algoMind"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "와디즈, 화장실 찾는 키링부터 사우나 가방까지…일상의 불편과 취향이 펀딩으로",
-          "link": "https://www.venturesquare.net/1127685/",
-          "pubDate": "2026-11-11T09:38:48.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/135-696x522.jpg",
-          "summary": "와디즈에서 생활 속 불편과 개인의 취향을 반영한 이색 펀딩 프로젝트들이 주목받고 있다. 휴지 모양의 '화장실 찾는 NFC 키링'은 11월 9일 기준 약 4,000만 원을 모았으며, 롯데월드 '다크 판타지 페스티벌' 공식 굿즈는 약 2,200만 원의 펀딩액으로 마감됐다.... The post 와디즈, 화장실 찾는 키링부터 사우나 가방까지…일상의 불편과 취향이 펀딩으로 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "NFC키링",
-            "고독한사우너",
-            "다크판타지페스티벌"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "리브애니웨어·런데이, 동네 러닝 코스를 지역 체류 콘텐츠로 연결…’우리 동네 자랑런’ 개최",
-          "link": "https://www.venturesquare.net/1127672/",
-          "pubDate": "2026-11-11T09:29:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/LIVE-789x444.jpg",
-          "summary": "리브애니웨어와 런데이가 11월 16일부터 12월 13일까지 4주간 '우리 동네 자랑런' 챌린지를 진행한다. 런데이 앱에서 신청한 뒤 누적 10km를 달리면 완주할 수 있으며, 완주자 전원에게 리브애니웨어 5만 원 할인 쿠폰을 제공한다. 완주 후 인스타그램에 동네 러닝 ... The post 리브애니웨어·런데이, 동네 러닝 코스를 지역 체류 콘텐츠로 연결…’우리 동네 자랑런’ 개최 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "김유라",
-            "단기임대",
-            "동네러닝"
+            "ChatGPT",
+            "Claude"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:07.963Z",
+      "fetchedAt": "2026-11-11T21:03:48.939Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -880,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:08.265Z",
+      "fetchedAt": "2026-11-11T21:03:49.444Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -888,6 +892,22 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+          "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "pubDate": "2026-11-11T19:34:55.000Z",
+          "image": null,
+          "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+          "keywords": [
+            "Startups",
+            "AI",
+            "Fundraising",
+            "semiconductor chips"
+          ],
+          "isForeign": true,
+          "titleKo": "7억 2천만 달러 규모의 투자 유치로 영국의 Fractile이 AI 칩 경쟁에서 우위를 점하다",
+          "summaryKo": "Fractile은 이제 특수 목적 AI 칩을 위한 경쟁에서 가장 많은 자금을 지원받는 기업 중 하나가 되었습니다."
+        },
         {
           "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
           "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -950,27 +970,9 @@
           "isForeign": true,
           "titleKo": "AI 하드웨어 스타트업 명목, 8개월 만에 밸류에이션을 $ 3B로 3배 증가",
           "summaryKo": "하드웨어 엔지니어링을 위한 AI 플랫폼을 제공하고 Anduril을 주요 고객으로 주장하는 스타트업인 Nominal은 밸류에이션을 세 배로 늘리는 또 다른 대규모 자금 조달을 제기했습니다."
-        },
-        {
-          "title": "How a Blue Wave midterm might reshape the AI industry",
-          "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-          "pubDate": "2026-11-06T18:00:00.000Z",
-          "image": null,
-          "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-          "keywords": [
-            "Startups",
-            "AI",
-            "marvell",
-            "CrowdStrike",
-            "OpenAI",
-            "Equity podcast"
-          ],
-          "isForeign": true,
-          "titleKo": "블루웨이브 중간고사가 AI 산업을 재편할 수 있는 방법",
-          "summaryKo": "이번 주 미국 중간 선거에서 민주당의 역사적인 승리는 기술 산업을 변화시킬 수 있습니다. 대중은 화요일에 41개의 데이터 센터 관련 투표 조치에 투표했으며, 대다수는 데이터 센터 개발에 더 많은 제한을 가하기로 결정했습니다. 그리고 데이터 센터가 직접 투표 용지에 없었을 때조차도 그들은 […]"
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:08.419Z",
+      "fetchedAt": "2026-11-11T21:03:52.480Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1069,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:09.553Z",
+      "fetchedAt": "2026-11-11T21:03:54.527Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1112,23 +1114,6 @@
           "summaryKo": null
         },
         {
-          "title": "창업지원 공고 6건 20일까지 마감…12일 핀테크 챌린지부터 신보 입주까지 - ISSUE ON (이슈온)",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdlE1TmhrOXhpQVBvbXpYXzJVZHRMSm1FZ2lKRGhkZzc3V2VTamh6WFdFUEJGTDNjVUotSlBUYnhobVJYdUVweWFUbTdVckdyWGNDa0RqWDhjNVpFMURvRmJSS0FHNUZyMlV3?oc=5",
-          "pubDate": "2026-11-11T01:55:55.000Z",
-          "image": null,
-          "summary": "창업지원 공고 6건 20일까지 마감…12일 핀테크 챌린지부터 신보 입주까지 ISSUE ON (이슈온)",
-          "keywords": [
-            "창업지원",
-            "공고",
-            "6건",
-            "20일까지",
-            "마감"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "영주시, 공동주택 관리보조금 지원사업 대상 단지 모집 - 경북매일",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZQzJhN0xEYVRmWTRRVkpVVWFlRkJseFNvY3RGemhhNzBlR3YwWFBzTkRqdzg2RjFrMzl6UHJOUjE3YXdsVGh5OTRuSkhxQ3dTUms4SlkyT1V0UQ?oc=5",
           "pubDate": "2026-11-09T01:59:00.000Z",
@@ -1140,6 +1125,23 @@
             "관리보조금",
             "지원사업",
             "대상"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "창업지원 공고 6건 20일까지 마감…12일 핀테크 챌린지부터 신보 입주까지 - ISSUE ON (이슈온)",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdlE1TmhrOXhpQVBvbXpYXzJVZHRMSm1FZ2lKRGhkZzc3V2VTamh6WFdFUEJGTDNjVUotSlBUYnhobVJYdUVweWFUbTdVckdyWGNDa0RqWDhjNVpFMURvRmJSS0FHNUZyMlV3?oc=5",
+          "pubDate": "2026-11-11T01:55:55.000Z",
+          "image": null,
+          "summary": "창업지원 공고 6건 20일까지 마감…12일 핀테크 챌린지부터 신보 입주까지 ISSUE ON (이슈온)",
+          "keywords": [
+            "창업지원",
+            "공고",
+            "6건",
+            "20일까지",
+            "마감"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1163,7 +1165,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-11T13:37:09.911Z",
+      "fetchedAt": "2026-11-11T21:03:54.871Z",
       "error": null
     }
   },
@@ -1173,80 +1175,80 @@
       "label": "경제",
       "count": 6,
       "rank": 1,
-      "change": "up"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 2,
       "change": "same"
     },
     {
       "key": "디지털자산",
       "label": "디지털자산",
       "count": 2,
-      "rank": 3,
-      "change": "new"
+      "rank": 2,
+      "change": "up"
     },
     {
       "key": "모태펀드",
       "label": "모태펀드",
       "count": 2,
-      "rank": 4,
-      "change": "new"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 5,
+      "rank": 4,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 7,
-      "change": "down"
+      "rank": 6,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 8,
-      "change": "down"
-    },
-    {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 3,
-      "rank": 9,
-      "change": "new"
+      "rank": 7,
+      "change": "up"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 9,
+      "change": "down"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
       "rank": 10,
-      "change": "same"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
     {
-      "key": "openai",
-      "label": "openai",
-      "count": 2,
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
       "rank": 1,
-      "change": "same",
-      "labelKo": "openai"
+      "change": "up",
+      "labelKo": "AI"
     },
     {
       "key": "ads (deprecated)",
@@ -1273,52 +1275,52 @@
       "labelKo": "스타트업"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 5,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
-      "rank": 6,
-      "change": "same",
+      "rank": 5,
+      "change": "up",
       "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "company",
-      "label": "Company",
-      "count": 3,
-      "rank": 7,
-      "change": "same",
-      "labelKo": "社"
     },
     {
       "key": "platforms",
       "label": "Platforms",
       "count": 3,
-      "rank": 8,
-      "change": "same",
+      "rank": 6,
+      "change": "up",
       "labelKo": "플랫폼"
     },
     {
       "key": "brands & marketing",
       "label": "Brands & Marketing",
       "count": 2,
-      "rank": 9,
-      "change": "same",
+      "rank": 7,
+      "change": "up",
       "labelKo": "브랜드 및 마케팅"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "count": 2,
+      "rank": 8,
+      "change": "down",
+      "labelKo": "社"
     },
     {
       "key": "enforcement actions",
       "label": "Enforcement Actions",
       "count": 2,
-      "rank": 10,
-      "change": "same",
+      "rank": 9,
+      "change": "up",
       "labelKo": "시행 조치"
+    },
+    {
+      "key": "fundraising",
+      "label": "Fundraising",
+      "count": 2,
+      "rank": 10,
+      "change": "new",
+      "labelKo": "모금 활동"
     }
   ]
 }
