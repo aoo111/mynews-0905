@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-14T08:37:51.439Z",
+  "collectedAt": "2026-11-14T16:23:04.414Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:43.834Z",
+      "fetchedAt": "2026-11-14T16:22:58.293Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 Mutual Federal Bancorp, MHC 및 MFB Bancorp, Inc. 의 두 가지 신청서에 대한 승인을 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:43.976Z",
+      "fetchedAt": "2026-11-14T16:22:58.360Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,74 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+          "pubDate": "2026-11-14T19:19:23.000Z",
+          "image": null,
+          "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래프(World Product Graph)’라는 프로젝트를 추진하고 있다고 보도했다.브랜드에서 제공받는 정보와 다른 유통 사이트에서 수집한 데이터를 결합해 상품 간 차이와 관계를 파악하는 것이 목표다. 이용자가 최신 모델을",
+          "keywords": [
+            "아마존",
+            "세계",
+            "상품",
+            "정보",
+            "통합"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217411",
+          "pubDate": "2026-11-14T18:45:47.000Z",
+          "image": null,
+          "summary": "스콧 베선트 미국 재무장관이 엔비디아 AI 칩을 구매해 온 싱가포르 기업 메가스피드에 대한 수출 통제를 미뤄 온 상무부를 공개적으로 비판했다. 재무부 등 4개 정부 기관이 수개월 전부터 제재에 찬성했지만, 상무부가 조치를 취하지 않았다는 것이다. 젠슨 황 전 엔비디아 CEO의 퇴진 이후 하워드 러트닉 상무장관의 경질 가능성까지 거론되고 있으며, 러트닉 장관은 다음 달 의회에서 증언하기로 했다.베선트 장관은 13일(현지시간) CNBC 인터뷰에서 메가스피드에 대한 제재 지연 문제를 언급하며 상무부의 대응을 비판했다.그는 \"재무부와 국방",
+          "keywords": [
+            "재무장관",
+            "메가스피드",
+            "제재",
+            "지연에",
+            "상무부"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217410",
+          "pubDate": "2026-11-14T17:56:54.000Z",
+          "image": null,
+          "summary": "젠슨 황 전 CEO가 물러난 뒤 엔비디아 직원들 사이에서 그의 복귀를 요구하는 목소리가 나오고 있다. 이사회에 황의 거취를 결정할 때 직원들의 의견을 반영하라고 요구한 사내 게시물에는 1600개 이상의 댓글이 달렸다. 회사 밖에서도 복귀 청원이 시작됐으며, 일론 머스크 테슬라 CEO도 참여 의사를 밝혔다.와이어드는 12일(현지시간) 엔비디아 내부 문서를 입수해 황 전 CEO의 복귀를 요구하는 직원들의 움직임을 보도했다.이에 따르면, 엔비디아에서 오랫동안 근무한 한 엔지니어는 황의 사임 발표 전에 회사 내부 '건의함(suggestio",
+          "keywords": [
+            "엔비디아",
+            "직원들",
+            "젠슨",
+            "복귀시켜라",
+            "사내"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217409",
+          "pubDate": "2026-11-14T17:37:48.000Z",
+          "image": null,
+          "summary": "일론 머스크 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 게시물을 올렸다. 앞서 황의 해임 가능성이 제기됐을 때는 그를 영입할 수 있다면 영광이라고 밝혔으나, 현재까지 실제 영입 제안이나 구체적인 계획이 알려진 것은 없다.머스크는 13일(현지시간) X에 영화의 한 장면을 공유하며 황 전 CEO에 대한 존경심을 드러냈다.공유한 영상은 2023년 개봉한 영화 '에어(Air)'의 약 2분짜리 장면이다. 나이키가 농구 선수 마이클 조던과 계약해 '에어 조던' 브랜드를 탄생시키는 과정을 그린 작품이다.영상에서 나이키 임",
+          "keywords": [
+            "머스크",
+            "젠슨",
+            "퇴진에",
+            "영화로",
+            "경의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217407",
@@ -204,77 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217406",
-          "pubDate": "2026-11-14T16:49:31.000Z",
-          "image": null,
-          "summary": "젠슨 황 전 엔비디아 CEO가 대규모 AI 투자에 제동을 걸었던 콜레트 크레스 최고재무책임자(CFO)를 회의에서 공개적으로 깎아내렸던 사실이 드러났다. 황의 공격적인 투자 전략을 견제해 온 크레스가 임시 CEO에 오르면서, 엔비디아의 AI 산업 투자 방식에도 변화가 생길지 주목된다.월스트리트저널(WSJ)과 로이터는 13일(현지시간) 복수의 소식통을 인용, 황 전 CEO와 크레스 임시 CEO가 엔비디아의 대규모 AI 투자와 고객사 금융 지원 문제를 놓고 여러 차례 충돌했다고 보도했다.이에 따르면, 황 전 CEO는 지난 8월 주요 재무",
-          "keywords": [
-            "젠슨",
-            "투자에",
-            "제동",
-            "걸었던",
-            "CFO가"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217405",
-          "pubDate": "2026-11-14T15:53:09.000Z",
-          "image": null,
-          "summary": "말레이시아 정부가 싱가포르 클라우드 컴퓨팅 기업 메가스피드의 현지 계열사가 수입한 엔비디아 AI 칩의 재수출 여부를 조사하고 있다. 젠슨 황 전 엔비디아 CEO와 관련된 의혹으로 주목받은 메가스피드가 미국의 반도체 수출 통제를 우회하는 데 활용됐을 가능성이 제기되자, 말레이시아 정부도 직접 칩 유통 경로 확인에 나선 것이다.말레이시아 투자통상산업부는 13일(현지시간) 세관 당국과 함께 메가스피드 계열사인 스피드매트릭스(Speedmatrix)가 수입한 AI 칩과 서버가 다른 국가로 재수출됐는지, 관련 거래가 자국 법률을 준수했는지 조",
-          "keywords": [
-            "말레이시아",
-            "메가스피드",
-            "AI",
-            "재수출",
-            "의혹"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
-          "pubDate": "2026-11-14T11:18:31.000Z",
-          "image": null,
-          "summary": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언엠플로이먼트 랩스(Unemployment Labs)의 윌 드퓌 연구원은 12일(현지시간) 연구 보고서를 통해 중국 AI 기업 4곳이 공개한 모델 6종에서 엔비디아 블랙웰 GPU와 일치하는 초기 가중치 패턴을 발견했다고 밝",
-          "keywords": [
-            "딥시크",
-            "문샷",
-            "중국",
-            "4개사",
-            "수출"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[기고] AI 시대, ‘검색되는 브랜드’에서 ‘추천되는 브랜드’로",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217392",
-          "pubDate": "2026-11-14T11:15:00.000Z",
-          "image": null,
-          "summary": "생성 AI의 확산은 기업의 업무 방식뿐 아니라 소비자가 제품과 브랜드를 탐색하는 방식까지 바꾸고 있다.포털이나 이커머스 플랫폼에서 키워드를 검색하고 여러 결과를 직접 비교하던 과정에 AI에게 자신의 상황과 조건을 설명하고 적합한 제품을 제안받는 방식이 더해지고 있다.AI 마케팅 솔루션 기업의 전략을 총괄하는 입장에서 이 변화에 주목하는 이유는 명확하다.AI가 업무 생산성을 높이는 도구를 넘어 소비자와 브랜드를 연결하고 구매 결정에 영향을 미치는 새로운 접점으로 부상하고 있기 때문이다.이러한 변화와 함께 주목받는 개념이 AEO(답변",
-          "keywords": [
-            "기고",
-            "AI",
-            "시대",
-            "검색되는",
-            "브랜드"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:45.443Z",
+      "fetchedAt": "2026-11-14T16:22:59.450Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -360,7 +360,7 @@
           "summaryKo": "Holiday Extras는 Codex를 통해 고객 경험을 더 나은 앱, 더 높은 예약 전환율, 새로운 성장 가능성으로 전환하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:45.689Z",
+      "fetchedAt": "2026-11-14T16:22:59.589Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,90 +369,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Go의 확률적 자료구조",
-          "link": "https://news.hada.io/topic?id=37152&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-14T08:05:04.000Z",
+          "title": "Nvidia 이사, Jensen Huang 스캔들 몇 주 전 주식 약 1.3조원 매각",
+          "link": "https://news.hada.io/topic?id=37163&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T15:39:16.000Z",
           "image": null,
-          "summary": "확률적 자료구조는 포함 여부, 빈도, 고유 항목 수, 분위수 등에 근삿값을 제공하는 대신 메모리 사용량을 수십 배에서 수천 배까지 줄일 수 있음 Bloom filter는 항목이 없다는 사실을 확실히 판별해 불필요한 I/O를 줄이고, Count-min sketch는 실제 빈도보다 작지 않은 추정치를 제공함 HyperLogLog는 고유 항목 100만 개를 약 0.8% 오차와 16KB 메모리로 집계하며, 여러 스케치를 병합해도 공통 항목을 중복 집계하지 않음 T-digest는 숫자 스트림의 분위수와 누적분포를, Top-k sketch는 자주 등장하는 항목과 빈도를 추정함. 각각 …",
-          "keywords": [
-            "Go의",
-            "확률적",
-            "자료구조"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show HN: Isometric SF - 샌프란시스코 베이 지역의 픽셀 아트 지도",
-          "link": "https://news.hada.io/topic?id=37151&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-14T07:32:32.000Z",
-          "image": null,
-          "summary": "Isometric SF는 샌프란시스코 베이 지역을 아이소메트릭 픽셀 아트로 보여주는 지도임 골든게이트부터 산호세까지 베이 지역 전체를 담음 지도를 확대/축소하며 살펴볼 수 있음 검색과 공유 기능을 지원함 모든 지도 타일은 Google Maps 3D 캡처를 바탕으로 AI 모델이 그렸음 지도 범위와 제작 방식 Isometric SF는 골든게이트부터 산호세까지 베이 지역 전체를 담은 아이소메트릭 픽셀 아트 지도로, 확대/축소와 검색, 공유가 가능함 모든 타일을 AI 모델이 Google Maps의 3D 캡처를 바탕으로 그리는 방식으로 제작함",
-          "keywords": [
-            "Show",
-            "HN:",
-            "Isometric",
-            "SF",
-            "샌프란시스코"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Jonathan Blow: AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
-          "link": "https://news.hada.io/topic?id=37150&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-14T06:37:18.000Z",
-          "image": null,
-          "summary": "Jonathan Blow: AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
-          "keywords": [
-            "Jonathan",
-            "Blow:",
-            "AI가",
-            "코딩을",
-            "해결했다면"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Nvidia, 자사 GPU를 구매할 AI 스타트업에 투자해 공급 부족을 인위적으로 조성했다는 의혹",
-          "link": "https://news.hada.io/topic?id=37149&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-14T06:34:18.000Z",
-          "image": null,
-          "summary": "Nvidia, 자사 GPU를 구매할 AI 스타트업에 투자해 공급 부족을 인위적으로 조성했다는 의혹",
+          "summary": "Nvidia의 2대 주주이자 이사인 Mark Stevens가 2026년 3분기에 약 420만 주, 약 9억 4,600만 달러($946m) 규모의 주식을 매각함. Jensen Huang CEO의 11월 12일 사임에 앞선 거래임 매각에 사전 거래 계획은 없었지만, 이것만으로 문제가 있다고 볼 수는 없음. 내부자의 주식 매각에는 회사 실적과 무관한 유동성 확보 등 다양한 이유가 있을 수 있음 첫 두 차례 매각은 견조한 2분기 실적 발표와 이후 주가 상승에 뒤이어 이뤄졌으며, Stevens는 매각 후에도 약 2,750만 주를 보유함 Huang은 Nvidia 임원 Kimberly Powell과의 두 번째 혼 …",
           "keywords": [
             "Nvidia",
-            "자사",
-            "GPU를",
-            "구매할",
-            "AI"
+            "이사",
+            "Jensen",
+            "Huang",
+            "스캔들"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
-          "link": "https://news.hada.io/topic?id=37148&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-14T05:30:59.000Z",
+          "title": "Unsloth Qwen3.8-27B 양자화 모델, Dynamic v3.1 업데이트",
+          "link": "https://news.hada.io/topic?id=37162&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T15:36:16.000Z",
           "image": null,
-          "summary": "FAA가 게시물 작성 직전 미국 모든 공항을 대상으로 지상 대기 조치를 발령함 지상 대기 조치는 게시물 작성 시점에 시행 중임 미국 공항으로 향하는 항공편은 출발할 수 없음 이미 비행 중인 항공편은 착륙이 허용됨 이번 조치는 FAA 장비 장애와 관련이 있음 조치 범위와 운항 제한 FAA가 막 발령한 지상 대기 조치가 게시물 작성 시점에 미국 모든 공항에 적용되고 있으며, FAA 장비 장애와 관련이 있음 미국 공항행 항공편의 출발은 금지되지만, 이미 공중에 있는 항공편은 착륙할 수 있음",
+          "summary": "Unsloth가 Dynamic V3.1 프리뷰를 적용한 Qwen3.8-27B GGUF를 공개함. 자체 평가에서 기존 양자화 모델과 같은 크기로 대부분의 벤치마크 정확도가 5~10% 개선됨 2~6비트 양자화 모델 대부분을 갱신했으며, 기존 UD3와 성능이 비슷해 개선 폭이 충분하지 않았던 3비트 모델은 유지함 Terminal Bench 2.1, DeepSWE v1.1 등으로 평가했으며, 컨텍스트 길이와 반복 측정 횟수에 따라 다른 양자화 방식과의 비교 결과가 달라질 수 있음을 확인함 Qwen3.8-27B는 비전과 추론을 지원하는 270억 매개변수 밀집 모델로, 기본 256K 컨텍스트를 제공 …",
           "keywords": [
-            "미국",
-            "모든",
-            "공항에",
-            "현재",
-            "지상"
+            "Unsloth",
+            "Qwen3",
+            "27B",
+            "양자화",
+            "모델"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Claude Fable 5.2로 에이전트 1,000개 팀 안전하게 돌리기 - 페르마의 마지막 정리 형식화 실험",
+          "link": "https://news.hada.io/topic?id=37159&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T14:39:02.000Z",
+          "image": null,
+          "summary": "Anthropic 연구진이 출시 전 Claude Fable 5.2로 리드 에이전트 1개와 헬퍼 999개를 돌려, 페르마의 마지막 정리 증명을 Lean으로 형식화하는 데 28.7시간이 걸렸음 9월 실험(에이전트 수십 개, 연구자 지휘, 11일)과 비교해 출력 토큰은 1/3, 증명 길이는 1/7 별도 협업 도구 없이 에이전트별 Git 브랜치와 공유 Postgres만 사용. 리드가 첫 10분 안에 Announce / Assign / Notes / Subtasks / Landed 다섯 개 표를 만들었고, 가장 어려운 정리(Langlands–Tunnell)는 헬퍼 약 750개가 붙어 최대 10단계, 2,418개 작업으로 쪼갬 안전 설 …",
+          "keywords": [
+            "Claude",
+            "Fable",
+            "2로",
+            "에이전트",
+            "000개"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: dashcamsimulator - 실제 사고를 기반으로 만들어진 블랙박스 시뮬레이션 게임",
+          "link": "https://news.hada.io/topic?id=37158&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T14:04:42.000Z",
+          "image": null,
+          "summary": "현실에서 사고를 마주했을 땐 이미 늦습니다. 운전을 시작하면 일반적인 사고부터 기상천외한 사고까지 언제든 마주할 수 있습니다. 기본적인 대응 방법만 미리 숙지해도 많은 사고에 대처할 수 있지만, 준비 없이 사고 직전의 상황을 맞닥뜨리면 제대로 대응하기 어렵다고 생각합니다. 그래서 잠깐의 놀이가 아니라 진짜 도움이 될 수 있도록, 기본적인 상황부터 국내 실제 사고 사례를 바탕으로 한 장면들까지 시뮬레이션해 볼 수 있는 블랙박스 시뮬레이터를 만들어봤고, 사고 예방에 시뮬레이션만큼 좋은 것이 없다고 생각합니다. 가 …",
+          "keywords": [
+            "Show",
+            "GN:",
+            "dashcamsimulator",
+            "실제",
+            "사고를"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Show GN: 321Dive - 여섯 바다를 골라 둘러보는 가상 3D 잠수 공간",
+          "link": "https://news.hada.io/topic?id=37157&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-14T13:45:21.000Z",
+          "image": null,
+          "summary": "힐링이 필요해서 작은 가상 바다를 만들었습니다. 제작자입니다. 직접 가본 다이빙 포인트의 즐거웠던 기억을 더듬으며 조금씩 추가하고 있습니다. 현재 보홀·말라파스쿠아·몰디브·코모도·시파단·사방·베르데를 선택할 수 있습니다. 바다를 고르고 입수해 둘러볼 수 있고, 혼자 보기와 화면 UI 숨기기 기능도 있습니다. 실제 현장 촬영물이 아니라 지역에서 영감을 받은 가상 풍경과 3D 공간입니다. 실제 다이빙 경로나 생물 출현을 보장하는 서비스는 아닙니다. 브라우저의 WebGL 지원이 필요합니다. 체험하면서 조작이나 화면에서 불 …",
+          "keywords": [
+            "Show",
+            "GN:",
+            "321Dive",
+            "여섯",
+            "바다를"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:46.417Z",
+      "fetchedAt": "2026-11-14T16:23:00.164Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -541,7 +543,7 @@
           "summaryKo": "이번 주 가장 많이 시청된 브랜드 YouTube 동영상에 대한 요약에 오신 것을 환영합니다. 크리에이터 경제의 스폰서십 트렌드를 분석하기 위해 더 방대한 Gospel Stats 주간 브랜드 보고서의 일부를 게시합니다. 공식 브랜드 파트너와 함께 게시된 모든 동영상은 순위에 포함될 수 있습니다. 그리고–이름에서 알 수 있듯이 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:46.584Z",
+      "fetchedAt": "2026-11-14T16:23:00.287Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -615,7 +617,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:46.835Z",
+      "fetchedAt": "2026-11-14T16:23:00.512Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -696,7 +698,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:46.881Z",
+      "fetchedAt": "2026-11-14T16:23:00.611Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -704,6 +706,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "[VS 기획] AI 안경은 일상을 바꾸는데, 시험장에선 부정행위 도구?…기술과 신뢰 사이의 딜레마",
+          "link": "https://www.venturesquare.net/1128607/",
+          "pubDate": "2026-11-14T10:22:09.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-2026-11-14T191024.659-783x522.png",
+          "summary": "세무사 자격시험 수석 합격자를 둘러싼 부정행위 의혹과 AI 스마트안경을 이용한 문제풀이 실험이 공개되면서 시험 공정성에 대한 논쟁이 확산하고 있다. 오는 19일 수능을 앞두고 교육당국이 스마트안경 감독 체계를 강화하는 가운데, 슈퍼코더와 홍보법인 동서남북의 조사에서는 ... The post [VS 기획] AI 안경은 일상을 바꾸는데, 시험장에선 부정행위 도구?…기술과 신뢰 사이의 딜레마 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "스타트업 트렌드",
+            "AI부정행위",
+            "AI스마트안경"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "캐치테이블, 크리스마스 예약 10초 만에 마감…인기 레스토랑 100곳 순차 오픈",
           "link": "https://www.venturesquare.net/1128560/",
@@ -775,27 +795,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "비즈크러시, 회의 기록 AI에서 실시간 통번역으로 사업 전환…국제행사·라이브 방송 공략",
-          "link": "https://www.venturesquare.net/1128519/",
-          "pubDate": "2026-11-13T07:35:26.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/BIZ-3-744x522.jpg",
-          "summary": "다국어 AI 솔루션 기업 비즈크러시가 회의 기록 중심의 기존 사업을 실시간 다국어 통번역으로 전환하고 서비스 3종을 정식 출시했다. '비즈크러시 포 컨퍼런스'는 국제행사에서 실시간 자막과 음성 통역을 제공하며, '캡크러시'는 K팝 라이브 방송 등에 60개 언어의 번역 ... The post 비즈크러시, 회의 기록 AI에서 실시간 통번역으로 사업 전환…국제행사·라이브 방송 공략 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "AI스타트업",
-            "AI통번역",
-            "BizCrush"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:49.407Z",
+      "fetchedAt": "2026-11-14T16:23:02.916Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -882,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:49.669Z",
+      "fetchedAt": "2026-11-14T16:23:03.108Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -979,7 +981,7 @@
           "summaryKo": "이 스타트업들은 헬스케어, 핀테크, 에너지, 반도체, AI 등 딥테크 부문 전반에 걸쳐 사업을 영위하고 있습니다. 9개 스타트업 모두 미국 시장 진출을 모색하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:49.816Z",
+      "fetchedAt": "2026-11-14T16:23:03.140Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1078,7 +1080,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:51.108Z",
+      "fetchedAt": "2026-11-14T16:23:04.096Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1087,17 +1089,17 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "진천군, 긴급돌봄 서비스 제공기관 16~20일 모집 - 뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DQXFTMk1xMnhuU3NuV0tJZWwyVjJkM2VNREdISUJRZWpldHBKR3kyY2hDSEtZU3BrTk5WcDdCYWZneHdmdERhR3FVVHB4WDlmZUtnUXNzbXZNQS1ZUzNQRNIBeEFVX3lxTFB2UkxwbnJBVGhpMllweXRRdlhwNEEwUDgyUlRSLWhfLUtKREFFQ2t0R1E5WFd3ZjNhREI4dU0wdXBkUVhtUzZoeEM3S3ZWczBaVldxNWtuZEsyZVpRVmxUZnJZMUNDck9nLU5JTVFHVE9fQmpxVk5xWg?oc=5",
-          "pubDate": "2026-11-14T01:03:42.000Z",
+          "title": "해커블 - 해커톤·AI공모전·창업지원사업 공고를 매주 정리해 보여주는 서비스 - GeekNews",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDS1BmSk02aWxKZUZ5RkQyMjJDR19SS0YwWUVreDFVM0k3THpEWHd4NjJlZmZZV2VhSkZONkNTR2NFVDNpVExHd1Rtbw?oc=5",
+          "pubDate": "2026-11-14T12:39:09.000Z",
           "image": null,
-          "summary": "진천군, 긴급돌봄 서비스 제공기관 16~20일 모집 뉴시스",
+          "summary": "해커블 - 해커톤·AI공모전·창업지원사업 공고를 매주 정리해 보여주는 서비스 GeekNews",
           "keywords": [
-            "진천군",
-            "긴급돌봄",
-            "서비스",
-            "제공기관",
-            "16~20일"
+            "해커블",
+            "해커톤",
+            "AI공모전",
+            "창업지원사업",
+            "공고를"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1115,23 +1117,6 @@
             "어촌",
             "정착",
             "지원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "영덕군, 청년 어업인 어촌 정착 지원…30일까지 참여자 모집 - 데일리대구경북뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQVp0RUJoY0Vod2tzQTBZejA2OVI3elBfSGdEdV9IVmh5ZFBRRWZaazRVdW4zQkw5aF9QX2s1LVdDUFl3N3RrejZyb0pMWW5VSFFIV1pMY3FIcUZlYWVUYnQ2cGdrdw?oc=5",
-          "pubDate": "2026-11-13T02:53:35.000Z",
-          "image": null,
-          "summary": "영덕군, 청년 어업인 어촌 정착 지원…30일까지 참여자 모집 데일리대구경북뉴스",
-          "keywords": [
-            "영덕군",
-            "청년",
-            "어업인",
-            "어촌",
-            "정착"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1170,79 +1155,96 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "20일까지 내년 홍성군 청년어촌정착지원사업 참여 청년 모집 - 중부매일",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iaFNMUUFJclZzMWtwY3FKVXJ1NWhUR1k1SVU4YjFiS2hoY1laRDVMcHdsRzN3OG1vUVNxNkhIQ285aFdqdFhfLTNWeHBBOUtTeVZNdVNRQVRqYndzbi14WlNpc2p5RWExMmfSAW5BVV95cUxQczlfcUV1UDgwWm8zbEh2ODNUMW1tZmgxbm9ZdDhUYWxzU1dPeG9QbFRDQ3pGNjVYcTY4MlFpeGpveWhjai1VZmdKQWphNHNGUEZDdlJyQkFMdDk3N1NiNU5hQ0QxUDJxWm1Ic21DZw?oc=5",
+          "pubDate": "2026-11-13T02:09:13.000Z",
+          "image": null,
+          "summary": "20일까지 내년 홍성군 청년어촌정착지원사업 참여 청년 모집 중부매일",
+          "keywords": [
+            "20일까지",
+            "내년",
+            "홍성군",
+            "청년어촌정착지원사업",
+            "참여"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-14T08:37:51.428Z",
+      "fetchedAt": "2026-11-14T16:23:04.405Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 1,
-      "change": "new"
-    },
-    {
       "key": "스타트업",
       "label": "스타트업",
       "count": 3,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "special post",
+      "label": "Special Post",
+      "count": 2,
       "rank": 2,
-      "change": "down"
+      "change": "new"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "down"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "down"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 6,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
       "rank": 7,
       "change": "down"
+    },
+    {
+      "key": "홍성군",
+      "label": "홍성군",
+      "count": 3,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "2027년",
       "label": "2027년",
       "count": 2,
-      "rank": 8,
-      "change": "up"
-    },
-    {
-      "key": "글로벌진출",
-      "label": "글로벌진출",
-      "count": 2,
       "rank": 9,
-      "change": "new"
+      "change": "down"
     },
     {
-      "key": "어촌",
-      "label": "어촌",
+      "key": "gn:",
+      "label": "GN:",
       "count": 2,
       "rank": 10,
       "change": "new"
