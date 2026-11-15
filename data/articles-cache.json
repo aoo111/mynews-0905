@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-15T16:48:54.727Z",
+  "collectedAt": "2026-11-15T22:30:01.225Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "매경이 전하는 세상의 지식 (매-세-지, 11월 16일)",
+          "link": "https://www.mk.co.kr/news/economy/12209421",
+          "pubDate": "2026-11-15T22:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/15/news-p.v1.20261115.746c2406e1f3494d97303c743332678b_R.jpg",
+          "summary": "1. 한국과 일본의 도심 개발이 속도 면에서 격차가 벌어지고 있습니다. 일본은 도쿄의 시나가와 차량기지에 첨단 복합단지인 ‘다카나와 게이트웨이 시티’를 조성했습니다. 개발 구상이 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "반도체는 호남으로, 자율차는 광주로…30일부터 도시단위 실증시험",
+          "link": "https://www.mk.co.kr/news/economy/12209545",
+          "pubDate": "2026-11-15T21:04:54.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/16/news-p.v1.20261115.33119bf8b35a4b7bb4876319b17f0824_R.jpg",
+          "summary": "국토부·현대차, 30일 첫 운행 도시단위 자율주행 실증 본격화국내 최초 도시 단위 자율주행 실증사업이 오는 30일 전남광주에서 시작된다. 차량 개조와 임시운행허가가 계획대로 진행되..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“사적연금 1500만원 넘으면 세금폭탄?” … ‘진실’을 알려드립니다",
+          "link": "https://www.mk.co.kr/news/economy/12209263",
+          "pubDate": "2026-11-15T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/15/news-p.v1.20261113.762d5aaa85334993b76c5d7bb0e5d56d_R.png",
+          "summary": "평생 성실하게 연금을 준비한 사람이 정작 연금을 받을 때 세금 때문에 낭패를 보는 경우가 있다. 연금을 모으고 불리는 공부만 했지, 연금을 수령하는 공부는 안 했기 때문이다. 58..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“저점매수 지금 안하면 언제 해”…개미들, 마통 끌어다 주식 베팅했다",
           "link": "https://www.mk.co.kr/news/economy/12209530",
           "pubDate": "2026-11-15T13:03:46.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "美·유럽 경유값 폭등 신음…韓은 최고가격제로 '선방'",
-          "link": "https://www.mk.co.kr/news/economy/12209431",
-          "pubDate": "2026-11-15T08:39:49.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/16/20261116_01110110000010_S00.jpg",
-          "summary": "올 초 중동 전쟁으로 촉발된 경유 가격 급등이 미국 중간선거 민심을 흔들고 유럽에서는 식료품 공급 차질을 야기했지만 한국에선 충격이 상대적으로 낮은 수준으로 억제된 것으로 나타났다..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[표] 외국환율고시표",
-          "link": "https://www.mk.co.kr/news/economy/12209428",
-          "pubDate": "2026-11-15T08:39:47.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/16/20261116_01110110000007_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] NH농협금융, 김장김치 나눔 봉사",
-          "link": "https://www.mk.co.kr/news/economy/12209429",
-          "pubDate": "2026-11-15T08:39:47.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/16/20261116_01110110000008_L00.jpg",
-          "summary": "",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:48.338Z",
+      "fetchedAt": "2026-11-15T22:29:46.489Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 Mutual Federal Bancorp, MHC 및 MFB Bancorp, Inc. 의 두 가지 신청서에 대한 승인을 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:48.423Z",
+      "fetchedAt": "2026-11-15T22:29:46.556Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+          "pubDate": "2026-11-16T05:32:58.000Z",
+          "image": null,
+          "summary": "젠슨 황 전 엔비디아 CEO가 사임한 지 며칠 만에 측근들과 복귀 가능성을 논의하기 시작한 것으로 알려졌다. 실리콘밸리 주요 경영진은 복귀를 위한 조직적인 로비에 나서고 백악관의 지원까지 확보할 계획이다.파이낸셜타임스(FT)는 15일(현지시간) 복수의 소식통을 인용해 황 전 CEO가 측근들과 엔비디아 CEO 복귀 가능성을 논의하고 있다고 보도했다.황의 측근 한 명은 실리콘밸리 주요 경영진으로 구성된 '워룸(war room)'을 조직해 복귀 전략을 조율하고, 엔비디아 이사회를 설득하는 동시에 백악관의 지지도 확보할 계획이라고 밝혔다.",
+          "keywords": [
+            "젠슨",
+            "엔비디아",
+            "CEO",
+            "복귀",
+            "논의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217423",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217415",
-          "pubDate": "2026-11-15T12:54:46.000Z",
-          "image": null,
-          "summary": "구글이 '제미나이'에 구글 월렛(Google Wallet)을 연동해 개인 금융 정보를 분석하는 기능을 추가했다. 사용자의 소비 내역과 금융 계좌 정보를 바탕으로 지출 패턴을 분석하고, 예산 관리와 저축 계획까지 제안하는 기능이다.구글은 13일(현지시간) 공식 블로그를 통해 제미나이의 개인화 기능인 '퍼스널 인텔리전스(Personal Intelligence)'에 구글 월렛을 새롭게 연결한다고 밝혔다. 미국 내 모든 제미나이 앱 사용자를 대상으로 웹과 안드로이드, iOS에서 차례로 제공한다.사용자는 설정의 '연결된 앱(Connected",
-          "keywords": [
-            "구글",
-            "제미나이에",
-            "월렛",
-            "연결",
-            "개인"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:49.423Z",
+      "fetchedAt": "2026-11-15T22:29:47.351Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,32 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "A step toward defining the Standard Model on a lattice",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "pubDate": "2026-11-15T22:00:01.000Z",
+          "image": null,
+          "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+          "keywords": [
+            "Science"
+          ],
+          "isForeign": true,
+          "titleKo": "격자(lattice)에서 표준 모형을 정의하기 위한 한 걸음",
+          "summaryKo": "표준 모형의 비섭동 격자 정의 후보와 GPT-6 Astra가 이 아이디어를 상세한 증명으로 전환하는 데 어떻게 도움이 되었는지 알아보세요."
+        },
+        {
+          "title": "Our new blog for science",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "pubDate": "2026-11-15T22:00:00.000Z",
+          "image": null,
+          "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "keywords": [
+            "Science"
+          ],
+          "isForeign": true,
+          "titleKo": "과학을 위한 새로운 블로그",
+          "summaryKo": "OpenAI 과학 블로그는 AI를 사용하여 과학적 발견을 발전시키는 연구자들의 새로운 발견, 실용적인 방법 및 직접 경험한 내용을 공유합니다."
+        },
         {
           "title": "Introducing ChatGPT Wallet",
           "link": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -328,39 +354,9 @@
           "isForeign": true,
           "titleKo": "Amplitude가 OpenAI를 통해 1~2일 만에 제품 개선 사항을 출시하는 방법",
           "summaryKo": "주로 OpenAI 모델을 기반으로 구축된 Amplitude의 사전 예방적 제품 에이전트인 Wave는 무엇을 구축할지 파악하고, 코딩 에이전트를 통해 팀이 변경 사항을 배포하도록 지원하며, 그 영향력을 측정합니다."
-        },
-        {
-          "title": "Gondola doubles revenue as its team builds more with Codex",
-          "link": "https://openai.com/business/customer-stories/gondola",
-          "pubDate": "2026-11-12T12:00:00.000Z",
-          "image": null,
-          "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-          "keywords": [
-            "Startup"
-          ],
-          "isForeign": true,
-          "titleKo": "Gondola, Codex를 통해 팀이 더 많은 작업을 수행하며 매출 2배 달성",
-          "summaryKo": "Gondola는 크리에이터가 인정받고 고용되는 데 도움을 주며, Codex는 수석 엔지니어의 생산성을 50% 향상시키고 ChatGPT는 일상 업무를 간소화합니다."
-        },
-        {
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "pubDate": "2026-11-12T09:30:00.000Z",
-          "image": null,
-          "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-          "keywords": [
-            "Holiday",
-            "Extras",
-            "is",
-            "rethinking",
-            "what"
-          ],
-          "isForeign": true,
-          "titleKo": "Holiday Extras, Codex로 무엇을 구축할 수 있을지 재고하다",
-          "summaryKo": "Holiday Extras는 Codex를 통해 고객 경험을 더 나은 앱, 더 높은 예약 전환율, 새로운 성장 가능성으로 전환하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:49.574Z",
+      "fetchedAt": "2026-11-15T22:29:52.290Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,92 +365,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "브라질 Caixa 보험사 침해 사고로 고객 760만 명 전원의 이름과 납세자 번호 노출",
-          "link": "https://news.hada.io/topic?id=37207&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-15T15:36:51.000Z",
+          "title": "휴대폰 잠금 해제 도구의 실체: 기술적 개요",
+          "link": "https://news.hada.io/topic?id=37225&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-15T21:44:30.000Z",
           "image": null,
-          "summary": "Caixa Seguridade의 피투자회사 Caixa Vida e Previdência(CVP) 에서 무단 접근으로 고객 개인정보가 외부에 복사된 사실을 확인함 노출된 정보는 이름과 CPF(브라질 개인 납세자 번호) 이며, 현재 고객 760만 명 전원이 포함되고 과거 고객 정보도 영향을 받음 일부 기록에는 주소, 전화번호, 이메일 주소, 생년월일도 포함됐으나, 예비 평가상 금융정보나 인증정보가 침해됐다는 증거는 없음 CVP는 공격에 사용된 수단을 차단하고 추가 보호 조치를 적용했으며, 외부 포렌식 전문업체의 지원을 받아 사고 원인과 범위, 영향을 조사 중임 …",
+          "summary": "상용 휴대폰 잠금 해제 도구의 차별점은 새로운 공격 기법보다 취약점 악용의 체계적 상품화에 있음. 기기별 공격 코드를 확보하고 안정화해 비전문가도 사용할 수 있는 자동화 작업 흐름으로 묶음 보안 수준을 가르는 핵심은 최초 잠금 해제 전(BFU) 과 최초 잠금 해제 후(AFU) 상태의 차이임. AFU에서는 복호화 키가 메모리에 남으므로 화면을 다시 잠가도 데이터가 암호학적으로 차단되지 않음 BFU 공격은 부팅 체인과 신뢰 실행 환경을 침해한 뒤 자격 증명을 무차별 대입하는 방식으로 진행할 수 있음. 별도 보안 요소(Secure Element) 가 올바르게 구현돼 있으면 하드웨어의 인증 시도 제한이 추가 방어선으로 남음 …",
           "keywords": [
-            "브라질",
-            "Caixa",
-            "보험사",
-            "침해",
-            "사고로"
+            "휴대폰",
+            "잠금",
+            "해제",
+            "도구의",
+            "실체:"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 IRS의 무료 온라인 세금 신고 서비스 오픈소스 저장소(2025)",
-          "link": "https://news.hada.io/topic?id=37206&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-15T15:33:51.000Z",
+          "title": "Emacs는 나의 브라우저",
+          "link": "https://news.hada.io/topic?id=37224&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-15T21:41:30.000Z",
           "image": null,
-          "summary": "Direct File은 납세자가 미국 국세청(IRS)에 연방 소득세 신고서를 무료로 직접 전자 제출할 수 있는 문답형 서비스로, 영어와 스페인어를 지원함 세법을 쉬운 일상 언어의 질문으로 바꾸고, 답변을 표준 세금 신고서로 변환해 IRS의 Modernized e-File(MeF) API로 전송함 Fact Graph는 미완성 신고서처럼 정보가 불완전한 상태에서도 추론하도록 설계된 XML 기반 선언적 지식 그래프로, 서버와 클라이언트에서 모두 실행됨 연방세만 직접 신고하지만, State API로 신고 데이터를 외부 도구에 전달해 정보를 다시 입력하지 않고 주세나 지 …",
+          "summary": "Emacs 내장 브라우저 EWW를 며칠간 적극적으로 사용해 보니, 개인적인 웹 이용의 약 85~90% 를 처리할 수 있었음 Chromium/Firefox에서 추천 콘텐츠와 눈길을 끄는 요소 때문에 쉽게 산만해졌지만, 텍스트 중심 탐색으로 전환한 뒤 정보 검색과 문서 읽기, 생산 활동에 더 집중할 수 있었음 EWW는 이미지와 GIF를 지원하며, 읽기 모드와 북마크, URL 복사 등을 Emacs 안에서 사용할 수 있음 PDF는 Emacs, 동영상은 mpv, Gopher/Gemini 링크는 Elpher로 연결하고, EWW에서 잘 작동하지 않는 페이지는 일반 브라우저로 넘기는 구성을 사용함 …",
           "keywords": [
-            "미국",
-            "IRS의",
-            "무료",
-            "온라인",
-            "세금"
+            "Emacs는",
+            "나의",
+            "브라우저"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미국 10월 생산자물가 전년 대비 6.5% 상승, 약 4년 만에 최고",
-          "link": "https://news.hada.io/topic?id=37204&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-15T13:31:42.000Z",
+          "title": "Show GN: 달레 스터디 개발자 설문조사 - 한국 개발자의 일과 커리어, AI 사용을 묻는 익명 설문",
+          "link": "https://news.hada.io/topic?id=37223&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-15T21:40:44.000Z",
           "image": null,
-          "summary": "미국 10월 생산자물가지수(PPI) 가 전년 동월 대비 6.5% 상승함 전년 동월 대비 상승률은 2022년 11월 이후 최고치를 기록함 예상치 6.6%를 밑돌았지만, 이전 수치인 6.3%보다 높아짐 전월 대비 PPI 상승률은 0.3% 로, 예상치 0.4%를 밑돎 9월 전월 대비 상승률은 기존 1.3%에서 1.4%로 상향 수정됨 10월 생산자물가와 9월 수정치 전년 동월 대비 상승률은 6.3%에서 6.5%로 높아져 2022년 11월 이후 최고치를 기록했으나, 예상치 6.6%에는 못 미침 전월 대비 상승률은 0.3%로 예상치 0.4%보다 낮았으며, 9월 수치는 1.3%에서 1.4%로 상향 …",
+          "summary": "Stack Overflow 2025 설문에서 국가를 밝힌 35,369명 중 한국은 86명이었고, 국내에서 매년 나오던 프로그래머스 개발자 설문도 2023년을 끝으로 멈췄습니다. 한국 개발자의 일과 커리어를 들여다볼 데이터가 없어서, 개발자 커뮤니티 달레 스터디에서 직접 설문을 만들어 봤습니다. 주요 내용 일하는 곳, 보상, 커리어, 성장, 기술, 올해의 주제 AI를 10분 안팎으로 묻습니다 한국 환경에 맞춘 문항: SI 발주 구조(원청·하청)에서의 위치, 채용 코딩 테스트 횟수, 망분리를 포함한 회사의 AI 코딩 도구 정책, 내가 낸 코드 중 AI가 쓴 비 …",
           "keywords": [
-            "미국",
-            "10월",
-            "생산자물가",
-            "전년",
-            "대비"
+            "Show",
+            "GN:",
+            "달레",
+            "스터디",
+            "개발자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI 코딩 에이전트의 &quot;테스트 모두 통과&quot;를 믿기 전에 확인하는 9가지 (실측 사례 모음)",
-          "link": "https://news.hada.io/topic?id=37202&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-15T13:04:34.000Z",
+          "title": "Microsoft 365 장애로 호텔 투숙객 15명 염소가스 중독",
+          "link": "https://news.hada.io/topic?id=37222&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-15T21:38:30.000Z",
           "image": null,
-          "summary": "Android 앱 몇 개를 혼자 만들면서 클로드 코드에 구현과 테스트를 맡겨 왔습니다. 그동안 \"통과\"라는 보고가 실제로는 아무것도 지키지 않던 경우를 모아서 정리했습니다. 테스트 3,066개가 다 통과한 채팅 앱에, 기기에서 DB 열기가 실패하는 코드가 남아 있었음 \"E2E 100% 통과\"의 출처는 expect()가 하나도 없는 러너 7개였음 버그 수정을 되돌려도 테스트 13개가 그대로 통과 대비 검사기는 텍스트 9,318개 중 59.6%만 재고 실패 0건을 냄 \"크래시 없음\"의 근거는 실행 시간 857ms뿐. 몽키 테스트를 돌리니 15번째 이벤트에서 죽음 …",
+          "summary": "Phantasialand에서 Microsoft 장애로 수영장 염소 과다 경고 이메일을 받지 못했고, 호텔 투숙객 15명이 다침 수영장의 자동 투입 시스템 결함으로 염소가 과다 주입됐으며, 사우나 구역 안전 관리 시스템은 이미 이메일 경고를 보낸 상태였음 Outlook을 포함한 Microsoft 서비스 장애로 이메일이 도착하지 않아, 시설 측이 경고를 인지하지 못함 피해자들은 수영장 이용 후 호흡기 자극 등 건강 이상을 호소했으며, 4명이 병원으로 이송됨 현장 검사에서 과도한 염소 농도를 확인해 수영장 물을 교체했으며, 일시 폐쇄했던 수영장은 이후 …",
           "keywords": [
-            "AI",
-            "코딩",
-            "에이전트의",
-            "&quot;테스트",
-            "모두"
+            "Microsoft",
+            "365",
+            "장애로",
+            "호텔",
+            "투숙객"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "고칠 줄 몰라서가 아니라 불편한 줄 몰라서 – 기억해야 할 창구를 줄인 업무 환경 개선기",
-          "link": "https://news.hada.io/topic?id=37201&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-15T12:33:13.000Z",
+          "title": "vLLM으로 NVIDIA DGX Station 2대에서 GLM-5.3을 초당 607.8토큰으로 서빙하기",
+          "link": "https://news.hada.io/topic?id=37221&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-15T20:46:06.000Z",
           "image": null,
-          "summary": "개인 프로젝트(코드 대결 게임, 크롬 확장, 블로그 등)가 늘면서 각 프로젝트의 맥락을 기억하기 어려워지고, 무엇을 할지 정하는 일이 짐이 되어 의욕까지 떨어짐 회사 환경은 허브 저장소에 여러 저장소를 심볼릭 링크로 묶어 모노레포처럼 쓰지만, 서로 관계없는 개인 저장소에는 맞지 않음. 그래서 \"개발은 저장소별로, 관찰과 기록은 블로그에서\"로 나눔 문제를 \"기억하고 들여다봐야 할 창구(인터페이스)의 수\"로 다시 정의하고, 이를 줄이는 방향으로 세 가지를 만듦 첫째, 블로그 저장소에서 다른 서비스 저장소를 Claude Code 추 …",
+          "summary": "GLM-5.3 NVFP4의 약 464GB 체크포인트를 DGX Station 2대의 GPU에 나눠 올리고, CPU 가중치 오프로딩 없이 하나의 OpenAI 호환 API로 서빙함 텐서 병렬화(TP=2) 로 두 GB300 GPU가 가중치와 연산을 분담하며, 모든 요청의 토큰 생성 과정에서 ConnectX-8 RDMA 연결로 부분 결과를 교환함 다중 토큰 예측(MTP) 으로 단계당 토큰 4개를 미리 생성해 검증하고, FP8 KV 캐시와 프리픽스 캐싱으로 캐시 메모리와 반복 프롬프트 처리 부담을 줄임 SPEED-Bench Coding 측정에서 전체 출력 처리량은 동시 요청 16개일 때 607.8토큰/초로 정점을 기 …",
           "keywords": [
-            "고칠",
-            "몰라서가",
-            "아니라",
-            "불편한",
-            "몰라서"
+            "vLLM으로",
+            "NVIDIA",
+            "DGX",
+            "Station",
+            "2대에서"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:50.320Z",
+      "fetchedAt": "2026-11-15T22:29:53.030Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -543,7 +537,7 @@
           "summaryKo": "이번 주 가장 많이 시청된 브랜드 YouTube 동영상에 대한 요약에 오신 것을 환영합니다. 크리에이터 경제의 스폰서십 트렌드를 분석하기 위해 더 방대한 Gospel Stats 주간 브랜드 보고서의 일부를 게시합니다. 공식 브랜드 파트너와 함께 게시된 모든 동영상은 순위에 포함될 수 있습니다. 그리고–이름에서 알 수 있듯이 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:50.533Z",
+      "fetchedAt": "2026-11-15T22:29:53.264Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -617,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:50.871Z",
+      "fetchedAt": "2026-11-15T22:29:53.428Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:50.955Z",
+      "fetchedAt": "2026-11-15T22:29:53.496Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -797,7 +791,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:52.989Z",
+      "fetchedAt": "2026-11-15T22:29:56.034Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -885,7 +879,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:53.242Z",
+      "fetchedAt": "2026-11-15T22:29:56.253Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -893,6 +887,20 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+          "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+          "pubDate": "2026-11-15T18:29:14.000Z",
+          "image": null,
+          "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+          "keywords": [
+            "Media & Entertainment",
+            "Startups"
+          ],
+          "isForeign": true,
+          "titleKo": "Flaming Hydra의 새로운 Kickstarter 캠페인이 전자책 소유권과 디지털 대여에 대한 새로운 시각을 제시합니다.",
+          "summaryKo": "새로운 킥스타터 캠페인은 '인간 중심의 인터넷으로의 회귀'를 목표로 합니다."
+        },
         {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
           "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -962,27 +970,9 @@
           "isForeign": true,
           "titleKo": "Phota Labs는 AI를 사용하여 일상적인 사진을 전문가 수준의 사진으로 바꿔줍니다.",
           "summaryKo": "Phota Labs는 소비자에게 또 다른 사진 편집 도구를 제공하는 대신, AI의 발전을 활용하여 편집 프로세스를 자동화함으로써 누구나 일상의 순간을 더 멋진 사진으로 쉽게 바꿀 수 있도록 하는 것을 목표로 합니다."
-        },
-        {
-          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-          "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-          "pubDate": "2026-11-12T13:26:25.000Z",
-          "image": null,
-          "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-          "keywords": [
-            "AI",
-            "Startups",
-            "south korea",
-            "South Korea startup",
-            "Startup Battlefield 200",
-            "TechCrunch Disrupt"
-          ],
-          "isForeign": true,
-          "titleKo": "9개의 한국 스타트업이 Disrupt 2027의 Startup Battlefield 200 대회 진출을 놓고 경쟁합니다.",
-          "summaryKo": "이 스타트업들은 헬스케어, 핀테크, 에너지, 반도체, AI 등 딥테크 부문 전반에 걸쳐 사업을 영위하고 있습니다. 9개 스타트업 모두 미국 시장 진출을 모색하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:53.357Z",
+      "fetchedAt": "2026-11-15T22:29:58.743Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1081,7 +1071,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:54.394Z",
+      "fetchedAt": "2026-11-15T22:30:00.130Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1090,17 +1080,17 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "강원문화재단 강원문화예술지원사업 심의위원 후보 모집 - 강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5idWFBYjhZcEU1SzRfMjNjV0hpLVRLZEgwUm1CR3Q5ckM3UlRnWkh5bGNfcHE2YnM4cFV1ZW85dU56REo4QjNVZkFLS2k4UFBxeDhTM1ZCaTI1ZGM?oc=5",
-          "pubDate": "2026-11-15T01:27:55.000Z",
+          "title": "영덕군, 청년 어업인 어촌 정착 지원…30일까지 참여자 모집 - 미디어경북",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kR0hURmdmdEtLbzZCUUJkWFVfckdYVkZjdnEyZHhjZzBOdThJZW9Ha1dudzVVYVpVdkR0MmhySnBJV2ZZbkdEUnRBNW85ZlNzZ1huUW5sN2M0dw?oc=5",
+          "pubDate": "2026-11-15T17:40:13.000Z",
           "image": null,
-          "summary": "강원문화재단 강원문화예술지원사업 심의위원 후보 모집 강원일보",
+          "summary": "영덕군, 청년 어업인 어촌 정착 지원…30일까지 참여자 모집 미디어경북",
           "keywords": [
-            "강원문화재단",
-            "강원문화예술지원사업",
-            "심의위원",
-            "후보",
-            "모집"
+            "영덕군",
+            "청년",
+            "어업인",
+            "어촌",
+            "정착"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1124,6 +1114,23 @@
           "summaryKo": null
         },
         {
+          "title": "강원문화재단 강원문화예술지원사업 심의위원 후보 모집 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5idWFBYjhZcEU1SzRfMjNjV0hpLVRLZEgwUm1CR3Q5ckM3UlRnWkh5bGNfcHE2YnM4cFV1ZW85dU56REo4QjNVZkFLS2k4UFBxeDhTM1ZCaTI1ZGM?oc=5",
+          "pubDate": "2026-11-15T01:27:55.000Z",
+          "image": null,
+          "summary": "강원문화재단 강원문화예술지원사업 심의위원 후보 모집 강원일보",
+          "keywords": [
+            "강원문화재단",
+            "강원문화예술지원사업",
+            "심의위원",
+            "후보",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "강원문화재단, 2027년 문화예술지원사업 개방형 심의위원 모집 - 강원도민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jM0s3N19VS05hM0dubzJLejE3RFRpdUplTTRudEE3TGhsbENpRHZLa3dxdzl5OFZoaUtHZmZqRFE3U1d6TV9oRjZQR3cxVVI1LWd4SEczemNUTW1hdTVpT3N6ZS1vTE0?oc=5",
           "pubDate": "2026-11-15T04:33:50.000Z",
@@ -1135,23 +1142,6 @@
             "문화예술지원사업",
             "개방형",
             "심의위원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "홍성군, 청년어업인 정착지원사업 모집…월 최대 110만원 - 신아일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSVVqekV6eG0tMkFEcUttaTk3aWJELTdLdzNhelBnT2lJYWZiVkhxR1lYcDNLeDhzeGIyN2RTUTM1S0FScGsxcFJrLUI0RU1iYW4yempuLTYwVzRMbWNobFFPZEZ2R21EejdiekVWa2E?oc=5",
-          "pubDate": "2026-11-14T22:00:00.000Z",
-          "image": null,
-          "summary": "홍성군, 청년어업인 정착지원사업 모집…월 최대 110만원 신아일보",
-          "keywords": [
-            "홍성군",
-            "청년어업인",
-            "정착지원사업",
-            "모집",
-            "최대"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1175,77 +1165,77 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-15T16:48:54.720Z",
+      "fetchedAt": "2026-11-15T22:30:00.684Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 1,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
       "count": 6,
-      "rank": 2,
-      "change": "down"
+      "rank": 1,
+      "change": "up"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 3,
+      "rank": 2,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
       "rank": 3,
-      "change": "same"
+      "change": "down"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 3,
       "rank": 7,
-      "change": "up"
+      "change": "same"
+    },
+    {
+      "key": "청년",
+      "label": "청년",
+      "count": 3,
+      "rank": 8,
+      "change": "new"
     },
     {
       "key": "강원문화재단",
       "label": "강원문화재단",
       "count": 2,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "모집",
-      "label": "모집",
-      "count": 2,
       "rank": 9,
-      "change": "up"
+      "change": "down"
     },
     {
-      "key": "미국",
-      "label": "미국",
+      "key": "심의위원",
+      "label": "심의위원",
       "count": 2,
       "rank": 10,
       "change": "new"
@@ -1269,20 +1259,20 @@
       "labelKo": "애드 센스"
     },
     {
-      "key": "ai",
-      "label": "AI",
-      "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "AI"
-    },
-    {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 4,
-      "change": "same",
+      "rank": 3,
+      "change": "up",
       "labelKo": "스타트업"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 4,
+      "rank": 4,
+      "change": "down",
+      "labelKo": "AI"
     },
     {
       "key": "google ads",
@@ -1309,28 +1299,28 @@
       "labelKo": "제품"
     },
     {
+      "key": "science",
+      "label": "Science",
+      "count": 2,
+      "rank": 8,
+      "change": "new",
+      "labelKo": "Science"
+    },
+    {
       "key": "agent",
       "label": "agent",
       "count": 1,
-      "rank": 8,
-      "change": "same",
+      "rank": 9,
+      "change": "down",
       "labelKo": "중개업자"
     },
     {
       "key": "ai agents",
       "label": "AI agents",
       "count": 1,
-      "rank": 9,
-      "change": "same",
-      "labelKo": "AI 에이전트"
-    },
-    {
-      "key": "ai apps",
-      "label": "ai apps",
-      "count": 1,
       "rank": 10,
-      "change": "same",
-      "labelKo": "AI 앱"
+      "change": "down",
+      "labelKo": "AI 에이전트"
     }
   ]
 }
