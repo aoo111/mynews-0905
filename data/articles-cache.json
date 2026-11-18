@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-18T09:45:48.937Z",
+  "collectedAt": "2026-11-18T18:40:13.285Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,19 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "8년 끈 한중FTA 2단계 타결 … K콘텐츠·관광 中빗장 풀린다",
+          "link": "https://www.mk.co.kr/news/economy/12212875",
+          "pubDate": "2026-11-18T10:59:55.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/19/20261119_01170105000002_L00.jpg",
+          "summary": "이재명 대통령과 시진핑 중국 국가주석의 정상회담을 계기로 한중 자유무역협정(FTA) 서비스·투자 분야(2단계) 협상이 8년 만에 타결되면서 한국 콘텐츠의 중국 시장 진출 기반이 마..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "[단독] 중노위 “노조인정” 국세청은 “아니다” 딴소리에…삼성만 세금 뜯겼다",
           "link": "https://www.mk.co.kr/news/economy/12212819",
           "pubDate": "2026-11-18T08:53:29.000Z",
@@ -57,7 +70,7 @@
           "title": "한중FTA 깜짝 타결…한한령 해제 급물살",
           "link": "https://www.mk.co.kr/news/economy/12212810",
           "pubDate": "2026-11-18T08:45:13.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/19/20261119_01110101000006_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/19/20261119_01160101000001_L00.jpg",
           "summary": "아시아태평양경제협력체(APEC) 정상회의 참석차 중국 선전을 방문 중인 이재명 대통령이 18일 시진핑 중국 국가주석과 정상회담을 하고 한중 자유무역협정(FTA) 서비스·투자 분야 ..",
           "keywords": [
             "경제"
@@ -83,21 +96,8 @@
           "title": "KDB생명 매각 7번째 실패",
           "link": "https://www.mk.co.kr/news/economy/12212773",
           "pubDate": "2026-11-18T08:37:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/19/20261119_01110110000007_L00.jpg",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/19/20261119_01160110000003_L00.jpg",
           "summary": "한국산업은행이 진행 중인 KDB생명 매각이 일곱 번째 시도도 무산됐다. 우선협상대상자로 선정된 한국투자금융지주(한투)와 3개월간 협상을 벌였지만 끝내 접점을 찾지 못했다. 12년째..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[포토] 카뱅, 몽골 엠뱅크 2대 주주로",
-          "link": "https://www.mk.co.kr/news/economy/12212771",
-          "pubDate": "2026-11-18T08:37:42.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/19/20261119_01110110000005_L00.jpg",
-          "summary": "",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:32.480Z",
+      "fetchedAt": "2026-11-18T18:39:52.961Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방 준비 이사회는 Mutual Federal Bancorp, MHC 및 MFB Bancorp, Inc. 의 두 가지 신청서에 대한 승인을 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:32.544Z",
+      "fetchedAt": "2026-11-18T18:39:53.009Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:33.679Z",
+      "fetchedAt": "2026-11-18T18:39:53.904Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,45 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Inside the Codex sandbox",
+          "link": "https://openai.com/index/inside-the-codex-sandbox",
+          "pubDate": "2026-11-18T08:00:00.000Z",
+          "image": null,
+          "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+          "keywords": [
+            "Engineering"
+          ],
+          "isForeign": true,
+          "titleKo": "Codex 샌드박스 내부",
+          "summaryKo": "Codex가 macOS, Linux 및 Windows에서 사용자가 제어하는 파일 시스템 및 네트워크 제한을 적용하면서 머신에서 명령을 실행하는 방법을 확인하세요."
+        },
+        {
+          "title": "The Silent Consensus",
+          "link": "https://openai.com/index/the-silent-consensus",
+          "pubDate": "2026-11-18T00:00:00.000Z",
+          "image": null,
+          "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+          "keywords": [
+            "Intelligence Age"
+          ],
+          "isForeign": true,
+          "titleKo": "묵시적 합의",
+          "summaryKo": "OpenAI의 전략적 미래 책임자인 딘 볼(Dean Ball)은 더 강력한 AI가 사회를 어떻게 변화시킬 수 있는지, 그리고 사람들이 어떻게 기관에 대한 통제권을 유지할 수 있는지 살펴봅니다."
+        },
+        {
+          "title": "Advancing chip design with OpenAI models",
+          "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "pubDate": "2026-11-18T00:00:00.000Z",
+          "image": null,
+          "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+          "keywords": [
+            "Research"
+          ],
+          "isForeign": true,
+          "titleKo": "OpenAI 모델을 활용한 칩 설계 발전",
+          "summaryKo": "OpenAI 모델은 Jalapeño 실리콘에 사용되는 회로를 최적화하고 RISC‑V 코어 설계를 개선하여 GPT‑6 Astra를 통한 AI 지원 칩 설계의 진전을 보여주었습니다."
+        },
         {
           "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
           "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
@@ -307,48 +346,9 @@
           "isForeign": true,
           "titleKo": "GPT-6.2 Astra 및 Sol 소개",
           "summaryKo": "ChatGPT Work, Codex, API 전반에 걸쳐 더 낮은 비용으로 더 나은 전문성 있는 결과물, 코딩, 컴퓨터 사용, 효율성을 제공하는 GPT‑6.2 Astra 및 Sol을 소개합니다."
-        },
-        {
-          "title": "Strengthening NATO and allied cyber defenses with AI",
-          "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "pubDate": "2026-11-17T00:00:00.000Z",
-          "image": null,
-          "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-          "keywords": [
-            "Global Affairs"
-          ],
-          "isForeign": true,
-          "titleKo": "AI를 통한 NATO 및 동맹국 사이버 방어 강화",
-          "summaryKo": "OpenAI가 신뢰할 수 있는 방어자들이 취약점을 찾고, 수정 사항을 테스트하고, 필수 시스템을 보호할 수 있도록 NATO 및 동맹국 사이버 기관과 협력하는 방법."
-        },
-        {
-          "title": "Introducing ChatGPT for Sales",
-          "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "pubDate": "2026-11-17T08:00:00.000Z",
-          "image": null,
-          "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-          "keywords": [
-            "Product"
-          ],
-          "isForeign": true,
-          "titleKo": "영업팀을 위한 ChatGPT 소개",
-          "summaryKo": "ChatGPT에서 새로운 영업 플러그인과 30개 이상의 새롭고 확장된 파트너 플러그인을 살펴보고 잠재 고객을 조사하고, 영업 피치를 준비하고, CRM을 업데이트하고, 거래를 성사시키세요."
-        },
-        {
-          "title": "Astra for Law leads in legal intelligence",
-          "link": "https://openai.com/index/astra-law-6-2",
-          "pubDate": "2026-11-17T00:00:00.000Z",
-          "image": null,
-          "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-          "keywords": [
-            "Company"
-          ],
-          "isForeign": true,
-          "titleKo": "법률 인텔리전스 분야를 선도하는 Astra for Law",
-          "summaryKo": "Astra for Law는 24개 법률 분야에 걸친 출시 평가에서 1위를 차지했습니다. 이제 모든 ChatGPT Enterprise 고객이 액세스를 요청할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:36.681Z",
+      "fetchedAt": "2026-11-18T18:40:00.548Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -357,92 +357,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
-          "link": "https://news.hada.io/topic?id=37402&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T07:31:07.000Z",
+          "title": "Gemini 4 Carbon은 왜 이렇게 오래 걸릴까?",
+          "link": "https://news.hada.io/topic?id=37411&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T14:32:28.000Z",
           "image": null,
-          "summary": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
+          "summary": "Kernel의 비공개 버그 수정 평가에서 Gemini 4 Carbon은 Opus와 Astra가 몇 분 만에 끝내는 작업에 거의 한 시간을 사용했으며, 느린 추론 외에도 불필요한 작업과 비효율적인 도구 사용이 시간을 늘렸음 추론 속도 차이가 설명하는 추가 소요 시간은 Astra 대비 16~30%, Opus 대비 45~49%였고, 나머지는 더 길어진 작업 과정에서 발생함 Carbon은 전체 단계의 약 절반을 요청하지 않은 작업에 사용함. 원인을 찾은 뒤에도 수정에 필요 없는 코드를 점검하고, 버그 보고서의 조건상 이미 배제된 경우까지 대비함 단계당 도구 호출 부족과 …",
           "keywords": [
-            "YC",
-            "스타트업",
-            "면접",
-            "알게",
-            "LinkedIn"
+            "Gemini",
+            "Carbon은",
+            "이렇게",
+            "오래",
+            "걸릴까"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 냥이잡기 - 부정행위를 시도하는 냥이들을 잡는 게임",
-          "link": "https://news.hada.io/topic?id=37401&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T07:30:12.000Z",
+          "title": "Web Browser Engineering (2021) - Python으로 직접 만드는 웹 브라우저",
+          "link": "https://news.hada.io/topic?id=37410&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T13:31:13.000Z",
           "image": null,
-          "summary": "\"제한 시간 45초. 당신은 냥이를 찾아낼 수 있나요?\" 요즘 시험 부정행위 관련해 논란이 많습니다. 심심하던 터라 시험 감독하는 게임 만들어봤습니다. 생각보다 부정행위를 잡아내는 게 어렵네요. 가볍게 만들어 보았으니 심심하실 때 한판 즐겨보시면 좋겠습니다!",
+          "summary": "Web Browser Engineering은 기본적이지만 완결된 웹 브라우저를 직접 만들며 브라우저의 작동 원리를 배우는 학습서임 구현 언어는 Python이며, 브라우저를 수천 줄 규모의 코드로 작성함 구현 범위는 네트워킹부터 JavaScript까지 아우름 영어판은 Bookshop, B&N, Amazon에서 구매할 수 있음 번역판은 한국어와 일본어로도 출간되어 있음 브라우저 구현으로 배우는 작동 원리 기본적이지만 완결된 웹 브라우저를 만드는 과정을 통해 웹 브라우저가 어떻게 동작하는지 익힐 수 있음 Python 수천 줄로 네트워킹부터 JavaScript까지 구현함 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "냥이잡기",
-            "부정행위를",
-            "시도하는"
+            "Web",
+            "Browser",
+            "Engineering",
+            "(2021)",
+            "Python으로"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Claude Code와 Codex를 한 화면에서 관리하는 macOS 개발 도구를 만들었습니다",
-          "link": "https://news.hada.io/topic?id=37400&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T07:00:32.000Z",
+          "title": "Show GN: Sidehand - 내가 타이핑하는 동안 창 뒤의 Windows 앱을 AI 에이전트가 조작하는 MCP 서버",
+          "link": "https://news.hada.io/topic?id=37409&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T13:13:23.000Z",
           "image": null,
-          "summary": "안녕하세요. 개인적으로 개발하면서 불편했던 점을 해결하려고 codeme라는 데스크톱 앱을 만들었습니다. Claude Code나 Codex를 여러 개 실행하다 보면 터미널도 많아지고, 어떤 에이전트가 어떤 파일을 수정했는지 확인하기 번거롭더라고요. 그래서 Git worktree를 기반으로 에이전트마다 독립적인 작업 공간을 만들고, 진행 상황과 코드 변경 사항을 한 화면에서 확인할 수 있도록 구현했습니다. 주요 기능은 다음과 같습니다. Claude Code / Codex 멀티 에이전트 실행 Git worktree 생성 및 관리 에이전트가 변경한 코드만 따로 확인 …",
+          "summary": "AI 에이전트에게 데스크톱 앱을 맡기면 마우스가 움직이고 창이 앞으로 튀어나와서, 끝날 때까지 PC를 못 쓰게 됩니다. 제가 다른 창에서 계속 타이핑하는 동안 에이전트는 뒤에 가려진 앱에서 일하게 하고 싶어서 만들었습니다. Sidehand는 Windows 10/11용 MCP 서버입니다(CLI와 pi 확장도 있습니다). Claude Code, Codex, Cursor 같은 MCP 클라이언트가 지금 쓰는 창 뒤에 있는 앱을 읽고 조작합니다. 입력, 클릭, 목록 선택, 체크를 하고 화면은 스크린샷 대신 텍스트로 읽습니다. 마우스 커서는 움직이지 않고 키보드도 가져가지 않습니다. 컨트롤 하나가 한 줄입니다. 벤치마크 작업 하나에 277토큰이 들었고, 비교한 다른 도구는 2,488에서 13,425토큰이었습니다. …",
           "keywords": [
             "Show",
             "GN:",
-            "Claude",
-            "Code와",
-            "Codex를"
+            "Sidehand",
+            "내가",
+            "타이핑하는"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: 고객이 직접 문자를 보내는(MO) 방식의 휴대폰 번호 인증 API (웹 SDK 출시)",
-          "link": "https://news.hada.io/topic?id=37398&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T06:02:33.000Z",
+          "title": "Codeberg.org 접속 불가",
+          "link": "https://news.hada.io/topic?id=37408&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T12:32:30.000Z",
           "image": null,
-          "summary": "예전에 \"고객이 직접 문자를 보내는(MO) 방식의 휴대폰 인증 API\"로 소개했던 옥토모입니다. 그사이 QR 인증과 웹 SDK가 추가되어 다시 공유합니다. 현재 1,000개가 넘는 애플리케이션이 연동해 쓰고 있고, 여러 기업의 서비스에서 실제 회원가입 인증에 사용되고 있습니다. 옥토모가 뭔가요 기존 SMS 인증(MT): 서비스가 사용자에게 인증 문자를 발송합니다. 건당 9~50원에 월 기본료가 붙고, 계약·심사에 1~2주가 걸리기도 합니다. 옥토모(MO): 사용자가 자기 휴대폰으로 지정된 번호(1666-3538)에 인증코드를 문자로 보내고, 서비스는 …",
+          "summary": "codeberg.org 도메인이 완전히 접속 불가 상태가 됐으며, 등록업체 NameSilo의 Codeberg 계정에서도 사라짐 Codeberg는 갱신 누락이 아니며, 로그인 기록에 의심스러운 접속이 없고 계정의 도메인 이력에도 관련 기록이 없다고 확인함 후속 확인에서 도메인 정지 사실이 드러났으며, NameSilo 내부 악용 신고 대응팀으로 사안이 이관돼 최종 결정을 기다리고 있음 긴급 우회책으로 검토했던 codeberg.eu 활성화는 진행하지 않기로 함. 다중 도메인 지원, 검색 엔진 최적화, 2단계 인증 등의 기술적 어려움이 있음 두 번째 도메인을 실제로 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "고객이",
-            "직접",
-            "문자를"
+            "Codeberg",
+            "org",
+            "접속",
+            "불가"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: Disposable - AI로 만든 작은 도구를 나누고 각자 에이전트로 다시 만드는 곳",
-          "link": "https://news.hada.io/topic?id=37396&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-18T05:46:26.000Z",
+          "title": "Show GN: Clippy HTML - Clippy의 진단을 정적 웹페이지로 바꿔주는 도구",
+          "link": "https://news.hada.io/topic?id=37406&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-18T10:08:50.000Z",
           "image": null,
-          "summary": "AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다. 에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지고 비슷한 일이 필요한 사람은 처음부터 다시 만듭니다. 그렇다고 오픈소스로 내놓자니 문서와 유지보수가 부담이고요. 그래서 \"오픈소스처럼 나누고, 관리 부담은 없이. 방법은 남기고, 도구는 내 방식대로 다시.\"를 원칙으로 삼았습니다. 직접 써서 효과를 본 도구를 유지보수 약속 없이 올리고, 받는 사람은 그대로 쓰거나, 함께 올라온 사양으로 자기 에이전트에게 다시 만들게 합니다. …",
+          "summary": "Clippy의 경고를 rustdoc 스타일의 정적 웹페이지로 바꿔주는 도구입니다. 터미널에서 Clippy 경고를 읽는 게 불편하다 느껴 만들었습니다. 주요 기능은 다음과 같습니다. 한 화면에서 어떤 진단이 얼마나 나왔는지 확인 진단을 클릭해서 소스코드로 이동 검색 수정안을 diff로 확인 이 프로젝트의 코드에 이 도구를 사용해 만든 보고서가 게시되어 있으니, 설치 없이 도구 형태를 확인해보실 수 있습니다. 사용 방법 cargo install cargo-clippy-html --locked cargo clippy-html --open cargo binstall도 사용 가능하며, 사용하시면서 …",
           "keywords": [
             "Show",
             "GN:",
-            "Disposable",
-            "AI로",
-            "만든"
+            "Clippy",
+            "HTML",
+            "Clippy의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:37.265Z",
+      "fetchedAt": "2026-11-18T18:40:01.059Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +536,7 @@
         }
       ],
       "fetchedAt": "2026-11-18T09:45:39.788Z",
-      "error": null
+      "error": "HTTP 403"
     },
     "https://blog.google/products/adsense/rss/": {
       "name": "Google AdSense RSS",
@@ -610,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:39.890Z",
+      "fetchedAt": "2026-11-18T18:40:01.344Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:39.946Z",
+      "fetchedAt": "2026-11-18T18:40:01.410Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -700,97 +699,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "파블로항공, 오만·가나 국가행사 드론쇼 5회 수주…아프리카 첫 공연 나선다",
-          "link": "https://www.venturesquare.net/1129763/",
-          "pubDate": "2026-11-18T09:03:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/2026-pa-747x522.jpg",
-          "summary": "파블로항공이 오만과 가나의 주요 국가행사에서 총 5회의 불꽃 드론아트쇼를 단독 수행한다. 오만에서는 국가기념일과 국군의 날을 맞아 최대 1,300대의 드론을 활용한 공연 4회를 진행하며, 내년 1월 국왕 즉위 기념행사에서 열릴 1,500대 규모의 공연도 수주했다. 오는... The post 파블로항공, 오만·가나 국가행사 드론쇼 5회 수주…아프리카 첫 공연 나선다 appeared first on 벤처스퀘어.",
+          "title": "AWS, 수천 개 AI 에이전트가 코드 작성한 ‘AWS Emulator’ 출시…클라우드 배포 없이 개발·테스트",
+          "link": "https://www.venturesquare.net/1129820/",
+          "pubDate": "2026-11-18T14:14:03.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/ai-5-789x444.jpg",
+          "summary": "AWS가 수천 개의 자율 AI 에이전트가 전체 코드를 작성한 로컬 개발 도구 'AWS Emulator'를 출시했다. 개발자는 별도의 AWS 계정이나 클라우드 배포 없이 자신의 컴퓨터와 CI 환경에서 AWS 애플리케이션을 빌드하고 테스트할 수 있다. 개발 과정에서는 테스... The post AWS, 수천 개 AI 에이전트가 코드 작성한 ‘AWS Emulator’ 출시…클라우드 배포 없이 개발·테스트 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "PabloX",
-            "가나",
-            "군집AI"
+            "AI에이전트",
+            "AI코딩",
+            "AWS"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "NHN KCP, 구글 AP2·x402 연동 성공…AI 에이전트 결제부터 스테이블코인 정산까지 검증",
-          "link": "https://www.venturesquare.net/1129751/",
-          "pubDate": "2026-11-18T09:00:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/NHN-KCP-789x443.png",
-          "summary": "NHN KCP가 구글의 AI 에이전트 결제 프로토콜 AP2와 코인베이스의 웹 결제 프로토콜 x402를 자체 결제 인프라로 연동하는 기술 검증을 완료했다. 자체 개발한 퍼실리테이터와 결제 특화 메인넷을 활용해 AI 에이전트의 결제 요청부터 스테이블코인 기반 거래 처리와 ... The post NHN KCP, 구글 AP2·x402 연동 성공…AI 에이전트 결제부터 스테이블코인 정산까지 검증 appeared first on 벤처스퀘어.",
+          "title": "루드다이나믹스, 포항 마스코트 ‘퐝이’ 이족보행 로봇으로 구현…지역 캐릭터 IP 활용 확대",
+          "link": "https://www.venturesquare.net/1129811/",
+          "pubDate": "2026-11-18T14:07:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-2026-11-18T230604.514-461x522.png",
+          "summary": "루드다이나믹스가 포항 MICE산업 공식 마스코트 '퐝이'를 이족보행 로봇으로 구현해 '국제 배터리 엑스포 2026 포항'에서 공개했다. 퐝이 로봇에는 무게 약 7kg, 12개 관절을 갖춘 캐릭터 로봇 플랫폼 '루드봇'이 적용됐다. 루드다이나믹스는 종로구 '종돌이'에 이... The post 루드다이나믹스, 포항 마스코트 ‘퐝이’ 이족보행 로봇으로 구현…지역 캐릭터 IP 활용 확대 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AgentPaymentsProtocol",
-            "AI결제",
-            "AI에이전트"
+            "LUDBOT",
+            "MICE산업",
+            "국제배터리엑스포2026"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "모픽AI, 영상 시안 검토·수정·공유 기능 ‘아티팩트’ 출시…영화·드라마 제작 협업 지원한다",
-          "link": "https://www.venturesquare.net/1129741/",
-          "pubDate": "2026-11-18T08:58:01.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Morphic-AI-789x444.png",
-          "summary": "글로벌 AI 콘텐츠 제작 플랫폼 모픽이 영화·드라마·애니메이션 제작을 위한 협업 기능 '아티팩트'를 출시했다. 제작진은 AI 코파일럿과의 대화로 영상과 이미지, 스크립트 등 검토 자료를 구성하고 여러 장면의 시안을 비교할 수 있다. 생성된 자료는 링크로 공유되며 외부 ... The post 모픽AI, 영상 시안 검토·수정·공유 기능 ‘아티팩트’ 출시…영화·드라마 제작 협업 지원한다 appeared first on 벤처스퀘어.",
+          "title": "바운스, 전국 28개 센터 관리자 안전교육…응급처치부터 시설 운영까지 현장 대응 강화",
+          "link": "https://www.venturesquare.net/1129803/",
+          "pubDate": "2026-11-18T14:00:15.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/bounce-789x513.jpg",
+          "summary": "패밀리 엔터테인먼트 기업 바운스가 전국 28개 센터의 선임매니저와 본사 관계자 67명을 대상으로 합동 안전교육을 실시했다. 기장소방서와 연계해 심폐소생술과 기도폐쇄 응급처치, 화재 대피 요령을 교육하고 모험시설 안전장비와 트램폴린 운영 수칙을 점검했다. 바운스는 현장 ... The post 바운스, 전국 28개 센터 관리자 안전교육…응급처치부터 시설 운영까지 현장 대응 강화 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI영상제작",
-            "AI코파일럿",
-            "Artifacts"
+            "CPR",
+            "VAUNCE",
+            "기장소방서"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오늘의집, 소상공인 브랜드 300곳 중 2곳 선정…북촌 팝업으로 오프라인 판로 확대",
-          "link": "https://www.venturesquare.net/1129736/",
-          "pubDate": "2026-11-18T08:55:04.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/tops-696x522.jpg",
-          "summary": "오늘의집이 중소벤처기업부와 한국중소벤처기업유통원이 주관하는 '2026 브랜드 소상공인 육성사업(TOPS)'의 최종 선정 브랜드 2곳에 북촌 팝업스토어 운영을 지원한다. 올해 리빙 분야 소상공인 300개사를 대상으로 단계별 육성 프로그램을 진행했으며, 2단계에 참여한 6... The post 오늘의집, 소상공인 브랜드 300곳 중 2곳 선정…북촌 팝업으로 오프라인 판로 확대 appeared first on 벤처스퀘어.",
+          "title": "커버써먼 키크, 공기로 보온성 조절하는 재킷·베스트 출시…한국·일본 시장 동시 공략",
+          "link": "https://www.venturesquare.net/1129801/",
+          "pubDate": "2026-11-18T13:54:04.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/keek-789x440.jpg",
+          "summary": "커버써먼의 라이프스타일 테크 브랜드 키크가 공기로 보온성과 착용감을 조절하는 '에어 플로우 재킷'과 '에어 플로우 베스트'를 한국과 일본에서 동시 출시했다. 신제품에는 공기 주입과 배출을 통해 의류 내부의 단열층과 볼륨을 조절하는 독자 기술 '에어로 시스템'이 적용됐다... The post 커버써먼 키크, 공기로 보온성 조절하는 재킷·베스트 출시…한국·일본 시장 동시 공략 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "TOPS",
-            "리빙브랜드",
-            "버킷플레이스"
+            "CVSM",
+            "keek",
+            "기능성의류"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "당근, 정규직 전환 연계 ‘2027 프로덕트 빌더 인턴십’ 모집…실제 서비스 개발 참여",
-          "link": "https://www.venturesquare.net/1129727/",
-          "pubDate": "2026-11-18T08:52:59.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/carrot-3-789x444.png",
-          "summary": "지역생활 커뮤니티 당근이 '2027 당근 프로덕트 빌더 인턴십' 참가자를 12월 6일까지 모집한다. 채용전환형으로 운영되는 이번 프로그램에는 CPG실과 피드실, 커뮤니티실 등 주요 개발 조직이 참여한다. 선발된 인턴은 실제 서비스의 문제를 해결하기 위해 아이디어 구체화... The post 당근, 정규직 전환 연계 ‘2027 프로덕트 빌더 인턴십’ 모집…실제 서비스 개발 참여 appeared first on 벤처스퀘어.",
+          "title": "글로벌 스타트업 센터, 외국인 창업가 대상 ‘2026 GSC FORUM’ 성황리 개최",
+          "link": "https://www.venturesquare.net/1129777/",
+          "pubDate": "2026-11-18T11:51:38.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/gsc-333.jpg",
+          "summary": "K-컬처와 테크를 이끄는 외국인 창업가들이 한자리에 모였습니다. 글로벌 스타트업 센터(GSC)가 개최한 ‘2026 GSC FORUM’에서는 뷰티·콘텐츠·패션 분야 창업가들의 열띤 피칭과 네트워킹이 펼쳐졌는데요. 특히 유학생으로 시작해 K-뷰티 바이오테크 기업을 일구고 ... The post 글로벌 스타트업 센터, 외국인 창업가 대상 ‘2026 GSC FORUM’ 성황리 개최 appeared first on 벤처스퀘어.",
           "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
             "뉴스콘텐츠",
-            "2027인턴십",
-            "CPG",
-            "IT채용"
+            "보도자료",
+            "현장스케치",
+            "GSC포럼",
+            "K뷰티",
+            "K컬처"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:42.464Z",
+      "fetchedAt": "2026-11-18T18:40:04.215Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -876,7 +875,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:42.739Z",
+      "fetchedAt": "2026-11-18T18:40:04.561Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -884,6 +883,40 @@
       "category": "창업·스타트업",
       "subcategory": "글로벌 스타트업",
       "items": [
+        {
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+          "pubDate": "2026-11-18T12:00:00.000Z",
+          "image": null,
+          "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+          "keywords": [
+            "AI",
+            "Startups",
+            "AI agents",
+            "Exclusive",
+            "Felicis Ventures",
+            "Y Combinator"
+          ],
+          "isForeign": true,
+          "titleKo": "Felicis, AI 에이전트가 기업 문서를 사용할 수 있도록 하는 Unsiloed AI에 750만 달러 투자 주도",
+          "summaryKo": "단 7명으로 구성된 팀을 보유한 Unsiloed AI는 경쟁이 치열한 AI 문서 처리 시장에서 기술 대기업 및 전문 스타트업과 경쟁할 계획입니다."
+        },
+        {
+          "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+          "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "pubDate": "2026-11-18T11:30:00.000Z",
+          "image": null,
+          "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+          "keywords": [
+            "AI",
+            "Robotics",
+            "Startups",
+            "Accel"
+          ],
+          "isForeign": true,
+          "titleKo": "인도의 Humyn Labs, 미국 로봇 기업에 필요한 데이터를 제공하기 위해 4,700만 달러 조달",
+          "summaryKo": "2월에 설립된 Humyn Labs는 Mecka AI 및 XDOF와 같은 스타트업과 경쟁하며, 매출의 약 90%가 미국에서 발생합니다."
+        },
         {
           "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
           "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
@@ -933,44 +966,9 @@
           "isForeign": true,
           "titleKo": "Science Corporation의 뇌 기술, 신규 투자 유치 후 가치 35억 달러에 달해",
           "summaryKo": "Science Corp.는 실명 예방 사업을 확장하기 위해 4억 달러 규모의 시리즈 D 투자를 유치했습니다."
-        },
-        {
-          "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-          "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-          "pubDate": "2026-11-17T14:00:00.000Z",
-          "image": null,
-          "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-          "keywords": [
-            "Media & Entertainment",
-            "Startups",
-            "educational video",
-            "hank green",
-            "kids"
-          ],
-          "isForeign": true,
-          "titleKo": "행크 그린(Hank Green)은 어린이들을 위한 엄선된 교육용 동영상 플랫폼인 ClockwiseTV를 자비로 운영하고 있습니다.",
-          "summaryKo": "행크 그린은 CEO 레슬리 모건과 함께 자녀가 이용할 수 있기를 바랐던 동영상 플랫폼을 만들기 시작했습니다."
-        },
-        {
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-          "pubDate": "2026-11-16T23:32:32.000Z",
-          "image": null,
-          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-          "keywords": [
-            "AI",
-            "Fundraising",
-            "Security",
-            "Startups",
-            "cybersecurity",
-            "In Brief"
-          ],
-          "isForeign": true,
-          "titleKo": "사이버 보안 AI 스타트업 Corma, 약 3개월 만에 기업 가치 10억 달러 달성",
-          "summaryKo": "AI 사이버 보안 스타트업인 Corba는 제품을 출시한 지 3개월 만에 NEA가 주도하는 10억 달러의 기업 가치로 1억 2,500만 달러의 시리즈 A 투자를 유치했습니다."
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:45.442Z",
+      "fetchedAt": "2026-11-18T18:40:09.067Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -978,6 +976,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "엑셀라·에이판다파트너스, 한국 금융자산 해외 유통 추진…블록체인 인프라 공동 개발",
+          "link": "https://www.venturesquare.net/1129844/",
+          "pubDate": "2026-11-18T14:30:37.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/20261118.png-789x444.png",
+          "summary": "글로벌 블록체인 상호운용성 네트워크 엑셀라가 국내 자산 토큰화 기업 에이판다파트너스와 한국 실물자산의 토큰화 및 해외 유통 인프라 구축을 위한 업무협약을 체결했다. 양사는 대출채권과 인프라 자산 등을 신탁수익증권으로 구조화하고, XRPL을 비롯한 여러 블록체인에서 토큰... The post 엑셀라·에이판다파트너스, 한국 금융자산 해외 유통 추진…블록체인 인프라 공동 개발 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "Axelar",
+            "RWA",
+            "XRPL",
+            "XRP레저",
+            "글로벌금융"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "부산창조경제혁신센터, 일본 후쿠오카 지쇼와 MOU…2년간 스타트업 교류 정식 협력으로 확대",
+          "link": "https://www.venturesquare.net/1129830/",
+          "pubDate": "2026-11-18T14:16:47.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/2025-696x522.jpg",
+          "summary": "부산창조경제혁신센터가 일본 후쿠오카의 도시개발기업 후쿠오카 지쇼와 한·일 스타트업 교류 및 글로벌 진출 지원을 위한 업무협약을 체결했다. 양측은 2025년부터 현지 스타트업 교류와 부산 초청 프로그램을 운영하며 협력 관계를 구축해 왔다. 올해 10월에는 RAMEN TE... The post 부산창조경제혁신센터, 일본 후쿠오카 지쇼와 MOU…2년간 스타트업 교류 정식 협력으로 확대 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "FukuokaGrowthNext",
+            "FukuokaJisho",
+            "PlugInFukuoka",
+            "RAMENTECH2026",
+            "글로벌진출"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "씨엔티테크, 펨테크 스타트업 데모데이 24일 개최…첫해 육성 성과 공개",
+          "link": "https://www.venturesquare.net/1129788/",
+          "pubDate": "2026-11-18T13:07:56.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/a2-369x522.png",
+          "summary": "씨엔티테크가 오는 11월 24일 서울 강남구 팁스홀에서 '2026 펨테크 산업 육성 사업 데모데이'를 개최한다. 이번 행사는 중소벤처기업부가 주최하고 한국여성경제인협회가 주관하는 펨테크 산업 육성 사업의 첫해 성과를 공유하기 위해 마련됐다. 참여 스타트업들은 IR 발표... The post 씨엔티테크, 펨테크 스타트업 데모데이 24일 개최…첫해 육성 성과 공개 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "FemTech",
+            "데모데이",
+            "스타트업",
+            "스타트업IR",
+            "씨엔티테크"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "부산창조경제혁신센터, 일본 후쿠오카 지쇼와 MOU…2년간 스타트업 교류 정식 협력으로 확대",
           "link": "https://www.venturesquare.net/1129705/",
@@ -1013,63 +1065,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "초기투자액셀러레이터협회, 창업기획자 제도화 10주년 기념행사 개최…벤처스튜디오 정책 방향 논의",
-          "link": "https://www.venturesquare.net/1129427/",
-          "pubDate": "2026-11-17T07:21:02.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/10-3-369x522.png",
-          "summary": "중소벤처기업부가 주최하고 창업진흥원과 초기투자액셀러레이터협회가 공동 주관하는 '창업기획자 제도화 10주년 기념행사'가 12월 3일 서울 광진구 파이팩토리에서 열린다. 행사에서는 전화성 협회장이 창업기획자 제도의 10년 성과를 발표하고, 중소벤처기업부가 2027년 벤처스... The post 초기투자액셀러레이터협회, 창업기획자 제도화 10주년 기념행사 개최…벤처스튜디오 정책 방향 논의 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "KAIA",
-            "권도균",
-            "명승은",
-            "백인수",
-            "벤처스튜디오"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "한국무역협회, 스타트업 해외 진출 리스크 점검…“K-브랜드 상표 선점 주의해야”",
-          "link": "https://www.venturesquare.net/1129400/",
-          "pubDate": "2026-11-17T06:51:41.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/KITA-3-789x510.jpg",
-          "summary": "한국무역협회가 수출 초기 스타트업 관계자 70여 명을 대상으로 FTA 활용과 해외 진출 위험 관리에 관한 설명회를 개최했다. 전문가들은 중국·아세안 지역의 K-브랜드 상표 무단선점 사례를 소개하며 해외 진출 전 현지 상표권 확보의 중요성을 강조했다. FTA 특혜관세 적... The post 한국무역협회, 스타트업 해외 진출 리스크 점검…“K-브랜드 상표 선점 주의해야” appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "FTA",
-            "HS코드",
-            "KITA",
-            "K브랜드",
-            "글로벌팁스"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "경남창조경제혁신센터, 거제 로컬 창업기업 9곳 성과 공개…지역 특산물 활용 신제품 전시",
-          "link": "https://www.venturesquare.net/1129288/",
-          "pubDate": "2026-11-17T04:36:32.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/KN-4-696x522.jpg",
-          "summary": "경남창조경제혁신센터가 거제시와 함께 '2026년 거제시 로컬크리에이터 육성사업 성과전시회'를 개최했다. 11월 16일부터 20일까지 거제시청 도란도란 전시실에서 진행되는 이번 행사에는 지역 창업기업 9곳이 참여한다. 거제 멸치 초콜릿과 유자 샤베트, 송진포 양파빵, 몽... The post 경남창조경제혁신센터, 거제 로컬 창업기업 9곳 성과 공개…지역 특산물 활용 신제품 전시 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "거제도외포멸치",
-            "거제시",
-            "경남창조경제혁신센터",
-            "로컬창업",
-            "로컬크리에이터"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:47.188Z",
+      "fetchedAt": "2026-11-18T18:40:10.583Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1077,6 +1075,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "흩어진 정보 한곳에 ‘울산창업 통합포털’ 추진 - 경상일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBidE1xeFU4dnJDSV9LV1RQcXFCTmtRa3dRaHVMNmMwY1RJcEgtVjI2cEd6VE95UTVST3pQZGx5N1BUN01SUjNtUkc3NUYtdVNzdmlHeDhMSmJmVDI0al9xSHNMRnhKaV93NXczUA?oc=5",
+          "pubDate": "2026-11-18T15:00:03.000Z",
+          "image": null,
+          "summary": "흩어진 정보 한곳에 ‘울산창업 통합포털’ 추진 경상일보",
+          "keywords": [
+            "흩어진",
+            "정보",
+            "한곳에",
+            "울산창업",
+            "통합포털"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "포천시, 2027년 공동주택 지원사업 공고 - 경인매일",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NY2VURGV6WUM2dVQzOHNSSGFWcExRbmI3aEUzY1A2SHZRaW5rTGY3OFZCSnBRTm5WUHJYQk1ESjBQdnFmOWdGOGZpMUh3S1FZNjhhSzhCWkpGVW9lM2s2X1JzTURMUGZ4?oc=5",
@@ -1089,57 +1104,6 @@
             "공동주택",
             "지원사업",
             "공고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "양양군, 2027년 청년어촌정착 지원사업 대상자 모집 - 강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zQk1rZ3lDNFlkaEZYOW9Od28tdS1qZVhRZ3FWLU1Ea1J2RWtsdHB1cDB6OU0zc2FnX0ZJX29JYU9FaE1obXJoQVo1Q19VUS1PM2QwZWlHc181eGc?oc=5",
-          "pubDate": "2026-11-17T02:25:25.000Z",
-          "image": null,
-          "summary": "양양군, 2027년 청년어촌정착 지원사업 대상자 모집 강원일보",
-          "keywords": [
-            "양양군",
-            "2027년",
-            "청년어촌정착",
-            "지원사업",
-            "대상자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 - 아시아뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfb0h2YzJSa21WVkhKTG9ubUl4RUZ0b01IUzF5djFPcUxjYUxyRGlrQm1vNjZhMHp4NlpZWGN3V2NUV1o5eXRuM2JpcGhsX2k4RUxMSjBaSl9yU2l4by1XZjdpUFh5Y0pNY2h6TlM4WHBvRFdw?oc=5",
-          "pubDate": "2026-11-18T01:39:48.000Z",
-          "image": null,
-          "summary": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 아시아뉴스통신",
-          "keywords": [
-            "고양시",
-            "2027년",
-            "노인일자리",
-            "사회활동",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "양양군 2027년 청년어촌정착지원사업 대상자 모집 > 뉴스데스크 - MBC 강원영동",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RWVhHU3RINnkySm5ZeWVhX2xQU0tpUzIyZU0wcEJoeGFFeFRTYXUzT2Q0c3FVWVhrMzlVR3hoOW9kWW5LT2ZGMEM2bw?oc=5",
-          "pubDate": "2026-11-17T02:25:00.000Z",
-          "image": null,
-          "summary": "양양군 2027년 청년어촌정착지원사업 대상자 모집 > 뉴스데스크 MBC 강원영동",
-          "keywords": [
-            "양양군",
-            "2027년",
-            "청년어촌정착지원사업",
-            "대상자",
-            "모집"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1161,9 +1125,43 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 - 더 데일리가드",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WlN2WElSY3ZOZEoyc2V3c3VkQUZwUmtKWHJrcWN0RkthU29VMUdzZzJaek5yMVk2aU5JczZIbVdFUk9hVzd2V2R4Mk5sNkNxTG4tUnh4eWNEdFZFaXphdDB4Y0YtMnFLZHY4QVlUQ04?oc=5",
+          "pubDate": "2026-11-17T04:18:59.000Z",
+          "image": null,
+          "summary": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 더 데일리가드",
+          "keywords": [
+            "고양시",
+            "2027년",
+            "노인일자리",
+            "사회활동",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[삼척소식]'2027년 장애인일자리 지원사업' 참여자 123명 모집 - 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wanpyaU9NSV9tekdKcDFpNDZibEFMS2Q4THdVNGVuVFpJZkkxaGVtc3AyTTlfenpHal85amdhU3NOX3VSMlB4bVpTNkpndDRTc25UQmlCVUtkYUcxWmlXbdIBeEFVX3lxTE9ETlM2c0R6OTVWNlFWNUpYZG1maW5KdnRUcGVDQ3c2YXhfWDFsb3l6MHFZaklmeXJhRVk1bndBVDF3T2kyZW1NMUJ5T0hrdU5oNlVoS3VXX0J4QjBZUEZxRkpCckc2Qy1yVC1tS3lEWkxsbHFpMjJxdQ?oc=5",
+          "pubDate": "2026-11-17T00:42:07.000Z",
+          "image": null,
+          "summary": "[삼척소식]'2027년 장애인일자리 지원사업' 참여자 123명 모집 뉴시스",
+          "keywords": [
+            "삼척소식",
+            "2027년",
+            "장애인일자리",
+            "지원사업",
+            "참여자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-18T09:45:47.496Z",
+      "fetchedAt": "2026-11-18T18:40:10.893Z",
       "error": null
     }
   },
@@ -1173,70 +1171,70 @@
       "label": "스타트업",
       "count": 3,
       "rank": 1,
-      "change": "up"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 2,
-      "change": "down"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 5,
-      "rank": 3,
-      "change": "down"
-    },
-    {
-      "key": "뉴스&트렌드",
-      "label": "뉴스&트렌드",
-      "count": 5,
-      "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "down"
+      "rank": 3,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
+      "rank": 4,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 4,
+      "rank": 5,
+      "change": "down"
+    },
+    {
+      "key": "뉴스&트렌드",
+      "label": "뉴스&트렌드",
+      "count": 4,
       "rank": 6,
       "change": "down"
     },
     {
       "key": "2027년",
       "label": "2027년",
-      "count": 4,
+      "count": 3,
       "rank": 7,
       "change": "same"
-    },
-    {
-      "key": "gn:",
-      "label": "GN:",
-      "count": 4,
-      "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "show",
-      "label": "Show",
-      "count": 4,
-      "rank": 9,
-      "change": "new"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
       "count": 3,
+      "rank": 8,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "fukuokagrowthnext",
+      "label": "FukuokaGrowthNext",
+      "count": 2,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
@@ -1257,27 +1255,27 @@
       "labelKo": "애드 센스"
     },
     {
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
+      "rank": 3,
+      "change": "up",
+      "labelKo": "AI"
+    },
+    {
       "key": "startups",
       "label": "Startups",
       "count": 5,
-      "rank": 3,
-      "change": "same",
-      "labelKo": "스타트업"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
       "rank": 4,
-      "change": "up",
-      "labelKo": "AI"
+      "change": "down",
+      "labelKo": "스타트업"
     },
     {
       "key": "google ads",
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "down",
+      "change": "same",
       "labelKo": "다음을 따르세요"
     },
     {
@@ -1289,36 +1287,36 @@
       "labelKo": "플랫폼"
     },
     {
-      "key": "company",
-      "label": "Company",
-      "count": 2,
-      "rank": 7,
-      "change": "new",
-      "labelKo": "社"
-    },
-    {
-      "key": "in brief",
-      "label": "In Brief",
-      "count": 2,
-      "rank": 8,
-      "change": "same",
-      "labelKo": "  요  약 "
-    },
-    {
-      "key": "product",
-      "label": "Product",
-      "count": 2,
-      "rank": 9,
-      "change": "up",
-      "labelKo": "제품"
-    },
-    {
       "key": "ai agents",
       "label": "AI agents",
+      "count": 2,
+      "rank": 7,
+      "change": "up",
+      "labelKo": "AI 에이전트"
+    },
+    {
+      "key": "accel",
+      "label": "Accel",
+      "count": 1,
+      "rank": 8,
+      "change": "new",
+      "labelKo": "가속"
+    },
+    {
+      "key": "ai products",
+      "label": "AI Products",
+      "count": 1,
+      "rank": 9,
+      "change": "new",
+      "labelKo": "AI 제품"
+    },
+    {
+      "key": "alan chikin-chow",
+      "label": "alan chikin-chow",
       "count": 1,
       "rank": 10,
       "change": "new",
-      "labelKo": "AI 에이전트"
+      "labelKo": "앨런 치킨-차우"
     }
   ]
 }
