@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-21T17:06:47.150Z",
+  "collectedAt": "2026-11-21T22:47:23.010Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
+          "link": "https://www.mk.co.kr/news/economy/12215366",
+          "pubDate": "2026-11-21T21:13:10.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/22/rcv.YNA.20261030.PYH2026103008390001300_R.jpg",
+          "summary": "주담대 잔액 958.7조원 증가세 중도금·이주비 대출 수요 이어져은행권 주택담보대출 금리가 14년여 만에 최고 수준으로 올랐지만 대출잔액 증가폭은 오히려 확대된 것으로 나타났다. ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘등급’ 아닌 ‘점수제’로 평가되는 내 신용 … 점수에 따른 대출이자 격차는?",
+          "link": "https://www.mk.co.kr/news/economy/12214686",
+          "pubDate": "2026-11-21T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261120.97c839e05fd14f7dbf5b5dd33b697b1b_R.png",
+          "summary": "신용점수가 불러오는 대출이자 차이신용점수는 당장 통장 잔고를 불려주지도, 오늘의 배당금을 입금해 주지도 않습니다. 이 때문에 많은 금융소비자가 신용관리를 ‘대출을 받을 때나 잠깐 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "“아픈 사람도 가입된다더니”…보험금 5500만원 주고 유족 고소한 보험사 [어쩌다 세상이]",
           "link": "https://www.mk.co.kr/news/economy/12215323",
           "pubDate": "2026-11-21T10:12:10.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "“널 가족이라 생각하지만, 돈은 좀 아껴야겠어”…댕댕이 펫보험 ‘주목’",
-          "link": "https://www.mk.co.kr/news/economy/12215285",
-          "pubDate": "2026-11-21T07:42:53.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/21/news-p.v1.20261120.07a84f6a1b80427abc42569f45621ad6_R.png",
-          "summary": "반려동물 평균 치료비 146만원 펫보험 계약 1년 만에 55% 증가 수술비 100만원 중 68만원 지급 보장비율·자기부담금 비교 ‘꼭’지난 설 연휴 반려견 ‘두부’가 발가락 골절로..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "서행하는 앞차에 하이빔 날렸는데…“알고 보니 똑똑한 운전자였습니다”",
-          "link": "https://www.mk.co.kr/news/economy/12215197",
-          "pubDate": "2026-11-21T01:48:43.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/21/news-p.v1.20261120.e017668a5c464661a62ed5bbc2dfcaf2_R.png",
-          "summary": "자동차보험 할인 특약 과속·급가감속 삼가면 네이버·티맵 등 점수로 최대 20% 후반대 할인A씨는 최근 앞에 차량이 한 대도 없는 도로에서도 시속 60km 이하로 주행하고 있다. 내..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:40.127Z",
+      "fetchedAt": "2026-11-21T22:47:11.653Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "각 기관이 제안된 제3자 위험 관리 지침에 대한 의견 수렴 기간을 연장했습니다."
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:40.272Z",
+      "fetchedAt": "2026-11-21T22:47:11.750Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,23 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+          "pubDate": "2026-11-22T05:59:45.000Z",
+          "image": null,
+          "summary": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포메이션은 20일(현지시간) 복수의 소식통을 인용, 손 회장이 최근 월가 금융기관들과 접촉해 SK하이닉스 인수에 필요한 자금 조달 가능성을 타진했다고 보도했다.소프트뱅크 대변인은 \"회사는 다양한 기회를 검토하고 있으며, 이번 거래는 더 이상 적극적으로",
+          "keywords": [
+            "손정의",
+            "SK하이닉스",
+            "1조달러",
+            "인수",
+            "검토"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217650",
@@ -255,26 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "유튜브, 미 교육청들과 '중독 소송' 4조원 합의 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217647",
-          "pubDate": "2026-11-21T11:44:00.000Z",
-          "image": null,
-          "summary": "구글의 유튜브가 청소년의 정신건강을 해치는 중독성 플랫폼을 설계했다는 이유로 미국 교육청들이 제기한 소송에서 30억달러(약 4조원) 규모의 합의에 근접했다. 합의가 성사되면 미국 교육청을 대상으로 한 기업 합의금 가운데 역대 최대 규모가 될 전망이다.20일(현지시간) 블룸버그에 따르면 유튜브는 수천 곳의 교육청에 약 30억달러를 지급하는 원칙적 합의에 도달했다.합의안에는 청소년을 보호하기 위한 플랫폼 기능 개선도 포함됐다. 전체 교육청의 과반이 동의해야 하며, 최종 확정까지는 수개월이 걸릴 것으로 예상된다. 소송을 담당하는 미국 캘",
-          "keywords": [
-            "유튜브",
-            "교육청들과",
-            "중독",
-            "소송",
-            "4조원"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:41.258Z",
+      "fetchedAt": "2026-11-21T22:47:12.903Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -354,7 +354,7 @@
           "summaryKo": "Codex Security 플러그인 데모를 시청하고 시작부터 녹화본에 표시된 결과 검토까지 워크플로가 실제로 작동하는 모습을 확인하세요."
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:41.456Z",
+      "fetchedAt": "2026-11-21T22:47:13.121Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -363,91 +363,91 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
-          "link": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T16:36:36.000Z",
+          "title": "췌장암 치료 알약, ‘수십 년 만의 최대 돌파구’로 평가받음",
+          "link": "https://news.hada.io/topic?id=37598&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-21T21:31:35.000Z",
           "image": null,
-          "summary": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명의 명제와 증명이 모두 올바르다고 공동으로 인증함 증명은 1,700만 줄 규모의 Lean 라이브러리로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임 검증 대상은 전문가들이 검토한 Mathlib의 RiemannHypothesis 명제이며, 독립적인 도구 두 개로 실제 증명한 정리와 정확히 일치하는지 확인함 수십 명이 코드의 정상 컴파일과 동일한 원시 증명 내보내기 파일의 재현을 보고함 Lean 공식 커널과 여러 독립 검사기가 내보낸 증명의 유효성을 확인했으며, 증명 소스의 …",
+          "summary": "경구 치료제 daraxonrasib 임상시험에서 전이성 췌장암 환자 61명 중 약 8%는 CT로 종양이 검출되지 않았으며, 90%는 종양 성장이 멈춤 환자의 60% 이상에서 종양이 축소되거나 사라졌고, 치료 시작 1년 후 생존율은 76.6%로 항암화학요법만 받은 환자의 통상적인 40~45%보다 높았음 KRAS 억제제인 daraxonrasib은 대부분의 췌장암에서 발견되는 특정 돌연변이에 작용해 종양 성장을 촉진하는 기능을 차단함 추적 관찰 기간 중앙값은 18개월이지만, 아직 완치 치료로 볼 수 없으며 질병 억제 효과가 얼마나 지속될지도 알 수 없음 같은 돌 …",
           "keywords": [
-            "리만",
-            "가설의",
-            "Lean",
-            "검증",
-            "Lean과"
+            "췌장암",
+            "치료",
+            "알약",
+            "수십",
+            "만의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "데릭 로: 아지드화 납 더미 폭파",
-          "link": "https://news.hada.io/topic?id=37585&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T16:33:36.000Z",
+          "title": "FBI, 범죄정보 데이터베이스 해킹 의심 사건 조사 중인 것으로 알려져",
+          "link": "https://news.hada.io/topic?id=37597&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-21T20:37:21.000Z",
           "image": null,
-          "summary": "데릭 로: 아지드화 납 더미 폭파",
+          "summary": "사안을 보고받은 두 명을 인용한 미국 언론 보도에 따르면, FBI가 범죄정보 데이터베이스 침해 의심 사건을 조사 중임 대상인 국가범죄정보센터(NCIC) 데이터베이스는 연방 및 지역 법 집행기관이 영장과 신원조회 관련 정보를 공유하는 데 사용함 FBI는 BBC의 논평 요청에 즉각 답하지 않았으며, Donald Trump 대통령은 토요일 인터뷰에서 해킹 소식을 방금 들었다고 밝힘 지난 9월에도 ShinyHunters가 FBI 전체 직원 약 3만 8,000명의 민감한 정보를 훔쳤다고 주장해 FBI가 침해 의심 사건 조사에 나선 바 있음 별도로 NBC는 미국 농무 …",
           "keywords": [
-            "데릭",
-            "로:",
-            "아지드화",
-            "더미",
-            "폭파"
+            "FBI",
+            "범죄정보",
+            "데이터베이스",
+            "해킹",
+            "의심"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "내 모니터가 다운로드 속도를 75% 떨어뜨리고 있었다",
-          "link": "https://news.hada.io/topic?id=37584&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T15:32:49.000Z",
+          "title": "5.4 GB 메모리의 Inkling-2-Mini",
+          "link": "https://news.hada.io/topic?id=37595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-21T20:34:21.000Z",
           "image": null,
-          "summary": "2.5Gbps 대칭형 인터넷에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복함 문제는 모니터의 대역폭 부족만이 아니라 USB 허브의 응답 지연과 어댑터의 버스트 크기가 결합한 수신 병목에 있었음 모니터를 거친 RTL8156B 어댑터는 초당 약 16만 8,000프레임에서 수신 처리량이 정체됐으며, 이를 초과한 프레임은 Mac에 도달하기 전에 어댑터에서 버려짐 Realtek 전용 드라이버로 다운로드가 약 1.1Gbps까지 개선됐고, 이더넷 흐름 제어를 켜면 약 2Gbps에 도 …",
+          "summary": "LookAtMyQuant가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함. 이 수치는 가중치 크기이며, 공개된 M5 Max 실행 측정의 활성 RAM 사용량은 5.98 GB임 5.38 GB 모델은 GSM8K 200문제에서 67.0%, HumanEval 164문제에서 36.6%를 기록함. 비교 대상인 Unsloth의 9.14 GB UD-Q2_K_XL보다 파일이 41% 작으면서 두 평가 모두 점수가 높음 압축은 모델 각 부분의 출력 손상도를 측정해 크기 예산 안에서 코드를 배분하는 방식임. Inkling에는 트렐리스 코드와 근접 미세조정(SQYFR) 을 적용함 Apple Silicon 전용 Metal 커 …",
           "keywords": [
-            "모니터가",
-            "다운로드",
-            "속도를",
-            "75%",
-            "떨어뜨리고"
+            "GB",
+            "메모리의",
+            "Inkling",
+            "Mini"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "차고 문 알림에 끼어든 스팸",
-          "link": "https://news.hada.io/topic?id=37583&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T15:01:15.000Z",
+          "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
+          "link": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-21T20:02:02.000Z",
           "image": null,
-          "summary": "차고 문 개폐 알림을 믿고 myQ를 사용하던 이용자가 2026년 10월 알림에 대한 신뢰를 잃고, ratgdo32로 전환함 제조사 Chamberlain은 2023년 말 myQ를 통한 타사 API 접근을 차단했으며, 이용자는 이에 대응해 로컬 제어 보드 두 개를 구매함 ratgdo32는 약 62달러의 오픈소스 펌웨어 기반 Wi-Fi 보드로, 기존 차고 문 개폐기 단자에 연결해 Security+ 2.0 프로토콜로 로컬 통신함 HomeKit과 Siri로 문을 제어하고, JSON 상태 엔드포인트를 활용해 밤에 문이 열려 있는지 확인하는 Slack 알림을 구현함 차고 문 제어는 클라우드 없이 로컬 …",
+          "summary": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거됨. 5년 넘게 진행한 Rust 전환이 기존 구현을 대체하는 단계에 도달함 Google 내부 보안팀은 Binder를 운영체제에서 코드 줄 수 대비 CVE가 가장 많은 구성 요소로 평가함. C 구현에 새 기능을 추가할 때마다 취약점이 계속 생겨, 새 기능은 Rust 구현에만 추가하도록 정책을 바꿈 성능 측면에서 전환의 관건은 처리량보다 꼬리 지연 시간이었음. 화면 렌더링 경로에 Binder가 들어가므로, 잠금 경합으로 드물게 발생하는 20밀리초 지연도 사용자가 체감할 수 있음 …",
           "keywords": [
-            "차고",
-            "알림에",
-            "끼어든",
-            "스팸"
+            "binder",
+            "제거",
+            "Android",
+            "Binder의",
+            "구현을"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: BerthNTFS – 커널 확장 없이 맥에서 NTFS 디스크에 쓰기 (FSKit + Rust)",
-          "link": "https://news.hada.io/topic?id=37582&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-21T14:55:03.000Z",
+          "title": "브라이언 메이, Hera의 소행성 영상에 입체감을 더하다",
+          "link": "https://news.hada.io/topic?id=37593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-21T19:31:25.000Z",
           "image": null,
-          "summary": "맥에서 NTFS 디스크를 읽고 쓸 수 있게 해 주는 앱을 만들었습니다. macOS는 NTFS를 읽기만 지원해서, Windows와 외장 디스크를 같이 쓸 때 불편했던 것이 계기입니다. 커널 확장(kext)이나 macFUSE 없이 Apple의 FSKit 확장으로 동작 복구 모드에서 보안 설정을 낮추거나 재시동할 필요 없음 꽂으면 Finder와 모든 앱에서 일반 디스크처럼 읽고 씀 NTFS 엔진은 Rust로 직접 구현 기존 오픈소스 드라이버의 코드를 쓰지 않고 포맷 문서를 보고 작성 코어는 unsafe 없이 작성, 디스크에서 읽은 값은 전부 범위를 검사 데이터 안전을 속 …",
+          "summary": "Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 브라이언 메이(Sir Brian May) 가 Claudia Manzoni와 함께 Didymos 소행성의 입체 영상을 제작함 Hera가 짧은 시간 간격을 두고 촬영한 두 이미지를 결합해 양쪽 눈의 시차를 재현했으며, 눈에 자연스럽게 보이도록 이미지를 정렬하는 작업이 핵심임 입체 영상에서는 바위가 흩어진 나머지 표면과 대비되는 Didymos 적도 능선의 뚜렷하고 매끄러운 형태를 확인할 수 있음 적청 3D 안경, 전용 뷰어 또는 맨눈으로 보는 방식에 맞춰 세 가지 입체 영상 버전을 제공함 Hera는 NASA의 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "BerthNTFS",
-            "커널",
-            "확장"
+            "브라이언",
+            "메이",
+            "Hera의",
+            "소행성",
+            "영상에"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:42.370Z",
+      "fetchedAt": "2026-11-21T22:47:13.692Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -455,6 +455,19 @@
       "category": "유튜브·크리에이터",
       "subcategory": "크리에이터 경제",
       "items": [
+        {
+          "title": "Top 5 Branded Videos of the Week: Tech, physics, Christmas, oh my",
+          "link": "https://www.tubefilter.com/2026/11/21/top-5-branded-videos-veritasium-bikelife-mom-ryan-trahan-marques-brownlee/",
+          "pubDate": "2026-11-21T20:00:29.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/veritasium.jpg",
+          "summary": "Welcome to our rundown of the most-watched branded YouTube videos of the week. We’re publishing this snippet of a larger Gospel Stats Weekly Brand Report in order to analyze sponsorship trends in the creator economy. Any video launched in tandem with an official brand partner is eligible for t he ranking. And–as the name up […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Brands & Marketing"
+          ],
+          "isForeign": true,
+          "titleKo": "이번 주 최고의 브랜드 동영상 5선: 기술, 물리학, 크리스마스, 와우",
+          "summaryKo": "이번 주 가장 많이 시청된 브랜드 YouTube 동영상 순위를 소개해 드립니다. 크리에이터 경제의 스폰서십 트렌드를 분석하기 위해 더 방대한 Gospel Stats 주간 브랜드 보고서의 일부를 게시합니다. 공식 브랜드 파트너와 함께 게시된 모든 동영상은 순위에 포함될 수 있습니다. 그리고–이름에서 알 수 있듯이 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
+        },
         {
           "title": "Have you heard? GTA’s $3.79B day, e.l.f.’s record-breaking GRWM, and OnlyFans’ new hire.",
           "link": "https://www.tubefilter.com/2026/11/20/have-you-heard-gta-elf-cosmetics-kane-parsons/",
@@ -523,26 +536,9 @@
           "isForeign": true,
           "titleKo": "유튜브, 러셀 브랜드의 강간 유죄 판결 후에도 채널을 종료하지 않겠다고 밝힘",
           "summaryKo": "YouTube는 과거에 흉악한 범죄의 용의자가 게시한 콘텐츠를 처리하는 방식에 대해 비난을 받았지만, 정책은 여전히 동일합니다. YouTube는 법원에서 유죄 판결을 받은 경우에만 채널을 폐쇄하며, 해당인의 YouTube 콘텐츠가 범죄와 직접적인 관련이 있는 경우에만 폐쇄합니다. 이제 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
-        },
-        {
-          "title": "Marketers will spend $116B on creators in 2026. They’re “cannibalizing” other budgets to do it.",
-          "link": "https://www.tubefilter.com/2026/11/19/marketers-will-spend-116b-on-creators-in-2026-theyre-cannibalizing-other-budgets-to-do-it/",
-          "pubDate": "2026-11-19T22:55:34.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/money-1-1920x1131-1.jpg",
-          "summary": "Marketers are investing more money into the creator economy—and reallocating their existing advertising budgets to pay for it. According to a recent report from strategic advisory, consulting, and research firm Madison and Wall, marketer spend on creators is set to grow “+15% in 2026 to $116 billion globally, up from $101 billion in 2025.” Based […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Brands & Marketing",
-            "advertising",
-            "creator marketing",
-            "marketing spend",
-            "report"
-          ],
-          "isForeign": true,
-          "titleKo": "마케터들은 2026년에 크리에이터에게 1,160억 달러를 지출할 것입니다. 이를 위해 다른 예산을 \"잠식\"하고 있습니다.",
-          "summaryKo": "마케터들은 크리에이터 경제에 더 많은 자금을 투자하고 있으며, 이를 위해 기존 광고 예산을 재배분하고 있습니다. 전략 자문, 컨설팅 및 리서치 회사인 Madison and Wall의 최근 보고서에 따르면, 마케터가 크리에이터에게 지출하는 비용은 \"2025년 1,010억 달러에서 2026년에는 전 세계적으로 15% 증가한 1,160억 달러로 증가할 것\"으로 예상됩니다. 기반 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:42.497Z",
+      "fetchedAt": "2026-11-21T22:47:16.939Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -616,7 +612,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:42.735Z",
+      "fetchedAt": "2026-11-21T22:47:17.153Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -697,7 +693,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:42.826Z",
+      "fetchedAt": "2026-11-21T22:47:17.242Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -796,7 +792,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:45.229Z",
+      "fetchedAt": "2026-11-21T22:47:19.879Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -887,7 +883,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:45.536Z",
+      "fetchedAt": "2026-11-21T22:47:20.168Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -981,7 +977,7 @@
           "summaryKo": "Everful은 공장 직송 소싱 플랫폼을 확장하기 위해 4,850만 달러를 조달했으며, 이를 통해 소매업체가 해외 제조업체로부터 제품을 소싱할 수 있도록 지원하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:45.620Z",
+      "fetchedAt": "2026-11-21T22:47:20.246Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1080,7 +1076,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:46.755Z",
+      "fetchedAt": "2026-11-21T22:47:22.631Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1088,6 +1084,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "엑타스, 2027년 스마트공장·제조AI 지원사업 참여기업 모집 - 머니투데이 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04bFh5N2E3eVhQTy1rWGhQbnJlMU9tQWY3SnFQZVhKR1RrbnB3S2RCeUMxNkRzSzJpZkJJbFhvNkNnX0w3bGZpYml4djBGLTZlWkFoWmhTYWVRNFVQMDNXdmxKclNZNFFfOEh4dNIBckFVX3lxTFBHQURqQVhBdHNSbnRfNzc5Z0xHTHlkOFgwN2pBTmZiRnJQZnJPdUstaUZwa3BvRDFUZ3loeTJPMmZKQ2U5WHEteHNwRFAwTGdhaE5mTm9NS3ZRd05zRnVwY1g2bVZwcXRPVEtYM0J0Y1BIUQ?oc=5",
+          "pubDate": "2026-11-21T11:28:46.000Z",
+          "image": null,
+          "summary": "엑타스, 2027년 스마트공장·제조AI 지원사업 참여기업 모집 - 머니투데이 머니투데이",
+          "keywords": [
+            "엑타스",
+            "2027년",
+            "스마트공장",
+            "제조AI",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "금융위, 지원사업 850여 개 AI 추천 플랫폼 ‘핀톡24’ 운영 개시 - 위런치",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56dHlZNHJzb1VVVmhTTklpM3lvOVVyQkJxa2hYS1BMSGZLeTBfYmFqNWludnNoM3F3bTR4WG1KdHdMNFJxT184d2dZdlBlS2dRZ0xMcTI1Q1pwX3haVEVYckt5d3Y?oc=5",
@@ -1140,23 +1153,6 @@
           "summaryKo": null
         },
         {
-          "title": "국책과제·공공입찰 공고를 3줄 요약하고 자부담을 시뮬레이션해 주는 Radar를 만들었습니다 - GeekNews",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTGEyUS1FdnVvT3d0LXRYaVlDMmxOYnFxUGw4YkJMcVlYVG5VOF9yOUpENFRNMzd5UlprUVd5TTJFQkhTVVN0SVdPZw?oc=5",
-          "pubDate": "2026-11-20T01:12:25.000Z",
-          "image": null,
-          "summary": "국책과제·공공입찰 공고를 3줄 요약하고 자부담을 시뮬레이션해 주는 Radar를 만들었습니다 GeekNews",
-          "keywords": [
-            "국책과제",
-            "공공입찰",
-            "공고를",
-            "3줄",
-            "요약하고"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "이즈파크, 2027 스마트공장 지원사업 참여 희망기업 모집… MES 고도화·제조AI 도입 지원 - FA저널",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02aWdQZFFjQlFURlBLMUtPeFZyS0FRUjRtTnVBQ3ZzcnJRSl9LQ0JvRkh3dXdZTk10SWJWTl9HWjM2YTU4bjJmZlJSMDBJRmIyOU1IRlRtRU9iTnl2TTFvMk82dDJveDhXR0pR?oc=5",
           "pubDate": "2026-11-17T00:08:54.000Z",
@@ -1174,7 +1170,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-21T17:06:47.144Z",
+      "fetchedAt": "2026-11-21T22:47:23.003Z",
       "error": null
     }
   },
@@ -1184,53 +1180,53 @@
       "label": "AI",
       "count": 2,
       "rank": 1,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "special post",
       "label": "Special Post",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
-      "count": 4,
-      "rank": 7,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
+      "count": 5,
+      "rank": 7,
+      "change": "up"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
       "count": 4,
       "rank": 8,
       "change": "down"
@@ -1240,14 +1236,14 @@
       "label": "글로벌",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
-      "key": "2027",
-      "label": "2027",
-      "count": 2,
+      "key": "스마트공장",
+      "label": "스마트공장",
+      "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
