@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-22T14:05:25.214Z",
+  "collectedAt": "2026-11-22T21:32:58.276Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:18.384Z",
+      "fetchedAt": "2026-11-22T21:32:48.171Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "각 기관이 제안된 제3자 위험 관리 지침에 대한 의견 수렴 기간을 연장했습니다."
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:18.429Z",
+      "fetchedAt": "2026-11-22T21:32:48.248Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -274,7 +274,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:19.754Z",
+      "fetchedAt": "2026-11-22T21:32:49.281Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -282,6 +282,19 @@
       "category": "AI·IT",
       "subcategory": "빅테크",
       "items": [
+        {
+          "title": "Perplexity and Intelligence",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "pubDate": "2026-11-22T00:00:00.000Z",
+          "image": null,
+          "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "keywords": [
+            "Research"
+          ],
+          "isForeign": true,
+          "titleKo": "퍼플렉시티와 지능",
+          "summaryKo": "퍼플렉시티가 AI 모델의 발전을 어떻게 측정하는지, 그리고 퍼플렉시티가 개발자들이 새로운 기능을 평가하는 데 있어 공통적인 접근 방식을 확립하는 데 어떻게 도움이 될 수 있는지 알아보세요."
+        },
         {
           "title": "Combatting adversarial distillation",
           "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -339,22 +352,9 @@
           "isForeign": true,
           "titleKo": "OpenAI의 Performance Factory가 ChatGPT의 속도를 유지하는 방법",
           "summaryKo": "OpenAI가 ChatGPT의 빠른 속도를 유지하는 데 도움이 되는 성능 문제를 찾아내고 해결하는 Codex 기반 워크플로 시스템인 Performance Factory를 어떻게 구축했는지 알아보세요."
-        },
-        {
-          "title": "Explore the Codex Security Plugin",
-          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "pubDate": "2026-11-19T00:00:00.000Z",
-          "image": null,
-          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-          "keywords": [
-            "Demos"
-          ],
-          "isForeign": true,
-          "titleKo": "Codex Security 플러그인 살펴보기",
-          "summaryKo": "Codex Security 플러그인 데모를 시청하고 시작부터 녹화본에 표시된 결과 검토까지 워크플로가 실제로 작동하는 모습을 확인하세요."
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:19.984Z",
+      "fetchedAt": "2026-11-22T21:32:51.997Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -363,91 +363,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Upload2Shell(CVE-2026-125396) - Ghostscript 샌드박스를 우회하는 문서 처리 취약점",
-          "link": "https://news.hada.io/topic?id=37635&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-22T13:33:05.000Z",
+          "title": "캐나다, 뉴스에 대한 연방 재정 지원 의지 재확인",
+          "link": "https://news.hada.io/topic?id=37658&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T20:38:06.000Z",
           "image": null,
-          "summary": "Ghostscript의 Type 1 폰트 로더에 있는 해제 후 사용(use-after-free) 취약점으로 조작된 문서가 -dSAFER 샌드박스를 벗어나 렌더링 프로세스 권한으로 임의 명령을 실행할 수 있음 공격 진입점은 파일 업로드뿐 아니라 인쇄 작업, 이메일 첨부파일, 썸네일과 문서 미리보기까지 이어지며, Debian 13 CUPS에서는 인증 없이 보낸 인쇄 작업으로 호스트의 lp 권한 명령 실행을 확인함 Roundcube, WordPress 관련 플러그인, 위키와 문서 관리 시스템에서도 실행 경로를 확인했지만, 공개 업로드 허용 여부와 렌더러 구성 등 제품별 전제조건이 다름 …",
+          "summary": "캐나다의 2026년 연방 예산안은 취재 소외 지역에 기자를 배치하는 Local Journalism Initiative를 영구화하고, 뉴스룸 인건비 세액공제를 연장함. 확정에는 의회 통과가 필요함 인건비 35% 세액공제를 2028년까지 유지하고 라디오와 TV 뉴스룸에도 처음 적용할 예정임. 기자 1인당 연간 공제 한도는 2만 9,750캐나다달러임 Online News Act에 따른 Google 지원금까지 합치면 언론사가 받는 지원은 기자 1인당 연간 약 4만 7,000캐나다달러에 달할 수 있어 고용 유지에 큰 도움이 된다는 업계 반응이 있음 Local Journalism Initiative는 …",
           "keywords": [
-            "Upload2Shell(CVE",
-            "2026",
-            "125396)",
-            "Ghostscript",
-            "샌드박스를"
+            "캐나다",
+            "뉴스에",
+            "연방",
+            "재정",
+            "지원"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "YC와 스타트업의 이민 업무를 맡는 변호사 Peter Roberts입니다. 무엇이든 물어보세요",
-          "link": "https://news.hada.io/topic?id=37630&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-22T12:31:57.000Z",
+          "title": "Backblaze 고객들, 정책 개정 후 개인정보 판매/공유 우려",
+          "link": "https://news.hada.io/topic?id=37657&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T20:35:06.000Z",
           "image": null,
-          "summary": "YC와 스타트업의 이민 업무를 맡는 변호사 Peter Roberts가 질문을 받는 AMA를 진행함 당일 남은 시간 동안 참여하며 질문에 답할 예정임 다룰 수 있는 주제는 다양하며, 참여자들이 관심을 갖는 사안에 맞춰 대화를 진행함 개별 사건의 모든 사실관계를 확인할 수 없고 법적 책임 문제가 있어 구체적인 사건에 대한 법률 자문은 제공하지 않음 질문과 댓글은 사실에 기반한 토론으로 유지해 달라고 요청하며, 답변에서도 같은 원칙을 따르려 함 AMA 참여 범위와 이전 대화 Peter Roberts는 당일 남은 시간 동안 참여하며, 미리 주제를 한 …",
+          "summary": "Backblaze가 2026년 12월 1일 시행할 개인정보 처리방침에 일부 개인정보를 타깃 광고 목적으로 판매하거나 공유할 수 있다고 명시하면서 고객들의 우려가 커짐 대상 범주에는 식별자, 상업 정보, 인터넷/네트워크 활동, 지리적 위치 정보가 포함되며, 추적 기술을 통한 제3자와의 정보 공유가 여러 서비스에 걸친 행동 기반 광고에 쓰일 수 있음 기존 방침은 동의 없이 고객의 주소나 이메일 주소를 다른 회사의 마케팅 목적으로 임대, 거래, 공유하지 않겠다고 명시했으며, 이번 개정으로 개인정보 처리 관행을 안내하는 문구가 달라짐 …",
           "keywords": [
-            "YC와",
-            "스타트업의",
-            "이민",
-            "업무를",
-            "맡는"
+            "Backblaze",
+            "고객들",
+            "정책",
+            "개정",
+            "개인정보"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "나스닥, 2026년 상승분 모두 반납",
-          "link": "https://news.hada.io/topic?id=37629&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-22T11:56:14.000Z",
+          "title": "남성에게 더 가혹한가? 갈등 상황에서 LLM의 성별 비대칭적 도덕 판단 평가",
+          "link": "https://news.hada.io/topic?id=37656&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T19:41:05.000Z",
           "image": null,
-          "summary": "나스닥 종합지수가 11월 20일 하루 5.28% 급락하며 연초 대비 2.7% 하락으로 돌아섬. Anthropic IPO와 Nvidia 실적이 AI 투자 열기를 되살리지 못했고, 투자자들은 차익 실현에 나섬 S&P 500과 다우지수는 종가 기준 역대 최고치보다 10% 낮아지며 조정 국면에 진입함. Nasdaq-100은 장중 최근 고점 대비 20% 하락해 약세장 기준에 도달함 Anthropic은 상장 첫날 17% 상승한 뒤 다음 날 8.5% 하락했고, 반도체주도 급락함. Nvidia와 Micron은 약 14%, AMD는 13% 넘게 떨어짐 AI 인프라 투자 둔화와 추가 금리 인상 가능성이 시장을 압박함 …",
+          "summary": "GAMA-Bench로 10개 LLM을 평가한 결과, 동일한 부정적 행동에도 남성 행위자에게는 처벌과 비난 중심의 응답이, 여성 행위자에게는 치료적 설명과 공감 중심의 응답이 더 많이 나타남 벤치마크는 친밀한 관계와 공적 사회 갈등을 다루는 1,298개 시나리오로 구성되며, 행동과 맥락, 심각성, 표현 방식은 유지한 채 행위자의 성별을 바꾼 1인칭 프롬프트를 비교함 단순한 유해성 분류 대신 응답 프레이밍을 측정해 처벌적 표현, 치료적 표현, 심각도 평가, 공감, 지시나 비난, 전적인 책임 귀속의 차이를 분석함 친밀한 관계 갈등에서 남성 …",
           "keywords": [
-            "나스닥",
-            "2026년",
-            "상승분",
-            "모두",
-            "반납"
+            "남성에게",
+            "가혹한가",
+            "갈등",
+            "상황에서",
+            "LLM의"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "심각한 사이버공격 배후에 막대한 자금력을 갖춘 세력이 있는 것으로 추정",
-          "link": "https://news.hada.io/topic?id=37628&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-22T11:53:14.000Z",
+          "title": "화석연료를 둘러싼 격렬한 충돌로 결렬된 유엔 기후 협상",
+          "link": "https://news.hada.io/topic?id=37655&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T19:38:05.000Z",
           "image": null,
-          "summary": "아이슬란드 웹사이트 상당수를 호스팅하는 1984가 심각한 사이버공격을 받아 고객 보안을 위해 모든 서비스를 중단함 공격은 회사의 프런트엔드 서비스를 겨냥했으며, 수만 명의 고객이 영향을 받음 Mörður Áslaugarson 대표는 공격이 전례 없이 빠르게 진행됐다며, 막대한 자금력을 갖춘 전문 공격자의 소행으로 판단함 이메일과 DNS를 먼저 복구하고, 데이터와 고객의 안전을 확인한 뒤 나머지 서비스를 순차적으로 재개할 계획임 CERT-IS와 아이슬란드 전자통신청이 조사에 협력하고 있으며, 공격 배후에 관한 추정은 있지만 확인된 조 …",
+          "summary": "화석연료를 둘러싼 격렬한 충돌로 결렬된 유엔 기후 협상",
           "keywords": [
-            "심각한",
-            "사이버공격",
-            "배후에",
-            "막대한",
-            "자금력을"
+            "화석연료를",
+            "둘러싼",
+            "격렬한",
+            "충돌로",
+            "결렬된"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Go로 PostgreSQL 확장 개발하기",
-          "link": "https://news.hada.io/topic?id=37627&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-22T11:50:14.000Z",
+          "title": "화학물질과 ‘생활습관병’의 연관성이 드러나는 가운데 유럽은 규제를 완화함",
+          "link": "https://news.hada.io/topic?id=37654&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-22T19:35:05.000Z",
           "image": null,
-          "summary": "gopgext는 TinyGo를 이용해 일반 Go 코드로 PostgreSQL 확장을 만들며, 함수에 //gopgext:function을 붙이면 SQL 함수에 필요한 C 연결 코드, 설치 스크립트, 제어 파일을 생성함 Go 표준 라이브러리와 제네릭 등을 사용할 수 있고, 문자열부터 배열, 행, UUID, JSON까지 다양한 Go 값을 SQL 타입으로 매핑함 SQL 함수뿐 아니라 트리거, 집계 함수, 인덱스 확장과 외부 데이터 래퍼, 쿼리 훅도 작성할 수 있음 pgcrypto, hstore, pg_stat_statements, cube 등 PostgreSQL contrib 모듈의 이식판이 원본 프로젝트의 회귀 테스트를 통과함 …",
+          "summary": "WHO와 UNEP의 새 전문가 보고서는 내분비계 교란물질의 건강 피해를 평가하며, 잘 알려진 7개 물질 또는 물질군만으로도 연간 건강 피해 부담이 1조 유로에 이른다고 추산함 질병을 흡연, 음주, 식습관 등 개인 책임으로만 돌리는 접근은 질병을 불가피한 것으로 받아들이게 하고 정책 결정자의 책임을 면제하는 문제가 있음 내분비계 교란물질에는 농약, 가소제, 용제, PFAS 등이 포함되며, 사람들은 식품, 공기, 물, 주거 환경을 통해 자신의 동의 없이 노출됨 2012년 평가 이후 14년간 축적된 데이터로, 연구가 충분히 이뤄진 물질에 …",
           "keywords": [
-            "Go로",
-            "PostgreSQL",
-            "확장",
-            "개발하기"
+            "화학물질과",
+            "생활습관병",
+            "연관성이",
+            "드러나는",
+            "가운데"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:20.604Z",
+      "fetchedAt": "2026-11-22T21:32:52.923Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -538,7 +539,7 @@
           "summaryKo": "YouTube는 과거에 흉악한 범죄의 용의자가 게시한 콘텐츠를 처리하는 방식에 대해 비난을 받았지만, 정책은 여전히 동일합니다. YouTube는 법원에서 유죄 판결을 받은 경우에만 채널을 폐쇄하며, 해당인의 YouTube 콘텐츠가 범죄와 직접적인 관련이 있는 경우에만 폐쇄합니다. 이제 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:20.697Z",
+      "fetchedAt": "2026-11-22T21:32:53.066Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -612,7 +613,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:20.919Z",
+      "fetchedAt": "2026-11-22T21:32:53.247Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -693,7 +694,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:20.999Z",
+      "fetchedAt": "2026-11-22T21:32:53.303Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -792,7 +793,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:23.387Z",
+      "fetchedAt": "2026-11-22T21:32:55.471Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -883,7 +884,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:23.626Z",
+      "fetchedAt": "2026-11-22T21:32:55.720Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -977,7 +978,7 @@
           "summaryKo": "Everful은 공장 직송 소싱 플랫폼을 확장하기 위해 4,850만 달러를 조달했으며, 이를 통해 소매업체가 해외 제조업체로부터 제품을 소싱할 수 있도록 지원하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:23.708Z",
+      "fetchedAt": "2026-11-22T21:32:55.804Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1076,7 +1077,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:24.782Z",
+      "fetchedAt": "2026-11-22T21:32:57.004Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1085,11 +1086,11 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "춘천시, 중소기업 근로자 임대보증금 지원사업 모집 연장 - 타임뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15VHo1Y3RnaFVTQjBONkNZekV5aXQyRDEwWmRjcHpBay03RWczeXVGbnNhc01pX01lWTh1SUdSa0NiT3NNTnJPRkdFR3hmSUlEM0J5TA?oc=5",
-          "pubDate": "2026-11-22T09:02:01.000Z",
+          "title": "춘천시, 중소기업 근로자 임대보증금 지원사업 모집 연장 - 내외일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNnQyd1R5OVhWTmJNLU5RS0piXzJCV25heXh1Y2xxVEJhc2xzX1hpWDhEa2VSbTBPSGlqMHR2SzFqRGZTY1FxbTdiRG1EN3BzWVlyY0RBTHgwbXhMUVJmQm5EZ0tkN3J0bjV4aW5JUQ?oc=5",
+          "pubDate": "2026-11-22T07:41:29.000Z",
           "image": null,
-          "summary": "춘천시, 중소기업 근로자 임대보증금 지원사업 모집 연장 타임뉴스",
+          "summary": "춘천시, 중소기업 근로자 임대보증금 지원사업 모집 연장 내외일보",
           "keywords": [
             "춘천시",
             "중소기업",
@@ -1136,23 +1137,6 @@
           "summaryKo": null
         },
         {
-          "title": "세토웍스, 정부지원사업 맞춤 추천 ‘공고핏’ 출시…“1분안에 나만의 지원사업 찾아줘” - 아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42RXdVOWdDX2haSjM3OXl2NU5jOUZGYTJBeGNRRGlUaEpmTUoweGVyWmE5LTh0QVF3Q05DREpUN1lLNktJTU00TVd6UUNrWFpqM01VWDkwY3F4VmpmazN1bg?oc=5",
-          "pubDate": "2026-11-19T06:00:00.000Z",
-          "image": null,
-          "summary": "세토웍스, 정부지원사업 맞춤 추천 ‘공고핏’ 출시…“1분안에 나만의 지원사업 찾아줘” 아시아경제",
-          "keywords": [
-            "세토웍스",
-            "정부지원사업",
-            "맞춤",
-            "추천",
-            "공고핏"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "850여개 핀테크 지원사업 한눈에…AI가 맞춤사업 추천도 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKTjNMY2k3OWpmZm5ERml4U2E5VVpRMHZtQXE0TXlzemFnUEFDNjh4c09NTlFJY1hMMk9MUk1rQlJYMzUyS21wZEtuOWJrb19RUlc0SWY3dV9zMmvSAWBBVV95cUxPUTE0MjkySHBIRnZBaTZ4UlNIaHVESVZVV0JnQ09CbVk3ckItUVVrRW52bUZLUVlUX0xKQ1F2V2dlRUxseHN3eFRERWNuc0huOF82ZEdUMXV0RWZoYmdoSXo?oc=5",
           "pubDate": "2026-11-19T03:00:01.000Z",
@@ -1168,9 +1152,26 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
+        },
+        {
+          "title": "한국수산회‘27년도 업종특화형스마트공장 구축 지원사업’참여기업 모집 - 수산인신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRzFWbk0xbjN1YjE0NDhzWHA3Wm1WUnhHTDVzb0RJZFRoY2RxTzJ2SmlsYVFLQWZvWFRpbHJ4d0ZYVGJpckZ5N2VhbF9tSUNZNzhXVk93c2Rib3hfeC1FQnktTUxjakF0bVE?oc=5",
+          "pubDate": "2026-11-21T05:57:08.000Z",
+          "image": null,
+          "summary": "한국수산회‘27년도 업종특화형스마트공장 구축 지원사업’참여기업 모집 수산인신문",
+          "keywords": [
+            "한국수산회",
+            "27년도",
+            "업종특화형스마트공장",
+            "구축",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-22T14:05:25.206Z",
+      "fetchedAt": "2026-11-22T21:32:57.343Z",
       "error": null
     }
   },
@@ -1187,40 +1188,40 @@
       "label": "AI가",
       "count": 2,
       "rank": 2,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "경제",
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
       "rank": 4,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
       "rank": 5,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
       "rank": 6,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 4,
+      "count": 5,
       "rank": 7,
       "change": "same"
     },
@@ -1229,21 +1230,21 @@
       "label": "근로자",
       "count": 3,
       "rank": 8,
-      "change": "new"
+      "change": "same"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 3,
       "rank": 9,
-      "change": "down"
+      "change": "same"
     },
     {
       "key": "임대보증금",
       "label": "임대보증금",
       "count": 3,
       "rank": 10,
-      "change": "new"
+      "change": "same"
     }
   ],
   "trendingGlobal": [
@@ -1320,12 +1321,12 @@
       "labelKo": "플랫폼"
     },
     {
-      "key": "youtube",
-      "label": "YouTube",
+      "key": "research",
+      "label": "Research",
       "count": 2,
       "rank": 10,
-      "change": "same",
-      "labelKo": "유튜브"
+      "change": "new",
+      "labelKo": "연구"
     }
   ]
 }
