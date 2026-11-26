@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-26T13:40:18.401Z",
+  "collectedAt": "2026-11-26T22:49:09.620Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,45 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "대출 늘린 은행들 ‘이자 장사’로 돈 벌었다…3분기 누적 순익 21.5조",
+          "link": "https://www.mk.co.kr/news/economy/12219819",
+          "pubDate": "2026-11-26T22:23:30.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/27/news-p.v1.20261127.f43bc18657054c7db04a89535972e0c0_R.png",
+          "summary": "올해 3분기까지 국내 은행권의 이자이익이 대출 확대와 시장금리 상승에 힘입어 8% 넘게 증가했다. 반면 금리 상승에 따른 유가증권 평가손실 등으로 비이자이익은 13% 가까이 줄었다..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "“1억1000만원 넣으면 평생 월 296만원” … 국민연금으로 ‘금퇴족’ 되는 법",
+          "link": "https://www.mk.co.kr/news/economy/12219492",
+          "pubDate": "2026-11-26T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20260610.176f79b4d49445e2ab1b39cc12e0ea3c_R.png",
+          "summary": "60세 넘어서도 보험료 납부해 연금액 키워 “건강·소득·생활비 따져 수령 시기 정해야”‘100세 시대, 그리고 은퇴.’ 상당수 직장인은 이 말을 들으면 설렘보다는 덜컥 걱정부터 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "환율, 물가, 마지막은 주가 … 한은 총재가 통화정책에 고려하는 우선 순위",
+          "link": "https://www.mk.co.kr/news/economy/12219637",
+          "pubDate": "2026-11-26T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-a.v1.20261126.e9969ec8c9954f81b5d1038daa74e7e9_R.png",
+          "summary": "신현송 총재 취임 후 성적표‘환율 →물가 →주가’ 신현송 한국은행 총재가 통화정책을 펼 때 고려하는 순서로 관측되는 부분이다. 한국은행 금융통화위원회는 11월 26일 올해 마지막 ..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "월급이 물가를 못 따라간다…현금성 지원 사라지자 가계 실질소득 줄어",
           "link": "https://www.mk.co.kr/news/economy/12219746",
           "pubDate": "2026-11-26T09:27:55.000Z",
@@ -65,48 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "신현송 \"내년 4.1% 성장 자신\"… 기준금리 인상 재시동",
-          "link": "https://www.mk.co.kr/news/economy/12219713",
-          "pubDate": "2026-11-26T08:42:11.000Z",
-          "image": null,
-          "summary": "한국은행이 반도체 경기 호조에 힘입어 내년 경제성장률 전망치를 4%대로 대폭 상향하면서 기준금리를 연 3.25%로 인상했다. 수출과 투자 중심의 고성장에 물가 압력이 커지고 부동산..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "자본시장 개혁 민간委 뜬다",
-          "link": "https://www.mk.co.kr/news/economy/12219710",
-          "pubDate": "2026-11-26T08:42:10.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01110101000004_S00.jpg",
-          "summary": "정부가 국내 자본시장의 체질 개선을 위한 민간 주도의 개혁 전담 기구를 출범시킨다. 위원장에는 김용범 메리츠금융지주 부회장(사진)이 낙점됐다. 이재명 대통령이 자본시장 개혁을 전담..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "종부세 82만명 고지 … 1년새 19만명 급증",
-          "link": "https://www.mk.co.kr/news/economy/12219709",
-          "pubDate": "2026-11-26T08:42:09.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01160101000001_S00.jpg",
-          "summary": "수도권을 중심으로 한 집값 상승의 영향으로 올해 종합부동산세 과세 대상자가 1년 새 19만명 늘었다. 특히 1가구 1주택자의 고지 인원은 50% 넘게 늘어났고 세액도 2배 이상 커..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:11.996Z",
+      "fetchedAt": "2026-11-26T22:49:02.509Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 은행 고위 재무 담당자들을 대상으로 한 준비금 잔액 관리 전략 및 관행 설문조사 결과를 발표"
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:12.053Z",
+      "fetchedAt": "2026-11-26T22:49:02.649Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -188,6 +188,57 @@
       "category": "AI·IT",
       "subcategory": "AI",
       "items": [
+        {
+          "title": "[11월26일] 앤트로픽이 던진 역설…AI 기술 발전에 깊어지는 투자자들의 고민",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217803",
+          "pubDate": "2026-11-27T07:00:00.000Z",
+          "image": null,
+          "summary": "앤트로픽이 기업공개(IPO) 과정에서 강조한 기술 경쟁력이 역설적으로 AI 인프라 투자자들의 불안 요인으로 떠올랐습니다. AI 개발과 서비스에 필요한 컴퓨팅 자원을 절감하는 기술이 빠르게 발전하면서, 지금 추진 중인 천문학적인 인프라 투자가 과연 적정한 규모인지에 대한 의문이 커지고 있습니다.비즈니스 인사이더는 25일(현지시간) 앤트로픽이 IPO 과정에서 강조한 '컴퓨팅 승수(Compute Multiplier)'라는 개념에 주목했습니다. 이로 인해 일부 투자자들이 AI 인프라 투자 전망을 재검토하고 있으며, 최근 AI 관련 주식에",
+          "keywords": [
+            "11월26일",
+            "앤트로픽이",
+            "던진",
+            "역설",
+            "AI"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+          "pubDate": "2026-11-27T06:20:35.000Z",
+          "image": null,
+          "summary": "미국의 첨단 AI 반도체 수출 규제와 증류 차단으로 중국 대표 AI 개발사들의 모델 개발에 차질이 발생하고 있다. Z.ai의 차세대 모델 'GLM-5.5' 출시가 내년으로 밀릴 가능성이 커졌으며, 문샷 AI는 주요 모델 출시 주기가 기존의 두배 이상으로 늘어날 수 있다는 내부 전망을 내놓은 것으로 알려졌다.로이터는 26일(현지시간) 소식통을 인용, 오픈AI와 앤트로픽의 증류 방지 기술 강화로 중국 AI 기업들의 모델 개발이 늦어지고 있으며, 미국 정부의 새로운 반도체 수출 규제로 추가 지연이 예상된다고 보도했다.이에 따르면 Z.ai",
+          "keywords": [
+            "ai",
+            "GLM",
+            "출시",
+            "지연",
+            "문샷"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217837",
+          "pubDate": "2026-11-27T05:55:39.000Z",
+          "image": null,
+          "summary": "엔비디아가 미국의 AI 반도체 수출 규제 강화에 따라 동남아시아 4개국으로의 AI 서버 출하를 중단했다. 중국 기업에 컴퓨팅 자원을 임대하는 클라우드 업체에 대한 GPU 공급도 제한하기 시작해, 중국의 AI 모델 개발과 동남아시아 데이터센터 산업에 타격이 예상된다.파이낸셜타임스(FT)는 26일(현지시간) 정통한 소식통 3명을 인용, 엔비디아가 델과 슈퍼마이크로컴퓨터 등 제조 협력업체에 말레이시아와 싱가포르, 태국, 인도네시아로의 AI 서버 출하를 중단하도록 지시했다고 보도했다.이는 미국 상무부 산업안보국(BIS)이 지난 19일부터",
+          "keywords": [
+            "엔비디아",
+            "동남아",
+            "4개국",
+            "AI",
+            "서버"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "AI가 작성한 코드, 같은 AI가 검토...개발 조직 절반 가까이 활용",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217834",
@@ -221,60 +272,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "뉴욕주, 어린이용 AI 챗봇 장난감 제조·판매 5년간 금지",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217833",
-          "pubDate": "2026-11-26T16:55:00.000Z",
-          "image": null,
-          "summary": "미국 뉴욕주가 어린이용 AI 챗봇 장난감의 제조와 유통, 판매를 5년간 금지한다. 부적절한 대화와 정서적 의존, 개인정보 침해 등 어린이에게 미칠 수 있는 위험을 차단하고 제품의 안전성을 검증하기 위한 조치다.캐시 호철 뉴욕주지사는 24일(현지시간) 이 같은 내용을 담은 법안에 서명했다. 13세 미만 어린이를 대상으로 AI 챗봇을 탑재한 장난감이 규제 대상이며, 인터넷에 연결해 어린이와 대화하는 인형과 로봇 등이 대표적이다. 법률은 서명일로부터 90일 뒤 발효된다.호철 주지사는 부모들이 장난감을 구매하면서 자녀가 부적절한 대화나 감",
-          "keywords": [
-            "뉴욕주",
-            "어린이용",
-            "AI",
-            "챗봇",
-            "장난감"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "아마존·메타, AI 에이전트 '뮤즈' 접근 차단 해제 협상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217831",
-          "pubDate": "2026-11-26T16:50:15.000Z",
-          "image": null,
-          "summary": "아마존과 메타가 AI 에이전트 '뮤즈(Muse)'의 아마존 온라인 쇼핑몰 접근을 허용하는 방안을 협의 중인 것으로 알려졌다. 지난 9월 아마존이 뮤즈의 접근을 차단한 지 약 두 달 만으로, 상품 검색 결과와 광고 처리 방식이 협상의 핵심 쟁점으로 떠올랐다.포춘은 25일(현지시간) 소식통을 인용, 양사가 뮤즈의 아마존 쇼핑몰 연동을 놓고 여러 차례 협상을 진행했다고 보도했다. 아직 주요 쟁점에 합의하지 못했으며, 최종 계약을 체결하려면 양사 CEO의 승인도 필요한 것으로 알려졌다.아마존은 지난 9월 이용 약관 위반을 이유로 뮤즈의 접",
-          "keywords": [
-            "아마존",
-            "메타",
-            "AI",
-            "에이전트",
-            "뮤즈"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "코그니션, 코딩 모델 'SWE-2.1' 출시…장기 작업·사이버 보안 성능 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217826",
-          "pubDate": "2026-11-26T16:39:42.000Z",
-          "image": null,
-          "summary": "AI 코딩 에이전트 '데빈(Devin)'의 개발사 코그니션이 중국 오픈웨이트 모델을 기반으로 장시간 자율 작업 능력과 사이버 보안 성능을 크게 높인 새 모델을 출시했다. 사이버 보안 특화 모델과 추론 속도를 10배 높인 모델도 함께 선보였다.코그니션은 24일(현지시간) 공식 블로그를 통해 코딩 모델 'SWE-2.1'을 공개했다. 전작과 마찬가지로 중국 문샷 AI의 '키미 K3'에 강화학습만을 적용해 개발한 모델이다.실제 소프트웨어 개발 환경에서 코드 변경 사항의 품질을 평가하는 '프론티어코드 2.0' 점수는 전작의 24.1%에서 4",
-          "keywords": [
-            "코그니션",
-            "코딩",
-            "모델",
-            "SWE",
-            "출시"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:13.165Z",
+      "fetchedAt": "2026-11-26T22:49:03.545Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -360,7 +360,7 @@
           "summaryKo": "ChatGPT 및 Codex 통합은 Clay의 사용자가 거래를 조사하고 데이터를 시장 진출 전략으로 전환하는 데 도움이 되며, GPT-6 모델이 추론을 처리합니다."
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:13.307Z",
+      "fetchedAt": "2026-11-26T22:49:03.666Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,92 +369,92 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Intel One Mono - 개발자 가독성을 고려한 고정폭 글꼴",
-          "link": "https://news.hada.io/topic?id=37899&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T13:31:48.000Z",
+          "title": "Show HN: Fuck_data_brokers.py - 데이터 브로커에 개인정보 삭제를 요청하는 Python 도구",
+          "link": "https://news.hada.io/topic?id=37923&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T22:36:48.000Z",
           "image": null,
-          "summary": "Intel One Mono는 명확성과 가독성, 개발자의 필요를 고려한 고정폭 글꼴군으로, 오픈소스 글꼴 라이선스에 따라 무료로 제공됨 저시력 및 법적 시각장애 기준에 해당하는 개발자 패널이 설계 단계마다 피드백을 제공했으며, 피로와 눈의 부담, 코딩 오류를 줄이는 것을 목표로 설계됨 라틴 문자를 사용하는 200개 이상의 언어를 지원하며, Light, Regular, Medium, Bold 네 가지 굵기와 각각의 이탤릭체를 제공함 프로그래밍 합자와 연산자에 맞춰 높이를 조정하는 콜론 등 OpenType 기능을 지원하며, 프로그래밍 합자는 기본적으로 비활 …",
-          "keywords": [
-            "Intel",
-            "One",
-            "Mono",
-            "개발자",
-            "가독성을"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "minipg: PostgreSQL을 단일 실행 파일로 실행하기",
-          "link": "https://news.hada.io/topic?id=37897&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T12:37:38.000Z",
-          "image": null,
-          "summary": "minipg는 별도 서버 설정 없이 PostgreSQL을 실행하는 단일 실행 파일로, 명령에 서버가 필요하면 자동으로 시작하고 유휴 상태가 되면 종료함 .pgdb 디렉터리 하나에 데이터, 설정, 인증 정보, Postgres 버전을 함께 보관하며, 해당 디렉터리를 열어 psql 셸을 사용할 수 있음 내장된 postgres:18-alpine 이미지의 바이너리를 h9로 실행하며, Linux 커널 부팅이나 VM 이미지, Docker가 필요하지 않음 정적 Linux 바이너리는 CI에서 별도 권한이나 장치 없이 사용할 수 있으며, /dev/kvm이 없으면 h9의 네이티브 백엔드로 실행함 아직 초 …",
-          "keywords": [
-            "minipg:",
-            "PostgreSQL을",
-            "단일",
-            "실행",
-            "파일로"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "NFS2ROOT: Linux 커널 NFS 서버에 12년간 존재한 인증 전 원격 루트 취약점",
-          "link": "https://news.hada.io/topic?id=37896&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T12:34:38.000Z",
-          "image": null,
-          "summary": "Linux 커널 NFS 서버 nfsd의 CVE-2026-99362는 인증 없이 커널 힙을 덮어쓸 수 있는 취약점으로, OpenSec은 이를 후속 공격과 연계해 원격 루트 셸을 획득함 공격 대상은 NFSv4.1 또는 4.2를 제공하며 TCP 2049 포트에 접근 가능한 미패치 Linux 호스트임. Linux 3.16에 도입된 취약점으로 심각도는 CVSS 9.8임 클라이언트가 응답 캐시를 0바이트로 줄인 뒤 전체 응답을 복사하게 만드는 방식으로, TCP 연결 하나에서 힙 객체 경계 밖 61바이트를 덮어쓸 수 있음 수정 버전은 6.12.117, 6.18.61, 7.3.2, 7.4-rc1이며 업데이트 후 재부팅이 …",
-          "keywords": [
-            "NFS2ROOT:",
-            "Linux",
-            "커널",
-            "NFS",
-            "서버에"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Show GN: 배럴 - 광고 차단 브라우저와 다운로드 매니저를 하나로 합친 Android 앱",
-          "link": "https://news.hada.io/topic?id=37894&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T10:59:54.000Z",
-          "image": null,
-          "summary": "브라우저, 광고 차단기, 다운로드 매니저를 따로 쓰다가 하나의 앱으로 합쳤습니다. 광고와 회원가입이 없고, 기록과 북마크는 기기에만 저장합니다. 동영상 다운로드: 페이지에서 재생되는 동영상을 찾아 화질을 골라 저장합니다. HLS, DASH처럼 조각으로 나뉜 영상은 조각을 모두 받은 뒤 재인코딩 없이 하나의 파일로 합칩니다. 자막도 같이 받고, 받는 중에 앞부분을 재생할 수 있습니다. 광고 차단: 필터 목록 32개를 매주 업데이트합니다. 기본 목록을 앱에 넣어 두어 첫 실행부터 차단하고, 페이지 요소를 직접 골라 숨기거나 사용자 스크립트를 넣을 수 있습니다. …",
+          "summary": "단일 Python 파일로 데이터 브로커 목록을 가져오고, 거주지 법률에 맞춘 삭제/판매 거부 요청서 작성부터 답변 대응, 재촉, 민원 안내까지 처리함 외부 의존성이나 AI 없이 무료로 실행되며, 자신의 이메일로 요청서를 보내거나 발송용 페이지에서 직접 전송할 수 있음 미국 공식 등록부를 합친 750개 이상의 업체를 대상으로 하며, 여러 등록부에 중복된 업체에는 같은 요청을 한 번만 작성함 요청에는 이름, 이메일, 도시만 전달하지만, 자신을 모르던 업체에 정보를 새로 제공할 수 있다는 절충이 있음 실제 삭제를 검증하지는 않음. …",
           "keywords": [
             "Show",
-            "GN:",
-            "배럴",
-            "광고",
-            "차단"
+            "HN:",
+            "Fuck_data_brokers",
+            "py",
+            "데이터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Show GN: sol-astrizer: 모든 LLM이 GPT 6.2처럼 말하게 된다면",
-          "link": "https://news.hada.io/topic?id=37893&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-26T10:48:36.000Z",
+          "title": "OpenAI가 비용 통제 모드에 들어갔을 가능성",
+          "link": "https://news.hada.io/topic?id=37922&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T22:33:47.000Z",
           "image": null,
-          "summary": "Claude Opus 5.5나 Gemini Neon 같은 모델은 버그가 해결됐는지 물으면 여전히 너무 성급하게 \"네\"라고 확답합니다. 사용자가 불만을 토로하면 사실을 분리해 정리하기보다 먼저 편을 들기 바쁩니다. sol-astrizer는 어느 뛰어난 6.2 모델이 보여준 차분하고 분석적인 엄밀함을 어떤 모델이나 코딩 에이전트에도 적용합니다. 과잉 친절도, 근거 없는 확답도, 서로 다른 개념을 한데 섞는 일도 없습니다. 실제로 현재 환경에서 워크플로우가 개선되는지는 별개의 개념이며, 아직 검증되지 않았습니다. 적용 전 (미보정 모델): 네, auth.ts …",
+          "summary": "최근 공개된 Astra 6.2와 Sol 6.2가 광범위한 혹평을 받은 가운데, 실무 대결 데이터에서는 두 모델의 작업당 출력 토큰과 추론 토큰이 줄어든 것으로 나타남 이 변화는 이전 모델보다 비용 절감에 맞춰 조정됐을 가능성을 보여주지만, OpenAI의 실제 조정 의도가 확인된 것은 아님 같은 대결의 상대 모델과 비교하면 Astra 6과 Sol 6.1의 추론량은 대체로 일반적인 수준이었으나, 6.2 버전은 추론량이 적은 이상치가 됨 출력 토큰 감소와 추론 토큰 감소는 두 모델 모두에서 통계적으로 유의했으며, 각 검정의 p값은 0.05 미만임 두 모델 …",
           "keywords": [
-            "Show",
-            "GN:",
-            "sol",
-            "astrizer:",
-            "모든"
+            "OpenAI가",
+            "비용",
+            "통제",
+            "모드에",
+            "들어갔을"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "YouTube Ad Punisher - 광고가 재생되면 YouTube 페이지를 자동으로 새로고침",
+          "link": "https://news.hada.io/topic?id=37921&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T21:45:40.000Z",
+          "image": null,
+          "summary": "YouTube Ad Punisher는 광고를 감지하면 재생 위치를 저장하고 페이지를 새로고침한 뒤 해당 위치에서 영상을 이어 재생하는 브라우저 확장 프로그램임 광고 요청을 차단하는 대신 페이지 재로딩을 이용함. 프로젝트는 YouTube가 새로고침마다 광고 제공 여부를 다시 판단하며, 보통 1~2회 뒤 광고 없이 영상이 재생된다고 설명함 새로고침이 반복될 때를 위한 보조 탭 전환과 외부 미러 이동 기능도 안내하지만, README의 두 설명 사이에 실행 순서나 관계는 명확하지 않음 감지한 광고의 광고주, 길이, 영상, 재생 위치 등을 로컬 기록 …",
+          "keywords": [
+            "YouTube",
+            "Ad",
+            "Punisher",
+            "광고가",
+            "재생되면"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "‘RansomwareHelp’ CTO, 통신 사기 혐의로 기소",
+          "link": "https://news.hada.io/topic?id=37920&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T21:42:40.000Z",
+          "image": null,
+          "summary": "랜섬웨어 복구업체 RansomwareHelp의 CTO 겸 공동창업자가 독자 기술로 데이터를 복원한다고 홍보하면서 실제로는 공격자에게 복호화 키를 구매하고, 수행하지 않은 작업의 대금까지 고객에게 청구한 혐의로 기소됨 FBI 위장 수사에서 피해 기업과 랜섬웨어 조직을 모두 수사관이 연기했으며, 기소장에 따르면 업체는 몸값을 지급하지 않는다고 고객에게 약속한 뒤 공격자 측과 비밀리에 가격을 협상함 위장 수사에서 합의된 복호화 도구 가격은 비트코인으로 약 6,000달러였지만, 가짜 피해 기업에 청구한 총액은 진단비를 포함해 16,010달러였음 …",
+          "keywords": [
+            "RansomwareHelp",
+            "CTO",
+            "통신",
+            "사기",
+            "혐의로"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "Google, AI 에이전트에 자사 MCP 서버 사용 의무화 예정… Gmail 서버는 이메일 발송 불가",
+          "link": "https://news.hada.io/topic?id=37919&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T21:39:40.000Z",
+          "image": null,
+          "summary": "Google은 2027년 2월 1일부터 AI 에이전트나 AI 모델이 구동하는 도구의 Workspace 접근에 자사 MCP 서버 사용을 의무화함 공개 Gmail MCP 서버는 검색, 읽기, 초안 생성은 지원하지만 발송, 답장, 전달, 초안 수정은 파트너 전용이라 기존 이메일 에이전트의 작업 흐름을 그대로 옮기기 어려움 Workspace 데이터는 진행 중인 사용자 승인 작업에만 처리할 수 있으며, Google은 이 데이터로 만든 임베딩이나 메모리 인덱스 등의 보존 기간을 30일로 제한할 수 있음 무료 Standard 등급은 제품별 프로젝트당 하루 5,000 MCP 요청을 제공하 …",
+          "keywords": [
+            "Google",
+            "AI",
+            "에이전트에",
+            "자사",
+            "MCP"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:14.229Z",
+      "fetchedAt": "2026-11-26T22:49:04.445Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -537,7 +537,7 @@
           "summaryKo": "글로벌 Top 50에서 새로운 1위 채널이 등장했습니다. Fitu K Kitu는 주간 조회수 11억 9천만 건을 기록했으며, 이는 채널의 전체 트래픽의 거의 3분의 2에 해당하는 수치입니다. 정말 화끈한 출발이네요! T-Series와 MrBeast와 같은 차트 단골들도 Fitu K Kitu의 인기를 따라잡지 못했습니다. 순위의 다른 곳에서는 MrBeast의 한때 협업자인 크리에이터가 단독으로 큰 반향을 일으키고 있습니다. 라틴 아메리카에서 가장 영향력 있는 크리에이터 중 한 명이 공포의 계절을 활용하면서 문화적 요소를 결합했습니다."
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:14.417Z",
+      "fetchedAt": "2026-11-26T22:49:04.580Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -611,7 +611,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:14.594Z",
+      "fetchedAt": "2026-11-26T22:49:04.754Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -692,7 +692,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:14.662Z",
+      "fetchedAt": "2026-11-26T22:49:04.818Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -701,97 +701,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "AI 콘텐츠의 다음 물결은 한국에서…힉스필드, 첫 한국 CPP로 새로운 시대 열다",
-          "link": "https://www.venturesquare.net/1131838/",
-          "pubDate": "2026-11-26T08:19:38.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/KakaoTalk_20261126_160719959-668x522.jpg",
-          "summary": "글로벌 AI 영상 생성 플랫폼 힉스필드 AI가 25일 서울에서 국내 첫 크리에이터 파트너 프로그램(CPP) 행사를 개최했다. 김대식 KAIST 교수는 AI 영상 기술의 발전에 따라 독창적인 서사와 새로운 스토리텔링 문법의 중요성이 커질 것으로 전망했다. 앨빈 김은 한국... The post AI 콘텐츠의 다음 물결은 한국에서…힉스필드, 첫 한국 CPP로 새로운 시대 열다 appeared first on 벤처스퀘어.",
+          "title": "케어랩스, ‘원익H&X’로 새 출발…헬스·뷰티·롱제비티 3대 사업축 재편",
+          "link": "https://www.venturesquare.net/1132088/",
+          "pubDate": "2026-11-26T16:30:11.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/HX-CI-696x522.jpg",
+          "summary": "케어랩스가 임시주주총회를 통해 사명을 ‘원익H&X’로 변경하고 생애 맞춤형 웰니스 기업으로 사업 방향을 재정립했다. 오는 12월 바비톡 흡수합병을 통해 경영 효율성을 높이고 플랫폼 고도화와 글로벌 사업, 시니어케어 분야에 역량을 집중한다. 굿닥의 개인 맞춤형 건강관리 ... The post 케어랩스, ‘원익H&X’로 새 출발…헬스·뷰티·롱제비티 3대 사업축 재편 appeared first on 벤처스퀘어.",
           "keywords": [
-            "Special Post",
+            "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "현장스케치",
-            "AI영상",
-            "AI콘텐츠"
+            "WONIKH&X",
+            "굿닥",
+            "디지털헬스케어"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "같다, 폐기물 배출 넘어 재생자원 유통시장 디지털화…스케일업 팁스 선정",
-          "link": "https://www.venturesquare.net/1131806/",
-          "pubDate": "2026-11-26T04:50:53.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-96-789x302.png",
-          "summary": "AI 기반 자원순환 플랫폼 ‘빼기’ 운영사 같다(GATDA)가 스케일업 팁스에 선정돼 향후 3년간 총 26억여원 규모의 연구개발 자금을 확보했다. 같다는 AI 폐기물 인식 기술과 자원순환 데이터, IoT 관제 역량을 활용해 수기 장부와 현금 거래 중심의 재생자원 유통 ... The post 같다, 폐기물 배출 넘어 재생자원 유통시장 디지털화…스케일업 팁스 선정 appeared first on 벤처스퀘어.",
+          "title": "토스랩, 업무용 메신저에서 AI 지식관리 플랫폼으로…잔디 ‘글로벌 ACX 초월대상’ 수상",
+          "link": "https://www.venturesquare.net/1132078/",
+          "pubDate": "2026-11-26T16:28:01.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-87-789x444.png",
+          "summary": "업무용 협업툴 잔디를 운영하는 토스랩이 ‘제4회 2026 글로벌 ACX 초월대상’에서 제품·서비스 부문 한국인터넷진흥원장상을 수상했다. 잔디는 AI 기능 ‘스프링클러’를 통해 정보 검색·요약·번역과 검색증강생성(RAG) 기반의 사내 자료 활용을 지원한다. MCP 기술을... The post 토스랩, 업무용 메신저에서 AI 지식관리 플랫폼으로…잔디 ‘글로벌 ACX 초월대상’ 수상 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AI스타트업",
-            "GATDA",
-            "ScaleupTIPS"
+            "AX",
+            "JANDI",
+            "MCP"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에누마 코리아, 한글 학습에서 교과 문해력으로…현직 교사들과 ‘토도한글’ 수업 자료 개발",
-          "link": "https://www.venturesquare.net/1131805/",
-          "pubDate": "2026-11-26T04:48:58.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/TODO-2-789x444.jpg",
-          "summary": "에누마 코리아가 경기도교육청 소속 현직 초등교사들과 함께 ‘토도한글’을 활용한 초등학교 저학년 통합교과 수업 자료를 개발했다. 교과 주제와 연계한 도서 43권의 목록과 독서 수업 지도안, 학습지를 마련했으며 겹받침과 이중모음 등 학생들이 어려워하는 학습 영역별 액티비티... The post 에누마 코리아, 한글 학습에서 교과 문해력으로…현직 교사들과 ‘토도한글’ 수업 자료 개발 appeared first on 벤처스퀘어.",
+          "title": "루드다이나믹스, 약사가 퇴근하면 로봇이 약장을 살핀다…약국에서 찾은 피지컬 AI의 사업화 가능성",
+          "link": "https://www.venturesquare.net/1132068/",
+          "pubDate": "2026-11-26T16:23:08.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/image-58-369x522.jpeg",
+          "summary": "루드다이나믹스와 제이엔제이테크가 약국 조제실의 의약품 재고 확인과 발주를 연결하는 이족보행 휴머노이드 ‘약매니저봇’을 공동 개발하고 3년간의 로봇 보급 협약을 체결했다. 한 달 가까이 진행한 약국 현장 테스트에 이어 시연 당일 약장 27칸의 재고 확인 결과가 실제 수량... The post 루드다이나믹스, 약사가 퇴근하면 로봇이 약장을 살핀다…약국에서 찾은 피지컬 AI의 사업화 가능성 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "공교육",
-            "교수학습자료",
-            "교육혁신"
+            "LOX",
+            "PhysicalAI",
+            "로봇스타트업"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에스앤아이, 일자리 창출 넘어 근무환경 개선까지…‘일·생활 균형 우수기업’ 선정",
-          "link": "https://www.venturesquare.net/1131801/",
-          "pubDate": "2026-11-26T04:46:57.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SNI-720x522.jpeg",
-          "summary": "에스앤아이코퍼레이션이 ‘2026 대한민국 일·생활 균형 우수기업’에 선정됐다. 지난 9월 대한민국 일자리 으뜸기업에 3년 연속 선정된 데 이어 구성원의 근무환경 개선 성과도 인정받았다. 에스앤아이는 육아휴직과 육아기 근로시간 단축, 재택·원격근무, 시차출퇴근제, 가족돌... The post 에스앤아이, 일자리 창출 넘어 근무환경 개선까지…‘일·생활 균형 우수기업’ 선정 appeared first on 벤처스퀘어.",
+          "title": "엔바이오셀, 주사형 바이오의약품을 먹는 약으로…셀트리온과 약물전달 기술 실증 추진",
+          "link": "https://www.venturesquare.net/1132063/",
+          "pubDate": "2026-11-26T16:19:30.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/SH-789x522.jpeg",
+          "summary": "약물전달 기술 개발 바이오 스타트업 엔바이오셀이 신한 스퀘어브릿지 인천의 신한 오픈이노베이션 12기 우수협업팀으로 선정돼 2,000만원의 기술실증 지원금을 확보했다. 셀트리온과 공동으로 자체 나노 약물전달 플랫폼 ‘ChargeSmed™’의 의약품 개발 적용 가능성을 검... The post 엔바이오셀, 주사형 바이오의약품을 먹는 약으로…셀트리온과 약물전달 기술 실증 추진 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "가족돌봄",
-            "고용노동부",
-            "근무환경개선"
+            "ChargeSmed",
+            "DDS",
+            "GLP1"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "실리콘랩스, IoT 제품 시장 출시의 관문 ‘Matter 인증’…한국 개발자 대상 기술 교육 진행",
-          "link": "https://www.venturesquare.net/1131790/",
-          "pubDate": "2026-11-26T04:45:17.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/Silicon-Labs_tech_talks_Korean-789x412.png",
-          "summary": "실리콘랩스가 오는 12월 10일 ‘2026 APAC Tech Talks – Korean Series’를 통해 Matter 인증 관련 한국어 기술 세션을 진행한다. 이번 교육에서는 지난 3년간 변화한 Matter 인증 요건과 최신 규격 업데이트, CSA 인증 절차 및 도... The post 실리콘랩스, IoT 제품 시장 출시의 관문 ‘Matter 인증’…한국 개발자 대상 기술 교육 진행 appeared first on 벤처스퀘어.",
+          "title": "크릿벤처스, K웹툰의 일본 IP 사업화에 베팅…국외창업기업 클링크 후속 투자 성공",
+          "link": "https://www.venturesquare.net/1132052/",
+          "pubDate": "2026-11-26T16:16:52.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CRIT-789x444.jpg",
+          "summary": "크릿벤처스가 한국 웹툰·웹소설 IP의 일본 및 글로벌 사업화를 추진하는 일본 국외창업기업 클링크에 후속 투자했다. 클링크는 한국과 일본의 콘텐츠 기업 출신 인력과 현지 네트워크를 기반으로 애니메이션 제작위원회 참여부터 콘텐츠 기획·제작, IP 사업화까지 수행하는 기업이... The post 크릿벤처스, K웹툰의 일본 IP 사업화에 베팅…국외창업기업 클링크 후속 투자 성공 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "APACTechTalks",
-            "CSA",
-            "IIoT"
+            "CLink",
+            "IP사업화",
+            "K웹툰"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:16.616Z",
+      "fetchedAt": "2026-11-26T22:49:07.566Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -872,7 +872,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:16.876Z",
+      "fetchedAt": "2026-11-26T22:49:07.928Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -969,7 +969,7 @@
           "summaryKo": "Figma와 CEO가 현재 직원으로부터 성희롱 및 차별 혐의로 소송을 당하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:16.957Z",
+      "fetchedAt": "2026-11-26T22:49:07.967Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -977,6 +977,60 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "디캠프, 지역 실증에서 공공시장 진출까지…스타트업 7개사 사업화 가능성 점검",
+          "link": "https://www.venturesquare.net/1132084/",
+          "pubDate": "2026-11-26T16:28:27.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/1795594749000-369x522.jpeg",
+          "summary": "디캠프가 오는 12월 8일 전국 6개 지역의 기술 실증 사례를 공유하는 ‘2026 스타트업 OI #지역실증 #로그인로컬’을 개최한다. 지난 7월 10개 실증 과제에 총 175건의 지원이 접수됐으며, 이번 행사에서는 지역 현장에서 기술 검증을 진행한 스타트업 7개사가 실... The post 디캠프, 지역 실증에서 공공시장 진출까지…스타트업 7개사 사업화 가능성 점검 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "Dcamp",
+            "POC",
+            "공공조달",
+            "기술실증",
+            "디캠프"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "KOSA, 뉴욕 현지 네트워크를 미국 사업 확장으로…AI·디지털 기업 20개사 스케일업 지원",
+          "link": "https://www.venturesquare.net/1131986/",
+          "pubDate": "2026-11-26T15:52:24.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/2026-4-789x444.png",
+          "summary": "한국인공지능·소프트웨어산업협회(KOSA)가 과학기술정보통신부, 정보통신산업진흥원과 함께 ‘2026 AI·디지털 비즈니스 파트너십 사업 성과공유회’를 개최했다. 올해 AI 혁신 액셀러레이터(AIIA) 프로그램에 참여한 20개 기업은 뉴욕대학교 스턴경영대학원 전문가들의 자... The post KOSA, 뉴욕 현지 네트워크를 미국 사업 확장으로…AI·디지털 기업 20개사 스케일업 지원 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "AIIA",
+            "KOSA",
+            "NIPA",
+            "과학기술정보통신부",
+            "글로벌스케일업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "코리아스타트업포럼, 제주를 스타트업의 성장 거점으로…기업 발굴부터 규제 개선까지 민관 협력",
+          "link": "https://www.venturesquare.net/1131824/",
+          "pubDate": "2026-11-26T14:18:33.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/17bca849-904c-49d5-ad3f-3f6a1fe7dfb5-789x493.jpg",
+          "summary": "코리아스타트업포럼이 제주특별자치도와 ‘창업도시 제주 실현을 위한 업무협약’을 체결했다. 코스포는 제주 창업도시 추진단에 민간 파트너로 참여해 유망 창업기업을 발굴하고 창업기업·투자자·전문기관 네트워크를 연계한 성장 지원에 나선다. 양 기관은 신기술과 서비스의 사업화를 ... The post 코리아스타트업포럼, 제주를 스타트업의 성장 거점으로…기업 발굴부터 규제 개선까지 민관 협력 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "KOSPO",
+            "규제개선",
+            "김재원",
+            "민관협력",
+            "스타트업성장지원"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "다음세대재단·카카오 임팩트재단, AI 시대에 다시 묻는 비효율의 가치…‘2026 체인지온’ 개최",
           "link": "https://www.venturesquare.net/1131823/",
@@ -1012,63 +1066,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "[VS 현장] “세상을 바꾸는 비즈니스는 질문에서 시작된다”…현대차 정몽구 재단이 키우는 임팩트 기업가",
-          "link": "https://www.venturesquare.net/1131471/",
-          "pubDate": "2026-11-25T23:05:40.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/cmk5-696x522.jpeg",
-          "summary": "현대차 정몽구 재단이 25일 서울 서초구 플렌티컨벤션에서 ‘2026 임팩트프러너 데이’를 개최했다. 행사에는 CMK 임팩트프러너 14기 펠로와 캠퍼스프러너 1기 우수팀, 선배 기업가, 투자자 및 정책 관계자들이 참여해 임팩트 기업가정신과 지속 가능한 창업 생태계의 조건... The post [VS 현장] “세상을 바꾸는 비즈니스는 질문에서 시작된다”…현대차 정몽구 재단이 키우는 임팩트 기업가 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "현장스케치",
-            "CMK임팩트프러너",
-            "CMK캠퍼스프러너",
-            "기업가정신"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "중기부, 45년 넘어 100년 기업으로…2026년 명문장수기업 12개사 선정·자격 연장",
-          "link": "https://www.venturesquare.net/1131522/",
-          "pubDate": "2026-11-25T14:03:46.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/3-15-783x522.jpg",
-          "summary": "중소벤처기업부가 2026년 명문장수기업 수여식을 개최하고 중소기업 10개사와 중견기업 2개사 등 총 12개사를 신규 선정하거나 자격을 연장했다. 올해 기업들은 수십 년간 축적한 기술력을 기반으로 친환경 에너지, 항공·방산, 의료기기, 식품 등 다양한 산업에서 사업 경쟁... The post 중기부, 45년 넘어 100년 기업으로…2026년 명문장수기업 12개사 선정·자격 연장 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "100년기업",
-            "글로벌시장",
-            "기술경쟁력",
-            "기술국산화",
-            "기업성장"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "실리콘밸리 AI 창업자들이 서울로 모인 이유…킨드레드 벤처스가 주목한 한국의 경쟁력",
-          "link": "https://www.venturesquare.net/1131447/",
-          "pubDate": "2026-11-25T06:58:10.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/CEO-2-782x522.jpg",
-          "summary": "킨드레드 벤처스가 SBVA, DS투자증권과 함께 23일 몬드리안 서울 이태원에서 ‘AI Wave: Seoul 2026’을 개최했다. 실리콘밸리와 한국의 AI·로보틱스·딥테크 창업자 및 투자자들은 AI 추론, 맞춤형 반도체, 피지컬 AI, 컴퓨팅 및 전력 인프라 분야의 ... The post 실리콘밸리 AI 창업자들이 서울로 모인 이유…킨드레드 벤처스가 주목한 한국의 경쟁력 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "Special Post",
-            "스타트업 가이드",
-            "현장스케치",
-            "AIWaveSeoul2026",
-            "AI반도체",
-            "DS투자증권"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:17.966Z",
+      "fetchedAt": "2026-11-26T22:49:09.200Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1094,6 +1094,23 @@
           "summaryKo": null
         },
         {
+          "title": "남해군, '청년 어촌 정착 지원사업' 신청자 모집…어촌 유입 유도 - 뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVGdWZ3Jmc0hUVEVtRHlqX0QwSjA0d1RSR1lFT05SdFdLTy1vZGJQUDFaRUc5VVJCVFp3bEY3bE53ZUxVNkViYV83blpvSlRYbUZQSkhlZ0xud1RM?oc=5",
+          "pubDate": "2026-11-26T08:55:00.000Z",
+          "image": null,
+          "summary": "남해군, '청년 어촌 정착 지원사업' 신청자 모집…어촌 유입 유도 뉴스핌",
+          "keywords": [
+            "남해군",
+            "청년",
+            "어촌",
+            "정착",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "원주시 노인일자리·사회활동 지원사업 참여자 모집 - 강원일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENDYwZkRGdndBTElvbXFDd21ZSzhsd0pHUVQ0VzZpMi1oT09GQU1aeDl4UVFUQl9TbWt4NThGY1Yydk1DZ1NUX1o0TmV0UUIxZndhZndXWlozb0k?oc=5",
           "pubDate": "2026-11-26T01:44:24.000Z",
@@ -1105,6 +1122,23 @@
             "사회활동",
             "지원사업",
             "참여자"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "중기부, 2,696억 투입 ‘스마트공장 구축지원사업’ 참여기업 모집 - 와우테일",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tb01qanIwcDRqWGh3TzduWHBhbGQzUEhmcy1IOG1kTm9pMFpYYUl6U1dTNFJYR0dqZkl5QWVqWmRsQXh0MjN3bDBNazd2bHc?oc=5",
+          "pubDate": "2026-11-23T01:51:41.000Z",
+          "image": null,
+          "summary": "중기부, 2,696억 투입 ‘스마트공장 구축지원사업’ 참여기업 모집 와우테일",
+          "keywords": [
+            "중기부",
+            "696억",
+            "투입",
+            "스마트공장",
+            "구축지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1126,58 +1160,24 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "원주시, ‘2027년 노인일자리 및 사회활동 지원사업’ 모집 - 이코노믹포스트",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56Y2RQQ2ljNG5mNEtYUXEtdUpPclhRSUdhNFRKWGtqOTE1QjkyS0V4UW1NMWNfdEpHVVdJRTFja3BNbjBtbTJFNmF1ekw?oc=5",
-          "pubDate": "2026-11-26T02:07:15.000Z",
-          "image": null,
-          "summary": "원주시, ‘2027년 노인일자리 및 사회활동 지원사업’ 모집 이코노믹포스트",
-          "keywords": [
-            "원주시",
-            "2027년",
-            "노인일자리",
-            "사회활동",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "남해군, '청년 어촌 정착 지원사업' 신청자 모집…어촌 정착 유도 - 뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVGdWZ3Jmc0hUVEVtRHlqX0QwSjA0d1RSR1lFT05SdFdLTy1vZGJQUDFaRUc5VVJCVFp3bEY3bE53ZUxVNkViYV83blpvSlRYbUZQSkhlZ0xud1RM?oc=5",
-          "pubDate": "2026-11-26T08:55:00.000Z",
-          "image": null,
-          "summary": "남해군, '청년 어촌 정착 지원사업' 신청자 모집…어촌 정착 유도 뉴스핌",
-          "keywords": [
-            "남해군",
-            "청년",
-            "어촌",
-            "정착",
-            "지원사업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-26T13:40:18.394Z",
+      "fetchedAt": "2026-11-26T22:49:09.614Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "special post",
-      "label": "Special Post",
-      "count": 3,
+      "key": "ai",
+      "label": "AI",
+      "count": 5,
       "rank": 1,
-      "change": "new"
+      "change": "up"
     },
     {
-      "key": "현장스케치",
-      "label": "현장스케치",
-      "count": 3,
+      "key": "mcp",
+      "label": "MCP",
+      "count": 2,
       "rank": 2,
       "change": "new"
     },
@@ -1186,39 +1186,39 @@
       "label": "경제",
       "count": 5,
       "rank": 3,
-      "change": "down"
+      "change": "same"
+    },
+    {
+      "key": "뉴스 모음",
+      "label": "뉴스 모음",
+      "count": 5,
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 4,
-      "change": "same"
+      "rank": 5,
+      "change": "down"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 5,
-      "change": "same"
+      "rank": 6,
+      "change": "down"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 6,
-      "change": "same"
+      "rank": 7,
+      "change": "down"
     },
     {
       "key": "지원사업",
       "label": "지원사업",
-      "count": 5,
-      "rank": 7,
-      "change": "up"
-    },
-    {
-      "key": "뉴스 모음",
-      "label": "뉴스 모음",
       "count": 4,
       "rank": 8,
       "change": "down"
@@ -1226,16 +1226,16 @@
     {
       "key": "사회활동",
       "label": "사회활동",
-      "count": 4,
+      "count": 3,
       "rank": 9,
       "change": "same"
     },
     {
-      "key": "ai",
-      "label": "AI",
+      "key": "스타트업",
+      "label": "스타트업",
       "count": 3,
       "rank": 10,
-      "change": "down"
+      "change": "new"
     }
   ],
   "trendingGlobal": [
