@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-25T21:05:50.761Z",
+  "collectedAt": "2026-11-26T03:57:37.591Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,11 +41,11 @@
       "subcategory": "경제뉴스",
       "items": [
         {
-          "title": "[단독] 골목사장님 쉽지않은 대출…단골·현금흐름으로 신용평가합니다",
-          "link": "https://www.mk.co.kr/news/economy/12218834",
-          "pubDate": "2026-11-25T20:49:37.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261125.647b6d8da6104ff18fa9a8ac826b7a44_R.png",
-          "summary": "하나은행 평가 모델 고도화 계좌이체·오픈뱅킹도 분석 안정적 자금흐름땐 대출 확대 은행도 우량 차주 발굴 기회금융당국이 소상공인의 금융 접근성을 높이기 위해 새로운 신용평가 체계를 ..",
+          "title": "한은 총재 “올해 명목GDP 3000조원 상회…반도체 영업익 700조원”",
+          "link": "https://www.mk.co.kr/news/economy/12219230",
+          "pubDate": "2026-11-26T03:34:27.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.54a66065adbd4124a815e0368e8dd3f6_R.png",
+          "summary": "지난해 2600조원 수준이었던 명목 국내총생산(GDP)이 올해 3000조원을 훌쩍 상회할 것이란 발언이 나왔다. 26일 금융당국에 따르면 신현송 한국은행 총재는 이날 오전 금융통화..",
           "keywords": [
             "경제"
           ],
@@ -54,11 +54,11 @@
           "summaryKo": null
         },
         {
-          "title": "한투저축은행 해킹 사고… 8만6000명 정보 털렸다",
-          "link": "https://www.mk.co.kr/news/economy/12218769",
-          "pubDate": "2026-11-25T14:12:38.000Z",
-          "image": null,
-          "summary": "한국투자금융지주의 자회사인 한국투자저축은행에서 저축은행권 최대 규모인 8만6433명의 고객 개인정보가 유출되는 해킹 사고가 발생했다. 이로써 해킹 피해를 입은 저축은행은 예가람·O..",
+          "title": "삼성 금융계열사 5곳, 임원 28명 승진…부사장 9명·상무 19명",
+          "link": "https://www.mk.co.kr/news/economy/12219209",
+          "pubDate": "2026-11-26T02:37:53.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.44068fa9106248a7bfb7150bdbeb6cd8_R.png",
+          "summary": "삼성화재 8명으로 최다…생명·증권 각 6명 증권 부사장 3명…운용 대체투자부문장 승진삼성생명·삼성화재·삼성카드·삼성증권·삼성자산운용 등 삼성 금융계열사 5곳이 26일 2027년 정..",
           "keywords": [
             "경제"
           ],
@@ -67,11 +67,11 @@
           "summaryKo": null
         },
         {
-          "title": "[속보] 美, 한국 등 14개 경제주체에 ‘과잉생산 관세’ 예고",
-          "link": "https://www.mk.co.kr/news/world/12218736",
-          "pubDate": "2026-11-25T13:21:01.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20260221.635e301f951b4f1296d55e6be71394c4_R.png",
-          "summary": "미국이 한국을 포함한 14개 경제주체를 대상으로 과잉생산 관세 부과를 예고했다. 한국도 미국의 새로운 관세 압박 대상에 이름을 올렸지만, 기존 한미 무역 합의에 따른 15% 관세 ..",
+          "title": "은행 돈으로 저축銀 대출…중저신용자 금리 3~5%P 낮춘다",
+          "link": "https://www.mk.co.kr/news/economy/12219202",
+          "pubDate": "2026-11-26T02:30:42.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.15256dd6f5da4ceaa96c12d0649a6030_R.jpg",
+          "summary": "금융위, 제8차 포용적금융 대전환회의 개최 중저신용자 위한 ‘포용 온렌딩’ 내년 1분기 출시 금융사 포용금융 확대 위한 건전성 규제도 완화은행의 낮은 조달금리 자금을 저축은행에 공..",
           "keywords": [
             "경제"
           ],
@@ -80,11 +80,11 @@
           "summaryKo": null
         },
         {
-          "title": "업계서 최대규모 해킹…8.6만 고객 정보 유출된 한국투자저축은행",
-          "link": "https://www.mk.co.kr/news/economy/12218530",
-          "pubDate": "2026-11-25T10:05:24.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.481e2d8da48c4e5daaac6d75b8d223f0_R.png",
-          "summary": "한국투자저축은행에서 해킹 사고로 고객 8만6000여명의 개인정보가 유출됐다. 저축은행 업권에서 발생한 정보 유출 사고 가운데 역대 최대 규모다. 25일 연합뉴스에 따르면 한국투자금..",
+          "title": "“신용점수 열심히 높일 필요 있나요”…최고점수 차주가 이자 더 낸다",
+          "link": "https://www.mk.co.kr/news/economy/12219193",
+          "pubDate": "2026-11-26T02:26:48.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.7e623226660844c090b500966ad9b7dd_R.png",
+          "summary": "우리·하나은행 951점 이상 차주 바로 아래 점수대보다 금리 높아 5대銀서 역전 발생 2년 2개월만 포용금융 확대 따라 저신용 혜택 “신용점수 체계 신뢰 무너질 수”신용점수가 ..",
           "keywords": [
             "경제"
           ],
@@ -93,11 +93,11 @@
           "summaryKo": null
         },
         {
-          "title": "[단독] 20년 넘게 낸 세금, 안 내도 됐었다…끝까지 따져 돌려받은 은행원들",
-          "link": "https://www.mk.co.kr/news/economy/12218500",
-          "pubDate": "2026-11-25T08:57:23.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.84e1750bd18341bfa9fce492f2e3a773_R.png",
-          "summary": "국책은행 직원들이 기본급에 포함된 식대에 비과세를 적용받지 못해 20년 넘게 내지 않아도 될 세금을 내온 것으로 확인됐다. 은행이 뒤늦게 환급을 요청했지만 일선 세무서는 이를 거부..",
+          "title": "스테이블코인 시대 대비…BC카드, 자체 지갑 기술 확인",
+          "link": "https://www.mk.co.kr/news/economy/12219172",
+          "pubDate": "2026-11-26T02:14:47.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.e41420ade7b7415ca1fbd56319aa939f_R.jpg",
+          "summary": "페이북에 지갑 구축…결제·환불 검증 기존 가맹점망 활용해 상용화 준비BC카드가 간편결제 플랫폼 페이북에 디지털자산 지갑을 구축하고 스테이블코인 결제 기술 검증을 마쳤다. 해외 지갑..",
           "keywords": [
             "경제"
           ],
@@ -106,7 +106,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:29.986Z",
+      "fetchedAt": "2026-11-26T03:57:16.190Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 은행 고위 재무 담당자들을 대상으로 한 준비금 잔액 관리 전략 및 관행 설문조사 결과를 발표"
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:35.544Z",
+      "fetchedAt": "2026-11-26T03:57:16.250Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "오픈AI \"범용 AI GPT-6, 전문 모델 없이 단백질 설계…실험서 검증\"",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217758",
-          "pubDate": "2026-11-25T18:23:41.000Z",
+          "title": "미국, 스페이스X 우주 데이터센터용 위성 최대 100만기 배치 승인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217807",
+          "pubDate": "2026-11-26T12:44:36.000Z",
           "image": null,
-          "summary": "오픈AI가 범용 AI 모델 'GPT-6' 제품군이 별도의 전문 모델을 호출하거나 작업별로 추가 학습하지 않고도 새로운 단백질을 설계할 수 있다고 밝혔다. 실제 실험실에서도 설계한 단백질의 표적 결합을 확인한 것으로, 범용 AI가 특정 분야에 특화한 전문 모델의 역할까지 수행할 가능성을 보여줬다.오픈AI는 24일(현지시간) '단백질 생물학을 위한 범용 기반 모델로서의 GPT-6: 전문 모델을 넘어서'라는 연구 논문을 공개했다.공식 발표에 따르면 연구진은 GPT-6 제품군을 활용해 단백질 설계와 구조 예측, 분자 간 상호작용 분석 등",
+          "summary": "미국 연방통신위원회(FCC)가 일론 머스크 CEO의 스페이스X에 우주 데이터센터용 위성 최대 100만기를 지구 궤도에 배치하도록 허가했다. 미국에서 우주 데이터센터 위성망 구축을 승인한 것은 처음으로, AI 인프라를 우주로 확대하려는 구상이 주요 규제 장벽을 넘어섰다.FCC는 25일(현지시간) 공식 발표를 통해 스페이스X의 우주 데이터센터 위성망 '스타마인드(Starmind)' 구축 신청을 승인했다고 밝혔다. 급증하는 AI 연산 수요에 대응하고 미국의 우주·AI 기술 경쟁력을 강화한다는 취지다.승인 조건에 따르면 스페이스X는 203",
+          "keywords": [
+            "미국",
+            "스페이스X",
+            "우주",
+            "데이터센터용",
+            "위성"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "오픈AI, 챗GPT·코덱스 사용량 통합…\"헤비 유저 한도 조기 소진 가능\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217800",
+          "pubDate": "2026-11-26T12:28:43.000Z",
+          "image": null,
+          "summary": "오픈AI가 오는 12월부터 챗GPT와 코덱스의 사용량 한도를 하나로 통합한다. 대화형 AI와 업무 수행형 AI를 하나의 서비스로 제공하기 위한 조치로, 두 서비스를 많이 이용하는 헤비 유저는 기존보다 사용량 한도가 빨리 소진될 수 있다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 24일(현지시간) X를 통해 챗GPT의 '채팅(Chat)'과 '업무(Work)' 기능을 하나로 통합한 인터페이스를 일부 프로 구독자에게 적용하기 시작했다고 밝혔다.오픈AI는 지난 10월 말 두 기능의 통합과 함께 사용량 한도도 단일화한다는 방침을 공개했다",
           "keywords": [
             "오픈AI",
-            "범용",
-            "AI",
-            "GPT",
-            "전문"
+            "챗GPT",
+            "코덱스",
+            "사용량",
+            "통합"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "앤트로픽, AI 샌드박스 탈출 평가 '사이렌' 공개…최대 32% 접근 시도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217763",
-          "pubDate": "2026-11-25T18:13:28.000Z",
+          "title": "중국 AI 기업, 모델 개발 포기까지 검토…미국과 기술 격차 9개월 전망",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217798",
+          "pubDate": "2026-11-26T12:19:38.000Z",
           "image": null,
-          "summary": "앤트로픽이 AI 에이전트가 스스로 보안 경계를 위반하는지를 측정하는 평가 도구를 공개했다. 최신 클로드 모델도 의도적으로 취약하게 만든 격리 환경에서 최대 32%의 외부 접근 비율을 기록했지만, 명백한 권한 위반은 이전 세대 모델에 비해 크게 줄었다.앤트로픽은 24일(현지시간) AI 에이전트의 샌드박스 탈출 성향을 측정하는 평가 도구 '사이렌(Siren)'을 공개했다.앤트로픽은 올해 AI 에이전트가 주어진 작업을 완료하기 위해 보안 제한을 우회하거나 외부 시스템에 무단 접근한 사례를 잇달아 공개했다. 사이렌은 이처럼 업무 수행을 보",
+          "summary": "중국 AI 업계가 미국의 첨단 반도체 수출 통제와 모델 증류 차단이라는 이중 압박에 직면했다. 미국과의 기술 격차가 최대 9개월까지 벌어질 것이라는 내부 전망이 나온 가운데 일부 기업은 독자적인 모델 개발을 포기하는 방안까지 검토하는 것으로 알려졌다.디 인포메이션은 25일(현지시간) 미국 정부와 주요 AI 개발사들이 중국 기업의 모델 개발에 필요한 컴퓨팅 자원과 학습 데이터 확보 경로를 동시에 차단하고 있다고 보도했다.이에 따르면 딥시크 연구진은 지난달 내부 논의에서 미국과 중국의 최첨단 AI 모델 간 기술 격차가 현재 3~6개월에",
           "keywords": [
-            "앤트로픽",
+            "중국",
             "AI",
-            "샌드박스",
-            "탈출",
-            "평가"
+            "기업",
+            "모델",
+            "개발"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "최첨단 AI, 글 하나만으로 작성자 실명까지 알아내…익명성 위협",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217785",
-          "pubDate": "2026-11-25T18:01:43.000Z",
+          "title": "이재혁 마키나락스 공동 창업자, 식품제조 AX로 시드 투자 유치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217805",
+          "pubDate": "2026-11-26T12:06:55.000Z",
           "image": null,
-          "summary": "최첨단 AI 모델이 글 하나만으로 AI가 작성했는지 판별하는 것은 물론, 어떤 기업의 AI 모델이 썼는지, 심지어 인간 작성자가 누구인지까지 알아낼 수 있다는 연구 결과가 나왔다. 인터넷 검색이나 작성자 후보 목록 없이도 평소 온라인에 글을 많이 공개한 사람의 신원을 찾아낼 수 있어 익명성 보호가 어려워질 수 있다는 지적이다.미국 메릴랜드대학교와 구글 딥마인드, 캐나다 브리티시컬럼비아대학교 등의 공동 연구진은 AI 모델의 글 작성자 식별 능력을 평가한 연구 결과를 19일(현지시간) 온라인 아카이브에 공개했다.연구진은 AI 생성 여부",
+          "summary": "산업용 AI 전문 마키나락스를 공동 창업한 이재혁 대표가 식품제조 AX 현장으로 무대를 옮겨 투자유치에 성공했다.식품제조 특화 AX 스타트업 엔크레더블(대표 이재혁)은 카카오벤처스와 더벤처스로부터 시드 투자를 유치했다고 26일 밝혔다.이 대표는 지난 2017년 윤성호 대표 등과 마키나락스를 창업해 공동 대표로서 주요 제조기업 대상 AI 솔루션 공급과 신규 사업 개발을 이끌었다. 마키나락스는 올해 코스닥에 상장했다.그가 새로 선택한 분야는 디지털 전환이 더딘 식품제조 산업이다. 식품 공장은 HACCP 등 규제 대응 부담이 크지만, 원",
           "keywords": [
-            "최첨단",
-            "AI",
-            "하나만으로",
-            "작성자",
-            "실명까지"
+            "이재혁",
+            "마키나락스",
+            "공동",
+            "창업자",
+            "식품제조"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 '아테나' 개발 중",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217778",
-          "pubDate": "2026-11-25T17:46:26.000Z",
+          "title": "\"공무원도 AI로 포스터 만든다\"...범정부 AI에 이미지 생성 모델 적용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217799",
+          "pubDate": "2026-11-26T11:44:33.000Z",
           "image": null,
-          "summary": "오픈AI가 기업용 AI 에이전트의 데이터 분석 정확도를 높이기 위한 데이터 관리 도구를 개발하고 있다. 기업마다 다른 데이터 구조와 업무 용어, 지표의 의미를 AI가 정확하게 이해하도록 해 실제 업무에서 발생하는 오류를 줄이는 것이 목표다.디 인포메이션은 24일(현지시간) 소식통을 인용, 오픈AI가 코드명 '아테나(Athena)'라는 데이터 관리 플랫폼을 개발 중이라고 보도했다.오픈AI는 지난 9월 '챗GPT 워크'에 기업 내부 데이터를 분석하고 업무 관련 질문에 답하는 데이터 에이전트를 출시했다. 그러나 최소 한 곳의 고객사는 답",
+          "summary": "네이버클라우드(대표 김유원)는 범정부 AI 공통기반의 AI 개발 도구 '클로바 스튜디오 포 거브(CLOVA Studio for GOV)'에 이미지 생성 모델을 신규 적용했다고 26일 밝혔다.해당 모델은 중앙부처 등 공공기관 52곳이 사용하는 범정부 '온AI'(지능형 업무관리 플랫폼)의 공식 협업툴 '네이버웍스'에 탑재돼 이미지 생성과 편집 기능을 지원한다.이에 따라 사용자는 포스터·카드뉴스·배너 등 템플릿을 고르고, 필요한 내용만 입력하면 이미지를 만들 수 있으며, 용도에 맞게 추가 수정도 가능하다.AI 에이전트 개발 환경도 고도화",
           "keywords": [
-            "오픈AI",
-            "기업용",
-            "AI",
-            "에이전트",
-            "정확도"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "오픈AI·시스코, AI로 리눅스 공격 막는 보안 기술 '시루도' 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217766",
-          "pubDate": "2026-11-25T17:28:30.000Z",
-          "image": null,
-          "summary": "오픈AI와 시스코가 AI 에이전트를 활용해 사이버 공격을 차단하는 리눅스 보안 기술을 공동 개발했다. AI가 취약점 악용을 막는 임시 방어 코드를 생성하고 검증하는 방식으로, 정식 보안 패치를 적용하기 전까지 서비스 중단 없이 시스템을 보호할 수 있도록 설계했다.오픈AI와 시스코는 23일(현지시간) 리눅스 시스템을 보호하는 오픈소스 보안 기술 '시루도(Shirudo)'를 공개했다. 시루도는 방패(Shield)를 뜻하는 일본어에서 따온 이름이다.보안 취약점이 발견되더라도 정식 패치를 개발하고 테스트해 실제 시스템에 적용하기까지는 며칠",
-          "keywords": [
-            "오픈AI",
-            "시스코",
+            "공무원도",
             "AI로",
-            "리눅스",
-            "공격"
+            "포스터",
+            "만든다",
+            "범정부"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:36.802Z",
+      "fetchedAt": "2026-11-26T03:57:17.617Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -360,7 +360,7 @@
           "summaryKo": "ChatGPT 및 Codex 통합은 Clay의 사용자가 거래를 조사하고 데이터를 시장 진출 전략으로 전환하는 데 도움이 되며, GPT-6 모델이 추론을 처리합니다."
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:36.962Z",
+      "fetchedAt": "2026-11-26T03:57:17.747Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,92 +369,90 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "여섯 가지 사실로 보는 거시경제사",
-          "link": "https://news.hada.io/topic?id=37852&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-25T20:46:13.000Z",
+          "title": "Show GN: Herdr Git Mods - 레이아웃은 그대로, Git 작업은 하나의 Pane에",
+          "link": "https://news.hada.io/topic?id=37873&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T02:06:59.000Z",
           "image": null,
-          "summary": "1인당 GDP가 높은 나라일수록 평균적으로 삶의 만족도와 기대수명이 높고, 영아 사망률과 노동시간은 낮음. 다만 이는 상관관계이지 인과관계는 아님 인류는 오랫동안 가난했고, 산업혁명 이전에는 임금이 올라도 인구 증가로 다시 생계 수준에 내려가는 맬서스적 정체에 머물렀음 산업혁명 이후 성장이 가속했지만 모든 나라에서 동시에 일어나지는 않았음. 기술 선도국을 대표하는 미국의 1인당 GDP는 지난 약 150년간 대체로 연 2% 의 꾸준한 성장 추세를 보임 국가 간 소득 격차는 막대하지만 고정되어 있지는 않음. 일본과 한국의 추 …",
+          "summary": "안녕하세요. 지난번에 올린 TUI 플러그인 Herdr Git을 Herdr App용으로 다시 만들었습니다. 쓰던 레이아웃은 그대로 두고, Git 저장소의 터미널에서 ⌘G를 누르면 같은 탭 오른쪽에 Git Pane이 열립니다. 한 번 더 누르면 닫힙니다. Git Graph를 써보다가 탭 바에 Git 버튼을 넣으려면 레이아웃 파일까지 손봐야 한다는 걸 알았습니다. 버튼 하나 때문에 잘 쓰던 레이아웃을 건드리긴 싫었습니다. Herdr App 이슈에도 같은 얘기를 적었습니다. Pane 하나에서 변경 파일을 보고 스테이징하고 커밋할 수 있습니다. 커밋 그래프에서 두 커밋이나 브랜치의 diff를 나란히 볼 수 있고, 줄별 변경 이력이나 인터랙티브 리베이스도 같은 Pane에서 쓸 수 있습니다. …",
           "keywords": [
-            "여섯",
-            "가지",
-            "사실로",
-            "보는",
-            "거시경제사"
+            "Show",
+            "GN:",
+            "Herdr",
+            "Git",
+            "Mods"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "똑똑하고 진심으로 책임지는 사람들은 도구를 쓴다",
-          "link": "https://news.hada.io/topic?id=37851&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-25T20:43:13.000Z",
+          "title": "1인 조직이 온다",
+          "link": "https://news.hada.io/topic?id=37871&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T02:00:02.000Z",
           "image": null,
-          "summary": "LLM은 사용자의 기존 태도를 증폭함. 호기심과 책임감이 강한 엔지니어는 구현과 검증의 범위를 넓힐 수 있지만, 무책임한 엔지니어는 생성된 코드를 이해하지 않은 채 더 빠르게 배포할 수 있음 책임감 있는 엔지니어에게 부족했던 것은 의지보다 시간이었으며, 모델은 TLA+ 명세, 시뮬레이터, 경계 조건 테스트 등 미뤄뒀던 엄밀한 작업을 수행할 여지를 줌 검증 없는 코드 배포와 이해 부족은 실제 위험임. 특히 초급 엔지니어가 직접 버그와 씨름하지 않으면 판단력을 기르기 어렵고, 모델의 자신감 있는 오류는 이런 위험을 키움 현 …",
+          "summary": "AI 에이전트와 지식 생산 시스템을 운영하면 혼자서도 연구기관처럼 일할 수 있음. 보고서 한 편의 작성을 돕는 데서 나아가, 조사와 정리, 발행을 지속적으로 수행하는 조직을 만드는 방식임 전문가의 역할은 모든 결과물을 직접 만드는 데서 자신의 안목과 판단을 시스템의 규칙으로 옮기는 일로 바뀜. 출처 선정, 사실 확인, 글쓰기 기준을 정해 수많은 결과물에 반복 적용함 Digital Embassy는 매일 뉴스 2만 5,000건을 읽고 외교 전문 22건을 발행하며, Diplopedia는 대사 2,000명 이상의 전기를 다룸. 개별 조사와 집필을 반복 가능한 시스템으로 확장한 사례임 …",
           "keywords": [
-            "똑똑하고",
-            "진심으로",
-            "책임지는",
-            "사람들은",
-            "도구를"
+            "1인",
+            "조직이",
+            "온다"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "세상에, 세상에, 세상에, 세상에: 지금 벌어지는 일의 엄청난 규모",
-          "link": "https://news.hada.io/topic?id=37850&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-25T20:40:13.000Z",
+          "title": "우리가 알던 기능 발견 방식의 종말",
+          "link": "https://news.hada.io/topic?id=37870&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T01:50:02.000Z",
           "image": null,
-          "summary": "OpenAI가 행렬 곱셈 지수 ω = 9/4를 증명했다고 발표함. 기존 상한과 일치하는 하한까지 확보했다는 것으로, Scott Aaronson은 특히 ω > 2의 하한 증명에 큰 충격을 느낌 또 다른 OpenAI 논문은 푸리에 변환에 필요한 선형 게이트 수가 N(log N)^(1/2+o(1)) 임을 증명함. 기존 FFT보다 개선된 상한뿐 아니라 그에 맞는 하한까지 얻은 결과임 AI를 활용한 수학 연구의 성과가 빠르게 쏟아지면서, 과거라면 그해 최고의 복잡도 연구로 꼽혔을 결과도 쉽게 묻히고 있음. Aaronson은 이를 새로운 수학적 진실의 대륙이 열리는 변화로 받아들임 …",
+          "summary": "AI는 사용자가 새 기능을 더 잘 찾도록 돕는 데서 나아가, 기능을 직접 찾을 필요 자체를 줄일 수 있음. 사용자가 원하는 결과를 말하면 AI가 필요한 기능을 골라 실행하는 방식으로 제품 사용이 바뀜 기존 제품은 가치를 늘리려면 기능을 추가해야 하지만, 사용자를 넓히려면 더 단순해져야 하는 모순을 안고 있었음. 기능을 늘릴수록 복잡해지고, 새로 유입된 사용자는 그 기능을 배울 의지가 더 적음 변화의 핵심은 버튼을 프롬프트 창으로 바꾸는 것이 아니라 소프트웨어를 조작하는 주체가 사람에서 AI로 옮겨가는 것임. 에이전트가 API와 MCP로 다른 제품의 기능을 호출하면 사용자가 해당 앱을 열지 않아도 됨 …",
           "keywords": [
-            "세상에",
-            "세상에:",
+            "우리가",
+            "알던",
+            "기능",
+            "발견",
+            "방식의"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "지금 효과를 내는 B2B GTM 전략 5가지와 실제 사례",
+          "link": "https://news.hada.io/topic?id=37868&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T01:40:02.000Z",
+          "image": null,
+          "summary": "이미 효과가 있는 고객 확보 채널을 AI와 자동화로 확장한 B2B 성장 사례 5가지를 소개함. 광고 운영, 실무자의 추천, 구매 경로 분석, 대면 행사, 해커톤에 각각 다른 방식을 적용함 incident.io는 Claude 기반 자율 광고 에이전시로 캠페인 제작과 운영을 자동화함. 특정 잠재 고객사에 맞춘 캠페인 준비 시간을 기존 2~3일에서 3분으로 줄임 Granola는 실제 제품을 사용하는 실무자 200명 이상을 앰배서더로 확보하고, 이들의 LinkedIn 게시물을 광고로 확산함. 평균 참여도는 Granola의 다른 LinkedIn 광고 대비 10배임 Clay는 여러 …",
+          "keywords": [
             "지금",
-            "벌어지는",
-            "일의"
+            "효과를",
+            "내는",
+            "B2B",
+            "GTM"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "GitHub 제품 전반의 서비스 저하 조사",
-          "link": "https://news.hada.io/topic?id=37849&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-25T19:31:24.000Z",
+          "title": "AI 검색 메타 분석 - 2026년 4분기",
+          "link": "https://news.hada.io/topic?id=37867&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-26T01:30:02.000Z",
           "image": null,
-          "summary": "GitHub의 Actions, Webhooks 등 8개 서비스에서 성능 또는 가용성 저하가 발생했으며, 최종적으로 장애가 해결됨 장애 대응 중 높은 데이터베이스 부하로 인한 실패 증가를 확인하고, 부하를 줄여 서비스를 복구하는 조치를 진행함 데이터베이스 부하 분산을 조정한 뒤 복구 징후가 나타났으며, 서비스별로 장애 완화와 안정성 모니터링을 진행함 2026년 11월 25일 15:55 UTC에 조사 공지를 시작하고, 16:52 UTC에 해결을 공지함 상세 근본 원인 분석은 준비되는 대로 공유할 예정이며, 제공된 장애 기록에는 아직 포함되지 않음 영향 범 …",
+          "summary": "AI 검색 이용이 확대되고 있지만, 이를 Google 검색의 대체 비율로 환산하기는 어려움. 이용자는 검색엔진과 챗봇을 오가며, 검토한 연구에서는 Google 이용 감소를 확인할 근거를 찾지 못함 AI 답변은 외부 사이트로 향하는 클릭을 줄임. 한 무작위 실험에서는 AI Overview가 나타날 때 자연 검색 외부 클릭이 39.8% 감소했지만, 감소 폭은 답변 형식과 검색어, 이용 맥락에 따라 다름 검색, 출처 인용, 브랜드 언급, 방문과 구매는 서로 다른 단계임. AI가 페이지를 인용해도 브랜드를 언급하거나 이용자가 방문한다는 보장은 없어, 단계별 성과를 나눠 봐야 함 …",
           "keywords": [
-            "GitHub",
-            "제품",
-            "전반의",
-            "서비스",
-            "저하"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "Lean으로 Clojure 코어를 검사해 미보고 버그 17개를 발견함",
-          "link": "https://news.hada.io/topic?id=37848&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-25T19:03:06.000Z",
-          "image": null,
-          "summary": "Lean 모델 검증과 차등 테스트로 Clojure 코어를 검사해, JIRA와 ask.clojure.org에서 기존 보고를 찾지 못한 버그 17개를 발견함 vector-of의 무한 반복은 다음 청크 위치를 계산하는 비트 마스크가 상위 비트까지 지우기 때문에 발생하며, 원소 65,505개 이상에서 drop 후 reduce로 재현됨 HAMT 충돌 노드에서는 같은 값이지만 해시가 다른 키로 삭제한 뒤 삽입하면, 다른 키가 출력에는 나타나지만 조회되지 않을 수 있음 Java 함수형 인터페이스 호출은 컴파일러가 타입을 아는지에 따라 반환값 변환이 달라져, 같은 removeIf 호출이 …",
-          "keywords": [
-            "Lean으로",
-            "Clojure",
-            "코어를",
-            "검사해",
-            "미보고"
+            "AI",
+            "검색",
+            "메타",
+            "분석",
+            "2026년"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:37.598Z",
+      "fetchedAt": "2026-11-26T03:57:18.423Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -463,87 +461,81 @@
       "subcategory": "크리에이터 경제",
       "items": [
         {
-          "title": "Thumbnails help YouTubers build audiences. Now everyone can put custom ‘nails on their Shorts.",
-          "link": "https://www.tubefilter.com/2026/11/25/youtube-shorts-thumbnails-all-creators/",
-          "pubDate": "2026-11-25T05:06:23.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/shubham-dhage-weorgq0juM-unsplash-scaled.jpg",
-          "summary": "You get a thumbnail. And you get a thumbnail! And you . . . That’s right: YouTube has, at long, long last, finally allowed all creators to assign customized thumbnails to their Shorts. As anyone who’s been around the YouTube block will know, thumbnails are often a core part–if not the core part–of creators’ growth strategies. YouTubers like MrBeast have talked […] Visit Tubefilter for more great stories.",
+          "title": "Everyone wants a piece of creator IPs. Outshine Talent founder Barbara Jones is making that work in her clients’ favor.",
+          "link": "https://www.tubefilter.com/2026/11/25/outshine-talent-creator-ips-barbara-jones/",
+          "pubDate": "2026-11-26T02:42:15.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/never.jpg",
+          "summary": "Creator IPs have been the talk of the town this year, and we don’t expect that to change as we head into 2027. As you’ll know if you’re a regular Tubefilter reader, there are many creator IP projects in the works–some with major Hollywood studios, some with Netflix and Disney, some with smaller independent studios, […] Visit Tubefilter for more great stories.",
           "keywords": [
-            "Platforms",
-            "YouTube",
-            "youtube shorts"
+            "Industry",
+            "Barbara Jones",
+            "Outshine Talent"
           ],
           "isForeign": true,
-          "titleKo": "썸네일은 유튜버가 시청자를 확보하는 데 도움이 됩니다. 이제 누구나 자신의 Shorts에 맞춤형 '썸네일'을 넣을 수 있습니다.",
-          "summaryKo": "썸네일을 받으세요. 그리고 여러분도 썸네일을 얻으실 수 있어요! 그리고 당신도... 맞습니다. YouTube가 마침내 모든 크리에이터가 Shorts에 맞춤형 미리보기 이미지를 지정할 수 있도록 허용했습니다. YouTube를 오랫동안 이용해 온 사람이라면 누구나 알다시피, 섬네일은 종종 크리에이터의 성장 전략에서 핵심적인 부분, 아니면 핵심적인 부분 그 자체이기도 합니다. MrBeast와 같은 유튜버들이 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
+          "titleKo": "모두가 크리에이터 지식재산권(IP)의 한 부분을 원합니다. Outshine Talent의 설립자인 Barbara Jones는 이를 고객에게 유리하게 활용하고 있습니다.",
+          "summaryKo": "크리에이터 IP는 올해 화제의 중심이었으며, 2027년이 다가오면서도 이 추세가 변하지 않을 것으로 예상됩니다. Tubefilter를 정기적으로 읽으시는 분이라면 아시겠지만, 현재 많은 크리에이터 IP 프로젝트가 진행 중입니다. 일부는 할리우드의 주요 스튜디오와, 일부는 Netflix와 Disney와, 일부는 소규모 독립 스튜디오와 함께 진행되고 있습니다. […] 더 많은 흥미로운 이야기를 보려면 Tubefilter를 방문하세요."
         },
         {
-          "title": "Ms Rachel is fighting for kids’ rights to legal representation",
-          "link": "https://www.tubefilter.com/2026/11/24/ms-rachel-fighting-for-immigration-rights/",
-          "pubDate": "2026-11-24T23:30:55.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/GettyImages-2306521674.jpg",
-          "summary": "Ms Rachel is a force on YouTube, where she entertains 22 million subscribers with colorful videos tailored to the development of young minds. But the overall-clad creator isn’t just helping tots reach their learning milestones online—she’s also advocating for children caught up in the U.S. immigration system. On Monday, Ms Rachel (aka Rachel Accurso) joined […] Visit Tubefilter for more great stories.",
+          "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/22/2026",
+          "link": "https://www.tubefilter.com/2026/11/25/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-22-2026/",
+          "pubDate": "2026-11-26T00:43:46.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/GettyImages-2286778616.jpg",
+          "summary": "It's been a while since we had a leader in the Global Sub Top 50 other than SASHA SHOW, but the Turkey-based creator fell back to third place this week. In his stead, Gabrielmiranda_ofc rose to the #1 spot. The Brazilian creator added two million weekly subscribers to outpace all other YouTube channels. The #4 finisher in the Global Sub Top 50 is a channel that has hovered around that position for years. Now, the creator behind that hub is expanding to other platforms, and his artistic activity ",
           "keywords": [
-            "Creators",
-            "advocacy",
-            "immigration",
-            "ms rachel"
-          ],
-          "isForeign": true,
-          "titleKo": "레이첼 님은 아동의 법적 대리인 선임권을 위해 싸우고 있습니다.",
-          "summaryKo": "Ms Rachel은 YouTube에서 영향력 있는 인물로, 어린 아이들의 발달에 맞춘 다채로운 동영상으로 2,200만 명의 구독자를 즐겁게 하고 있습니다. 하지만 오버롤을 입은 이 크리에이터는 아이들이 온라인에서 학습 목표를 달성하도록 돕는 것뿐만 아니라 미국 이민 시스템에 휘말린 아이들을 위해 목소리를 내고 있습니다. 월요일, Ms Rachel(본명 Rachel Accurso)이 […] 더 많은 흥미로운 이야기를 보려면 Tubefilter를 방문하세요."
-        },
-        {
-          "title": "Roblox wants players to celebrate Thanksgiving by building a “ridiculously tall tower”",
-          "link": "https://www.tubefilter.com/2026/11/24/roblox-the-great-build-thanksgiving-event/",
-          "pubDate": "2026-11-24T22:13:48.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/image_high.png",
-          "summary": "Last month, Roblox ushered in Halloween with a platform-wide horror event stocked with mazes, monsters, and general mayhem. That nine-night event—called The Hollow—featured creepy creatures from a variety of well-known Roblox experiences, including 99 Nights in the Forest, DOORS, Dandy’s World, Scary Shawarma Kiosk, and more. Now, Roblox is switching gears from horror to family-friendly holiday […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Platforms",
-            "child safety",
-            "roblox"
-          ],
-          "isForeign": true,
-          "titleKo": "Roblox, 플레이어들이 '터무니없이 높은 탑'을 건설하여 추수감사절을 기념하기를 원해",
-          "summaryKo": "지난달 Roblox는 미로, 괴물, 일반적인 혼돈으로 가득한 플랫폼 전체의 공포 이벤트를 통해 할로윈을 맞이했습니다. The Hollow라는 이름의 이 9박 이벤트에는 99 Nights in the Forest, DOORS, Dandy’s World, Scary Shawarma Kiosk 등 다양한 유명 Roblox 경험에 등장하는 소름 끼치는 생명체들이 등장했습니다. 이제 Roblox는 공포에서 가족 친화적인 연말로 전환하고 있습니다 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
-        },
-        {
-          "title": "Google just filed a patent for a future without content creators",
-          "link": "https://www.tubefilter.com/2026/11/23/google-youtube-my-channel-content-creators/",
-          "pubDate": "2026-11-24T04:31:37.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/solen-feyissa-_XtH7BBRPtA-unsplash.jpg",
-          "summary": "Google, which makes billions of dollars a year thanks to YouTubers stocking its platform with billions of hours of videos, is envisioning a future where we don’t need content creators. According to 404 Media, the tech giant has filed a patent for something called “My Channel“: a 24/7 feed of AI-generated videos tailored specifically to every […] Visit Tubefilter for more great stories.",
-          "keywords": [
-            "Platforms",
-            "artificial intelligence",
-            "google",
+            "Charts",
+            "Tubefilter Charts",
             "YouTube"
           ],
           "isForeign": true,
-          "titleKo": "Google이 콘텐츠 크리에이터가 없는 미래를 위한 특허를 출원했습니다.",
-          "summaryKo": "유튜버들이 수십억 시간의 동영상을 플랫폼에 올린 덕분에 연간 수십억 달러의 수익을 올리는 Google은 콘텐츠 크리에이터가 필요 없는 미래를 구상하고 있습니다. 404 Media에 따르면, 이 빅테크 기업은 'My Channel'이라는 이름의 특허를 출원했습니다. 이는 모든 […]에 맞춤화된 AI 생성 동영상을 연중무휴로 제공하는 피드입니다. 더 많은 흥미로운 이야기를 보려면 Tubefilter를 방문하세요."
+          "titleKo": "전 세계 구독자 수 상위 50위 YouTube 채널 • 2026년 11월 22일 주간",
+          "summaryKo": "SASHA SHOW 이외의 크리에이터가 글로벌 구독자 톱 50에서 1위를 차지한 지 꽤 오래되었지만, 터키에 기반을 둔 이 크리에이터는 이번 주 3위로 하락했습니다. 대신 Gabrielmiranda_ofc가 1위로 올라섰습니다. 이 브라질 크리에이터는 주간 구독자 수를 2백만 명 늘리며 다른 모든 YouTube 채널을 제쳤습니다. 글로벌 구독자 순위 Top 50에서 4위를 차지한 채널은 수년 동안 그 순위 근처에 머물러 왔습니다. 이제 이 채널의 크리에이터는 다른 플랫폼으로 영역을 확장하고 있습니다. 안녕하세요."
         },
         {
-          "title": "Whatnot and Meta are taking aim at TikTok Shop’s Black Friday crown",
-          "link": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/",
-          "pubDate": "2026-11-24T01:04:27.000Z",
-          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/tiktok-black-friday-1920x1131-1.jpg",
-          "summary": "Black Friday is almost here, and platforms are eager to claim their share of the shopping frenzy—and hopefully replicate the success TikTok Shop has seen over the last two years. In 2024, creators hosted over 30,000 live shopping streams on TikTok Shop—and some walked away with millions in sales. Stormi Steele, founder/CEO of hair/skincare brand […] Visit Tubefilter for more great stories.",
+          "title": "X is doubling down on short-form vertical video with a series of updates",
+          "link": "https://www.tubefilter.com/2026/11/25/x-doubles-down-on-short-form-vertical-video/",
+          "pubDate": "2026-11-26T00:28:13.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/x-icon-1920x1131-1.jpg",
+          "summary": "Earlier this month, X launched a new feature that allows users to clip moments from their favorite videos, add their own takes, and hit post without leaving the platform. In theory, that tool (inventively named “Clipping”) is a win-win for everyone involved. Clips credit and link back to the original videos, and both original creators […] Visit Tubefilter for more great stories.",
           "keywords": [
-            "Industry",
-            "blackfriday",
-            "ecommerce",
-            "instagram",
-            "tiktokshop",
-            "whatnot"
+            "Platforms"
           ],
           "isForeign": true,
-          "titleKo": "Whatnot과 Meta가 틱톡 숍의 블랙프라이데이 왕좌를 노리고 있습니다.",
-          "summaryKo": "블랙프라이데이가 코앞으로 다가왔습니다. 플랫폼들은 쇼핑 열풍에서 자신들의 몫을 차지하고 싶어 하며, 지난 2년 동안 TikTok Shop이 거둔 성공을 재현하기를 기대하고 있습니다. 2024년, 크리에이터들은 TikTok Shop에서 3만 건 이상의 라이브 쇼핑 스트리밍을 진행했으며, 일부는 수백만 달러의 매출을 올렸습니다. 헤어/스킨케어 브랜드의 창립자/CEO인 Stormi Steele […] 더 많은 흥미로운 스토리를 보려면 Tubefilter를 방문하세요."
+          "titleKo": "X, 일련의 업데이트를 통해 짧은 형식의 세로형 동영상에 더욱 집중",
+          "summaryKo": "이번 달 초, X는 사용자가 좋아하는 동영상에서 순간을 잘라내고, 자신만의 해석을 추가하고, 플랫폼을 떠나지 않고도 게시할 수 있는 새로운 기능을 출시했습니다. 이론적으로, 이 도구(독창적으로 '클리핑'이라고 명명됨)는 관련된 모든 사람에게 이득이 됩니다. 클립은 원본 동영상에 대한 크레딧을 표시하고 해당 동영상으로 연결되며, 원본 제작자와 […] 더 많은 흥미로운 스토리를 보려면 Tubefilter를 방문하세요."
+        },
+        {
+          "title": "On OnlyFans, one-time transactions are winning out over subscriptions",
+          "link": "https://www.tubefilter.com/2026/11/25/onlyfans-one-time-transactions-vs-subscriptions/",
+          "pubDate": "2026-11-25T22:49:07.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/GettyImages-1441926554.jpg",
+          "summary": "Back in August, OnlyFans announced that 5,076 creators have brought in at least $1 million each since the NSFW hub kicked off in 2016, with total creator payouts adding up to $30 billion. About 20% of that $30 billion—roughly $6.2 billion—was delivered to creators during the year that ended on November 30, 2025. That last […] Visit Tubefilter for more great stories.",
+          "keywords": [
+            "Platforms",
+            "monetization",
+            "onlyfans",
+            "subscription"
+          ],
+          "isForeign": true,
+          "titleKo": "OnlyFans에서는 일회성 거래가 구독을 앞서고 있습니다.",
+          "summaryKo": "지난 8월, OnlyFans는 2016년 NSFW 허브가 시작된 이래 5,076명의 크리에이터가 각각 최소 1백만 달러의 수익을 올렸으며, 크리에이터에게 지급된 총액은 300억 달러에 달한다고 발표했습니다. 이 300억 달러 중 약 20%(대략 62억 달러)가 2025년 11월 30일에 끝난 회계연도 동안 크리에이터들에게 지급되었습니다. 마지막 […] 더 많은 멋진 스토리를 보려면 Tubefilter를 방문하세요."
+        },
+        {
+          "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/22/2026",
+          "link": "https://www.tubefilter.com/2026/11/25/top-50-most-viewed-youtube-channels-worldwide-week-of-11-22-2026/",
+          "pubDate": "2026-11-25T22:03:28.000Z",
+          "image": "https://www.tubefilter.com/wp-content/uploads/2026/11/without.jpg",
+          "summary": "We have a new #1 channel in the Global Top 50. Fitu K Kitu picked up 1.19 billion weekly views, a sum that accounts for nearly two-thirds of the channel's lifetime traffic. Talk about a hot start! Not even chart regulars like T-Series and MrBeast could keep up with Fitu K Kitu's face. Elsewhere in the ranking, a one-time collaborator of MrBeast's is making waves on his own. One of Latin America's biggest creators has taken advantage of spooky season while tying in a cultural phenomenon that has ",
+          "keywords": [
+            "Charts",
+            "Tubefilter Charts",
+            "YouTube"
+          ],
+          "isForeign": true,
+          "titleKo": "전 세계 조회수 상위 50위 YouTube 채널 • 2026년 11월 22일 주간",
+          "summaryKo": "글로벌 Top 50에서 새로운 1위 채널이 등장했습니다. Fitu K Kitu는 주간 조회수 11억 9천만 건을 기록했으며, 이는 채널의 전체 트래픽의 거의 3분의 2에 해당하는 수치입니다. 정말 화끈한 출발이네요! T-Series와 MrBeast와 같은 차트 단골들도 Fitu K Kitu의 인기를 따라잡지 못했습니다. 순위의 다른 곳에서는 MrBeast의 한때 협업자인 크리에이터가 단독으로 큰 반향을 일으키고 있습니다. 라틴 아메리카에서 가장 영향력 있는 크리에이터 중 한 명이 공포의 계절을 활용하면서 문화적 요소를 결합했습니다."
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:37.803Z",
+      "fetchedAt": "2026-11-26T03:57:31.828Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -617,7 +609,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:38.043Z",
+      "fetchedAt": "2026-11-26T03:57:31.989Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -698,7 +690,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:38.132Z",
+      "fetchedAt": "2026-11-26T03:57:32.046Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -707,97 +699,97 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "어크로스, AI에 김치 추천을 물었더니…질문 하나에 달라지는 브랜드 경쟁력",
-          "link": "https://www.venturesquare.net/1131597/",
-          "pubDate": "2026-11-25T14:54:20.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/genrank-kimchi-2-value-pb-783x522.jpg",
-          "summary": "어크로스가 운영하는 AI 가시성 지수 젠랭크가 챗GPT와 제미나이, 네이버 AI 등 8개 AI 서비스의 김치 및 김치냉장고 추천 답변을 분석했다. 포기김치 추천에서는 8개 서비스 모두 종가를 언급했지만, 가성비 김치 질문에서는 이마트 자체 브랜드인 노브랜드 포기김치가 ... The post 어크로스, AI에 김치 추천을 물었더니…질문 하나에 달라지는 브랜드 경쟁력 appeared first on 벤처스퀘어.",
+          "title": "옴디아, 아프리카 스마트폰 시장 40% 급감…저가폰 수요 위축 속 삼성 점유율 23%로 상승",
+          "link": "https://www.venturesquare.net/1131704/",
+          "pubDate": "2026-11-26T03:25:48.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/3Q26-789x444.jpg",
+          "summary": "옴디아에 따르면 2026년 3분기 아프리카 스마트폰 출하량은 1,370만대로 전년 동기 대비 40% 감소했다. 부품 원가 상승과 통화 약세로 100달러 미만 스마트폰 출하량이 약 70% 감소한 반면 피처폰 출하량은 27% 증가했다. 제조사별로는 트랜션이 시장 점유율 4... The post 옴디아, 아프리카 스마트폰 시장 40% 급감…저가폰 수요 위축 속 삼성 점유율 23%로 상승 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AEO",
-            "AI가시성",
-            "AI검색"
+            "Omdia",
+            "글로벌스마트폰시장",
+            "단말기할부금융"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "위코멧, AED 설치부터 응급처치 훈련까지 하나로…기업·기관 안전관리 시장 문 두드린다",
-          "link": "https://www.venturesquare.net/1131586/",
-          "pubDate": "2026-11-25T14:51:28.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/we-4-789x444.jpg",
-          "summary": "응급 상황 대응 헬스케어 스타트업 위코멧이 기업·기관 특화 응급 대응 솔루션 ‘원 케어’를 통해 B2B·B2G 시장을 공략한다. 원 케어는 자동심장충격기의 소모품 교체 및 장비 이상 알림 기능과 심폐소생술 자기주도훈련 서비스를 하나로 통합한 솔루션이다. 학습관리시스템 ... The post 위코멧, AED 설치부터 응급처치 훈련까지 하나로…기업·기관 안전관리 시장 문 두드린다 appeared first on 벤처스퀘어.",
+          "title": "라이클, 자전거 브랜드 탐색부터 가까운 매장 연결까지…온·오프라인 커머스 접점 강화",
+          "link": "https://www.venturesquare.net/1131701/",
+          "pubDate": "2026-11-26T03:22:07.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/lycle_news_01_brandlist@2x-766x522.png",
+          "summary": "자전거 쇼핑 플랫폼 라이클이 브랜드별 제품 정보와 판매 매장, 최신 소식을 한곳에서 확인할 수 있는 ‘브랜드관’을 출시했다. 약 2,500개의 매장 정보를 기반으로 이용자의 현재 위치에서 가까운 브랜드 직영점과 대리점을 안내한다. 최대 3개 자전거 모델의 사양 비교와 ... The post 라이클, 자전거 브랜드 탐색부터 가까운 매장 연결까지…온·오프라인 커머스 접점 강화 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AED",
-            "B2B헬스케어",
-            "CPR"
+            "LYCLE",
+            "MTB",
+            "O2O"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "에이아이매틱스, 40명 검사 공정을 2명으로…CES 2027서 AI 비전검사 기술 공개",
-          "link": "https://www.venturesquare.net/1131584/",
-          "pubDate": "2026-11-25T14:48:56.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/ces-789x520.jpeg",
-          "summary": "AI 영상인식 전문기업 에이아이매틱스가 CES 2027에서 제조 현장의 외관검사 업무를 자동화하는 AI 비전검사 플랫폼 ‘AIM-T1’을 선보인다. AIM-T1은 소프트웨어 기반으로 검사 기준을 변경하고 양품 샘플을 활용해 신규 검사 모델을 생성할 수 있으며, 3㎛급 ... The post 에이아이매틱스, 40명 검사 공정을 2명으로…CES 2027서 AI 비전검사 기술 공개 appeared first on 벤처스퀘어.",
+          "title": "와디즈, 펀딩의 경쟁력은 메이커와 서포터의 소통…커뮤니티 운영 정책 개편",
+          "link": "https://www.venturesquare.net/1131675/",
+          "pubDate": "2026-11-26T00:35:06.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/wadiz-12-696x522.jpg",
+          "summary": "크라우드펀딩 플랫폼 와디즈가 메이커와 서포터의 자유로운 의견 교환과 참여형 펀딩 문화 확산을 위해 커뮤니티 운영 정책을 개편했다. 프로젝트 진행 상황 안내와 제품 제안, 사용 후기 등 이용자 간 소통 사례를 구체화하고 게시물 운영 기준을 9개 유형으로 체계화했다. 새로... The post 와디즈, 펀딩의 경쟁력은 메이커와 서포터의 소통…커뮤니티 운영 정책 개편 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "AIMT1",
-            "AI비전검사",
-            "CES2027"
+            "AI모니터링",
+            "메이커",
+            "서포터"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "클룩, 일본 겨울여행 수요 온천·설경 명소로 집중…유후인 호텔 예약 415.8% 증가",
-          "link": "https://www.venturesquare.net/1131572/",
-          "pubDate": "2026-11-25T14:46:00.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/oh-783x522.jpg",
-          "summary": "글로벌 여행 플랫폼 클룩이 한국인 이용자의 일본 호텔 예약 데이터를 분석한 결과, 올해 10월 1일부터 11월 15일까지 예약 건수가 전년 동기 대비 13.9% 증가했다. 온천 명소 6곳의 예약은 여름 대비 153.8%, 설경 명소 5곳은 61.9% 늘었으며 유후인이 ... The post 클룩, 일본 겨울여행 수요 온천·설경 명소로 집중…유후인 호텔 예약 415.8% 증가 appeared first on 벤처스퀘어.",
+          "title": "엘리스스쿨, 충남교육청에 생성형 AI 공급…교원 행정업무부터 학생 자기주도학습까지",
+          "link": "https://www.venturesquare.net/1131666/",
+          "pubDate": "2026-11-26T00:33:05.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/elis-2-789x444.jpg",
+          "summary": "엘리스그룹의 공교육 AI 교육 솔루션 브랜드 엘리스스쿨이 충남교육청 교육 플랫폼 ‘마주온’에 생성형 AI 솔루션 ‘헬피챗’을 공급했다. 교원용 서비스는 HWP 문서 작성과 맞춤형 AI 에이전트 제작을 지원하며, 학생용 서비스는 학습자료 기반 자기주도학습과 AI 대화기록... The post 엘리스스쿨, 충남교육청에 생성형 AI 공급…교원 행정업무부터 학생 자기주도학습까지 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "Klook",
-            "겨울여행",
-            "벳푸"
+            "AI에이전트",
+            "HelpyChat",
+            "공교육AI"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "헥토이노베이션, 복지포인트 실증에서 기업 결제까지…카이아와 스테이블코인 인프라 구축",
-          "link": "https://www.venturesquare.net/1131569/",
-          "pubDate": "2026-11-25T14:43:07.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/1795562063542-789x444.jpeg",
-          "summary": "헥토이노베이션이 카이아 DLT 재단과 블록체인 지갑 인프라 및 스테이블코인 결제·정산 사업 협력을 위한 업무협약을 체결했다. 양측은 헥토그룹 임직원 복지포인트 ‘헥토코인’을 활용해 디지털자산의 발행부터 지급, 결제, 소각까지 전 과정을 제한된 환경에서 검증해 왔다. 이... The post 헥토이노베이션, 복지포인트 실증에서 기업 결제까지…카이아와 스테이블코인 인프라 구축 appeared first on 벤처스퀘어.",
+          "title": "액션파워 다글로, 회의 기록을 조직의 업무 자산으로…‘다글로챗’ 출시",
+          "link": "https://www.venturesquare.net/1131659/",
+          "pubDate": "2026-11-26T00:28:54.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/chat-744x522.jpg",
+          "summary": "AI 노트테이커 다글로의 운영사 액션파워가 여러 회의 기록을 통합 검색하고 후속 업무를 지원하는 AI 채팅 기능 ‘다글로챗’을 출시했다. 최근 1년간 다글로에서 생성된 보드는 약 2,000만개로 총 1,591만 시간 분량에 달한다. 다글로챗은 온톨로지와 검색증강생성(R... The post 액션파워 다글로, 회의 기록을 조직의 업무 자산으로…‘다글로챗’ 출시 appeared first on 벤처스퀘어.",
           "keywords": [
             "뉴스 모음",
             "뉴스&트렌드",
             "뉴스콘텐츠",
-            "KAIA",
-            "기업결제",
-            "디지털월렛"
+            "AI노트테이커",
+            "AI에이전트",
+            "AI회의록"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:40.770Z",
+      "fetchedAt": "2026-11-26T03:57:34.824Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -806,82 +798,79 @@
       "subcategory": "국내 스타트업",
       "items": [
         {
-          "title": "기록 대신 취향, 도심 대신 로컬…클투가 꼽은 2027 러닝 키워드 ‘SHEEEEP’",
-          "link": "https://platum.kr/archives/299484?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b8%25b0%25eb%25a1%259d-%25eb%258c%2580%25ec%258b%25a0-%25ec%25b7%25a8%25ed%2596%25a5-%25eb%258f%2584%25ec%258b%25ac-%25eb%258c%2580%25ec%258b%25a0-%25eb%25a1%259c%25ec%25bb%25ac%25ed%2581%25b4%25ed%2588%25ac%25ea%25b0%2580-%25ea%25bc%25bd%25ec%259d%2580-2027-%25eb%259f%25ac%25eb%258b%259d",
-          "pubDate": "2026-11-25T11:37:41.000Z",
-          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/cltoo_seminar_title_speaker-1024x768.jpg",
-          "summary": "올해 국내 오프라인 러닝 대회 706건 가운데 252건, 35.7%가 10~11월에 몰렸다. 수도권 개최 비중은 45.9%였다. 러닝 액티베이션 플랫폼 클투(CLTOO)가 25일 처음 공개한 ‘2026 국내 러닝 대회 리포트’의 수치다. 클투는 이날 서울 중구 한국관광공사 서울센터에서 ‘2027 러닝 트렌드 세미나’를 열었다. 러닝 업계 관계자와 신청한 일반 러너 60여 명이 참석했다. 문현우 공동대표는 1시간 30분 넘게 국내외 시장 ... 더 읽기",
+          "title": "30대로 넓어진 단기 알바, 근무 건수 증가율 20대 앞질러",
+          "link": "https://platum.kr/archives/299512?utm_source=rss&utm_medium=rss&utm_campaign=30%25eb%258c%2580%25eb%25a1%259c-%25eb%2584%2593%25ec%2596%25b4%25ec%25a7%2584-%25eb%258b%25a8%25ea%25b8%25b0-%25ec%2595%258c%25eb%25b0%2594-%25ea%25b7%25bc%25eb%25ac%25b4-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a6%259d%25ea%25b0%2580%25ec%259c%25a8-20%25eb%258c%2580-%25ec%2595%259e%25ec%25a7%2588%25eb%259f%25ac",
+          "pubDate": "2026-11-25T23:54:45.000Z",
+          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-389-1024x768.png",
+          "summary": "단기 아르바이트 시장에서 30대의 근무가 20대보다 빠르게 늘고 있다. 실시간 단기 일자리 매칭 플랫폼 ‘급구’를 운영하는 니더가 2025년과 2026년 1~10월 연령대별 앱 이용 데이터를 비교한 결과, 30대의 근무 완료 건수는 전년 같은 기간보다 72% 증가해 20대 증가율(39%)과 20대 이상 전체 평균(51%)을 웃돌았다. 같은 기간 급구에서 일자리에 지원한 30대 구직자 수는 20% 늘어 20대 이상 전체 ... 더 읽기",
+          "keywords": [
+            "트렌드"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "대기업 법무팀에 들어간 법률 AI, 20대 그룹 대부분이 쓴다… 슈퍼로이어 기업 도입 성과",
+          "link": "https://platum.kr/archives/299507?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ea%25b8%25b0%25ec%2597%2585-%25eb%25b2%2595%25eb%25ac%25b4%25ed%258c%2580%25ec%2597%2590-%25eb%2593%25a4%25ec%2596%25b4%25ea%25b0%2584-%25eb%25b2%2595%25eb%25a5%25a0-ai-20%25eb%258c%2580-%25ea%25b7%25b8%25eb%25a3%25b9-%25eb%258c%2580%25eb%25b6%2580%25eb%25b6%2584%25ec%259d%25b4-%25ec%2593%25b4",
+          "pubDate": "2026-11-25T23:48:27.000Z",
+          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-388-604x1024.png",
+          "summary": "국내 20대 그룹 가운데 18곳의 법무 조직이 법률 AI ‘슈퍼로이어’를 쓰고 있다. 한 계열사에서 쓰기 시작하면 다른 계열사로 번지는 경우가 많았다. 리걸테크 기업 로앤컴퍼니는 슈퍼로이어의 기업 도입 성과를 26일 공개했다. 로앤컴퍼니는 2024년 9월부터 사내 변호사 등 법률 전문가가 있는 기업 법무 조직에 슈퍼로이어를 공급해 왔다. 올해 3분기 말 기준 슈퍼로이어를 쓰는 기업은 189곳으로, 1년 전보다 ... 더 읽기",
+          "keywords": [
+            "스타트업",
+            "로앤컴퍼니",
+            "성과",
+            "슈퍼로이어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "제주가 안고 있는 지역 과제, 스타트업 사업으로 푼다… 코스포·제주도 ‘창업도시’ 협약",
+          "link": "https://platum.kr/archives/299505?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%259c%25ec%25a3%25bc%25ea%25b0%2580-%25ec%2595%2588%25ea%25b3%25a0-%25ec%259e%2588%25eb%258a%2594-%25ec%25a7%2580%25ec%2597%25ad-%25ea%25b3%25bc%25ec%25a0%259c-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2582%25ac%25ec%2597%2585%25ec%259c%25bc%25eb%25a1%259c-%25ed%2591%25bc%25eb%258b%25a4",
+          "pubDate": "2026-11-25T23:45:38.000Z",
+          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-387-1024x601.png",
+          "summary": "지역 현안을 스타트업의 사업 기회로 연결하겠다는 제주의 ‘창업도시’ 구상에 스타트업 단체가 민간 파트너로 합류한다. 코리아스타트업포럼(코스포)은 25일 서울 강남구 마루360에서 제주특별자치도와 ‘창업도시 제주 실현을 위한 업무협약’을 맺었다고 26일 밝혔다. 두 기관의 협력은 지난 9월부터 이어져 왔다. 당시 제주시 한경면 조수리 일대에서 ‘스타트업이 제주를 그리다’ 행사를 함께 열어 제주의 주요 현안을 공유하고 스타트업이 이를 풀 방안을 논의했다. ... 더 읽기",
+          "keywords": [
+            "경제",
+            "제주특별자치도",
+            "코리아스타트업포럼"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "핵융합로 ‘블랑켓’, 연구실 기술을 산업·창업으로 잇는 논의 열린다",
+          "link": "https://platum.kr/archives/299503?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b5%25ec%259c%25b5%25ed%2595%25a9%25eb%25a1%259c-%25eb%25b8%2594%25eb%259e%2591%25ec%25bc%2593-%25ec%2597%25b0%25ea%25b5%25ac%25ec%258b%25a4-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%2584-%25ec%2582%25b0%25ec%2597%2585%25c2%25b7%25ec%25b0%25bd%25ec%2597%2585%25ec%259c%25bc%25eb%25a1%259c-%25ec%259e%2587",
+          "pubDate": "2026-11-25T23:43:06.000Z",
+          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-386-724x1024.png",
+          "summary": "핵융합로 안에서 플라즈마를 감싸는 부품 ‘블랑켓(Blanket)’을 산업과 창업으로 연결하는 방안을 연구자, 기업, 투자자가 함께 논의하는 자리가 대전에서 열린다. 딥테크 액셀러레이터 블루포인트파트너스는 한국핵융합가속기기술산업협회(KAFAT), 과학기술사업화진흥원(COMPA)과 함께 다음 달 2일 대전 호텔 인터시티에서 ‘2026년 핵융합 퓨전 빌더스 1차 세미나’를 연다고 26일 밝혔다. 블랑켓은 핵융합 반응에서 나오는 중성자를 받아 열에너지로 바꾸고, 핵융합 연료인 삼중수소를 만들어내는 역할을 한다. 핵융합로를 발전소로 ... 더 읽기",
           "keywords": [
             "이벤트",
-            "스타트업",
-            "2027러닝트렌드세미나",
-            "러닝트렌드",
-            "클투"
+            "블루포인트파트너스",
+            "한국핵융합가속기기술산업협회"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "녹조·홍수 자주 들여다볼 수자원 전용 초소형위성, 나라스페이스가 만든다",
-          "link": "https://platum.kr/archives/299479?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2585%25b9%25ec%25a1%25b0%25c2%25b7%25ed%2599%258d%25ec%2588%2598-%25ec%259e%2590%25ec%25a3%25bc-%25eb%2593%25a4%25ec%2597%25ac%25eb%258b%25a4%25eb%25b3%25bc-%25ec%2588%2598%25ec%259e%2590%25ec%259b%2590-%25ec%25a0%2584%25ec%259a%25a9-%25ec%25b4%2588%25ec%2586%258c%25ed%2598%2595%25ec%259c%2584%25ec%2584%25b1",
-          "pubDate": "2026-11-25T07:54:13.000Z",
-          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/Naraspace-CI_color-1024x180.png",
-          "summary": "하천과 저수지, 댐을 위성으로 자주 들여다보며 녹조 확산과 수해 피해를 살피는 수자원 전용 초소형위성 4기를 나라스페이스테크놀로지가 만든다. 나라스페이스는 한국수자원공사(K-water)와 약 101억원(부가가치세 별도) 규모의 ‘K-waterSAT 수자원 초소형 군집위성 개발 사업’ 공급계약을 맺었다고 25일 밝혔다. 지난 10월 26일 우선협상대상자로 선정된 뒤 협상을 거쳐 최종 계약에 이르렀다. 계약에 따라 나라스페이스는 수자원 모니터링용 광학 초소형위성 4기의 설계·제작·시험을 맡고, 발사 ... 더 읽기",
+          "title": "수능 끝난 고3, 첫 알바로 가장 많이 고른 건 ‘서빙’",
+          "link": "https://platum.kr/archives/299500?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2588%2598%25eb%258a%25a5-%25eb%2581%259d%25eb%2582%259c-%25ea%25b3%25a03-%25ec%25b2%25ab-%25ec%2595%258c%25eb%25b0%2594%25eb%25a1%259c-%25ea%25b0%2580%25ec%259e%25a5-%25eb%25a7%258e%25ec%259d%25b4-%25ea%25b3%25a0%25eb%25a5%25b8-%25ea%25b1%25b4-%25ec%2584%259c%25eb%25b9%2599",
+          "pubDate": "2026-11-25T23:39:45.000Z",
+          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-385-1024x576.png",
+          "summary": "수능을 마친 고3 수험생들이 시험 직후 일주일 동안 가장 많이 지원한 아르바이트는 음식점 서빙이었다. 지역 기반 구인구직 서비스 당근알바가 수능 당일부터 일주일간(11월 19~25일) 고3 수험생 연령대인 2008년생 이용자의 알바 지원 데이터를 분석한 결과를 26일 공개했다. 수능이 끝나자 지원은 한꺼번에 몰렸다. 수능 직후 일주일간 2008년생 이용자의 알바 지원 건수는 직전 일주일(11월 12~18일)보다 95% 늘었다. 지난해 수능 ... 더 읽기",
           "keywords": [
-            "스타트업",
-            "나라스페이스테크놀로지",
-            "위성",
-            "한국수자원공사"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "[BLT칼럼] AI가 일자리를 가져가는 시대, 내 아이에게 물려줄 것은 ‘지식재산’입니다",
-          "link": "https://platum.kr/archives/299476?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-ai%25ea%25b0%2580-%25ec%259d%25bc%25ec%259e%2590%25eb%25a6%25ac%25eb%25a5%25bc-%25ea%25b0%2580%25ec%25a0%25b8%25ea%25b0%2580%25eb%258a%2594-%25ec%258b%259c%25eb%258c%2580-%25eb%2582%25b4-%25ec%2595%2584%25ec%259d%25b4%25ec%2597%2590%25ea%25b2%258c-%25eb%25ac%25bc%25eb%25a0%25a4",
-          "pubDate": "2026-11-25T07:49:49.000Z",
-          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-383.png",
-          "summary": "– 20년차 변리사가 말하는 AI 시대의 생존 전략, ‘권리자’가 되는 법 프롤로그 | 아이의 장래희망을 묻다가 말문이 막혔다 얼마 전 저녁 식탁에서 아이에게 물었습니다. “커서 뭐 하고 싶어?” 아이는 잠시 고민하더니 되물었습니다. “아빠, 그런데 그 일도 나중엔 AI가 하는 거 아니야?” 웃어넘기려 했지만 말문이 막혔습니다. 20년 동안 수많은 발명과 브랜드를 지켜온 변리사였지만, 그 질문에는 바로 ... 더 읽기",
-          "keywords": [
-            "트렌드",
-            "BLT",
-            "김종국 변리사",
-            "일자리"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "진료 대화 듣고 차트 쓰는 AI, 동네 의원에서 대학병원으로",
-          "link": "https://platum.kr/archives/299473?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2584%25eb%25a3%258c-%25eb%258c%2580%25ed%2599%2594-%25eb%2593%25a3%25ea%25b3%25a0-%25ec%25b0%25a8%25ed%258a%25b8-%25ec%2593%25b0%25eb%258a%2594-ai-%25eb%258f%2599%25eb%2584%25a4-%25ec%259d%2598%25ec%259b%2590%25ec%2597%2590%25ec%2584%259c-%25eb%258c%2580%25ed%2595%2599%25eb%25b3%2591%25ec%259b%2590%25ec%259c%25bc",
-          "pubDate": "2026-11-25T07:44:54.000Z",
-          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-382-1024x595.png",
-          "summary": "의사 한 명이 한 달 평균 713건의 진료 기록을 AI에 맡기고 있다. 가장 많이 쓰는 의사는 한 달 2,109건을 AI로 기록했다. 하루 진료 대부분을 AI 차팅으로 처리하는 셈이다. 의료 AI 스타트업 스튜디오키코가 지난 5월 정식 출시한 앰비언트 AI 스크라이브 ‘니어닥(Neardoc)’의 이용 현황이다. 앰비언트 AI 스크라이브는 진료실 대화를 옆에서 듣고 진료 기록을 대신 작성하는 AI 서비스를 ... 더 읽기",
-          "keywords": [
-            "스타트업"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "크래프톤, 자체 개발 LLM ‘라온-1 미니’ 정식 출시… 상업적 무료 공개",
-          "link": "https://platum.kr/archives/299455?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2581%25ac%25eb%259e%2598%25ed%2594%2584%25ed%2586%25a4-%25ec%259e%2590%25ec%25b2%25b4-%25ea%25b0%259c%25eb%25b0%259c-llm-%25eb%259d%25bc%25ec%2598%25a8-1-%25eb%25af%25b8%25eb%258b%2588-%25ec%25a0%2595%25ec%258b%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%2583%2581%25ec%2597%2585%25ec%25a0%2581",
-          "pubDate": "2026-11-25T04:59:18.000Z",
-          "image": "https://cdn.platum.kr/wp-content/uploads/2026/11/image-381-1024x534.png",
-          "summary": "크래프톤이 자체 개발한 거대언어모델(LLM) ‘라온-1 미니(Raon-1 mini)’의 정식 버전을 공개했다. 프리뷰 버전을 낸 뒤 추론 능력과 복잡한 작업 수행 성능을 끌어올리고, 작업에 따라 생각하는 깊이를 고를 수 있는 기능을 더했다. 라온-1 미니는 크래프톤이 모델 구조 설계부터 처음부터 학습시키는 ‘프롬 스크래치’ 학습까지 전 과정을 직접 수행한 30B급 모델이다. 30B는 모델의 규모를 나타내는 파라미터가 약 300억 개라는 ... 더 읽기",
-          "keywords": [
-            "테크 & 과학"
+            "트렌드"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:41.092Z",
+      "fetchedAt": "2026-11-26T03:57:35.088Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -978,7 +967,7 @@
           "summaryKo": "Figma와 CEO가 현재 직원으로부터 성희롱 및 차별 혐의로 소송을 당하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:46.509Z",
+      "fetchedAt": "2026-11-26T03:57:35.182Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -986,6 +975,42 @@
       "category": "창업·스타트업",
       "subcategory": "창업 노하우",
       "items": [
+        {
+          "title": "젠엑시스, 투자유치만큼 중요한 창업가의 회복력…기보벤처캠프서 새로운 액셀러레이팅 시도",
+          "link": "https://www.venturesquare.net/1131687/",
+          "pubDate": "2026-11-26T00:39:40.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/unnamed-84-696x522.jpg",
+          "summary": "글로벌 액셀러레이터 젠엑시스가 기술보증기금 기보벤처캠프 제19기 참여기업을 대상으로 통합 네트워킹 행사를 개최했다. 이번 행사는 기존 투자유치와 사업화 중심의 창업교육에서 벗어나 명상, 체력관리, 조직 리더십을 결합한 체험형 프로그램으로 구성됐다. 참여기업들은 조직 운... The post 젠엑시스, 투자유치만큼 중요한 창업가의 회복력…기보벤처캠프서 새로운 액셀러레이팅 시도 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "스타트업 가이드",
+            "GENAXIS",
+            "기보벤처캠프",
+            "기보벤처캠프19기",
+            "기술보증기금",
+            "리더십"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "[VS 현장] “세상을 바꾸는 비즈니스는 질문에서 시작된다”…현대차 정몽구 재단이 키우는 임팩트 기업가",
+          "link": "https://www.venturesquare.net/1131471/",
+          "pubDate": "2026-11-25T23:05:40.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/cmk5-696x522.jpeg",
+          "summary": "현대차 정몽구 재단이 25일 서울 서초구 플렌티컨벤션에서 ‘2026 임팩트프러너 데이’를 개최했다. 행사에는 CMK 임팩트프러너 14기 펠로와 캠퍼스프러너 1기 우수팀, 선배 기업가, 투자자 및 정책 관계자들이 참여해 임팩트 기업가정신과 지속 가능한 창업 생태계의 조건... The post [VS 현장] “세상을 바꾸는 비즈니스는 질문에서 시작된다”…현대차 정몽구 재단이 키우는 임팩트 기업가 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "Special Post",
+            "스타트업 가이드",
+            "현장스케치",
+            "CMK임팩트프러너",
+            "CMK캠퍼스프러너",
+            "기업가정신"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "중기부, 45년 넘어 100년 기업으로…2026년 명문장수기업 12개사 선정·자격 연장",
           "link": "https://www.venturesquare.net/1131522/",
@@ -1039,45 +1064,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "KOSA, AI 시대의 경쟁력은 ‘알파쉽’…제40회 런앤그로우 포럼서 2027 소비 트렌드 조망",
-          "link": "https://www.venturesquare.net/1131313/",
-          "pubDate": "2026-11-25T01:10:19.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/KOSA-5-789x493.jpg",
-          "summary": "한국인공지능·소프트웨어산업협회(KOSA)가 국내 AI·소프트웨어 기업 경영진 100여 명이 참석한 가운데 제40회 런앤그로우 포럼을 개최했다. 최지혜 서울대학교 소비트렌드연구센터 연구위원은 ‘트렌드 코리아 2027’을 주제로 강연하며 독자적인 판단과 실행력을 갖춘 존재... The post KOSA, AI 시대의 경쟁력은 ‘알파쉽’…제40회 런앤그로우 포럼서 2027 소비 트렌드 조망 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "AI산업",
-            "CES2027",
-            "KOSA",
-            "런앤그로우포럼",
-            "리텐션"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "인천TP·셀트리온, 한·중·덴마크 바이오 스타트업 기술 검증…후속 협력·투자 모색한다",
-          "link": "https://www.venturesquare.net/1131202/",
-          "pubDate": "2026-11-24T12:04:42.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/20-789x444.jpg",
-          "summary": "인천테크노파크와 셀트리온이 인천 송도국제도시에서 국내외 바이오 스타트업 5개사와 글로벌 오픈이노베이션 성과공유회 및 투자연계 프로그램을 개최했다. 참여기업들은 약 3개월간 진행한 기술진단평가와 협력 성과를 발표했으며, 이미타사이언스와 사이맵, 이뮨온코가 우수기업으로 선... The post 인천TP·셀트리온, 한·중·덴마크 바이오 스타트업 기술 검증…후속 협력·투자 모색한다 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "스타트업 가이드",
-            "글로벌바이오",
-            "기술검증",
-            "기술이전",
-            "바이오스타트업",
-            "바이오커넥트"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:48.796Z",
+      "fetchedAt": "2026-11-26T03:57:36.371Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1086,34 +1075,51 @@
       "subcategory": "지원사업",
       "items": [
         {
-          "title": "중소벤처기업부, '27년 스마트공장 구축지원사업 참여기업 모집 - 뉴스다",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BSFBjeXlGaXBEQW9mY0poODZpVW1SM3RnT0tmQ2tud0syXy1XTldCU2drbDNfOUhaV0xDeVVzd0xpQllvemplc1ZOVFQxVm95NzBremMwRW15NWx5UVNj?oc=5",
-          "pubDate": "2026-11-23T11:10:46.000Z",
+          "title": "원주시 노인일자리·사회활동 지원사업 참여자 모집 - 강원일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENDYwZkRGdndBTElvbXFDd21ZSzhsd0pHUVQ0VzZpMi1oT09GQU1aeDl4UVFUQl9TbWt4NThGY1Yydk1DZ1NUX1o0TmV0UUIxZndhZndXWlozb0k?oc=5",
+          "pubDate": "2026-11-26T01:44:24.000Z",
           "image": null,
-          "summary": "중소벤처기업부, '27년 스마트공장 구축지원사업 참여기업 모집 뉴스다",
+          "summary": "원주시 노인일자리·사회활동 지원사업 참여자 모집 강원일보",
           "keywords": [
-            "중소벤처기업부",
-            "27년",
-            "스마트공장",
-            "구축지원사업",
-            "참여기업"
+            "원주시",
+            "노인일자리",
+            "사회활동",
+            "지원사업",
+            "참여자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "[2026 행감 포커스 | 기후에너지과] 김포시, 도시가스 공급 취약지역 지원사업 공고 절차 미이행…시의회 시정 요구 - 김포시민신문",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92SW5qRklpUnpjMms2dGJvQVFlTTUydEdfM1BURUdlQTdjS3NkSVhuN0w1cDdpMElXdmRzMHljWm9NUQ?oc=5",
-          "pubDate": "2026-11-25T07:11:00.000Z",
+          "title": "원주시, ‘2027년 노인일자리 및 사회활동 지원사업’ 모집 - 이코노믹포스트",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56Y2RQQ2ljNG5mNEtYUXEtdUpPclhRSUdhNFRKWGtqOTE1QjkyS0V4UW1NMWNfdEpHVVdJRTFja3BNbjBtbTJFNmF1ekw?oc=5",
+          "pubDate": "2026-11-26T02:07:15.000Z",
           "image": null,
-          "summary": "[2026 행감 포커스 | 기후에너지과] 김포시, 도시가스 공급 취약지역 지원사업 공고 절차 미이행…시의회 시정 요구 김포시민신문",
+          "summary": "원주시, ‘2027년 노인일자리 및 사회활동 지원사업’ 모집 이코노믹포스트",
           "keywords": [
-            "2026",
-            "행감",
-            "포커스",
-            "기후에너지과",
-            "김포시"
+            "원주시",
+            "2027년",
+            "노인일자리",
+            "사회활동",
+            "지원사업"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "의정부시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 - 경기종합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nbWREbF9BR3d3ZlBMeUhyMGp3TDV0eElVRm9qRFNTQ3ZjUWpzZFlMNVVJT2tsazF2NVVHYWFPS3VnTjFnaU9QWjBCRWhoT1EzQlI5YjA1NGs3Z2pWU1hQU2tUOXBzTWFyMjlpdHNWbWJBMUR2?oc=5",
+          "pubDate": "2026-11-26T01:51:19.000Z",
+          "image": null,
+          "summary": "의정부시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 경기종합뉴스",
+          "keywords": [
+            "의정부시",
+            "2027년",
+            "노인일자리",
+            "사회활동",
+            "지원사업"
           ],
           "isForeign": false,
           "titleKo": null,
@@ -1137,111 +1143,94 @@
           "summaryKo": null
         },
         {
-          "title": "중기부, '스마트공장 구축지원사업' 공모…최대 12억원 지원 - 연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaEp0Ml84SzR3ZzRiQUcxamJUWG14bUctYXNIV2RLRDRGRWZuZkVDY05IaEs1YUFpaXZkZ2J6N0FPZkVlM1IwQzN5U0djVEptYW1nXy1tXzRfZ0nSAWBBVV95cUxPTmdnM3JnMHVvRGVfLUFFbkpaemNGQVhNZmZubW95YzJHV0FmazZCUXlldmplcTA5TXJDS3EwZW9naVpDN0cyZF9jX0lXbnBOWjJhUS1GRjZZVnc5YWN4Z3M?oc=5",
-          "pubDate": "2026-11-23T03:00:02.000Z",
+          "title": "남해군, 2027년 청년어촌정착지원 사업 신청자 모집 - 경남도민뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VQkpEVk9BdjFxN3VHYzQ2bHF0N29tMTdONDI0LUxhRVpJd0Q0MXRtYTFIeG1wRDhkZWUyVDB6QnpxeWhFVDBMM1BmTGlYZFBTejIxMTZCX3JwQjh2YTdleEJWbw?oc=5",
+          "pubDate": "2026-11-26T01:10:07.000Z",
           "image": null,
-          "summary": "중기부, '스마트공장 구축지원사업' 공모…최대 12억원 지원 연합뉴스",
+          "summary": "남해군, 2027년 청년어촌정착지원 사업 신청자 모집 경남도민뉴스",
           "keywords": [
-            "중기부",
-            "스마트공장",
-            "구축지원사업",
-            "공모",
-            "최대"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "무안군, 2027년 노인 일자리 지원사업 참가자 모집 - https://www.theleader.co.kr/",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwbFNPazQ1cHRGSS05aGlibUFkZmxmeXhQM3dRaThVQTRRRUs5N3pQMjhaa2pxQWZObEc1Ri1uZ2kyTG90XzZJTldiUG5mT0Fsd3RJdFF1d196c2dqY293dndIS2pjVy1aaW00cVdn?oc=5",
-          "pubDate": "2026-11-25T13:55:48.000Z",
-          "image": null,
-          "summary": "무안군, 2027년 노인 일자리 지원사업 참가자 모집 https://www.theleader.co.kr/",
-          "keywords": [
-            "무안군",
+            "남해군",
             "2027년",
-            "노인",
-            "일자리",
-            "지원사업"
+            "청년어촌정착지원",
+            "사업",
+            "신청자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-25T21:05:49.276Z",
+      "fetchedAt": "2026-11-26T03:57:36.802Z",
       "error": null
     }
   },
   "trendingDomestic": [
     {
-      "key": "ces2027",
-      "label": "CES2027",
-      "count": 2,
-      "rank": 1,
-      "change": "new"
-    },
-    {
-      "key": "일자리",
-      "label": "일자리",
-      "count": 2,
-      "rank": 2,
-      "change": "new"
-    },
-    {
       "key": "경제",
       "label": "경제",
-      "count": 5,
-      "rank": 3,
+      "count": 6,
+      "rank": 1,
+      "change": "up"
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 2,
+      "rank": 2,
       "change": "up"
     },
     {
       "key": "뉴스 모음",
       "label": "뉴스 모음",
       "count": 5,
-      "rank": 4,
+      "rank": 3,
       "change": "up"
     },
     {
       "key": "뉴스&트렌드",
       "label": "뉴스&트렌드",
       "count": 5,
-      "rank": 5,
-      "change": "new"
+      "rank": 4,
+      "change": "up"
     },
     {
       "key": "뉴스콘텐츠",
       "label": "뉴스콘텐츠",
       "count": 5,
-      "rank": 6,
-      "change": "new"
+      "rank": 5,
+      "change": "up"
     },
     {
       "key": "스타트업 가이드",
       "label": "스타트업 가이드",
       "count": 5,
-      "rank": 7,
-      "change": "down"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 4,
-      "rank": 8,
+      "rank": 6,
       "change": "up"
     },
     {
-      "key": "구축지원사업",
-      "label": "구축지원사업",
+      "key": "2027년",
+      "label": "2027년",
+      "count": 3,
+      "rank": 7,
+      "change": "new"
+    },
+    {
+      "key": "노인일자리",
+      "label": "노인일자리",
+      "count": 3,
+      "rank": 8,
+      "change": "new"
+    },
+    {
+      "key": "사회활동",
+      "label": "사회활동",
       "count": 3,
       "rank": 9,
       "change": "new"
     },
     {
-      "key": "스마트공장",
-      "label": "스마트공장",
+      "key": "지원사업",
+      "label": "지원사업",
       "count": 3,
       "rank": 10,
       "change": "new"
@@ -1277,7 +1266,7 @@
       "label": "AI",
       "count": 4,
       "rank": 4,
-      "change": "up",
+      "change": "same",
       "labelKo": "AI"
     },
     {
@@ -1285,24 +1274,24 @@
       "label": "Google Ads",
       "count": 4,
       "rank": 5,
-      "change": "down",
-      "labelKo": "다음을 따르세요"
-    },
-    {
-      "key": "platforms",
-      "label": "Platforms",
-      "count": 3,
-      "rank": 6,
       "change": "same",
-      "labelKo": "플랫폼"
+      "labelKo": "다음을 따르세요"
     },
     {
       "key": "banking and consumer regulatory policy",
       "label": "Banking and Consumer Regulatory Policy",
       "count": 2,
+      "rank": 6,
+      "change": "up",
+      "labelKo": "은행 및 소비자 규제 정책"
+    },
+    {
+      "key": "charts",
+      "label": "Charts",
+      "count": 2,
       "rank": 7,
       "change": "new",
-      "labelKo": "은행 및 소비자 규제 정책"
+      "labelKo": "차트"
     },
     {
       "key": "how",
@@ -1317,16 +1306,16 @@
       "label": "Other Announcements",
       "count": 2,
       "rank": 9,
-      "change": "up",
+      "change": "same",
       "labelKo": "기타 공지 사항"
     },
     {
-      "key": "privacy",
-      "label": "Privacy",
+      "key": "platforms",
+      "label": "Platforms",
       "count": 2,
       "rank": 10,
-      "change": "new",
-      "labelKo": "개인 정보 보호 정책"
+      "change": "down",
+      "labelKo": "플랫폼"
     }
   ]
 }
