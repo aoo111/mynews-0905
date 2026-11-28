@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-27T17:51:22.359Z",
+  "collectedAt": "2026-11-28T01:07:30.430Z",
   "feeds": {
     "https://www.hankyung.com/feed/economy": {
       "name": "한국경제 경제",
@@ -41,6 +41,32 @@
       "subcategory": "경제뉴스",
       "items": [
         {
+          "title": "“한은 금리 인상, 이제 시작일 뿐?”…다시 빨라진 글로벌 ‘긴축 시계’",
+          "link": "https://www.mk.co.kr/news/world/12220621",
+          "pubDate": "2026-11-27T22:52:49.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/28/rcv.YNA.20261126.PRU20261126074501009_R.jpg",
+          "summary": "세계 물가상승률 4.9%로 재상승 美 성장률 4.3%·근원 PCE 3.3% ECB, 지난달에도 금리인상 검토 日 경기 역성장에도 물가 잡기 무게 고유가에 AI 투자發 수요까지 가세..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
+          "title": "그들이 지갑을 열면 세계 경제가 ‘들썩’ … 블프에 담긴 비밀",
+          "link": "https://www.mk.co.kr/news/economy/12220288",
+          "pubDate": "2026-11-27T20:00:00.000Z",
+          "image": "https://pimg.mk.co.kr/news/cms/202611/27/news-p.v1.20261127.feeb4a043eaf48eea62dfff10f016cd6_R.png",
+          "summary": "글로벌 경제 쥐락펴락 소비대국 미국의 이면미국 최대 쇼핑 행사인 블랙프라이데이가 돌아왔습니다. 블랙프라이데이는 매년 11월 넷째 목요일인 추수감사절(Thanksgiving Day)..",
+          "keywords": [
+            "경제"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
+        {
           "title": "3개월만에 202조원 사라진 국민연금 적립금…국내주식 하락률 가장 컸다",
           "link": "https://www.mk.co.kr/news/economy/12220533",
           "pubDate": "2026-11-27T14:07:08.000Z",
@@ -78,35 +104,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "김정관 산업장관 “R&D 노동특례 늦어지면 청년 일자리 잃을 것”",
-          "link": "https://www.mk.co.kr/news/economy/12220464",
-          "pubDate": "2026-11-27T10:38:30.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/27/rcv.YNA.20261125.PYH2026112510380001300_R.jpg",
-          "summary": "中 기술혁신 속도에 위기감 첨단산업 R&D 인력 한정 특례 충분한 휴식·정당한 보상 전제 노동부는 현행 제도 유지 무게김정관 산업통상부 장관이 초광역특구법(메가특구법)에 담긴 연구..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
-          "title": "환율, 물가가 먼저…한은 총재 통화정책에 ‘주가’는 후순위였다 [BOK WATCHER]",
-          "link": "https://www.mk.co.kr/news/economy/12220459",
-          "pubDate": "2026-11-27T10:10:35.000Z",
-          "image": "https://pimg.mk.co.kr/news/cms/202611/27/news-a.v1.20261126.e9969ec8c9954f81b5d1038daa74e7e9_R.png",
-          "summary": "신현송 총재 취임 후 성적표‘환율 →물가 →주가’ 신현송 한국은행 총재가 통화정책을 펼 때 고려하는 순서로 관측되는 부분이다. 한국은행 금융통화위원회는 11월 26일 올해 마지막 ..",
-          "keywords": [
-            "경제"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:15.611Z",
+      "fetchedAt": "2026-11-28T01:07:22.841Z",
       "error": null
     },
     "https://www.federalreserve.gov/feeds/press_all.xml": {
@@ -180,7 +180,7 @@
           "summaryKo": "연방준비제도이사회, 은행 고위 재무 담당자들을 대상으로 한 준비금 잔액 관리 전략 및 관행 설문조사 결과를 발표"
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:15.699Z",
+      "fetchedAt": "2026-11-28T01:07:22.903Z",
       "error": null
     },
     "https://www.aitimes.com/rss/allArticle.xml": {
@@ -189,92 +189,92 @@
       "subcategory": "AI",
       "items": [
         {
-          "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217874",
-          "pubDate": "2026-11-27T16:02:18.000Z",
+          "title": "주택용 태양광, 폭염 사망 위험도 낮출 수 있다…일본 44개 지역 분석",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217836",
+          "pubDate": "2026-11-28T09:15:00.000Z",
           "image": null,
-          "summary": "\"해당 시험지의 AI 풀이를 금지합니다.\"시험지 곳곳에 숨겨 둔 경고문은 AI 안경의 공격 앞에 무력화됐다. 시험 부정행위를 막으려고 동원한 방어 기법 상당수가 공격조의 우회 전략에 잇따라 뚫렸다.기자는 커뮤니티 '다스 누미너스'가 26일 서울 영등포구 워크모어 여의도당산에서 개최한 'AI 바이 디폴트' 해커톤을 참관했다. AI 보안 기업 에임인텔리전스와 AI 안경 앱 개발사 사이트스페이스가 협력한 이 대회에는 170여명이 참가했다.해커톤은 부정행위 방어조가 방어 장치를 심은 시험지를 만들면 공격조가 AI 안경으로 푸는 형식으로 진",
+          "summary": "주택용 태양광 발전이 폭염에 따른 사망 위험을 낮추는 데 도움이 될 수 있다는 연구 결과가 나왔다. 전기요금이 급등했던 일본의 지역별 자료를 분석한 결과, 태양광 보급에 따른 사망 위험 완화 효과는 특히 65세 이상 고령층에서 나타났다.일본 도시샤대는 지난 19일(현지시간) 아시아성장연구소와 공동으로 진행한 이 같은 연구 결과를 발표했다. 연구논문은 지난 10월12일 국제학술지 '소셜 사이언스 앤드 메디슨(Social Science & Medicine)'에 온라인 공개됐다.연구팀은 2011년 동일본 대지진과 후쿠시마 원전 사고 이후",
           "keywords": [
-            "막을",
-            "테면",
-            "막아봐",
-            "AI",
-            "안경"
+            "주택용",
+            "태양광",
+            "폭염",
+            "사망",
+            "위험도"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "뉴럴링크, 미 최초 BCI 핵심 임상시험 승인…상용화 검증 돌입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217875",
-          "pubDate": "2026-11-27T15:27:07.000Z",
+          "title": "태양광 패널, 새 배설물로 성능 최대 11.4% 저하…빗물 세척에도 한계",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217832",
+          "pubDate": "2026-11-28T09:15:00.000Z",
           "image": null,
-          "summary": "일론 머스크 CEO의 뇌-컴퓨터 인터페이스(BCI) 기업 뉴럴링크가 미국 식품의약국(FDA)으로부터 뇌 임플란트의 핵심 임상시험 개시를 승인받았다. 초기 기술 검증을 넘어 정식 판매 허가에 필요한 안전성과 유효성을 입증하는 단계에 진입했다.뉴럴링크는 25일(현지시간) 공식 홈페이지를 통해 FDA가 '링크(LINK)' 핵심 임상시험(pivotal trial) 개시를 승인했다고 밝혔다. 미국에서 이식형 BCI 기기의 핵심 임상시험이 승인된 것은 이번이 처음이라고 설명했다.이번 시험은 근위축성 측삭경화증(ALS·루게릭병)으로 심각한 마비",
+          "summary": "새 배설물이 주요 오염원인 태양광 패널의 성능이 오염으로 최대 11.4% 저하됐다는 연구 결과가 나왔다. 1년간의 현장 실험에서 오염으로 인한 성능 손실은 평균 5.9%였으며, 비가 내렸을 때도 누적된 오염 손실은 평균 26%만 줄어들었다.이탈리아 로마 사피엔자대와 크로아티아 스플리트대 공동연구팀은 이 같은 연구 결과를 지난 17일(현지시간) 국제학술지 '솔라 에너지(Solar Energy)'에 공개했다.연구팀은 2024년 7월부터 2025년 7월까지 1년간 크로아티아 스플리트대 캠퍼스에 410W급 단결정 실리콘 태양광 모듈 2장을",
           "keywords": [
-            "뉴럴링크",
-            "최초",
-            "BCI",
-            "핵심",
-            "임상시험"
+            "태양광",
+            "패널",
+            "배설물로",
+            "성능",
+            "최대"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "무디스 \"젠슨 황 복귀로 엔비디아 불확실성 완화\"…신용등급 유지",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217878",
-          "pubDate": "2026-11-27T15:21:45.000Z",
+          "title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217890",
+          "pubDate": "2026-11-28T09:11:38.000Z",
           "image": null,
-          "summary": "국제 신용평가사 무디스가 젠슨 황의 엔비디아 CEO 복귀로 경영 불확실성이 줄었다고 평가하며 기존 신용등급을 유지했다. 같은 날 S&P가 지배구조 문제를 이유로 신용등급 하향 검토에 나선 것과 차이를 보였다.로이터에 따르면 무디스는 25일(현지시간) 황 CEO의 복귀로 엔비디아의 경영진과 사업 전략에 관한 단기 불확실성이 줄고, 새로운 CEO 선임에 따른 사업 수행 위험도 사라졌다고 평가했다.그러나 지배구조와 규제 관련 위험은 여전히 남아 있다고 판단했다. 이에 따라 최고 등급보다 한 단계 낮은 신용등급 'Aa1'과 등급 전망 '안",
+          "summary": "중국 텐센트가 AI를 이용해 두 개의 치료 표적에 동시에 작용하는 새로운 약물 후보물질을 설계하는 데 성공했다. 동물 실험에서 기존 비만 치료제의 10분의 1 용량으로 더 큰 체중 감소 효과를 냈으며, 암 치료 후보물질은 대조군 대비 종양 부피를 94.2% 줄였다.텐센트는 26일(현지시간) 생명과학연구소가 주도하고 선전이공대학과 청두중의약대학 등이 참여한 공동 연구 결과가 네이처에 게재됐다고 발표했다. 텐센트가 주도한 연구가 네이처 본지에 실린 것은 이번이 처음이다.이번 연구의 핵심은 하나의 분자로 두 개의 치료 표적을 동시에 공략",
           "keywords": [
-            "무디스",
-            "젠슨",
-            "복귀로",
-            "엔비디아",
-            "불확실성"
+            "텐센트",
+            "AI로",
+            "비만",
+            "치료",
+            "후보물질"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217867",
-          "pubDate": "2026-11-27T15:20:00.000Z",
+          "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217888",
+          "pubDate": "2026-11-28T08:22:12.000Z",
           "image": null,
-          "summary": "구글이 AI 에이전트가 독자적으로 작성한 수학 논문 6편을 공개했다. 최근 오픈AI와 앤트로픽이 수학 난제 해결과 과학적 발견 능력을 앞세워 경쟁을 벌이는 가운데, 구글도 범용 AI를 활용한 연구 성과를 잇달아 내놓고 있다.구글 리서치는 25일(현지시간) 깃허브를 통해 '제미나이 4' 기반의 수학 연구 에이전트 시스템인 '코젠틱(Cogentic)'이 작성한 논문 6편을 공개했다. 지난달 30일부터 공개한 논문까지 합하면 총 10편이다.이번 논문은 소인수분해와 이산로그, 게임이론, 그래프이론 등 다양한 분야를 다루며, 전체 분량은 2",
+          "summary": "미국 공군과 재무부, 영국 정부 부처 등 서방 주요 기관에서 사이버 공격과 시스템 장애가 잇따르고 있다. AI의 소프트웨어 취약점 발견 능력이 급격하게 발전하면서 공격자와 방어자의 보안 경쟁이 치열해지고, 노후한 디지털 인프라가 이를 감당할 수 있을지에 대한 의문도 커지고 있다.파이낸셜타임스(FT)는 27일(현지시간) 최근 한달간 미국과 유럽에서 발생한 대규모 사이버 공격과 네트워크 장애로 국가 주요 기반 시설의 취약성이 드러나고 있다고 보도했다.연간 3300억파운드(약 578조원) 규모의 영국 복지 시스템을 운영하는 노동연금부(D",
           "keywords": [
-            "구글도",
-            "AI",
-            "수학",
-            "연구",
-            "경쟁"
+            "미국",
+            "유럽",
+            "잇단",
+            "사이버",
+            "공격"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217882",
-          "pubDate": "2026-11-27T15:17:09.000Z",
+          "title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217855",
+          "pubDate": "2026-11-28T07:00:00.000Z",
           "image": null,
-          "summary": "올해 10월까지 접수된 개인정보 유출신고가 1019건으로 지난해 전체(447건)의 2배를 넘어선 것으로 나타났다.개인정보보호위원회는 27일 AI 기반 해킹 확산에 맞선 긴급대응 및 점검지원 체계를 가동한다고 밝혔다.개인정보위는 AI를 활용한 해킹이 공격 과정을 자동화·고도화해 기존보다 빠르게 대규모 공격을 가능하게 한다고 진단했다. 시간과 비용이 적게 들고 비전문가도 시도할 수 있어 진입장벽이 낮아졌다는 설명이다.신고자료 분석 결과 민간 748건, 공공 271건이 접수됐다. 민간은 접근통제·공개설정 미흡, API·파라미터 변조 등",
+          "summary": "16세 고등학생이 AI를 활용해 100개 이상의 수학 추측을 해결했다고 주장해 화제입니다. AI의 발전으로 전문 연구자가 아닌 사람도 수학이나 과학 난제에 도전할 수 있게 됐지만, 쏟아지는 연구 결과를 어떻게 검증할지가 새로운 문제로 떠오르고 있습니다.미국의 수학·과학 영재교육 고등학교에 재학 중인 16세 시나 데이비스는 24일(현지시간) X를 통해 올해 제기된 수학 문제인 '카이올로-페로니-호스터 추측'의 반례를 발견했다고 밝혔습니다. 이 게시물은 조회수 600만회를 기록했습니다.그는 오픈AI의 개인용 AI 에이전트 '닷츠(Dot",
           "keywords": [
-            "AI",
-            "기반",
-            "해킹",
-            "확산에",
-            "올해"
+            "11월27일",
+            "16세",
+            "고등학생도",
+            "AI로",
+            "수학"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:16.729Z",
+      "fetchedAt": "2026-11-28T01:07:24.311Z",
       "error": null
     },
     "https://openai.com/news/rss.xml": {
@@ -360,7 +360,7 @@
           "summaryKo": "ChatGPT 및 Codex 통합은 Clay의 사용자가 거래를 조사하고 데이터를 시장 진출 전략으로 전환하는 데 도움이 되며, GPT-6 모델이 추론을 처리합니다."
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:16.887Z",
+      "fetchedAt": "2026-11-28T01:07:24.462Z",
       "error": null
     },
     "https://news.hada.io/rss/news": {
@@ -369,91 +369,88 @@
       "subcategory": "빅테크",
       "items": [
         {
-          "title": "Rust의 락 오염을 옹호하며 (2025)",
-          "link": "https://news.hada.io/topic?id=37962&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-27T17:04:23.000Z",
+          "title": "Jolt - C와 대화하는 Clojure",
+          "link": "https://news.hada.io/topic?id=37979&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-28T00:30:02.000Z",
           "image": null,
-          "summary": "락 오염(lock poisoning) 은 임계 구역에서 패닉이 발생한 뒤, 불변식이 깨졌을 수 있는 공유 데이터를 다른 스레드가 조용히 사용하는 일을 막는 탐지 장치임 언와인드 시 자식 스레드의 패닉은 프로그램 전체를 종료하지 않으며, join 결과 등을 처리하지 않으면 놓치기 쉬움. 이때 오염 상태가 임계 구역 실패의 유일한 신호일 수 있음 모든 패닉이 데이터를 손상시키지는 않지만, 코드 변경에도 언와인드 안전성을 유지하기는 어려움. 오염 탐지로 인한 가용성 저하보다 미탐지 데이터 손상의 피해 범위가 훨씬 클 수 있음 범용 Pois …",
+          "summary": "JVM 없이 Clojure를 실행하고, C 라이브러리를 Clojure 함수처럼 직접 불러 쓰는 언어 구현체 SQLite, PostgreSQL, OpenSSL 등 기존 C 라이브러리와 연결해 데이터베이스와 네트워크 기능을 활용 jolt build로 앱과 런타임, 의존성을 실행 파일 하나에 묶어 배포. 실행할 컴퓨터에 JVM이나 Chez Scheme을 따로 설치할 필요가 없음 Clojure 코드를 Scheme으로 변환해 컴파일하며, Chez 기반 네이티브 실행과 Gambit 기반 JavaScript 출력을 지원 불변 자료구조, 지연 시퀀스, 매크로, 멀티메서드 등 Clojure의 핵심 기능을 유지하고, OS 스 …",
           "keywords": [
-            "Rust의",
-            "오염을",
-            "옹호하며",
-            "(2025)"
+            "Jolt",
+            "C와",
+            "대화하는",
+            "Clojure"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "미 공군 클라우드 컴퓨팅 플랫폼 해킹당해",
-          "link": "https://news.hada.io/topic?id=37961&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-27T16:31:45.000Z",
+          "title": "모두가 모든 것을 만들고 있다",
+          "link": "https://news.hada.io/topic?id=37978&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-28T00:10:02.000Z",
           "image": null,
-          "summary": "미 공군 클라우드 컴퓨팅 플랫폼 해킹당해",
+          "summary": "개발 도구 업체들이 기존 제품을 버리는 피벗 대신, 다른 제품군으로의 확장을 병행하고 있음 인증을 제공하던 WorkOS는 사내 앱 플랫폼을, 빌드에 집중하던 Depot은 Git 호스팅을 출시함. 이슈 추적 도구 Linear는 AI 코딩과 코드 리뷰로, 터미널 Warp는 에이전트 호스팅으로 확장함 AI로 기능을 만들기 쉬워졌지만, 제품마다 지원, 온콜, 보안, SLA, 규제 준수 부담과 시장 진출 지원이 추가됨 새 제품을 출시한 뒤에는 고객이 실제로 쓰게 만드는 일이 더 어려움. Vercel이 CI를 추가할 수 있었던 건, 기존 고객이 이미 Vercel에서 앱 …",
           "keywords": [
-            "공군",
-            "클라우드",
-            "컴퓨팅",
-            "플랫폼",
-            "해킹당해"
+            "모두가",
+            "모든",
+            "것을",
+            "만들고"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Discrete Logarithm 문제를 위한 결정론적 준지수 시간 알고리즘 [pdf]",
-          "link": "https://news.hada.io/topic?id=37960&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-27T15:37:21.000Z",
+          "title": "머신러닝의 불확실성 입문",
+          "link": "https://news.hada.io/topic?id=37976&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-27T23:46:25.000Z",
           "image": null,
-          "summary": "Discrete Logarithm 문제를 위한 결정론적 준지수 시간 알고리즘 [pdf]",
+          "summary": "모델은 의도했든 아니든 불확실성에 관한 가정을 내포하며, 데이터가 부족한 영역에서는 그 가정이 예측을 결정함 인식적 불확실성은 아직 배우지 못한 것에서, 우연적 불확실성은 입력으로 관측하지 못하는 정보에서 발생함. 어떤 정보를 입력에 담는지에 따라 둘의 경계도 달라짐 평균제곱오차로 학습한 단일 가우시안 모델은 좌회전과 우회전이 모두 가능한 갈림길에서 평균인 직진을 예측할 수 있음. 실제 분포를 표현할 수 없는 모델은 데이터만 늘려서는 고칠 수 없음 베이지안 추론은 모델 내부 가설들의 불확실성을 포착하지만 모 …",
           "keywords": [
-            "Discrete",
-            "Logarithm",
-            "문제를",
-            "위한",
-            "결정론적"
+            "머신러닝의",
+            "불확실성",
+            "입문"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "유럽연합 집행위원회, 브라우저 경쟁을 디지털시장법의 우선순위로 선언",
-          "link": "https://news.hada.io/topic?id=37959&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-27T15:34:21.000Z",
+          "title": "컴퓨터 검증을 통과한 거짓 증명",
+          "link": "https://news.hada.io/topic?id=37975&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-27T23:43:25.000Z",
           "image": null,
-          "summary": "유럽연합 집행위원회는 공개서한에 대한 답변에서 브라우저 경쟁이 디지털시장법(DMA)의 우선순위 중 하나이며, 경쟁 브라우저가 iPhone과 iPad에서 Safari와 실질적으로 경쟁할 수 있도록 협의 중이라고 밝힘 브라우저는 웹으로 들어가는 관문이자 언론사가 독자에게 도달하는 주요 경로라는 점을 집행위원회가 인정함 공개서한에는 인권/소비자단체, 유럽 언론단체, 스타트업 조직부터 브라우저 개발사와 기술 기업까지 참여해 브라우저와 웹 앱 경쟁을 지지함 OWA에 따르면 Apple의 의무가 발효된 지 2년 반 이상 지났지만, 기존 EU 사 …",
+          "summary": "증명의 모든 단계를 검사한다는 프로그램에서도 건전성 버그(soundness bug) 가 보고됐으며, 거짓 명제를 통과시키는 데 실제로 악용할 수 있음이 입증된 사례도 많음 신뢰 컴퓨팅 기반(TCB)의 복잡성 최소화가 보안의 기본 접근법이지만, 검증 커널이 작다는 사실만으로 코드 검토의 충실도나 기반 프로그래밍 언어의 무결성을 보장하지는 못함 여러 검증기로 같은 증명을 검사하면 한 프로그램의 버그를 보완할 수 있지만, 검증기들이 같은 버그를 공유하는 경우도 있어 공격 방어 효과는 불확실함 HOL Light 복제 구현인 Candle은 CPU …",
           "keywords": [
-            "유럽연합",
-            "집행위원회",
-            "브라우저",
-            "경쟁을",
-            "디지털시장법의"
+            "컴퓨터",
+            "검증을",
+            "통과한",
+            "거짓",
+            "증명"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         },
         {
-          "title": "Claude가 최첨단(SOTA) ML 연구 작업을 방해한다는 주장",
-          "link": "https://news.hada.io/topic?id=37957&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-          "pubDate": "2026-11-27T13:31:56.000Z",
+          "title": "미국 주정부들, Grok의 아동 성적 이미지와 리벤지 포르노 생성 막기 위해 SpaceX 제소",
+          "link": "https://news.hada.io/topic?id=37974&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+          "pubDate": "2026-11-27T23:40:25.000Z",
           "image": null,
-          "summary": "Astropulse는 Claude가 ML 연구를 방해한다는 게시물에 회의적이었으나, 자신의 작업에서 직접 시험한 뒤 사실이라고 확신하게 됐다고 밝힘 시험 결과는 Claude 모델과 Gemini Neon 모델을 비교한 것임 왼쪽 결과는 Claude 모델의 24,000스텝 시점임 오른쪽 결과는 Gemini Neon 모델의 4,000스텝 시점임 후속 스레드의 상세 분석을 예고했지만, 제공된 본문에는 실험 조건이나 평가 지표가 없어 방해 여부를 검증할 근거가 부족함",
+          "summary": "버지니아주와 오리건주 법무장관이 SpaceX를 상대로 각각 소송을 제기함. Grok의 비동의 성적 이미지 생성을 방치하면서도 X와 AI 도구의 안전성을 허위로 홍보했다는 혐의임 소송에 따르면 Grok은 기존 사진 한 장만으로 당사자의 인지나 동의 없이 사실적인 나체 또는 성행위 이미지와 영상을 생성할 수 있었으며, 실제로 이를 생성함 두 법무장관은 회사가 업계 표준 안전장치를 무시하고 성적 이미지 생성을 허용하는 ‘spicy mode’를 홍보했으며, X와의 통합으로 해당 이미지가 광범위하게 생성되고 유통됐다고 비판함 CCDH 연구 추 …",
           "keywords": [
-            "Claude가",
-            "최첨단(SOTA)",
-            "ML",
-            "연구",
-            "작업을"
+            "미국",
+            "주정부들",
+            "Grok의",
+            "아동",
+            "성적"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:17.730Z",
+      "fetchedAt": "2026-11-28T01:07:25.348Z",
       "error": null
     },
     "https://www.tubefilter.com/feed/": {
@@ -536,7 +533,7 @@
           "summaryKo": "글로벌 Top 50에서 새로운 1위 채널이 등장했습니다. Fitu K Kitu는 주간 조회수 11억 9천만 건을 기록했으며, 이는 채널의 전체 트래픽의 거의 3분의 2에 해당하는 수치입니다. 정말 화끈한 출발이네요! T-Series와 MrBeast와 같은 차트 단골들도 Fitu K Kitu의 인기를 따라잡지 못했습니다. 순위의 다른 곳에서는 MrBeast의 한때 협업자인 크리에이터가 단독으로 큰 반향을 일으키고 있습니다. 라틴 아메리카에서 가장 영향력 있는 크리에이터 중 한 명이 공포의 계절을 활용하면서 문화적 요소를 결합했습니다."
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:17.874Z",
+      "fetchedAt": "2026-11-28T01:07:25.481Z",
       "error": null
     },
     "https://blog.google/products/adsense/rss/": {
@@ -610,7 +607,7 @@
           "summaryKo": "콘텐츠 관련 검색은 사이트 방문자가 보고 있는 페이지와 관련된 검색어를 표시하는 새로운 탐색 단위입니다."
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:18.062Z",
+      "fetchedAt": "2026-11-28T01:07:25.628Z",
       "error": null
     },
     "https://blog.google/innovation-and-ai/technology/ads/rss/": {
@@ -691,7 +688,7 @@
           "summaryKo": "Demand Gen에 새로운 기능이 추가되어 YouTube와 Google의 비주얼 표면에서 수요를 창출하고 전환할 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:18.125Z",
+      "fetchedAt": "2026-11-28T01:07:25.702Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/news": {
@@ -699,6 +696,24 @@
       "category": "창업·스타트업",
       "subcategory": "국내 스타트업",
       "items": [
+        {
+          "title": "허슬러즈, ‘산리오캐릭터즈 드림 트래블’ 대규모 업데이트",
+          "link": "https://www.venturesquare.net/1132291/",
+          "pubDate": "2026-11-28T00:51:12.000Z",
+          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/dream-789x443.png",
+          "summary": "허슬러즈가 산리오 캐릭터와 꿈속 여행을 떠나는 수면 관리 앱 '산리오캐릭터즈 드림 트래블'의 첫 대규모 업데이트를 27일 앱스토어와 구글 플레이에 배포했다. 캐릭터가 사용자의 하루를 묻는 문답 투어로 재료를 모으고, 잠들기 전 조합한 재료가 아침에 새 코스튬으로 완성되... The post 허슬러즈, ‘산리오캐릭터즈 드림 트래블’ 대규모 업데이트 appeared first on 벤처스퀘어.",
+          "keywords": [
+            "뉴스 모음",
+            "뉴스&트렌드",
+            "뉴스콘텐츠",
+            "게임형수면앱",
+            "드림트래블",
+            "문답투어"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "청연, 20만 매니저 기반 가사·돌봄 서비스 혁신…중소벤처기업부 장관상 수상",
           "link": "https://www.venturesquare.net/1132246/",
@@ -770,27 +785,9 @@
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
-        },
-        {
-          "title": "와디즈, 디자인 창작자의 첫 고객을 연결하다…서울디자인페스티벌 공식 파트너 참여",
-          "link": "https://www.venturesquare.net/1132217/",
-          "pubDate": "2026-11-27T05:37:54.000Z",
-          "image": "https://www.venturesquare.net/wp-content/uploads/2026/11/wadiz-13-789x513.jpg",
-          "summary": "와디즈가 제25회 서울디자인페스티벌에 공식 파트너로 참여해 신진 디자이너와 크리에이터의 제품 사업화를 지원한다. 최근 1년간 와디즈에서 종료된 디자인·아트 프로젝트 356건 가운데 첫 펀딩 프로젝트는 174건으로 전년 동기 대비 41% 증가했다. 와디즈는 현장 1:1 ... The post 와디즈, 디자인 창작자의 첫 고객을 연결하다…서울디자인페스티벌 공식 파트너 참여 appeared first on 벤처스퀘어.",
-          "keywords": [
-            "뉴스 모음",
-            "뉴스&트렌드",
-            "뉴스콘텐츠",
-            "IP굿즈",
-            "wadiz",
-            "디자인상품"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:20.387Z",
+      "fetchedAt": "2026-11-28T01:07:28.507Z",
       "error": null
     },
     "https://platum.kr/feed": {
@@ -877,7 +874,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:20.627Z",
+      "fetchedAt": "2026-11-28T01:07:28.772Z",
       "error": null
     },
     "https://techcrunch.com/category/startups/feed/": {
@@ -974,7 +971,7 @@
           "summaryKo": "Figma와 CEO가 현재 직원으로부터 성희롱 및 차별 혐의로 소송을 당하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:20.715Z",
+      "fetchedAt": "2026-11-28T01:07:28.805Z",
       "error": null
     },
     "https://www.venturesquare.net/rss/startup-guide": {
@@ -1073,7 +1070,7 @@
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:21.847Z",
+      "fetchedAt": "2026-11-28T01:07:30.033Z",
       "error": null
     },
     "https://news.google.com/rss/search?q=%22지원사업%22+공고+OR+모집&hl=ko&gl=KR&ceid=KR:ko": {
@@ -1081,6 +1078,23 @@
       "category": "정부지원·정책",
       "subcategory": "지원사업",
       "items": [
+        {
+          "title": "제주시, 2027년 노인일자리 참여자 모집...1만 1997명 선발 - 헤드라인제주",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNjhRSnFlTC1oV3BGWEFXNjhWMjR1YnhjU1QzR3B2RUpoOHZIOG9BbVFBUXhwc2wybXpBT05TX19oUUtQOUMzQnkzSzE2OWdJUURuaTJ6OHBTR3U2bEtPNkc0czJhXzI5U0w3TVBqcHFrb1E?oc=5",
+          "pubDate": "2026-11-28T00:00:00.000Z",
+          "image": null,
+          "summary": "제주시, 2027년 노인일자리 참여자 모집...1만 1997명 선발 헤드라인제주",
+          "keywords": [
+            "제주시",
+            "2027년",
+            "노인일자리",
+            "참여자",
+            "모집"
+          ],
+          "isForeign": false,
+          "titleKo": null,
+          "summaryKo": null
+        },
         {
           "title": "제주시, 내년 노인일자리 지원사업 참여자 모집 - 연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVFdSMkQ3NVpObWpJUE0wbjBhZ2RTa3dYTlBOZjR4ODEtVjJpbHJsSHZPeTR0anRlMGRtX3ZWWUVKaDMxRWE5aWJtVlRWMDFfLXJ5cklPdDRGTjjSAWBBVV95cUxOdy11UXA5TDUyYi1kVTRnaHVvS2t3dGlhWnVrVFJ0RVh0NXF3VXBCQktmWEhkdVVTWVZpUGtIZlBQNEtWbElYV1lvTU9iMXJmN1QzRGpQdk5CaFg3aW5RT04?oc=5",
@@ -1116,23 +1130,6 @@
           "summaryKo": null
         },
         {
-          "title": "제주시, 2027년 노인일자리 지원사업 참여자 모집 - 지금제주",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yOW5TVUp0TVZpcmhGM01QLXlrcVd3UXBCMmVHaFNPRE1qVUYwbVEyZU43ZE94bUVYNlp3Y0VJcVJIMDB6NkllaFVndENlTmpfVEJ6X0JjczFBamZQUk55NHJmdW0xUFAzSi10Wnd3?oc=5",
-          "pubDate": "2026-11-27T12:26:47.000Z",
-          "image": null,
-          "summary": "제주시, 2027년 노인일자리 지원사업 참여자 모집 지금제주",
-          "keywords": [
-            "제주시",
-            "2027년",
-            "노인일자리",
-            "지원사업",
-            "참여자"
-          ],
-          "isForeign": false,
-          "titleKo": null,
-          "summaryKo": null
-        },
-        {
           "title": "강서구, ‘2027년 어르신일자리 및 사회활동 지원사업’ 참여자 6,163명 모집 - 뉴스21 통신",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9salphaHRYRjJDNnJPZEI1c2VUUzdrVzU4RzRFQnVvZUFacFZOc2pQMF9ZRlMyWlNUdFF4VjhELXYtOUJwZ2FtLVA5VkNHbU1tUE5mM0Jn?oc=5",
           "pubDate": "2026-11-27T08:29:50.000Z",
@@ -1150,24 +1147,24 @@
           "summaryKo": null
         },
         {
-          "title": "2027년 스마트공장 구축지원사업 참여기업 모집 - 헬로티",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGa3U3VEhHY19Fd0NzRUdFT1YyaktnMUtnd2k4ei1EMS1EcjZzSWdXbjFKNElJbzZPbkpGN1NmcHlvODJmMHFLd04tMkplVW1hZEcxZ0NPdnA0M1dmbXNn?oc=5",
-          "pubDate": "2026-11-24T01:20:31.000Z",
+          "title": "제주시, 2027년 노인일자리 지원사업 참여자 모집 - 지금제주",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yOW5TVUp0TVZpcmhGM01QLXlrcVd3UXBCMmVHaFNPRE1qVUYwbVEyZU43ZE94bUVYNlp3Y0VJcVJIMDB6NkllaFVndENlTmpfVEJ6X0JjczFBamZQUk55NHJmdW0xUFAzSi10Wnd3?oc=5",
+          "pubDate": "2026-11-27T12:26:47.000Z",
           "image": null,
-          "summary": "2027년 스마트공장 구축지원사업 참여기업 모집 헬로티",
+          "summary": "제주시, 2027년 노인일자리 지원사업 참여자 모집 지금제주",
           "keywords": [
+            "제주시",
             "2027년",
-            "스마트공장",
-            "구축지원사업",
-            "참여기업",
-            "모집"
+            "노인일자리",
+            "지원사업",
+            "참여자"
           ],
           "isForeign": false,
           "titleKo": null,
           "summaryKo": null
         }
       ],
-      "fetchedAt": "2026-11-27T17:51:22.352Z",
+      "fetchedAt": "2026-11-28T01:07:30.420Z",
       "error": null
     }
   },
@@ -1187,8 +1184,8 @@
       "change": "same"
     },
     {
-      "key": "연구",
-      "label": "연구",
+      "key": "미국",
+      "label": "미국",
       "count": 2,
       "rank": 3,
       "change": "new"
@@ -1226,18 +1223,18 @@
       "label": "2027년",
       "count": 4,
       "rank": 8,
-      "change": "new"
-    },
-    {
-      "key": "ai",
-      "label": "AI",
-      "count": 3,
-      "rank": 9,
       "change": "same"
     },
     {
-      "key": "지원사업",
-      "label": "지원사업",
+      "key": "노인일자리",
+      "label": "노인일자리",
+      "count": 3,
+      "rank": 9,
+      "change": "new"
+    },
+    {
+      "key": "제주시",
+      "label": "제주시",
       "count": 3,
       "rank": 10,
       "change": "new"
